@@ -13,6 +13,8 @@ from zoneinfo import ZoneInfo
 
 from psycopg.rows import dict_row
 
+from app.core import config
+from app.core.auth import generate_session_token, hash_password, hash_session_token, normalize_username, validate_username, verify_password
 from app.core.cache import get_cache
 from app.core.db import get_db
 from app.services.alerting import notify_external_alert
@@ -39,6 +41,7 @@ CLUE_FEEDBACK_REASON_TAGS = {
     "not_fair",
 }
 DISPLAY_NAME_ALLOWED_RE = re.compile(r"[^A-Za-z0-9 _-]")
+PUBLIC_SLUG_RE = re.compile(r"[^a-z0-9]+")
 CHALLENGE_CODE_ALPHABET = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789"
 
 
@@ -111,6 +114,61 @@ def _normalize_display_name(value: str | None, *, player_token: str) -> str:
     if not candidate:
         candidate = _fallback_display_name(player_token)
     return candidate[:40]
+
+
+def _generate_player_token() -> str:
+    return f"plr_{uuid4().hex[:24]}"
+
+
+def _slugify_public_name(value: str, *, player_token: str) -> str:
+    base = PUBLIC_SLUG_RE.sub("-", value.strip().lower()).strip("-")
+    if not base:
+        base = PUBLIC_SLUG_RE.sub("-", _fallback_display_name(player_token).lower()).strip("-")
+    return base[:80].strip("-") or f"player-{player_token[-6:].lower()}"
+
+
+def _unique_public_slug(cur: Any, *, display_name: str, player_token: str, exclude_player_token: str | None = None) -> str:
+    base = _slugify_public_name(display_name, player_token=player_token)
+    candidate = base
+    suffix = 2
+    while True:
+        if exclude_player_token is None:
+            cur.execute(
+                "SELECT 1 FROM player_profiles WHERE public_slug = %(public_slug)s LIMIT 1",
+                {"public_slug": candidate},
+            )
+        else:
+            cur.execute(
+                "SELECT 1 FROM player_profiles WHERE public_slug = %(public_slug)s "
+                "AND player_token <> %(exclude_player_token)s "
+                "LIMIT 1",
+                {
+                    "public_slug": candidate,
+                    "exclude_player_token": exclude_player_token,
+                },
+            )
+        if cur.fetchone() is None:
+            return candidate
+        candidate = f"{base[: max(1, 80 - len(str(suffix)) - 1)]}-{suffix}"
+        suffix += 1
+
+
+def _player_profile_payload(row: dict[str, Any] | None, *, player_token: str) -> dict[str, Any]:
+    default_name = _normalize_display_name(None, player_token=player_token)
+    public_slug = ""
+    if row:
+        public_slug = str(row.get("public_slug") or "").strip()
+    if not public_slug:
+        public_slug = _slugify_public_name(default_name, player_token=player_token)
+    return {
+        "playerToken": player_token,
+        "displayName": _normalize_display_name((row or {}).get("display_name"), player_token=player_token),
+        "publicSlug": public_slug,
+        "leaderboardVisible": bool((row or {}).get("leaderboard_visible", True)),
+        "hasAccount": bool((row or {}).get("username")),
+        "createdAt": row["created_at"].isoformat() if row and row.get("created_at") else None,
+        "updatedAt": row["updated_at"].isoformat() if row and row.get("updated_at") else None,
+    }
 
 
 def _parse_cursor_offset(cursor: str | None) -> int:
@@ -1828,38 +1886,36 @@ def get_or_create_player_profile(*, player_token: str) -> dict[str, Any]:
     with get_db() as conn:
         with conn.cursor(row_factory=dict_row) as cur:
             cur.execute(
-                "INSERT INTO player_profiles (player_token, display_name, leaderboard_visible) "
-                "VALUES (%(player_token)s, %(display_name)s, true) "
-                "ON CONFLICT (player_token) DO NOTHING",
-                {
-                    "player_token": token,
-                    "display_name": default_name,
-                },
-            )
-            cur.execute(
-                "SELECT player_token, display_name, leaderboard_visible, created_at, updated_at "
-                "FROM player_profiles "
-                "WHERE player_token = %(player_token)s "
-                "LIMIT 1",
+                "SELECT player_token, display_name, public_slug, leaderboard_visible, created_at, updated_at "
+                "FROM player_profiles WHERE player_token = %(player_token)s LIMIT 1",
                 {"player_token": token},
             )
             row = cur.fetchone()
+            if row is None:
+                public_slug = _unique_public_slug(cur, display_name=default_name, player_token=token)
+                cur.execute(
+                    "INSERT INTO player_profiles (player_token, display_name, public_slug, leaderboard_visible) "
+                    "VALUES (%(player_token)s, %(display_name)s, %(public_slug)s, true) "
+                    "RETURNING player_token, display_name, public_slug, leaderboard_visible, created_at, updated_at",
+                    {
+                        "player_token": token,
+                        "display_name": default_name,
+                        "public_slug": public_slug,
+                    },
+                )
+                row = cur.fetchone()
+            cur.execute(
+                "SELECT username FROM player_accounts WHERE player_token = %(player_token)s LIMIT 1",
+                {
+                    "player_token": token,
+                },
+            )
+            account_row = cur.fetchone()
         conn.commit()
-    if not row:
-        return {
-            "playerToken": token,
-            "displayName": default_name,
-            "leaderboardVisible": True,
-            "createdAt": None,
-            "updatedAt": None,
-        }
-    return {
-        "playerToken": row["player_token"],
-        "displayName": _normalize_display_name(row.get("display_name"), player_token=token),
-        "leaderboardVisible": bool(row.get("leaderboard_visible", True)),
-        "createdAt": row["created_at"].isoformat() if row.get("created_at") else None,
-        "updatedAt": row["updated_at"].isoformat() if row.get("updated_at") else None,
-    }
+    merged_row = dict(row or {})
+    if account_row:
+        merged_row["username"] = account_row.get("username")
+    return _player_profile_payload(merged_row, player_token=token)
 
 
 def update_player_profile(
@@ -1878,11 +1934,12 @@ def update_player_profile(
     next_visible = bool(leaderboard_visible) if leaderboard_visible is not None else bool(current["leaderboardVisible"])
     with get_db() as conn:
         with conn.cursor(row_factory=dict_row) as cur:
+            public_slug = current["publicSlug"]
             cur.execute(
                 "UPDATE player_profiles "
                 "SET display_name = %(display_name)s, leaderboard_visible = %(leaderboard_visible)s, updated_at = NOW() "
                 "WHERE player_token = %(player_token)s "
-                "RETURNING player_token, display_name, leaderboard_visible, created_at, updated_at",
+                "RETURNING player_token, display_name, public_slug, leaderboard_visible, created_at, updated_at",
                 {
                     "display_name": next_display_name,
                     "leaderboard_visible": next_visible,
@@ -1890,16 +1947,403 @@ def update_player_profile(
                 },
             )
             row = cur.fetchone()
+            cur.execute(
+                "SELECT username FROM player_accounts WHERE player_token = %(player_token)s LIMIT 1",
+                {"player_token": token},
+            )
+            account_row = cur.fetchone()
         conn.commit()
     if not row:
         return current
+    merged_row = dict(row)
+    if not merged_row.get("public_slug"):
+        merged_row["public_slug"] = public_slug
+    if account_row:
+        merged_row["username"] = account_row.get("username")
+    return _player_profile_payload(merged_row, player_token=token)
+
+
+def _utcnow() -> datetime:
+    return datetime.now(ZoneInfo("UTC"))
+
+
+def _session_expires_at(now: datetime | None = None) -> datetime:
+    base = now or _utcnow()
+    return base + timedelta(days=max(1, config.AUTH_SESSION_DURATION_DAYS))
+
+
+def _create_auth_session(
+    cur: Any,
+    *,
+    player_token: str,
+    user_agent: str | None,
+    ip_address: str | None,
+) -> str:
+    raw_token = generate_session_token()
+    now = _utcnow()
+    cur.execute(
+        "INSERT INTO player_auth_sessions ("
+        "player_token, session_token_hash, expires_at, user_agent, ip_address, last_seen_at"
+        ") VALUES ("
+        "%(player_token)s, %(session_token_hash)s, %(expires_at)s, %(user_agent)s, %(ip_address)s, %(last_seen_at)s"
+        ")",
+        {
+            "player_token": player_token,
+            "session_token_hash": hash_session_token(raw_token),
+            "expires_at": _session_expires_at(now),
+            "user_agent": user_agent,
+            "ip_address": ip_address,
+            "last_seen_at": now,
+        },
+    )
+    return raw_token
+
+
+def _profile_exists_without_account(cur: Any, player_token: str) -> bool:
+    cur.execute(
+        "SELECT 1 "
+        "FROM player_profiles p "
+        "LEFT JOIN player_accounts a ON a.player_token = p.player_token "
+        "WHERE p.player_token = %(player_token)s AND a.player_token IS NULL "
+        "LIMIT 1",
+        {"player_token": player_token},
+    )
+    return cur.fetchone() is not None
+
+
+def _merge_guest_player_data(cur: Any, *, source_player_token: str, target_player_token: str) -> None:
+    if not source_player_token or source_player_token == target_player_token:
+        return
+
+    cur.execute(
+        "SELECT 1 FROM player_accounts WHERE player_token = %(player_token)s LIMIT 1",
+        {"player_token": source_player_token},
+    )
+    if cur.fetchone() is not None:
+        return
+
+    cur.execute(
+        "SELECT display_name, leaderboard_visible FROM player_profiles WHERE player_token = %(player_token)s LIMIT 1",
+        {"player_token": source_player_token},
+    )
+    source_profile = cur.fetchone()
+    if source_profile is None:
+        return
+
+    cur.execute(
+        "SELECT display_name, leaderboard_visible FROM player_profiles WHERE player_token = %(player_token)s LIMIT 1",
+        {"player_token": target_player_token},
+    )
+    target_profile = cur.fetchone() or {}
+
+    cur.execute(
+        "INSERT INTO player_progress (player_token, progress_key, game_type, puzzle_id, progress, client_updated_at) "
+        "SELECT %(target_player_token)s, progress_key, game_type, puzzle_id, progress, client_updated_at "
+        "FROM player_progress WHERE player_token = %(source_player_token)s "
+        "ON CONFLICT (player_token, progress_key) DO UPDATE SET "
+        "  game_type = COALESCE(EXCLUDED.game_type, player_progress.game_type), "
+        "  puzzle_id = COALESCE(EXCLUDED.puzzle_id, player_progress.puzzle_id), "
+        "  progress = CASE "
+        "    WHEN player_progress.client_updated_at IS NULL THEN EXCLUDED.progress "
+        "    WHEN EXCLUDED.client_updated_at IS NULL THEN EXCLUDED.progress "
+        "    WHEN EXCLUDED.client_updated_at >= player_progress.client_updated_at THEN EXCLUDED.progress "
+        "    ELSE player_progress.progress "
+        "  END, "
+        "  client_updated_at = CASE "
+        "    WHEN player_progress.client_updated_at IS NULL THEN EXCLUDED.client_updated_at "
+        "    WHEN EXCLUDED.client_updated_at IS NULL THEN player_progress.client_updated_at "
+        "    WHEN EXCLUDED.client_updated_at >= player_progress.client_updated_at THEN EXCLUDED.client_updated_at "
+        "    ELSE player_progress.client_updated_at "
+        "  END, "
+        "  updated_at = NOW()",
+        {
+            "source_player_token": source_player_token,
+            "target_player_token": target_player_token,
+        },
+    )
+    cur.execute("DELETE FROM player_progress WHERE player_token = %(player_token)s", {"player_token": source_player_token})
+
+    cur.execute(
+        "INSERT INTO leaderboard_submissions ("
+        "player_token, game_type, puzzle_id, puzzle_date, completed, solve_time_ms, used_assists, used_reveals, session_id"
+        ") "
+        "SELECT %(target_player_token)s, game_type, puzzle_id, puzzle_date, completed, solve_time_ms, used_assists, used_reveals, session_id "
+        "FROM leaderboard_submissions WHERE player_token = %(source_player_token)s "
+        "ON CONFLICT (player_token, puzzle_id) DO UPDATE SET "
+        "  game_type = EXCLUDED.game_type, "
+        "  puzzle_date = EXCLUDED.puzzle_date, "
+        "  completed = leaderboard_submissions.completed OR EXCLUDED.completed, "
+        "  solve_time_ms = CASE "
+        "    WHEN leaderboard_submissions.solve_time_ms IS NULL THEN EXCLUDED.solve_time_ms "
+        "    WHEN EXCLUDED.solve_time_ms IS NULL THEN leaderboard_submissions.solve_time_ms "
+        "    WHEN EXCLUDED.solve_time_ms < leaderboard_submissions.solve_time_ms THEN EXCLUDED.solve_time_ms "
+        "    ELSE leaderboard_submissions.solve_time_ms "
+        "  END, "
+        "  used_assists = leaderboard_submissions.used_assists OR EXCLUDED.used_assists, "
+        "  used_reveals = leaderboard_submissions.used_reveals OR EXCLUDED.used_reveals, "
+        "  session_id = COALESCE(EXCLUDED.session_id, leaderboard_submissions.session_id), "
+        "  updated_at = NOW()",
+        {
+            "source_player_token": source_player_token,
+            "target_player_token": target_player_token,
+        },
+    )
+    cur.execute(
+        "DELETE FROM leaderboard_submissions WHERE player_token = %(player_token)s",
+        {"player_token": source_player_token},
+    )
+
+    cur.execute(
+        "INSERT INTO challenge_members (challenge_id, player_token) "
+        "SELECT challenge_id, %(target_player_token)s "
+        "FROM challenge_members WHERE player_token = %(source_player_token)s "
+        "ON CONFLICT (challenge_id, player_token) DO NOTHING",
+        {
+            "source_player_token": source_player_token,
+            "target_player_token": target_player_token,
+        },
+    )
+    cur.execute("DELETE FROM challenge_members WHERE player_token = %(player_token)s", {"player_token": source_player_token})
+
+    cur.execute(
+        "UPDATE challenges SET created_by_token = %(target_player_token)s WHERE created_by_token = %(source_player_token)s",
+        {
+            "source_player_token": source_player_token,
+            "target_player_token": target_player_token,
+        },
+    )
+
+    source_display_name = _normalize_display_name(source_profile.get("display_name"), player_token=source_player_token)
+    target_display_name = _normalize_display_name(target_profile.get("display_name"), player_token=target_player_token)
+    next_display_name = target_display_name
+    if target_display_name == _fallback_display_name(target_player_token) and source_display_name != _fallback_display_name(
+        source_player_token
+    ):
+        next_display_name = source_display_name
+    next_visible = bool(target_profile.get("leaderboard_visible", True)) or bool(source_profile.get("leaderboard_visible", True))
+    cur.execute(
+        "UPDATE player_profiles "
+        "SET display_name = %(display_name)s, leaderboard_visible = %(leaderboard_visible)s, updated_at = NOW() "
+        "WHERE player_token = %(player_token)s",
+        {
+            "display_name": next_display_name,
+            "leaderboard_visible": next_visible,
+            "player_token": target_player_token,
+        },
+    )
+    cur.execute("DELETE FROM player_profiles WHERE player_token = %(player_token)s", {"player_token": source_player_token})
+
+
+def create_player_account(
+    *,
+    username: str,
+    password: str,
+    guest_player_token: str | None = None,
+    user_agent: str | None = None,
+    ip_address: str | None = None,
+) -> tuple[dict[str, Any], str]:
+    normalized_username = validate_username(username)
+    password_hash = hash_password(password)
+    guest_token = (guest_player_token or "").strip()
+
+    with get_db() as conn:
+        with conn.cursor(row_factory=dict_row) as cur:
+            cur.execute("SELECT 1 FROM player_accounts WHERE username = %(username)s LIMIT 1", {"username": normalized_username})
+            if cur.fetchone() is not None:
+                raise ValueError("Username already exists")
+
+            player_token = guest_token or _generate_player_token()
+            if guest_token:
+                cur.execute("SELECT 1 FROM player_accounts WHERE player_token = %(player_token)s LIMIT 1", {"player_token": guest_token})
+                if cur.fetchone() is not None:
+                    raise ValueError("Guest profile already claimed")
+                cur.execute(
+                    "SELECT player_token, display_name, public_slug, leaderboard_visible, created_at, updated_at "
+                    "FROM player_profiles WHERE player_token = %(player_token)s LIMIT 1",
+                    {"player_token": player_token},
+                )
+                profile_row = cur.fetchone()
+                if profile_row is None:
+                    default_name = _normalize_display_name(None, player_token=player_token)
+                    public_slug = _unique_public_slug(cur, display_name=default_name, player_token=player_token)
+                    cur.execute(
+                        "INSERT INTO player_profiles (player_token, display_name, public_slug, leaderboard_visible) "
+                        "VALUES (%(player_token)s, %(display_name)s, %(public_slug)s, true) "
+                        "RETURNING player_token, display_name, public_slug, leaderboard_visible, created_at, updated_at",
+                        {
+                            "player_token": player_token,
+                            "display_name": default_name,
+                            "public_slug": public_slug,
+                        },
+                    )
+                    profile_row = cur.fetchone()
+            else:
+                default_name = _normalize_display_name(None, player_token=player_token)
+                public_slug = _unique_public_slug(cur, display_name=default_name, player_token=player_token)
+                cur.execute(
+                    "INSERT INTO player_profiles (player_token, display_name, public_slug, leaderboard_visible) "
+                    "VALUES (%(player_token)s, %(display_name)s, %(public_slug)s, true) "
+                    "RETURNING player_token, display_name, public_slug, leaderboard_visible, created_at, updated_at",
+                    {
+                        "player_token": player_token,
+                        "display_name": default_name,
+                        "public_slug": public_slug,
+                    },
+                )
+                profile_row = cur.fetchone()
+
+            cur.execute(
+                "INSERT INTO player_accounts (player_token, username, password_hash, last_login_at) "
+                "VALUES (%(player_token)s, %(username)s, %(password_hash)s, NOW())",
+                {
+                    "player_token": player_token,
+                    "username": normalized_username,
+                    "password_hash": password_hash,
+                },
+            )
+            raw_session_token = _create_auth_session(
+                cur,
+                player_token=player_token,
+                user_agent=user_agent,
+                ip_address=ip_address,
+            )
+        conn.commit()
+
+    profile = _player_profile_payload({**dict(profile_row or {}), "username": normalized_username}, player_token=player_token)
+    return (
+        {
+            "authenticated": True,
+            "playerToken": player_token,
+            "username": normalized_username,
+            "profile": profile,
+            "mergedGuestToken": guest_token or None,
+        },
+        raw_session_token,
+    )
+
+
+def login_player_account(
+    *,
+    username: str,
+    password: str,
+    guest_player_token: str | None = None,
+    merge_guest_data: bool = True,
+    user_agent: str | None = None,
+    ip_address: str | None = None,
+) -> tuple[dict[str, Any], str]:
+    normalized_username = validate_username(username)
+    guest_token = (guest_player_token or "").strip()
+    merged_guest_token: str | None = None
+
+    with get_db() as conn:
+        with conn.cursor(row_factory=dict_row) as cur:
+            cur.execute(
+                "SELECT a.player_token, a.username, a.password_hash "
+                "FROM player_accounts a WHERE a.username = %(username)s LIMIT 1",
+                {"username": normalized_username},
+            )
+            account_row = cur.fetchone()
+            if account_row is None or not verify_password(str(account_row.get("password_hash") or ""), password):
+                raise ValueError("Invalid username or password")
+
+            player_token = str(account_row["player_token"])
+            if merge_guest_data and guest_token and guest_token != player_token and _profile_exists_without_account(cur, guest_token):
+                _merge_guest_player_data(cur, source_player_token=guest_token, target_player_token=player_token)
+                merged_guest_token = guest_token
+
+            cur.execute(
+                "UPDATE player_accounts SET last_login_at = NOW(), updated_at = NOW() WHERE player_token = %(player_token)s",
+                {"player_token": player_token},
+            )
+            raw_session_token = _create_auth_session(
+                cur,
+                player_token=player_token,
+                user_agent=user_agent,
+                ip_address=ip_address,
+            )
+        conn.commit()
+
+    profile = get_or_create_player_profile(player_token=player_token)
+    return (
+        {
+            "authenticated": True,
+            "playerToken": player_token,
+            "username": normalized_username,
+            "profile": profile,
+            "mergedGuestToken": merged_guest_token,
+        },
+        raw_session_token,
+    )
+
+
+def get_player_auth_session(*, session_token: str) -> dict[str, Any]:
+    raw_token = (session_token or "").strip()
+    if not raw_token:
+        return {
+            "authenticated": False,
+            "playerToken": None,
+            "username": None,
+            "profile": None,
+            "mergedGuestToken": None,
+        }
+
+    now = _utcnow()
+    with get_db() as conn:
+        with conn.cursor(row_factory=dict_row) as cur:
+            cur.execute(
+                "SELECT s.id, s.player_token, a.username "
+                "FROM player_auth_sessions s "
+                "LEFT JOIN player_accounts a ON a.player_token = s.player_token "
+                "WHERE s.session_token_hash = %(session_token_hash)s "
+                "AND s.revoked_at IS NULL "
+                "AND s.expires_at > %(now)s "
+                "LIMIT 1",
+                {
+                    "session_token_hash": hash_session_token(raw_token),
+                    "now": now,
+                },
+            )
+            row = cur.fetchone()
+            if row is None:
+                return {
+                    "authenticated": False,
+                    "playerToken": None,
+                    "username": None,
+                    "profile": None,
+                    "mergedGuestToken": None,
+                }
+            cur.execute(
+                "UPDATE player_auth_sessions SET last_seen_at = %(now)s, expires_at = %(expires_at)s WHERE id = %(id)s",
+                {
+                    "id": row["id"],
+                    "now": now,
+                    "expires_at": _session_expires_at(now),
+                },
+            )
+        conn.commit()
+
+    profile = get_or_create_player_profile(player_token=str(row["player_token"]))
     return {
-        "playerToken": row["player_token"],
-        "displayName": _normalize_display_name(row.get("display_name"), player_token=token),
-        "leaderboardVisible": bool(row.get("leaderboard_visible", True)),
-        "createdAt": row["created_at"].isoformat() if row.get("created_at") else None,
-        "updatedAt": row["updated_at"].isoformat() if row.get("updated_at") else None,
+        "authenticated": True,
+        "playerToken": str(row["player_token"]),
+        "username": str(row.get("username") or ""),
+        "profile": profile,
+        "mergedGuestToken": None,
     }
+
+
+def revoke_player_auth_session(*, session_token: str) -> None:
+    raw_token = (session_token or "").strip()
+    if not raw_token:
+        return
+    with get_db() as conn:
+        with conn.cursor(row_factory=dict_row) as cur:
+            cur.execute(
+                "UPDATE player_auth_sessions SET revoked_at = NOW() "
+                "WHERE session_token_hash = %(session_token_hash)s AND revoked_at IS NULL",
+                {"session_token_hash": hash_session_token(raw_token)},
+            )
+        conn.commit()
 
 
 def create_challenge(
@@ -2034,6 +2478,7 @@ def get_challenge_detail(
                 "    ROW_NUMBER() OVER (ORDER BY s.solve_time_ms ASC NULLS LAST, s.updated_at ASC, m.player_token ASC) AS rank, "
                 "    m.player_token, "
                 "    COALESCE(NULLIF(p.display_name, ''), %(fallback_prefix)s || UPPER(RIGHT(m.player_token, 6))) AS display_name, "
+                "    p.public_slug, "
                 "    s.solve_time_ms, s.completed, COALESCE(s.used_assists, false) AS used_assists, "
                 "    COALESCE(s.used_reveals, false) AS used_reveals, s.updated_at "
                 "  FROM challenge_members m "
@@ -2044,7 +2489,7 @@ def get_challenge_detail(
                 "    AND COALESCE(p.leaderboard_visible, true) = true "
                 "    AND s.completed = true "
                 ") "
-                "SELECT rank, player_token, display_name, solve_time_ms, completed, used_assists, used_reveals, updated_at "
+                "SELECT rank, player_token, display_name, public_slug, solve_time_ms, completed, used_assists, used_reveals, updated_at "
                 "FROM ranked "
                 "ORDER BY rank "
                 "OFFSET %(offset)s LIMIT %(limit_plus_one)s",
@@ -2079,6 +2524,7 @@ def get_challenge_detail(
                 "rank": int(row["rank"]),
                 "playerToken": row["player_token"],
                 "displayName": row["display_name"],
+                "publicSlug": row.get("public_slug"),
                 "solveTimeMs": int(row["solve_time_ms"]) if row.get("solve_time_ms") is not None else None,
                 "completed": bool(row.get("completed")),
                 "usedAssists": bool(row.get("used_assists")),
@@ -2232,6 +2678,7 @@ def get_global_leaderboard(
                 "  SELECT "
                 "    s.player_token, "
                 "    COALESCE(NULLIF(p.display_name, ''), %(fallback_prefix)s || UPPER(RIGHT(s.player_token, 6))) AS display_name, "
+                "    p.public_slug, "
                 "    COUNT(*) AS completions, "
                 "    ROUND(AVG(s.solve_time_ms) FILTER (WHERE s.solve_time_ms IS NOT NULL))::int AS average_solve_time_ms, "
                 "    MIN(s.solve_time_ms) FILTER (WHERE s.solve_time_ms IS NOT NULL) AS best_solve_time_ms "
@@ -2242,14 +2689,14 @@ def get_global_leaderboard(
                 "    AND s.puzzle_date <= %(end_date)s "
                 "    AND s.completed = true "
                 "    AND COALESCE(p.leaderboard_visible, true) = true "
-                "  GROUP BY s.player_token, p.display_name"
+                "  GROUP BY s.player_token, p.display_name, p.public_slug"
                 "), ranked AS ("
                 "  SELECT "
                 "    ROW_NUMBER() OVER (ORDER BY completions DESC, average_solve_time_ms ASC NULLS LAST, best_solve_time_ms ASC NULLS LAST, player_token ASC) AS rank, "
-                "    player_token, display_name, completions, average_solve_time_ms, best_solve_time_ms "
+                "    player_token, display_name, public_slug, completions, average_solve_time_ms, best_solve_time_ms "
                 "  FROM aggregated"
                 ") "
-                "SELECT rank, player_token, display_name, completions, average_solve_time_ms, best_solve_time_ms "
+                "SELECT rank, player_token, display_name, public_slug, completions, average_solve_time_ms, best_solve_time_ms "
                 "FROM ranked "
                 "ORDER BY rank "
                 "OFFSET %(offset)s LIMIT %(limit_plus_one)s",
@@ -2277,6 +2724,7 @@ def get_global_leaderboard(
                 "rank": int(row["rank"]),
                 "playerToken": row["player_token"],
                 "displayName": row["display_name"],
+                "publicSlug": row.get("public_slug"),
                 "completions": int(row["completions"]),
                 "averageSolveTimeMs": int(row["average_solve_time_ms"]) if row.get("average_solve_time_ms") is not None else None,
                 "bestSolveTimeMs": int(row["best_solve_time_ms"]) if row.get("best_solve_time_ms") is not None else None,
@@ -2456,6 +2904,325 @@ def get_personal_stats(*, session_ids: list[str], days: int = 30, timezone: str 
             "cryptic": cryptic_history,
             "connections": connections_history,
         },
+    }
+
+
+def _get_player_started_progress_rows(
+    cur: Any,
+    *,
+    player_token: str,
+    game_type: PuzzleGameType,
+    start_date: date_type,
+    end_date: date_type,
+) -> tuple[int, list[dict[str, Any]]]:
+    if not _table_exists(cur, "player_progress"):
+        return 0, []
+    cur.execute(
+        "SELECT COUNT(DISTINCT pp.puzzle_id)::int AS started_count "
+        "FROM player_progress pp "
+        "JOIN puzzles p ON p.id = pp.puzzle_id "
+        "WHERE pp.player_token = %(player_token)s "
+        "AND pp.game_type = %(game_type)s "
+        "AND pp.puzzle_id IS NOT NULL "
+        "AND p.date >= %(start_date)s "
+        "AND p.date <= %(end_date)s",
+        {
+            "player_token": player_token,
+            "game_type": game_type,
+            "start_date": start_date,
+            "end_date": end_date,
+        },
+    )
+    totals_row = cur.fetchone() or {}
+    cur.execute(
+        "SELECT p.date AS day, COUNT(DISTINCT pp.puzzle_id)::int AS page_views "
+        "FROM player_progress pp "
+        "JOIN puzzles p ON p.id = pp.puzzle_id "
+        "WHERE pp.player_token = %(player_token)s "
+        "AND pp.game_type = %(game_type)s "
+        "AND pp.puzzle_id IS NOT NULL "
+        "AND p.date >= %(start_date)s "
+        "AND p.date <= %(end_date)s "
+        "GROUP BY p.date "
+        "ORDER BY p.date ASC",
+        {
+            "player_token": player_token,
+            "game_type": game_type,
+            "start_date": start_date,
+            "end_date": end_date,
+        },
+    )
+    return int(totals_row.get("started_count") or 0), cur.fetchall()
+
+
+def _get_player_competitive_stats_segment(
+    cur: Any,
+    *,
+    player_token: str,
+    game_type: CompetitiveGameType,
+    window_days: int,
+    start_date: date_type,
+    end_date: date_type,
+) -> tuple[dict[str, Any], list[dict[str, Any]]]:
+    started_count, started_rows = _get_player_started_progress_rows(
+        cur,
+        player_token=player_token,
+        game_type=game_type,
+        start_date=start_date,
+        end_date=end_date,
+    )
+
+    completion_totals: dict[str, Any] = {}
+    completion_rows: list[dict[str, Any]] = []
+    if _table_exists(cur, "leaderboard_submissions"):
+        cur.execute(
+            "SELECT "
+            "COUNT(*) FILTER (WHERE completed = true)::int AS completed_count, "
+            "COUNT(*) FILTER (WHERE completed = true AND COALESCE(used_assists, false) = false AND COALESCE(used_reveals, false) = false)::int AS clean_completed_count, "
+            "PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY solve_time_ms::double precision) "
+            "FILTER (WHERE completed = true AND solve_time_ms IS NOT NULL) AS median_solve_ms "
+            "FROM leaderboard_submissions "
+            "WHERE player_token = %(player_token)s "
+            "AND game_type = %(game_type)s "
+            "AND puzzle_date >= %(start_date)s "
+            "AND puzzle_date <= %(end_date)s",
+            {
+                "player_token": player_token,
+                "game_type": game_type,
+                "start_date": start_date,
+                "end_date": end_date,
+            },
+        )
+        completion_totals = cur.fetchone() or {}
+        cur.execute(
+            "SELECT puzzle_date AS day, "
+            "COUNT(*) FILTER (WHERE completed = true)::int AS completions, "
+            "COUNT(*) FILTER (WHERE completed = true AND COALESCE(used_assists, false) = false AND COALESCE(used_reveals, false) = false)::int AS clean_completions "
+            "FROM leaderboard_submissions "
+            "WHERE player_token = %(player_token)s "
+            "AND game_type = %(game_type)s "
+            "AND puzzle_date >= %(start_date)s "
+            "AND puzzle_date <= %(end_date)s "
+            "GROUP BY puzzle_date "
+            "ORDER BY puzzle_date ASC",
+            {
+                "player_token": player_token,
+                "game_type": game_type,
+                "start_date": start_date,
+                "end_date": end_date,
+            },
+        )
+        completion_rows = cur.fetchall()
+
+    completions = int(completion_totals.get("completed_count") or 0)
+    clean_completions = int(completion_totals.get("clean_completed_count") or 0)
+    median_solve_ms_value = completion_totals.get("median_solve_ms")
+    median_solve_ms = int(round(float(median_solve_ms_value))) if median_solve_ms_value is not None else None
+    solved_dates = [row["day"] for row in completion_rows if int(row.get("completions") or 0) > 0]
+
+    return (
+        _build_personal_stats_bucket(
+            page_views=started_count,
+            page_view_puzzle_count=started_count,
+            completions=completions,
+            completed_puzzles=completions,
+            clean_completions=clean_completions,
+            median_solve_ms=median_solve_ms,
+            solved_dates=solved_dates,
+        ),
+        _merge_personal_stats_history(
+            window_days=window_days,
+            start_date=start_date,
+            page_view_rows=started_rows,
+            completion_rows=completion_rows,
+        ),
+    )
+
+
+def _get_player_connections_stats_segment(
+    cur: Any,
+    *,
+    player_token: str,
+    window_days: int,
+    start_date: date_type,
+    end_date: date_type,
+) -> tuple[dict[str, Any], list[dict[str, Any]]]:
+    started_count, started_rows = _get_player_started_progress_rows(
+        cur,
+        player_token=player_token,
+        game_type="connections",
+        start_date=start_date,
+        end_date=end_date,
+    )
+    if not _table_exists(cur, "player_progress"):
+        return _empty_personal_stats_bucket(), _empty_personal_stats_history(window_days=window_days, start_date=start_date)
+
+    cur.execute(
+        "WITH latest AS ("
+        "  SELECT DISTINCT ON (pp.puzzle_id) pp.puzzle_id, pp.progress "
+        "  FROM player_progress pp "
+        "  JOIN puzzles p ON p.id = pp.puzzle_id "
+        "  WHERE pp.player_token = %(player_token)s "
+        "    AND pp.game_type = 'connections' "
+        "    AND pp.puzzle_id IS NOT NULL "
+        "    AND p.date >= %(start_date)s "
+        "    AND p.date <= %(end_date)s "
+        "  ORDER BY pp.puzzle_id, COALESCE(pp.client_updated_at, pp.updated_at) DESC, pp.id DESC"
+        ") "
+        "SELECT "
+        "COUNT(*) FILTER (WHERE latest.progress->>'outcome' = 'completed')::int AS completed_count, "
+        "COUNT(*) FILTER (WHERE latest.progress->>'outcome' = 'completed' "
+        "  AND COALESCE((NULLIF(latest.progress->>'mistakes', ''))::int, 0) = 0)::int AS clean_completed_count "
+        "FROM latest",
+        {
+            "player_token": player_token,
+            "start_date": start_date,
+            "end_date": end_date,
+        },
+    )
+    totals_row = cur.fetchone() or {}
+    cur.execute(
+        "WITH latest AS ("
+        "  SELECT DISTINCT ON (pp.puzzle_id) pp.puzzle_id, p.date AS day, pp.progress "
+        "  FROM player_progress pp "
+        "  JOIN puzzles p ON p.id = pp.puzzle_id "
+        "  WHERE pp.player_token = %(player_token)s "
+        "    AND pp.game_type = 'connections' "
+        "    AND pp.puzzle_id IS NOT NULL "
+        "    AND p.date >= %(start_date)s "
+        "    AND p.date <= %(end_date)s "
+        "  ORDER BY pp.puzzle_id, COALESCE(pp.client_updated_at, pp.updated_at) DESC, pp.id DESC"
+        ") "
+        "SELECT day, "
+        "COUNT(*) FILTER (WHERE latest.progress->>'outcome' = 'completed')::int AS completions, "
+        "COUNT(*) FILTER (WHERE latest.progress->>'outcome' = 'completed' "
+        "  AND COALESCE((NULLIF(latest.progress->>'mistakes', ''))::int, 0) = 0)::int AS clean_completions "
+        "FROM latest "
+        "GROUP BY day "
+        "ORDER BY day ASC",
+        {
+            "player_token": player_token,
+            "start_date": start_date,
+            "end_date": end_date,
+        },
+    )
+    completion_rows = cur.fetchall()
+    completions = int(totals_row.get("completed_count") or 0)
+    clean_completions = int(totals_row.get("clean_completed_count") or 0)
+    solved_dates = [row["day"] for row in completion_rows if int(row.get("completions") or 0) > 0]
+    return (
+        _build_personal_stats_bucket(
+            page_views=started_count,
+            page_view_puzzle_count=started_count,
+            completions=completions,
+            completed_puzzles=completions,
+            clean_completions=clean_completions,
+            median_solve_ms=None,
+            solved_dates=solved_dates,
+        ),
+        _merge_personal_stats_history(
+            window_days=window_days,
+            start_date=start_date,
+            page_view_rows=started_rows,
+            completion_rows=completion_rows,
+        ),
+    )
+
+
+def get_player_stats(*, player_token: str, days: int = 30, timezone: str = "Europe/London") -> dict[str, Any]:
+    token = player_token.strip()
+    if not token:
+        raise ValueError("Missing player token")
+
+    window_days = max(1, min(days, 365))
+    today = datetime.now(ZoneInfo(timezone)).date()
+    start_date = today - timedelta(days=window_days - 1)
+    payload = _empty_personal_stats_payload(
+        session_ids=[],
+        window_days=window_days,
+        timezone=timezone,
+        start_date=start_date,
+    )
+
+    with get_db() as conn:
+        with conn.cursor(row_factory=dict_row) as cur:
+            crossword_bucket, crossword_history = _get_player_competitive_stats_segment(
+                cur,
+                player_token=token,
+                game_type="crossword",
+                window_days=window_days,
+                start_date=start_date,
+                end_date=today,
+            )
+            cryptic_bucket, cryptic_history = _get_player_competitive_stats_segment(
+                cur,
+                player_token=token,
+                game_type="cryptic",
+                window_days=window_days,
+                start_date=start_date,
+                end_date=today,
+            )
+            connections_bucket, connections_history = _get_player_connections_stats_segment(
+                cur,
+                player_token=token,
+                window_days=window_days,
+                start_date=start_date,
+                end_date=today,
+            )
+    payload["crossword"] = crossword_bucket
+    payload["cryptic"] = cryptic_bucket
+    payload["connections"] = connections_bucket
+    payload["historyByGameType"] = {
+        "crossword": crossword_history,
+        "cryptic": cryptic_history,
+        "connections": connections_history,
+    }
+    return payload
+
+
+def get_public_player_profile(*, public_slug: str) -> dict[str, Any] | None:
+    slug = (public_slug or "").strip().lower()
+    if not slug:
+        return None
+    with get_db() as conn:
+        with conn.cursor(row_factory=dict_row) as cur:
+            cur.execute(
+                "SELECT p.player_token, p.display_name, p.public_slug, p.leaderboard_visible, p.created_at, p.updated_at, a.username "
+                "FROM player_profiles p "
+                "LEFT JOIN player_accounts a ON a.player_token = p.player_token "
+                "WHERE p.public_slug = %(public_slug)s LIMIT 1",
+                {"public_slug": slug},
+            )
+            row = cur.fetchone()
+    if row is None:
+        return None
+    payload = _player_profile_payload(row, player_token=str(row["player_token"]))
+    return {
+        "displayName": payload["displayName"],
+        "publicSlug": payload["publicSlug"],
+        "leaderboardVisible": payload["leaderboardVisible"],
+        "hasAccount": payload["hasAccount"],
+        "createdAt": payload["createdAt"],
+        "updatedAt": payload["updatedAt"],
+        "playerToken": payload["playerToken"],
+    }
+
+
+def get_public_player_stats(*, public_slug: str, days: int = 30, timezone: str = "Europe/London") -> dict[str, Any] | None:
+    profile = get_public_player_profile(public_slug=public_slug)
+    if profile is None:
+        return None
+    stats = get_player_stats(player_token=str(profile["playerToken"]), days=days, timezone=timezone)
+    return {
+        "profile": {
+            "displayName": profile["displayName"],
+            "publicSlug": profile["publicSlug"],
+            "leaderboardVisible": profile["leaderboardVisible"],
+            "hasAccount": profile["hasAccount"],
+            "createdAt": profile["createdAt"],
+            "updatedAt": profile["updatedAt"],
+        },
+        "stats": stats,
     }
 
 

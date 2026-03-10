@@ -134,6 +134,7 @@ class ChallengeLeaderboardRepoTests(unittest.TestCase):
                         "rank": 1,
                         "player_token": "tok_a",
                         "display_name": "Alpha",
+                        "public_slug": "alpha",
                         "completions": 5,
                         "average_solve_time_ms": 120000,
                         "best_solve_time_ms": 90000,
@@ -142,6 +143,7 @@ class ChallengeLeaderboardRepoTests(unittest.TestCase):
                         "rank": 2,
                         "player_token": "tok_b",
                         "display_name": "Bravo",
+                        "public_slug": "bravo",
                         "completions": 4,
                         "average_solve_time_ms": 150000,
                         "best_solve_time_ms": 110000,
@@ -150,6 +152,7 @@ class ChallengeLeaderboardRepoTests(unittest.TestCase):
                         "rank": 3,
                         "player_token": "tok_c",
                         "display_name": "Charlie",
+                        "public_slug": "charlie",
                         "completions": 3,
                         "average_solve_time_ms": 180000,
                         "best_solve_time_ms": 130000,
@@ -175,6 +178,7 @@ class ChallengeLeaderboardRepoTests(unittest.TestCase):
         self.assertTrue(result["hasMore"])
         self.assertEqual(result["cursor"], "2")
         self.assertEqual(result["items"][0]["displayName"], "Alpha")
+        self.assertEqual(result["items"][0]["publicSlug"], "alpha")
 
 
 if __name__ == "__main__":

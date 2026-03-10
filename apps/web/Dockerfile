@@ -1,0 +1,27 @@
+FROM node:20-alpine AS build
+
+WORKDIR /app
+
+COPY package.json package-lock.json ./
+RUN npm ci
+
+COPY . .
+
+ARG WEB_SENTRY_ENVIRONMENT=production
+ARG WEB_SENTRY_RELEASE=unknown
+ARG WEB_SENTRY_TRACES_SAMPLE_RATE=0
+ARG WEB_FEATURE_CONNECTIONS_ENABLED=false
+
+ENV VITE_SENTRY_ENVIRONMENT=${WEB_SENTRY_ENVIRONMENT} \
+    VITE_SENTRY_RELEASE=${WEB_SENTRY_RELEASE} \
+    VITE_SENTRY_TRACES_SAMPLE_RATE=${WEB_SENTRY_TRACES_SAMPLE_RATE} \
+    VITE_FEATURE_CONNECTIONS_ENABLED=${WEB_FEATURE_CONNECTIONS_ENABLED}
+
+RUN npm run build
+
+FROM nginx:1.27-alpine
+
+COPY nginx.conf /etc/nginx/conf.d/default.conf
+COPY --from=build /app/dist /usr/share/nginx/html
+
+EXPOSE 80

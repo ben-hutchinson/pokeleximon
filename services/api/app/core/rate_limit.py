@@ -63,6 +63,12 @@ def _client_ip_from_request(request: Request) -> str:
 
 
 def _policy_for_path(path: str) -> RateLimitPolicy | None:
+    if path.startswith("/api/v1/auth"):
+        return RateLimitPolicy(
+            name="auth",
+            max_requests=max(1, config.RATE_LIMIT_AUTH_MAX_REQUESTS),
+            window_seconds=max(1, config.RATE_LIMIT_AUTH_WINDOW_SECONDS),
+        )
     if path.startswith("/api/v1/admin"):
         return RateLimitPolicy(
             name="admin",
@@ -126,4 +132,3 @@ class ApiRateLimitMiddleware(BaseHTTPMiddleware):
         for key_name, value in headers.items():
             response.headers[key_name] = value
         return response
-

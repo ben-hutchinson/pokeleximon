@@ -21,8 +21,9 @@ class SecurityAndRateLimitSourceTests(unittest.TestCase):
         source = ADMIN_FILE.read_text(encoding="utf-8")
         self.assertIn("dependencies=[Depends(require_admin_auth)]", source)
 
-    def test_rate_limit_middleware_has_admin_and_public_policies(self):
+    def test_rate_limit_middleware_has_auth_admin_and_public_policies(self):
         source = RATE_LIMIT_FILE.read_text(encoding="utf-8")
+        self.assertIn('if path.startswith("/api/v1/auth")', source)
         self.assertIn('if path.startswith("/api/v1/admin")', source)
         self.assertIn('if path.startswith("/api/v1/puzzles") or path == "/api/v1/health"', source)
         self.assertIn("status_code=429", source)
@@ -36,4 +37,3 @@ class SecurityAndRateLimitSourceTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-

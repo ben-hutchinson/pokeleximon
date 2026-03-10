@@ -169,13 +169,58 @@ class PlayerProfileUpdateRequest(BaseModel):
 class PlayerProfileRecord(BaseModel):
     playerToken: str
     displayName: str
+    publicSlug: str
     leaderboardVisible: bool = True
+    hasAccount: bool = False
     createdAt: str | None = None
     updatedAt: str | None = None
 
 
 class PlayerProfileResponse(BaseModel):
     data: PlayerProfileRecord
+
+
+class AuthSignupRequest(BaseModel):
+    username: str
+    password: str
+    guestPlayerToken: str | None = None
+
+
+class AuthLoginRequest(BaseModel):
+    username: str
+    password: str
+    guestPlayerToken: str | None = None
+    mergeGuestData: bool = True
+
+
+class AuthSessionRecord(BaseModel):
+    authenticated: bool = False
+    playerToken: str | None = None
+    username: str | None = None
+    profile: PlayerProfileRecord | None = None
+    mergedGuestToken: str | None = None
+
+
+class AuthSessionResponse(BaseModel):
+    data: AuthSessionRecord
+
+
+class PublicPlayerProfileRecord(BaseModel):
+    displayName: str
+    publicSlug: str
+    leaderboardVisible: bool = True
+    hasAccount: bool = False
+    createdAt: str | None = None
+    updatedAt: str | None = None
+
+
+class PublicPlayerStatsRecord(BaseModel):
+    profile: PublicPlayerProfileRecord
+    stats: PersonalStats
+
+
+class PublicPlayerStatsResponse(BaseModel):
+    data: PublicPlayerStatsRecord
 
 
 class ChallengeCreateRequest(BaseModel):
@@ -199,6 +244,7 @@ class ChallengeLeaderboardEntry(BaseModel):
     rank: int
     playerToken: str
     displayName: str
+    publicSlug: str | None = None
     solveTimeMs: int | None = None
     completed: bool = False
     usedAssists: bool = False
@@ -260,6 +306,7 @@ class GlobalLeaderboardEntry(BaseModel):
     rank: int
     playerToken: str
     displayName: str
+    publicSlug: str | None = None
     completions: int
     averageSolveTimeMs: int | None = None
     bestSolveTimeMs: int | None = None

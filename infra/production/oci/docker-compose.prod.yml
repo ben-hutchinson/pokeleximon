@@ -1,0 +1,97 @@
+name: pokeleximon-prod
+
+services:
+  proxy:
+    image: caddy:2.8-alpine
+    restart: unless-stopped
+    depends_on:
+      api:
+        condition: service_healthy
+      web:
+        condition: service_started
+    environment:
+      SITE_HOST: ${SITE_HOST:-localhost}
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - ${POKELEXIMON_DATA_DIR:-/opt/pokeleximon/data}/caddy/data:/data
+      - ${POKELEXIMON_DATA_DIR:-/opt/pokeleximon/data}/caddy/config:/config
+
+  web:
+    build:
+      context: ${POKELEXIMON_APP_ROOT:-/opt/pokeleximon/app/current}/apps/web
+      dockerfile: Dockerfile
+      args:
+        WEB_SENTRY_ENVIRONMENT: ${WEB_SENTRY_ENVIRONMENT:-production}
+        WEB_SENTRY_RELEASE: ${WEB_SENTRY_RELEASE:-unknown}
+        WEB_SENTRY_TRACES_SAMPLE_RATE: ${WEB_SENTRY_TRACES_SAMPLE_RATE:-0}
+        WEB_FEATURE_CONNECTIONS_ENABLED: ${WEB_FEATURE_CONNECTIONS_ENABLED:-false}
+    restart: unless-stopped
+
+  api:
+    build:
+      context: ${POKELEXIMON_APP_ROOT:-/opt/pokeleximon/app/current}/services/api
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    env_file:
+      - ${POKELEXIMON_SECRETS_DIR:-/opt/pokeleximon/secrets}/api.env
+    environment:
+      APP_ENV: production
+      SCHEDULER_ENABLED: "true"
+      PUBLISH_ON_STARTUP: "false"
+      POKEAPI_REFRESH_ENABLED: "false"
+      ARTIFACT_STORAGE_ENABLED: "true"
+      ARTIFACT_STORAGE_BACKEND: local
+      ARTIFACT_STORAGE_DIR: /var/lib/pokeleximon/artifacts
+      RATE_LIMIT_TRUST_X_FORWARDED_FOR: "true"
+      CROSSWORD_CSV_PATH: /app/data/wordlist_crossword_answer_clue.csv
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    volumes:
+      - ${POKELEXIMON_APP_ROOT:-/opt/pokeleximon/app/current}/data:/app/data:ro
+      - ${POKELEXIMON_ARTIFACTS_DIR:-/opt/pokeleximon/data/artifacts}:/var/lib/pokeleximon/artifacts
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - import urllib.request; urllib.request.urlopen("http://127.0.0.1:8000/health", timeout=5)
+      interval: 30s
+      timeout: 5s
+      retries: 5
+      start_period: 20s
+
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    env_file:
+      - ${POKELEXIMON_SECRETS_DIR:-/opt/pokeleximon/secrets}/api.env
+    volumes:
+      - ${POKELEXIMON_DATA_DIR:-/opt/pokeleximon/data}/postgres:/var/lib/postgresql/data
+    healthcheck:
+      test:
+        - CMD-SHELL
+        - pg_isready -U "$$POSTGRES_USER" -d "$$POSTGRES_DB"
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    command: ["redis-server", "--appendonly", "yes", "--save", "60", "1000"]
+    volumes:
+      - ${POKELEXIMON_DATA_DIR:-/opt/pokeleximon/data}/redis:/data
+    healthcheck:
+      test:
+        - CMD
+        - redis-cli
+        - ping
+      interval: 10s
+      timeout: 3s
+      retries: 10

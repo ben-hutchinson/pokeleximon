@@ -1,27 +1,14 @@
 import { useEffect, useMemo, useState } from "react";
-import { Link } from "react-router-dom";
-import { useAuth } from "../auth/AuthContext";
+import { useParams } from "react-router-dom";
+import { getPublicPlayerStats, type PersonalStats, type PersonalStatsBucket, type PuzzleGameType } from "../api/puzzles";
 import Layout from "../components/Layout";
-import { getPersonalStats, getPlayerStats, type PersonalStats, type PersonalStatsBucket, type PuzzleGameType } from "../api/puzzles";
 
-const SESSION_KEYS = ["crossword:session-id", "cryptic:session-id", "connections:session-id"];
 const WINDOW_OPTIONS: Array<7 | 30 | 90> = [7, 30, 90];
 const GAME_OPTIONS: Array<{ value: PuzzleGameType; label: string }> = [
   { value: "crossword", label: "Crossword" },
   { value: "cryptic", label: "Cryptic" },
   { value: "connections", label: "Connections" },
 ];
-
-function loadSessionIds(): string[] {
-  if (typeof window === "undefined") return [];
-  return Array.from(
-    new Set(
-      SESSION_KEYS.map((key) => window.localStorage.getItem(key) ?? "")
-        .map((value) => value.trim())
-        .filter((value) => value.length > 0),
-    ),
-  );
-}
 
 function formatPercent(value: number | null) {
   if (value === null || Number.isNaN(value)) return "N/A";
@@ -40,29 +27,27 @@ function formatDay(value: string) {
   return new Date(`${value}T00:00:00Z`).toLocaleDateString(undefined, { month: "short", day: "numeric" });
 }
 
-export default function Stats() {
-  const { authenticated, profile } = useAuth();
+export default function PlayerProfile() {
+  const { publicSlug = "" } = useParams();
   const [days, setDays] = useState<7 | 30 | 90>(30);
   const [gameType, setGameType] = useState<PuzzleGameType>("crossword");
-  const [sessionIds, setSessionIds] = useState<string[] | null>(null);
+  const [profile, setProfile] = useState<{ displayName: string; publicSlug: string } | null>(null);
   const [stats, setStats] = useState<PersonalStats | null>(null);
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    setSessionIds(loadSessionIds());
-  }, []);
-
-  useEffect(() => {
-    if (!authenticated && sessionIds === null) return;
+    if (!publicSlug) return;
     setLoading(true);
     setError(null);
-    const loadStats = authenticated ? getPlayerStats({ days }) : getPersonalStats({ days, sessionIds: sessionIds ?? undefined });
-    loadStats
-      .then(setStats)
-      .catch((err) => setError(err.message))
+    getPublicPlayerStats({ publicSlug, days })
+      .then((item) => {
+        setProfile(item.profile);
+        setStats(item.stats);
+      })
+      .catch((err) => setError(err instanceof Error ? err.message : "Failed to load player profile."))
       .finally(() => setLoading(false));
-  }, [authenticated, days, sessionIds]);
+  }, [days, publicSlug]);
 
   const currentBucket = useMemo<PersonalStatsBucket | null>(() => {
     if (!stats) return null;
@@ -74,39 +59,25 @@ export default function Stats() {
     return stats.historyByGameType[gameType] ?? [];
   }, [gameType, stats]);
 
-  const currentGameLabel = useMemo(
-    () => GAME_OPTIONS.find((option) => option.value === gameType)?.label ?? "Crossword",
-    [gameType],
-  );
-
-  const hasProgress = useMemo(() => {
-    if (!currentBucket) return false;
-    return currentBucket.pageViews > 0 || currentBucket.completions > 0;
-  }, [currentBucket]);
-
   const maxCompletions = useMemo(() => {
     if (currentHistory.length === 0) return 1;
     return Math.max(1, ...currentHistory.map((day) => day.completions));
   }, [currentHistory]);
 
+  const currentGameLabel = useMemo(
+    () => GAME_OPTIONS.find((option) => option.value === gameType)?.label ?? "Crossword",
+    [gameType],
+  );
+
   return (
     <Layout>
-      <section className="page-section" aria-labelledby="stats-heading" aria-busy={loading}>
+      <section className="page-section" aria-labelledby="player-profile-heading" aria-busy={loading}>
         <div className="section-header">
-          <h2 id="stats-heading">Your Stats</h2>
-          <p>
-            {authenticated
-              ? "Server-side performance metrics for your account."
-              : "Personal performance metrics from your local session activity."}
-          </p>
-          {authenticated && profile ? (
-            <p className="panel__meta">
-              Public profile: <Link to={`/players/${profile.publicSlug}`}>@{profile.publicSlug}</Link>
-            </p>
-          ) : null}
+          <h2 id="player-profile-heading">{profile?.displayName ?? "Player Profile"}</h2>
+          <p>Public stats page for @{profile?.publicSlug ?? publicSlug}.</p>
         </div>
 
-        <div className="stats-controls" role="group" aria-label="Stats game filter">
+        <div className="stats-controls" role="group" aria-label="Public stats game filter">
           {GAME_OPTIONS.map((option) => (
             <button
               key={option.value}
@@ -120,7 +91,7 @@ export default function Stats() {
           ))}
         </div>
 
-        <div className="stats-controls" role="group" aria-label="Stats window filter">
+        <div className="stats-controls" role="group" aria-label="Public stats window filter">
           {WINDOW_OPTIONS.map((option) => (
             <button
               key={option}
@@ -134,15 +105,7 @@ export default function Stats() {
           ))}
         </div>
 
-        {error ? (
-          <div className="error" role="alert">
-            {error}
-          </div>
-        ) : null}
-
-        {!authenticated && sessionIds !== null && sessionIds.length === 0 ? (
-          <div className="card">No local sessions found yet. Play a puzzle first, then return to see your stats.</div>
-        ) : null}
+        {error ? <div className="error" role="alert">{error}</div> : null}
 
         {stats ? (
           <>
@@ -173,30 +136,26 @@ export default function Stats() {
               </article>
             </div>
 
-            {!hasProgress ? (
-              <div className="card">No {currentGameLabel.toLowerCase()} activity in this window yet. Try switching games or expanding the date range.</div>
-            ) : (
-              <section className="card stats-history" aria-label={`${currentGameLabel} history`}>
-                <h3>{currentGameLabel} History</h3>
-                <div className="stats-history__rows">
-                  {currentHistory.map((day) => {
-                    const width = Math.round((day.completions / maxCompletions) * 100);
-                    return (
-                      <div className="stats-history__row" key={day.date}>
-                        <div className="stats-history__date">{formatDay(day.date)}</div>
-                        <div className="stats-history__bar-wrap" aria-hidden="true">
-                          <div className="stats-history__bar" style={{ width: `${width}%` }} />
-                        </div>
-                        <div className="stats-history__value">
-                          {day.completions} solved
-                          {day.cleanCompletions > 0 ? ` (${day.cleanCompletions} clean)` : ""}
-                        </div>
+            <section className="card stats-history" aria-label={`${currentGameLabel} history`}>
+              <h3>{currentGameLabel} History</h3>
+              <div className="stats-history__rows">
+                {currentHistory.map((day) => {
+                  const width = Math.round((day.completions / maxCompletions) * 100);
+                  return (
+                    <div className="stats-history__row" key={day.date}>
+                      <div className="stats-history__date">{formatDay(day.date)}</div>
+                      <div className="stats-history__bar-wrap" aria-hidden="true">
+                        <div className="stats-history__bar" style={{ width: `${width}%` }} />
                       </div>
-                    );
-                  })}
-                </div>
-              </section>
-            )}
+                      <div className="stats-history__value">
+                        {day.completions} solved
+                        {day.cleanCompletions > 0 ? ` (${day.cleanCompletions} clean)` : ""}
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+            </section>
           </>
         ) : null}
       </section>

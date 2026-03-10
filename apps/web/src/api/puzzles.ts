@@ -250,6 +250,21 @@ export function getOrCreatePlayerToken() {
   return next;
 }
 
+export function getStoredPlayerToken() {
+  if (typeof window === "undefined") return "";
+  return window.localStorage.getItem(PLAYER_TOKEN_STORAGE_KEY)?.trim() ?? "";
+}
+
+export function setStoredPlayerToken(playerToken: string) {
+  if (typeof window === "undefined") return;
+  const normalized = playerToken.trim();
+  if (!normalized) {
+    window.localStorage.removeItem(PLAYER_TOKEN_STORAGE_KEY);
+    return;
+  }
+  window.localStorage.setItem(PLAYER_TOKEN_STORAGE_KEY, normalized);
+}
+
 export type PuzzleProgressRecord = {
   id: number;
   playerToken: string;
@@ -308,7 +323,9 @@ export async function putPuzzleProgress(params: {
 export type PlayerProfile = {
   playerToken: string;
   displayName: string;
+  publicSlug: string;
   leaderboardVisible: boolean;
+  hasAccount: boolean;
   createdAt?: string | null;
   updatedAt?: string | null;
 };
@@ -350,6 +367,87 @@ export async function putPlayerProfile(params: {
   return json.data as PlayerProfile;
 }
 
+export type AuthSession = {
+  authenticated: boolean;
+  playerToken?: string | null;
+  username?: string | null;
+  profile?: PlayerProfile | null;
+  mergedGuestToken?: string | null;
+};
+
+export async function getAuthSession() {
+  const res = await fetch("/api/v1/auth/session", {
+    credentials: "include",
+  });
+  if (!res.ok) {
+    throw new Error(`Auth session fetch failed: ${res.status}`);
+  }
+  const json = await res.json();
+  return json.data as AuthSession;
+}
+
+export async function signUp(params: { username: string; password: string; guestPlayerToken?: string | null }) {
+  const res = await fetch("/api/v1/auth/signup", {
+    method: "POST",
+    credentials: "include",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      username: params.username,
+      password: params.password,
+      guestPlayerToken: params.guestPlayerToken ?? null,
+    }),
+  });
+  if (!res.ok) {
+    const payload = await res.json().catch(() => null);
+    const detail = typeof payload?.detail === "string" ? ` ${payload.detail}` : "";
+    throw new Error(`Signup failed: ${res.status}${detail}`);
+  }
+  const json = await res.json();
+  return json.data as AuthSession;
+}
+
+export async function logIn(params: {
+  username: string;
+  password: string;
+  guestPlayerToken?: string | null;
+  mergeGuestData?: boolean;
+}) {
+  const res = await fetch("/api/v1/auth/login", {
+    method: "POST",
+    credentials: "include",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      username: params.username,
+      password: params.password,
+      guestPlayerToken: params.guestPlayerToken ?? null,
+      mergeGuestData: params.mergeGuestData ?? true,
+    }),
+  });
+  if (!res.ok) {
+    const payload = await res.json().catch(() => null);
+    const detail = typeof payload?.detail === "string" ? ` ${payload.detail}` : "";
+    throw new Error(`Login failed: ${res.status}${detail}`);
+  }
+  const json = await res.json();
+  return json.data as AuthSession;
+}
+
+export async function logOut() {
+  const res = await fetch("/api/v1/auth/logout", {
+    method: "POST",
+    credentials: "include",
+  });
+  if (!res.ok) {
+    throw new Error(`Logout failed: ${res.status}`);
+  }
+  const json = await res.json();
+  return json.data as AuthSession;
+}
+
 export type ChallengeRecord = {
   id: number;
   code: string;
@@ -365,6 +463,7 @@ export type ChallengeLeaderboardEntry = {
   rank: number;
   playerToken: string;
   displayName: string;
+  publicSlug?: string | null;
   solveTimeMs?: number | null;
   completed: boolean;
   usedAssists: boolean;
@@ -494,6 +593,7 @@ export type GlobalLeaderboardEntry = {
   rank: number;
   playerToken: string;
   displayName: string;
+  publicSlug?: string | null;
   completions: number;
   averageSolveTimeMs?: number | null;
   bestSolveTimeMs?: number | null;
@@ -529,6 +629,35 @@ export async function getLeaderboard(params: {
   }
   const json = await res.json();
   return json.data as GlobalLeaderboardPage;
+}
+
+export async function getPlayerStats(options: { days?: 7 | 30 | 90 } = {}) {
+  const params = new URLSearchParams();
+  params.set("days", String(options.days ?? 30));
+  const res = await fetch(`/api/v1/puzzles/stats/me?${params.toString()}`, {
+    credentials: "include",
+  });
+  if (!res.ok) {
+    throw new Error(`Authenticated stats fetch failed: ${res.status}`);
+  }
+  const json = await res.json();
+  return json.data as PersonalStats;
+}
+
+export type PublicPlayerStats = {
+  profile: Omit<PlayerProfile, "playerToken">;
+  stats: PersonalStats;
+};
+
+export async function getPublicPlayerStats(params: { publicSlug: string; days?: 7 | 30 | 90 }) {
+  const query = new URLSearchParams();
+  query.set("days", String(params.days ?? 30));
+  const res = await fetch(`/api/v1/puzzles/players/${encodeURIComponent(params.publicSlug)}?${query.toString()}`);
+  if (!res.ok) {
+    throw new Error(`Public player fetch failed: ${res.status}`);
+  }
+  const json = await res.json();
+  return json.data as PublicPlayerStats;
 }
 
 export type CrypticTelemetryEventType =

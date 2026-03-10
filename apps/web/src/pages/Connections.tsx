@@ -1,10 +1,10 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { Link, useSearchParams } from "react-router-dom";
+import { useAuth } from "../auth/AuthContext";
 import Layout from "../components/Layout";
 import { FEATURE_CONNECTIONS_ENABLED } from "../featureFlags";
 import {
   getDailyPuzzle,
-  getOrCreatePlayerToken,
   getPuzzleProgress,
   postConnectionsTelemetry,
   putPuzzleProgress,
@@ -80,11 +80,11 @@ function normalizeTileOrder(order: string[], allTileIds: string[]): string[] {
 }
 
 export default function Connections() {
+  const { playerToken } = useAuth();
   const [searchParams] = useSearchParams();
   const [puzzle, setPuzzle] = useState<Puzzle | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [sessionId, setSessionId] = useState<string | null>(null);
-  const [playerToken, setPlayerToken] = useState("");
   const [selectedTileIds, setSelectedTileIds] = useState<string[]>([]);
   const [solvedGroupIds, setSolvedGroupIds] = useState<string[]>([]);
   const [mistakes, setMistakes] = useState(0);
@@ -161,7 +161,6 @@ export default function Connections() {
     }
 
     setSessionId(getOrCreateConnectionsSessionId());
-    setPlayerToken(getOrCreatePlayerToken());
   }, []);
 
   useEffect(() => {

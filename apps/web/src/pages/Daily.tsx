@@ -1,13 +1,13 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import type { CSSProperties } from "react";
 import { Link, useSearchParams } from "react-router-dom";
+import { useAuth } from "../auth/AuthContext";
 import Layout from "../components/Layout";
 import PuzzleGrid from "../components/PuzzleGrid";
 import ClueList from "../components/ClueList";
 import {
   createChallenge,
   getDailyPuzzle,
-  getOrCreatePlayerToken,
   getPuzzleProgress,
   postCrosswordTelemetry,
   submitLeaderboardResult,
@@ -253,6 +253,7 @@ function isCleanSolve(record: CrosswordCompletionRecord | null): boolean {
 }
 
 export default function Daily() {
+  const { playerToken } = useAuth();
   const [searchParams] = useSearchParams();
   const [puzzle, setPuzzle] = useState<Puzzle | null>(null);
   const [error, setError] = useState<string | null>(null);
@@ -280,7 +281,6 @@ export default function Daily() {
   const [clearAllCount, setClearAllCount] = useState(0);
   const [autoCheckEnabled, setAutoCheckEnabled] = useState(false);
   const [pencilModeEnabled, setPencilModeEnabled] = useState(false);
-  const [playerToken, setPlayerToken] = useState("");
   const [currentStreak, setCurrentStreak] = useState(0);
   const [bestStreak, setBestStreak] = useState(0);
   const [completionRecord, setCompletionRecord] = useState<CrosswordCompletionRecord | null>(null);
@@ -410,7 +410,6 @@ export default function Daily() {
 
   useEffect(() => {
     setSessionId(getOrCreateCrosswordSessionId());
-    setPlayerToken(getOrCreatePlayerToken());
   }, []);
 
   useEffect(() => {

@@ -1,14 +1,12 @@
 import { useEffect, useMemo, useState } from "react";
-import Layout from "../components/Layout";
+import { Link } from "react-router-dom";
+import { useAuth } from "../auth/AuthContext";
 import {
   getLeaderboard,
-  getOrCreatePlayerToken,
-  getPlayerProfile,
-  putPlayerProfile,
   type CompetitiveGameType,
   type GlobalLeaderboardPage,
-  type PlayerProfile,
 } from "../api/puzzles";
+import Layout from "../components/Layout";
 
 function formatSolveMs(value: number | null | undefined) {
   if (value === null || value === undefined) return "—";
@@ -23,11 +21,7 @@ function todayIso() {
 }
 
 export default function Leaderboard() {
-  const [playerToken, setPlayerToken] = useState("");
-  const [profile, setProfile] = useState<PlayerProfile | null>(null);
-  const [displayNameDraft, setDisplayNameDraft] = useState("");
-  const [visibilityDraft, setVisibilityDraft] = useState(true);
-  const [profileStatus, setProfileStatus] = useState<string | null>(null);
+  const { authenticated, profile } = useAuth();
   const [pageData, setPageData] = useState<GlobalLeaderboardPage | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -36,23 +30,6 @@ export default function Leaderboard() {
   const [date, setDate] = useState(todayIso());
   const [page, setPage] = useState(0);
   const [cursorHistory, setCursorHistory] = useState<(string | null)[]>([null]);
-
-  useEffect(() => {
-    setPlayerToken(getOrCreatePlayerToken());
-  }, []);
-
-  useEffect(() => {
-    if (!playerToken) return;
-    getPlayerProfile({ playerToken })
-      .then((item) => {
-        setProfile(item);
-        setDisplayNameDraft(item.displayName);
-        setVisibilityDraft(item.leaderboardVisible);
-      })
-      .catch(() => {
-        setProfileStatus("Could not load profile settings.");
-      });
-  }, [playerToken]);
 
   const fetchPage = useMemo(
     () => async (cursor: string | null) => {
@@ -82,24 +59,6 @@ export default function Leaderboard() {
     void fetchPage(null);
   }, [fetchPage]);
 
-  const onSaveProfile = async (event: React.FormEvent<HTMLFormElement>) => {
-    event.preventDefault();
-    if (!playerToken) return;
-    try {
-      const item = await putPlayerProfile({
-        playerToken,
-        displayName: displayNameDraft,
-        leaderboardVisible: visibilityDraft,
-      });
-      setProfile(item);
-      setDisplayNameDraft(item.displayName);
-      setVisibilityDraft(item.leaderboardVisible);
-      setProfileStatus("Privacy settings saved.");
-    } catch {
-      setProfileStatus("Could not save profile settings.");
-    }
-  };
-
   const goPrevious = () => {
     if (page <= 0) return;
     const prevPage = page - 1;
@@ -127,28 +86,20 @@ export default function Leaderboard() {
           <h2 id="leaderboard-heading">Leaderboard</h2>
           <p>Compare completion performance for daily and weekly windows.</p>
         </div>
-        <form className="card leaderboard-profile" onSubmit={onSaveProfile}>
-          <h3>Your Ranking Privacy</h3>
-          <label>
-            <span>Display Name</span>
-            <input value={displayNameDraft} onChange={(event) => setDisplayNameDraft(event.target.value)} maxLength={40} />
-          </label>
-          <label className="archive-checkbox">
-            <input
-              type="checkbox"
-              checked={visibilityDraft}
-              onChange={(event) => setVisibilityDraft(event.target.checked)}
-            />
-            <span>Show me in leaderboards</span>
-          </label>
-          <div className="leaderboard-profile__actions">
-            <button className="button" type="submit" disabled={!playerToken}>
-              Save Privacy
-            </button>
-            {profile ? <span className="panel__meta">Current: {profile.displayName}</span> : null}
-          </div>
-          {profileStatus ? <p className="panel__meta">{profileStatus}</p> : null}
-        </form>
+        <div className="card leaderboard-profile">
+          <h3>Your Account</h3>
+          {authenticated && profile ? (
+            <p className="panel__meta">
+              Signed in as <strong>{profile.displayName}</strong>. Manage your pseudonym and leaderboard visibility on the{" "}
+              <Link to="/account">Account</Link> page.
+            </p>
+          ) : (
+            <p className="panel__meta">
+              Playing as a guest. Create an account on the <Link to="/account">Account</Link> page to claim your progress and
+              use a stable public pseudonym.
+            </p>
+          )}
+        </div>
         <div className="card leaderboard-controls">
           <label>
             <span>Game</span>
@@ -198,7 +149,9 @@ export default function Leaderboard() {
                 {(pageData?.items ?? []).map((item) => (
                   <tr key={`${item.playerToken}-${item.rank}`}>
                     <td>#{item.rank}</td>
-                    <td>{item.displayName}</td>
+                    <td>
+                      {item.publicSlug ? <Link to={`/players/${item.publicSlug}`}>{item.displayName}</Link> : item.displayName}
+                    </td>
                     <td>{item.completions}</td>
                     <td>{formatSolveMs(item.averageSolveTimeMs)}</td>
                     <td>{formatSolveMs(item.bestSolveTimeMs)}</td>

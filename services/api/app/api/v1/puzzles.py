@@ -19,6 +19,7 @@ from app.api.v1.models import (
     PersonalStatsResponse,
     PlayerProfileResponse,
     PlayerProfileUpdateRequest,
+    PublicPlayerStatsResponse,
     ChallengeCreateRequest,
     ChallengeDetailResponse,
     ChallengeJoinResponse,
@@ -63,11 +64,24 @@ def _resolve_export_puzzle(
 
 
 def _resolve_player_token(request: Request, fallback_query_token: str | None = None) -> str:
+    session_payload = repo.get_player_auth_session(session_token=request.cookies.get(config.AUTH_SESSION_COOKIE_NAME, ""))
+    session_token = (session_payload.get("playerToken") or "").strip()
+    if session_token:
+        return session_token
     header_token = request.headers.get("x-player-token")
     resolved_token = (header_token or fallback_query_token or "").strip()
     if not resolved_token:
         raise HTTPException(status_code=422, detail="Missing player token")
     return resolved_token
+
+
+def _resolve_optional_player_token(request: Request, fallback_query_token: str | None = None) -> str | None:
+    session_payload = repo.get_player_auth_session(session_token=request.cookies.get(config.AUTH_SESSION_COOKIE_NAME, ""))
+    session_token = (session_payload.get("playerToken") or "").strip()
+    if session_token:
+        return session_token
+    resolved_token = (request.headers.get("x-player-token") or fallback_query_token or "").strip()
+    return resolved_token or None
 
 
 @router.get("/daily", response_model=PuzzleResponse)
@@ -191,6 +205,20 @@ def get_personal_stats(
     return {"data": repo.get_personal_stats(session_ids=clean_session_ids, days=days, timezone=config.TIMEZONE)}
 
 
+@router.get("/stats/me", response_model=PersonalStatsResponse)
+def get_authenticated_player_stats(request: Request, days: int = Query(default=30, ge=1, le=365)):
+    token = _resolve_player_token(request)
+    return {"data": repo.get_player_stats(player_token=token, days=days, timezone=config.TIMEZONE)}
+
+
+@router.get("/players/{publicSlug}", response_model=PublicPlayerStatsResponse)
+def get_public_player_stats(publicSlug: str, days: int = Query(default=30, ge=1, le=365)):
+    item = repo.get_public_player_stats(public_slug=publicSlug, days=days, timezone=config.TIMEZONE)
+    if item is None:
+        raise HTTPException(status_code=404, detail="Player not found")
+    return {"data": item}
+
+
 @router.get("/profile", response_model=PlayerProfileResponse)
 def get_player_profile(
     request: Request,
@@ -250,7 +278,7 @@ def get_challenge(
     limit: int = Query(default=25, ge=1, le=100),
     playerToken: str | None = Query(default=None, min_length=1, max_length=128),
 ):
-    token = (request.headers.get("x-player-token") or playerToken or "").strip()
+    token = _resolve_optional_player_token(request, playerToken)
     item = repo.get_challenge_detail(challenge_code=challenge_code, player_token=token or None, limit=limit, cursor=cursor)
     if item is None:
         raise HTTPException(status_code=404, detail="Challenge not found")

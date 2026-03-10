@@ -1,11 +1,11 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { CSSProperties } from "react";
 import { Link, useSearchParams } from "react-router-dom";
+import { useAuth } from "../auth/AuthContext";
 import Layout from "../components/Layout";
 import {
   createChallenge,
   getDailyPuzzle,
-  getOrCreatePlayerToken,
   getPuzzleProgress,
   postCrypticClueFeedback,
   postCrypticTelemetry,
@@ -168,13 +168,13 @@ function explanationDetails(entry: PuzzleEntry): string[] {
 
 export default function Cryptic() {
   const isDev = import.meta.env.DEV;
+  const { playerToken } = useAuth();
   const [searchParams] = useSearchParams();
   const [puzzle, setPuzzle] = useState<Puzzle | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [guess, setGuess] = useState("");
   const [message, setMessage] = useState<string>("Enter your guess and submit.");
   const [sessionId, setSessionId] = useState<string | null>(null);
-  const [playerToken, setPlayerToken] = useState("");
   const [isCelebrating, setIsCelebrating] = useState(false);
   const [celebrationKey, setCelebrationKey] = useState(0);
   const [hintStep, setHintStep] = useState(0);
@@ -203,7 +203,6 @@ export default function Cryptic() {
 
   useEffect(() => {
     setSessionId(getOrCreateSessionId());
-    setPlayerToken(getOrCreatePlayerToken());
     setError(null);
     setGuess("");
     setMessage("Enter your guess and submit.");

@@ -75,6 +75,13 @@ export default function SidebarNav({
           Leaderboards
         </Link>
         <Link
+          to="/account"
+          className={`sidebar__link ${location.pathname === "/account" ? "is-active" : ""}`}
+          aria-current={location.pathname === "/account" ? "page" : undefined}
+        >
+          Account
+        </Link>
+        <Link
           to="/text-only"
           className={`sidebar__link ${location.pathname === "/text-only" ? "is-active" : ""}`}
           aria-current={location.pathname === "/text-only" ? "page" : undefined}

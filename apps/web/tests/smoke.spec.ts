@@ -213,10 +213,34 @@ const personalStats = {
   },
 };
 
+const guestAuthSession = {
+  authenticated: false,
+  playerToken: null,
+  username: null,
+  profile: null,
+  mergedGuestToken: null,
+};
+
 const leaderboardPage = {
   items: [
-    { rank: 1, playerToken: "anon_ash", displayName: "Ash", completions: 7, averageSolveTimeMs: 65000, bestSolveTimeMs: 54000 },
-    { rank: 2, playerToken: "anon_misty", displayName: "Misty", completions: 6, averageSolveTimeMs: 71000, bestSolveTimeMs: 59000 },
+    {
+      rank: 1,
+      playerToken: "anon_ash",
+      displayName: "Ash",
+      publicSlug: "ash-ketchum",
+      completions: 7,
+      averageSolveTimeMs: 65000,
+      bestSolveTimeMs: 54000,
+    },
+    {
+      rank: 2,
+      playerToken: "anon_misty",
+      displayName: "Misty",
+      publicSlug: "misty",
+      completions: 6,
+      averageSolveTimeMs: 71000,
+      bestSolveTimeMs: 59000,
+    },
   ],
   cursor: null,
   hasMore: false,
@@ -227,7 +251,21 @@ const leaderboardPage = {
 const playerProfile = {
   playerToken: "anon_smoke_player",
   displayName: "Ash",
+  publicSlug: "ash-ketchum",
   leaderboardVisible: true,
+  hasAccount: false,
+};
+
+const publicPlayerStats = {
+  profile: {
+    displayName: "Ash",
+    publicSlug: "ash-ketchum",
+    leaderboardVisible: true,
+    hasAccount: true,
+    createdAt: "2026-03-10T09:00:00Z",
+    updatedAt: "2026-03-10T09:00:00Z",
+  },
+  stats: personalStats,
 };
 
 const challengeDetail = {
@@ -239,7 +277,15 @@ const challengeDetail = {
   },
   joined: false,
   items: [
-    { rank: 1, playerToken: "anon_ash", displayName: "Ash", solveTimeMs: 54000, usedAssists: false, usedReveals: false },
+    {
+      rank: 1,
+      playerToken: "anon_ash",
+      displayName: "Ash",
+      publicSlug: "ash-ketchum",
+      solveTimeMs: 54000,
+      usedAssists: false,
+      usedReveals: false,
+    },
   ],
   cursor: null,
   hasMore: false,
@@ -285,6 +331,7 @@ async function mockApi(page: Page) {
   await page.addInitScript(() => {
     window.localStorage.setItem("crossword:session-id", "sess_crossword_smoke");
     window.localStorage.setItem("cryptic:session-id", "sess_cryptic_smoke");
+    window.localStorage.setItem("connections:session-id", "sess_connections_smoke");
     window.localStorage.setItem("player:token:v1", "anon_smoke_player");
     Object.defineProperty(navigator, "sendBeacon", {
       configurable: true,
@@ -312,6 +359,10 @@ async function mockApi(page: Page) {
       return fulfillJson(route, { data: personalStats });
     }
 
+    if (pathname === "/api/v1/auth/session" && request.method() === "GET") {
+      return fulfillJson(route, { data: guestAuthSession });
+    }
+
     if (pathname === "/api/v1/puzzles/profile" && request.method() === "GET") {
       return fulfillJson(route, { data: playerProfile });
     }
@@ -322,6 +373,10 @@ async function mockApi(page: Page) {
 
     if (pathname === "/api/v1/puzzles/leaderboard" && request.method() === "GET") {
       return fulfillJson(route, { data: leaderboardPage });
+    }
+
+    if (pathname === "/api/v1/puzzles/players/ash-ketchum" && request.method() === "GET") {
+      return fulfillJson(route, { data: publicPlayerStats });
     }
 
     if (pathname === "/api/v1/puzzles/export/text" && request.method() === "GET") {
@@ -437,8 +492,16 @@ test("secondary routes render with mocked data", async ({ page }) => {
 
   await page.goto("/leaderboard");
   await expect(page.getByRole("heading", { name: "Leaderboard" })).toBeVisible();
-  await expect(page.getByText("Your Ranking Privacy")).toBeVisible();
+  await expect(page.getByText("Your Account")).toBeVisible();
   await expect(page.getByRole("cell", { name: "Ash" })).toBeVisible();
+
+  await page.goto("/account");
+  await expect(page.getByRole("heading", { name: "Account", exact: true })).toBeVisible();
+  await expect(page.getByText("This will claim the guest progress currently stored on this device.")).toBeVisible();
+
+  await page.goto("/players/ash-ketchum");
+  await expect(page.getByRole("heading", { name: "Ash" })).toBeVisible();
+  await expect(page.getByText("Public stats page for @ash-ketchum.")).toBeVisible();
 
   await page.goto("/admin");
   await expect(page.getByRole("heading", { name: "Admin Console" })).toBeVisible();

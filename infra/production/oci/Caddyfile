@@ -1,0 +1,21 @@
+{$SITE_HOST:localhost} {
+    encode zstd gzip
+
+    header {
+        Referrer-Policy same-origin
+        X-Content-Type-Options nosniff
+        X-Frame-Options SAMEORIGIN
+    }
+
+    handle /health {
+        reverse_proxy api:8000
+    }
+
+    handle /api/* {
+        reverse_proxy api:8000
+    }
+
+    handle {
+        reverse_proxy web:80
+    }
+}

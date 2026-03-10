@@ -1,0 +1,16 @@
+.DS_Store
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# Deployment-local files that must never be committed with real values
+infra/production/oci/env/*.local
+infra/production/oci/env/*.generated
+
+# Common operator secret material
+*.pem
+*.p12
+*.pfx
+*.key

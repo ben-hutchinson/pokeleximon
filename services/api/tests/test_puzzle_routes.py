@@ -40,6 +40,8 @@ class PuzzleRouteOrderTests(unittest.TestCase):
         source = PUZZLES_FILE.read_text(encoding="utf-8")
         marker = '@router.get("/stats/personal"'
         self.assertIn(marker, source)
+        self.assertIn('@router.get("/stats/me"', source)
+        self.assertIn('@router.get("/players/{publicSlug}"', source)
 
     def test_progress_routes_exist(self):
         source = PUZZLES_FILE.read_text(encoding="utf-8")
@@ -60,6 +62,7 @@ class PuzzleRouteOrderTests(unittest.TestCase):
         self.assertIn('@router.get("/challenges/{challenge_code}"', source)
         self.assertIn('@router.post("/leaderboard/submit"', source)
         self.assertIn('@router.get("/leaderboard"', source)
+        self.assertIn("def _resolve_optional_player_token", source)
 
     def test_progress_route_is_declared_before_dynamic_puzzle_id(self):
         source = PUZZLES_FILE.read_text(encoding="utf-8")

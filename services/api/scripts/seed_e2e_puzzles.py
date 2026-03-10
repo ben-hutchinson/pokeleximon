@@ -210,6 +210,48 @@ def seed_puzzle(cur: psycopg.Cursor, payload: dict[str, object], overwrite: bool
     return f"insert {game_type} {target_date}: id={payload['id']}"
 
 
+def seed_public_profile(cur: psycopg.Cursor) -> str:
+    cur.execute(
+        "INSERT INTO player_profiles (player_token, display_name, public_slug, leaderboard_visible) "
+        "VALUES (%(player_token)s, %(display_name)s, %(public_slug)s, true) "
+        "ON CONFLICT (player_token) DO UPDATE SET "
+        "display_name = EXCLUDED.display_name, "
+        "public_slug = EXCLUDED.public_slug, "
+        "leaderboard_visible = EXCLUDED.leaderboard_visible",
+        {
+            "player_token": "e2e_ash_token",
+            "display_name": "Ash",
+            "public_slug": "ash-ketchum",
+        },
+    )
+    return "upsert player profile: ash-ketchum"
+
+
+def seed_leaderboard_submission(cur: psycopg.Cursor, *, puzzle_id: str, game_type: str, target_date: date, solve_time_ms: int) -> str:
+    cur.execute(
+        "INSERT INTO leaderboard_submissions ("
+        "player_token, game_type, puzzle_id, puzzle_date, completed, solve_time_ms, used_assists, used_reveals, session_id"
+        ") VALUES ("
+        "%(player_token)s, %(game_type)s, %(puzzle_id)s, %(puzzle_date)s, true, %(solve_time_ms)s, false, false, %(session_id)s"
+        ") ON CONFLICT (player_token, puzzle_id) DO UPDATE SET "
+        "completed = EXCLUDED.completed, "
+        "solve_time_ms = EXCLUDED.solve_time_ms, "
+        "used_assists = EXCLUDED.used_assists, "
+        "used_reveals = EXCLUDED.used_reveals, "
+        "session_id = EXCLUDED.session_id, "
+        "updated_at = NOW()",
+        {
+            "player_token": "e2e_ash_token",
+            "game_type": game_type,
+            "puzzle_id": puzzle_id,
+            "puzzle_date": target_date,
+            "solve_time_ms": solve_time_ms,
+            "session_id": f"seed_{game_type}_session",
+        },
+    )
+    return f"upsert leaderboard submission: {game_type} {target_date}"
+
+
 def main() -> None:
     load_dotenv()
     args = parse_args()
@@ -228,8 +270,26 @@ def main() -> None:
 
     with psycopg.connect(db_url) as conn:
         with conn.cursor() as cur:
+            inserted_ids: dict[str, str] = {}
             for payload in payloads:
                 print(seed_puzzle(cur, payload, overwrite=args.overwrite))
+                inserted_ids[str(payload["game_type"])] = str(payload["id"])
+            print(seed_public_profile(cur))
+            print(
+                seed_leaderboard_submission(
+                    cur, puzzle_id=inserted_ids["crossword"], game_type="crossword", target_date=target_date, solve_time_ms=54000
+                )
+            )
+            print(
+                seed_leaderboard_submission(
+                    cur, puzzle_id=inserted_ids["cryptic"], game_type="cryptic", target_date=target_date, solve_time_ms=61000
+                )
+            )
+            print(
+                seed_leaderboard_submission(
+                    cur, puzzle_id=inserted_ids["connections"], game_type="connections", target_date=target_date, solve_time_ms=45000
+                )
+            )
         conn.commit()
 
 

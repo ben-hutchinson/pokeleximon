@@ -1,9 +1,9 @@
 import { useEffect, useMemo, useState } from "react";
 import { Link, useParams } from "react-router-dom";
+import { useAuth } from "../auth/AuthContext";
 import Layout from "../components/Layout";
 import {
   getChallenge,
-  getOrCreatePlayerToken,
   joinChallenge,
   type ChallengeDetail,
   type ChallengeLeaderboardEntry,
@@ -32,9 +32,9 @@ function sortRows(items: ChallengeLeaderboardEntry[]) {
 }
 
 export default function Challenge() {
+  const { playerToken } = useAuth();
   const params = useParams();
   const challengeCode = (params.challengeCode ?? "").trim().toUpperCase();
-  const [playerToken, setPlayerToken] = useState("");
   const [detail, setDetail] = useState<ChallengeDetail | null>(null);
   const [loading, setLoading] = useState(true);
   const [joining, setJoining] = useState(false);
@@ -42,10 +42,6 @@ export default function Challenge() {
   const [status, setStatus] = useState<string | null>(null);
   const [page, setPage] = useState(0);
   const [cursorHistory, setCursorHistory] = useState<(string | null)[]>([null]);
-
-  useEffect(() => {
-    setPlayerToken(getOrCreatePlayerToken());
-  }, []);
 
   const fetchPage = useMemo(
     () => async (cursor: string | null) => {
@@ -185,7 +181,7 @@ export default function Challenge() {
                 {rankedItems.map((item) => (
                   <tr key={`${item.playerToken}-${item.rank}`}>
                     <td>#{item.rank}</td>
-                    <td>{item.displayName}</td>
+                    <td>{item.publicSlug ? <Link to={`/players/${item.publicSlug}`}>{item.displayName}</Link> : item.displayName}</td>
                     <td>{formatSolveMs(item.solveTimeMs)}</td>
                     <td>{item.usedAssists ? "Yes" : "No"}</td>
                     <td>{item.usedReveals ? "Yes" : "No"}</td>

@@ -53,6 +53,13 @@ jobs:
           docker compose -f services/api/docker-compose.yml logs --tail=200
           exit 1
 
+      - name: Upgrade API schema
+        run: |
+          docker compose -f services/api/docker-compose.yml exec -T db \
+            psql -U postgres -d pokeleximon \
+            -c "ALTER TABLE alembic_version ALTER COLUMN version_num TYPE VARCHAR(64);"
+          docker compose -f services/api/docker-compose.yml exec -T api alembic upgrade head
+
       - name: Seed deterministic e2e puzzles
         run: docker compose -f services/api/docker-compose.yml exec -T api python scripts/seed_e2e_puzzles.py --date 2099-01-01 --overwrite
 
