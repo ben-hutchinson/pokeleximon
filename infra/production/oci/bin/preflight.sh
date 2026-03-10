@@ -41,6 +41,8 @@ DEPLOY_ENV="${APP_DIR}/deploy.env"
 WEB_ENV="${APP_DIR}/web.env"
 SECRETS_DIR="${ROOT}/secrets"
 API_ENV="${SECRETS_DIR}/api.env"
+PROXY_ENV="${SECRETS_DIR}/proxy.env"
+ACCESS_FILE="${SECRETS_DIR}/admin_access.txt"
 CURRENT_LINK="${APP_DIR}/current"
 
 pass() {
@@ -95,6 +97,8 @@ check_mode() {
 
 check_exists "${DEPLOY_ENV}"
 check_exists "${API_ENV}"
+check_exists "${PROXY_ENV}"
+check_exists "${ACCESS_FILE}"
 check_exists "${SECRETS_DIR}"
 
 if [[ -e "${SECRETS_DIR}" ]]; then
@@ -104,6 +108,13 @@ if [[ -f "${API_ENV}" ]]; then
   check_mode "${API_ENV}" "600"
   check_no_pattern "${API_ENV}" 'CHANGE_ME_ON_SERVER_ONLY' 'no placeholder secrets remain'
   check_no_pattern "${API_ENV}" '^VITE_ADMIN_API_TOKEN=' 'frontend admin token absent from api env'
+fi
+if [[ -f "${PROXY_ENV}" ]]; then
+  check_mode "${PROXY_ENV}" "600"
+  check_no_pattern "${PROXY_ENV}" 'CHANGE_ME_HASHED_ON_SERVER_ONLY' 'proxy password hash generated'
+fi
+if [[ -f "${ACCESS_FILE}" ]]; then
+  check_mode "${ACCESS_FILE}" "600"
 fi
 if [[ -f "${DEPLOY_ENV}" ]]; then
   check_no_pattern "${DEPLOY_ENV}" '^VITE_ADMIN_API_TOKEN=' 'frontend admin token absent from deploy env'

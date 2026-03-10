@@ -7,6 +7,11 @@
         X-Frame-Options SAMEORIGIN
     }
 
+    @admin path /admin /admin/* /api/v1/admin /api/v1/admin/*
+    basicauth @admin {
+        {$PROXY_BASIC_AUTH_USER} {$PROXY_BASIC_AUTH_PASSWORD_HASH}
+    }
+
     handle /health {
         reverse_proxy api:8000
     }

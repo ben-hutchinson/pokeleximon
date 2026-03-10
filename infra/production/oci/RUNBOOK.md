@@ -9,6 +9,7 @@ This runbook sets up Pokeleximon on a single Oracle Cloud Always Free VM using D
 - Do not commit copied env files.
 - Do not place runtime secrets in GitHub Actions, workflow YAML, build args, or `.env.example`.
 - Do not use `VITE_ADMIN_API_TOKEN` in production builds.
+- Protect `/admin` and `/api/v1/admin/*` with reverse-proxy basic auth and the API admin token.
 
 ## Server Layout
 
@@ -61,7 +62,9 @@ Important:
 - `DATABASE_URL` must continue to point to `db` as the hostname.
 - `REDIS_URL` must continue to point to `redis` as the hostname.
 - `PUBLISH_ON_STARTUP` stays `false` in production.
-- The generated admin token and Postgres password are not printed by the helper script. Save them from the file into your password manager after creation.
+- The generated admin token, proxy username/password, and Postgres password are not printed by the helper script.
+- Operator-only access values are stored in `/opt/pokeleximon/secrets/admin_access.txt`.
+- The reverse proxy reads `/opt/pokeleximon/secrets/proxy.env`.
 
 ## GitHub Actions Secrets
 
@@ -195,6 +198,13 @@ If you want to regenerate the admin token and DB password together, run:
 sudo bash /opt/pokeleximon/app/current/infra/production/oci/bin/create_secrets.sh --root /opt/pokeleximon --force
 sudo bash /opt/pokeleximon/app/current/infra/production/oci/bin/preflight.sh --root /opt/pokeleximon
 ```
+
+Admin access is now layered:
+
+1. Reverse-proxy basic auth gates `/admin` and `/api/v1/admin/*`
+2. The admin UI still requires the API admin token for admin requests
+
+That means public users do not see an admin link, cannot browse to admin without proxy credentials, and still cannot call admin APIs without the separate token.
 
 ## Monthly Maintenance
 

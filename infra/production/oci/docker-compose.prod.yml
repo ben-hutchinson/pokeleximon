@@ -9,6 +9,8 @@ services:
         condition: service_healthy
       web:
         condition: service_started
+    env_file:
+      - ${POKELEXIMON_SECRETS_DIR:-/opt/pokeleximon/secrets}/proxy.env
     environment:
       SITE_HOST: ${SITE_HOST:-localhost}
     ports:

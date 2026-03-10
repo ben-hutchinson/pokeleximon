@@ -5,9 +5,9 @@ usage() {
   cat <<'EOF'
 Usage: create_secrets.sh [--root /opt/pokeleximon] [--force]
 
-Creates /opt/pokeleximon/secrets/api.env from the committed template, generates
-fresh secrets in place, and locks file permissions. Secret values are never
-printed to stdout.
+Creates server-local secret files from the committed templates, generates fresh
+admin/API/proxy secrets in place, and locks file permissions. Secret values are
+never printed to stdout.
 EOF
 }
 
@@ -38,10 +38,13 @@ done
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 TEMPLATE_PATH="${SCRIPT_DIR}/../env/api.env.template"
+PROXY_TEMPLATE_PATH="${SCRIPT_DIR}/../env/proxy.env.template"
 SECRETS_DIR="${ROOT}/secrets"
 TARGET_PATH="${SECRETS_DIR}/api.env"
+PROXY_TARGET_PATH="${SECRETS_DIR}/proxy.env"
+ACCESS_TARGET_PATH="${SECRETS_DIR}/admin_access.txt"
 
-if [[ ! -f "${TEMPLATE_PATH}" ]]; then
+if [[ ! -f "${TEMPLATE_PATH}" || ! -f "${PROXY_TEMPLATE_PATH}" ]]; then
   printf 'Template not found: %s\n' "${TEMPLATE_PATH}" >&2
   exit 1
 fi
@@ -56,8 +59,26 @@ generate_secret() {
   fi
 }
 
+hash_password() {
+  local password="$1"
+  if command -v caddy >/dev/null 2>&1; then
+    caddy hash-password --plaintext "${password}"
+  elif command -v docker >/dev/null 2>&1; then
+    docker run --rm caddy:2.8-alpine caddy hash-password --plaintext "${password}"
+  else
+    printf 'Need either caddy or docker available to generate the proxy password hash.\n' >&2
+    exit 1
+  fi
+}
+
 if [[ -f "${TARGET_PATH}" && "${FORCE}" != "true" ]]; then
   printf 'Refusing to overwrite existing secret file: %s\n' "${TARGET_PATH}" >&2
+  printf 'Re-run with --force if you intend to rotate all generated secrets.\n' >&2
+  exit 1
+fi
+
+if [[ -f "${PROXY_TARGET_PATH}" && "${FORCE}" != "true" ]]; then
+  printf 'Refusing to overwrite existing secret file: %s\n' "${PROXY_TARGET_PATH}" >&2
   printf 'Re-run with --force if you intend to rotate all generated secrets.\n' >&2
   exit 1
 fi
@@ -66,11 +87,17 @@ install -d -m 0700 "${SECRETS_DIR}"
 
 ADMIN_TOKEN="$(generate_secret)"
 DB_PASSWORD="$(generate_secret)"
+PROXY_USER="admin"
+PROXY_PASSWORD="$(generate_secret)"
+PROXY_PASSWORD_HASH="$(hash_password "${PROXY_PASSWORD}")"
 
 TMP_FILE="$(mktemp "${SECRETS_DIR}/api.env.XXXXXX")"
-trap 'rm -f "${TMP_FILE}"' EXIT
+PROXY_TMP_FILE="$(mktemp "${SECRETS_DIR}/proxy.env.XXXXXX")"
+ACCESS_TMP_FILE="$(mktemp "${SECRETS_DIR}/admin_access.XXXXXX")"
+trap 'rm -f "${TMP_FILE}" "${PROXY_TMP_FILE}" "${ACCESS_TMP_FILE}"' EXIT
 
 cp "${TEMPLATE_PATH}" "${TMP_FILE}"
+cp "${PROXY_TEMPLATE_PATH}" "${PROXY_TMP_FILE}"
 
 python3 - "${TMP_FILE}" "${ADMIN_TOKEN}" "${DB_PASSWORD}" <<'PY'
 from pathlib import Path
@@ -90,11 +117,36 @@ text = text.replace(
 path.write_text(text)
 PY
 
-install -m 0600 "${TMP_FILE}" "${TARGET_PATH}"
-chown root:root "${TARGET_PATH}" 2>/dev/null || true
+python3 - "${PROXY_TMP_FILE}" "${PROXY_USER}" "${PROXY_PASSWORD_HASH}" <<'PY'
+from pathlib import Path
+import sys
 
-rm -f "${TMP_FILE}"
+path = Path(sys.argv[1])
+username = sys.argv[2]
+password_hash = sys.argv[3]
+
+text = path.read_text()
+text = text.replace("PROXY_BASIC_AUTH_USER=admin", f"PROXY_BASIC_AUTH_USER={username}")
+text = text.replace("PROXY_BASIC_AUTH_PASSWORD_HASH=CHANGE_ME_HASHED_ON_SERVER_ONLY", f"PROXY_BASIC_AUTH_PASSWORD_HASH={password_hash}")
+path.write_text(text)
+PY
+
+cat > "${ACCESS_TMP_FILE}" <<EOF
+ADMIN_AUTH_TOKEN=${ADMIN_TOKEN}
+PROXY_BASIC_AUTH_USER=${PROXY_USER}
+PROXY_BASIC_AUTH_PASSWORD=${PROXY_PASSWORD}
+EOF
+
+install -m 0600 "${TMP_FILE}" "${TARGET_PATH}"
+install -m 0600 "${PROXY_TMP_FILE}" "${PROXY_TARGET_PATH}"
+install -m 0600 "${ACCESS_TMP_FILE}" "${ACCESS_TARGET_PATH}"
+chown root:root "${TARGET_PATH}" 2>/dev/null || true
+chown root:root "${PROXY_TARGET_PATH}" 2>/dev/null || true
+chown root:root "${ACCESS_TARGET_PATH}" 2>/dev/null || true
+
+rm -f "${TMP_FILE}" "${PROXY_TMP_FILE}" "${ACCESS_TMP_FILE}"
 trap - EXIT
 
-printf 'Created %s with generated admin token and database password.\n' "${TARGET_PATH}"
+printf 'Created %s and %s with generated admin/API/proxy secrets.\n' "${TARGET_PATH}" "${PROXY_TARGET_PATH}"
+printf 'Operator access values were written to %s.\n' "${ACCESS_TARGET_PATH}"
 printf 'Next step: edit optional values such as SENTRY_DSN and ALERT_WEBHOOK_URL manually.\n'

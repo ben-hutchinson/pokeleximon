@@ -32,9 +32,6 @@ export default function Home() {
         <Link className="button ghost" to="/account">
           Account
         </Link>
-        <Link className="button ghost" to="/admin">
-          Admin Console
-        </Link>
       </section>
     </Layout>
   );

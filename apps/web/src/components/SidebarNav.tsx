@@ -88,13 +88,6 @@ export default function SidebarNav({
         >
           Text-Only
         </Link>
-        <Link
-          to="/admin"
-          className={`sidebar__link ${location.pathname === "/admin" ? "is-active" : ""}`}
-          aria-current={location.pathname === "/admin" ? "page" : undefined}
-        >
-          Admin
-        </Link>
         <button
           className={`button ghost contrast-toggle sidebar__contrast-toggle${highContrast ? " is-enabled" : ""}`}
           type="button"
