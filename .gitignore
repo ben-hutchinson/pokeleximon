@@ -5,6 +5,17 @@
 .env.local
 .env.*.local
 
+# Generated Python artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Generated frontend artifacts
+*.tsbuildinfo
+test-results/
+playwright-report/
+
 # Deployment-local files that must never be committed with real values
 infra/production/oci/env/*.local
 infra/production/oci/env/*.generated
