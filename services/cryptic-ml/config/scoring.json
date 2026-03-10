@@ -1,0 +1,32 @@
+{
+  "base_score": 50,
+  "validity_bonus": 18,
+  "validity_fail_penalty": 40,
+  "warning_penalty": 3,
+  "error_penalty": 12,
+  "mechanism_weights": {
+    "charade": 9,
+    "anagram": 8,
+    "deletion": 7,
+    "container": 6,
+    "hidden": 5
+  },
+  "clue_len_min": 28,
+  "clue_len_max": 72,
+  "clue_len_bonus": 6,
+  "clue_len_penalty_factor": 0.35,
+  "clue_len_penalty_min": 1,
+  "clue_len_penalty_max": 9,
+  "lexical_high_threshold": 0.72,
+  "lexical_low_threshold": 0.55,
+  "lexical_high_bonus": 4,
+  "lexical_low_penalty": 3,
+  "charade_multitoken_bonus": 5,
+  "hidden_penalty": 2,
+  "indicator_bonus": 2.5,
+  "indicator_penalty": 2.5,
+  "enum_match_bonus": 3.5,
+  "enum_mismatch_penalty": 8,
+  "score_min": 0,
+  "score_max": 100
+}

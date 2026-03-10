@@ -1,0 +1,46 @@
+{
+  "rules": [
+    {
+      "id": "species",
+      "title": "Pokemon species",
+      "sourceType": "pokemon-species",
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "moves",
+      "title": "Pokemon moves",
+      "sourceType": "move",
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "abilities",
+      "title": "Pokemon abilities",
+      "sourceType": "ability",
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "items",
+      "title": "Pokemon items",
+      "sourceType": "item",
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "locations",
+      "title": "Pokemon locations",
+      "sourceType": "location",
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "types",
+      "title": "Pokemon types",
+      "sourceType": "type",
+      "minLength": 4,
+      "maxLength": 14
+    }
+  ]
+}

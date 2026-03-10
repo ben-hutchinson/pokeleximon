@@ -1,0 +1,86 @@
+name: Playwright
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+
+jobs:
+  e2e:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: apps/web/package-lock.json
+
+      - name: Install web dependencies
+        working-directory: apps/web
+        run: npm ci
+
+      - name: Install Playwright browsers
+        working-directory: apps/web
+        run: npx playwright install --with-deps chromium
+
+      - name: Prepare API env
+        run: |
+          cp services/api/.env.example services/api/.env
+          perl -0pi -e 's/ADMIN_AUTH_TOKEN=change-me-admin-token/ADMIN_AUTH_TOKEN=ci-admin-token/' services/api/.env
+          perl -0pi -e 's/FEATURE_CONNECTIONS_ENABLED=false/FEATURE_CONNECTIONS_ENABLED=true/' services/api/.env
+          perl -0pi -e 's/SCHEDULER_ENABLED=true/SCHEDULER_ENABLED=false/' services/api/.env
+          perl -0pi -e 's/PUBLISH_ON_STARTUP=true/PUBLISH_ON_STARTUP=false/' services/api/.env
+
+      - name: Start API stack
+        run: docker compose -f services/api/docker-compose.yml up -d --build
+
+      - name: Wait for API
+        run: |
+          for i in $(seq 1 60); do
+            if curl -fsS http://127.0.0.1:8000/openapi.json >/dev/null; then
+              exit 0
+            fi
+            sleep 2
+          done
+          docker compose -f services/api/docker-compose.yml logs --tail=200
+          exit 1
+
+      - name: Seed deterministic e2e puzzles
+        run: docker compose -f services/api/docker-compose.yml exec -T api python scripts/seed_e2e_puzzles.py --date 2099-01-01 --overwrite
+
+      - name: Run mocked smoke suite
+        working-directory: apps/web
+        env:
+          VITE_FEATURE_CONNECTIONS_ENABLED: "true"
+        run: npm run test:e2e -- tests/smoke.spec.ts
+
+      - name: Run live backend suite
+        working-directory: apps/web
+        env:
+          VITE_FEATURE_CONNECTIONS_ENABLED: "true"
+          PLAYWRIGHT_API_BASE_URL: http://127.0.0.1:8000
+          PLAYWRIGHT_ADMIN_TOKEN: ci-admin-token
+          PLAYWRIGHT_E2E_DATE: 2099-01-01
+        run: npm run test:e2e:live
+
+      - name: Upload Playwright report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-report
+          path: |
+            apps/web/playwright-report
+            apps/web/test-results
+          if-no-files-found: ignore
+
+      - name: Stop API stack
+        if: always()
+        run: docker compose -f services/api/docker-compose.yml down -v

@@ -1,0 +1,21 @@
+{
+  "size": 13,
+  "seed": 20260211,
+  "targetCount": 1,
+  "maxLayoutAttempts": 1,
+  "layoutSeconds": 0.1,
+  "layoutWorkers": 8,
+  "skipFill": true,
+  "fillMaxSeconds": 6.0,
+  "fillCpSatSeconds": 4.0,
+  "fillCpSatMaxDomain": 250,
+  "allowReuse": false,
+  "requireClues": false,
+  "outputPrefix": "quick_connected_candidate_13x13_",
+  "selectedCount": 0,
+  "stageCounts": {
+    "layout_no_solution": 1
+  },
+  "selected": [],
+  "candidates": []
+}

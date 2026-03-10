@@ -1,0 +1,4 @@
+benchmark_*.json
+benchmark_*.md
+dry_run_crossword_*.json
+*_report.json

@@ -1,0 +1,4107 @@
+{
+  "entries": {
+    "location|ABANDONED SHIP": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Abandoned Ship",
+      "updatedAt": 1771325782
+    },
+    "location|ABYSSAL RUINS": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Abyssal Ruins",
+      "updatedAt": 1771325782
+    },
+    "item|ACADEMY BALL": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Academy Ball",
+      "clue": "The this item (Japanese: スクールボール School this item) is a type of picnic item introduced in Generation IX.",
+      "updatedAt": 1771323242
+    },
+    "item|ACADEMY BOTTLE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Academy Bottle",
+      "clue": "The this item (Japanese: スクールボトル School this item) is a type of picnic item introduced in Generation IX.",
+      "updatedAt": 1771323242
+    },
+    "item|ACADEMY CUP": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Academy Cup",
+      "clue": "The this item (Japanese: スクールカップ School this item) is a type of picnic item introduced in Generation IX.",
+      "updatedAt": 1771323243
+    },
+    "location|ACCUMULA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Accumula Town",
+      "clue": "this location Town (Japanese: カラクサタウン Karakusa Town) is a small town located in southeastern Unova.",
+      "updatedAt": 1771323244
+    },
+    "location|ACCUMULA GATE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Gate",
+      "clue": "They are locations in which two other locations (typically routes or civilizations such as towns and cities) are connected, acting as a checkpoint.",
+      "updatedAt": 1771325524
+    },
+    "location|ACUITY CAVERN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Lake Acuity",
+      "clue": "Lake this location (Japanese: エイチ湖(こ) and 叡智湖 Lake Eichi) is a location in the Sinnoh region, and part of the Alabaster Icelands in the Hisui region.",
+      "updatedAt": 1771323245
+    },
+    "location|AIPOM HILL": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Aipom Hill",
+      "clue": "this location (Japanese: エイパム山 Eipam Mountain) is an area located in the western region of the Cobalt Coastlands of Hisui.",
+      "updatedAt": 1771323246
+    },
+    "location|AKALA MEADOW": {
+      "status": "not_found",
+      "updatedAt": 1771325783
+    },
+    "location|ALFORNADA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Alfornada",
+      "clue": "this location (Japanese: ベイクタウン Bake Town) is a town in the Paldea region, located in South Province (Area Six).",
+      "updatedAt": 1771323247
+    },
+    "location|AMBRETTE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Ambrette Town",
+      "clue": "this location Town (Japanese: コウジンタウン Kōjin Town) is a town located in the southwest portion of the Kalos region.",
+      "updatedAt": 1771323248
+    },
+    "location|AMBRETTE GATE": {
+      "status": "not_found",
+      "updatedAt": 1771325784
+    },
+    "location|AMITY SQUARE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Amity Square",
+      "clue": "this location (Japanese: ふれあい広場(ひろば) Petting this location) is a park in Sinnoh where Trainers can walk around with their Pokémon and talk to them to check their moods.",
+      "updatedAt": 1771325527
+    },
+    "location|ANCIENT QUARRY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Ancient Quarry",
+      "clue": "this location (Japanese: 古代の石切り場 this location) is an area located in the southern region of the Coronet Highlands of Hisui.",
+      "updatedAt": 1771323250
+    },
+    "location|ANCIENT TOMB": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Ancient Tomb",
+      "clue": "The this location (Japanese: 古代塚 this location) is a location in Hoenn on Route 120.",
+      "updatedAt": 1771323251
+    },
+    "location|ANISTAR": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Anistar City",
+      "clue": "this location City (Japanese: ヒャッコクシティ Hyakkoku City) is a city located in the Kalos region.",
+      "updatedAt": 1771323252
+    },
+    "location|ANISTAR GATE": {
+      "status": "not_found",
+      "updatedAt": 1771325785
+    },
+    "location|ANVILLE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Anville Town",
+      "clue": "this location Town (Japanese: カナワタウン Kanawa Town) is situated in the northwestern part of the Unova region.",
+      "updatedAt": 1771323253
+    },
+    "location|APPLE HILLS": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Apple Hills",
+      "updatedAt": 1771325786
+    },
+    "location|AQUACORDE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Aquacorde Town",
+      "clue": "this location Town (Japanese: メイスイタウン Meisui Town) is a town located in the southeastern part of the Kalos region.",
+      "updatedAt": 1771323254
+    },
+    "location|AREA ZERO": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Area Zero",
+      "updatedAt": 1771325786
+    },
+    "location|ARTAZON": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Artazon",
+      "clue": "this location (Japanese: ボウルタウン Bowl Town) is a town in the Paldea region, located on the border of South Province (Area Three) and East Province (Area One).",
+      "updatedAt": 1771323255
+    },
+    "location|ARTISAN CAVE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Artisan Cave",
+      "clue": "this location (Japanese: アトリエのあな Atelier Hole) is a long this location connecting one end of the Battle Frontier to the other.",
+      "updatedAt": 1771323256
+    },
+    "location|ASADO DESERT": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Asado Desert",
+      "updatedAt": 1771325790
+    },
+    "location|ASPERTIA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Aspertia City",
+      "clue": "this location City (Japanese: ヒオウギシティ Hiougi City) is a small city situated in southwestern Unova and serves as the hometown of the Unova player character in Pokémon Black 2 and White 2.",
+      "updatedAt": 1771323257
+    },
+    "location|ASPERTIA GATE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Gate",
+      "clue": "They are locations in which two other locations (typically routes or civilizations such as towns and cities) are connected, acting as a checkpoint.",
+      "updatedAt": 1771325529
+    },
+    "location|AVANCE TRAIL": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Kalos Route 2",
+      "clue": "Route 2 (Japanese: ２番道路 Route 2) is a route in southern Kalos, connecting Aquacorde Town and Santalune Forest.",
+      "updatedAt": 1771323258
+    },
+    "location|AXEWS EYE": {
+      "status": "not_found",
+      "updatedAt": 1771325791
+    },
+    "location|AZALEA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Azalea Town",
+      "clue": "this location Town (Japanese: ヒワダタウン Hiwada Town) is a small, isolated town located on the southern peninsula of the Johto region.",
+      "updatedAt": 1771323260
+    },
+    "location|AZURE BAY": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Azure Bay",
+      "updatedAt": 1771325791
+    },
+    "item|BAGUETTE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Baguette",
+      "clue": "this item (Japanese: バゲット this item) is a type of ingredient introduced in Generation IX.",
+      "updatedAt": 1771323261
+    },
+    "location|BALLIMERE LAKE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Ballimere Lake",
+      "clue": "this location (Japanese: ボールレイクの湖畔 Shore of Ball this location) is a location in the Galar region.",
+      "updatedAt": 1771323262
+    },
+    "location|BALLONLEA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Ballonlea",
+      "clue": "this location (Japanese: アラベスクタウン Arabesque Town) is a small, secluded town situated in a dense forest in the northwestern Galar region.",
+      "updatedAt": 1771323262
+    },
+    "location|BATHERS LAGOON": {
+      "status": "not_found",
+      "updatedAt": 1771325792
+    },
+    "location|BATTLE ARCADE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Battle Arcade",
+      "updatedAt": 1771325793
+    },
+    "location|BATTLE CASTLE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Battle Castle",
+      "updatedAt": 1771325793
+    },
+    "location|BATTLE CHATEAU": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Battle Chateau",
+      "clue": "The this location (Japanese: バトルシャトー this location) is a two-floor building on Route 7 in Kalos where the player can have battles.",
+      "updatedAt": 1771323265
+    },
+    "location|BATTLE FACTORY": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Battle Factory",
+      "updatedAt": 1771325794
+    },
+    "location|BATTLEGROUND": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Battleground",
+      "clue": "The this location (Japanese: しょうぶどころ Match Place) is a location in the Survival Area of the Battle Zone where Trainers come to battle each other.",
+      "updatedAt": 1771323266
+    },
+    "location|BATTLE HALL": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Battle Hall",
+      "updatedAt": 1771325794
+    },
+    "location|BATTLE MAISON": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Battle Maison",
+      "updatedAt": 1771325795
+    },
+    "location|BATTLE PARK": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Battle Park",
+      "updatedAt": 1771325795
+    },
+    "location|BATTLE RESORT": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Battle Resort",
+      "clue": "The this location (Japanese: バトルリゾート this location) is a location in Hoenn.",
+      "updatedAt": 1771323268
+    },
+    "location|BATTLE SUBWAY": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Battle Subway",
+      "updatedAt": 1771325795
+    },
+    "location|BATTLE TOWER": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Battle Tower",
+      "updatedAt": 1771325796
+    },
+    "location|BATTLE TREE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Battle Tree",
+      "updatedAt": 1771325796
+    },
+    "location|BELL TOWER": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Bell Tower",
+      "updatedAt": 1771325797
+    },
+    "location|BERRY FIELDS": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Berry fields",
+      "updatedAt": 1771325797
+    },
+    "location|BERRY FOREST": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Berry Forest",
+      "updatedAt": 1771325798
+    },
+    "location|BIRTH ISLAND": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Birth Island",
+      "clue": "this location (Japanese: たんじょうのしま this location) is a location near Six and Seven Islands in the Sevii Islands, accessible in Pokémon FireRed, LeafGreen, and Emerald.",
+      "updatedAt": 1771323273
+    },
+    "location|BLACK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Black",
+      "clue": "this location (ブラック) has several referrals.",
+      "updatedAt": 1771323273
+    },
+    "item|BLACK AUGURITE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Black Augurite",
+      "clue": "The this item (Japanese: くろのきせき this item Augite) is a type of item introduced in Pokémon Legends: Arceus.",
+      "updatedAt": 1771323468
+    },
+    "location|BLACK GATE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Gate",
+      "clue": "They are locations in which two other locations (typically routes or civilizations such as towns and cities) are connected, acting as a checkpoint.",
+      "updatedAt": 1771325538
+    },
+    "location|BLACKTHORN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Blackthorn City",
+      "clue": "this location City (Japanese: フスベシティ Fusube City) is a city located in northeast Johto.",
+      "updatedAt": 1771323279
+    },
+    "location|BLACK TOWER": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Black Tower",
+      "updatedAt": 1771325798
+    },
+    "item|BLANK PLATE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Blank Plate",
+      "clue": "The this item (Japanese: まっさらプレート this item) is a Key Item in Pokémon Legends: Arceus.",
+      "updatedAt": 1771323280
+    },
+    "ability|BLAZE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Blaze (Ability)",
+      "clue": "this ability (Japanese: もうか Raging Flames) is an Ability introduced in Generation III.",
+      "updatedAt": 1771323281
+    },
+    "item|BLUE DISH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Blue Dish",
+      "clue": "The this item (Japanese: ブループレート this item Plate) is a type of picnic item introduced in Generation IX.",
+      "updatedAt": 1771323281
+    },
+    "location|BLUSH MOUNTAIN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Blush Mountain",
+      "clue": "this location (Japanese: ホテリ山 Hoteri this location) is a location on Ula'ula Island in Alola, located on Route 12.",
+      "updatedAt": 1771323282
+    },
+    "location|BOND BRIDGE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Bond Bridge",
+      "clue": "this location (Japanese: きずなばし this location) is an area of the Sevii Islands located on Three Island, connecting its two \"parent\" and \"child\" islands.",
+      "updatedAt": 1771323469
+    },
+    "item|BOOSTER ENERGY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Booster Energy",
+      "clue": "this item (Japanese: ブーストエナジー Boost this item) is a type of item introduced in Generation IX.",
+      "updatedAt": 1771323469
+    },
+    "location|BRAVA ARENA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Brava Arena",
+      "clue": "this location (Japanese: 舞台の戦場 Stage Battlefield) is an area located in the northern region of the Crimson Mirelands of Hisui.",
+      "updatedAt": 1771323470
+    },
+    "location|BRAWLERS CAVE": {
+      "status": "not_found",
+      "updatedAt": 1771325799
+    },
+    "location|BRIDGE FIELD": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Bridge Field",
+      "clue": "this location (Japanese: ハシノマ原っぱ this location Between Bridges) is a part of the Wild Area in the Galar region, located northeast of Motostoke, connecting the southern and northern portions of the Wild Area.",
+      "updatedAt": 1771323472
+    },
+    "location|BRIDGE GATE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Gate",
+      "clue": "They are locations in which two other locations (typically routes or civilizations such as towns and cities) are connected, acting as a checkpoint.",
+      "updatedAt": 1771325540
+    },
+    "location|BROOKLET HILL": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Brooklet Hill",
+      "clue": "this location (Japanese: せせらぎの丘 this location) is a location on Akala Island in Alola, located west of Route 5.",
+      "updatedAt": 1771323473
+    },
+    "location|BRUN WAY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Kalos Route 15",
+      "clue": "Route 15 (Japanese: １５番道路 Route 15) is a route in northern Kalos, connecting Laverre City, Dendemille Town, and Route 16.",
+      "updatedAt": 1771323474
+    },
+    "location|BURNED TOWER": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Burned Tower",
+      "updatedAt": 1771325800
+    },
+    "location|CABO POCO": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Cabo Poco",
+      "clue": "this location (Japanese: コサジタウン Kosaji Town) is a small town on a cape in the south of the Paldea region.",
+      "updatedAt": 1771323475
+    },
+    "location|CAMPHRIER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Camphrier Town",
+      "clue": "this location Town (Japanese: コボクタウン Koboku Town) is a town located in the central Kalos region.",
+      "updatedAt": 1771323475
+    },
+    "location|CANALAVE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Canalave City",
+      "clue": "this location City (Japanese: ミオシティ Mio City) is a city in the Sinnoh region.",
+      "updatedAt": 1771323476
+    },
+    "location|CANYON BIOME": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Canyon Biome",
+      "updatedAt": 1771325800
+    },
+    "location|CANYON PLAZA": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Canyon Plaza",
+      "updatedAt": 1771325801
+    },
+    "location|CAPE BRINK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Cape Brink",
+      "clue": "this location (Japanese: きわのみさき this location) is a short, straightforward walk up a mountain on Two Island to the house of one of the many Move Tutors in Pokémon FireRed and LeafGreen.",
+      "updatedAt": 1771323478
+    },
+    "location|CASCARRAFA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Cascarrafa",
+      "clue": "this location (Japanese: カラフシティ Carafe City) is a city in the Paldea region, located on the edge of the Asado Desert and West Province (Area One).",
+      "updatedAt": 1771323478
+    },
+    "location|CASSEROYA LAKE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Casseroya Lake",
+      "updatedAt": 1771325801
+    },
+    "location|CASTAWAY SHORE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Castaway Shore",
+      "clue": "this location (Japanese: 迷子の磯辺 Strays' this location) is an area located in the central region of the Cobalt Coastlands of Hisui.",
+      "updatedAt": 1771323479
+    },
+    "location|CASTELIA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Castelia City",
+      "clue": "this location City (Japanese: ヒウンシティ Hiun City) is a large seaside city located in south central Unova.",
+      "updatedAt": 1771323480
+    },
+    "location|CASTELIA GATE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Gate",
+      "clue": "They are locations in which two other locations (typically routes or civilizations such as towns and cities) are connected, acting as a checkpoint.",
+      "updatedAt": 1771325543
+    },
+    "location|CAVE OF BEING": {
+      "status": "not_found",
+      "updatedAt": 1771325803
+    },
+    "location|CAVE OF ORIGIN": {
+      "status": "not_found",
+      "updatedAt": 1771325804
+    },
+    "location|CELADON": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Celadon City",
+      "clue": "this location City (Japanese: タマムシシティ Tamamushi City) is located in central Kanto.",
+      "updatedAt": 1771325546
+    },
+    "location|CELESTIC": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Celestic Town",
+      "clue": "this location Town (Japanese: カンナギタウン Kannagi Town) is a town in the Sinnoh region.",
+      "updatedAt": 1771323485
+    },
+    "location|CENTRAL PLAZA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Central Plaza",
+      "clue": "The this location (Japanese: センタースクエア Center Square) is a large this location in the center of the Terarium, located within Blueberry Academy in the Unova region.",
+      "updatedAt": 1771325546
+    },
+    "location|CERULEAN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Cerulean City",
+      "clue": "this location City (Japanese: ハナダシティ Hanada City) is a seaside city located in northern Kanto.",
+      "updatedAt": 1771325547
+    },
+    "location|CERULEAN CAVE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Cerulean Cave",
+      "updatedAt": 1771325804
+    },
+    "location|CHALLENGE ROAD": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Challenge Road",
+      "clue": "this location (Japanese: チャレンジロード this location) is a part of the Isle of Armor in the Galar region.",
+      "updatedAt": 1771323487
+    },
+    "location|CHERRYGROVE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Cherrygrove City",
+      "clue": "this location City (Japanese: ヨシノシティ Yoshino City) is located in south-central Johto.",
+      "updatedAt": 1771323488
+    },
+    "location|CIANWOOD": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Cianwood City",
+      "clue": "this location City (Japanese: タンバシティ Tanba City) is located on the far western edge of Johto, apparently on a totally different landmass than the rest of the region.",
+      "updatedAt": 1771323488
+    },
+    "location|CIRCHESTER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Circhester",
+      "clue": "this location (Japanese: キルクスタウン Circus Town) is a large town situated in a cold, mountainous part of the northeastern Galar region.",
+      "updatedAt": 1771323488
+    },
+    "location|CLAY TUNNEL": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Clay Tunnel",
+      "clue": "this location (Japanese: ヤーコンロード Yakon Road) is a cave in the western half of the Unova region, exclusive to Black 2 and White 2.",
+      "updatedAt": 1771323489
+    },
+    "location|CLIFF CAVE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Cliff Cave",
+      "updatedAt": 1771325805
+    },
+    "location|CLIFF EDGE GATE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Cliff Edge Gate",
+      "clue": "this location (Japanese: がけっぷちゲート Ragged this location) is a small cavern on Cianwood island that leads between the small island town and Route 47.",
+      "updatedAt": 1771325082
+    },
+    "location|CLOUDCAP PASS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Cloudcap Pass",
+      "clue": "this location (Japanese: 笠雲の切り通し Cap Cloud Cut) is an area located in the northern region of the Coronet Highlands of Hisui.",
+      "updatedAt": 1771323491
+    },
+    "location|COASTAL BIOME": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Coastal Biome",
+      "updatedAt": 1771325805
+    },
+    "location|COASTAL PLAZA": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Coastal Plaza",
+      "updatedAt": 1771325806
+    },
+    "location|COLD STORAGE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Cold Storage",
+      "clue": "The this location (Japanese: 冷凍コンテナ Freezing Container) is a building in Pokémon Black and White found inside of an area of warehouses to the south of Driftveil City.",
+      "updatedAt": 1771323493
+    },
+    "location|CONCERT EVENT": {
+      "status": "not_found",
+      "updatedAt": 1771325807
+    },
+    "location|CONTEST HALL": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Contest Hall",
+      "updatedAt": 1771325808
+    },
+    "location|CORTONDO": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Cortondo",
+      "clue": "this location (Japanese: セルクルタウン Cercle Town) is a town in the Paldea region, located in South Province (Area Two).",
+      "updatedAt": 1771323495
+    },
+    "location|COUMARINE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Coumarine City",
+      "clue": "this location City (Japanese: ヒヨクシティ Hiyoku City) is a port city located in the Kalos region.",
+      "updatedAt": 1771323495
+    },
+    "location|COUMARINE GATE": {
+      "status": "not_found",
+      "updatedAt": 1771325809
+    },
+    "location|COURIWAY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Couriway Town",
+      "clue": "this location Town (Japanese: レンリタウン Renri Town) is a town located in the Kalos region.",
+      "updatedAt": 1771323497
+    },
+    "location|COURIWAY GATE": {
+      "status": "not_found",
+      "updatedAt": 1771325810
+    },
+    "location|CRESCENT ISLE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Crescent Isle",
+      "clue": "this location (Japanese: 弓形の島 this location Island) is a Hoenn location first seen in Pokémon Omega Ruby and Alpha Sapphire.",
+      "updatedAt": 1771323499
+    },
+    "location|CROSSING SLOPE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Crossing Slope",
+      "clue": "this location (Japanese: 渡りのなぞえ this location) is an area located in the western region of the Cobalt Coastlands of Hisui.",
+      "updatedAt": 1771323500
+    },
+    "location|CROWN SHRINE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Crown Shrine",
+      "clue": "The this location (Japanese: カンムリ神殿 this location Temple) is a location in the Galar region.",
+      "updatedAt": 1771323500
+    },
+    "location|CRYSTAL POOL": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Crystal Pool",
+      "updatedAt": 1771325811
+    },
+    "location|CYLLAGE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Cyllage City",
+      "clue": "this location City (Japanese: ショウヨウシティ Shōyō City) is a coastal city located in western Kalos.",
+      "updatedAt": 1771323502
+    },
+    "location|CYNTHIA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Cynthia",
+      "clue": "this location (Japanese: シロナ Shirona) is an archeologist who is also the Champion of the Sinnoh region's Pokémon League in Pokémon Diamond, Pearl, Platinum, Brilliant Diamond, and Shining Pearl.",
+      "updatedAt": 1771323502
+    },
+    "location|DAPPLED GROVE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Dappled Grove",
+      "clue": "The this location (Japanese: こもれび林 Peeking Sunlight this location) is a part of the Wild Area in the Galar region, located in the southwest of the southern portion of the Wild Area.",
+      "updatedAt": 1771323503
+    },
+    "type|DARK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Dark",
+      "clue": "this type (ダーク) has several referrals: The this type type, one of the eighteen types that a Pokémon can have.",
+      "updatedAt": 1771323503
+    },
+    "location|DARK CAVE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Dark Cave",
+      "updatedAt": 1771325812
+    },
+    "location|DAY CARE COUPLE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Day-Care Couple",
+      "updatedAt": 1771325812
+    },
+    "ability|DAZE": {
+      "status": "not_found",
+      "updatedAt": 1771325813
+    },
+    "ability|DAZZLING": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Dazzling (Ability)",
+      "clue": "this ability (Japanese: ビビッドボディ Vivid Body) is an Ability introduced in Generation VII.",
+      "updatedAt": 1771323505
+    },
+    "location|DEADWOOD HAUNT": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Deadwood Haunt",
+      "clue": "this location (Japanese: オバケワラ Haunted Wilderness) is an area located in the southern region of the Cobalt Coastlands of Hisui.",
+      "updatedAt": 1771323506
+    },
+    "location|DEERTRACK PATH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Deertrack Path",
+      "clue": "this location (Japanese: シシの山道 Deer Mountain this location) is an area located in the northern region of the Obsidian Fieldlands of Hisui.",
+      "updatedAt": 1771323506
+    },
+    "location|DENDEMILLE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Dendemille Town",
+      "clue": "this location Town (Japanese: フウジョタウン Fūjo Town) is a town located in the Kalos region.",
+      "updatedAt": 1771323507
+    },
+    "location|DERNIRE WAY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Kalos Route 21",
+      "clue": "Route 21 (Japanese: ２１番道路 Route 21) is a route in eastern Kalos, connecting Snowbelle City and Victory Road.",
+      "updatedAt": 1771323508
+    },
+    "location|DESERT RESORT": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Desert Resort",
+      "updatedAt": 1771325814
+    },
+    "location|DESERT RUINS": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Desert Ruins",
+      "updatedAt": 1771325814
+    },
+    "location|DETOURNER WAY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Kalos Route 22",
+      "clue": "Route 22 (Japanese: ２２番道路 Route 22) is a route in central Kalos, connecting Santalune City and Victory Road.",
+      "updatedAt": 1771324115
+    },
+    "location|DEWFORD": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Dewford Town",
+      "clue": "this location Town (Japanese: ムロタウン Muro Town) is a waterfront town located on an island southwest of mainland Hoenn.",
+      "updatedAt": 1771323511
+    },
+    "location|DIAMOND HEATH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Diamond Heath",
+      "clue": "this location (Japanese: コンゴウの里山 this location Woodlands) is an area located in the northern region of the Crimson Mirelands of Hisui.",
+      "updatedAt": 1771323512
+    },
+    "location|DIGLETTS CAVE": {
+      "status": "not_found",
+      "updatedAt": 1771325815
+    },
+    "location|DISTANT LAND": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Distant land",
+      "clue": "this location (Japanese: 遠(とお)く離(はな)れた土地(とち) this location) is a region placeholder found in the core series games, first used in Pokémon Colosseum and Pokémon XD: Gale of Darkness, then subsequently introduced to the core series in the Generation IV games.",
+      "updatedAt": 1771323515
+    },
+    "type|DRAGON": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Dragon",
+      "clue": "this type (ドラゴン) has several referrals: The this type type, one of the eighteen types that a Pokémon can have.",
+      "updatedAt": 1771323515
+    },
+    "location|DRAGONS DEN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Dragon's Den",
+      "clue": "The Dragon's this location (Japanese: りゅうのあな Dragon's this location) is a location in Blackthorn City in the Johto region.",
+      "updatedAt": 1771323515
+    },
+    "location|DREADED DEN": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Dreaded Den",
+      "updatedAt": 1771325816
+    },
+    "location|DREAMYARD": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Dreamyard",
+      "clue": "The this location (Japanese: 夢の跡地 Dream Ruins) is the overgrown ruins of an abandoned research facility in southeast Unova.",
+      "updatedAt": 1771323516
+    },
+    "location|DRIFTVEIL": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Driftveil City",
+      "clue": "this location City (Japanese: ホドモエシティ Hodomoe City) is a major ocean port city in western Unova.",
+      "updatedAt": 1771323517
+    },
+    "location|DRONING MEADOW": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Droning Meadow",
+      "clue": "The this location (Japanese: 羽音の原 this location Field) is an area located in the eastern region of the Crimson Mirelands of Hisui.",
+      "updatedAt": 1771323517
+    },
+    "item|DROPPED ITEM": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Dropped Item",
+      "updatedAt": 1771325816
+    },
+    "location|DUSTY BOWL": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Dusty Bowl",
+      "clue": "this location (Japanese: 砂塵の窪地 Sandstorm Pit) is a part of the Wild Area in the Galar region, located in the center of the northern portion of the Wild Area.",
+      "updatedAt": 1771323519
+    },
+    "location|DYNA TREE HILL": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Dyna Tree Hill",
+      "clue": "this location (Japanese: ダイ木の丘 Dai this location) is a location in the Galar region.",
+      "updatedAt": 1771325099
+    },
+    "location|ECRUTEAK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Ecruteak City",
+      "clue": "this location City (Japanese: エンジュシティ Enju City) is an old-fashioned city located in northern Johto, situated in the woods between tall Mt.",
+      "updatedAt": 1771323520
+    },
+    "type|ELECTRIC": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Electric (type)",
+      "clue": "The this type type (Japanese: でんきタイプ this type type) is one of the eighteen types.",
+      "updatedAt": 1771323520
+    },
+    "location|EMBEDDED TOWER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Embedded Tower",
+      "clue": "The this location (Japanese: うずもれのとう Hidden this location) is an area located on Route 47 in Pokémon HeartGold and SoulSilver.",
+      "updatedAt": 1771323521
+    },
+    "location|ENTRALINK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Entralink",
+      "clue": "The this location (Japanese: ハイリンク Hilink) is a clearing that is located in central Unova.",
+      "updatedAt": 1771323521
+    },
+    "location|ENTREE FOREST": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Entralink",
+      "clue": "The Entralink (Japanese: ハイリンク Hilink) is a clearing that is located in central Unova.",
+      "updatedAt": 1771323522
+    },
+    "location|ETERNA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Eterna City",
+      "clue": "this location City (Japanese: ハクタイシティ Hakutai City) is a city in the Sinnoh region; it is an older city, showing the signs of history.",
+      "updatedAt": 1771323522
+    },
+    "location|ETERNA FOREST": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Eterna Forest",
+      "updatedAt": 1771325817
+    },
+    "location|EVENT SITE": {
+      "status": "not_found",
+      "updatedAt": 1771325818
+    },
+    "location|EVER GRANDE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Ever Grande City",
+      "clue": "this location City (Japanese: サイユウシティ Saiyu City) is a city located on an island in eastern Hoenn.",
+      "updatedAt": 1771323525
+    },
+    "location|FABLED CAVE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Fabled Cave",
+      "clue": "The this location (Japanese: おぼろの洞窟 Hazy this location) is a location in the Hoenn region, found on a large island situated in the bay east of the Seaside Cycling Road on Route 110 (or southeast of Mauville City) in Pokémon Omega Ruby and Alpha Sapphire.",
+      "updatedAt": 1771323525
+    },
+    "location|FABLED SPRING": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Fabled Spring",
+      "clue": "this location (Japanese: フェアリーの泉 Fairy this location) is an area located in the southwestern region of the Coronet Highlands of Hisui.",
+      "updatedAt": 1771323526
+    },
+    "type|FAIRY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Fairy (type)",
+      "clue": "The this type type (Japanese: フェアリータイプ this type type) is one of the eighteen types.",
+      "updatedAt": 1771323526
+    },
+    "location|FALLARBOR": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Fallarbor Town",
+      "clue": "this location Town (Japanese: ハジツゲタウン Hazitsuge Town) is a small farming community in northwest Hoenn.",
+      "updatedAt": 1771323527
+    },
+    "location|FARAWAY ISLAND": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Faraway Island",
+      "updatedAt": 1771325818
+    },
+    "location|FARAWAY PLACE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Faraway place",
+      "clue": "this location (Japanese: 遠(とお)い場所(ばしょ) this location) is a location placeholder found in the core series games, first used in the Generation IV games.",
+      "updatedAt": 1771323528
+    },
+    "location|FELLHORN GORGE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Fellhorn Gorge",
+      "updatedAt": 1771325819
+    },
+    "location|FIELDS OF HONOR": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Fields of Honor/Dens",
+      "updatedAt": 1771325820
+    },
+    "location|FIERY PATH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Fiery Path",
+      "clue": "this location (Japanese: 炎の抜け道 this location) is an underground route which travels though Mt.",
+      "updatedAt": 1771323531
+    },
+    "location|FIGHT": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Fight Area",
+      "clue": "this location Area (Japanese: ファイトエリア this location Area) is an area of the Battle Zone, northeast of Sinnoh.",
+      "updatedAt": 1771323531
+    },
+    "type|FIRE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Fire",
+      "clue": "this type (ファイア or ファイヤー) has several referrals: The this type type, one of the eighteen types that a Pokémon can have.",
+      "updatedAt": 1771323531
+    },
+    "location|FIVE ISLAND": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Five Island",
+      "updatedAt": 1771325821
+    },
+    "location|FLOARO GARDENS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Floaro Gardens",
+      "clue": "this location (Japanese: 園生の開墾地 Garden Clearing) is an area located in the northwestern part of the Obsidian Fieldlands of Hisui.",
+      "updatedAt": 1771323533
+    },
+    "location|FLOAROMA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Floaroma Town",
+      "clue": "this location Town (Japanese: ソノオタウン Sonoo Town) is a town in the Sinnoh region, known for its honey and vividly scented flowers that grow everywhere.",
+      "updatedAt": 1771323533
+    },
+    "location|FLOCCESY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Floccesy Town",
+      "clue": "this location Town (Japanese: サンギタウン Sangi Town) is situated in the southwestern part of the Unova region.",
+      "updatedAt": 1771323534
+    },
+    "location|FLOCCESY RANCH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Floccesy Ranch",
+      "clue": "this location (Japanese: サンギ牧場 Sangi this location) is a farm-like location in southwest Unova.",
+      "updatedAt": 1771323535
+    },
+    "location|FLOOD CHAMBER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Pokémon League (Kalos)",
+      "clue": "The Kalos Pokémon League (Japanese: カロスポケモンリーグ Kalos Pokémon League) is the location of the Kalos's Elite Four and Champion, whom may only be challenged after defeating all eight Kalos Gym Leaders.",
+      "updatedAt": 1771323535
+    },
+    "type|FLYING": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Flying",
+      "clue": "this type can refer to several aspects of a Pokémon: The this type type, one of the eighteen types that a Pokémon can have.",
+      "updatedAt": 1771323536
+    },
+    "location|FOOTSTEP HOUSE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Dr. Footstep",
+      "clue": "this location (Japanese: フトマキ Futomaki) is a game character who lives on the southwest side of Route 213 in a small this location on the beach.",
+      "updatedAt": 1771323536
+    },
+    "location|FOREST OF FOCUS": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Forest of Focus/Dens",
+      "updatedAt": 1771325822
+    },
+    "location|FORTREE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Fortree City",
+      "clue": "this location City (Japanese: ヒワマキシティ Hiwamaki City) is a city, roughly between Mauville and Lilycove, in the Hoenn region.",
+      "updatedAt": 1771323538
+    },
+    "location|FOUR ISLAND": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Four Island",
+      "updatedAt": 1771325822
+    },
+    "location|FOURRAGE ROAD": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Kalos Route 12",
+      "clue": "Route 12 (Japanese: １２番道路 Route 12) is a route in northern Kalos, connecting Shalour City, Coumarine City, and Azure Bay.",
+      "updatedAt": 1771323539
+    },
+    "location|FREEZINGTON": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Freezington",
+      "clue": "this location (Japanese: フリーズ村(むら) Freeze Village) is a village in the Crown Tundra in the Galar region.",
+      "updatedAt": 1771323540
+    },
+    "location|FRIEND SAFARI": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Friend Safari",
+      "clue": "The this location (Japanese: フレンドサファリ this location) is a facility in Kiloude City where Trainers can catch Pokémon that cannot normally be found in Kalos.",
+      "updatedAt": 1771323540
+    },
+    "location|FRIGID SEA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Frigid Sea",
+      "clue": "The this location (Japanese: 凍てつきの海 Freezing this location) is a location in the Galar region.",
+      "updatedAt": 1771323541
+    },
+    "location|FROST CAVERN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Frost Cavern",
+      "clue": "The this location (Japanese: フロストケイブ this location Cave) is a cave located in the Kalos region to the north of Dendemille Town.",
+      "updatedAt": 1771323542
+    },
+    "location|FUCHSIA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Fuchsia City",
+      "clue": "this location City (Japanese: セキチクシティ Sekichiku City) is a city located in southwest Kanto.",
+      "updatedAt": 1771325572
+    },
+    "location|GALACTIC HQ": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Galactic HQ (Platinum 106)",
+      "clue": "this location (Japanese: ギンガ団のアジト Ginga-dan's Base) is a Stadium card.",
+      "updatedAt": 1771324123
+    },
+    "location|GALAR MINE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Galar Mine",
+      "updatedAt": 1771325823
+    },
+    "location|GAPEJAW BOG": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Gapejaw Bog",
+      "clue": "The this location (Japanese: 大口の沼 Widemouth Swamp) is an area that stretches from the western to the central region of the Crimson Mirelands of Hisui.",
+      "updatedAt": 1771323545
+    },
+    "location|GEAR STATION": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Battle Subway",
+      "clue": "The Battle Subway (Japanese: バトルサブウェイ Battle Subway) is a battle facility found in Black, White, Black 2, and White 2.",
+      "updatedAt": 1771323545
+    },
+    "location|GEOSENGE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Geosenge Town",
+      "clue": "this location Town (Japanese: セキタイタウン Sekitai Town) is a rural town located in the western part of the Kalos region.",
+      "updatedAt": 1771323546
+    },
+    "location|GIANT CHASM": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Giant Chasm",
+      "clue": "The this location (Japanese: ジャイアントホール this location Hole) is an area in the northeastern part of the Unova region.",
+      "updatedAt": 1771323547
+    },
+    "location|GIANTS BED": {
+      "status": "not_found",
+      "updatedAt": 1771325824
+    },
+    "location|GIANTS CAP": {
+      "status": "not_found",
+      "updatedAt": 1771325825
+    },
+    "location|GIANTS FOOT": {
+      "status": "not_found",
+      "updatedAt": 1771325826
+    },
+    "location|GIANTS MIRROR": {
+      "status": "not_found",
+      "updatedAt": 1771325827
+    },
+    "location|GIANTS SEAT": {
+      "status": "not_found",
+      "updatedAt": 1771325829
+    },
+    "location|GINKGO LANDING": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Ginkgo Landing",
+      "clue": "this location (Japanese: イチョウの浜辺 this location Beach) is an area located in the western region of the Cobalt Coastlands of Hisui.",
+      "updatedAt": 1771323553
+    },
+    "location|GLACIER ROOM": {
+      "status": "not_found",
+      "updatedAt": 1771325830
+    },
+    "location|GNARLED DEN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Gnarled Den",
+      "clue": "The this location (Japanese: いびつな穴 Warped Hole) is a location in the Hoenn region, found on the west side of Mt.",
+      "updatedAt": 1771323555
+    },
+    "location|GOLDENROD": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Goldenrod City",
+      "clue": "this location City (Japanese: コガネシティ Kogane City) is a sprawling metropolis located in western Johto.",
+      "updatedAt": 1771323556
+    },
+    "location|GRAND LAKE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Hotel Grand Lake",
+      "clue": "Hotel this location (Japanese: ホテルグランドレイク Hotel this location) is one of Sinnoh's most popular resorts.",
+      "updatedAt": 1771323559
+    },
+    "location|GRANITE CAVE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Granite Cave",
+      "clue": "this location (Japanese: 石の洞窟 Stone this location) is located northwest of Dewford Town, with its only entrance on Route 106.",
+      "updatedAt": 1771323564
+    },
+    "type|GRASS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Grass",
+      "clue": "this type can refer to: The this type type, one of the eighteen types that a Pokémon can have.",
+      "updatedAt": 1771323564
+    },
+    "location|GREAT MARSH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Great Marsh",
+      "clue": "The this location (Japanese: 大湿原 this location) is an area located in Pastoria City.",
+      "updatedAt": 1771323566
+    },
+    "item|GREEN DISH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Green Dish",
+      "clue": "The this item (Japanese: グリーンプレート this item Plate) is a type of picnic item introduced in Generation IX.",
+      "updatedAt": 1771323566
+    },
+    "location|GREEN PATH": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Green Path",
+      "updatedAt": 1771325830
+    },
+    "item|GRISEOUS CORE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Griseous Core",
+      "clue": "The this item (Japanese: だいはっきんだま Great Platinum Orb) is an item introduced in Pokémon Legends: Arceus.",
+      "updatedAt": 1771323569
+    },
+    "location|GRUELING GROVE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Grueling Grove",
+      "clue": "this location (Japanese: 険し林 this location) is an area located in the northeastern region of the Obsidian Fieldlands of Hisui.",
+      "updatedAt": 1771323569
+    },
+    "location|HAINA DESERT": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Haina Desert",
+      "clue": "this location (Japanese: ハイナ砂漠 Hainā this location) is a location on Ula'ula Island in Alola, located north of Route 13 and south of the Ruins of Abundance.",
+      "updatedAt": 1771323570
+    },
+    "location|HAMMERLOCKE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Hammerlocke",
+      "clue": "this location (Japanese: ナックルシティ Knuckle City) is a city situated in the center of the Galar region.",
+      "updatedAt": 1771323570
+    },
+    "location|HANO BEACH": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Hano Beach",
+      "updatedAt": 1771325831
+    },
+    "location|HAUOLI": {
+      "status": "not_found",
+      "updatedAt": 1771325832
+    },
+    "location|HEAHEA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Heahea City",
+      "clue": "this location City (Japanese: カンタイシティ Kantai City) is a coastal city situated on Akala Island of the Alola region.",
+      "updatedAt": 1771323574
+    },
+    "location|HEAHEA BEACH": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Heahea Beach",
+      "updatedAt": 1771325833
+    },
+    "location|HEARTHOME": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Hearthome City",
+      "clue": "this location City (Japanese: ヨスガシティ Yosuga City) is a city in the Sinnoh region.",
+      "updatedAt": 1771323575
+    },
+    "location|HEARTS CRAG": {
+      "status": "not_found",
+      "updatedAt": 1771325834
+    },
+    "location|HEIGHTS CAMP": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Base camp",
+      "clue": "Base camps (Japanese: ベースキャンプ base this location) are locations established by the Galaxy Team Survey Corps throughout the Hisui region.",
+      "updatedAt": 1771325116
+    },
+    "location|HIDDEN GROTTO": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Hidden Grotto",
+      "updatedAt": 1771325834
+    },
+    "location|HIDEAWAY BAY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Hideaway Bay",
+      "clue": "this location (Japanese: 浦の浜 Inlet Shore) is an area located in the southern region of the Cobalt Coastlands of Hisui.",
+      "updatedAt": 1771323578
+    },
+    "location|HOENN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Hoenn",
+      "clue": "The this location region (Japanese: ホウエン地方 this location region) is a region of the Pokémon world.",
+      "updatedAt": 1771323579
+    },
+    "location|HOLM OF TRIALS": {
+      "status": "not_found",
+      "updatedAt": 1771325836
+    },
+    "location|HONEYCALM SEA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Honeycalm Sea",
+      "clue": "The this location (Japanese: ハニカームの海 this location) is a part of the Isle of Armor in the Galar region.",
+      "updatedAt": 1771323581
+    },
+    "location|HULBURY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Hulbury",
+      "clue": "this location (Japanese: バウタウン Bow Town) is a small town located in central Galar.",
+      "updatedAt": 1771323581
+    },
+    "location|HUMILAU": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Humilau City",
+      "clue": "this location City (Japanese: セイガイハシティ Seigaiha City) is a city in northeastern Unova.",
+      "updatedAt": 1771323582
+    },
+    "location|ICEBERG RUINS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Iceberg Ruins",
+      "clue": "this location can refer to two different locations: this location (Sinnoh), a cave in the Sinnoh region in Pokémon Platinum.",
+      "updatedAt": 1771323582
+    },
+    "location|ICEBOUND FALLS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Icebound Falls",
+      "clue": "this location (Japanese: 鬼氷滝 Onigohri this location) is an area located in the southwestern region of the Alabaster Icelands of Hisui.",
+      "updatedAt": 1771323583
+    },
+    "location|ICEFALL CAVE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Icefall Cave",
+      "updatedAt": 1771325836
+    },
+    "location|ICE PATH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Ice Path",
+      "clue": "The this location (Japanese: こおりのぬけみち this location) is a four-floored cave located in the Johto region that connects Route 44 with Blackthorn City.",
+      "updatedAt": 1771323584
+    },
+    "location|ICEPEAK ARENA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Icepeak Arena",
+      "clue": "this location (Japanese: 氷山の戦場 Iceberg Battlefield) is an area located in the western region of the Alabaster Icelands of Hisui.",
+      "updatedAt": 1771323584
+    },
+    "location|ICEPEAK CAVERN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Icepeak Cavern",
+      "clue": "this location (Japanese: 氷山の地下道 Iceberg Underpass) is a vast cave system located underneath the Alabaster Icelands of Hisui.",
+      "updatedAt": 1771323585
+    },
+    "location|ICEREND SHRINE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Icerend Shrine",
+      "clue": "The this location (Japanese: 凍裂の祠 this location of Frost Crack) is a small cave, located in West Province (Area One).",
+      "updatedAt": 1771323586
+    },
+    "location|ICIRRUS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Icirrus City",
+      "clue": "this location City (Japanese: セッカシティ Sekka City) is a city located in northwestern Unova.",
+      "updatedAt": 1771323586
+    },
+    "location|ILEX FOREST": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Ilex Forest",
+      "updatedAt": 1771325837
+    },
+    "location|INDIGO PLATEAU": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Indigo Plateau",
+      "clue": "The this location (Japanese: セキエイ高原(こうげん) Sekiei this location) serves as the capital for the Pokémon League in the Kanto region.",
+      "updatedAt": 1771325588
+    },
+    "location|INFERNAL PASS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Infernal Pass",
+      "clue": "The this location (Japanese: 地獄谷 Hell Valley) is an ashy mountian trail located on Oni Mountain in Kitakami.",
+      "updatedAt": 1771323588
+    },
+    "location|INLET GROTTO": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Inlet Grotto",
+      "clue": "The this location (Japanese: 入り江のほら穴 this location Cave) is a cave in the south of the Paldea region.",
+      "updatedAt": 1771323589
+    },
+    "location|INSIDE OF TRUCK": {
+      "status": "not_found",
+      "updatedAt": 1771325838
+    },
+    "location|INSULAR SEA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Insular Sea",
+      "clue": "The this location (Japanese: 離れ島海域 Outlying Islands this location) is a part of the Isle of Armor in the Galar region.",
+      "updatedAt": 1771323591
+    },
+    "location|IRON ISLAND": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Iron Island",
+      "updatedAt": 1771325838
+    },
+    "location|IRON ROOM": {
+      "status": "not_found",
+      "updatedAt": 1771325839
+    },
+    "location|IRON RUINS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Iron Ruins",
+      "clue": "this location can refer to two different locations: this location (Sinnoh), a cave in the Sinnoh region in Pokémon Platinum.",
+      "updatedAt": 1771323593
+    },
+    "location|ISLAND CAVE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Island Cave",
+      "updatedAt": 1771325840
+    },
+    "location|ISLESPY SHORE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Islespy Shore",
+      "clue": "this location (Japanese: しまなみ浜 Islescape this location) is an area located in the northern region of the Cobalt Coastlands of Hisui.",
+      "updatedAt": 1771323594
+    },
+    "item|ITEM DROP": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Wonder Launcher",
+      "clue": "The Wonder Launcher (Japanese: ミラクルシューター Miracle Shooter) is a multiplayer battle feature only available in Generation V.",
+      "updatedAt": 1771323595
+    },
+    "item|ITEM URGE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Wonder Launcher",
+      "clue": "The Wonder Launcher (Japanese: ミラクルシューター Miracle Shooter) is a multiplayer battle feature only available in Generation V.",
+      "updatedAt": 1771323596
+    },
+    "location|JAGGED PASS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Jagged Pass",
+      "clue": "this location (Japanese: デコボコ山道 Rugged Mountain this location) is a location in Hoenn.",
+      "updatedAt": 1771323596
+    },
+    "location|JOIN AVENUE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Join Avenue",
+      "clue": "this location (Japanese: ジョインアベニュー this location) is a building introduced in Pokémon Black 2 and White 2.",
+      "updatedAt": 1771323597
+    },
+    "location|JUBILIFE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Jubilife City",
+      "clue": "this location City (Japanese: コトブキシティ Kotobuki City) is a city in the Sinnoh region.",
+      "updatedAt": 1771323598
+    },
+    "location|JUBILIFE TV": {
+      "status": "not_found",
+      "updatedAt": 1771325841
+    },
+    "location|KALAE BAY": {
+      "status": "not_found",
+      "updatedAt": 1771325842
+    },
+    "location|KILOUDE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Kiloude City",
+      "clue": "this location City (Japanese: キナンシティ Kinan City) is a city located in the southern part of the Kalos region and is only accessible after the TMV Pass is obtained from Professor Sycamore in Lumiose Station after entering the Hall of Fame.",
+      "updatedAt": 1771323601
+    },
+    "location|KINDLE ROAD": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Kindle Road",
+      "clue": "this location (Japanese: ほてりのみち Burning this location) is a straight path north from One Island to Mt.",
+      "updatedAt": 1771323601
+    },
+    "location|KITAKAMI HALL": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Kitakami Hall",
+      "updatedAt": 1771325843
+    },
+    "location|KITAKAMI ROAD": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Kitakami Road",
+      "updatedAt": 1771325843
+    },
+    "location|KITAKAMI WILDS": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Kitakami Wilds",
+      "updatedAt": 1771325844
+    },
+    "item|KOFUS WALLET": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Kofu's Wallet",
+      "clue": "Kofu's this item (Japanese: ハイダイのサイフ Haidai's this item) is a type of Key Item introduced in Generation IX.",
+      "updatedAt": 1771324141
+    },
+    "location|KONIKONI": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Konikoni City",
+      "clue": "this location City (Japanese: コニコシティ Koniko City) is a coastal city situated on Akala Island of the Alola region.",
+      "updatedAt": 1771323605
+    },
+    "location|LACUNOSA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Lacunosa Town",
+      "clue": "this location Town (Japanese: カゴメタウン Kagome Town) is a town in the northeastern area of the Unova region.",
+      "updatedAt": 1771323606
+    },
+    "item|LAFEATHER BALL": {
+      "status": "not_found",
+      "updatedAt": 1771325845
+    },
+    "item|LAGIGATON BALL": {
+      "status": "not_found",
+      "updatedAt": 1771325846
+    },
+    "item|LAGREAT BALL": {
+      "status": "not_found",
+      "updatedAt": 1771325850
+    },
+    "item|LAHEAVY BALL": {
+      "status": "not_found",
+      "updatedAt": 1771325852
+    },
+    "item|LAJET BALL": {
+      "status": "not_found",
+      "updatedAt": 1771325853
+    },
+    "location|LAKE ACUITY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Lake Acuity",
+      "clue": "this location (Japanese: エイチ湖(こ) and 叡智湖 this location Eichi) is a location in the Sinnoh region, and part of the Alabaster Icelands in the Hisui region.",
+      "updatedAt": 1771323612
+    },
+    "location|LAKE OF OUTRAGE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Lake of Outrage/Dens",
+      "updatedAt": 1771325854
+    },
+    "location|LAKE OF RAGE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Lake of Rage",
+      "clue": "Not to be confused with the this location Outrage, a zone in the Galar region's Wild Area.",
+      "updatedAt": 1771325133
+    },
+    "location|LAKESIDE CAVE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Lakeside Cave",
+      "clue": "this location (Japanese: 湖畔の洞窟 this location by the Lakeshore) is a location in the Galar region.",
+      "updatedAt": 1771323615
+    },
+    "location|LAKE VALOR": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Lake Valor",
+      "clue": "this location (Japanese: リッシ湖(こ) and 立志湖 this location Risshi) is a location in the Sinnoh region, and part of the Crimson Mirelands in the Hisui region.",
+      "updatedAt": 1771323615
+    },
+    "location|LAKE VERITY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Lake Verity",
+      "clue": "this location (Japanese: シンジ湖(こ) and 心情湖 this location Shinji) is a location in the Sinnoh region, and part of the Obsidian Fieldlands in the Hisui region.",
+      "updatedAt": 1771323616
+    },
+    "item|LALEADEN BALL": {
+      "status": "not_found",
+      "updatedAt": 1771325855
+    },
+    "item|LAORIGIN BALL": {
+      "status": "not_found",
+      "updatedAt": 1771325856
+    },
+    "item|LAPOKE BALL": {
+      "status": "not_found",
+      "updatedAt": 1771325857
+    },
+    "item|LASTRANGE BALL": {
+      "status": "not_found",
+      "updatedAt": 1771325858
+    },
+    "item|LAULTRA BALL": {
+      "status": "not_found",
+      "updatedAt": 1771325860
+    },
+    "location|LAVARIDGE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Lavaridge Town",
+      "clue": "this location Town (Japanese: フエンタウン Huen Town) is a small town in central western Hoenn.",
+      "updatedAt": 1771323622
+    },
+    "location|LAVENDER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Lavender Town",
+      "clue": "this location Town (Japanese: シオンタウン Cion Town) is a small town located in northeast Kanto, just south of the Rock Tunnel.",
+      "updatedAt": 1771323623
+    },
+    "location|LAVERRE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Laverre City",
+      "clue": "this location City (Japanese: クノエシティ Kunoe City) is a town located in the Kalos region.",
+      "updatedAt": 1771323624
+    },
+    "location|LAVERRE GATE": {
+      "status": "not_found",
+      "updatedAt": 1771325861
+    },
+    "item|LAWING BALL": {
+      "status": "not_found",
+      "updatedAt": 1771325862
+    },
+    "item|LEGEND PLATE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Legend Plate",
+      "clue": "The this item (Japanese: レジェンドプレート this item) is a Key Item in Pokémon Legends: Arceus.",
+      "updatedAt": 1771323627
+    },
+    "location|LENTIMAS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Lentimas Town",
+      "clue": "this location Town (Japanese: ヤマジタウン Yamaji Town) is situated in the eastern part of the Unova region.",
+      "updatedAt": 1771323627
+    },
+    "location|LEVINCIA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Levincia",
+      "clue": "this location (Japanese: ハッコウシティ Hakkō City) is a city in the Paldea region, located in East Province (Area Two).",
+      "updatedAt": 1771323627
+    },
+    "location|LIBERTY GARDEN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Liberty Garden",
+      "clue": "this location (Japanese: リバティガーデン島 this location Island) is an island in southwestern Unova.",
+      "updatedAt": 1771323628
+    },
+    "location|LILYCOVE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Lilycove City",
+      "clue": "this location City (Japanese: ミナモシティ Minamo City) is located in eastern Hoenn and is one of the many cities that is connected to the sea.",
+      "updatedAt": 1771323629
+    },
+    "location|LINK TRADE MET": {
+      "status": "not_found",
+      "updatedAt": 1771325864
+    },
+    "location|LIPTOO CHAMBER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Tanoby Chambers",
+      "clue": "The Tanoby Chambers (Japanese: アスカナのせきしつ Asukana Stone Chambers) are a strange and surreal place, ruins whose purpose has long since been forgotten.",
+      "updatedAt": 1771323630
+    },
+    "location|LITTLEROOT": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Littleroot Town",
+      "clue": "this location Town (Japanese: ミシロタウン Mishiro Town) is located in southwestern Hoenn.",
+      "updatedAt": 1771323631
+    },
+    "location|LONELY SPRING": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Lonely Spring",
+      "clue": "this location (Japanese: 離れ湧水 Solitary this location) is an area located in the eastern region of the Coronet Highlands of Hisui.",
+      "updatedAt": 1771323632
+    },
+    "location|LOOP LAGOON": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Loop Lagoon",
+      "clue": "this location (Japanese: 円環の入り江 Circular Bay) is a part of the Isle of Armor in the Galar region.",
+      "updatedAt": 1771323632
+    },
+    "location|LOS PLATOS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Los Platos",
+      "clue": "this location (Japanese: プラトタウン Plato Town) is a small settlement in South Province (Area One) in the Paldea region.",
+      "updatedAt": 1771323633
+    },
+    "location|LOST CAVE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Lost Cave",
+      "updatedAt": 1771325865
+    },
+    "location|LOST HOTEL": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Lost Hotel",
+      "updatedAt": 1771325866
+    },
+    "item|LOST ITEM": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Lost Item",
+      "updatedAt": 1771325867
+    },
+    "location|LOST TOWER": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Lost Tower",
+      "updatedAt": 1771325867
+    },
+    "location|LOVELY PLACE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Event Pokémon",
+      "clue": "Event Pokémon are Pokémon that are distributed through outside promotional sources; either via the internet, at live in-person events or attractions, promotional sales (including movie premieres), or from promotional bonus discs or other special cross-promotional transfers from another game.",
+      "updatedAt": 1771325614
+    },
+    "location|LOYALTY PLAZA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Loyalty Plaza",
+      "clue": "this location (Japanese: ともっこプラザ Companion this location) is a small park near Mossui Town.",
+      "updatedAt": 1771323637
+    },
+    "location|LUMIOSE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Lumiose City",
+      "clue": "this location City (Japanese: ミアレシティ Miare City) is a large city acting as a prominent central hub located in the north-central part of the Kalos region, known for being the second most populous city in the currently known Pokémon world, behind Mesagoza.",
+      "updatedAt": 1771323637
+    },
+    "location|LUMIOSE GATE": {
+      "status": "not_found",
+      "updatedAt": 1771325869
+    },
+    "location|LUNKERS LAIR": {
+      "status": "not_found",
+      "updatedAt": 1771325870
+    },
+    "location|LUSH JUNGLE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Lush Jungle",
+      "clue": "this location (Japanese: シェードジャングル Shade this location) is a location on Akala Island in Alola, located north of Route 5.",
+      "updatedAt": 1771323640
+    },
+    "item|LUSTROUS GLOBE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Lustrous Globe",
+      "clue": "The this item (Japanese: だいしらたま Great Pearl Orb) is an item introduced in Pokémon Legends: Arceus.",
+      "updatedAt": 1771323641
+    },
+    "location|LYSANDRE LABS": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Lysandre Labs",
+      "updatedAt": 1771325870
+    },
+    "location|MAGMA HIDEOUT": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Magma Hideout",
+      "updatedAt": 1771325871
+    },
+    "location|MAHALO TRAIL": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Mahalo Trail",
+      "updatedAt": 1771325871
+    },
+    "location|MAHOGANY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Mahogany Town",
+      "clue": "this location Town (Japanese: チョウジタウン Chōji Town) is a small town in northern Johto where ninjas once resided in what eventually became the Team Rocket HQ.",
+      "updatedAt": 1771323644
+    },
+    "location|MALIE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Malie City",
+      "clue": "this location City (Japanese: マリエシティ this location City) is a coastal city situated on Ula'ula Island of the Alola region.",
+      "updatedAt": 1771323644
+    },
+    "location|MALIE GARDEN": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Malie Garden",
+      "updatedAt": 1771325872
+    },
+    "location|MAMOSWINE ROAD": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Kalos Route 17",
+      "clue": "Route 17 (Japanese: １７番道路 Route 17) is a route in northeast Kalos, connecting Dendemille Town and Anistar City.",
+      "updatedAt": 1771323646
+    },
+    "location|MANIAC TUNNEL": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Maniac Tunnel",
+      "updatedAt": 1771325873
+    },
+    "location|MARINE CAVE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Marine Cave",
+      "updatedAt": 1771325874
+    },
+    "location|MARINE TUBE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Marine Tube",
+      "clue": "The this location (Japanese: マリンチューブ this location) is an underwater location in Unova introduced in Pokémon Black 2 and White 2.",
+      "updatedAt": 1771323648
+    },
+    "location|MASTER DOJO": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Master Dojo",
+      "clue": "The this location (Japanese: マスター道場 this location) is a battle facility on the Isle of Armor in the Galar region.",
+      "updatedAt": 1771323648
+    },
+    "location|MAUVILLE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Mauville City",
+      "clue": "this location City (Japanese: キンセツシティ Kinsetsu City) is located in central Hoenn and serves as the hub for travelers throughout the Hoenn region.",
+      "updatedAt": 1771323649
+    },
+    "location|MAX LAIR": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Max Lair",
+      "clue": "The this location (Japanese: マックスダイ巣穴 this location Dai Nest) is a location on Slippery Slope in the Galar region.",
+      "updatedAt": 1771323649
+    },
+    "location|MEDALI": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Medali",
+      "clue": "this location (Japanese: チャンプルタウン Chanpuru Town) is a town in the Paldea region, located at the base of Glaseado Mountain's Dalizapa Passage and West Province (Area Three), as well as being located not far from the Zero Gate, the entrance to the Great Crater of Paldea and, by extension, Area Zero.",
+      "updatedAt": 1771323650
+    },
+    "location|MELEMELE SEA": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Melemele Sea",
+      "updatedAt": 1771325874
+    },
+    "location|MEMORIAL HILL": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Memorial Hill",
+      "clue": "Not to be confused with this location Pillar.",
+      "updatedAt": 1771323651
+    },
+    "location|MENHIR TRAIL": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Kalos Route 10",
+      "clue": "Route 10 (Japanese: １０番道路 Route 10) is a route in western Kalos, connecting Geosenge Town and Cyllage City.",
+      "updatedAt": 1771323651
+    },
+    "location|MESAGOZA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Mesagoza",
+      "clue": "this location (Japanese: テーブルシティ Table City) is the largest city in the Paldea region, located in its geographical center.",
+      "updatedAt": 1771323652
+    },
+    "location|METEOR FALLS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Meteor Falls",
+      "clue": "this location (Japanese: 流星の滝 this location) is a location in Hoenn.",
+      "updatedAt": 1771323652
+    },
+    "location|MINING MUSEUM": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Oreburgh Mining Museum",
+      "updatedAt": 1771325875
+    },
+    "location|MIRAGE CAVE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Mirage Caves",
+      "clue": "A this location (Japanese: マボロシ洞窟 Phantom this location) is a location in Hoenn located on an island in Pokémon Omega Ruby and Alpha Sapphire.",
+      "updatedAt": 1771323654
+    },
+    "location|MIRAGE FOREST": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Mirage Forest",
+      "clue": "this location has several referrals: For the Japanese TCG expansion, see EX Legend Maker (TCG).",
+      "updatedAt": 1771323654
+    },
+    "location|MIRAGE ISLAND": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Mirage Island",
+      "updatedAt": 1771325876
+    },
+    "location|MIRAGE TOWER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Mirage Tower",
+      "clue": "this location (Japanese: げんえいのとう Phantom this location) is a location in Hoenn that only appears in Pokémon Emerald.",
+      "updatedAt": 1771323655
+    },
+    "location|MIROIR WAY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Kalos Route 11",
+      "clue": "Route 11 (Japanese: １１番道路 Route 11) is a route in western Kalos, connecting Geosenge Town and Reflection Cave.",
+      "updatedAt": 1771323656
+    },
+    "move|MIRROR MOVE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Mirror Move (move)",
+      "updatedAt": 1771325876
+    },
+    "location|MISTRALTON": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Mistralton City",
+      "clue": "this location City (Japanese: フキヨセシティ Fukiyose City) is located in western Unova.",
+      "updatedAt": 1771323657
+    },
+    "location|MOLTEN ARENA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Molten Arena",
+      "clue": "this location (Japanese: 溶岩の戦場 Lava Battlefield) is an area located in the northeastern region Cobalt Coastlands of Hisui.",
+      "updatedAt": 1771323658
+    },
+    "location|MONEAN CHAMBER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Tanoby Chambers",
+      "clue": "The Tanoby Chambers (Japanese: アスカナのせきしつ Asukana Stone Chambers) are a strange and surreal place, ruins whose purpose has long since been forgotten.",
+      "updatedAt": 1771323659
+    },
+    "location|MONTENEVERA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Montenevera",
+      "clue": "this location (Japanese: フリッジタウン Fridge Town) is a town located on Glaseado Mountain in the Paldea region.",
+      "updatedAt": 1771323659
+    },
+    "location|MOONVIEW ARENA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Moonview Arena",
+      "clue": "this location (Japanese: 迎月の戦場 Moon-Welcoming Battlefield) is an area located in the western region of the Coronet Highlands of Hisui.",
+      "updatedAt": 1771323659
+    },
+    "location|MOOR OF ICIRRUS": {
+      "status": "not_found",
+      "updatedAt": 1771325877
+    },
+    "location|MOSSDEEP": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Mossdeep City",
+      "clue": "this location City (Japanese: トクサネシティ Tokusane City) lies on an island along the eastern edge of the Hoenn mainland.",
+      "updatedAt": 1771323661
+    },
+    "location|MOSSUI": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Mossui Town",
+      "clue": "this location Town (Japanese: スイリョクタウン Suiryoku Town) is a town in Kitakami, located south of Oni Mountain.",
+      "updatedAt": 1771323662
+    },
+    "location|MOTOSTOKE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Motostoke",
+      "clue": "this location (Japanese: エンジンシティ Engine City) is a city situated in the central south of the Galar region.",
+      "updatedAt": 1771323662
+    },
+    "location|MOUNT HOKULANI": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Mount Hokulani",
+      "clue": "this location (Japanese: ホクラニ岳 this location Hōkūlani) is the second-tallest mountain in Alola, located on Ula'ula Island.",
+      "updatedAt": 1771323663
+    },
+    "location|MOUNT LANAKILA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Mount Lanakila",
+      "clue": "this location (Japanese: ラナキラマウンテン this location Mountain) is the tallest mountain in Alola, located on Ula'ula Island.",
+      "updatedAt": 1771323663
+    },
+    "location|MT CHIMNEY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Mt. Chimney",
+      "clue": "this location (Japanese: えんとつ山 this location.",
+      "updatedAt": 1771323664
+    },
+    "location|MT CORONET": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Mount Coronet",
+      "clue": "Mount this location (Japanese: テンガン山(ざん) and 天冠山 Mount Tengan), formatted as this location.",
+      "updatedAt": 1771323665
+    },
+    "location|MT EMBER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Mt. Ember",
+      "clue": "Tomoshibi) is a dormant volcano on One Island in Pokémon FireRed and LeafGreen.",
+      "updatedAt": 1771323665
+    },
+    "location|MT MOON": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Mt. Moon",
+      "clue": "Otsukimi), formatted as Mount this location in Pokémon Brilliant Diamond and Shining Pearl, is a mountain located in northern Kanto, between Pewter City in the west and Cerulean City in the east.",
+      "updatedAt": 1771323666
+    },
+    "location|MT MORTAR": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Mt. Mortar",
+      "clue": "Suribachi) is a large cave in Johto with three entrances on Route 42.",
+      "updatedAt": 1771323666
+    },
+    "location|MT PYRE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Mt. Pyre",
+      "clue": "this location) is a location in Hoenn.",
+      "updatedAt": 1771323667
+    },
+    "location|MT SILVER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Mt. Silver",
+      "clue": "Shirogane) is a large mountain in Johto, located west of Victory Road and Indigo Plateau.",
+      "updatedAt": 1771325622
+    },
+    "location|MT SILVER CAVE": {
+      "status": "not_found",
+      "updatedAt": 1771325879
+    },
+    "location|MURAILLE COAST": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Kalos Route 8",
+      "clue": "Route 8 (Japanese: ８番道路 Route 8) is a route in western Kalos.",
+      "updatedAt": 1771323670
+    },
+    "location|MYSTERY ZONE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Mystery Zone",
+      "clue": "The this location (Japanese: なぞの場所 this location Place) is a location header that is programmed into every core series game since Generation IV.",
+      "updatedAt": 1771325154
+    },
+    "location|NACRENE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Nacrene City",
+      "clue": "this location City (Japanese: シッポウシティ Shippou City) is a city in southeastern Unova, connected to Route 3 to the east and bordering Pinwheel Forest to the west.",
+      "updatedAt": 1771323671
+    },
+    "location|NACRENE GATE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Gate",
+      "clue": "They are locations in which two other locations (typically routes or civilizations such as towns and cities) are connected, acting as a checkpoint.",
+      "updatedAt": 1771325624
+    },
+    "location|NATIONAL PARK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "National Park",
+      "clue": "The this location (Japanese: しぜんこうえん Nature this location) is a location in Johto.",
+      "updatedAt": 1771323672
+    },
+    "location|NATURES PANTRY": {
+      "status": "not_found",
+      "updatedAt": 1771325880
+    },
+    "location|NAVEL ROCK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Navel Rock",
+      "clue": "this location (Japanese: へそのいわ this location) is an island between Four and Five Islands in the Sevii Islands, accessible in Pokémon FireRed, LeafGreen, and Emerald.",
+      "updatedAt": 1771323674
+    },
+    "location|NEW BARK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "New Bark Town",
+      "clue": "this location Town (Japanese: ワカバタウン Wakaba Town) is located in southeastern Johto and is the hometown of the Johto player character.",
+      "updatedAt": 1771323675
+    },
+    "location|NEW MAUVILLE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "New Mauville",
+      "updatedAt": 1771325880
+    },
+    "location|NEWMOON ISLAND": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Newmoon Island",
+      "updatedAt": 1771325881
+    },
+    "location|NIMBASA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Nimbasa City",
+      "clue": "this location City (Japanese: ライモンシティ Raimon City) is a city located in central Unova.",
+      "updatedAt": 1771323676
+    },
+    "location|NIMBASA GATE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Gate",
+      "clue": "They are locations in which two other locations (typically routes or civilizations such as towns and cities) are connected, acting as a checkpoint.",
+      "updatedAt": 1771325627
+    },
+    "location|NINTENDO WORLD": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Pokémon Center (store)",
+      "clue": "A Pokémon Center (Japanese: ポケモンセンター Pokémon Center) is a retail store that sells official Pokémon merchandise.",
+      "updatedAt": 1771323678
+    },
+    "location|NS CASTLE": {
+      "status": "not_found",
+      "updatedAt": 1771325882
+    },
+    "location|NUVEMA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Nuvema Town",
+      "clue": "this location Town (Japanese: カノコタウン Kanoko Town) is a small town located in southeastern Unova.",
+      "updatedAt": 1771323679
+    },
+    "location|OBSIDIAN FALLS": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Obsidian Falls",
+      "updatedAt": 1771325882
+    },
+    "location|OLDALE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Oldale Town",
+      "clue": "this location Town (Japanese: コトキタウン Kotoki Town) is located in southwestern Hoenn.",
+      "updatedAt": 1771323681
+    },
+    "location|OLD CEMETERY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Old Cemetery",
+      "clue": "The this location (Japanese: いにしえの墓地 Ancient this location) is a location in the Galar region.",
+      "updatedAt": 1771323681
+    },
+    "location|OLD CHATEAU": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Old Chateau",
+      "clue": "The this location (Japanese: 森の洋館 Forest Manor) is an abandoned manor house near the exit of the Eterna Forest.",
+      "updatedAt": 1771325629
+    },
+    "location|OLIVINE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Olivine City",
+      "clue": "this location City (Japanese: アサギシティ Asagi City) is located on the Johto coast, near Ecruteak City and Cianwood City.",
+      "updatedAt": 1771323682
+    },
+    "location|ONE ISLAND": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "One Island",
+      "updatedAt": 1771325883
+    },
+    "location|ONI MOUNTAIN": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Oni Mountain",
+      "updatedAt": 1771325884
+    },
+    "location|ONIS MAW": {
+      "status": "not_found",
+      "updatedAt": 1771325885
+    },
+    "location|OPELUCID": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Opelucid City",
+      "clue": "this location City (Japanese: ソウリュウシティ Soryu City) is a city located in northern Unova.",
+      "updatedAt": 1771323686
+    },
+    "location|OPELUCID GATE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Gate",
+      "clue": "They are locations in which two other locations (typically routes or civilizations such as towns and cities) are connected, acting as a checkpoint.",
+      "updatedAt": 1771325631
+    },
+    "item|ORANGE DISH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Orange Dish",
+      "clue": "The this item (Japanese: オレンジプレート this item Plate) is a type of picnic item introduced in Generation IX.",
+      "updatedAt": 1771323687
+    },
+    "location|OREBURGH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Oreburgh City",
+      "clue": "this location City (Japanese: クロガネシティ Kurogane City) is a city located in central Sinnoh.",
+      "updatedAt": 1771323688
+    },
+    "location|OREBURGH GATE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Oreburgh Gate",
+      "updatedAt": 1771325885
+    },
+    "location|OREBURGH MINE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Oreburgh Mine",
+      "updatedAt": 1771325886
+    },
+    "location|OUTCAST ISLAND": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Outcast Island",
+      "updatedAt": 1771325886
+    },
+    "location|OUVERT WAY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Kalos Route 3",
+      "clue": "Route 3 (Japanese: ３番道路 Route 3) is a route in southern Kalos, connecting Santalune Forest and Santalune City.",
+      "updatedAt": 1771323691
+    },
+    "location|PACIFIDLOG": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Pacifidlog Town",
+      "clue": "this location Town (Japanese: キナギタウン Kinagi Town) is a town located in the seas south of the mainland of the Hoenn region.",
+      "updatedAt": 1771323692
+    },
+    "location|PALAIS LANE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Kalos Route 6",
+      "clue": "Route 6 (Japanese: ６番道路 Route 6) is a route in western Kalos, connecting Route 7 and Parfum Palace.",
+      "updatedAt": 1771323692
+    },
+    "location|PALLET": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Pallet Town",
+      "clue": "this location Town (Japanese: マサラタウン Masara Town) is a small town located in southwestern Kanto.",
+      "updatedAt": 1771323693
+    },
+    "location|PAL PARK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Pal Park",
+      "clue": "this location (Japanese: パルパーク this location) is a special Pokémon preserve present in the five Generation IV core series games, located at the east end of Route 221 in Sinnoh and in Fuchsia City in place of the Safari Zone in Kanto.",
+      "updatedAt": 1771323693
+    },
+    "location|PANIOLA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Paniola Town",
+      "clue": "this location Town (Japanese: オハナタウン Ohana Town) is a town on Akala Island in the Alola region.",
+      "updatedAt": 1771323694
+    },
+    "location|PANIOLA RANCH": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Paniola Ranch",
+      "updatedAt": 1771325887
+    },
+    "location|PARFUM PALACE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Parfum Palace",
+      "updatedAt": 1771325887
+    },
+    "location|PARTERRE WAY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Kalos Route 4",
+      "clue": "Route 4 (Japanese: ４番道路 Route 4) is a route in central Kalos, connecting Santalune City and Lumiose City.",
+      "updatedAt": 1771323696
+    },
+    "location|PASTORIA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Pastoria City",
+      "clue": "this location City (Japanese: ノモセシティ Nomose City) is a city in the Sinnoh region.",
+      "updatedAt": 1771323697
+    },
+    "location|PATHLESS PLAIN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Pathless Plain",
+      "clue": "The this location (Japanese: 名もなき平原 Nameless this location) is an island in the Hoenn region, found south of Pacifidlog Town in Pokémon Omega Ruby and Alpha Sapphire.",
+      "updatedAt": 1771323697
+    },
+    "location|PATH TO THE PEAK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Path to the Peak/Dens",
+      "clue": "Main article: this location Active Pokémon Dens can have a weak, red pillar of light or a strong, purple pillar of light.",
+      "updatedAt": 1771324180
+    },
+    "location|PATTERN BUSH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Pattern Bush",
+      "clue": "this location (Japanese: しるしのはやし Symbol Thicket) is an area exclusive to Pokémon FireRed and LeafGreen located on a small, offshore island to the north of Six Island.",
+      "updatedAt": 1771323699
+    },
+    "location|PC FUKUOKA": {
+      "status": "not_found",
+      "updatedAt": 1771325888
+    },
+    "location|PC NAGOYA": {
+      "status": "not_found",
+      "updatedAt": 1771325890
+    },
+    "location|PC OSAKA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "List of local Japanese event Pokémon distributions in Generation IV",
+      "clue": "This is a reverse-chronological list of event Pokémon distributions that were given away locally to Japanese language Pokémon games in Generation IV.",
+      "updatedAt": 1771324184
+    },
+    "location|PC SAPPORO": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "List of local Japanese event Pokémon distributions in Generation IV",
+      "clue": "This is a reverse-chronological list of event Pokémon distributions that were given away locally to Japanese language Pokémon games in Generation IV.",
+      "updatedAt": 1771324185
+    },
+    "location|PC TOKYO": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Pokémon Center (store)",
+      "clue": "A Pokémon Center (Japanese: ポケモンセンター Pokémon Center) is a retail store that sells official Pokémon merchandise.",
+      "updatedAt": 1771324186
+    },
+    "location|PC YOKOHAMA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "List of local Japanese event Pokémon distributions in Generation IV",
+      "clue": "This is a reverse-chronological list of event Pokémon distributions that were given away locally to Japanese language Pokémon games in Generation IV.",
+      "updatedAt": 1771324188
+    },
+    "item|PEAT BLOCK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Peat Block",
+      "clue": "The this item (Japanese: ピートブロック this item) is a type of item introduced in Pokémon Legends: Arceus.",
+      "updatedAt": 1771323707
+    },
+    "location|PETALBURG": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Petalburg City",
+      "clue": "this location City (Japanese: トウカシティ Touka City) is located in southwestern Hoenn.",
+      "updatedAt": 1771323707
+    },
+    "location|PEWTER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Pewter City",
+      "clue": "this location City (Japanese: ニビシティ Nibi City) is a city located in northwestern Kanto.",
+      "updatedAt": 1771325636
+    },
+    "item|PICNIC SET": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Picnic Set",
+      "clue": "The this item (Japanese: ピクニックセット this item) is a type of this item item introduced in Generation IX.",
+      "updatedAt": 1771323710
+    },
+    "location|PLASMA FRIGATE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Plasma Frigate",
+      "updatedAt": 1771325890
+    },
+    "location|PLEDGE GROVE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Pledge Grove",
+      "clue": "this location (Japanese: 誓いの林 Oath Woods) is a small forest-like location in southwest Unova.",
+      "updatedAt": 1771323716
+    },
+    "location|POCO PATH": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Poco Path",
+      "updatedAt": 1771325891
+    },
+    "location|POFFIN HOUSE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Poffin House",
+      "updatedAt": 1771325891
+    },
+    "type|POISON": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Poison",
+      "clue": "this type has several referrals: The this type type, one of the eighteen types that a Pokémon can have.",
+      "updatedAt": 1771323720
+    },
+    "location|POKEPARK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "PokéPark",
+      "clue": "PokéPark has several referrals: For the original theme park which operated in Japan and Taiwan, see PokéPark (theme park).",
+      "updatedAt": 1771323721
+    },
+    "location|POKE PELAGO": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Poké Pelago",
+      "clue": "Poké this location (Japanese: ポケリゾート Poké Resort) is a group of uninhabited islands in Alola reserved for the pleasure of Pokémon.",
+      "updatedAt": 1771323722
+    },
+    "location|POKETCH CO": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Pokétch Co. President",
+      "clue": "The Pokétch Company President (Japanese: ポケッチカンパニーのしゃちょう Pokétch Company's president) is a non-player character from the Sinnoh region.",
+      "updatedAt": 1771324189
+    },
+    "location|POKEWALKER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Pokéwalker",
+      "clue": "The Pokéwalker (Japanese: ポケウォーカー Pokéwalker) is a pedometer device specifically for use with Pokémon HeartGold and SoulSilver that is able to interact with the games in various manners.",
+      "updatedAt": 1771323724
+    },
+    "location|POLAR BIOME": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Polar Biome",
+      "updatedAt": 1771325892
+    },
+    "location|POLAR PLAZA": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Polar Plaza",
+      "updatedAt": 1771325893
+    },
+    "location|PONI COAST": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Poni Coast",
+      "updatedAt": 1771325893
+    },
+    "location|PONI GAUNTLET": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Poni Gauntlet",
+      "updatedAt": 1771325893
+    },
+    "location|PONI GROVE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Poni Grove",
+      "updatedAt": 1771325894
+    },
+    "location|PONI MEADOW": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Poni Meadow",
+      "updatedAt": 1771325894
+    },
+    "location|PONI PLAINS": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Poni Plains",
+      "updatedAt": 1771325895
+    },
+    "location|PONI WILDS": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Poni Wilds",
+      "updatedAt": 1771325895
+    },
+    "location|PORTO MARINADA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Porto Marinada",
+      "clue": "this location (Japanese: マリナードタウン Marinade Town) is a town in the Paldea region, located in West Province (Area Two).",
+      "updatedAt": 1771323731
+    },
+    "location|POSTWICK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Postwick",
+      "clue": "this location (Japanese: ハロンタウン Furlong Town) is a small town located at the southern end of the Galar region.",
+      "updatedAt": 1771323731
+    },
+    "location|POWER PLANT": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Power plant",
+      "updatedAt": 1771325896
+    },
+    "location|PRIMO": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Primo",
+      "clue": "this location (Japanese: ハジメ Hajime) is a non-player character that appears in Pokémon FireRed and LeafGreen and Pokémon HeartGold and SoulSilver.",
+      "updatedAt": 1771325643
+    },
+    "location|PRISM TOWER": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Prism Tower",
+      "updatedAt": 1771325896
+    },
+    "location|RADIO TOWER": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Radio Tower",
+      "updatedAt": 1771325897
+    },
+    "location|RAMANAS ISLAND": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Ramanas Island",
+      "updatedAt": 1771325897
+    },
+    "location|RAVAGED PATH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Ravaged Path",
+      "clue": "The this location (Japanese: 荒れた抜け道 Barren this location) is a small cave that is located on Route 204, separating Jubilife City from Floaroma Town.",
+      "updatedAt": 1771323735
+    },
+    "item|RED DISH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Red Dish",
+      "clue": "The this item (Japanese: レッドプレート this item Plate) is a type of picnic item introduced in Generation IX.",
+      "updatedAt": 1771323735
+    },
+    "location|RELIC CASTLE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Relic Castle",
+      "updatedAt": 1771325898
+    },
+    "location|RELIC PASSAGE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Relic Passage",
+      "clue": "this location (Japanese: 古代の抜け道 Ancient this location) is a cave-like location in south Unova introduced in Pokémon Black 2 and White 2.",
+      "updatedAt": 1771323736
+    },
+    "location|RESORT": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Resort Area",
+      "clue": "The this location Area (Japanese: リゾートエリア this location Area) is a small, town-like area in the Battle Zone, northeast of Sinnoh.",
+      "updatedAt": 1771325173
+    },
+    "location|REVELERS ROAD": {
+      "status": "not_found",
+      "updatedAt": 1771325899
+    },
+    "location|RILEY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Riley",
+      "clue": "this location (Japanese: ゲン Gen) is a Pokémon Trainer from Sinnoh.",
+      "updatedAt": 1771325646
+    },
+    "location|RIVIRE WALK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Kalos Route 7",
+      "clue": "Route 7 (Japanese: ７番道路 Route 7) is a route in western Kalos, connecting Route 6, Camphrier Town, and Connecting Cave.",
+      "updatedAt": 1771323739
+    },
+    "location|RIXY CHAMBER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Tanoby Chambers",
+      "clue": "The Tanoby Chambers (Japanese: アスカナのせきしつ Asukana Stone Chambers) are a strange and surreal place, ruins whose purpose has long since been forgotten.",
+      "updatedAt": 1771323740
+    },
+    "location|ROAMING HOENN": {
+      "status": "not_found",
+      "updatedAt": 1771325900
+    },
+    "location|ROAMING JOHTO": {
+      "status": "not_found",
+      "updatedAt": 1771325901
+    },
+    "location|ROAMING KALOS": {
+      "status": "not_found",
+      "updatedAt": 1771325902
+    },
+    "location|ROAMING KANTO": {
+      "status": "not_found",
+      "updatedAt": 1771325904
+    },
+    "location|ROAMING SINNOH": {
+      "status": "not_found",
+      "updatedAt": 1771325905
+    },
+    "location|ROAMING UNOVA": {
+      "status": "not_found",
+      "updatedAt": 1771325906
+    },
+    "type|ROCK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Rock",
+      "clue": "this type has several referrals: The this type type, one of the eighteen types that a Pokémon can have.",
+      "updatedAt": 1771323746
+    },
+    "location|ROCK PEAK RUINS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Rock Peak Ruins",
+      "clue": "this location can refer to two different locations: this location (Sinnoh), a cave in the Sinnoh region in Pokémon Platinum.",
+      "updatedAt": 1771323747
+    },
+    "location|ROCK TUNNEL": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Rock Tunnel",
+      "clue": "Since it has not been developed, it is pitch black inside.",
+      "updatedAt": 1771325654
+    },
+    "location|ROLLING FIELDS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Rolling Fields",
+      "clue": "The this location (Japanese: うららか草原 Splendid Grassland) are a part of the Wild Area in the Galar region, located in the south of the southern portion of the Wild Area.",
+      "updatedAt": 1771323748
+    },
+    "item|ROTOM PHONE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Rotom Phone",
+      "clue": "The this item (Japanese: スマホロトム Smartphone this item) is a smartphone that is enhanced after being possessed by a this item.",
+      "updatedAt": 1771323749
+    },
+    "location|ROTOMS ROOM": {
+      "status": "not_found",
+      "updatedAt": 1771325907
+    },
+    "item|ROTO STICK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Roto-Stick",
+      "clue": "The this item (Japanese: ロトりぼう Rotoribō) is a Key Item introduced in Generation IX.",
+      "updatedAt": 1771323750
+    },
+    "location|ROUTE GATE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Gate",
+      "clue": "They are locations in which two other locations (typically routes or civilizations such as towns and cities) are connected, acting as a checkpoint.",
+      "updatedAt": 1771325655
+    },
+    "location|ROYAL AVENUE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Royal Avenue",
+      "updatedAt": 1771325908
+    },
+    "location|ROYAL UNOVA": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Royal Unova",
+      "updatedAt": 1771325908
+    },
+    "location|RUINS OF ALPH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Ruins of Alph (Undaunted 76)",
+      "clue": "this location (Japanese: アルフの遺跡 this location) is a Stadium card.",
+      "updatedAt": 1771324200
+    },
+    "location|RUINS OF HOPE": {
+      "status": "not_found",
+      "updatedAt": 1771325910
+    },
+    "location|RUINS OF LIFE": {
+      "status": "not_found",
+      "updatedAt": 1771325911
+    },
+    "location|RUIN VALLEY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Ruin Valley",
+      "clue": "this location (Japanese: いせきのたに this location) is a route in the Sevii Islands.",
+      "updatedAt": 1771323756
+    },
+    "location|RUSTBORO": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Rustboro City",
+      "clue": "this location City (Japanese: カナズミシティ Kanazumi City) is a metropolis located in western Hoenn.",
+      "updatedAt": 1771323757
+    },
+    "location|RUSTURF TUNNEL": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Rusturf Tunnel",
+      "updatedAt": 1771325916
+    },
+    "location|SACRED PLAZA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Sacred Plaza",
+      "clue": "this location (Japanese: 祈りの広場 Prayer this location) is an area located in the western region of the Coronet Highlands of Hisui.",
+      "updatedAt": 1771323758
+    },
+    "location|SAFFRON": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Saffron City",
+      "clue": "this location City (Japanese: ヤマブキシティ Yamabuki City) is a sprawling metropolis in the Kanto region.",
+      "updatedAt": 1771325660
+    },
+    "location|SANDGEM": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Sandgem Town",
+      "clue": "this location Town (Japanese: マサゴタウン Masago Town) is a town in the Sinnoh region.",
+      "updatedAt": 1771323759
+    },
+    "location|SANDGEM FLATS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Sandgem Flats",
+      "clue": "The this location (Japanese: マサゴ平原 Masago Plains) is an area located in the southwestern region of the Obsidian Fieldlands of Hisui.",
+      "updatedAt": 1771323760
+    },
+    "location|SANDS REACH": {
+      "status": "not_found",
+      "updatedAt": 1771325917
+    },
+    "item|SANDWICH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Sandwich",
+      "clue": "Sandwiches (Japanese: サンドウィッチ this item) are a food item consisting of sliced bread and fillings popular in the Paldea region.",
+      "updatedAt": 1771325661
+    },
+    "location|SANDY CAVE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Sandy Cave",
+      "clue": "this location (Japanese: 浜辺(はまべ)の洞穴(ほらあな) Beach this location) is a location on Melemele Island in Alola.",
+      "updatedAt": 1771325662
+    },
+    "location|SANTALUNE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Santalune City",
+      "clue": "this location City (Japanese: ハクダンシティ Hakudan City) is a city located in the central part of the Kalos region.",
+      "updatedAt": 1771323762
+    },
+    "location|SAVANNA BIOME": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Savanna Biome",
+      "updatedAt": 1771325918
+    },
+    "location|SAVANNA PLAZA": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Savanna Plaza",
+      "updatedAt": 1771325918
+    },
+    "location|SCARLET BOG": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Scarlet Bog",
+      "clue": "this location (Japanese: 深紅沼 this location Swamp) is an area located in the central region of the Crimson Mirelands of Hisui.",
+      "updatedAt": 1771323765
+    },
+    "item|SCARLET BOOK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Scarlet Book",
+      "clue": "The this item (Japanese: スカーレットブック this item) is a Key Item introduced in Generation IX.",
+      "updatedAt": 1771323766
+    },
+    "location|SCORCHED SLAB": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Scorched Slab",
+      "clue": "this location (Japanese: 日照りの岩戸 Drought Cave) is a small cave found in Hoenn.",
+      "updatedAt": 1771323766
+    },
+    "location|SCUFIB CHAMBER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Tanoby Chambers",
+      "clue": "The Tanoby Chambers (Japanese: アスカナのせきしつ Asukana Stone Chambers) are a strange and surreal place, ruins whose purpose has long since been forgotten.",
+      "updatedAt": 1771323767
+    },
+    "location|SEABREAK PATH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Seabreak Path",
+      "clue": "The this location (Japanese: 海割れの道 this location) is an extension of Route 224 that leads to the Flower Paradise.",
+      "updatedAt": 1771323767
+    },
+    "location|SEAFOLK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Seafolk Village",
+      "clue": "this location Village (Japanese: 海の民の村 this location Village) is a location on Poni Island of the Alola region.",
+      "updatedAt": 1771323768
+    },
+    "location|SEAGRASS HAVEN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Seagrass Haven",
+      "clue": "this location (Japanese: 海草の楽園 this location Paradise) is an area located in the northern region of the Cobalt Coastlands of Hisui.",
+      "updatedAt": 1771323768
+    },
+    "location|SEALED CHAMBER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Sealed Chamber",
+      "clue": "The this location (Japanese: おふれの石室 Stone this location of the Proclamation) is a location in Hoenn.",
+      "updatedAt": 1771323769
+    },
+    "location|SEA MAUVILLE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Sea Mauville",
+      "clue": "this location (Japanese: シーキンセツ this location Kinsetsu) is a decrepit research facility in the Hoenn region, located to the north of Route 108.",
+      "updatedAt": 1771323770
+    },
+    "location|SEASIDE CAVE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Seaside Cave",
+      "clue": "The this location (Japanese: 海辺の洞穴 this location) is a cavern located between Route 21 and Undella Bay.",
+      "updatedAt": 1771323770
+    },
+    "location|SEASIDE HOLLOW": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Seaside Hollow",
+      "clue": "The this location (Japanese: 海辺の小穴 this location) is a small cave located in the northern region of the Cobalt Coastlands of Hisui.",
+      "updatedAt": 1771323771
+    },
+    "location|SEA SPIRITS DEN": {
+      "status": "not_found",
+      "updatedAt": 1771325920
+    },
+    "location|SEAWARD CAVE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Seaward Cave",
+      "clue": "this location (Japanese: 海繋ぎの洞穴 this location) is a location on Melemele Island in Alola.",
+      "updatedAt": 1771323773
+    },
+    "location|SECLUDED SHORE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Ula'ula Beach",
+      "clue": "Ula'ula Beach (Japanese: ウラウラビーチ ʻUlaʻula Beach), known as this location (Japanese: ウラウラ裏海岸 ʻUlaʻula this location) in Pokémon Sun and Moon, is a location on Ula'ula Island in Alola, located south of Route 12.",
+      "updatedAt": 1771325664
+    },
+    "location|SECRET BASE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Secret Base",
+      "clue": "A this location (Japanese: ひみつきち this location) is a special area that the player can create in Hoenn- and Sinnoh-based games to decorate with various accessories, furniture, and Pokémon dolls.",
+      "updatedAt": 1771323774
+    },
+    "location|SECRET ISLET": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Secret Islet",
+      "updatedAt": 1771325920
+    },
+    "location|SECRET MEADOW": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Secret Meadow",
+      "updatedAt": 1771325920
+    },
+    "location|SECRET SHORE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Secret Shore",
+      "updatedAt": 1771325921
+    },
+    "location|SENDOFF SPRING": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Sendoff Spring",
+      "updatedAt": 1771325922
+    },
+    "location|SEVAULT CANYON": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Sevault Canyon",
+      "clue": "this location (Japanese: しっぽうけいこく this location of the Seven Treasures) is an area on Seven Island in the Sevii Islands which includes the Tanoby Key and leads south to the Tanoby Ruins.",
+      "updatedAt": 1771323777
+    },
+    "location|SEVEN ISLAND": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Seven Island",
+      "updatedAt": 1771325922
+    },
+    "ability|SHACKLE": {
+      "status": "not_found",
+      "updatedAt": 1771325923
+    },
+    "type|SHADOW": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Shadow",
+      "updatedAt": 1771325924
+    },
+    "location|SHADY HOUSE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Shady House",
+      "clue": "The this location (Japanese: いかがわしき屋敷 Suspicious Mansion) is a location on Ula'ula Island in Alola, located at the north end of Po Town.",
+      "updatedAt": 1771323780
+    },
+    "location|SHALOUR": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Shalour City",
+      "clue": "this location City (Japanese: シャラシティ Shara City) is a city located in the western portion of the Kalos region.",
+      "updatedAt": 1771323780
+    },
+    "location|SHALOUR GATE": {
+      "status": "not_found",
+      "updatedAt": 1771325925
+    },
+    "location|SHOAL CAVE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Shoal Cave",
+      "clue": "this location (Japanese: 浅瀬の洞穴 this location) is a location in Hoenn.",
+      "updatedAt": 1771323782
+    },
+    "location|SHROUDED RUINS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Shrouded Ruins",
+      "clue": "The this location (Japanese: 霧の遺跡 Foggy this location) is an area located in the northern region of the Crimson Mirelands of Hisui.",
+      "updatedAt": 1771323783
+    },
+    "ability|SIMPLE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Simple (Ability)",
+      "clue": "this ability (Japanese: たんじゅん this ability) is an Ability introduced in Generation IV.",
+      "updatedAt": 1771323783
+    },
+    "location|SINJOH RUINS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Sinjoh Ruins",
+      "clue": "The this location (Japanese: シントいせき Shinto this location) are a location in Pokémon HeartGold and SoulSilver that are not part of any known region.",
+      "updatedAt": 1771323783
+    },
+    "location|SINNOH CAFE": {
+      "status": "not_found",
+      "updatedAt": 1771325926
+    },
+    "location|SINNOH VILLA": {
+      "status": "not_found",
+      "updatedAt": 1771325927
+    },
+    "location|SIX ISLAND": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Six Island",
+      "updatedAt": 1771325928
+    },
+    "location|SKY PILLAR": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Sky Pillar",
+      "clue": "The this location (Japanese: 空の柱 this location) is a building in Hoenn.",
+      "updatedAt": 1771325198
+    },
+    "location|SLATEPORT": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Slateport City",
+      "clue": "this location City (Japanese: カイナシティ Kaina City) is a port town on the southern coast of Hoenn.",
+      "updatedAt": 1771325673
+    },
+    "location|SLIPPERY SLOPE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Slippery Slope",
+      "clue": "this location (Japanese: 滑り出し雪原 this location Snowfield) is a location in the Galar region.",
+      "updatedAt": 1771325673
+    },
+    "location|SLOWPOKE WELL": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Slowpoke Well",
+      "clue": "The this location (Japanese: ヤドンのいど Yadon this location) is a man-made cave located at the edge of Azalea Town.",
+      "updatedAt": 1771323789
+    },
+    "location|SLUDGE MOUND": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Sludge Mound",
+      "clue": "this location (Japanese: ヘドロ台地 this location Plateau) is an area located in the southern region of the Crimson Mirelands of Hisui.",
+      "updatedAt": 1771323789
+    },
+    "location|SNOWBELLE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Snowbelle City",
+      "clue": "this location City (Japanese: エイセツシティ Eisetsu City) is a city located in the Kalos region.",
+      "updatedAt": 1771323790
+    },
+    "location|SNOWBELLE GATE": {
+      "status": "not_found",
+      "updatedAt": 1771325929
+    },
+    "location|SNOWPOINT": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Snowpoint City",
+      "clue": "this location City (Japanese: キッサキシティ Kissaki City) is a snow-covered city located at the far north of Sinnoh, where snow blows down from the top of Mount Coronet, causing low temperatures.",
+      "updatedAt": 1771323792
+    },
+    "location|SOCARRAT TRAIL": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Socarrat Trail",
+      "clue": "this location (Japanese: オコゲ林道 Okoge Forest Path) is a subregion of Casseroya Lake in the Paldea region, located in the northwest portion of the region's North Province.",
+      "updatedAt": 1771323792
+    },
+    "location|SOLACEON": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Solaceon Town",
+      "clue": "this location Town (Japanese: ズイタウン Zui Town) is a town in central Sinnoh.",
+      "updatedAt": 1771323793
+    },
+    "location|SOLACEON RUINS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Solaceon Ruins",
+      "clue": "The this location (Japanese: ズイの遺跡 Zui this location) is a location in Sinnoh.",
+      "updatedAt": 1771323794
+    },
+    "location|SONOROUS PATH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Sonorous Path",
+      "clue": "this location (Japanese: 巡礼者の道 Pilgrims' this location) is an area located in the southern region of the Coronet Highlands of Hisui.",
+      "updatedAt": 1771323794
+    },
+    "location|SOOTOPOLIS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Sootopolis City",
+      "clue": "this location City (Japanese: ルネシティ Rune City) is a city located to the east of the Hoenn mainland.",
+      "updatedAt": 1771323795
+    },
+    "location|SPACE WORLD": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Nintendo Space World",
+      "updatedAt": 1771325929
+    },
+    "location|SPEAR PILLAR": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Spear Pillar",
+      "clue": "The this location (Japanese: 槍の柱 this location) is a location on the peak of Mount Coronet in Sinnoh where the Legendary Pokémon Dialga, Palkia, and Giratina are known to enter the region from their respective dimensions and from which, legends say, Sinnoh itself came from.",
+      "updatedAt": 1771323796
+    },
+    "location|SPIKEMUTH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Spikemuth",
+      "clue": "this location (Japanese: スパイクタウン Spike Town) is a small town located at the eastern end of the Galar region, to the west is Route 9.",
+      "updatedAt": 1771323796
+    },
+    "location|SPIKES PASSAGE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Kalos Route 9",
+      "clue": "Route 9 (Japanese: ９番道路 Route 9) is a route in western Kalos, connecting Ambrette Town and Glittering Cave.",
+      "updatedAt": 1771323797
+    },
+    "location|SPRING PATH": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Spring Path",
+      "updatedAt": 1771325930
+    },
+    "location|SPROUT TOWER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Sprout Tower",
+      "clue": "this location (Japanese: マダツボミのとう Madatsubomi this location) is a large pagoda located in Violet City in Johto.",
+      "updatedAt": 1771323798
+    },
+    "location|SS ANNE": {
+      "status": "not_found",
+      "updatedAt": 1771325931
+    },
+    "location|SS AQUA": {
+      "status": "not_found",
+      "updatedAt": 1771325932
+    },
+    "location|SS TIDAL": {
+      "status": "not_found",
+      "updatedAt": 1771325934
+    },
+    "location|STARK MOUNTAIN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Stark Mountain",
+      "clue": "this location (Japanese: ハードマウンテン Hard this location) is a volcano located in the north of the Battle Zone in Sinnoh, at the end of Route 227.",
+      "updatedAt": 1771323802
+    },
+    "ability|STEALTH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Stealth Rock (move)",
+      "clue": "this ability Rock (Japanese: ステルスロック this ability Rock) is a non-damaging Rock-type move introduced in Generation IV.",
+      "updatedAt": 1771324217
+    },
+    "location|STEAMDRIFT WAY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Galar Route 8",
+      "clue": "Route 8 (Japanese: ８番道路 Route 8) is a route in northeast Galar that connects Route 7 and Circhester.",
+      "updatedAt": 1771323804
+    },
+    "type|STEEL": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Steel (type)",
+      "clue": "The this type type (Japanese: はがねタイプ this type type), originally called the メタルタイプ Metal type in the Pokémon Gold and Silver Spaceworld '97 demo, is one of the eighteen types.",
+      "updatedAt": 1771325205
+    },
+    "location|STOW ON SIDE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Stow-on-Side Stadium",
+      "clue": "this location Stadium (Japanese: ラテラルスタジアム Lateral Stadium) is the official Stadium of this location.",
+      "updatedAt": 1771324218
+    },
+    "item|STRANGE BALL": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Strange Ball",
+      "clue": "The this item (Japanese: ストレンジボール this item) is a placeholder Poké this item introduced in Pokémon Brilliant Diamond and Shining Pearl.",
+      "updatedAt": 1771323806
+    },
+    "location|STRANGE HOUSE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Strange House",
+      "clue": "Not to be confused with Shady this location.",
+      "updatedAt": 1771323806
+    },
+    "location|STRIATON": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Striaton City",
+      "clue": "this location City (Japanese: サンヨウシティ Sanyou City) is a city in southeastern Unova.",
+      "updatedAt": 1771323807
+    },
+    "location|SUNYSHORE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Sunyshore City",
+      "clue": "this location City (Japanese: ナギサシティ Nagisa City) is a city in the Sinnoh region, and the location of the region's final Pokémon Gym.",
+      "updatedAt": 1771323808
+    },
+    "location|SURVIVAL": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Survival Area",
+      "clue": "this location Area (Japanese: サバイバルエリア this location Area) is an area of the Battle Zone, northeast of Sinnoh.",
+      "updatedAt": 1771323808
+    },
+    "location|TANOBY RUINS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Tanoby Ruins",
+      "clue": "The this location (Japanese: アスカナいせき Asukana this location) are a part of the explorable area of the seventh of the nine Sevii Islands.",
+      "updatedAt": 1771323809
+    },
+    "location|TAPU": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Guardian deities",
+      "clue": "The guardian deities (Japanese: 守(まも)り神(がみ) Mamori-gami), also known as the this location (Japanese: カプ kapu), are a group of Legendary Pokémon from the Alola region who protect the archipelago.",
+      "updatedAt": 1771323809
+    },
+    "item|TEAL MASK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Teal Mask",
+      "clue": "The this item (Japanese: みどりのめん Green this item) is a Key Item introduced in Generation IX, and the titular item of The this item.",
+      "updatedAt": 1771325205
+    },
+    "item|TEAL STYLE CARD": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Teal Style Card",
+      "clue": "The this item (Japanese: おしゃれカードみどり Turquoise Fashion this item) is a Key Item introduced in Generation IX.",
+      "updatedAt": 1771325680
+    },
+    "location|TEAM ROCKET HQ": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Team Rocket HQ (anime)",
+      "updatedAt": 1771325935
+    },
+    "location|TEN CARAT HILL": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Ten Carat Hill",
+      "clue": "this location (Japanese: テンカラットヒル this location) is a location on Melemele Island in Alola accessed via Route 1, located west of the Pokémon Research Lab.",
+      "updatedAt": 1771323812
+    },
+    "item|TERA ORB": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Tera Orb",
+      "clue": "A this item (Japanese: テラスタルオーブ Terastal this item) is a Key Item introduced in Generation IX.",
+      "updatedAt": 1771323813
+    },
+    "location|TERMINUS CAVE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Terminus Cave",
+      "updatedAt": 1771325935
+    },
+    "location|TERRA CAVE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Terra Cave",
+      "updatedAt": 1771325936
+    },
+    "location|TG ETERNA BLDG": {
+      "status": "not_found",
+      "updatedAt": 1771325937
+    },
+    "location|THE HEARTWOOD": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "The Heartwood",
+      "updatedAt": 1771325938
+    },
+    "location|THREE ISLAND": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Three Island",
+      "updatedAt": 1771325938
+    },
+    "location|THREE ISLE PATH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Three Isle Path",
+      "clue": "this location (Japanese: ３のしま よこあな Island 3 Tunnel) is a small underground passage located in the Sevii Islands archipelago.",
+      "updatedAt": 1771323817
+    },
+    "location|THREE ISLE PORT": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Three Isle Port",
+      "updatedAt": 1771325938
+    },
+    "ability|THRUST": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Arm Thrust (move)",
+      "clue": "Arm this ability (Japanese: つっぱり this ability) is a damage-dealing Fighting-type multistrike move introduced in Generation III.",
+      "updatedAt": 1771323818
+    },
+    "location|TIDEWATER DAM": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Tidewater Dam",
+      "clue": "this location (Japanese: 河口の堰堤 Estuary this location) is an area located in the southern region of the Obsidian Fieldlands of Hisui.",
+      "updatedAt": 1771323818
+    },
+    "location|TIMELESS WOODS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Timeless Woods",
+      "clue": "The this location (Japanese: とこしえの森 Eternity Forest) is a large forest located in Kitakami.",
+      "updatedAt": 1771323819
+    },
+    "location|TOHJO FALLS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Tohjo Falls",
+      "clue": "The this location (Japanese: トージョウの滝 Tōjō this location) are two waterfalls separating the Johto and Kanto regions, and known as The Link Between Kanto and Johto.",
+      "updatedAt": 1771323819
+    },
+    "location|TOMBOLO WALK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Tombolo Walk",
+      "clue": "this location (Japanese: トンボロ道 this location Path) is an area located in the southeastern waters of the Cobalt Coastlands of Hisui.",
+      "updatedAt": 1771323820
+    },
+    "location|TOWER OF WATERS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Tower of Waters (Battle Styles 138)",
+      "clue": "this location (Japanese: みずの塔 this location Water) is a Stadium card.",
+      "updatedAt": 1771325211
+    },
+    "location|TRAINER TOWER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Trainer Tower",
+      "clue": "this location (Japanese: トレーナータワー this location) is a facility in Pokémon FireRed and LeafGreen located to the north of Seven Island in the Sevii Islands.",
+      "updatedAt": 1771323822
+    },
+    "location|TRAVELING MAN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "List of Pokémon Eggs from in-game events",
+      "clue": "This is a list of Pokémon Eggs from in-game events.",
+      "updatedAt": 1771323822
+    },
+    "location|TREASURE BEACH": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Treasure Beach",
+      "updatedAt": 1771325939
+    },
+    "location|TRIAL CHAMBER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Victory Road (Black and White)",
+      "clue": "Victory Road (Japanese: チャンピオンロード Champion Road) is the final journey one must take before facing the Elite Four.",
+      "updatedAt": 1771323824
+    },
+    "location|TROPHY GARDEN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Trophy Garden",
+      "clue": "The this location (Japanese: 自慢の裏庭 Vaunted Backyard) is an area located on Route 212 where many rare Pokémon can be caught.",
+      "updatedAt": 1771323824
+    },
+    "location|TURFFIELD": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Turffield",
+      "clue": "this location (Japanese: ターフタウン Turf Town) is a small town located in central Galar.",
+      "updatedAt": 1771323825
+    },
+    "location|TURNBACK CAVE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Turnback Cave",
+      "updatedAt": 1771325939
+    },
+    "location|TWINLEAF": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Twinleaf Town",
+      "clue": "this location Town (Japanese: フタバタウン Futaba Town) is situated in the southwestern part of the Sinnoh region.",
+      "updatedAt": 1771323826
+    },
+    "location|TWIST MOUNTAIN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Twist Mountain",
+      "clue": "this location (Japanese: ネジ山 Spiral this location) is a location in Pokémon Black and White and Pokémon Black 2 and White 2.",
+      "updatedAt": 1771323826
+    },
+    "location|TWO ISLAND": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Two Island",
+      "clue": "If you were looking for the town of the same name, see this location (town).",
+      "updatedAt": 1771323827
+    },
+    "location|ULAULA BEACH": {
+      "status": "not_found",
+      "updatedAt": 1771325213
+    },
+    "location|ULAULA MEADOW": {
+      "status": "not_found",
+      "updatedAt": 1771325214
+    },
+    "location|ULTRA SPACE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Ultra Space",
+      "updatedAt": 1771325215
+    },
+    "location|UNDELLA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Undella Town",
+      "clue": "this location Town (Japanese: サザナミタウン Sazanami Town) is a town located in eastern Unova.",
+      "updatedAt": 1771323830
+    },
+    "location|UNDELLA BAY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Undella Bay",
+      "clue": "this location (Japanese: サザナミ湾 Sazanami this location) is a small area in the eastern part of Unova.",
+      "updatedAt": 1771323831
+    },
+    "location|UNDELLA GATE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Gate",
+      "clue": "They are locations in which two other locations (typically routes or civilizations such as towns and cities) are connected, acting as a checkpoint.",
+      "updatedAt": 1771503348
+    },
+    "location|UNDERWATER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Underwater",
+      "clue": "this location (Japanese: 水中 this location) is the label given to special areas in Hoenn.",
+      "updatedAt": 1771325215
+    },
+    "location|UNION CAVE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Union Cave",
+      "updatedAt": 1771325215
+    },
+    "location|UNITY TOWER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Unity Tower",
+      "clue": "this location (Japanese: ユナイテッドタワー United this location) is a skyscraper on an island in the southwest of the Unova region.",
+      "updatedAt": 1771323833
+    },
+    "location|URSAS RING": {
+      "status": "not_found",
+      "updatedAt": 1771325216
+    },
+    "location|UVA ACADEMY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Uva Academy",
+      "clue": "this location (Japanese: グレープアカデミー Grape this location) is a school located in Mesagoza in the Paldea region.",
+      "updatedAt": 1771323835
+    },
+    "location|VALOR CAVERN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Lake Valor",
+      "clue": "Lake this location (Japanese: リッシ湖(こ) and 立志湖 Lake Risshi) is a location in the Sinnoh region, and part of the Crimson Mirelands in the Hisui region.",
+      "updatedAt": 1771323836
+    },
+    "location|VANIVILLE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Vaniville Town",
+      "clue": "this location Town (Japanese: アサメタウン Asame Town) is a small town located in the southeastern portion of the Kalos region.",
+      "updatedAt": 1771323836
+    },
+    "location|VEILSTONE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Veilstone City",
+      "clue": "this location City (Japanese: トバリシティ Tobari City) is a city in eastern Sinnoh.",
+      "updatedAt": 1771323837
+    },
+    "location|VEILSTONE CAPE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Veilstone Cape",
+      "clue": "this location (Japanese: 帳岬 Curtain this location) is an area located in the center of the Cobalt Coastlands of Hisui.",
+      "updatedAt": 1771323838
+    },
+    "location|VERDANT CAVERN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Verdant Cavern",
+      "clue": "this location (Japanese: 茂みの洞窟 this location) is a location on Melemele Island in Alola, located in the northeastern portion of Route 2.",
+      "updatedAt": 1771323838
+    },
+    "location|VERDANTURF": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Verdanturf Town",
+      "clue": "this location Town (Japanese: シダケタウン Shidake Town) is a small, quaint town nestled between the mountains and the plains in central-western Hoenn.",
+      "updatedAt": 1771323839
+    },
+    "location|VERITY CAVERN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Lake Verity",
+      "clue": "Lake this location (Japanese: シンジ湖(こ) and 心情湖 Lake Shinji) is a location in the Sinnoh region, and part of the Obsidian Fieldlands in the Hisui region.",
+      "updatedAt": 1771323840
+    },
+    "location|VERMILION": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Vermilion City",
+      "clue": "If you were looking for the chapter in Pokémon Zensho, see PZ04.",
+      "updatedAt": 1771323840
+    },
+    "location|VERSANT ROAD": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Kalos Route 5",
+      "clue": "Route 5 (Japanese: ５番道路 Route 5) is a route in central Kalos, connecting Lumiose City and Camphrier Town.",
+      "updatedAt": 1771323841
+    },
+    "location|VIAPOS CHAMBER": {
+      "status": "not_found",
+      "updatedAt": 1771325218
+    },
+    "location|VILLAGE BRIDGE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Village Bridge",
+      "updatedAt": 1771325218
+    },
+    "location|VIOLET": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Violet",
+      "clue": "this location (バイオレット) has several referrals.",
+      "updatedAt": 1771323843
+    },
+    "item|VIOLET BOOK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Violet Book",
+      "clue": "The this item (Japanese: バイオレットブック this item) is a Key Item introduced in Generation IX.",
+      "updatedAt": 1771323844
+    },
+    "location|VIRBANK": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Virbank City",
+      "clue": "this location City (Japanese: タチワキシティ Tachiwaki City) is a city in southwestern Unova.",
+      "updatedAt": 1771323844
+    },
+    "location|VIRBANK GATE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Gate",
+      "clue": "They are locations in which two other locations (typically routes or civilizations such as towns and cities) are connected, acting as a checkpoint.",
+      "updatedAt": 1771506944
+    },
+    "location|VIRIDIAN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Viridian City",
+      "clue": "If you were looking for the song, see this location City (song).",
+      "updatedAt": 1771323846
+    },
+    "location|WARM UP TUNNEL": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Warm-Up Tunnel",
+      "updatedAt": 1771325219
+    },
+    "type|WATER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Water",
+      "clue": "this type has several referrals: The this type type, one of the eighteen types that a Pokémon can have.",
+      "updatedAt": 1771323847
+    },
+    "location|WATER PATH": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Water Path",
+      "updatedAt": 1771325220
+    },
+    "location|WAYWARD CAVE": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Wayward Cave",
+      "updatedAt": 1771325220
+    },
+    "location|WAYWARD WOOD": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Wayward Wood",
+      "clue": "this location (Japanese: 迷いの山林 Bewildering Forest) is an area located in the southern region of the Coronet Highlands of Hisui.",
+      "updatedAt": 1771323849
+    },
+    "location|WEDGEHURST": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Wedgehurst",
+      "clue": "this location (Japanese: ブラッシータウン Brassie Town) is a small town located at the southern end of the Galar region.",
+      "updatedAt": 1771323849
+    },
+    "location|WEEPTH CHAMBER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Tanoby Chambers",
+      "clue": "The Tanoby Chambers (Japanese: アスカナのせきしつ Asukana Stone Chambers) are a strange and surreal place, ruins whose purpose has long since been forgotten.",
+      "updatedAt": 1771323850
+    },
+    "location|WHIRL ISLANDS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Whirl Islands",
+      "clue": "The this location (Japanese: うずまきじま Whirlpool this location) are a small archipelago located between the mainland of Johto and Cianwood City, on Route 41.",
+      "updatedAt": 1771323850
+    },
+    "item|WHITE DISH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "White Dish",
+      "clue": "The this item (Japanese: ホワイトプレート this item Plate) is a type of picnic item introduced in Generation IX.",
+      "updatedAt": 1771323851
+    },
+    "location|WHITE FOREST": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "White Forest",
+      "updatedAt": 1771325221
+    },
+    "location|WHITE GATE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Gate",
+      "clue": "Gates (Japanese: ゲート this location) are prominent locations found within the Pokémon world.",
+      "updatedAt": 1771323852
+    },
+    "location|WI FI EVENT": {
+      "status": "not_found",
+      "updatedAt": 1771325222
+    },
+    "location|WI FI GIFT": {
+      "status": "not_found",
+      "updatedAt": 1771325223
+    },
+    "location|WINDING WOODS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Kalos Route 20",
+      "clue": "Route 20 (Japanese: ２０番道路 Route 20) is a route in eastern Kalos, connecting Snowbelle City and the Pokémon Village.",
+      "updatedAt": 1771323855
+    },
+    "location|WINDSWEPT RUN": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Windswept Run",
+      "clue": "this location (Japanese: 風抜け道 this location Path) is an area located in the central region of the Obsidian Fieldlands of Hisui.",
+      "updatedAt": 1771323856
+    },
+    "location|WISTFUL FIELDS": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Wistful Fields",
+      "clue": "The this location (Japanese: フジが原 Wisteria this location) is a large field located in Kitakami.",
+      "updatedAt": 1771323857
+    },
+    "location|WORKOUT SEA": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Workout Sea",
+      "clue": "The this location (Japanese: ワークアウトの海 this location) is a part of the Isle of Armor in the Galar region.",
+      "updatedAt": 1771323857
+    },
+    "location|WORN BRIDGE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Worn Bridge",
+      "clue": "this location (Japanese: 削られ橋 Eroded this location) is an area located in the northeastern region of the Obsidian Fieldlands of Hisui.",
+      "updatedAt": 1771323858
+    },
+    "location|WYNDON": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Wyndon",
+      "clue": "this location (Japanese: シュートシティ Shoot City) is a large city located in the northernmost part of the Galar region.",
+      "updatedAt": 1771323858
+    },
+    "item|YELLOW DISH": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Yellow Dish",
+      "clue": "The this item (Japanese: イエロープレート this item Plate) is a type of picnic item introduced in Generation IX.",
+      "updatedAt": 1771323859
+    },
+    "location|ZAPAPICO": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Zapapico",
+      "clue": "this location (Japanese: ピケタウン Piquer Town) is a town in the Paldea region, located at the base of Glaseado Mountain's Dalizapa Passage and East Province (Area Three).",
+      "updatedAt": 1771323859
+    },
+    "location|ZERO LAB": {
+      "status": "unusable_extract",
+      "source": "bulbapedia",
+      "title": "Zero Lab",
+      "updatedAt": 1771325224
+    },
+    "location|ZUBAT ROOST": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Connecting Cave",
+      "clue": "Connecting Cave (Japanese: 地つなぎの洞穴 Connecting Cave) is a cave located in the Kalos region.",
+      "updatedAt": 1771323860
+    },
+    "ability|AQUA BOOST": {
+      "status": "not_found",
+      "updatedAt": 1771506890
+    },
+    "ability|BLACK HOLE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Black Hole Eclipse (move)",
+      "clue": "this ability Eclipse (Japanese: ブラックホールイクリプス this ability Eclipse) is a damage-dealing Dark-type Z-Move introduced in Generation VII.",
+      "updatedAt": 1771503302
+    },
+    "ability|BODYGUARD": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "BodyGuard (TCG)",
+      "clue": "The this ability Theme Deck from the Fossil expansion of the Pokémon Trading Card Game predominantly focuses on Grass-type and Fighting-type Pokémon.",
+      "updatedAt": 1771503302
+    },
+    "ability|BONANZA": {
+      "status": "not_found",
+      "updatedAt": 1771506892
+    },
+    "ability|CALMING": {
+      "status": "not_found",
+      "updatedAt": 1771506894
+    },
+    "ability|CLIMBER": {
+      "status": "not_found",
+      "updatedAt": 1771506896
+    },
+    "ability|CONFIDENCE": {
+      "status": "not_found",
+      "updatedAt": 1771506897
+    },
+    "ability|CONQUEROR": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "List of items in Pokémon Conquest",
+      "clue": "This is a page for items that appear in Pokémon Conquest.",
+      "updatedAt": 1771503308
+    },
+    "ability|DECOY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Status condition (Mystery Dungeon)",
+      "clue": "For Giovanni's imposters, see Team GO Rocket Grunt (Trainer class).",
+      "updatedAt": 1771503308
+    },
+    "ability|DEEP SLEEP": {
+      "status": "not_found",
+      "updatedAt": 1771506899
+    },
+    "ability|DISGUST": {
+      "status": "not_found",
+      "updatedAt": 1771506901
+    },
+    "ability|DODGE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Scarf (Mystery Dungeon)",
+      "clue": "In the Pokémon Mystery Dungeon series, there are hold-items mainly called scarves, bands, bows, or ribbons, that typically increase statistics or make the Pokémon immune to certain status conditions when held.",
+      "updatedAt": 1771503311
+    },
+    "ability|EXPLODE": {
+      "status": "not_found",
+      "updatedAt": 1771506903
+    },
+    "ability|FLAME BOOST": {
+      "status": "not_found",
+      "updatedAt": 1771506906
+    },
+    "ability|FORTUNE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Six Island",
+      "clue": "Six Island (Japanese: ６のしま Island 6), commonly referred to by fans as this ability Island (Japanese: たこうじま this ability Island), is the sixth island in the Sevii Islands archipelago.",
+      "updatedAt": 1771503315
+    },
+    "ability|FRIGHTEN": {
+      "status": "not_found",
+      "updatedAt": 1771506907
+    },
+    "ability|FROSTBITE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Status condition",
+      "clue": "Status conditions (Japanese: 状態異常 abnormal condition), also referred to as status problems or status ailments, affect a Pokémon's ability to battle.",
+      "updatedAt": 1771503316
+    },
+    "ability|GRASS CLOAK": {
+      "status": "not_found",
+      "updatedAt": 1771506910
+    },
+    "ability|HERBIVORE": {
+      "status": "not_found",
+      "updatedAt": 1771506912
+    },
+    "ability|HIGH RISE": {
+      "status": "not_found",
+      "updatedAt": 1771506914
+    },
+    "ability|HOT BLOODED": {
+      "status": "not_found",
+      "updatedAt": 1771506916
+    },
+    "ability|INSTINCT": {
+      "status": "not_found",
+      "updatedAt": 1771506918
+    },
+    "ability|INTERFERENCE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Interference Sync (Skill)",
+      "clue": "this ability Sync (Japanese: 相手妨害状態時Ｂ技↑ Buddy Move Power Boost When Opponent is Affected by an this ability Condition) is a family of skills in Pokémon Masters EX.",
+      "updatedAt": 1771503323
+    },
+    "ability|JAGGED EDGE": {
+      "status": "not_found",
+      "updatedAt": 1771506921
+    },
+    "ability|LAST BASTION": {
+      "status": "not_found",
+      "updatedAt": 1771506923
+    },
+    "ability|LIFE FORCE": {
+      "status": "not_found",
+      "updatedAt": 1771506925
+    },
+    "ability|LULLABY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Lullaby",
+      "clue": "this ability is a song featured in the soundtrack of Mewtwo Strikes Back.",
+      "updatedAt": 1771503327
+    },
+    "ability|LUNCHBOX": {
+      "status": "not_found",
+      "updatedAt": 1771506927
+    },
+    "ability|MEDIC": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Medicham (Pokémon)",
+      "clue": "Medicham (Japanese: チャーレム Charem) is a dual-type Fighting/Psychic Pokémon introduced in Generation III.",
+      "updatedAt": 1771503329
+    },
+    "ability|MELEE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Super Smash Bros. Melee",
+      "clue": "Pokémon Scramble\", see Pokémon Rumble Super Smash Bros.",
+      "updatedAt": 1771503330
+    },
+    "ability|MOOD MAKER": {
+      "status": "not_found",
+      "updatedAt": 1771506929
+    },
+    "ability|MOUNTAINEER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Hiker (Trainer class)",
+      "clue": "A Hiker (Japanese: やまおとこ this ability and やまガール Mountain Girl) is a type of Pokémon Trainer that debuted in the Generation I games.",
+      "updatedAt": 1771503331
+    },
+    "ability|NOMAD": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Nomads Independence Day",
+      "clue": "The Nomads Independence Day is a week-long festival celebrated in Fuchsia City annually.",
+      "updatedAt": 1771503332
+    },
+    "ability|NURSE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Nurse",
+      "clue": "this ability has several referrals: For the receptionists who operate Pokémon Centers, see Pokémon Center lady.",
+      "updatedAt": 1771503332
+    },
+    "ability|OMNIPOTENT": {
+      "status": "not_found",
+      "updatedAt": 1771506931
+    },
+    "ability|PARRY": {
+      "status": "not_found",
+      "updatedAt": 1771506933
+    },
+    "ability|PERCEPTION": {
+      "status": "not_found",
+      "updatedAt": 1771506935
+    },
+    "ability|POWER NAP": {
+      "status": "not_found",
+      "updatedAt": 1771506937
+    },
+    "ability|PRIDE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Badge",
+      "clue": "A Gym Badge (Japanese: ジムバッジ Gym Badge), commonly referred to as simply a badge (Japanese: バッジ badge), is an item that serves as proof of a Pokémon Trainer's victory in a battle against a Gym Leader at a Pokémon Gym.",
+      "updatedAt": 1771503338
+    },
+    "ability|RUN UP": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Run-Up to Three Special Battles",
+      "clue": "this ability to Three Special Battles (Japanese: 前夜祭記念特別バトル！ Anniversary Leadup Special Battle) was a limited-time event in Pokémon Masters EX leading this ability to its third anniversary.",
+      "updatedAt": 1771503340
+    },
+    "ability|SANDPIT": {
+      "status": "not_found",
+      "updatedAt": 1771506939
+    },
+    "ability|SEQUENCE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Sequence breaking",
+      "clue": "this ability breaking refers to a number of acts that break the normal this ability of events in the Pokémon games.",
+      "updatedAt": 1771503342
+    },
+    "ability|SHADOW DASH": {
+      "status": "not_found",
+      "updatedAt": 1771506941
+    },
+    "ability|SHARE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Shared Fortune (Skill)",
+      "clue": "Shared Fortune (Japanese: 技後能力アップＧ Group Stat Boost After Move) is a family of skills in Pokémon Masters EX.",
+      "updatedAt": 1771503345
+    },
+    "ability|SKATER": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Skaters' Park (Fusion Strike 242)",
+      "clue": "Skaters' Park (Japanese: スケーターズパーク Skaters Park) is a Stadium card.",
+      "updatedAt": 1771503346
+    },
+    "ability|SPONGE": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Appendix:Metagame terminology",
+      "clue": "The Pokémon metagame has a wide range of fanmade terminology for various aspects of the games.",
+      "updatedAt": 1771503346
+    },
+    "ability|SPRINT": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Koraidon (Pokémon)",
+      "clue": "Koraidon (Japanese: コライドン Koraidon) is a dual-type Fighting/Dragon Legendary Paradox Pokémon introduced in Generation IX.",
+      "updatedAt": 1771503347
+    },
+    "ability|TENACITY": {
+      "status": "ok",
+      "source": "bulbapedia",
+      "title": "Tenacity (Skill)",
+      "clue": "this ability (Japanese: 失敗時物理ブースト Physical Boost When Move Fails) is a family of skills in Pokémon Masters EX.",
+      "updatedAt": 1771503347
+    },
+    "ability|VANGUARD": {
+      "status": "not_found",
+      "updatedAt": 1771506943
+    },
+    "ability|WARM BLANKET": {
+      "status": "not_found",
+      "updatedAt": 1771506946
+    },
+    "ability|WAVE RIDER": {
+      "status": "not_found",
+      "updatedAt": 1771506948
+    }
+  }
+}

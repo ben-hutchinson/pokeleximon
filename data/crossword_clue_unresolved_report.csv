@@ -1,0 +1,630 @@
+﻿answer,candidate_clue,source_type,source_id,source_ref,reasons
+DARK,,type,17,https://pokeapi.co/api/v2/type/17/,missing_payload_or_builder_output
+DAZE,,ability,10038,https://pokeapi.co/api/v2/ability/10038/,missing_payload_or_builder_output
+FIRE,,type,10,https://pokeapi.co/api/v2/type/10/,missing_payload_or_builder_output
+IRON,,item,47,https://pokeapi.co/api/v2/item/47/,missing_payload_or_builder_output
+ROCK,,type,6,https://pokeapi.co/api/v2/type/6/,missing_payload_or_builder_output
+TAPU,,location,759,https://pokeapi.co/api/v2/location/759/,missing_payload_or_builder_output
+BLACK,,location,392,https://pokeapi.co/api/v2/location/392/,missing_payload_or_builder_output
+BLAZE,,ability,66,https://pokeapi.co/api/v2/ability/66/,missing_payload_or_builder_output
+FAIRY,,type,18,https://pokeapi.co/api/v2/type/18/,missing_payload_or_builder_output
+FIGHT,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #185.,location,185,https://pokeapi.co/api/v2/location/185/,disallowed_pattern
+GRASS,,type,12,https://pokeapi.co/api/v2/type/12/,missing_payload_or_builder_output
+HOENN,,location,258,https://pokeapi.co/api/v2/location/258/,missing_payload_or_builder_output
+HONEY,,item,94,https://pokeapi.co/api/v2/item/94/,missing_payload_or_builder_output
+MALIE,Location: region Alola; 2 named areas; location index #1045.,location,1045,https://pokeapi.co/api/v2/location/1045/,disallowed_pattern
+PRIMO,Location: region the Pokémon world; listed in Gen IV; 0 named areas; location index #343.,location,343,https://pokeapi.co/api/v2/location/343/,disallowed_pattern
+RILEY,Location: region the Pokémon world; listed in Gen IV; 0 named areas; location index #262.,location,262,https://pokeapi.co/api/v2/location/262/,disallowed_pattern
+STEEL,,type,9,https://pokeapi.co/api/v2/type/9/,missing_payload_or_builder_output
+WATER,,type,11,https://pokeapi.co/api/v2/type/11/,missing_payload_or_builder_output
+AZALEA,Location: region Johto; listed in Gen IV; 1 named area; location index #228.,location,228,https://pokeapi.co/api/v2/location/228/,disallowed_pattern
+DRAGON,,type,16,https://pokeapi.co/api/v2/type/16/,missing_payload_or_builder_output
+ETERNA,Location: region Sinnoh; listed in Gen IV; 2 named areas; location index #2.,location,2,https://pokeapi.co/api/v2/location/2/,disallowed_pattern
+FLYING,,type,3,https://pokeapi.co/api/v2/type/3/,missing_payload_or_builder_output
+HAUOLI,Location: region Alola; 3 named areas; location index #1042.,location,1042,https://pokeapi.co/api/v2/location/1042/,disallowed_pattern
+HEAHEA,Location: region Alola; listed in Gen VII; 1 named area; location index #741.,location,741,https://pokeapi.co/api/v2/location/741/,disallowed_pattern
+MAGNET,,item,219,https://pokeapi.co/api/v2/item/219/,missing_payload_or_builder_output
+MEDALI,Location: region Paldea; 0 named areas; location index #826.,location,826,https://pokeapi.co/api/v2/location/826/,disallowed_pattern
+MOSSUI,Location: region Paldea; 0 named areas; location index #1069.,location,1069,https://pokeapi.co/api/v2/location/1069/,disallowed_pattern
+MT MOON,Location: region Kanto; listed in Gen IV; 5 named areas; location index #80.,location,80,https://pokeapi.co/api/v2/location/80/,disallowed_pattern
+MT PYRE,Location: region Hoenn; listed in Gen VI; 8 named areas; location index #441.,location,441,https://pokeapi.co/api/v2/location/441/,disallowed_pattern
+NUVEMA,Location: region Unova; listed in Gen V; 1 named area; location index #346.,location,346,https://pokeapi.co/api/v2/location/346/,disallowed_pattern
+OLDALE,Location: region Hoenn; listed in Gen VI; 0 named areas; location index #568.,location,568,https://pokeapi.co/api/v2/location/568/,disallowed_pattern
+PALLET,Location: region Kanto; listed in Gen IV; 1 named area; location index #86.,location,86,https://pokeapi.co/api/v2/location/86/,disallowed_pattern
+PEWTER,,location,231,https://pokeapi.co/api/v2/location/231/,missing_payload_or_builder_output
+POISON,,type,4,https://pokeapi.co/api/v2/type/4/,missing_payload_or_builder_output
+RESORT,Location: region Sinnoh; listed in Gen IV; 1 named area; location index #60.,location,60,https://pokeapi.co/api/v2/location/60/,disallowed_pattern
+SHADOW,,type,10002,https://pokeapi.co/api/v2/type/10002/,missing_payload_or_builder_output
+SIMPLE,,ability,86,https://pokeapi.co/api/v2/ability/86/,missing_payload_or_builder_output
+SS ANNE,Location: region Kanto; 1 named area; location index #498.,location,498,https://pokeapi.co/api/v2/location/498/,disallowed_pattern
+SS AQUA,Location: region Johto; listed in Gen IV; 0 named areas; location index #242.,location,242,https://pokeapi.co/api/v2/location/242/,disallowed_pattern
+THRUST,,ability,10004,https://pokeapi.co/api/v2/ability/10004/,missing_payload_or_builder_output
+VIOLET,,location,153,https://pokeapi.co/api/v2/location/153/,missing_payload_or_builder_output
+WYNDON,Location: region Galar; 1 named area; location index #951.,location,951,https://pokeapi.co/api/v2/location/951/,disallowed_pattern
+ANISTAR,Location: region Kalos; listed in Gen VI; 0 named areas; location index #643.,location,643,https://pokeapi.co/api/v2/location/643/,disallowed_pattern
+ANVILLE,Location: region Unova; listed in Gen V; 0 named areas; location index #385.,location,385,https://pokeapi.co/api/v2/location/385/,disallowed_pattern
+ARTAZON,Location: region Paldea; 0 named areas; location index #821.,location,821,https://pokeapi.co/api/v2/location/821/,disallowed_pattern
+BRUN WAY,Location: region Kalos; listed in Gen VI; 0 named areas; location index #636.,location,636,https://pokeapi.co/api/v2/location/636/,disallowed_pattern
+CELADON,Location: region Kanto; listed in Gen IV; 2 named areas; location index #67.,location,67,https://pokeapi.co/api/v2/location/67/,disallowed_pattern
+CYLLAGE,Location: region Kalos; listed in Gen VI; 1 named area; location index #611.,location,611,https://pokeapi.co/api/v2/location/611/,disallowed_pattern
+CYNTHIA,Location: region the Pokémon world; listed in Gen IV; 0 named areas; location index #263.,location,263,https://pokeapi.co/api/v2/location/263/,disallowed_pattern
+DEWFORD,Location: region Hoenn; listed in Gen VI; 1 named area; location index #484.,location,484,https://pokeapi.co/api/v2/location/484/,disallowed_pattern
+FORTREE,Location: region Hoenn; listed in Gen VI; 0 named areas; location index #574.,location,574,https://pokeapi.co/api/v2/location/574/,disallowed_pattern
+FUCHSIA,Location: region Kanto; listed in Gen IV; 1 named area; location index #76.,location,76,https://pokeapi.co/api/v2/location/76/,disallowed_pattern
+GOLDUCK,"Duck Pokémon. Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa. Traits: Gen I; blue color; upright body shape; egg group water1/ground; capture rate 75.",pokemon-species,55,https://pokeapi.co/api/v2/pokemon-species/55/,disallowed_pattern
+HULBURY,Location: region Galar; 1 named area; location index #909.,location,909,https://pokeapi.co/api/v2/location/909/,disallowed_pattern
+HUMILAU,Location: region Unova; listed in Gen V; 1 named area; location index #533.,location,533,https://pokeapi.co/api/v2/location/533/,disallowed_pattern
+ICE PATH,Location: region Johto; listed in Gen IV; 4 named areas; location index #77.,location,77,https://pokeapi.co/api/v2/location/77/,disallowed_pattern
+ICIRRUS,Location: region Unova; listed in Gen V; 1 named area; location index #354.,location,354,https://pokeapi.co/api/v2/location/354/,disallowed_pattern
+KILOUDE,Location: region Kalos; listed in Gen VI; 0 named areas; location index #659.,location,659,https://pokeapi.co/api/v2/location/659/,disallowed_pattern
+LAVERRE,Location: region Kalos; listed in Gen VI; 1 named area; location index #633.,location,633,https://pokeapi.co/api/v2/location/633/,disallowed_pattern
+LUMIOSE,,location,599,https://pokeapi.co/api/v2/location/599/,missing_payload_or_builder_output
+MAX LAIR,Location: region Galar; 1 named area; location index #917.,location,917,https://pokeapi.co/api/v2/location/917/,disallowed_pattern
+MT EMBER,Location: region Kanto; 8 named areas; location index #500.,location,500,https://pokeapi.co/api/v2/location/500/,disallowed_pattern
+NACRENE,Location: region Unova; listed in Gen V; 1 named area; location index #349.,location,349,https://pokeapi.co/api/v2/location/349/,disallowed_pattern
+NEW BARK,Location: region Johto; listed in Gen IV; 1 named area; location index #84.,location,84,https://pokeapi.co/api/v2/location/84/,disallowed_pattern
+NIMBASA,Location: region Unova; listed in Gen V; 0 named areas; location index #351.,location,351,https://pokeapi.co/api/v2/location/351/,disallowed_pattern
+OLIVINE,Location: region Johto; listed in Gen IV; 1 named area; location index #85.,location,85,https://pokeapi.co/api/v2/location/85/,disallowed_pattern
+ONIS MAW,Location: region Paldea; 0 named areas; location index #1071.,location,1071,https://pokeapi.co/api/v2/location/1071/,disallowed_pattern
+PAL PARK,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #173.,location,173,https://pokeapi.co/api/v2/location/173/,disallowed_pattern
+PANIOLA,Location: region Alola; listed in Gen VII; 1 named area; location index #740.,location,740,https://pokeapi.co/api/v2/location/740/,disallowed_pattern
+PC OSAKA,Location: region the Pokémon world; listed in Gen IV; 0 named areas; location index #319.,location,319,https://pokeapi.co/api/v2/location/319/,disallowed_pattern
+PC TOKYO,Location: region the Pokémon world; listed in Gen IV; 0 named areas; location index #318.,location,318,https://pokeapi.co/api/v2/location/318/,disallowed_pattern
+Pokémon,,location,652,https://pokeapi.co/api/v2/location/652/,missing_payload_or_builder_output
+SAFFRON,Location: region Kanto; listed in Gen IV; 4 named areas; location index #234.,location,234,https://pokeapi.co/api/v2/location/234/,disallowed_pattern
+SANDGEM,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #163.,location,163,https://pokeapi.co/api/v2/location/163/,disallowed_pattern
+SEAFOLK,Location: region Alola; listed in Gen VII; 2 named areas; location index #788.,location,788,https://pokeapi.co/api/v2/location/788/,disallowed_pattern
+SHACKLE,,ability,10058,https://pokeapi.co/api/v2/ability/10058/,missing_payload_or_builder_output
+SHALOUR,,location,624,https://pokeapi.co/api/v2/location/624/,missing_payload_or_builder_output
+SS TIDAL,Location: region Hoenn; listed in Gen VI; 0 named areas; location index #696.,location,696,https://pokeapi.co/api/v2/location/696/,disallowed_pattern
+STEALTH,,ability,10030,https://pokeapi.co/api/v2/ability/10030/,missing_payload_or_builder_output
+UNDELLA,Location: region Unova; listed in Gen V; 1 named area; location index #384.,location,384,https://pokeapi.co/api/v2/location/384/,disallowed_pattern
+VIRBANK,Location: region Unova; listed in Gen V; 1 named area; location index #532.,location,532,https://pokeapi.co/api/v2/location/532/,disallowed_pattern
+ZERO LAB,Location: region Paldea; 0 named areas; location index #867.,location,867,https://pokeapi.co/api/v2/location/867/,disallowed_pattern
+ACCUMULA,Location: region Unova; listed in Gen V; 0 named areas; location index #347.,location,347,https://pokeapi.co/api/v2/location/347/,disallowed_pattern
+AMBRETTE,Location: region Kalos; listed in Gen VI; 1 named area; location index #614.,location,614,https://pokeapi.co/api/v2/location/614/,disallowed_pattern
+AREA ZERO,Location: region Paldea; 0 named areas; location index #866.,location,866,https://pokeapi.co/api/v2/location/866/,disallowed_pattern
+ASPERTIA,Location: region Unova; listed in Gen V; 1 named area; location index #531.,location,531,https://pokeapi.co/api/v2/location/531/,disallowed_pattern
+AXEWS EYE,Location: region Galar; 1 named area; location index #878.,location,878,https://pokeapi.co/api/v2/location/878/,disallowed_pattern
+AZURE BAY,Location: region Kalos; listed in Gen VI; 1 named area; location index #661.,location,661,https://pokeapi.co/api/v2/location/661/,disallowed_pattern
+CABO POCO,Location: region Paldea; 0 named areas; location index #815.,location,815,https://pokeapi.co/api/v2/location/815/,disallowed_pattern
+CANALAVE,Location: region Sinnoh; listed in Gen IV; 1 named area; location index #1.,location,1,https://pokeapi.co/api/v2/location/1/,disallowed_pattern
+CASTELIA,Location: region Unova; listed in Gen V; 2 named areas; location index #350.,location,350,https://pokeapi.co/api/v2/location/350/,disallowed_pattern
+CELESTIC,Location: region Sinnoh; listed in Gen IV; 1 named area; location index #59.,location,59,https://pokeapi.co/api/v2/location/59/,disallowed_pattern
+CERULEAN,Location: region Kanto; listed in Gen IV; 1 named area; location index #68.,location,68,https://pokeapi.co/api/v2/location/68/,disallowed_pattern
+CIANWOOD,Location: region Johto; listed in Gen IV; 4 named areas; location index #70.,location,70,https://pokeapi.co/api/v2/location/70/,disallowed_pattern
+CORTONDO,Location: region Paldea; 0 named areas; location index #818.,location,818,https://pokeapi.co/api/v2/location/818/,disallowed_pattern
+COURIWAY,Location: region Kalos; listed in Gen VI; 1 named area; location index #646.,location,646,https://pokeapi.co/api/v2/location/646/,disallowed_pattern
+DARK CAVE,Location: region Johto; listed in Gen IV; 2 named areas; location index #72.,location,72,https://pokeapi.co/api/v2/location/72/,disallowed_pattern
+DAZZLING,,ability,219,https://pokeapi.co/api/v2/ability/219/,missing_payload_or_builder_output
+ECRUTEAK,Location: region Johto; listed in Gen IV; 1 named area; location index #75.,location,75,https://pokeapi.co/api/v2/location/75/,disallowed_pattern
+ELECTRIC,,type,13,https://pokeapi.co/api/v2/type/13/,missing_payload_or_builder_output
+FLOAROMA,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #164.,location,164,https://pokeapi.co/api/v2/location/164/,disallowed_pattern
+FLOCCESY,Location: region Unova; listed in Gen V; 1 named area; location index #536.,location,536,https://pokeapi.co/api/v2/location/536/,disallowed_pattern
+GEOSENGE,Location: region Kalos; listed in Gen VI; 0 named areas; location index #620.,location,620,https://pokeapi.co/api/v2/location/620/,disallowed_pattern
+IRON ROOM,Location: region Unova; listed in Gen V; 1 named area; location index #565.,location,565,https://pokeapi.co/api/v2/location/565/,disallowed_pattern
+ITEM DROP,Miracle Shooter this item: Forces a friendly Pokémon to this this item its held this item. (seen in Gen V to Gen VIII).,item,653,https://pokeapi.co/api/v2/item/653/,answer_fragment_leak
+ITEM URGE,Miracle Shooter this item: Forcibly activates a friendly Pokémon’s held this item. (seen in Gen V to Gen VIII).,item,654,https://pokeapi.co/api/v2/item/654/,answer_fragment_leak
+JUBILIFE,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #167.,location,167,https://pokeapi.co/api/v2/location/167/,disallowed_pattern
+KALAE BAY,Location: region Alola; listed in Gen VII; 1 named area; location index #714.,location,714,https://pokeapi.co/api/v2/location/714/,disallowed_pattern
+KONIKONI,Location: region Alola; listed in Gen VII; 1 named area; location index #742.,location,742,https://pokeapi.co/api/v2/location/742/,disallowed_pattern
+LACUNOSA,Location: region Unova; listed in Gen V; 0 named areas; location index #383.,location,383,https://pokeapi.co/api/v2/location/383/,disallowed_pattern
+LAVENDER,Location: region Kanto; listed in Gen IV; 1 named area; location index #232.,location,232,https://pokeapi.co/api/v2/location/232/,disallowed_pattern
+LENTIMAS,Location: region Unova; listed in Gen V; 0 named areas; location index #537.,location,537,https://pokeapi.co/api/v2/location/537/,disallowed_pattern
+LEVINCIA,Location: region Paldea; 0 named areas; location index #822.,location,822,https://pokeapi.co/api/v2/location/822/,disallowed_pattern
+LILYCOVE,Location: region Hoenn; listed in Gen VI; 2 named areas; location index #431.,location,431,https://pokeapi.co/api/v2/location/431/,disallowed_pattern
+LOST CAVE,Location: region Kanto; 11 named areas; location index #504.,location,504,https://pokeapi.co/api/v2/location/504/,disallowed_pattern
+LOST ITEM,Plot Advancement this item: A Poké Doll this this item by the Copycat who lives in Saffron City. Trade for a Pass. (seen in Gen IV to Gen VIII).,item,478,https://pokeapi.co/api/v2/item/478/,answer_fragment_leak
+MAHOGANY,Location: region Johto; listed in Gen IV; 1 named area; location index #230.,location,230,https://pokeapi.co/api/v2/location/230/,disallowed_pattern
+MAUVILLE,Location: region Hoenn; listed in Gen VI; 0 named areas; location index #572.,location,572,https://pokeapi.co/api/v2/location/572/,disallowed_pattern
+MESAGOZA,Location: region Paldea; 0 named areas; location index #817.,location,817,https://pokeapi.co/api/v2/location/817/,disallowed_pattern
+MOSSDEEP,Location: region Hoenn; listed in Gen VI; 2 named areas; location index #432.,location,432,https://pokeapi.co/api/v2/location/432/,disallowed_pattern
+MT MORTAR,Location: region Johto; listed in Gen IV; 4 named areas; location index #81.,location,81,https://pokeapi.co/api/v2/location/81/,disallowed_pattern
+MT SILVER,Location: region Johto; listed in Gen IV; 8 named areas; location index #82.,location,82,https://pokeapi.co/api/v2/location/82/,disallowed_pattern
+NS CASTLE,Location: region Unova; listed in Gen V; 1 named area; location index #387.,location,387,https://pokeapi.co/api/v2/location/387/,disallowed_pattern
+OPELUCID,Location: region Unova; listed in Gen V; 0 named areas; location index #355.,location,355,https://pokeapi.co/api/v2/location/355/,disallowed_pattern
+OREBURGH,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #168.,location,168,https://pokeapi.co/api/v2/location/168/,disallowed_pattern
+PASTORIA,Location: region Sinnoh; listed in Gen IV; 1 named area; location index #3.,location,3,https://pokeapi.co/api/v2/location/3/,disallowed_pattern
+PC NAGOYA,Location: region the Pokémon world; listed in Gen IV; 0 named areas; location index #321.,location,321,https://pokeapi.co/api/v2/location/321/,disallowed_pattern
+POCO PATH,Location: region Paldea; 0 named areas; location index #835.,location,835,https://pokeapi.co/api/v2/location/835/,disallowed_pattern
+POKEPARK,Location: region the Pokémon world; listed in Gen IV; 0 named areas; location index #305.,location,305,https://pokeapi.co/api/v2/location/305/,disallowed_pattern
+POSTWICK,Location: region Galar; 1 named area; location index #924.,location,924,https://pokeapi.co/api/v2/location/924/,disallowed_pattern
+RED PETAL,Unused item: XXX new effect for this item (seen in Gen VII to Gen VIII).,item,983,https://pokeapi.co/api/v2/item/983/,disallowed_pattern
+RUSTBORO,Location: region Hoenn; listed in Gen VI; 1 named area; location index #573.,location,573,https://pokeapi.co/api/v2/location/573/,disallowed_pattern
+SOLACEON,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #165.,location,165,https://pokeapi.co/api/v2/location/165/,disallowed_pattern
+STRIATON,Location: region Unova; listed in Gen V; 1 named area; location index #348.,location,348,https://pokeapi.co/api/v2/location/348/,disallowed_pattern
+SURVIVAL,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #186.,location,186,https://pokeapi.co/api/v2/location/186/,disallowed_pattern
+TWINLEAF,Location: region Sinnoh; listed in Gen IV; 1 named area; location index #58.,location,58,https://pokeapi.co/api/v2/location/58/,disallowed_pattern
+VIRIDIAN,Location: region Kanto; listed in Gen IV; 1 named area; location index #154.,location,154,https://pokeapi.co/api/v2/location/154/,disallowed_pattern
+WI FI GIFT,Location: region the Pokémon world; listed in Gen IV; 0 named areas; location index #338.,location,338,https://pokeapi.co/api/v2/location/338/,disallowed_pattern
+ZAPAPICO,Location: region Paldea; 0 named areas; location index #823.,location,823,https://pokeapi.co/api/v2/location/823/,disallowed_pattern
+AIPOM HILL,Location: region Hisui; 1 named area; location index #952.,location,952,https://pokeapi.co/api/v2/location/952/,disallowed_pattern
+ALFORNADA,Location: region Paldea; 0 named areas; location index #819.,location,819,https://pokeapi.co/api/v2/location/819/,disallowed_pattern
+AQUACORDE,Location: region Kalos; listed in Gen VI; 1 named area; location index #590.,location,590,https://pokeapi.co/api/v2/location/590/,disallowed_pattern
+BALLONLEA,Location: region Galar; 1 named area; location index #880.,location,880,https://pokeapi.co/api/v2/location/880/,disallowed_pattern
+BELL TOWER,Location: region Johto; listed in Gen IV; 11 named areas; location index #139.,location,139,https://pokeapi.co/api/v2/location/139/,disallowed_pattern
+BIKE GREEN,Unused item: XXX new effect for this item--this item (seen in Gen VII to Gen VIII).,item,919,https://pokeapi.co/api/v2/item/919/,disallowed_pattern
+BLACK GATE,Location: region Unova; listed in Gen V; 0 named areas; location index #424.,location,424,https://pokeapi.co/api/v2/location/424/,disallowed_pattern
+BLUE PETAL,Unused item: XXX new effect for this item (seen in Gen VII to Gen VIII).,item,982,https://pokeapi.co/api/v2/item/982/,disallowed_pattern
+CAMPHRIER,Location: region Kalos; listed in Gen VI; 0 named areas; location index #604.,location,604,https://pokeapi.co/api/v2/location/604/,disallowed_pattern
+CAPE BRINK,Location: region Kanto; 1 named area; location index #507.,location,507,https://pokeapi.co/api/v2/location/507/,disallowed_pattern
+CLIFF CAVE,Location: region Johto; listed in Gen IV; 0 named areas; location index #244.,location,244,https://pokeapi.co/api/v2/location/244/,disallowed_pattern
+COUMARINE,Location: region Kalos; listed in Gen VI; 0 named areas; location index #628.,location,628,https://pokeapi.co/api/v2/location/628/,disallowed_pattern
+DREAMYARD,Location: region Unova; listed in Gen V; 2 named areas; location index #374.,location,374,https://pokeapi.co/api/v2/location/374/,disallowed_pattern
+DRIFTVEIL,Location: region Unova; listed in Gen V; 1 named area; location index #352.,location,352,https://pokeapi.co/api/v2/location/352/,disallowed_pattern
+DUSTY BOWL,Location: region Galar; 1 named area; location index #890.,location,890,https://pokeapi.co/api/v2/location/890/,disallowed_pattern
+ENTRALINK,Location: region Unova; listed in Gen V; 0 named areas; location index #411.,location,411,https://pokeapi.co/api/v2/location/411/,disallowed_pattern
+EVENT SITE,Location: region the Pokémon world; listed in Gen IV; 0 named areas; location index #340.,location,340,https://pokeapi.co/api/v2/location/340/,disallowed_pattern
+FALLARBOR,Location: region Hoenn; listed in Gen VI; 1 named area; location index #570.,location,570,https://pokeapi.co/api/v2/location/570/,disallowed_pattern
+FIERY PATH,Location: region Hoenn; listed in Gen VI; 1 named area; location index #440.,location,440,https://pokeapi.co/api/v2/location/440/,disallowed_pattern
+FRIGID SEA,Location: region Galar; 1 named area; location index #896.,location,896,https://pokeapi.co/api/v2/location/896/,disallowed_pattern
+GALAR MINE,Location: region this location; 1 named area; location index #898.,location,898,https://pokeapi.co/api/v2/location/898/,disallowed_pattern
+GIANTS BED,Location: region Galar; 1 named area; location index #900.,location,900,https://pokeapi.co/api/v2/location/900/,disallowed_pattern
+GIANTS CAP,Location: region Galar; 3 named areas; location index #1041.,location,1041,https://pokeapi.co/api/v2/location/1041/,disallowed_pattern
+GOLDENROD,Location: region Johto; listed in Gen IV; 2 named areas; location index #229.,location,229,https://pokeapi.co/api/v2/location/229/,disallowed_pattern
+GRAND LAKE,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #211.,location,211,https://pokeapi.co/api/v2/location/211/,disallowed_pattern
+GREEN PATH,Location: region Kanto; 1 named area; location index #515.,location,515,https://pokeapi.co/api/v2/location/515/,disallowed_pattern
+HANO BEACH,Location: region Alola; listed in Gen VII; 1 named area; location index #738.,location,738,https://pokeapi.co/api/v2/location/738/,disallowed_pattern
+HEARTHOME,Location: region Sinnoh; listed in Gen IV; 2 named areas; location index #169.,location,169,https://pokeapi.co/api/v2/location/169/,disallowed_pattern
+ICIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,943,https://pokeapi.co/api/v2/item/943/,disallowed_pattern
+IRON RUINS,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #225.,location,225,https://pokeapi.co/api/v2/location/225/,disallowed_pattern
+LAKE VALOR,Location: region Sinnoh; listed in Gen IV; 2 named areas; location index #27.,location,27,https://pokeapi.co/api/v2/location/27/,disallowed_pattern
+LAVARIDGE,Location: region Hoenn; listed in Gen VI; 1 named area; location index #569.,location,569,https://pokeapi.co/api/v2/location/569/,disallowed_pattern
+LOS PLATOS,Location: region Paldea; 0 named areas; location index #816.,location,816,https://pokeapi.co/api/v2/location/816/,disallowed_pattern
+LOST HOTEL,Location: region Kalos; listed in Gen VI; 1 named area; location index #677.,location,677,https://pokeapi.co/api/v2/location/677/,disallowed_pattern
+LOST TOWER,Location: region Sinnoh; 5 named areas; location index #40.,location,40,https://pokeapi.co/api/v2/location/40/,disallowed_pattern
+MIROIR WAY,Location: region Kalos; listed in Gen VI; 0 named areas; location index #622.,location,622,https://pokeapi.co/api/v2/location/622/,disallowed_pattern
+MOTOSTOKE,Location: region Galar; 1 named area; location index #918.,location,918,https://pokeapi.co/api/v2/location/918/,disallowed_pattern
+MR Pokémon,Location: region the this location world; listed in Gen IV; 0 named areas; location index #342.,location,342,https://pokeapi.co/api/v2/location/342/,disallowed_pattern
+MT CHIMNEY,Location: region Hoenn; listed in Gen VI; 0 named areas; location index #576.,location,576,https://pokeapi.co/api/v2/location/576/,disallowed_pattern
+MT CORONET,Location: region Sinnoh; listed in Gen IV; 13 named areas; location index #10.,location,10,https://pokeapi.co/api/v2/location/10/,disallowed_pattern
+NAVEL ROCK,Location: region Kanto; 1 named area; location index #811.,location,811,https://pokeapi.co/api/v2/location/811/,disallowed_pattern
+ONE ISLAND,Location: region Kanto; 1 named area; location index #526.,location,526,https://pokeapi.co/api/v2/location/526/,disallowed_pattern
+OUVERT WAY,Location: region Kalos; listed in Gen VI; 0 named areas; location index #595.,location,595,https://pokeapi.co/api/v2/location/595/,disallowed_pattern
+PC FUKUOKA,Location: region the Pokémon world; listed in Gen IV; 0 named areas; location index #320.,location,320,https://pokeapi.co/api/v2/location/320/,disallowed_pattern
+PC SAPPORO,Location: region the Pokémon world; listed in Gen IV; 0 named areas; location index #322.,location,322,https://pokeapi.co/api/v2/location/322/,disallowed_pattern
+PETALBURG,Location: region Hoenn; listed in Gen VI; 1 named area; location index #429.,location,429,https://pokeapi.co/api/v2/location/429/,disallowed_pattern
+PINK PETAL,Unused item: XXX new effect for this item (seen in Gen VII to Gen VIII).,item,980,https://pokeapi.co/api/v2/item/980/,disallowed_pattern
+POKETCH CO,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #194.,location,194,https://pokeapi.co/api/v2/location/194/,disallowed_pattern
+PONI COAST,Location: region Alola; listed in Gen VII; 1 named area; location index #786.,location,786,https://pokeapi.co/api/v2/location/786/,disallowed_pattern
+PONI GROVE,Location: region Alola; listed in Gen VII; 1 named area; location index #784.,location,784,https://pokeapi.co/api/v2/location/784/,disallowed_pattern
+PONI WILDS,Location: region Alola; listed in Gen VII; 1 named area; location index #781.,location,781,https://pokeapi.co/api/v2/location/781/,disallowed_pattern
+ROTO BOOST,Unused item: XXX new effect for this item (seen in Gen VII to Gen VIII).,item,1004,https://pokeapi.co/api/v2/item/1004/,disallowed_pattern
+ROTO CATCH,Unused item: XXX new effect for this item (seen in Gen VII to Gen VIII).,item,1005,https://pokeapi.co/api/v2/item/1005/,disallowed_pattern
+ROTO HATCH,Unused item: XXX new effect for this item (seen in Gen VII to Gen VIII).,item,995,https://pokeapi.co/api/v2/item/995/,disallowed_pattern
+ROUTE GATE,Location: region Unova; listed in Gen V; 0 named areas; location index #427.,location,427,https://pokeapi.co/api/v2/location/427/,disallowed_pattern
+SANDY CAVE,Location: region Alola; 1 named area; location index #1048.,location,1048,https://pokeapi.co/api/v2/location/1048/,disallowed_pattern
+SANTALUNE,Location: region Kalos; listed in Gen VI; 0 named areas; location index #596.,location,596,https://pokeapi.co/api/v2/location/596/,disallowed_pattern
+SHOAL CAVE,Location: region Hoenn; listed in Gen VI; 2 named areas; location index #445.,location,445,https://pokeapi.co/api/v2/location/445/,disallowed_pattern
+SIX ISLAND,Location: region Kanto; 0 named areas; location index #808.,location,808,https://pokeapi.co/api/v2/location/808/,disallowed_pattern
+SKY PILLAR,Location: region Hoenn; listed in Gen VI; 4 named areas; location index #448.,location,448,https://pokeapi.co/api/v2/location/448/,disallowed_pattern
+SLATEPORT,Location: region Hoenn; listed in Gen VI; 2 named areas; location index #430.,location,430,https://pokeapi.co/api/v2/location/430/,disallowed_pattern
+SNOWBELLE,Location: region Kalos; listed in Gen VI; 0 named areas; location index #649.,location,649,https://pokeapi.co/api/v2/location/649/,disallowed_pattern
+SNOWPOINT,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #171.,location,171,https://pokeapi.co/api/v2/location/171/,disallowed_pattern
+SPIKEMUTH,Location: region Galar; 1 named area; location index #934.,location,934,https://pokeapi.co/api/v2/location/934/,disallowed_pattern
+SUNYSHORE,Location: region Sinnoh; listed in Gen IV; 1 named area; location index #4.,location,4,https://pokeapi.co/api/v2/location/4/,disallowed_pattern
+TERRA CAVE,Location: region Hoenn; 1 named area; location index #803.,location,803,https://pokeapi.co/api/v2/location/803/,disallowed_pattern
+TURFFIELD,Location: region Galar; 1 named area; location index #945.,location,945,https://pokeapi.co/api/v2/location/945/,disallowed_pattern
+TWO ISLAND,Location: region Kanto; 0 named areas; location index #805.,location,805,https://pokeapi.co/api/v2/location/805/,disallowed_pattern
+UNION CAVE,Location: region Johto; listed in Gen IV; 3 named areas; location index #141.,location,141,https://pokeapi.co/api/v2/location/141/,disallowed_pattern
+URSAS RING,Location: region Hisui; 1 named area; location index #1033.,location,1033,https://pokeapi.co/api/v2/location/1033/,disallowed_pattern
+VANIVILLE,Location: region Kalos; listed in Gen VI; 0 named areas; location index #587.,location,587,https://pokeapi.co/api/v2/location/587/,disallowed_pattern
+VEILSTONE,Location: region Sinnoh; listed in Gen IV; 1 named area; location index #170.,location,170,https://pokeapi.co/api/v2/location/170/,disallowed_pattern
+VERMILION,Location: region Kanto; listed in Gen IV; 2 named areas; location index #151.,location,151,https://pokeapi.co/api/v2/location/151/,disallowed_pattern
+WATER PATH,Location: region Kanto; 1 named area; location index #516.,location,516,https://pokeapi.co/api/v2/location/516/,disallowed_pattern
+WHITE GATE,Location: region Unova; listed in Gen V; 0 named areas; location index #425.,location,425,https://pokeapi.co/api/v2/location/425/,disallowed_pattern
+WI FI EVENT,Location: region the Pokémon world; listed in Gen IV; 0 named areas; location index #337.,location,337,https://pokeapi.co/api/v2/location/337/,disallowed_pattern
+APPLE HILLS,Location: region Paldea; 0 named areas; location index #1058.,location,1058,https://pokeapi.co/api/v2/location/1058/,disallowed_pattern
+BATTLE HALL,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #218.,location,218,https://pokeapi.co/api/v2/location/218/,disallowed_pattern
+BATTLE PARK,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #213.,location,213,https://pokeapi.co/api/v2/location/213/,disallowed_pattern
+BATTLE TREE,Location: region Alola; listed in Gen VII; 0 named areas; location index #795.,location,795,https://pokeapi.co/api/v2/location/795/,disallowed_pattern
+BIKE YELLOW,Unused item: XXX new effect for this item--this item (seen in Gen VII to Gen VIII).,item,929,https://pokeapi.co/api/v2/item/929/,disallowed_pattern
+BLACKTHORN,Location: region Johto; listed in Gen IV; 1 named area; location index #65.,location,65,https://pokeapi.co/api/v2/location/65/,disallowed_pattern
+BLACK TOWER,Location: region Unova; listed in Gen V; 0 named areas; location index #553.,location,553,https://pokeapi.co/api/v2/location/553/,disallowed_pattern
+BOND BRIDGE,Location: region Kanto; 1 named area; location index #508.,location,508,https://pokeapi.co/api/v2/location/508/,disallowed_pattern
+BRAVA ARENA,Location: region Hisui; 1 named area; location index #962.,location,962,https://pokeapi.co/api/v2/location/962/,disallowed_pattern
+BRIDGE GATE,Location: region Unova; listed in Gen V; 0 named areas; location index #426.,location,426,https://pokeapi.co/api/v2/location/426/,disallowed_pattern
+CASCARRAFA,Location: region Paldea; 0 named areas; location index #824.,location,824,https://pokeapi.co/api/v2/location/824/,disallowed_pattern
+CIRCHESTER,Location: region Galar; 1 named area; location index #886.,location,886,https://pokeapi.co/api/v2/location/886/,disallowed_pattern
+CLAY TUNNEL,Location: region Unova; listed in Gen V; 1 named area; location index #551.,location,551,https://pokeapi.co/api/v2/location/551/,disallowed_pattern
+DENDEMILLE,Location: region Kalos; listed in Gen VI; 0 named areas; location index #637.,location,637,https://pokeapi.co/api/v2/location/637/,disallowed_pattern
+DERNIRE WAY,Location: region Kalos; listed in Gen VI; 0 named areas; location index #654.,location,654,https://pokeapi.co/api/v2/location/654/,disallowed_pattern
+DRAGONS DEN,Location: region Johto; listed in Gen IV; 1 named area; location index #74.,location,74,https://pokeapi.co/api/v2/location/74/,disallowed_pattern
+DREADED DEN,Location: region Paldea; 0 named areas; location index #1061.,location,1061,https://pokeapi.co/api/v2/location/1061/,disallowed_pattern
+EEVIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,964,https://pokeapi.co/api/v2/item/964/,disallowed_pattern
+EVER GRANDE,Location: region Hoenn; listed in Gen VI; 1 named area; location index #434.,location,434,https://pokeapi.co/api/v2/location/434/,disallowed_pattern
+FABLED CAVE,Location: region Hoenn; listed in Gen VI; 1 named area; location index #703.,location,703,https://pokeapi.co/api/v2/location/703/,disallowed_pattern
+FIRIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,939,https://pokeapi.co/api/v2/item/939/,disallowed_pattern
+FIVE ISLAND,Location: region Kanto; 1 named area; location index #528.,location,528,https://pokeapi.co/api/v2/location/528/,disallowed_pattern
+FOUR ISLAND,Location: region Kanto; 1 named area; location index #527.,location,527,https://pokeapi.co/api/v2/location/527/,disallowed_pattern
+GALACTIC HQ,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #181.,location,181,https://pokeapi.co/api/v2/location/181/,disallowed_pattern
+GAPEJAW BOG,Location: region Hisui; 1 named area; location index #981.,location,981,https://pokeapi.co/api/v2/location/981/,disallowed_pattern
+GIANT CHASM,Location: region Unova; listed in Gen V; 4 named areas; location index #403.,location,403,https://pokeapi.co/api/v2/location/403/,disallowed_pattern
+GIANTS FOOT,Location: region Galar; 1 named area; location index #901.,location,901,https://pokeapi.co/api/v2/location/901/,disallowed_pattern
+GIANTS SEAT,Location: region Galar; 1 named area; location index #903.,location,903,https://pokeapi.co/api/v2/location/903/,disallowed_pattern
+GNARLED DEN,Location: region Hoenn; listed in Gen VI; 1 named area; location index #704.,location,704,https://pokeapi.co/api/v2/location/704/,disallowed_pattern
+GREAT MARSH,Location: region Sinnoh; listed in Gen IV; 6 named areas; location index #11.,location,11,https://pokeapi.co/api/v2/location/11/,disallowed_pattern
+GREEN PETAL,Unused item: XXX new effect for this item (seen in Gen VII to Gen VIII).,item,984,https://pokeapi.co/api/v2/item/984/,disallowed_pattern
+HEARTS CRAG,Location: region Hisui; 1 named area; location index #987.,location,987,https://pokeapi.co/api/v2/location/987/,disallowed_pattern
+ILEX FOREST,Location: region Johto; listed in Gen IV; 1 named area; location index #78.,location,78,https://pokeapi.co/api/v2/location/78/,disallowed_pattern
+INSULAR SEA,Location: region Galar; 1 named area; location index #911.,location,911,https://pokeapi.co/api/v2/location/911/,disallowed_pattern
+IRON ISLAND,Location: region Sinnoh; listed in Gen IV; 7 named areas; location index #24.,location,24,https://pokeapi.co/api/v2/location/24/,disallowed_pattern
+ISLAND CAVE,Location: region Hoenn; listed in Gen VI; 1 named area; location index #581.,location,581,https://pokeapi.co/api/v2/location/581/,disallowed_pattern
+JAGGED PASS,Location: region Hoenn; listed in Gen VI; 1 named area; location index #439.,location,439,https://pokeapi.co/api/v2/location/439/,disallowed_pattern
+JOIN AVENUE,Location: region Unova; listed in Gen V; 0 named areas; location index #535.,location,535,https://pokeapi.co/api/v2/location/535/,disallowed_pattern
+JUBILIFE TV,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #193.,location,193,https://pokeapi.co/api/v2/location/193/,disallowed_pattern
+KINDLE ROAD,Location: region Kanto; 1 named area; location index #505.,location,505,https://pokeapi.co/api/v2/location/505/,disallowed_pattern
+LAKE ACUITY,Location: region Sinnoh; listed in Gen IV; 2 named areas; location index #28.,location,28,https://pokeapi.co/api/v2/location/28/,disallowed_pattern
+LAKE OF RAGE,Location: region Johto; listed in Gen IV; 1 named area; location index #79.,location,79,https://pokeapi.co/api/v2/location/79/,disallowed_pattern
+LAKE VERITY,Location: region Sinnoh; listed in Gen IV; 2 named areas; location index #26.,location,26,https://pokeapi.co/api/v2/location/26/,disallowed_pattern
+LITTLEROOT,Location: region Hoenn; listed in Gen VI; 1 named area; location index #567.,location,567,https://pokeapi.co/api/v2/location/567/,disallowed_pattern
+LOOP LAGOON,Location: region Galar; 2 named areas; location index #915.,location,915,https://pokeapi.co/api/v2/location/915/,disallowed_pattern
+LUSH JUNGLE,Location: region Alola; listed in Gen VII; 5 named areas; location index #750.,location,750,https://pokeapi.co/api/v2/location/750/,disallowed_pattern
+MARINE CAVE,Location: region Hoenn; 1 named area; location index #804.,location,804,https://pokeapi.co/api/v2/location/804/,disallowed_pattern
+MARINE TUBE,Location: region Unova; listed in Gen V; 0 named areas; location index #557.,location,557,https://pokeapi.co/api/v2/location/557/,disallowed_pattern
+MASTER DOJO,Location: region Galar; 1 named area; location index #916.,location,916,https://pokeapi.co/api/v2/location/916/,disallowed_pattern
+MIRAGE CAVE,Location: region Hoenn; listed in Gen VI; 0 named areas; location index #698.,location,698,https://pokeapi.co/api/v2/location/698/,disallowed_pattern
+MIRROR MOVE,"Gen I status this move: Uses the target’s last used this move. (PP 20, Priority 0, Target selected Pokémon).",move,119,https://pokeapi.co/api/v2/move/119/,answer_fragment_leak
+MISTRALTON,Location: region Unova; listed in Gen V; 0 named areas; location index #353.,location,353,https://pokeapi.co/api/v2/location/353/,disallowed_pattern
+OLD CHATEAU,Location: region Sinnoh; listed in Gen IV; 9 named areas; location index #25.,location,25,https://pokeapi.co/api/v2/location/25/,disallowed_pattern
+PACIFIDLOG,Location: region Hoenn; listed in Gen VI; 1 named area; location index #485.,location,485,https://pokeapi.co/api/v2/location/485/,disallowed_pattern
+PALAIS LANE,Location: region Kalos; listed in Gen VI; 0 named areas; location index #607.,location,607,https://pokeapi.co/api/v2/location/607/,disallowed_pattern
+PC YOKOHAMA,Location: region the Pokémon world; listed in Gen IV; 0 named areas; location index #323.,location,323,https://pokeapi.co/api/v2/location/323/,disallowed_pattern
+POKE PELAGO,Location: region Alola; 3 named areas; location index #1052.,location,1052,https://pokeapi.co/api/v2/location/1052/,disallowed_pattern
+POKEWALKER,Location: region Johto; listed in Gen IV; 0 named areas; location index #249.,location,249,https://pokeapi.co/api/v2/location/249/,disallowed_pattern
+POLAR BIOME,Location: region Paldea; 0 named areas; location index #1083.,location,1083,https://pokeapi.co/api/v2/location/1083/,disallowed_pattern
+POLAR PLAZA,Location: region Paldea; 0 named areas; location index #1084.,location,1084,https://pokeapi.co/api/v2/location/1084/,disallowed_pattern
+PONI MEADOW,Location: region Alola; listed in Gen VII; 1 named area; location index #780.,location,780,https://pokeapi.co/api/v2/location/780/,disallowed_pattern
+PONI PLAINS,Location: region Alola; listed in Gen VII; 4 named areas; location index #785.,location,785,https://pokeapi.co/api/v2/location/785/,disallowed_pattern
+POWER PLANT,Location: region Kanto; listed in Gen IV; 1 named area; location index #158.,location,158,https://pokeapi.co/api/v2/location/158/,disallowed_pattern
+PRISM TOWER,Location: region Kalos; listed in Gen VI; 0 named areas; location index #600.,location,600,https://pokeapi.co/api/v2/location/600/,disallowed_pattern
+RADIO TOWER,Location: region Johto; listed in Gen IV; 0 named areas; location index #252.,location,252,https://pokeapi.co/api/v2/location/252/,disallowed_pattern
+RIVIRE WALK,Location: region Kalos; listed in Gen VI; 0 named areas; location index #610.,location,610,https://pokeapi.co/api/v2/location/610/,disallowed_pattern
+ROCK TUNNEL,Location: region Kanto; listed in Gen IV; 3 named areas; location index #87.,location,87,https://pokeapi.co/api/v2/location/87/,disallowed_pattern
+ROTOMS ROOM,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #223.,location,223,https://pokeapi.co/api/v2/location/223/,disallowed_pattern
+ROYAL UNOVA,Location: region this location; listed in Gen V; 0 named areas; location index #388.,location,388,https://pokeapi.co/api/v2/location/388/,disallowed_pattern
+RUIN VALLEY,Location: region Kanto; 1 named area; location index #517.,location,517,https://pokeapi.co/api/v2/location/517/,disallowed_pattern
+SANDS REACH,Location: region Hisui; 1 named area; location index #1013.,location,1013,https://pokeapi.co/api/v2/location/1013/,disallowed_pattern
+SCARLET BOG,Location: region Hisui; 1 named area; location index #1015.,location,1015,https://pokeapi.co/api/v2/location/1015/,disallowed_pattern
+SECRET BASE,Location: region Hoenn; listed in Gen VI; 0 named areas; location index #585.,location,585,https://pokeapi.co/api/v2/location/585/,disallowed_pattern
+SHADY HOUSE,Location: region Alola; listed in Gen VII; 0 named areas; location index #776.,location,776,https://pokeapi.co/api/v2/location/776/,disallowed_pattern
+SINNOH CAFE,Location: region this location; listed in Gen IV; 0 named areas; location index #210.,location,210,https://pokeapi.co/api/v2/location/210/,disallowed_pattern
+SOOTOPOLIS,Location: region Hoenn; listed in Gen VI; 1 named area; location index #433.,location,433,https://pokeapi.co/api/v2/location/433/,disallowed_pattern
+SPACE WORLD,Location: region the Pokémon this location; listed in Gen IV; 0 named areas; location index #281.,location,281,https://pokeapi.co/api/v2/location/281/,disallowed_pattern
+SPRING PATH,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #17.,location,17,https://pokeapi.co/api/v2/location/17/,disallowed_pattern
+STOW ON SIDE,Location: region Galar; 1 named area; location index #939.,location,939,https://pokeapi.co/api/v2/location/939/,disallowed_pattern
+SURGE BADGE,Unused item: XXX new effect for this item (seen in Gen VII to Gen VIII).,item,988,https://pokeapi.co/api/v2/item/988/,disallowed_pattern
+TOHJO FALLS,Location: region Johto; listed in Gen IV; 1 named area; location index #140.,location,140,https://pokeapi.co/api/v2/location/140/,disallowed_pattern
+ULTRA SPACE,Location: region Alola; listed in Gen VII; 11 named areas; location index #797.,location,797,https://pokeapi.co/api/v2/location/797/,disallowed_pattern
+UNDELLA BAY,Location: region Unova; listed in Gen V; 1 named area; location index #413.,location,413,https://pokeapi.co/api/v2/location/413/,disallowed_pattern
+UNDERWATER,Location: region Hoenn; 0 named areas; location index #575.,location,575,https://pokeapi.co/api/v2/location/575/,disallowed_pattern
+UNITY TOWER,Location: region Unova; listed in Gen V; 0 named areas; location index #394.,location,394,https://pokeapi.co/api/v2/location/394/,disallowed_pattern
+UVA ACADEMY,Location: region Paldea; 0 named areas; location index #1057.,location,1057,https://pokeapi.co/api/v2/location/1057/,disallowed_pattern
+VERDANTURF,Location: region Hoenn; listed in Gen VI; 1 named area; location index #571.,location,571,https://pokeapi.co/api/v2/location/571/,disallowed_pattern
+WEDGEHURST,Location: region Galar; 1 named area; location index #948.,location,948,https://pokeapi.co/api/v2/location/948/,disallowed_pattern
+WORKOUT SEA,Location: region Galar; 1 named area; location index #950.,location,950,https://pokeapi.co/api/v2/location/950/,disallowed_pattern
+WORN BRIDGE,Location: region Hisui; 1 named area; location index #1040.,location,1040,https://pokeapi.co/api/v2/location/1040/,disallowed_pattern
+Z POWER RING,Unused item: XXX new effect for this item (seen in Gen VII to Gen VIII).,item,979,https://pokeapi.co/api/v2/item/979/,disallowed_pattern
+ZUBAT ROOST,Location: region Kalos; listed in Gen VI; 0 named areas; location index #673.,location,673,https://pokeapi.co/api/v2/location/673/,disallowed_pattern
+AKALA MEADOW,Location: region Alola; listed in Gen VII; 0 named areas; location index #739.,location,739,https://pokeapi.co/api/v2/location/739/,disallowed_pattern
+AMITY SQUARE,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #174.,location,174,https://pokeapi.co/api/v2/location/174/,disallowed_pattern
+ANCIENT TOMB,Location: region Hoenn; listed in Gen VI; 1 named area; location index #583.,location,583,https://pokeapi.co/api/v2/location/583/,disallowed_pattern
+ANISTAR GATE,Location: region Kalos; listed in Gen VI; 0 named areas; location index #669.,location,669,https://pokeapi.co/api/v2/location/669/,disallowed_pattern
+ARTISAN CAVE,Location: region Hoenn; 1 named area; location index #489.,location,489,https://pokeapi.co/api/v2/location/489/,disallowed_pattern
+ASADO DESERT,Location: region Paldea; 0 named areas; location index #850.,location,850,https://pokeapi.co/api/v2/location/850/,disallowed_pattern
+AVANCE TRAIL,Location: region Kalos; listed in Gen VI; 0 named areas; location index #592.,location,592,https://pokeapi.co/api/v2/location/592/,disallowed_pattern
+BATTLE TOWER,Location: region Galar; 1 named area; location index #881.,location,881,https://pokeapi.co/api/v2/location/881/,disallowed_pattern
+BERRY FIELDS,Location: region Alola; listed in Gen VII; 1 named area; location index #728.,location,728,https://pokeapi.co/api/v2/location/728/,disallowed_pattern
+BERRY FOREST,Location: region Kanto; 1 named area; location index #501.,location,501,https://pokeapi.co/api/v2/location/501/,disallowed_pattern
+BIRTH ISLAND,Location: region Kanto; 1 named area; location index #810.,location,810,https://pokeapi.co/api/v2/location/810/,disallowed_pattern
+BRIDGE FIELD,Location: region Galar; 1 named area; location index #883.,location,883,https://pokeapi.co/api/v2/location/883/,disallowed_pattern
+BURNED TOWER,Location: region Johto; listed in Gen IV; 2 named areas; location index #66.,location,66,https://pokeapi.co/api/v2/location/66/,disallowed_pattern
+CANYON BIOME,Location: region Paldea; 0 named areas; location index #1076.,location,1076,https://pokeapi.co/api/v2/location/1076/,disallowed_pattern
+CANYON PLAZA,Location: region Paldea; 0 named areas; location index #1077.,location,1077,https://pokeapi.co/api/v2/location/1077/,disallowed_pattern
+CAVE OF BEING,Location: region Unova; listed in Gen V; 0 named areas; location index #555.,location,555,https://pokeapi.co/api/v2/location/555/,disallowed_pattern
+CHERRYGROVE,Location: region Johto; listed in Gen IV; 1 named area; location index #69.,location,69,https://pokeapi.co/api/v2/location/69/,disallowed_pattern
+COLD STORAGE,Location: region Unova; listed in Gen V; 1 named area; location index #378.,location,378,https://pokeapi.co/api/v2/location/378/,disallowed_pattern
+CONTEST HALL,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #200.,location,200,https://pokeapi.co/api/v2/location/200/,disallowed_pattern
+CROWN SHRINE,Location: region Galar; 1 named area; location index #888.,location,888,https://pokeapi.co/api/v2/location/888/,disallowed_pattern
+CRYSTAL POOL,Location: region Paldea; 0 named areas; location index #1060.,location,1060,https://pokeapi.co/api/v2/location/1060/,disallowed_pattern
+DESERT RUINS,Location: region Hoenn; listed in Gen VI; 1 named area; location index #582.,location,582,https://pokeapi.co/api/v2/location/582/,disallowed_pattern
+DISTANT LAND,Location: region the Pokémon world; listed in Gen IV; 0 named areas; location index #260.,location,260,https://pokeapi.co/api/v2/location/260/,disallowed_pattern
+DROPPED ITEM,Plot Advancement this item: Returned to Curtis or Yancy as part of a sidequest. (seen in Gen V to Gen VIII).,item,679,https://pokeapi.co/api/v2/item/679/,answer_fragment_leak
+FAIRIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,955,https://pokeapi.co/api/v2/item/955/,disallowed_pattern
+FREEZINGTON,Location: region Galar; 1 named area; location index #895.,location,895,https://pokeapi.co/api/v2/location/895/,disallowed_pattern
+FROST CAVERN,Location: region Kalos; listed in Gen VI; 5 named areas; location index #640.,location,640,https://pokeapi.co/api/v2/location/640/,disallowed_pattern
+GEAR STATION,Location: region Unova; listed in Gen V; 0 named areas; location index #389.,location,389,https://pokeapi.co/api/v2/location/389/,disallowed_pattern
+GLACIER ROOM,Location: region Unova; listed in Gen V; 1 named area; location index #564.,location,564,https://pokeapi.co/api/v2/location/564/,disallowed_pattern
+GRANITE CAVE,Location: region Hoenn; listed in Gen VI; 4 named areas; location index #437.,location,437,https://pokeapi.co/api/v2/location/437/,disallowed_pattern
+HAINA DESERT,Location: region Alola; listed in Gen VII; 1 named area; location index #764.,location,764,https://pokeapi.co/api/v2/location/764/,disallowed_pattern
+HAMMERLOCKE,Location: region Galar; 1 named area; location index #905.,location,905,https://pokeapi.co/api/v2/location/905/,disallowed_pattern
+HEAHEA BEACH,Location: region Alola; 1 named area; location index #1047.,location,1047,https://pokeapi.co/api/v2/location/1047/,disallowed_pattern
+HEIGHTS CAMP,Location: region Hisui; 1 named area; location index #989.,location,989,https://pokeapi.co/api/v2/location/989/,disallowed_pattern
+HIDEAWAY BAY,Location: region Hisui; 1 named area; location index #990.,location,990,https://pokeapi.co/api/v2/location/990/,disallowed_pattern
+ICEFALL CAVE,Location: region Kanto; 4 named areas; location index #502.,location,502,https://pokeapi.co/api/v2/location/502/,disallowed_pattern
+INLET GROTTO,Location: region Paldea; 0 named areas; location index #836.,location,836,https://pokeapi.co/api/v2/location/836/,disallowed_pattern
+LAVERRE GATE,Location: region Kalos; listed in Gen VI; 0 named areas; location index #668.,location,668,https://pokeapi.co/api/v2/location/668/,disallowed_pattern
+LOVELY PLACE,Location: region the Pokémon world; listed in Gen IV; 0 named areas; location index #265.,location,265,https://pokeapi.co/api/v2/location/265/,disallowed_pattern
+LUMIOSE GATE,Location: region Kalos; listed in Gen VI; 0 named areas; location index #665.,location,665,https://pokeapi.co/api/v2/location/665/,disallowed_pattern
+LUNKERS LAIR,Location: region Hisui; 1 named area; location index #1003.,location,1003,https://pokeapi.co/api/v2/location/1003/,disallowed_pattern
+MAHALO TRAIL,Location: region Alola; listed in Gen VII; 1 named area; location index #720.,location,720,https://pokeapi.co/api/v2/location/720/,disallowed_pattern
+MALIE GARDEN,Location: region Alola; listed in Gen VII; 1 named area; location index #769.,location,769,https://pokeapi.co/api/v2/location/769/,disallowed_pattern
+MELEMELE SEA,Location: region Alola; listed in Gen VII; 1 named area; location index #715.,location,715,https://pokeapi.co/api/v2/location/715/,disallowed_pattern
+MENHIR TRAIL,Location: region Kalos; listed in Gen VI; 0 named areas; location index #619.,location,619,https://pokeapi.co/api/v2/location/619/,disallowed_pattern
+METEOR FALLS,Location: region Hoenn; listed in Gen VI; 4 named areas; location index #435.,location,435,https://pokeapi.co/api/v2/location/435/,disallowed_pattern
+MEWNIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,965,https://pokeapi.co/api/v2/item/965/,disallowed_pattern
+MIRAGE TOWER,Location: region Hoenn; 1 named area; location index #487.,location,487,https://pokeapi.co/api/v2/location/487/,disallowed_pattern
+MOLTEN ARENA,Location: region Hisui; 1 named area; location index #1004.,location,1004,https://pokeapi.co/api/v2/location/1004/,disallowed_pattern
+MONTENEVERA,Location: region Paldea; 0 named areas; location index #827.,location,827,https://pokeapi.co/api/v2/location/827/,disallowed_pattern
+MYSTERY ZONE,Location: region the Pokémon world; listed in Gen IV to Gen VII; 0 named areas; location index #264.,location,264,https://pokeapi.co/api/v2/location/264/,disallowed_pattern
+NACRENE GATE,Location: region Unova; listed in Gen V; 0 named areas; location index #420.,location,420,https://pokeapi.co/api/v2/location/420/,disallowed_pattern
+NEW MAUVILLE,Location: region Hoenn; listed in Gen VI; 2 named areas; location index #446.,location,446,https://pokeapi.co/api/v2/location/446/,disallowed_pattern
+NIMBASA GATE,Location: region Unova; listed in Gen V; 0 named areas; location index #422.,location,422,https://pokeapi.co/api/v2/location/422/,disallowed_pattern
+OLD CEMETERY,Location: region Galar; 1 named area; location index #922.,location,922,https://pokeapi.co/api/v2/location/922/,disallowed_pattern
+ONI MOUNTAIN,Location: region Paldea; 0 named areas; location index #1070.,location,1070,https://pokeapi.co/api/v2/location/1070/,disallowed_pattern
+ORANGE PETAL,Unused item: XXX new effect for this item (seen in Gen VII to Gen VIII).,item,981,https://pokeapi.co/api/v2/item/981/,disallowed_pattern
+PARTERRE WAY,Location: region Kalos; listed in Gen VI; 0 named areas; location index #598.,location,598,https://pokeapi.co/api/v2/location/598/,disallowed_pattern
+PATTERN BUSH,Location: region Kanto; 1 named area; location index #503.,location,503,https://pokeapi.co/api/v2/location/503/,disallowed_pattern
+PLEDGE GROVE,Location: region Unova; listed in Gen V; 0 named areas; location index #566.,location,566,https://pokeapi.co/api/v2/location/566/,disallowed_pattern
+POFFIN HOUSE,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #201.,location,201,https://pokeapi.co/api/v2/location/201/,disallowed_pattern
+PURPLE PETAL,Unused item: XXX new effect for this item (seen in Gen VII to Gen VIII).,item,986,https://pokeapi.co/api/v2/item/986/,disallowed_pattern
+RAVAGED PATH,Location: region Sinnoh; listed in Gen IV; 1 named area; location index #14.,location,14,https://pokeapi.co/api/v2/location/14/,disallowed_pattern
+RELIC CASTLE,Location: region Unova; listed in Gen V; 4 named areas; location index #377.,location,377,https://pokeapi.co/api/v2/location/377/,disallowed_pattern
+RIXY CHAMBER,Location: region Kanto; 1 named area; location index #496.,location,496,https://pokeapi.co/api/v2/location/496/,disallowed_pattern
+ROCKIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,950,https://pokeapi.co/api/v2/item/950/,disallowed_pattern
+ROTO BARGAIN,Unused item: XXX new effect for this item (seen in Gen VII to Gen VIII).,item,996,https://pokeapi.co/api/v2/item/996/,disallowed_pattern
+ROTO STEALTH,Unused item: XXX new effect for this item (seen in Gen VII to Gen VIII).,item,1001,https://pokeapi.co/api/v2/item/1001/,disallowed_pattern
+ROYAL AVENUE,Location: region Alola; listed in Gen VII; 1 named area; location index #743.,location,743,https://pokeapi.co/api/v2/location/743/,disallowed_pattern
+RUINS OF ALPH,Location: region Johto; listed in Gen IV; 5 named areas; location index #135.,location,135,https://pokeapi.co/api/v2/location/135/,disallowed_pattern
+RUINS OF HOPE,Location: region Alola; listed in Gen VII; 1 named area; location index #792.,location,792,https://pokeapi.co/api/v2/location/792/,disallowed_pattern
+RUINS OF LIFE,Location: region Alola; listed in Gen VII; 1 named area; location index #751.,location,751,https://pokeapi.co/api/v2/location/751/,disallowed_pattern
+SACRED PLAZA,Location: region Hisui; 1 named area; location index #1012.,location,1012,https://pokeapi.co/api/v2/location/1012/,disallowed_pattern
+SEA MAUVILLE,Location: region Hoenn; listed in Gen VI; 3 named areas; location index #693.,location,693,https://pokeapi.co/api/v2/location/693/,disallowed_pattern
+SEASIDE CAVE,Location: region Unova; listed in Gen V; 2 named areas; location index #554.,location,554,https://pokeapi.co/api/v2/location/554/,disallowed_pattern
+SEAWARD CAVE,Location: region Alola; listed in Gen VII; 1 named area; location index #727.,location,727,https://pokeapi.co/api/v2/location/727/,disallowed_pattern
+SECRET ISLET,Location: region Hoenn; listed in Gen VI; 0 named areas; location index #706.,location,706,https://pokeapi.co/api/v2/location/706/,disallowed_pattern
+SECRET SHORE,Location: region Hoenn; listed in Gen VI; 0 named areas; location index #708.,location,708,https://pokeapi.co/api/v2/location/708/,disallowed_pattern
+SEVEN ISLAND,Location: region Kanto; 0 named areas; location index #809.,location,809,https://pokeapi.co/api/v2/location/809/,disallowed_pattern
+SHALOUR GATE,Location: region Kalos; listed in Gen VI; 0 named areas; location index #666.,location,666,https://pokeapi.co/api/v2/location/666/,disallowed_pattern
+SINJOH RUINS,Location: region Johto; listed in Gen IV; 1 named area; location index #247.,location,247,https://pokeapi.co/api/v2/location/247/,disallowed_pattern
+SINNOH VILLA,Location: region this location; listed in Gen IV; 0 named areas; location index #221.,location,221,https://pokeapi.co/api/v2/location/221/,disallowed_pattern
+SLUDGE MOUND,Location: region Hisui; 1 named area; location index #1019.,location,1019,https://pokeapi.co/api/v2/location/1019/,disallowed_pattern
+SPEAR PILLAR,Location: region Sinnoh; listed in Gen IV; 1 named area; location index #172.,location,172,https://pokeapi.co/api/v2/location/172/,disallowed_pattern
+SPROUT TOWER,Location: region Johto; listed in Gen IV; 2 named areas; location index #138.,location,138,https://pokeapi.co/api/v2/location/138/,disallowed_pattern
+TANOBY RUINS,Location: region Kanto; 1 named area; location index #521.,location,521,https://pokeapi.co/api/v2/location/521/,disallowed_pattern
+THREE ISLAND,Location: region Kanto; 0 named areas; location index #806.,location,806,https://pokeapi.co/api/v2/location/806/,disallowed_pattern
+TOMBOLO WALK,Location: region Hisui; 1 named area; location index #1030.,location,1030,https://pokeapi.co/api/v2/location/1030/,disallowed_pattern
+ULAULA BEACH,Location: region Alola; 1 named area; location index #1049.,location,1049,https://pokeapi.co/api/v2/location/1049/,disallowed_pattern
+UNDELLA GATE,Location: region Unova; listed in Gen V; 0 named areas; location index #419.,location,419,https://pokeapi.co/api/v2/location/419/,disallowed_pattern
+VALOR CAVERN,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #191.,location,191,https://pokeapi.co/api/v2/location/191/,disallowed_pattern
+VERSANT ROAD,Location: region Kalos; listed in Gen VI; 0 named areas; location index #603.,location,603,https://pokeapi.co/api/v2/location/603/,disallowed_pattern
+VIRBANK GATE,Location: region Unova; listed in Gen V; 0 named areas; location index #558.,location,558,https://pokeapi.co/api/v2/location/558/,disallowed_pattern
+WAYWARD CAVE,Location: region Sinnoh; listed in Gen IV; 2 named areas; location index #20.,location,20,https://pokeapi.co/api/v2/location/20/,disallowed_pattern
+WAYWARD WOOD,Location: region Hisui; 1 named area; location index #1036.,location,1036,https://pokeapi.co/api/v2/location/1036/,disallowed_pattern
+WHITE FOREST,Location: region Unova; listed in Gen V; 0 named areas; location index #393.,location,393,https://pokeapi.co/api/v2/location/393/,disallowed_pattern
+YELLOW PETAL,Unused item: XXX new effect for this item (seen in Gen VII to Gen VIII).,item,985,https://pokeapi.co/api/v2/item/985/,disallowed_pattern
+ABYSSAL RUINS,Location: region Unova; listed in Gen V; 0 named areas; location index #428.,location,428,https://pokeapi.co/api/v2/location/428/,disallowed_pattern
+ACCUMULA GATE,Location: region Unova; listed in Gen V; 0 named areas; location index #418.,location,418,https://pokeapi.co/api/v2/location/418/,disallowed_pattern
+ACUITY CAVERN,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #192.,location,192,https://pokeapi.co/api/v2/location/192/,disallowed_pattern
+AMBRETTE GATE,Location: region Kalos; listed in Gen VI; 0 named areas; location index #664.,location,664,https://pokeapi.co/api/v2/location/664/,disallowed_pattern
+ASPERTIA GATE,Location: region Unova; listed in Gen V; 0 named areas; location index #559.,location,559,https://pokeapi.co/api/v2/location/559/,disallowed_pattern
+BATTLE ARCADE,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #217.,location,217,https://pokeapi.co/api/v2/location/217/,disallowed_pattern
+BATTLE CASTLE,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #216.,location,216,https://pokeapi.co/api/v2/location/216/,disallowed_pattern
+BATTLEGROUND,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #222.,location,222,https://pokeapi.co/api/v2/location/222/,disallowed_pattern
+BATTLE MAISON,Location: region Kalos; listed in Gen VI; 0 named areas; location index #660.,location,660,https://pokeapi.co/api/v2/location/660/,disallowed_pattern
+BATTLE RESORT,Location: region Hoenn; listed in Gen VI; 1 named area; location index #695.,location,695,https://pokeapi.co/api/v2/location/695/,disallowed_pattern
+BATTLE SUBWAY,Location: region Unova; listed in Gen V; 0 named areas; location index #390.,location,390,https://pokeapi.co/api/v2/location/390/,disallowed_pattern
+BRAWLERS CAVE,Location: region Galar; 1 named area; location index #882.,location,882,https://pokeapi.co/api/v2/location/882/,disallowed_pattern
+BROOKLET HILL,Location: region Alola; listed in Gen VII; 4 named areas; location index #748.,location,748,https://pokeapi.co/api/v2/location/748/,disallowed_pattern
+BUGINIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,949,https://pokeapi.co/api/v2/item/949/,disallowed_pattern
+CASTELIA GATE,Location: region Unova; listed in Gen V; 0 named areas; location index #421.,location,421,https://pokeapi.co/api/v2/location/421/,disallowed_pattern
+CAVE OF ORIGIN,Location: region Hoenn; listed in Gen VI; 6 named areas; location index #443.,location,443,https://pokeapi.co/api/v2/location/443/,disallowed_pattern
+CENTRAL PLAZA,Location: region Paldea; 0 named areas; location index #1078.,location,1078,https://pokeapi.co/api/v2/location/1078/,disallowed_pattern
+CERULEAN CAVE,Location: region Kanto; listed in Gen IV; 3 named areas; location index #147.,location,147,https://pokeapi.co/api/v2/location/147/,disallowed_pattern
+CLOUDCAP PASS,Location: region Hisui; 1 named area; location index #967.,location,967,https://pokeapi.co/api/v2/location/967/,disallowed_pattern
+COASTAL BIOME,Location: region Paldea; 0 named areas; location index #1080.,location,1080,https://pokeapi.co/api/v2/location/1080/,disallowed_pattern
+COASTAL PLAZA,Location: region Paldea; 0 named areas; location index #1081.,location,1081,https://pokeapi.co/api/v2/location/1081/,disallowed_pattern
+CONCERT EVENT,Location: region the Pokémon world; listed in Gen IV; 0 named areas; location index #341.,location,341,https://pokeapi.co/api/v2/location/341/,disallowed_pattern
+COURIWAY GATE,Location: region Kalos; listed in Gen VI; 0 named areas; location index #663.,location,663,https://pokeapi.co/api/v2/location/663/,disallowed_pattern
+CRESCENT ISLE,Location: region Hoenn; listed in Gen VI; 1 named area; location index #705.,location,705,https://pokeapi.co/api/v2/location/705/,disallowed_pattern
+DAPPLED GROVE,Location: region Galar; 1 named area; location index #889.,location,889,https://pokeapi.co/api/v2/location/889/,disallowed_pattern
+DECIDIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,957,https://pokeapi.co/api/v2/item/957/,disallowed_pattern
+DESERT RESORT,Location: region Unova; listed in Gen V; 2 named areas; location index #376.,location,376,https://pokeapi.co/api/v2/location/376/,disallowed_pattern
+DETOURNER WAY,Location: region Kalos; listed in Gen VI; 0 named areas; location index #656.,location,656,https://pokeapi.co/api/v2/location/656/,disallowed_pattern
+DIAMOND HEATH,Location: region Hisui; 1 named area; location index #975.,location,975,https://pokeapi.co/api/v2/location/975/,disallowed_pattern
+DIGLETTS CAVE,Location: region Kanto; listed in Gen IV; 1 named area; location index #73.,location,73,https://pokeapi.co/api/v2/location/73/,disallowed_pattern
+DYNA TREE HILL,Location: region Galar; 1 named area; location index #891.,location,891,https://pokeapi.co/api/v2/location/891/,disallowed_pattern
+ENTREE FOREST,Location: region Unova; listed in Gen V; 0 named areas; location index #417.,location,417,https://pokeapi.co/api/v2/location/417/,disallowed_pattern
+ETERNA FOREST,Location: region Sinnoh; listed in Gen IV; 1 named area; location index #8.,location,8,https://pokeapi.co/api/v2/location/8/,disallowed_pattern
+FABLED SPRING,Location: region Hisui; 1 named area; location index #978.,location,978,https://pokeapi.co/api/v2/location/978/,disallowed_pattern
+FARAWAY PLACE,Location: region the Pokémon world; listed in Gen IV to Gen VII; 0 named areas; location index #267.,location,267,https://pokeapi.co/api/v2/location/267/,disallowed_pattern
+FLOOD CHAMBER,Location: region Kalos; listed in Gen VI; 0 named areas; location index #682.,location,682,https://pokeapi.co/api/v2/location/682/,disallowed_pattern
+FLYINIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,947,https://pokeapi.co/api/v2/item/947/,disallowed_pattern
+FOURRAGE ROAD,Location: region Kalos; listed in Gen VI; 0 named areas; location index #627.,location,627,https://pokeapi.co/api/v2/location/627/,disallowed_pattern
+FRIEND SAFARI,Location: region Kalos; listed in Gen VI; 0 named areas; location index #680.,location,680,https://pokeapi.co/api/v2/location/680/,disallowed_pattern
+GHOSTIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,951,https://pokeapi.co/api/v2/item/951/,disallowed_pattern
+GIANTS MIRROR,Location: region Galar; 1 named area; location index #902.,location,902,https://pokeapi.co/api/v2/location/902/,disallowed_pattern
+GRASSIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,942,https://pokeapi.co/api/v2/item/942/,disallowed_pattern
+HIDDEN GROTTO,Location: region Unova; listed in Gen V; 0 named areas; location index #556.,location,556,https://pokeapi.co/api/v2/location/556/,disallowed_pattern
+HOLM OF TRIALS,Location: region Hisui; 1 named area; location index #991.,location,991,https://pokeapi.co/api/v2/location/991/,disallowed_pattern
+HONEYCALM SEA,Location: region Galar; 1 named area; location index #908.,location,908,https://pokeapi.co/api/v2/location/908/,disallowed_pattern
+ICEBERG RUINS,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #226.,location,226,https://pokeapi.co/api/v2/location/226/,disallowed_pattern
+ICEPEAK ARENA,Location: region Hisui; 1 named area; location index #995.,location,995,https://pokeapi.co/api/v2/location/995/,disallowed_pattern
+INCINIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,958,https://pokeapi.co/api/v2/item/958/,disallowed_pattern
+INFERNAL PASS,Location: region Paldea; 0 named areas; location index #1063.,location,1063,https://pokeapi.co/api/v2/location/1063/,disallowed_pattern
+ISLESPY SHORE,Location: region Hisui; 1 named area; location index #997.,location,997,https://pokeapi.co/api/v2/location/997/,disallowed_pattern
+KITAKAMI HALL,Location: region Paldea; 0 named areas; location index #1064.,location,1064,https://pokeapi.co/api/v2/location/1064/,disallowed_pattern
+KITAKAMI ROAD,Location: region Paldea; 0 named areas; location index #1065.,location,1065,https://pokeapi.co/api/v2/location/1065/,disallowed_pattern
+LAKESIDE CAVE,Location: region Galar; 1 named area; location index #914.,location,914,https://pokeapi.co/api/v2/location/914/,disallowed_pattern
+LEFT POKE BALL,Unused item: XXX new effect for this item (seen in Gen VII to Gen VIII).,item,994,https://pokeapi.co/api/v2/item/994/,disallowed_pattern
+LINK TRADE MET,Location: region the Pokémon world; listed in Gen IV; 0 named areas; location index #255.,location,255,https://pokeapi.co/api/v2/location/255/,disallowed_pattern
+LONELY SPRING,Location: region Hisui; 1 named area; location index #1002.,location,1002,https://pokeapi.co/api/v2/location/1002/,disallowed_pattern
+LOYALTY PLAZA,Location: region Paldea; 0 named areas; location index #1067.,location,1067,https://pokeapi.co/api/v2/location/1067/,disallowed_pattern
+LUNALIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,974,https://pokeapi.co/api/v2/item/974/,disallowed_pattern
+LYCANIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,977,https://pokeapi.co/api/v2/item/977/,disallowed_pattern
+LYSANDRE LABS,Location: region Kalos; listed in Gen VI; 0 named areas; location index #601.,location,601,https://pokeapi.co/api/v2/location/601/,disallowed_pattern
+MAGMA HIDEOUT,Location: region Hoenn; 1 named area; location index #486.,location,486,https://pokeapi.co/api/v2/location/486/,disallowed_pattern
+MANIAC TUNNEL,Location: region Sinnoh; listed in Gen IV; 1 named area; location index #180.,location,180,https://pokeapi.co/api/v2/location/180/,disallowed_pattern
+MEMORIAL HILL,Location: region Alola; listed in Gen VII; 1 named area; location index #744.,location,744,https://pokeapi.co/api/v2/location/744/,disallowed_pattern
+MIMIKIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,976,https://pokeapi.co/api/v2/item/976/,disallowed_pattern
+MINING MUSEUM,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #197.,location,197,https://pokeapi.co/api/v2/location/197/,disallowed_pattern
+MIRAGE FOREST,Location: region Hoenn; listed in Gen VI; 0 named areas; location index #697.,location,697,https://pokeapi.co/api/v2/location/697/,disallowed_pattern
+MIRAGE ISLAND,Location: region Hoenn; listed in Gen VI; 0 named areas; location index #577.,location,577,https://pokeapi.co/api/v2/location/577/,disallowed_pattern
+MT SILVER CAVE,Location: region Johto; listed in Gen IV; 0 named areas; location index #239.,location,239,https://pokeapi.co/api/v2/location/239/,disallowed_pattern
+NATIONAL PARK,Location: region Johto; listed in Gen IV; 1 named area; location index #83.,location,83,https://pokeapi.co/api/v2/location/83/,disallowed_pattern
+OPELUCID GATE,Location: region Unova; listed in Gen V; 0 named areas; location index #423.,location,423,https://pokeapi.co/api/v2/location/423/,disallowed_pattern
+OREBURGH GATE,Location: region Sinnoh; listed in Gen IV; 2 named areas; location index #15.,location,15,https://pokeapi.co/api/v2/location/15/,disallowed_pattern
+OREBURGH MINE,Location: region Sinnoh; listed in Gen IV; 2 named areas; location index #6.,location,6,https://pokeapi.co/api/v2/location/6/,disallowed_pattern
+PANIOLA RANCH,Location: region Alola; listed in Gen VII; 1 named area; location index #745.,location,745,https://pokeapi.co/api/v2/location/745/,disallowed_pattern
+PARFUM PALACE,Location: region Kalos; listed in Gen VI; 1 named area; location index #608.,location,608,https://pokeapi.co/api/v2/location/608/,disallowed_pattern
+PIKANIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,956,https://pokeapi.co/api/v2/item/956/,disallowed_pattern
+Pokémon EVENT,Location: region the this location world; listed in Gen IV; 0 named areas; location index #325.,location,325,https://pokeapi.co/api/v2/location/325/,disallowed_pattern
+Pokémon FESTA,Location: region the this location world; listed in Gen IV; 0 named areas; location index #293.,location,293,https://pokeapi.co/api/v2/location/293/,disallowed_pattern
+Pokémon MOVIE,Location: region the this location world; listed in Gen IV; 0 named areas; location index #268.,location,268,https://pokeapi.co/api/v2/location/268/,disallowed_pattern
+Pokémon TOWER,Location: region Kanto; 7 named areas; location index #160.,location,160,https://pokeapi.co/api/v2/location/160/,disallowed_pattern
+PONI GAUNTLET,Location: region Alola; listed in Gen VII; 1 named area; location index #787.,location,787,https://pokeapi.co/api/v2/location/787/,disallowed_pattern
+PSYCHIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,948,https://pokeapi.co/api/v2/item/948/,disallowed_pattern
+RELIC PASSAGE,Location: region Unova; listed in Gen V; 3 named areas; location index #550.,location,550,https://pokeapi.co/api/v2/location/550/,disallowed_pattern
+REVELERS ROAD,Location: region Paldea; 0 named areas; location index #1073.,location,1073,https://pokeapi.co/api/v2/location/1073/,disallowed_pattern
+ROAMING HOENN,Location: region this location; 1 named area; location index #801.,location,801,https://pokeapi.co/api/v2/location/801/,disallowed_pattern
+ROAMING JOHTO,Location: region this location; 1 named area; location index #800.,location,800,https://pokeapi.co/api/v2/location/800/,disallowed_pattern
+ROAMING KALOS,Location: region this location; 1 named area; location index #1056.,location,1056,https://pokeapi.co/api/v2/location/1056/,disallowed_pattern
+ROAMING KANTO,Location: region this location; 1 named area; location index #799.,location,799,https://pokeapi.co/api/v2/location/799/,disallowed_pattern
+ROAMING UNOVA,Location: region this location; 1 named area; location index #1054.,location,1054,https://pokeapi.co/api/v2/location/1054/,disallowed_pattern
+SANDGEM FLATS,Location: region Hisui; 1 named area; location index #1014.,location,1014,https://pokeapi.co/api/v2/location/1014/,disallowed_pattern
+SAVANNA BIOME,Location: region Paldea; 0 named areas; location index #1085.,location,1085,https://pokeapi.co/api/v2/location/1085/,disallowed_pattern
+SAVANNA PLAZA,Location: region Paldea; 0 named areas; location index #1086.,location,1086,https://pokeapi.co/api/v2/location/1086/,disallowed_pattern
+SCORCHED SLAB,Location: region Hoenn; listed in Gen VI; 4 named areas; location index #580.,location,580,https://pokeapi.co/api/v2/location/580/,disallowed_pattern
+SEABREAK PATH,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #187.,location,187,https://pokeapi.co/api/v2/location/187/,disallowed_pattern
+SECRET MEADOW,Location: region Hoenn; listed in Gen VI; 0 named areas; location index #709.,location,709,https://pokeapi.co/api/v2/location/709/,disallowed_pattern
+SLOWPOKE WELL,Location: region Johto; listed in Gen IV; 2 named areas; location index #137.,location,137,https://pokeapi.co/api/v2/location/137/,disallowed_pattern
+SNORLIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,963,https://pokeapi.co/api/v2/item/963/,disallowed_pattern
+SONOROUS PATH,Location: region Hisui; 1 named area; location index #1023.,location,1023,https://pokeapi.co/api/v2/location/1023/,disallowed_pattern
+STEELIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,954,https://pokeapi.co/api/v2/item/954/,disallowed_pattern
+STRANGE HOUSE,Location: region Unova; listed in Gen V; 2 named areas; location index #547.,location,547,https://pokeapi.co/api/v2/location/547/,disallowed_pattern
+TAPUNIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,960,https://pokeapi.co/api/v2/item/960/,disallowed_pattern
+TEAM ROCKET HQ,Location: region Johto; listed in Gen IV; 1 named area; location index #237.,location,237,https://pokeapi.co/api/v2/location/237/,disallowed_pattern
+TEN CARAT HILL,Location: region Alola; listed in Gen VII; 2 named areas; location index #723.,location,723,https://pokeapi.co/api/v2/location/723/,disallowed_pattern
+TERMINUS CAVE,Location: region Kalos; listed in Gen VI; 5 named areas; location index #676.,location,676,https://pokeapi.co/api/v2/location/676/,disallowed_pattern
+TG ETERNA BLDG,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #224.,location,224,https://pokeapi.co/api/v2/location/224/,disallowed_pattern
+THE HEARTWOOD,Location: region Hisui; 1 named area; location index #1028.,location,1028,https://pokeapi.co/api/v2/location/1028/,disallowed_pattern
+TIDEWATER DAM,Location: region Hisui; 1 named area; location index #1029.,location,1029,https://pokeapi.co/api/v2/location/1029/,disallowed_pattern
+TRAINER TOWER,Location: region Kanto; 1 named area; location index #518.,location,518,https://pokeapi.co/api/v2/location/518/,disallowed_pattern
+TRAVELING MAN,Location: region the Pokémon world; listed in Gen IV; 0 named areas; location index #261.,location,261,https://pokeapi.co/api/v2/location/261/,disallowed_pattern
+TRIAL CHAMBER,Location: region Unova; listed in Gen V; 1 named area; location index #415.,location,415,https://pokeapi.co/api/v2/location/415/,disallowed_pattern
+TROPHY GARDEN,Location: region Sinnoh; listed in Gen IV; 1 named area; location index #23.,location,23,https://pokeapi.co/api/v2/location/23/,disallowed_pattern
+TURNBACK CAVE,Location: region Sinnoh; listed in Gen IV; 7 named areas; location index #18.,location,18,https://pokeapi.co/api/v2/location/18/,disallowed_pattern
+ULAULA MEADOW,Location: region Alola; listed in Gen VII; 1 named area; location index #766.,location,766,https://pokeapi.co/api/v2/location/766/,disallowed_pattern
+VERITY CAVERN,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #190.,location,190,https://pokeapi.co/api/v2/location/190/,disallowed_pattern
+WARM UP TUNNEL,Location: region Galar; 1 named area; location index #946.,location,946,https://pokeapi.co/api/v2/location/946/,disallowed_pattern
+WATERIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,940,https://pokeapi.co/api/v2/item/940/,disallowed_pattern
+WHIRL ISLANDS,Location: region Johto; listed in Gen IV; 6 named areas; location index #156.,location,156,https://pokeapi.co/api/v2/location/156/,disallowed_pattern
+WINDING WOODS,Location: region Kalos; listed in Gen VI; 0 named areas; location index #651.,location,651,https://pokeapi.co/api/v2/location/651/,disallowed_pattern
+WINDSWEPT RUN,Location: region Hisui; 1 named area; location index #1039.,location,1039,https://pokeapi.co/api/v2/location/1039/,disallowed_pattern
+ABANDONED SHIP,Location: region Hoenn; 1 named area; location index #447.,location,447,https://pokeapi.co/api/v2/location/447/,disallowed_pattern
+ANCIENT QUARRY,Location: region Hisui; 1 named area; location index #953.,location,953,https://pokeapi.co/api/v2/location/953/,disallowed_pattern
+BALLIMERE LAKE,Location: region Galar; 1 named area; location index #879.,location,879,https://pokeapi.co/api/v2/location/879/,disallowed_pattern
+BATHERS LAGOON,Location: region Hisui; 1 named area; location index #958.,location,958,https://pokeapi.co/api/v2/location/958/,disallowed_pattern
+BATTLE CHATEAU,Location: region Kalos; listed in Gen VI; 0 named areas; location index #617.,location,617,https://pokeapi.co/api/v2/location/617/,disallowed_pattern
+BATTLE FACTORY,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #215.,location,215,https://pokeapi.co/api/v2/location/215/,disallowed_pattern
+BLUSH MOUNTAIN,Location: region Alola; listed in Gen VII; 1 named area; location index #771.,location,771,https://pokeapi.co/api/v2/location/771/,disallowed_pattern
+CASSEROYA LAKE,Location: region Paldea; 0 named areas; location index #857.,location,857,https://pokeapi.co/api/v2/location/857/,disallowed_pattern
+CASTAWAY SHORE,Location: region Hisui; 1 named area; location index #963.,location,963,https://pokeapi.co/api/v2/location/963/,disallowed_pattern
+CHALLENGE ROAD,Location: region Galar; 1 named area; location index #885.,location,885,https://pokeapi.co/api/v2/location/885/,disallowed_pattern
+CLIFF EDGE GATE,Location: region Johto; listed in Gen IV; 0 named areas; location index #250.,location,250,https://pokeapi.co/api/v2/location/250/,disallowed_pattern
+COUMARINE GATE,Location: region Kalos; listed in Gen VI; 0 named areas; location index #667.,location,667,https://pokeapi.co/api/v2/location/667/,disallowed_pattern
+CROSSING SLOPE,Location: region Hisui; 1 named area; location index #971.,location,971,https://pokeapi.co/api/v2/location/971/,disallowed_pattern
+DARKINIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,953,https://pokeapi.co/api/v2/item/953/,disallowed_pattern
+DAY CARE COUPLE,Location: region the Pokémon world; listed in Gen IV; 0 named areas; location index #253.,location,253,https://pokeapi.co/api/v2/location/253/,disallowed_pattern
+DEADWOOD HAUNT,Location: region Hisui; 1 named area; location index #972.,location,972,https://pokeapi.co/api/v2/location/972/,disallowed_pattern
+DEERTRACK PATH,Location: region Hisui; 1 named area; location index #974.,location,974,https://pokeapi.co/api/v2/location/974/,disallowed_pattern
+DRAGONIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,952,https://pokeapi.co/api/v2/item/952/,disallowed_pattern
+DRONING MEADOW,Location: region Hisui; 1 named area; location index #977.,location,977,https://pokeapi.co/api/v2/location/977/,disallowed_pattern
+ELECTRIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,941,https://pokeapi.co/api/v2/item/941/,disallowed_pattern
+EMBEDDED TOWER,Location: region Johto; listed in Gen IV; 3 named areas; location index #248.,location,248,https://pokeapi.co/api/v2/location/248/,disallowed_pattern
+FARAWAY ISLAND,Location: region Hoenn; 1 named area; location index #812.,location,812,https://pokeapi.co/api/v2/location/812/,disallowed_pattern
+FELLHORN GORGE,Location: region Paldea; 0 named areas; location index #1062.,location,1062,https://pokeapi.co/api/v2/location/1062/,disallowed_pattern
+FIELDS OF HONOR,Location: region Galar; 2 named areas; location index #893.,location,893,https://pokeapi.co/api/v2/location/893/,disallowed_pattern
+FLOARO GARDENS,Location: region Hisui; 1 named area; location index #980.,location,980,https://pokeapi.co/api/v2/location/980/,disallowed_pattern
+FLOCCESY RANCH,Location: region Unova; listed in Gen V; 2 named areas; location index #544.,location,544,https://pokeapi.co/api/v2/location/544/,disallowed_pattern
+FOOTSTEP HOUSE,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #209.,location,209,https://pokeapi.co/api/v2/location/209/,disallowed_pattern
+FOREST OF FOCUS,Location: region Galar; 1 named area; location index #894.,location,894,https://pokeapi.co/api/v2/location/894/,disallowed_pattern
+GINKGO LANDING,Location: region Hisui; 1 named area; location index #982.,location,982,https://pokeapi.co/api/v2/location/982/,disallowed_pattern
+GROUNDIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,946,https://pokeapi.co/api/v2/item/946/,disallowed_pattern
+GRUELING GROVE,Location: region Hisui; 1 named area; location index #986.,location,986,https://pokeapi.co/api/v2/location/986/,disallowed_pattern
+HOLO CASTER RED,Unused item: XXX new effect for this item-this item--this item (seen in Gen VII to Gen VIII).,item,930,https://pokeapi.co/api/v2/item/930/,disallowed_pattern
+ICEBOUND FALLS,Location: region Hisui; 1 named area; location index #994.,location,994,https://pokeapi.co/api/v2/location/994/,disallowed_pattern
+ICEPEAK CAVERN,Location: region Hisui; 1 named area; location index #996.,location,996,https://pokeapi.co/api/v2/location/996/,disallowed_pattern
+ICEREND SHRINE,Location: region Paldea; 0 named areas; location index #853.,location,853,https://pokeapi.co/api/v2/location/853/,disallowed_pattern
+INDIGO PLATEAU,Location: region Kanto; listed in Gen IV; 1 named area; location index #233.,location,233,https://pokeapi.co/api/v2/location/233/,disallowed_pattern
+INSIDE OF TRUCK,Location: region Hoenn; listed in Gen VI; 0 named areas; location index #584.,location,584,https://pokeapi.co/api/v2/location/584/,disallowed_pattern
+KITAKAMI WILDS,Location: region Paldea; 0 named areas; location index #1066.,location,1066,https://pokeapi.co/api/v2/location/1066/,disallowed_pattern
+KOMMONIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,978,https://pokeapi.co/api/v2/item/978/,disallowed_pattern
+LAKE OF OUTRAGE,Location: region Galar; 1 named area; location index #913.,location,913,https://pokeapi.co/api/v2/location/913/,disallowed_pattern
+LIBERTY GARDEN,Location: region Unova; listed in Gen V; 1 named area; location index #404.,location,404,https://pokeapi.co/api/v2/location/404/,disallowed_pattern
+LIPTOO CHAMBER,Location: region Kanto; 1 named area; location index #492.,location,492,https://pokeapi.co/api/v2/location/492/,disallowed_pattern
+LUNALIUM Z HELD,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,968,https://pokeapi.co/api/v2/item/968/,disallowed_pattern
+LYCANIUM Z HELD,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,971,https://pokeapi.co/api/v2/item/971/,disallowed_pattern
+MAMOSWINE ROAD,Location: region Kalos; listed in Gen VI; 0 named areas; location index #642.,location,642,https://pokeapi.co/api/v2/location/642/,disallowed_pattern
+MIMIKIUM Z HELD,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,970,https://pokeapi.co/api/v2/item/970/,disallowed_pattern
+MONEAN CHAMBER,Location: region Kanto; 1 named area; location index #491.,location,491,https://pokeapi.co/api/v2/location/491/,disallowed_pattern
+MOONVIEW ARENA,Location: region Hisui; 1 named area; location index #1005.,location,1005,https://pokeapi.co/api/v2/location/1005/,disallowed_pattern
+MOOR OF ICIRRUS,Location: region Unova; listed in Gen V; 1 named area; location index #399.,location,399,https://pokeapi.co/api/v2/location/399/,disallowed_pattern
+MOUNT HOKULANI,Location: region Alola; listed in Gen VII; 3 named areas; location index #770.,location,770,https://pokeapi.co/api/v2/location/770/,disallowed_pattern
+MOUNT LANAKILA,Location: region Alola; listed in Gen VII; 4 named areas; location index #775.,location,775,https://pokeapi.co/api/v2/location/775/,disallowed_pattern
+MURAILLE COAST,Location: region Kalos; listed in Gen VI; 0 named areas; location index #613.,location,613,https://pokeapi.co/api/v2/location/613/,disallowed_pattern
+NATURES PANTRY,Location: region Hisui; 1 named area; location index #1006.,location,1006,https://pokeapi.co/api/v2/location/1006/,disallowed_pattern
+NEWMOON ISLAND,Location: region Sinnoh; listed in Gen IV; 1 named area; location index #183.,location,183,https://pokeapi.co/api/v2/location/183/,disallowed_pattern
+NINTENDO WORLD,Location: region the Pokémon this location; listed in Gen IV; 0 named areas; location index #324.,location,324,https://pokeapi.co/api/v2/location/324/,disallowed_pattern
+NORMALIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,938,https://pokeapi.co/api/v2/item/938/,disallowed_pattern
+OBSIDIAN FALLS,Location: region Hisui; 1 named area; location index #1007.,location,1007,https://pokeapi.co/api/v2/location/1007/,disallowed_pattern
+OUTCAST ISLAND,Location: region Kanto; 1 named area; location index #514.,location,514,https://pokeapi.co/api/v2/location/514/,disallowed_pattern
+PATHLESS PLAIN,Location: region Hoenn; listed in Gen VI; 1 named area; location index #701.,location,701,https://pokeapi.co/api/v2/location/701/,disallowed_pattern
+PATH TO THE PEAK,Location: region Galar; 1 named area; location index #923.,location,923,https://pokeapi.co/api/v2/location/923/,disallowed_pattern
+PLASMA FRIGATE,Location: region Unova; listed in Gen V; 0 named areas; location index #549.,location,549,https://pokeapi.co/api/v2/location/549/,disallowed_pattern
+POISONIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,945,https://pokeapi.co/api/v2/item/945/,disallowed_pattern
+Pokémon CENTER,Location: region the this location world; listed in Gen IV; 0 named areas; location index #317.,location,317,https://pokeapi.co/api/v2/location/317/,disallowed_pattern
+Pokémon LEAGUE,Location: region Paldea; 0 named areas; location index #820.,location,820,https://pokeapi.co/api/v2/location/820/,disallowed_pattern
+Pokémon RANGER,Location: region the this location world; listed in Gen IV; 0 named areas; location index #266.,location,266,https://pokeapi.co/api/v2/location/266/,disallowed_pattern
+PORTO MARINADA,Location: region Paldea; 0 named areas; location index #825.,location,825,https://pokeapi.co/api/v2/location/825/,disallowed_pattern
+PRIMARIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,959,https://pokeapi.co/api/v2/item/959/,disallowed_pattern
+RAINBOW FLOWER,Unused item: XXX new effect for this item (seen in Gen VII to Gen VIII).,item,987,https://pokeapi.co/api/v2/item/987/,disallowed_pattern
+RAMANAS ISLAND,Location: region Hisui; 1 named area; location index #1011.,location,1011,https://pokeapi.co/api/v2/location/1011/,disallowed_pattern
+ROAMING SINNOH,Location: region this location; 1 named area; location index #802.,location,802,https://pokeapi.co/api/v2/location/802/,disallowed_pattern
+ROCK PEAK RUINS,Location: region Sinnoh; listed in Gen IV; 0 named areas; location index #227.,location,227,https://pokeapi.co/api/v2/location/227/,disallowed_pattern
+ROLLING FIELDS,Location: region Galar; 2 named areas; location index #928.,location,928,https://pokeapi.co/api/v2/location/928/,disallowed_pattern
+ROTO ENCOUNTER,Unused item: XXX new effect for this item (seen in Gen VII to Gen VIII).,item,1000,https://pokeapi.co/api/v2/item/1000/,disallowed_pattern
+ROTO EXP POINTS,Unused item: XXX new effect for this item (seen in Gen VII to Gen VIII).,item,998,https://pokeapi.co/api/v2/item/998/,disallowed_pattern
+ROTO HP RESTORE,Unused item: XXX new effect for this item (seen in Gen VII to Gen VIII).,item,1002,https://pokeapi.co/api/v2/item/1002/,disallowed_pattern
+ROTO PP RESTORE,Unused item: XXX new effect for this item (seen in Gen VII to Gen VIII).,item,1003,https://pokeapi.co/api/v2/item/1003/,disallowed_pattern
+RUSTURF TUNNEL,Location: region Hoenn; listed in Gen VI; 1 named area; location index #436.,location,436,https://pokeapi.co/api/v2/location/436/,disallowed_pattern
+SCUFIB CHAMBER,Location: region Kanto; 1 named area; location index #495.,location,495,https://pokeapi.co/api/v2/location/495/,disallowed_pattern
+SEAGRASS HAVEN,Location: region Hisui; 1 named area; location index #1016.,location,1016,https://pokeapi.co/api/v2/location/1016/,disallowed_pattern
+SEALED CHAMBER,Location: region Hoenn; listed in Gen VI; 0 named areas; location index #579.,location,579,https://pokeapi.co/api/v2/location/579/,disallowed_pattern
+SEASIDE HOLLOW,Location: region Hisui; 1 named area; location index #1017.,location,1017,https://pokeapi.co/api/v2/location/1017/,disallowed_pattern
+SEA SPIRITS DEN,Location: region Kalos; listed in Gen VI; 1 named area; location index #679.,location,679,https://pokeapi.co/api/v2/location/679/,disallowed_pattern
+SECLUDED SHORE,Location: region Alola; listed in Gen VII; 1 named area; location index #757.,location,757,https://pokeapi.co/api/v2/location/757/,disallowed_pattern
+SENDOFF SPRING,Location: region Sinnoh; listed in Gen IV; 1 named area; location index #178.,location,178,https://pokeapi.co/api/v2/location/178/,disallowed_pattern
+SEVAULT CANYON,Location: region Kanto; 1 named area; location index #520.,location,520,https://pokeapi.co/api/v2/location/520/,disallowed_pattern
+SHROUDED RUINS,Location: region Hisui; 1 named area; location index #1018.,location,1018,https://pokeapi.co/api/v2/location/1018/,disallowed_pattern
+SLIPPERY SLOPE,Location: region Galar; 1 named area; location index #929.,location,929,https://pokeapi.co/api/v2/location/929/,disallowed_pattern
+SNOWBELLE GATE,Location: region Kalos; listed in Gen VI; 0 named areas; location index #670.,location,670,https://pokeapi.co/api/v2/location/670/,disallowed_pattern
+SOCARRAT TRAIL,Location: region Paldea; 0 named areas; location index #860.,location,860,https://pokeapi.co/api/v2/location/860/,disallowed_pattern
+SOLACEON RUINS,Location: region Sinnoh; listed in Gen IV; 18 named areas; location index #12.,location,12,https://pokeapi.co/api/v2/location/12/,disallowed_pattern
+SOLGANIUM Z BAG,Unused item: XXX new effect for this item-z--this item (seen in Gen VII to Gen VIII).,item,973,https://pokeapi.co/api/v2/item/973/,disallowed_pattern
+SPIKES PASSAGE,Location: region Kalos; listed in Gen VI; 0 named areas; location index #616.,location,616,https://pokeapi.co/api/v2/location/616/,disallowed_pattern
+SS TICKET HOENN,Unused item: XXX new effect for this item-this item--this item (seen in Gen VII to Gen VIII).,item,933,https://pokeapi.co/api/v2/item/933/,disallowed_pattern
+STARK MOUNTAIN,Location: region Sinnoh; listed in Gen IV; 4 named areas; location index #16.,location,16,https://pokeapi.co/api/v2/location/16/,disallowed_pattern
+STEAMDRIFT WAY,Location: region Galar; 1 named area; location index #936.,location,936,https://pokeapi.co/api/v2/location/936/,disallowed_pattern
+THREE ISLE PATH,Location: region Kanto; 0 named areas; location index #807.,location,807,https://pokeapi.co/api/v2/location/807/,disallowed_pattern
+THREE ISLE PORT,Location: region Kanto; 1 named area; location index #509.,location,509,https://pokeapi.co/api/v2/location/509/,disallowed_pattern
+TIMELESS WOODS,Location: region Paldea; 0 named areas; location index #1074.,location,1074,https://pokeapi.co/api/v2/location/1074/,disallowed_pattern
+TOWER OF WATERS,Location: region Galar; 1 named area; location index #942.,location,942,https://pokeapi.co/api/v2/location/942/,disallowed_pattern
+TREASURE BEACH,Location: region Kanto; 1 named area; location index #506.,location,506,https://pokeapi.co/api/v2/location/506/,disallowed_pattern
+TWIST MOUNTAIN,Location: region Unova; listed in Gen V; 2 named areas; location index #380.,location,380,https://pokeapi.co/api/v2/location/380/,disallowed_pattern
+VEILSTONE CAPE,Location: region Hisui; 1 named area; location index #1034.,location,1034,https://pokeapi.co/api/v2/location/1034/,disallowed_pattern
+VERDANT CAVERN,Location: region Alola; 2 named areas; location index #1043.,location,1043,https://pokeapi.co/api/v2/location/1043/,disallowed_pattern
+VIAPOS CHAMBER,Location: region Kanto; 1 named area; location index #497.,location,497,https://pokeapi.co/api/v2/location/497/,disallowed_pattern
+VILLAGE BRIDGE,Location: region Unova; listed in Gen V; 1 named area; location index #409.,location,409,https://pokeapi.co/api/v2/location/409/,disallowed_pattern
+WEEPTH CHAMBER,Location: region Kanto; 1 named area; location index #493.,location,493,https://pokeapi.co/api/v2/location/493/,disallowed_pattern
+WISTFUL FIELDS,Location: region Paldea; 0 named areas; location index #1075.,location,1075,https://pokeapi.co/api/v2/location/1075/,disallowed_pattern

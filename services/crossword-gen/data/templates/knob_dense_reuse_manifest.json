@@ -1,0 +1,424 @@
+{
+  "size": 13,
+  "outputPrefix": "knob_dense_reuse_13x13_",
+  "allowReuse": true,
+  "attempts": 1,
+  "maxSeconds": 6.0,
+  "cpSatSeconds": 4.0,
+  "cpSatWorkers": 8,
+  "cpSatMaxDomain": 250,
+  "requireClues": false,
+  "candidateCount": 24,
+  "selectedCount": 0,
+  "selected": [],
+  "candidates": [
+    {
+      "name": "knob_dense_candidate_13x13_0",
+      "entryCount": 24,
+      "minLength": 4,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 3.6947531670011813,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_1",
+      "entryCount": 24,
+      "minLength": 5,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 4.4336309999998775,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_10",
+      "entryCount": 24,
+      "minLength": 4,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 4.028285334003158,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_11",
+      "entryCount": 24,
+      "minLength": 4,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 7.159789582998201,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_12",
+      "entryCount": 24,
+      "minLength": 5,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 4.737090583999816,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_13",
+      "entryCount": 24,
+      "minLength": 5,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 7.936439708006219,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_14",
+      "entryCount": 24,
+      "minLength": 7,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 1.2325834580042283,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_15",
+      "entryCount": 24,
+      "minLength": 6,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 0.9914288750005653,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_16",
+      "entryCount": 24,
+      "minLength": 6,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 2.4788332500029355,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_17",
+      "entryCount": 24,
+      "minLength": 5,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 0.6379234159976477,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_18",
+      "entryCount": 24,
+      "minLength": 6,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 3.017745333003404,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_19",
+      "entryCount": 24,
+      "minLength": 4,
+      "maxLength": 12,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 19.543822041996464,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_2",
+      "entryCount": 24,
+      "minLength": 4,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 3.5046862499948475,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_20",
+      "entryCount": 24,
+      "minLength": 7,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 1.5785938749977504,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_21",
+      "entryCount": 22,
+      "minLength": 9,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 3.371304542000871,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_22",
+      "entryCount": 28,
+      "minLength": 4,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 4.049281916995824,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_23",
+      "entryCount": 24,
+      "minLength": 4,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 4.968516000000818,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_3",
+      "entryCount": 24,
+      "minLength": 5,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 3.352443083000253,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_4",
+      "entryCount": 24,
+      "minLength": 4,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 3.9185668749996694,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_5",
+      "entryCount": 24,
+      "minLength": 4,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 9.802226542000426,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_6",
+      "entryCount": 24,
+      "minLength": 8,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 1.3042186250022496,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_7",
+      "entryCount": 24,
+      "minLength": 4,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 5.414483209002356,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_8",
+      "entryCount": 24,
+      "minLength": 6,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 1.6037237079945044,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    },
+    {
+      "name": "knob_dense_candidate_13x13_9",
+      "entryCount": 24,
+      "minLength": 5,
+      "maxLength": 13,
+      "blocks": 52,
+      "publishablePassRate": 0.0,
+      "publishablePassCount": 0,
+      "solvedCount": 0,
+      "avgSeconds": 0.7735981250007171,
+      "blockers": {
+        "cp_sat_infeasible": 1
+      },
+      "cpSatFailures": {
+        "cp_sat_infeasible": 1
+      }
+    }
+  ]
+}
