@@ -87,6 +87,12 @@ sudo chmod 0644 /opt/pokeleximon/app/deploy.env /opt/pokeleximon/app/web.env
 sudo bash infra/production/aws-ec2/bin/create_secrets.sh --root /opt/pokeleximon
 ```
 
+For `t3.micro` or other 1 GiB hosts, add swap before starting the full stack:
+
+```bash
+sudo bash infra/production/aws-ec2/bin/configure_swap.sh --size 2G
+```
+
 5. Edit `/opt/pokeleximon/app/deploy.env` and set:
    - `SITE_HOST`
    - `SITE_ADDRESS`
@@ -107,6 +113,8 @@ Important:
 - `REDIS_URL` must continue to use `redis` as the hostname.
 - `PUBLISH_ON_STARTUP` stays `false` in production.
 - `POKEAPI_REFRESH_ENABLED` stays `false` on EC2.
+- `PROMETHEUS_RETENTION_TIME=3d` is a better default for low-memory single-host setups.
+- `REDIS_MAXMEMORY=128mb` keeps cache growth bounded on small instances.
 - Operator-only access values, including Grafana login, are stored in `/opt/pokeleximon/secrets/admin_access.txt`.
 - The reverse proxy reads `/opt/pokeleximon/secrets/proxy.env`.
 - Grafana reads `/opt/pokeleximon/secrets/monitoring.env`.

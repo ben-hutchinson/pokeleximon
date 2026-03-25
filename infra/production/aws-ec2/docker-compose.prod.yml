@@ -82,7 +82,17 @@ services:
   redis:
     image: redis:7-alpine
     restart: unless-stopped
-    command: ["redis-server", "--appendonly", "yes", "--save", "60", "1000"]
+    command:
+      - redis-server
+      - --appendonly
+      - "yes"
+      - --save
+      - "60"
+      - "1000"
+      - --maxmemory
+      - ${REDIS_MAXMEMORY:-128mb}
+      - --maxmemory-policy
+      - ${REDIS_MAXMEMORY_POLICY:-allkeys-lru}
     volumes:
       - ${POKELEXIMON_DATA_DIR:-/opt/pokeleximon/data}/redis:/data
     healthcheck:
@@ -137,7 +147,7 @@ services:
     command:
       - --config.file=/etc/prometheus/prometheus.yml
       - --storage.tsdb.path=/prometheus
-      - --storage.tsdb.retention.time=7d
+      - --storage.tsdb.retention.time=${PROMETHEUS_RETENTION_TIME:-3d}
       - --storage.tsdb.retention.size=1GB
     ports:
       - "127.0.0.1:9090:9090"
