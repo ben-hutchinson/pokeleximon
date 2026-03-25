@@ -1,0 +1,38 @@
+{
+  "answerKey": "BRUTALSWING",
+  "answerDisplay": "BRUTAL SWING",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Brutal Swing (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Brutal_Swing_(move)",
+  "pageId": 218367,
+  "pageRevisionId": 4483096,
+  "leadText": "Brutal Swing (Japanese: ぶんまわす Brutal Swing) is a damage-dealing Dark-type move introduced in Generation VII. It was TM59 in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon, and was TM97 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Brutal Swing does damage to all adjacent Pokémon, including allies. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Brutal Swing cannot be selected in a battle. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 60 72 Cooldown 6s Move wind-up time 10 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA S V The user swings its body around violently to inflict damage on everything in its vicinity. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. ZA The user attacks everything nearby by swinging about violently."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD RT DX It damages nearby enemies."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as a TCG attack . Brutal Swing is the only contact move that can hit all adjacent Pokémon at once."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Brutal-Swing",
+    "Brutal Swing",
+    "Brutal-Swing (move)"
+  ],
+  "updatedAt": 1773321372
+}

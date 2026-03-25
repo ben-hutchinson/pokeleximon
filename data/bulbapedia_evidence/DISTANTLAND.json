@@ -1,0 +1,30 @@
+{
+  "answerKey": "DISTANTLAND",
+  "answerDisplay": "DISTANT LAND",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Distant land",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Distant_land",
+  "pageId": 188561,
+  "pageRevisionId": 4421581,
+  "leadText": "Distant land (Japanese: 遠(とお)く離(はな)れた土地(とち) distant land) is a region placeholder found in the core series games, first used in Pokémon Colosseum and Pokémon XD: Gale of Darkness, then subsequently introduced to the core series in the Generation IV games. This placeholder data is displayed as the Pokémon's met location on its summary when it was met in a different game, but the current game does not define the name of the region to display for the Pokémon's game of origin. It is most commonly used for Pokémon from Pokémon Colosseum and Pokémon XD.",
+  "sections": [
+    {
+      "title": "Mechanics",
+      "text": "Mechanics [ edit | edit source ] Distant land is the met location displayed when a Pokémon is met in a region that is not defined in its current game. It is similar to Faraway place , but for regions instead of locations. The most common usage of this placeholder is for Pokémon obtained in Pokémon Colosseum or Pokémon XD: Gale of Darkness . Orre , the setting of these games, has never been defined as a region in the game data of the core series games, so Pokémon met in Orre are displayed as being met in a \"distant land\" in all games from Generation IV onward. In Pokémon Colosseum and Pokémon XD, Pokémon from the core series games are displayed as being met in a distant land when viewing their summary in Colosseum or XD. Pokémon traded from one Colosseum save file to another, or one XD save file to another, display their correct met info, but Pokémon traded from Colosseum to XD or vice versa will display incorrect met info, often (but not always) stating \"met in a distant land\". In Pokémon Sun and Moon , Pokémon transferred from the Generation II Virtual Console games are displayed as being met in \"a distant land in the good old days\" (in contrast to the Generation I Virtual Console games being displayed as \"the Kanto region in the good old days\"); this is due to the Generation II Virtual Console releases not having been announced at the time of Pokémon Sun and Moon's release. Starting in Pokémon Ultra Sun and Ultra Moon , they are instead displayed as being met in \"the Johto region in the good old days\". In Pokémon Brilliant Diamond and Shining Pearl and Pokémon Legends: Arceus , Pokémon from Pokémon Scarlet and Violet display as being met in a \"distant land\". However, in Pokémon Sword and Shield , Pokémon from later games instead display \"Faraway place\" as their met location and are displayed with the Sword and Shield origin mark . In the mobile version of Pokémon HOME , Pokémon obtained in Pokémon Dream Radar are displayed as being met in the Unova region (since their game of origin will necessarily be Pokémon Black 2 or White 2 ), but their specific met location is displayed as \"Distant Land\"."
+    },
+    {
+      "title": "In other languages",
+      "text": "In other languages [ edit | edit source ] Language Title Chinese Cantonese 遙遠的土地 Yìuhyúhn dīk tóudeih Mandarin 遙遠的土地 / 遥远的土地 Yáoyuǎn de tǔdì French Pays lointain German Fernes Land ( VII +) Entferntes Land ( IV - VI ) Fremde ( III ) Italian Terra lontana ( III , VII +) Terra Lontana ( IV - VI ) Korean 아주 먼 땅 Aju meon ttang ( VI +) 아주 먼 토지 Aju meon toji ( IV , V ) Spanish Tierra lejana ( IV +) Tierras lejanas ( III )"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Distant-Land",
+    "Distant Land",
+    "Distant-Land (location)"
+  ],
+  "updatedAt": 1773328837
+}

@@ -1,0 +1,16 @@
+{
+  "answerKey": "GRASSPELT",
+  "answerDisplay": "GRASS PELT",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen VI ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Grass_Pelt_(Ability)",
+  "extract": "Grass Pelt (Japanese: くさのけがわ Grass Pelt) is an Ability introduced in Generation VI. It is the signature Ability of Skiddo and Gogoat.",
+  "updatedAt": 1774258443
+}

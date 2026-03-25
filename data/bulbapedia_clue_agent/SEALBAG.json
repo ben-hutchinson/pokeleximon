@@ -1,0 +1,171 @@
+{
+  "answerKey": "SEALBAG",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4420665,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "unused",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Holds ten Seals for Pok Balls.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Restores 20 HP",
+        "evidence_ref": "lead",
+        "specificity": 0.88
+      },
+      {
+        "text": "Safari-zone capture tool",
+        "evidence_ref": "lead",
+        "specificity": 0.88
+      },
+      {
+        "text": "Special Poke Ball",
+        "evidence_ref": "lead",
+        "specificity": 0.68
+      },
+      {
+        "text": "Bug-Catching Contest ball",
+        "evidence_ref": "lead",
+        "specificity": 0.9
+      },
+      {
+        "text": "Poor catch rate on most targets",
+        "evidence_ref": "lead",
+        "specificity": 0.82
+      },
+      {
+        "text": "Used for berry recipes or blending",
+        "evidence_ref": "lead",
+        "specificity": 0.82
+      },
+      {
+        "text": "Restores HP in a pinch",
+        "evidence_ref": "lead",
+        "specificity": 0.84
+      },
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "lead",
+        "specificity": 0.74
+      },
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "lead",
+        "specificity": 0.8
+      },
+      {
+        "text": "Event-only distribution item",
+        "evidence_ref": "lead",
+        "specificity": 0.82
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Berry-blending ingredient",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "family"
+      },
+      {
+        "text": "Pinch-healing berry",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Half-HP recovery berry",
+        "evidence_ref": "lead",
+        "mystery_score": 0.7,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.66,
+        "specificity_score": 0.8,
+        "style": "family"
+      },
+      {
+        "text": "Exchangeable collectible",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.78,
+        "style": "family"
+      },
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Progress-gating key item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Event-only distribution item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.7,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Limited event key item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Opens The Pokdex Both During And Outside Of Battle",
+        "evidence_ref": "lead",
+        "mystery_score": 0.78,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Key for The Pokdex Both During And Outside Of Battle",
+        "evidence_ref": "lead",
+        "mystery_score": 0.7,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Special Poke Ball",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.68,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "berry ingredient",
+      "healing berry",
+      "exchange item",
+      "unlocking item"
+    ],
+    "connections_descriptors": [
+      "Special Poke Balls"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774258008
+}

@@ -1,0 +1,17 @@
+{
+  "answerKey": "SALACBERRY",
+  "answerDisplay": "SALAC BERRY",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this item, including added effects and where to find it.",
+  "score": 102.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/item/salac-berry",
+  "extract": "Berry, including added effects and where to find it.",
+  "rankPosition": 1,
+  "updatedAt": 1774212699
+}

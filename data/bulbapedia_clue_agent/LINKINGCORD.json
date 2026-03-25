@@ -1,0 +1,65 @@
+{
+  "answerKey": "LINKINGCORD",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4485885,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "evolution",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Allows a Pokemon whose evolution is usually triggered by trading to evolve",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Evolution item",
+        "evidence_ref": "lead",
+        "specificity": 0.76
+      },
+      {
+        "text": "Poor catch rate on most targets",
+        "evidence_ref": "Description",
+        "specificity": 0.82
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Evolution item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.76,
+        "style": "family"
+      },
+      {
+        "text": "Evolution-trigger item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.54,
+        "specificity_score": 0.8,
+        "style": "family"
+      },
+      {
+        "text": "Poor on most other targets",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "restriction"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "evolution item"
+    ],
+    "connections_descriptors": [
+      "Evolution items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257963
+}

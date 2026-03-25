@@ -1,0 +1,37 @@
+{
+  "answerKey": "IMPRISON",
+  "answerDisplay": "IMPRISON",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Imprison (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Imprison_(move)",
+  "pageId": 3897,
+  "pageRevisionId": 4500960,
+  "leadText": "Imprison (Japanese: ふういん Seal) is a non-damaging Psychic-type move introduced in Generation III. It was TM44 in Pokémon Sword and Shield, and is TM092 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] As long as the user remains in battle, opponents cannot use any move which is also known by the user. This includes opponents switched in after the move was used, and non-adjacent opponents in Triple Battles . Imprison applies only to the user's current moveset, including any new moves learned when leveling up in battle, or any moves acquired in battle by using Mimic , Sketch , or Transform . A Pokémon will use Struggle if it has no other available moves with PP remaining besides moves blocked by Imprison. Similarly, it will use Struggle if it is forced to use a single move by Encore or a held choice item but that move is blocked by Imprison. On the turn that Imprison is used, if an opposing Pokémon would move after Imprison is used and it selected a move the user knows that turn, it will be unable to use that move and will make no action that turn (i.e. PP for that move is not consumed). In this case, the affected Pokémon will not use Struggle. A move blocked by Imprison can still be called by Assist , Me First , Metronome , or Sleep Talk . However, Instruct fails when attempting to force a Pokémon to use a move blocked by Imprison. Imprison is unable to prevent opponents from using Struggle . Even though Imprison can be used in Max Raid Battles and Tera Raid Battles , the raid boss is immune to Imprison's effect. Imprison cannot be passed by Baton Pass . If powered up by a Psychium Z into Z-Imprison, the user's Special Defense stat is raised by two stages. Generations III and IV [ edit | edit source ] Imprison fails if no opponent possesses a move the user knows at the time Imprison is used. Imprison cannot be stolen by Snatch . Generation V onwards [ edit | edit source ] Imprison still works even if no opponent has a move the user knows. Although Imprison has no immediate effect in such a case, if the user or opponents change the moves they know (e.g. Mimic, Sketch, Transform, or learning a new move by leveling up) or a different opposing Pokémon enters the battle, it will be prevented from using the user's moves. Imprison can now be stolen by Snatch ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Prevents foes from using moves known by the user. FR LG Prevents foes from using any move that is also known by the user. Colo XD Prevents target from using moves known by the user. D P Pt HG SS PBR If the foe knows any move also known by the user, the foe is prevented from using it. B W B2 W2 If the opponents know any move also known by the user, the opponents are prevented from using it. X Y OR AS S M US UM P E Sw Sh BD SP LA S V If opposing Pokémon know any move also known by the user, they are prevented from using it."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts the Paused status on the target, making it incapable of action. MD T D S Afflicts the targeted enemy with a Paused status condition. A Pokémon with the Paused status is incapable of action. B S L てきポケモンを ようすみじょうたいにかえる ようすみじょうたいの ポケモンは こうどうできない MD GtI If enemies on the same floor know any moves also known by you, it seals them and prevents all enemies from using the moves. S MD If enemies on the same floor know any moves you also know, it has them sealed, preventing all enemies from using the moves."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The kanji featured in Imprison's Japanese animations is 封 , which is the first kanji of 封印 (ふういん Fūin (Seal)), which is its Japanese name. In Generation III , the status screen erroneously states that the move has 100% accuracy, even though it targets the user (thus it ignores accuracy and evasion checks)."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Imprison",
+    "Imprison (move)"
+  ],
+  "updatedAt": 1773323855
+}

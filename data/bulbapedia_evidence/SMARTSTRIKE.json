@@ -1,0 +1,38 @@
+{
+  "answerKey": "SMARTSTRIKE",
+  "answerDisplay": "SMART STRIKE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Smart Strike (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Smart_Strike_(move)",
+  "pageId": 218364,
+  "pageRevisionId": 4446763,
+  "leadText": "Smart Strike (Japanese: スマートホーン Smart Horn) is a damage-dealing Steel-type move introduced in Generation VII. It is: TM67 in Pokémon Sun and Moon and Pokémon Ultra Sun and Ultra Moon. TM96 in Pokémon Sword and Shield. TM053 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Smart Strike inflicts damage and bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh BD SP LA S V The user stabs the target with a sharp horn. This attack never misses."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD RT DX It damages an enemy. It never misses."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation VII , Togetic could learn Smart Strike by TM , but its Evolution Togekiss couldn't. This was fixed in Generation VIII ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Smart-Strike",
+    "Smart Strike",
+    "Smart-Strike (move)"
+  ],
+  "updatedAt": 1773327188
+}

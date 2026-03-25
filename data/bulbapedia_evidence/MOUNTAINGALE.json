@@ -1,0 +1,34 @@
+{
+  "answerKey": "MOUNTAINGALE",
+  "answerDisplay": "MOUNTAIN GALE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Mountain Gale (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mountain_Gale_(move)",
+  "pageId": 268721,
+  "pageRevisionId": 4409441,
+  "leadText": "Mountain Gale (Japanese: ひょうざんおろし Iceberg Drop) is a damage-dealing Ice-type move introduced during Generation VIII, in Pokémon Legends: Arceus. It is the signature move of Hisuian Avalugg.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Mountain Gale inflicts damage and lowers the user's action speed . Pokémon Legends: Arceus Category Physical PP 5 Agile Strong Power 100 80 120 Accuracy 85% 85% 95% Action speed modifier Self +5 +2 +8 Target +3 +5 +3 Additional effect ? ? ? ? ? ? Lowers the user's action speed Generation IX [ edit | edit source ] Mountain Gale's PP was changed to 10 and has a 30% chance of causing the target to flinch ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA The user hurls giant chunks of ice at the target to inflict damage. S V The user hurls giant chunks of ice at the target to inflict damage. This may also make the target flinch."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Mountain Gale’s Japanese name, ひょうざんおろし “Hyōzan Oroshi” (Iceberg Wind), has a double meaning, asthe word “oroshi” can refer both to a wind blowing down a mountain (颪) [ 1 ] and to the act of dropping something (下ろし). [ 2 ] The first meaning is supported by the translations of the move in other languages, which consistently associate it with wind, while the second meaning is supported by the move’s animation, which shows chunks of ice being dropped onto the foe. ↑ [1] ↑ [2]"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mountain-Gale",
+    "Mountain Gale",
+    "Mountain-Gale (move)"
+  ],
+  "updatedAt": 1773325187
+}

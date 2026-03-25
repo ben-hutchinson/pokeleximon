@@ -1,0 +1,37 @@
+{
+  "answerKey": "OVERHEAT",
+  "answerDisplay": "OVERHEAT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Overheat (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Overheat_(move)",
+  "pageId": 3926,
+  "pageRevisionId": 4470630,
+  "leadText": "Overheat (Japanese: オーバーヒート Overheat) is a damage-dealing Fire-type move introduced in Generation III. It is: TM50 from Generation III to Pokémon Ultra Sun and Ultra Moon, in Pokémon Brilliant Diamond and Shining Pearl, as well as in Pokémon Legends: Z-A. TR43 in Pokémon Sword and Shield. TM157 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III 1.2 Generations IV and V 1.3 Generation VI onwards 1.4 Generation VIII 1.4.1 Pokémon Legends: Arceus 1.5 Generation IX 1.5.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation III [ edit | edit source ] Overheat deals damage and lowers the user's Special Attack by two stages. Overheat makes contact with the target in this generation. Overheat can be used as the second move of a Pokémon Contest combination , with the user gaining 6 bonus appeal points if Sunny Day was used in the previous turn. Generations IV and V [ edit | edit source ] Overheat no longer makes contact with the target. Generation VI onwards [ edit | edit source ] Overheat's power was lowered from 140 to 130. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Overheat's power has been lowered to 110, and it lowers the user's offensive stats for three turns. Pokémon Legends: Arceus Category Special PP 5 Agile Strong Power 110 90 130 Accuracy 90% 90% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Turns 3 3 3 ? ? ? ? Lower's the user's offensive stats Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 130 156 Cooldown 10s Move wind-up time 15 frames Effect duration 30s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Allows a full-power attack, but sharply lowers Sp.Atk . (move) Enables full-power attack, but sharply lowers the Sp.Atk . (TM) FR LG An intense attack that also sharply reduces the user's Sp. Atk stat. Colo XD Allows a full-power attack, but sharply lowers Sp.Atk . D P Pt HG SS PBR The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat. (move) The user attacks the foe at full power using fiery energy. It also sharply reduces the user's Sp. Atk. (TM) B W B2 W2 The user attacks the target at full power. The attack's recoil harshly reduces the user's Sp. Atk stat. X Y OR AS S M US UM P E Sw Sh BD SP The user attacks the target at full power. The attack's recoil harshly lowers the user's Sp. Atk stat. LA The user attacks the target at full power. The recoil from this move lowers the user’s offensive stats. S V The user attacks the target with all its might. The recoil from this move harshly lowers the user's Sp. Atk stat. ZA The user attacks with all the power it can muster. The recoil will lower the user's Sp. Atk stat for a while."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Damages all foes around the user, but also lowers the user's Special Defense by two levels and thaws frozen Pokémon. MD T D S Inflicts damage on all enemies within a 1-tile range, but also reduces the user's Special Attack by 2 levels. It will thaw frozen Pokémon. B S L まわりの てきポケモンに ダメージをあたえるが じぶんの とくこうが ２だんかいさがる こおっていたポケモンは こおりがとける MD GtI It damages nearby enemies, but it also sharply lowers your Special Attack. (The stat change returns to normal when you go to the next floor or step on a Wonder Tile.) S MD It damages nearby enemies, but it also sharply lowers your Sp. Atk. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Overheat has the same description texts as Psycho Boost ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Overheat",
+    "Overheat (move)"
+  ],
+  "updatedAt": 1773325564
+}

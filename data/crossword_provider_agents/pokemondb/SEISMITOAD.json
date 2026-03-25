@@ -1,0 +1,17 @@
+{
+  "answerKey": "SEISMITOAD",
+  "answerDisplay": "SEISMITOAD",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Water / Ground type Pokémon introduced in Generation 5.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/seismitoad",
+  "extract": "Seismitoad is a Water / Ground type Pokémon introduced in Generation 5 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212770
+}

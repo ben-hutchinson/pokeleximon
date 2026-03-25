@@ -1,0 +1,128 @@
+{
+  "answerKey": "MORELULL",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4502809,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Grass/Fairy species from Gen VII",
+        "evidence_ref": "lead",
+        "specificity": 0.96
+      },
+      {
+        "text": "Fairy Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.76
+      },
+      {
+        "text": "white coloring",
+        "evidence_ref": "Biology",
+        "specificity": 0.74
+      },
+      {
+        "text": "35 base Attack",
+        "evidence_ref": "Game data",
+        "specificity": 0.8
+      },
+      {
+        "text": "15 base Speed",
+        "evidence_ref": "Game data",
+        "specificity": 0.78
+      },
+      {
+        "text": "35 Attack and 15 Speed",
+        "evidence_ref": "Game data",
+        "specificity": 0.9
+      },
+      {
+        "text": "Illuminating Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      },
+      {
+        "text": "Gen VII Illuminating Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "Purple Illuminating Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "Plant egg-group species",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "35 Attack, 15 Speed species",
+        "evidence_ref": "Game data",
+        "mystery_score": 0.66,
+        "specificity_score": 0.9,
+        "style": "stats"
+      },
+      {
+        "text": "Gen VII Grass/Fairy species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.7,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Fairy Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.48,
+        "specificity_score": 0.72,
+        "style": "signature"
+      },
+      {
+        "text": "Gen VII Illuminating Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.44,
+        "specificity_score": 0.66,
+        "style": "signature"
+      },
+      {
+        "text": "Purple Illuminating Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.64,
+        "style": "signature"
+      },
+      {
+        "text": "Plant egg-group species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.38,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "White Gen VII Grass/Fairy species",
+        "evidence_ref": "Biology",
+        "mystery_score": 0.5,
+        "specificity_score": 0.8,
+        "style": "visual_taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "grass/fairy species",
+      "fairy pokemon"
+    ],
+    "connections_descriptors": [
+      "Gen VII Grass/Fairy species",
+      "Fairy Pokemon",
+      "Gen VII species"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.82
+  },
+  "updatedAt": 1774257978
+}

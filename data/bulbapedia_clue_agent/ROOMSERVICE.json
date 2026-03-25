@@ -1,0 +1,57 @@
+{
+  "answerKey": "ROOMSERVICE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4266154,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "specificity": 0.7
+      },
+      {
+        "text": "held items",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen VIII held items",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Effect [ edit | edit source ] If the move Trick Room is used while a Pokemon is holding Room Service, the Room Service is consumed, causing the holder's Speed to drop by one stage. Additionally, Room Service will also be consumed if a Pokemon holding it switches in while Trick Room is already in effect, similar to Electric Seed and the other terrain seeds.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.46,
+        "specificity_score": 0.68,
+        "style": "category"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "battle item"
+    ],
+    "connections_descriptors": [
+      "Held battle items",
+      "Gen VIII items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774258003
+}

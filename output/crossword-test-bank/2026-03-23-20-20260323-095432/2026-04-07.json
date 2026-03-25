@@ -1,0 +1,5249 @@
+{
+  "date": "2026-04-07",
+  "entries": [
+    {
+      "answer": "PRIMARIUMZBAG",
+      "cells": [
+        [
+          3,
+          0
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          6,
+          0
+        ],
+        [
+          7,
+          0
+        ],
+        [
+          8,
+          0
+        ],
+        [
+          9,
+          0
+        ],
+        [
+          10,
+          0
+        ],
+        [
+          11,
+          0
+        ],
+        [
+          12,
+          0
+        ],
+        [
+          13,
+          0
+        ],
+        [
+          14,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "clue": "unused",
+      "direction": "across",
+      "enumeration": "9,1,3",
+      "id": "a1",
+      "length": 13,
+      "number": 1,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#PRIMARIUMZBAG"
+    },
+    {
+      "answer": "MEOWTH",
+      "cells": [
+        [
+          6,
+          0
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          3
+        ],
+        [
+          6,
+          4
+        ],
+        [
+          6,
+          5
+        ]
+      ],
+      "clue": "Ground egg-group species",
+      "direction": "down",
+      "enumeration": "6",
+      "id": "d2",
+      "length": 6,
+      "number": 2,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#MEOWTH"
+    },
+    {
+      "answer": "MAMOSWINEROAD",
+      "cells": [
+        [
+          11,
+          0
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          11,
+          2
+        ],
+        [
+          11,
+          3
+        ],
+        [
+          11,
+          4
+        ],
+        [
+          11,
+          5
+        ],
+        [
+          11,
+          6
+        ],
+        [
+          11,
+          7
+        ],
+        [
+          11,
+          8
+        ],
+        [
+          11,
+          9
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          11,
+          11
+        ],
+        [
+          11,
+          12
+        ]
+      ],
+      "clue": "Kalos route",
+      "direction": "down",
+      "enumeration": "9,4",
+      "id": "d3",
+      "length": 13,
+      "number": 3,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#MAMOSWINEROAD"
+    },
+    {
+      "answer": "AMAURA",
+      "cells": [
+        [
+          17,
+          0
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          17,
+          2
+        ],
+        [
+          17,
+          3
+        ],
+        [
+          17,
+          4
+        ],
+        [
+          17,
+          5
+        ]
+      ],
+      "clue": "Monster egg-group species",
+      "direction": "down",
+      "enumeration": "6",
+      "id": "d4",
+      "length": 6,
+      "number": 4,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#AMAURA"
+    },
+    {
+      "answer": "MELTAN",
+      "cells": [
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "clue": "No-Eggs egg-group species",
+      "direction": "across",
+      "enumeration": "6",
+      "id": "a5",
+      "length": 6,
+      "number": 5,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#MELTAN"
+    },
+    {
+      "answer": "WOOBAT",
+      "cells": [
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ],
+        [
+          8,
+          2
+        ],
+        [
+          9,
+          2
+        ]
+      ],
+      "clue": "Gen V Psychic/Flying species",
+      "direction": "across",
+      "enumeration": "6",
+      "id": "a6",
+      "length": 6,
+      "number": 6,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#WOOBAT"
+    },
+    {
+      "answer": "NORMALIUMZBAG",
+      "cells": [
+        [
+          10,
+          3
+        ],
+        [
+          11,
+          3
+        ],
+        [
+          12,
+          3
+        ],
+        [
+          13,
+          3
+        ],
+        [
+          14,
+          3
+        ],
+        [
+          15,
+          3
+        ],
+        [
+          16,
+          3
+        ],
+        [
+          17,
+          3
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          19,
+          3
+        ],
+        [
+          20,
+          3
+        ],
+        [
+          21,
+          3
+        ],
+        [
+          22,
+          3
+        ]
+      ],
+      "clue": "unused",
+      "direction": "across",
+      "enumeration": "9,1,3",
+      "id": "a7",
+      "length": 13,
+      "number": 7,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#NORMALIUMZBAG"
+    },
+    {
+      "answer": "SWALOT",
+      "cells": [
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          4
+        ]
+      ],
+      "clue": "Gen III Poison Bag Pokemon",
+      "direction": "across",
+      "enumeration": "6",
+      "id": "a8",
+      "length": 6,
+      "number": 8,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#SWALOT"
+    },
+    {
+      "answer": "SLOWPOKETAIL",
+      "cells": [
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          5
+        ],
+        [
+          10,
+          5
+        ],
+        [
+          11,
+          5
+        ],
+        [
+          12,
+          5
+        ],
+        [
+          13,
+          5
+        ],
+        [
+          14,
+          5
+        ],
+        [
+          15,
+          5
+        ],
+        [
+          16,
+          5
+        ],
+        [
+          17,
+          5
+        ],
+        [
+          18,
+          5
+        ],
+        [
+          19,
+          5
+        ]
+      ],
+      "clue": "unused",
+      "direction": "across",
+      "enumeration": "8,4",
+      "id": "a9",
+      "length": 12,
+      "number": 9,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#SLOWPOKETAIL"
+    },
+    {
+      "answer": "MAGIKARPCANDY",
+      "cells": [
+        [
+          2,
+          6
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          2,
+          9
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          2,
+          11
+        ],
+        [
+          2,
+          12
+        ],
+        [
+          2,
+          13
+        ],
+        [
+          2,
+          14
+        ],
+        [
+          2,
+          15
+        ],
+        [
+          2,
+          16
+        ],
+        [
+          2,
+          17
+        ],
+        [
+          2,
+          18
+        ]
+      ],
+      "clue": "Packed-energy stat booster",
+      "direction": "down",
+      "enumeration": "8,5",
+      "id": "d10",
+      "length": 13,
+      "number": 10,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#MAGIKARPCANDY"
+    },
+    {
+      "answer": "FUSIONFLARE",
+      "cells": [
+        [
+          5,
+          6
+        ],
+        [
+          5,
+          7
+        ],
+        [
+          5,
+          8
+        ],
+        [
+          5,
+          9
+        ],
+        [
+          5,
+          10
+        ],
+        [
+          5,
+          11
+        ],
+        [
+          5,
+          12
+        ],
+        [
+          5,
+          13
+        ],
+        [
+          5,
+          14
+        ],
+        [
+          5,
+          15
+        ],
+        [
+          5,
+          16
+        ]
+      ],
+      "clue": "Gen V Fire move",
+      "direction": "down",
+      "enumeration": "6,5",
+      "id": "d11",
+      "length": 11,
+      "number": 11,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#FUSIONFLARE"
+    },
+    {
+      "answer": "MOOROFICIRRUS",
+      "cells": [
+        [
+          21,
+          6
+        ],
+        [
+          21,
+          7
+        ],
+        [
+          21,
+          8
+        ],
+        [
+          21,
+          9
+        ],
+        [
+          21,
+          10
+        ],
+        [
+          21,
+          11
+        ],
+        [
+          21,
+          12
+        ],
+        [
+          21,
+          13
+        ],
+        [
+          21,
+          14
+        ],
+        [
+          21,
+          15
+        ],
+        [
+          21,
+          16
+        ],
+        [
+          21,
+          17
+        ],
+        [
+          21,
+          18
+        ]
+      ],
+      "clue": "Unova landmark",
+      "direction": "down",
+      "enumeration": "4,2,7",
+      "id": "d12",
+      "length": 13,
+      "number": 12,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#MOOROFICIRRUS"
+    },
+    {
+      "answer": "BASCULEGION",
+      "cells": [
+        [
+          1,
+          7
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          7
+        ],
+        [
+          5,
+          7
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          7
+        ],
+        [
+          8,
+          7
+        ],
+        [
+          9,
+          7
+        ],
+        [
+          10,
+          7
+        ],
+        [
+          11,
+          7
+        ]
+      ],
+      "clue": "Big Fish Pokemon",
+      "direction": "across",
+      "enumeration": "11",
+      "id": "a13",
+      "length": 11,
+      "number": 13,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#BASCULEGION"
+    },
+    {
+      "answer": "EISCUE",
+      "cells": [
+        [
+          7,
+          7
+        ],
+        [
+          7,
+          8
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          7,
+          10
+        ],
+        [
+          7,
+          11
+        ],
+        [
+          7,
+          12
+        ]
+      ],
+      "clue": "Penguin Pokemon",
+      "direction": "down",
+      "enumeration": "6",
+      "id": "d14",
+      "length": 6,
+      "number": 14,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#EISCUE"
+    },
+    {
+      "answer": "BANANA",
+      "cells": [
+        [
+          14,
+          7
+        ],
+        [
+          14,
+          8
+        ],
+        [
+          14,
+          9
+        ],
+        [
+          14,
+          10
+        ],
+        [
+          14,
+          11
+        ],
+        [
+          14,
+          12
+        ]
+      ],
+      "clue": "Berry-blending ingredient",
+      "direction": "down",
+      "enumeration": "6",
+      "id": "d15",
+      "length": 6,
+      "number": 15,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#BANANA"
+    },
+    {
+      "answer": "SHEDSKIN",
+      "cells": [
+        [
+          0,
+          8
+        ],
+        [
+          0,
+          9
+        ],
+        [
+          0,
+          10
+        ],
+        [
+          0,
+          11
+        ],
+        [
+          0,
+          12
+        ],
+        [
+          0,
+          13
+        ],
+        [
+          0,
+          14
+        ],
+        [
+          0,
+          15
+        ]
+      ],
+      "clue": "burning ability",
+      "direction": "down",
+      "enumeration": "4,4",
+      "id": "d16",
+      "length": 8,
+      "number": 16,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#SHEDSKIN"
+    },
+    {
+      "answer": "BLUNDERPOLICY",
+      "cells": [
+        [
+          16,
+          8
+        ],
+        [
+          16,
+          9
+        ],
+        [
+          16,
+          10
+        ],
+        [
+          16,
+          11
+        ],
+        [
+          16,
+          12
+        ],
+        [
+          16,
+          13
+        ],
+        [
+          16,
+          14
+        ],
+        [
+          16,
+          15
+        ],
+        [
+          16,
+          16
+        ],
+        [
+          16,
+          17
+        ],
+        [
+          16,
+          18
+        ],
+        [
+          16,
+          19
+        ],
+        [
+          16,
+          20
+        ]
+      ],
+      "clue": "Accuracy-only held item",
+      "direction": "down",
+      "enumeration": "7,6",
+      "id": "d17",
+      "length": 13,
+      "number": 17,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#BLUNDERPOLICY"
+    },
+    {
+      "answer": "DAZZLINGGLEAM",
+      "cells": [
+        [
+          18,
+          8
+        ],
+        [
+          18,
+          9
+        ],
+        [
+          18,
+          10
+        ],
+        [
+          18,
+          11
+        ],
+        [
+          18,
+          12
+        ],
+        [
+          18,
+          13
+        ],
+        [
+          18,
+          14
+        ],
+        [
+          18,
+          15
+        ],
+        [
+          18,
+          16
+        ],
+        [
+          18,
+          17
+        ],
+        [
+          18,
+          18
+        ],
+        [
+          18,
+          19
+        ],
+        [
+          18,
+          20
+        ]
+      ],
+      "clue": "Gen VI Fairy move",
+      "direction": "down",
+      "enumeration": "8,5",
+      "id": "d18",
+      "length": 13,
+      "number": 18,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#DAZZLINGGLEAM"
+    },
+    {
+      "answer": "SCREENCLEANER",
+      "cells": [
+        [
+          9,
+          9
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          11,
+          9
+        ],
+        [
+          12,
+          9
+        ],
+        [
+          13,
+          9
+        ],
+        [
+          14,
+          9
+        ],
+        [
+          15,
+          9
+        ],
+        [
+          16,
+          9
+        ],
+        [
+          17,
+          9
+        ],
+        [
+          18,
+          9
+        ],
+        [
+          19,
+          9
+        ],
+        [
+          20,
+          9
+        ],
+        [
+          21,
+          9
+        ]
+      ],
+      "clue": "Gen VIII ability",
+      "direction": "across",
+      "enumeration": "6,7",
+      "id": "a19",
+      "length": 13,
+      "number": 19,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#SCREENCLEANER"
+    },
+    {
+      "answer": "DRAGONIUMZBAG",
+      "cells": [
+        [
+          0,
+          11
+        ],
+        [
+          1,
+          11
+        ],
+        [
+          2,
+          11
+        ],
+        [
+          3,
+          11
+        ],
+        [
+          4,
+          11
+        ],
+        [
+          5,
+          11
+        ],
+        [
+          6,
+          11
+        ],
+        [
+          7,
+          11
+        ],
+        [
+          8,
+          11
+        ],
+        [
+          9,
+          11
+        ],
+        [
+          10,
+          11
+        ],
+        [
+          11,
+          11
+        ],
+        [
+          12,
+          11
+        ]
+      ],
+      "clue": "unused",
+      "direction": "across",
+      "enumeration": "9,1,3",
+      "id": "a20",
+      "length": 13,
+      "number": 20,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#DRAGONIUMZBAG"
+    },
+    {
+      "answer": "CUFANTTARNISH",
+      "cells": [
+        [
+          2,
+          14
+        ],
+        [
+          3,
+          14
+        ],
+        [
+          4,
+          14
+        ],
+        [
+          5,
+          14
+        ],
+        [
+          6,
+          14
+        ],
+        [
+          7,
+          14
+        ],
+        [
+          8,
+          14
+        ],
+        [
+          9,
+          14
+        ],
+        [
+          10,
+          14
+        ],
+        [
+          11,
+          14
+        ],
+        [
+          12,
+          14
+        ],
+        [
+          13,
+          14
+        ],
+        [
+          14,
+          14
+        ]
+      ],
+      "clue": "Exchangeable collectible",
+      "direction": "across",
+      "enumeration": "6,7",
+      "id": "a21",
+      "length": 13,
+      "number": 21,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#CUFANTTARNISH"
+    },
+    {
+      "answer": "INTREPIDSWORD",
+      "cells": [
+        [
+          1,
+          16
+        ],
+        [
+          2,
+          16
+        ],
+        [
+          3,
+          16
+        ],
+        [
+          4,
+          16
+        ],
+        [
+          5,
+          16
+        ],
+        [
+          6,
+          16
+        ],
+        [
+          7,
+          16
+        ],
+        [
+          8,
+          16
+        ],
+        [
+          9,
+          16
+        ],
+        [
+          10,
+          16
+        ],
+        [
+          11,
+          16
+        ],
+        [
+          12,
+          16
+        ],
+        [
+          13,
+          16
+        ]
+      ],
+      "clue": "boosting ability",
+      "direction": "across",
+      "enumeration": "8,5",
+      "id": "a22",
+      "length": 13,
+      "number": 22,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#INTREPIDSWORD"
+    },
+    {
+      "answer": "OREBURGHMINE",
+      "cells": [
+        [
+          7,
+          18
+        ],
+        [
+          8,
+          18
+        ],
+        [
+          9,
+          18
+        ],
+        [
+          10,
+          18
+        ],
+        [
+          11,
+          18
+        ],
+        [
+          12,
+          18
+        ],
+        [
+          13,
+          18
+        ],
+        [
+          14,
+          18
+        ],
+        [
+          15,
+          18
+        ],
+        [
+          16,
+          18
+        ],
+        [
+          17,
+          18
+        ],
+        [
+          18,
+          18
+        ]
+      ],
+      "clue": "Urban landmark",
+      "direction": "across",
+      "enumeration": "8,4",
+      "id": "a23",
+      "length": 12,
+      "number": 23,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#OREBURGHMINE"
+    },
+    {
+      "answer": "DROWZEECANDY",
+      "cells": [
+        [
+          5,
+          20
+        ],
+        [
+          6,
+          20
+        ],
+        [
+          7,
+          20
+        ],
+        [
+          8,
+          20
+        ],
+        [
+          9,
+          20
+        ],
+        [
+          10,
+          20
+        ],
+        [
+          11,
+          20
+        ],
+        [
+          12,
+          20
+        ],
+        [
+          13,
+          20
+        ],
+        [
+          14,
+          20
+        ],
+        [
+          15,
+          20
+        ],
+        [
+          16,
+          20
+        ]
+      ],
+      "clue": "Specific-species stat treat",
+      "direction": "across",
+      "enumeration": "7,5",
+      "id": "a24",
+      "length": 12,
+      "number": 24,
+      "sourceRef": "csv://wordlist_crossword_answer_clue.csv#DROWZEECANDY"
+    }
+  ],
+  "gameType": "crossword",
+  "grid": {
+    "cells": [
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 1,
+        "y": 0
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 2,
+        "y": 0
+      },
+      {
+        "entryIdAcross": "a1",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "P",
+        "x": 3,
+        "y": 0
+      },
+      {
+        "entryIdAcross": "a1",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "R",
+        "x": 4,
+        "y": 0
+      },
+      {
+        "entryIdAcross": "a1",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "I",
+        "x": 5,
+        "y": 0
+      },
+      {
+        "entryIdAcross": "a1",
+        "entryIdDown": "d2",
+        "isBlock": false,
+        "solution": "M",
+        "x": 6,
+        "y": 0
+      },
+      {
+        "entryIdAcross": "a1",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "A",
+        "x": 7,
+        "y": 0
+      },
+      {
+        "entryIdAcross": "a1",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "R",
+        "x": 8,
+        "y": 0
+      },
+      {
+        "entryIdAcross": "a1",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "I",
+        "x": 9,
+        "y": 0
+      },
+      {
+        "entryIdAcross": "a1",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "U",
+        "x": 10,
+        "y": 0
+      },
+      {
+        "entryIdAcross": "a1",
+        "entryIdDown": "d3",
+        "isBlock": false,
+        "solution": "M",
+        "x": 11,
+        "y": 0
+      },
+      {
+        "entryIdAcross": "a1",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "Z",
+        "x": 12,
+        "y": 0
+      },
+      {
+        "entryIdAcross": "a1",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "B",
+        "x": 13,
+        "y": 0
+      },
+      {
+        "entryIdAcross": "a1",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "A",
+        "x": 14,
+        "y": 0
+      },
+      {
+        "entryIdAcross": "a1",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "G",
+        "x": 15,
+        "y": 0
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 16,
+        "y": 0
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d4",
+        "isBlock": false,
+        "solution": "A",
+        "x": 17,
+        "y": 0
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 18,
+        "y": 0
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 19,
+        "y": 0
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 20,
+        "y": 0
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 21,
+        "y": 0
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 22,
+        "y": 0
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 0,
+        "y": 1
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 1,
+        "y": 1
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 2,
+        "y": 1
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 3,
+        "y": 1
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 4,
+        "y": 1
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 5,
+        "y": 1
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d2",
+        "isBlock": false,
+        "solution": "E",
+        "x": 6,
+        "y": 1
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 7,
+        "y": 1
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 8,
+        "y": 1
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 9,
+        "y": 1
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 10,
+        "y": 1
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d3",
+        "isBlock": false,
+        "solution": "A",
+        "x": 11,
+        "y": 1
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 12,
+        "y": 1
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 13,
+        "y": 1
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 14,
+        "y": 1
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 15,
+        "y": 1
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 16,
+        "y": 1
+      },
+      {
+        "entryIdAcross": "a5",
+        "entryIdDown": "d4",
+        "isBlock": false,
+        "solution": "M",
+        "x": 17,
+        "y": 1
+      },
+      {
+        "entryIdAcross": "a5",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "E",
+        "x": 18,
+        "y": 1
+      },
+      {
+        "entryIdAcross": "a5",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "L",
+        "x": 19,
+        "y": 1
+      },
+      {
+        "entryIdAcross": "a5",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "T",
+        "x": 20,
+        "y": 1
+      },
+      {
+        "entryIdAcross": "a5",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "A",
+        "x": 21,
+        "y": 1
+      },
+      {
+        "entryIdAcross": "a5",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "N",
+        "x": 22,
+        "y": 1
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 0,
+        "y": 2
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 1,
+        "y": 2
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 3,
+        "y": 2
+      },
+      {
+        "entryIdAcross": "a6",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "W",
+        "x": 4,
+        "y": 2
+      },
+      {
+        "entryIdAcross": "a6",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "O",
+        "x": 5,
+        "y": 2
+      },
+      {
+        "entryIdAcross": "a6",
+        "entryIdDown": "d2",
+        "isBlock": false,
+        "solution": "O",
+        "x": 6,
+        "y": 2
+      },
+      {
+        "entryIdAcross": "a6",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "B",
+        "x": 7,
+        "y": 2
+      },
+      {
+        "entryIdAcross": "a6",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "A",
+        "x": 8,
+        "y": 2
+      },
+      {
+        "entryIdAcross": "a6",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "T",
+        "x": 9,
+        "y": 2
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 10,
+        "y": 2
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d3",
+        "isBlock": false,
+        "solution": "M",
+        "x": 11,
+        "y": 2
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 12,
+        "y": 2
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 13,
+        "y": 2
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 14,
+        "y": 2
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 15,
+        "y": 2
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 16,
+        "y": 2
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d4",
+        "isBlock": false,
+        "solution": "A",
+        "x": 17,
+        "y": 2
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 18,
+        "y": 2
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 19,
+        "y": 2
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 20,
+        "y": 2
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 21,
+        "y": 2
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 22,
+        "y": 2
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 0,
+        "y": 3
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 1,
+        "y": 3
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 2,
+        "y": 3
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 3,
+        "y": 3
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 4,
+        "y": 3
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 5,
+        "y": 3
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d2",
+        "isBlock": false,
+        "solution": "W",
+        "x": 6,
+        "y": 3
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 7,
+        "y": 3
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 8,
+        "y": 3
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 9,
+        "y": 3
+      },
+      {
+        "entryIdAcross": "a7",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "N",
+        "x": 10,
+        "y": 3
+      },
+      {
+        "entryIdAcross": "a7",
+        "entryIdDown": "d3",
+        "isBlock": false,
+        "solution": "O",
+        "x": 11,
+        "y": 3
+      },
+      {
+        "entryIdAcross": "a7",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "R",
+        "x": 12,
+        "y": 3
+      },
+      {
+        "entryIdAcross": "a7",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "M",
+        "x": 13,
+        "y": 3
+      },
+      {
+        "entryIdAcross": "a7",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "A",
+        "x": 14,
+        "y": 3
+      },
+      {
+        "entryIdAcross": "a7",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "L",
+        "x": 15,
+        "y": 3
+      },
+      {
+        "entryIdAcross": "a7",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "I",
+        "x": 16,
+        "y": 3
+      },
+      {
+        "entryIdAcross": "a7",
+        "entryIdDown": "d4",
+        "isBlock": false,
+        "solution": "U",
+        "x": 17,
+        "y": 3
+      },
+      {
+        "entryIdAcross": "a7",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "M",
+        "x": 18,
+        "y": 3
+      },
+      {
+        "entryIdAcross": "a7",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "Z",
+        "x": 19,
+        "y": 3
+      },
+      {
+        "entryIdAcross": "a7",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "B",
+        "x": 20,
+        "y": 3
+      },
+      {
+        "entryIdAcross": "a7",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "A",
+        "x": 21,
+        "y": 3
+      },
+      {
+        "entryIdAcross": "a7",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "G",
+        "x": 22,
+        "y": 3
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 0,
+        "y": 4
+      },
+      {
+        "entryIdAcross": "a8",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "S",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "entryIdAcross": "a8",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "W",
+        "x": 2,
+        "y": 4
+      },
+      {
+        "entryIdAcross": "a8",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "A",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "entryIdAcross": "a8",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "L",
+        "x": 4,
+        "y": 4
+      },
+      {
+        "entryIdAcross": "a8",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "O",
+        "x": 5,
+        "y": 4
+      },
+      {
+        "entryIdAcross": "a8",
+        "entryIdDown": "d2",
+        "isBlock": false,
+        "solution": "T",
+        "x": 6,
+        "y": 4
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 7,
+        "y": 4
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 8,
+        "y": 4
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 9,
+        "y": 4
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 10,
+        "y": 4
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d3",
+        "isBlock": false,
+        "solution": "S",
+        "x": 11,
+        "y": 4
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 12,
+        "y": 4
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 13,
+        "y": 4
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 14,
+        "y": 4
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 15,
+        "y": 4
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 16,
+        "y": 4
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d4",
+        "isBlock": false,
+        "solution": "R",
+        "x": 17,
+        "y": 4
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 18,
+        "y": 4
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 19,
+        "y": 4
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 20,
+        "y": 4
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 21,
+        "y": 4
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 22,
+        "y": 4
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 0,
+        "y": 5
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 1,
+        "y": 5
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 2,
+        "y": 5
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 3,
+        "y": 5
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 4,
+        "y": 5
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 5,
+        "y": 5
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d2",
+        "isBlock": false,
+        "solution": "H",
+        "x": 6,
+        "y": 5
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 7,
+        "y": 5
+      },
+      {
+        "entryIdAcross": "a9",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "S",
+        "x": 8,
+        "y": 5
+      },
+      {
+        "entryIdAcross": "a9",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "L",
+        "x": 9,
+        "y": 5
+      },
+      {
+        "entryIdAcross": "a9",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "O",
+        "x": 10,
+        "y": 5
+      },
+      {
+        "entryIdAcross": "a9",
+        "entryIdDown": "d3",
+        "isBlock": false,
+        "solution": "W",
+        "x": 11,
+        "y": 5
+      },
+      {
+        "entryIdAcross": "a9",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "P",
+        "x": 12,
+        "y": 5
+      },
+      {
+        "entryIdAcross": "a9",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "O",
+        "x": 13,
+        "y": 5
+      },
+      {
+        "entryIdAcross": "a9",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "K",
+        "x": 14,
+        "y": 5
+      },
+      {
+        "entryIdAcross": "a9",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "E",
+        "x": 15,
+        "y": 5
+      },
+      {
+        "entryIdAcross": "a9",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "T",
+        "x": 16,
+        "y": 5
+      },
+      {
+        "entryIdAcross": "a9",
+        "entryIdDown": "d4",
+        "isBlock": false,
+        "solution": "A",
+        "x": 17,
+        "y": 5
+      },
+      {
+        "entryIdAcross": "a9",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "I",
+        "x": 18,
+        "y": 5
+      },
+      {
+        "entryIdAcross": "a9",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "L",
+        "x": 19,
+        "y": 5
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 20,
+        "y": 5
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 21,
+        "y": 5
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 22,
+        "y": 5
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 0,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 1,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d10",
+        "isBlock": false,
+        "solution": "M",
+        "x": 2,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 3,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 4,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d11",
+        "isBlock": false,
+        "solution": "F",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 6,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 7,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 8,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 9,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 10,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d3",
+        "isBlock": false,
+        "solution": "I",
+        "x": 11,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 12,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 13,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 14,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 15,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 16,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 17,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 18,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 19,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 20,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d12",
+        "isBlock": false,
+        "solution": "M",
+        "x": 21,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 22,
+        "y": 6
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 0,
+        "y": 7
+      },
+      {
+        "entryIdAcross": "a13",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "B",
+        "x": 1,
+        "y": 7
+      },
+      {
+        "entryIdAcross": "a13",
+        "entryIdDown": "d10",
+        "isBlock": false,
+        "solution": "A",
+        "x": 2,
+        "y": 7
+      },
+      {
+        "entryIdAcross": "a13",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "S",
+        "x": 3,
+        "y": 7
+      },
+      {
+        "entryIdAcross": "a13",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "C",
+        "x": 4,
+        "y": 7
+      },
+      {
+        "entryIdAcross": "a13",
+        "entryIdDown": "d11",
+        "isBlock": false,
+        "solution": "U",
+        "x": 5,
+        "y": 7
+      },
+      {
+        "entryIdAcross": "a13",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "L",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "entryIdAcross": "a13",
+        "entryIdDown": "d14",
+        "isBlock": false,
+        "solution": "E",
+        "x": 7,
+        "y": 7
+      },
+      {
+        "entryIdAcross": "a13",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "G",
+        "x": 8,
+        "y": 7
+      },
+      {
+        "entryIdAcross": "a13",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "I",
+        "x": 9,
+        "y": 7
+      },
+      {
+        "entryIdAcross": "a13",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "O",
+        "x": 10,
+        "y": 7
+      },
+      {
+        "entryIdAcross": "a13",
+        "entryIdDown": "d3",
+        "isBlock": false,
+        "solution": "N",
+        "x": 11,
+        "y": 7
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 12,
+        "y": 7
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 13,
+        "y": 7
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d15",
+        "isBlock": false,
+        "solution": "B",
+        "x": 14,
+        "y": 7
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 15,
+        "y": 7
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 16,
+        "y": 7
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 17,
+        "y": 7
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 18,
+        "y": 7
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 19,
+        "y": 7
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 20,
+        "y": 7
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d12",
+        "isBlock": false,
+        "solution": "O",
+        "x": 21,
+        "y": 7
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 22,
+        "y": 7
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d16",
+        "isBlock": false,
+        "solution": "S",
+        "x": 0,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 1,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d10",
+        "isBlock": false,
+        "solution": "G",
+        "x": 2,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 3,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 4,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d11",
+        "isBlock": false,
+        "solution": "S",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 6,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d14",
+        "isBlock": false,
+        "solution": "I",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 8,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 9,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 10,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d3",
+        "isBlock": false,
+        "solution": "E",
+        "x": 11,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 12,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 13,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d15",
+        "isBlock": false,
+        "solution": "A",
+        "x": 14,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 15,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d17",
+        "isBlock": false,
+        "solution": "B",
+        "x": 16,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 17,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d18",
+        "isBlock": false,
+        "solution": "D",
+        "x": 18,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 19,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 20,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d12",
+        "isBlock": false,
+        "solution": "O",
+        "x": 21,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 22,
+        "y": 8
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d16",
+        "isBlock": false,
+        "solution": "H",
+        "x": 0,
+        "y": 9
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 1,
+        "y": 9
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d10",
+        "isBlock": false,
+        "solution": "I",
+        "x": 2,
+        "y": 9
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 3,
+        "y": 9
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 4,
+        "y": 9
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d11",
+        "isBlock": false,
+        "solution": "I",
+        "x": 5,
+        "y": 9
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 6,
+        "y": 9
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d14",
+        "isBlock": false,
+        "solution": "S",
+        "x": 7,
+        "y": 9
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 8,
+        "y": 9
+      },
+      {
+        "entryIdAcross": "a19",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "S",
+        "x": 9,
+        "y": 9
+      },
+      {
+        "entryIdAcross": "a19",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "C",
+        "x": 10,
+        "y": 9
+      },
+      {
+        "entryIdAcross": "a19",
+        "entryIdDown": "d3",
+        "isBlock": false,
+        "solution": "R",
+        "x": 11,
+        "y": 9
+      },
+      {
+        "entryIdAcross": "a19",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "E",
+        "x": 12,
+        "y": 9
+      },
+      {
+        "entryIdAcross": "a19",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "E",
+        "x": 13,
+        "y": 9
+      },
+      {
+        "entryIdAcross": "a19",
+        "entryIdDown": "d15",
+        "isBlock": false,
+        "solution": "N",
+        "x": 14,
+        "y": 9
+      },
+      {
+        "entryIdAcross": "a19",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "C",
+        "x": 15,
+        "y": 9
+      },
+      {
+        "entryIdAcross": "a19",
+        "entryIdDown": "d17",
+        "isBlock": false,
+        "solution": "L",
+        "x": 16,
+        "y": 9
+      },
+      {
+        "entryIdAcross": "a19",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "E",
+        "x": 17,
+        "y": 9
+      },
+      {
+        "entryIdAcross": "a19",
+        "entryIdDown": "d18",
+        "isBlock": false,
+        "solution": "A",
+        "x": 18,
+        "y": 9
+      },
+      {
+        "entryIdAcross": "a19",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "N",
+        "x": 19,
+        "y": 9
+      },
+      {
+        "entryIdAcross": "a19",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "E",
+        "x": 20,
+        "y": 9
+      },
+      {
+        "entryIdAcross": "a19",
+        "entryIdDown": "d12",
+        "isBlock": false,
+        "solution": "R",
+        "x": 21,
+        "y": 9
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 22,
+        "y": 9
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d16",
+        "isBlock": false,
+        "solution": "E",
+        "x": 0,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 1,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d10",
+        "isBlock": false,
+        "solution": "K",
+        "x": 2,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 3,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 4,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d11",
+        "isBlock": false,
+        "solution": "O",
+        "x": 5,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 6,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d14",
+        "isBlock": false,
+        "solution": "C",
+        "x": 7,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 8,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 9,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 10,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d3",
+        "isBlock": false,
+        "solution": "O",
+        "x": 11,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 12,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 13,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d15",
+        "isBlock": false,
+        "solution": "A",
+        "x": 14,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 15,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d17",
+        "isBlock": false,
+        "solution": "U",
+        "x": 16,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 17,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d18",
+        "isBlock": false,
+        "solution": "Z",
+        "x": 18,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 19,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 20,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d12",
+        "isBlock": false,
+        "solution": "O",
+        "x": 21,
+        "y": 10
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 22,
+        "y": 10
+      },
+      {
+        "entryIdAcross": "a20",
+        "entryIdDown": "d16",
+        "isBlock": false,
+        "solution": "D",
+        "x": 0,
+        "y": 11
+      },
+      {
+        "entryIdAcross": "a20",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "R",
+        "x": 1,
+        "y": 11
+      },
+      {
+        "entryIdAcross": "a20",
+        "entryIdDown": "d10",
+        "isBlock": false,
+        "solution": "A",
+        "x": 2,
+        "y": 11
+      },
+      {
+        "entryIdAcross": "a20",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "G",
+        "x": 3,
+        "y": 11
+      },
+      {
+        "entryIdAcross": "a20",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "O",
+        "x": 4,
+        "y": 11
+      },
+      {
+        "entryIdAcross": "a20",
+        "entryIdDown": "d11",
+        "isBlock": false,
+        "solution": "N",
+        "x": 5,
+        "y": 11
+      },
+      {
+        "entryIdAcross": "a20",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "I",
+        "x": 6,
+        "y": 11
+      },
+      {
+        "entryIdAcross": "a20",
+        "entryIdDown": "d14",
+        "isBlock": false,
+        "solution": "U",
+        "x": 7,
+        "y": 11
+      },
+      {
+        "entryIdAcross": "a20",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "M",
+        "x": 8,
+        "y": 11
+      },
+      {
+        "entryIdAcross": "a20",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "Z",
+        "x": 9,
+        "y": 11
+      },
+      {
+        "entryIdAcross": "a20",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "B",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "entryIdAcross": "a20",
+        "entryIdDown": "d3",
+        "isBlock": false,
+        "solution": "A",
+        "x": 11,
+        "y": 11
+      },
+      {
+        "entryIdAcross": "a20",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "G",
+        "x": 12,
+        "y": 11
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 13,
+        "y": 11
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d15",
+        "isBlock": false,
+        "solution": "N",
+        "x": 14,
+        "y": 11
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 15,
+        "y": 11
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d17",
+        "isBlock": false,
+        "solution": "N",
+        "x": 16,
+        "y": 11
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 17,
+        "y": 11
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d18",
+        "isBlock": false,
+        "solution": "Z",
+        "x": 18,
+        "y": 11
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 19,
+        "y": 11
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 20,
+        "y": 11
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d12",
+        "isBlock": false,
+        "solution": "F",
+        "x": 21,
+        "y": 11
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 22,
+        "y": 11
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d16",
+        "isBlock": false,
+        "solution": "S",
+        "x": 0,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 1,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d10",
+        "isBlock": false,
+        "solution": "R",
+        "x": 2,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 3,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 4,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d11",
+        "isBlock": false,
+        "solution": "F",
+        "x": 5,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 6,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d14",
+        "isBlock": false,
+        "solution": "E",
+        "x": 7,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 8,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 9,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 10,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d3",
+        "isBlock": false,
+        "solution": "D",
+        "x": 11,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 12,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 13,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d15",
+        "isBlock": false,
+        "solution": "A",
+        "x": 14,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 15,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d17",
+        "isBlock": false,
+        "solution": "D",
+        "x": 16,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 17,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d18",
+        "isBlock": false,
+        "solution": "L",
+        "x": 18,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 19,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 20,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d12",
+        "isBlock": false,
+        "solution": "I",
+        "x": 21,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 22,
+        "y": 12
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d16",
+        "isBlock": false,
+        "solution": "K",
+        "x": 0,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 1,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d10",
+        "isBlock": false,
+        "solution": "P",
+        "x": 2,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 3,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 4,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d11",
+        "isBlock": false,
+        "solution": "L",
+        "x": 5,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 6,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 7,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 8,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 9,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 10,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 11,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 12,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 13,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 14,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 15,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d17",
+        "isBlock": false,
+        "solution": "E",
+        "x": 16,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 17,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d18",
+        "isBlock": false,
+        "solution": "I",
+        "x": 18,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 19,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 20,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d12",
+        "isBlock": false,
+        "solution": "C",
+        "x": 21,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 22,
+        "y": 13
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d16",
+        "isBlock": false,
+        "solution": "I",
+        "x": 0,
+        "y": 14
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 1,
+        "y": 14
+      },
+      {
+        "entryIdAcross": "a21",
+        "entryIdDown": "d10",
+        "isBlock": false,
+        "solution": "C",
+        "x": 2,
+        "y": 14
+      },
+      {
+        "entryIdAcross": "a21",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "U",
+        "x": 3,
+        "y": 14
+      },
+      {
+        "entryIdAcross": "a21",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "F",
+        "x": 4,
+        "y": 14
+      },
+      {
+        "entryIdAcross": "a21",
+        "entryIdDown": "d11",
+        "isBlock": false,
+        "solution": "A",
+        "x": 5,
+        "y": 14
+      },
+      {
+        "entryIdAcross": "a21",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "N",
+        "x": 6,
+        "y": 14
+      },
+      {
+        "entryIdAcross": "a21",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "T",
+        "x": 7,
+        "y": 14
+      },
+      {
+        "entryIdAcross": "a21",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "T",
+        "x": 8,
+        "y": 14
+      },
+      {
+        "entryIdAcross": "a21",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "A",
+        "x": 9,
+        "y": 14
+      },
+      {
+        "entryIdAcross": "a21",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "R",
+        "x": 10,
+        "y": 14
+      },
+      {
+        "entryIdAcross": "a21",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "N",
+        "x": 11,
+        "y": 14
+      },
+      {
+        "entryIdAcross": "a21",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "I",
+        "x": 12,
+        "y": 14
+      },
+      {
+        "entryIdAcross": "a21",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "S",
+        "x": 13,
+        "y": 14
+      },
+      {
+        "entryIdAcross": "a21",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "H",
+        "x": 14,
+        "y": 14
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 15,
+        "y": 14
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d17",
+        "isBlock": false,
+        "solution": "R",
+        "x": 16,
+        "y": 14
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 17,
+        "y": 14
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d18",
+        "isBlock": false,
+        "solution": "N",
+        "x": 18,
+        "y": 14
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 19,
+        "y": 14
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 20,
+        "y": 14
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d12",
+        "isBlock": false,
+        "solution": "I",
+        "x": 21,
+        "y": 14
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 22,
+        "y": 14
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d16",
+        "isBlock": false,
+        "solution": "N",
+        "x": 0,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 1,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d10",
+        "isBlock": false,
+        "solution": "A",
+        "x": 2,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 3,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 4,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d11",
+        "isBlock": false,
+        "solution": "R",
+        "x": 5,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 6,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 7,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 8,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 9,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 10,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 11,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 12,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 13,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 14,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 15,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d17",
+        "isBlock": false,
+        "solution": "P",
+        "x": 16,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 17,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d18",
+        "isBlock": false,
+        "solution": "G",
+        "x": 18,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 19,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 20,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d12",
+        "isBlock": false,
+        "solution": "R",
+        "x": 21,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 22,
+        "y": 15
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 0,
+        "y": 16
+      },
+      {
+        "entryIdAcross": "a22",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "I",
+        "x": 1,
+        "y": 16
+      },
+      {
+        "entryIdAcross": "a22",
+        "entryIdDown": "d10",
+        "isBlock": false,
+        "solution": "N",
+        "x": 2,
+        "y": 16
+      },
+      {
+        "entryIdAcross": "a22",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "T",
+        "x": 3,
+        "y": 16
+      },
+      {
+        "entryIdAcross": "a22",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "R",
+        "x": 4,
+        "y": 16
+      },
+      {
+        "entryIdAcross": "a22",
+        "entryIdDown": "d11",
+        "isBlock": false,
+        "solution": "E",
+        "x": 5,
+        "y": 16
+      },
+      {
+        "entryIdAcross": "a22",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "P",
+        "x": 6,
+        "y": 16
+      },
+      {
+        "entryIdAcross": "a22",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "I",
+        "x": 7,
+        "y": 16
+      },
+      {
+        "entryIdAcross": "a22",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "D",
+        "x": 8,
+        "y": 16
+      },
+      {
+        "entryIdAcross": "a22",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "S",
+        "x": 9,
+        "y": 16
+      },
+      {
+        "entryIdAcross": "a22",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "W",
+        "x": 10,
+        "y": 16
+      },
+      {
+        "entryIdAcross": "a22",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "O",
+        "x": 11,
+        "y": 16
+      },
+      {
+        "entryIdAcross": "a22",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "R",
+        "x": 12,
+        "y": 16
+      },
+      {
+        "entryIdAcross": "a22",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "D",
+        "x": 13,
+        "y": 16
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 14,
+        "y": 16
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 15,
+        "y": 16
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d17",
+        "isBlock": false,
+        "solution": "O",
+        "x": 16,
+        "y": 16
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 17,
+        "y": 16
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d18",
+        "isBlock": false,
+        "solution": "G",
+        "x": 18,
+        "y": 16
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 19,
+        "y": 16
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 20,
+        "y": 16
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d12",
+        "isBlock": false,
+        "solution": "R",
+        "x": 21,
+        "y": 16
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 22,
+        "y": 16
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 0,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 1,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d10",
+        "isBlock": false,
+        "solution": "D",
+        "x": 2,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 3,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 4,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 5,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 6,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 7,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 8,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 9,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 10,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 11,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 12,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 13,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 14,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 15,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d17",
+        "isBlock": false,
+        "solution": "L",
+        "x": 16,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 17,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d18",
+        "isBlock": false,
+        "solution": "L",
+        "x": 18,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 19,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 20,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d12",
+        "isBlock": false,
+        "solution": "U",
+        "x": 21,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 22,
+        "y": 17
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 0,
+        "y": 18
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 1,
+        "y": 18
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d10",
+        "isBlock": false,
+        "solution": "Y",
+        "x": 2,
+        "y": 18
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 3,
+        "y": 18
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 4,
+        "y": 18
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 5,
+        "y": 18
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 6,
+        "y": 18
+      },
+      {
+        "entryIdAcross": "a23",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "O",
+        "x": 7,
+        "y": 18
+      },
+      {
+        "entryIdAcross": "a23",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "R",
+        "x": 8,
+        "y": 18
+      },
+      {
+        "entryIdAcross": "a23",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "E",
+        "x": 9,
+        "y": 18
+      },
+      {
+        "entryIdAcross": "a23",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "B",
+        "x": 10,
+        "y": 18
+      },
+      {
+        "entryIdAcross": "a23",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "U",
+        "x": 11,
+        "y": 18
+      },
+      {
+        "entryIdAcross": "a23",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "R",
+        "x": 12,
+        "y": 18
+      },
+      {
+        "entryIdAcross": "a23",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "G",
+        "x": 13,
+        "y": 18
+      },
+      {
+        "entryIdAcross": "a23",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "H",
+        "x": 14,
+        "y": 18
+      },
+      {
+        "entryIdAcross": "a23",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "M",
+        "x": 15,
+        "y": 18
+      },
+      {
+        "entryIdAcross": "a23",
+        "entryIdDown": "d17",
+        "isBlock": false,
+        "solution": "I",
+        "x": 16,
+        "y": 18
+      },
+      {
+        "entryIdAcross": "a23",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "N",
+        "x": 17,
+        "y": 18
+      },
+      {
+        "entryIdAcross": "a23",
+        "entryIdDown": "d18",
+        "isBlock": false,
+        "solution": "E",
+        "x": 18,
+        "y": 18
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 19,
+        "y": 18
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 20,
+        "y": 18
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d12",
+        "isBlock": false,
+        "solution": "S",
+        "x": 21,
+        "y": 18
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 22,
+        "y": 18
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 0,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 1,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 2,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 3,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 4,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 5,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 6,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 7,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 8,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 9,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 10,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 11,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 12,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 13,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 14,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 15,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d17",
+        "isBlock": false,
+        "solution": "C",
+        "x": 16,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 17,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d18",
+        "isBlock": false,
+        "solution": "A",
+        "x": 18,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 19,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 20,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 21,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 22,
+        "y": 19
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 0,
+        "y": 20
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 1,
+        "y": 20
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 2,
+        "y": 20
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 3,
+        "y": 20
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 4,
+        "y": 20
+      },
+      {
+        "entryIdAcross": "a24",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "D",
+        "x": 5,
+        "y": 20
+      },
+      {
+        "entryIdAcross": "a24",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "R",
+        "x": 6,
+        "y": 20
+      },
+      {
+        "entryIdAcross": "a24",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "O",
+        "x": 7,
+        "y": 20
+      },
+      {
+        "entryIdAcross": "a24",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "W",
+        "x": 8,
+        "y": 20
+      },
+      {
+        "entryIdAcross": "a24",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "Z",
+        "x": 9,
+        "y": 20
+      },
+      {
+        "entryIdAcross": "a24",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "E",
+        "x": 10,
+        "y": 20
+      },
+      {
+        "entryIdAcross": "a24",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "E",
+        "x": 11,
+        "y": 20
+      },
+      {
+        "entryIdAcross": "a24",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "C",
+        "x": 12,
+        "y": 20
+      },
+      {
+        "entryIdAcross": "a24",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "A",
+        "x": 13,
+        "y": 20
+      },
+      {
+        "entryIdAcross": "a24",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "N",
+        "x": 14,
+        "y": 20
+      },
+      {
+        "entryIdAcross": "a24",
+        "entryIdDown": null,
+        "isBlock": false,
+        "solution": "D",
+        "x": 15,
+        "y": 20
+      },
+      {
+        "entryIdAcross": "a24",
+        "entryIdDown": "d17",
+        "isBlock": false,
+        "solution": "Y",
+        "x": 16,
+        "y": 20
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 17,
+        "y": 20
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": "d18",
+        "isBlock": false,
+        "solution": "M",
+        "x": 18,
+        "y": 20
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 19,
+        "y": 20
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 20,
+        "y": 20
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 21,
+        "y": 20
+      },
+      {
+        "entryIdAcross": null,
+        "entryIdDown": null,
+        "isBlock": true,
+        "solution": null,
+        "x": 22,
+        "y": 20
+      }
+    ],
+    "height": 21,
+    "width": 23
+  },
+  "id": "puz_crossword_20260407_a43dd100e4",
+  "metadata": {
+    "difficulty": "hard",
+    "generatorVersion": "reserve-generator-0.3",
+    "qualityReport": {
+      "hardFailures": [],
+      "isPublishable": true,
+      "metrics": {
+        "acrossCount": 13,
+        "clueLeakCount": 0,
+        "directionBalance": 0.8462,
+        "disallowedClueCount": 0,
+        "downCount": 11,
+        "entryCount": 24,
+        "fillRatio": 0.4576,
+        "hasPokemonTheme": true,
+        "intersectionRatio": 0.1357,
+        "shortAnswerRatio": 0.0,
+        "uniqueAnswerRatio": 1.0,
+        "uniqueClueRatio": 0.875,
+        "wordLengthStdDev": 3.0548
+      },
+      "score": 58.05,
+      "thresholds": {
+        "fillRatioMax": 0.82,
+        "fillRatioMin": 0.45,
+        "maxShortAnswerRatio": 0.5,
+        "minDirectionBalance": 0.3,
+        "minEntryCount": 12,
+        "minIntersectionRatio": 0.12,
+        "minUniqueClueRatio": 0.85,
+        "minWordLengthStdDev": 0.75
+      },
+      "warnings": [
+        "fill_ratio_sparse"
+      ]
+    },
+    "source": "curated",
+    "themeTags": [
+      "pokemon",
+      "worksheet",
+      "crossword"
+    ]
+  },
+  "qualityAttemptsUsed": 1,
+  "qualityBypassed": false,
+  "qualityReport": {
+    "hardFailures": [],
+    "isPublishable": true,
+    "metrics": {
+      "acrossCount": 13,
+      "clueLeakCount": 0,
+      "directionBalance": 0.8462,
+      "disallowedClueCount": 0,
+      "downCount": 11,
+      "entryCount": 24,
+      "fillRatio": 0.4576,
+      "hasPokemonTheme": true,
+      "intersectionRatio": 0.1357,
+      "shortAnswerRatio": 0.0,
+      "uniqueAnswerRatio": 1.0,
+      "uniqueClueRatio": 0.875,
+      "wordLengthStdDev": 3.0548
+    },
+    "score": 58.05,
+    "thresholds": {
+      "fillRatioMax": 0.82,
+      "fillRatioMin": 0.45,
+      "maxShortAnswerRatio": 0.5,
+      "minDirectionBalance": 0.3,
+      "minEntryCount": 12,
+      "minIntersectionRatio": 0.12,
+      "minUniqueClueRatio": 0.85,
+      "minWordLengthStdDev": 0.75
+    },
+    "warnings": [
+      "fill_ratio_sparse"
+    ]
+  },
+  "timezone": "Europe/London",
+  "title": "Crossword Reserve 2026-04-07 \u00b7 Worksheet"
+}

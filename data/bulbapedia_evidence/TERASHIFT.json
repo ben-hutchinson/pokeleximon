@@ -1,0 +1,30 @@
+{
+  "answerKey": "TERASHIFT",
+  "answerDisplay": "TERA SHIFT",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Tera Shift (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tera_Shift_(Ability)",
+  "pageId": 300827,
+  "pageRevisionId": 4297828,
+  "leadText": "Tera Shift (Japanese: テラスチェンジ Tera Change) is an Ability introduced during Generation IX, in The Indigo Disk. It is one of the signature Abilities of Terapagos.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When Terapagos enters the battle, it turns into its Terastal Form until the end of the battle. Tera Shift cannot be copied by Trace , Power of Alchemy , or Receiver . Tera Shift cannot be replaced by Lingering Aroma , or suppressed by Neutralizing Gas . Outside of battle [ edit | edit source ] In Auto Battles , Terapagos will first change into its Terastal Form before attacking the wild Pokémon."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When Terapagos enters the battle, it turns into its Terastal Form until the end of the battle. Tera Shift cannot be copied by Trace , Power of Alchemy , or Receiver . Tera Shift cannot be replaced by Lingering Aroma , or suppressed by Neutralizing Gas ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Tera-Shift",
+    "Tera Shift",
+    "Tera-Shift (Ability)"
+  ],
+  "updatedAt": 1773329274
+}

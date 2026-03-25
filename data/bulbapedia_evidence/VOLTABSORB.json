@@ -1,0 +1,34 @@
+{
+  "answerKey": "VOLTABSORB",
+  "answerDisplay": "VOLT ABSORB",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Volt Absorb (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Volt_Absorb_(Ability)",
+  "pageId": 4087,
+  "pageRevisionId": 4433632,
+  "leadText": "Volt Absorb (Japanese: ちくでん Electricity Storage) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokémon with Volt Absorb is hit by a damaging Electric-type move , its HP is restored by one quarter of its maximum HP, and the move will have no effect on that Pokémon (if a Pokémon with this Ability already has full HP, the Electric-type move will do nothing). Volt Absorb will not activate if the Pokémon is protected from the Electric-type move. Generation IV onward [ edit | edit source ] Volt Absorb will now also activate when a Pokémon with it is hit by an Electric-type status move . Multistrike moves that are turned into Electric-type moves, such as by being affected by Electrify or Galvanize , will only activate this Ability once. If a Pokémon with Volt Absorb is holding a Cell Battery , Volt Absorb absorbs the move, so the Cell Battery's effect is not triggered. Outside of battle [ edit | edit source ] Volt Absorb has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokémon with Volt Absorb is hit by a damaging Electric-type move , its HP is restored by one quarter of its maximum HP, and the move will have no effect on that Pokémon (if a Pokémon with this Ability already has full HP, the Electric-type move will do nothing). Volt Absorb will not activate if the Pokémon is protected from the Electric-type move. Generation IV onward [ edit | edit source ] Volt Absorb will now also activate when a Pokémon with it is hit by an Electric-type status move . Multistrike moves that are turned into Electric-type moves, such as by being affected by Electrify or Galvanize , will only activate this Ability once. If a Pokémon with Volt Absorb is holding a Cell Battery , Volt Absorb absorbs the move, so the Cell Battery's effect is not triggered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Restores HP if damaged by an Electric-type move. MD T D S Restores the Pokémon's HP if the Pokémon is hit by an Electric-type move. B S L でんきタイプの わざの ダメージをうけると ＨＰが かいふくする Conq. Restores HP if hit by an Electric-type move. MD GtI Electric-type moves restore HP instead of damaging the Pokémon. * The Pokémon absorbs Electric-type moves, which restore its HP! * S MD The Pokémon absorbs Electric-type moves, which restore its HP! MD RT DX The Pokémon absorbs Electric-type moves to restore its HP."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Volt-Absorb",
+    "Volt Absorb",
+    "Volt-Absorb (Ability)"
+  ],
+  "updatedAt": 1773328345
+}

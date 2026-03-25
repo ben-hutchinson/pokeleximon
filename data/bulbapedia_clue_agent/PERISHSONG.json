@@ -1,0 +1,53 @@
+{
+  "answerKey": "PERISHSONG",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4469862,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen II Normal move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Normal status move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "User and target both faint after three turns.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Normal status move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen II Normal move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "normal status move"
+    ],
+    "connections_descriptors": [
+      "Normal Status moves"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257991
+}

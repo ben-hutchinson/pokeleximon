@@ -1,0 +1,38 @@
+{
+  "answerKey": "SMELLINGSALTS",
+  "answerDisplay": "SMELLING SALTS",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Smelling Salts (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Smelling_Salts_(move)",
+  "pageId": 3876,
+  "pageRevisionId": 4500888,
+  "leadText": "Smelling Salts (Japanese: きつけ Resuscitation), named SmellingSalt prior to Pokémon X and Y, is a damage-dealing Normal-type move introduced in Generation III. It is the signature move of Makuhita and Hariyama, but other Pokémon can still inherit it via breeding.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III to V 1.2 Generations VI and VII 1.3 Generation VIII onwards Effect [ edit | edit source ] Generation III to V [ edit | edit source ] SmellingSalt deals damage. Its base power of 60 will double against a paralyzed target, but it will also cure the target of paralysis. If the target has a substitute , it only does normal damage (paralysis cannot be cured and power is not doubled). Generations VI and VII [ edit | edit source ] The name of this move was changed from SmellingSalt to Smelling Salts. The base power of Smelling Salts is increased to 70. Smelling Salts can also be used as part of a Contest Spectacular combination , giving the user an extra three appeal points if a certain move ( Force Palm , Glare , Nuzzle , Stun Spore , Thunder Wave or Zap Cannon ) was used in the prior turn. Generation VIII onwards [ edit | edit source ] Smelling Salts cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Powerful against paralyzed foes, but also heals them. FR LG Doubly effective on a paralyzed foe, but it also cures the foe's paralysis. Colo XD Strong against paralyzed targets, also heals them. D P Pt HG SS PBR This attack inflicts double damage on a paralyzed foe. It also cures the foe's paralysis, however. B W B2 W2 This attack inflicts double damage on a target with paralysis. It also cures the target's paralysis, however. X Y OR AS This attack inflicts double damage on a target with paralysis. This also cures the target's paralysis, however. S M US UM P E This attack's power is doubled when used on a target with paralysis. This also cures the target's paralysis, however. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It inflicts greater damage if the target has paralysis, but it also heals paralysis. MD T D S Inflicts damage on the target, doing more if it has a Paralysis status, but it will then heal the target's Paralysis status. B S L てきポケモンに ダメージをあたえる あいてが まひじょうたいなら ダメージが おおきくなるが まひじょうたいは なおってしまう MD GtI UNUSED S MD It damages an enemy. It causes more damage if the enemy has paralysis, but it heals the paralysis."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Despite real-life smelling salts restoring consciousness, Smelling Salts cures paralysis. Another move, Wake-Up Slap , does this instead. Smelling Salts curing paralysis may be reference to its Japanese name, Resuscitation , the process of using cardiopulmonary resuscitation (CPR) to rescue paralyzed patients in place of mechanical ventilators."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Smelling-Salts",
+    "Smelling Salts",
+    "Smelling-Salts (move)"
+  ],
+  "updatedAt": 1773327193
+}

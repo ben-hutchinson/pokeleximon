@@ -1,0 +1,16 @@
+{
+  "answerKey": "FROSTBITE",
+  "answerDisplay": "FROSTBITE",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen V ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Status_condition",
+  "extract": "Status redirects here. For the move category, see status move. Status conditions (Japanese: 状態異常 abnormal condition), also referred to as status problems or status ailments, affect a Pokémon's ability to battle. There are two kinds of status conditions, non-volatile which last until healed, and volatile which last while a Pokémon is in battle. Having Pokérus and being fainted are displayed identically to non-volatile status conditions but are not officially considered such.",
+  "updatedAt": 1774258442
+}

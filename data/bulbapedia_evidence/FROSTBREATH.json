@@ -1,0 +1,38 @@
+{
+  "answerKey": "FROSTBREATH",
+  "answerDisplay": "FROST BREATH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Frost Breath (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Frost_Breath_(move)",
+  "pageId": 117451,
+  "pageRevisionId": 4462241,
+  "leadText": "Frost Breath (Japanese: こおりのいぶき Ice Breath) is a damage-dealing Ice-type move introduced in Generation V. It is TM79 from Generation V to Pokémon Ultra Sun and Ultra Moon and TM138 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation V [ edit | edit source ] Frost Breath inflicts damage and will always result in a critical hit unless the target has Battle Armor , Shell Armor , or is under the effect of Lucky Chant . Generation VI onwards [ edit | edit source ] Frost Breath's power was increased from 40 to 60, coinciding with critical hits now dealing 1.5× damage instead of 2× damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user blows a cold breath on the target. This attack always results in a critical hit. X Y OR AS S M US UM P E Sw Sh BD SP LA The user blows its cold breath on the target. This attack always results in a critical hit. S V The user attacks by blowing its cold breath on the target. This move always lands a critical hit. ZA The user attacks by blowing its cold breath on targets. This move always lands a critical hit."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI S MD MD RT DX It damages an enemy. It always results in a critical hit."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Regice and Snover can learn Frost Breath, despite having no visible orifice from which to expel breath. Frost Breath is the only special move with a perfect critical-hit ratio."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Frost-Breath",
+    "Frost Breath",
+    "Frost-Breath (move)"
+  ],
+  "updatedAt": 1773323031
+}

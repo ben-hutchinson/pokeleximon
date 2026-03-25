@@ -1,0 +1,103 @@
+{
+  "answerKey": "SHEDSHELL",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4484497,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "specificity": 0.7
+      },
+      {
+        "text": "held items",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen IV held items",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Held: Holder can bypass all trapping effects and switch out. Multi-turn moves still cannot be switched out of.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Bug-Catching Contest ball",
+        "evidence_ref": "lead",
+        "specificity": 0.9
+      },
+      {
+        "text": "Boosts recovery from draining effects",
+        "evidence_ref": "Description",
+        "specificity": 0.86
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Bug-Catching Contest ball",
+        "evidence_ref": "lead",
+        "mystery_score": 0.76,
+        "specificity_score": 0.9,
+        "style": "family"
+      },
+      {
+        "text": "National Park contest ball",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.88,
+        "style": "family"
+      },
+      {
+        "text": "Boosts recovery from draining moves",
+        "evidence_ref": "Description",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Drain-healing boost item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Increases Ingrain and Aqua Ring recovery",
+        "evidence_ref": "Description",
+        "mystery_score": 0.62,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.46,
+        "specificity_score": 0.68,
+        "style": "category"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "contest ball",
+      "recovery booster"
+    ],
+    "connections_descriptors": [
+      "Held battle items",
+      "Gen IV items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774258010
+}

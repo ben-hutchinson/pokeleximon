@@ -1,0 +1,34 @@
+{
+  "answerKey": "SOLARPOWER",
+  "answerDisplay": "SOLAR POWER",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Solar Power (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Solar_Power_(Ability)",
+  "pageId": 16166,
+  "pageRevisionId": 4446810,
+  "leadText": "Solar Power (Japanese: サンパワー Sun Power) is an Ability introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] During harsh sunlight , Solar Power increases the Pokémon's Special Attack by 1.5×, but the Pokémon loses 1/8 of its maximum HP at the end of each turn, if harsh sunlight does not end that turn. Outside of battle [ edit | edit source ] Solar Power has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] During harsh sunlight , Solar Power increases the Pokémon's Special Attack by 1.5×, but the Pokémon loses 1/8 of its maximum HP at the end of each turn, if harsh sunlight does not end that turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Boosts Special Attack in sunny weather, though the Pokémon also loses HP. B S L ひざしがつよい てんきだと ダメージをうけるが とくこうがあがる MD GtI Unavailable S MD When it's sunny or in harsh sunlight, the Pokémon's Sp. Atk goes up sharply, but the Pokémon can't restore its HP naturally and keeps taking damage! MD RT DX During Sunny weather or in Extremely Harsh Sunlight, the Pokémon's Sp. Atk goes up sharply, but the Pokémon can't restore its HP naturally and keeps taking damage."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Solar-Power",
+    "Solar Power",
+    "Solar-Power (Ability)"
+  ],
+  "updatedAt": 1773329219
+}

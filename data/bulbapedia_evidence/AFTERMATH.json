@@ -1,0 +1,33 @@
+{
+  "answerKey": "AFTERMATH",
+  "answerDisplay": "AFTERMATH",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Aftermath (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Aftermath_(Ability)",
+  "pageId": 17625,
+  "pageRevisionId": 4512477,
+  "leadText": "Aftermath (Japanese: ゆうばく Induced Explosion) is an Ability introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with this Ability faints due to damage from a move that makes contact , the attacking Pokémon takes damage equal to ¼ of its own maximum HP. This Ability will not activate if a Pokémon with Damp is on the field or if the Pokemon was knocked out by a move that dealt direct damage . Outside of battle [ edit | edit source ] Aftermath has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with this Ability faints due to damage from a move that makes contact , the attacking Pokémon takes damage equal to ¼ of its own maximum HP. This Ability will not activate if a Pokémon with Damp is on the field or if the Pokemon was knocked out by a move that dealt direct damage ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Causes the Pokémon to explode upon fainting. B S L このポケモンが たおれたときに ばくはつする MD GtI Unavailable S MD When the Pokémon takes huge damage from a contact move like Tackle or Scratch, it counterattacks to damage the enemy! If the Pokémon is hit by an explosion, it will explode, too!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Aftermath",
+    "Aftermath (Ability)"
+  ],
+  "updatedAt": 1774213514
+}

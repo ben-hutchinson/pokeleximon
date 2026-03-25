@@ -1,0 +1,17 @@
+{
+  "answerKey": "STUNKY",
+  "answerDisplay": "STUNKY",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Poison / Dark type Pokémon introduced in Generation 4.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/stunky",
+  "extract": "Stunky is a Poison / Dark type Pokémon introduced in Generation 4 .",
+  "rankPosition": 1,
+  "updatedAt": 1774213070
+}

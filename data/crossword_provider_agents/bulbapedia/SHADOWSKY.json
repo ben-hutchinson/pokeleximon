@@ -1,0 +1,16 @@
+{
+  "answerKey": "SHADOWSKY",
+  "answerDisplay": "SHADOW SKY",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Battlefield weather move",
+  "score": 107.72,
+  "approved": true,
+  "qualityFlags": [
+    "unknown_evidence_ref"
+  ],
+  "evidenceRef": "title",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Sky_(move)",
+  "extract": "Shadow Sky (Japanese: ダークウェザー Dark Weather) is one of several Shadow moves available only in Pokémon XD: Gale of Darkness. Like other Shadow moves, it is forgotten and replaced with another move once the Pokémon is purified.",
+  "updatedAt": 1774258402
+}

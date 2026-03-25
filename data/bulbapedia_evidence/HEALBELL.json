@@ -1,0 +1,34 @@
+{
+  "answerKey": "HEALBELL",
+  "answerDisplay": "HEAL BELL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Heal Bell (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Heal_Bell_(move)",
+  "pageId": 3826,
+  "pageRevisionId": 4406733,
+  "leadText": "Heal Bell (Japanese: いやしのすず Heal Bell) is a non-damaging Normal-type move introduced in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations III and IV 1.2 Generation V 1.3 Generation VI 1.4 Generation VII 1.5 Generation VIII onward Effect [ edit | edit source ] Heal Bell cures the user, all Pokémon in the user's party, and the user's allies, of all status conditions ( sleep , poison , paralysis , freeze , and burn ). Heal Bell affects Pokémon even if they are behind a substitute . Heal Bell is a sound-based move . Generations III and IV [ edit | edit source ] Heal Bell does not affect Pokémon with the Ability Soundproof , including inactive Pokémon. Generation V [ edit | edit source ] Heal Bell now lists Pokémon that are healed. Heal Bell can affect Pokémon with the Ability Soundproof. Generation VI [ edit | edit source ] Heal Bell no longer affects active Pokémon with the Ability Soundproof. Inactive Pokémon are healed regardless of Abilities. Generation VII [ edit | edit source ] If powered up by a Normalium Z into Z-Heal Bell, the user regains all of its HP. Throat Chop cannot prevent a Pokémon from using Z-Heal Bell. Generation VIII onward [ edit | edit source ] Heal Bell now always affects the user, even if it has Soundproof; however, other active Pokémon with Soundproof are still unaffected by it."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 The soothing ringing of a bell that eliminates all status problems for the entire party. G S C Eliminates all status problems. R S E Colo XD Chimes soothingly to heal all status abnormalities. FR LG A soothing bell chimes to heal the status problems of all allies. D P Pt HG SS PBR B W B2 W2 The user makes a soothing bell chime to heal the status problems of all the party Pokémon. X Y OR AS S M US UM P E Sw Sh BD SP LA The user makes a soothing bell chime to heal the status conditions of all the party Pokémon. S V The user makes a soothing bell chime to cure the status conditions of all its fellow party Pokémon and allies."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Heals all status problems of the user and team members in the room. MD T D S Heals all status problems of the user and team members in the room. B S L おなじへやの なかまポケモンと じぶんの わるいじょうたいを すべてかいふくする MD GtI UNUSED S MD If you and your teammates in the same room have any bad status conditions, all of the bad status conditions will be removed. MD RT DX If you and your teammates in the same room have any bad statuses, all the bad statuses will be removed."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Heal-Bell",
+    "Heal Bell",
+    "Heal-Bell (move)"
+  ],
+  "updatedAt": 1773323561
+}

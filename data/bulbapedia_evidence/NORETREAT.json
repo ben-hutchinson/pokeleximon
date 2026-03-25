@@ -1,0 +1,34 @@
+{
+  "answerKey": "NORETREAT",
+  "answerDisplay": "NO RETREAT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "No Retreat (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/No_Retreat_(move)",
+  "pageId": 244320,
+  "pageRevisionId": 4427542,
+  "leadText": "No Retreat (Japanese: はいすいのじん Last Stand) is a non-damaging Fighting-type move introduced in Generation VIII. It is the signature move of Falinks.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] No Retreat raises the user's Attack , Defense , Special Attack , Special Defense , and Speed by one stage each. It also prevents the user from switching out or fleeing . No Retreat fails if the user has been prevented from switching out or fleeing due to using No Retreat. However, if the user has already been given the \"Can't Escape\" status by another move such as Mean Look , No Retreat will successfully grant its stat boosts but will not create an additional status line to trap the user again. In this case, using No Retreat multiple times will create multiple boosts. The user of No Retreat can still switch out after using the move if it is holding a Shed Shell , if its Eject Button activates, if its opponent's Red Card activates, or if its opponent uses a move on it that forces the target to switch out, such as Whirlwind or Dragon Tail . If the user is Ghost-type , they are also free to switch, but the Pokémon will still receive a \"Can't Escape\" status on its status screen, which will prevent it from using No Retreat again. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] No Retreat cannot be selected in a battle. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 60s Move wind-up time 50 frames Effect duration 15s 18s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA This move raises all the user's stats but prevents the user from switching out or fleeing. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V This move boosts all the user's stats but prevents the user from switching out or fleeing. ZA The user puts everything on the line and boosts all its stats for a short time. In exchange, the user temporarily loses the ability to switch out of battle."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] No Retreat has the highest cooldown of all moves in Pokémon Legends: Z-A ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "No-Retreat",
+    "No Retreat",
+    "No-Retreat (move)"
+  ],
+  "updatedAt": 1773325405
+}

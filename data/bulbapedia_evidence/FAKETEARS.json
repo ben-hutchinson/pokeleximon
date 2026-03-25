@@ -1,0 +1,38 @@
+{
+  "answerKey": "FAKETEARS",
+  "answerDisplay": "FAKE TEARS",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Fake Tears (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fake_Tears_(move)",
+  "pageId": 3924,
+  "pageRevisionId": 4500884,
+  "leadText": "Fake Tears (Japanese: うそなき Fake Crying) is a non-damaging Dark-type move introduced in Generation III. It was TM47 in Pokémon Sword and Shield and is TM003 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Fake Tears lowers the target's Special Defense stat by two stages. If powered up by a Darkinium Z into Z-Fake Tears, the user's Special Attack stat rises by one stage. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 10s Move wind-up time 1 frame Effect duration 30s 33s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Feigns crying to sharply lower the foe's Sp. Def . Colo XD Feigns crying to sharply lower the target's Sp. Def . FR LG The user feigns crying to sharply lower the foe's Sp. Def . D P Pt HG SS PBR The user feigns crying to make the foe feel flustered, sharply lowering its Sp. Def stat. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user feigns crying to fluster the target, harshly lowering its Sp. Def stat. S V The user feigns crying to fluster the target. This harshly lowers the target's Sp. Def stat. ZA The user feigns crying to fluster targets, which lowers their Sp. Def stats for a while."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Lowers the target's Special Defense by two levels. MD T D S Reduces the target's Special Defense by 2 levels. B S L てきポケモンの とくぼうを ２だんかいさげる MD GtI It sharply lowers the enemy's Special Defense. S MD MD RT DX It sharply lowers the enemy's Sp. Def."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] No Dark-type Pokémon could learn the move until Generation V ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fake-Tears",
+    "Fake Tears",
+    "Fake-Tears (move)"
+  ],
+  "updatedAt": 1773322705
+}

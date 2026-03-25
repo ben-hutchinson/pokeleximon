@@ -1,0 +1,91 @@
+{
+  "answerKey": "STATIC",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4499426,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Static (Japanese: Static Electricity) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Paralyzes attackers. MD T D S Paralyzes an attacker who lands a direct-contact attack. B S L Conq. Shock the target, with a potential to inflict paralysis. MD GtI May inflict the Paralysis status condition on an attacker when the Pokemon is hit by a direct attack. * When the Pokemon is hit with a direct attack like Tackle or Scratch, the attacker is sometimes afflicted with the Paralysis status condition! * S MD When the Pokemon is hit with a contact move like Tackle or Scratch, the attacker sometimes gets paralysis! MD RT DX When the Pokemon is hit with a contact move, like Tackle or Scratch, the attacker is sometimes afflicted with Paralysis.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV onward 1.2 Outside of battle 1.2.1 Generation VIII 1.2.2 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokemon with this Ability is hit by a move that makes contact , there is a 1/3 chance that the attacking Pokemon will become paralyzed . This can affect Ground-type Pokemon. If a Pokemon with this Ability is hit by a multistrike move that makes contact, each hit has an independent chance to activate this Ability. Generation IV onward [ edit | edit source ] The chance for Static to paralyze is lowered to 30%. Outside of battle [ edit | edit source ] From Pokemon Emerald onward, if a Pokemon with Static is in the first place in the party (even if fainted ), then there is a 50% chance the game will force an encounter with an Electric-type Pokemon, if one is possible. As of Pokemon Sword and Shield , it shares this effect with Lightning Rod . Generation VIII [ edit | edit source ] In Pokemon Sword and Shield only, this chance is 51% instead. Generation IX [ edit | edit source ] In Pokemon Scarlet and Violet , this Ability has no effect outside of battle, with its former field function effectively being replaced by Meal Powers .",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokemon with this Ability is hit by a move that makes contact , there is a 1/3 chance that the attacking Pokemon will become paralyzed . This can affect Ground-type Pokemon. If a Pokemon with this Ability is hit by a multistrike move that makes contact, each hit has an independent chance to activate this Ability. Generation IV onward [ edit | edit source ] The chance for Static to paralyze is lowered to 30%.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Has a 30% chance of paralyzing attacking Pokemon on contact.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "Description",
+        "specificity": 0.86
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "paralyzing trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "Description",
+        "mystery_score": 0.76,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Damages foes on contact KO",
+        "evidence_ref": "Description",
+        "mystery_score": 0.7,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Contact-backlash trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "paralyzing trait",
+      "contact backlash",
+      "contact punisher"
+    ],
+    "connections_descriptors": [
+      "Paralyzing abilities",
+      "Contact-punishing abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258019
+}

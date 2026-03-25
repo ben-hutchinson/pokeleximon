@@ -1,0 +1,88 @@
+{
+  "answerKey": "LEVITATE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4499421,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Levitate (Japanese: Floating) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Event Gen III Gen IV Gen V Gen VI Gen VII Gen VIII Gen IX Levitate activated \" (Wild/Foe) makes Ground moves miss with Levitate !\" \" (The wild/foe's) makes Ground moves miss with Levitate!\" \"It doesn't affect (the wild/foe's) ...\" \"It doesn't affect (The wild/opposing) ...\" \"It doesn't affect (the wild/the opposing/Totem) ...\" \"It doesn't affect (the wild/opposing) ...\" \"It doesn't affect (the wild/opposing) ...\" Description [ edit | edit source ] Games Description MD R B Blocks all Ground-type moves. MD T D S Keeps all Ground-type moves from hitting the Pokemon. B S L Conq. Gives full immunity to all Ground-type moves. MD GtI Ground-type moves don't damage the Pokemon. * Ground-type moves won't damage the Pokemon! * S MD Ground-type moves won't damage the Pokemon! MD RT DX Ground-type moves, such as Magnitude, won't damage the Pokemon.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Levitate renders the Pokemon with this Ability immune to damaging Ground-type moves (except Thousand Arrows ). It also makes it ungrounded , therefore unaffected by the effects of Arena Trap , Spikes , Toxic Spikes , Sticky Web , Rototiller , and terrain . Additionally, Poison-type Pokemon with Levitate do not remove Toxic Spikes upon switching in. These immunities are lost during Gravity or if the Pokemon with Levitate is holding an Iron Ball , is under the effects of Ingrain , or has been hit by Smack Down or Thousand Arrows . Pokemon with this Ability are eligible to enter Sky Battles , except Gengar because its model lands on the ground when entering the battle. Outside of battle [ edit | edit source ] Levitate has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Levitate renders the Pokemon with this Ability immune to damaging Ground-type moves (except Thousand Arrows ). It also makes it ungrounded , therefore unaffected by the effects of Arena Trap , Spikes , Toxic Spikes , Sticky Web , Rototiller , and terrain . Additionally, Poison-type Pokemon with Levitate do not remove Toxic Spikes upon switching in. These immunities are lost during Gravity or if the Pokemon with Levitate is holding an Iron Ball , is under the effects of Ingrain , or has been hit by Smack Down or Thousand Arrows . Pokemon with this Ability are eligible to enter Sky Battles , except Gengar because its model lands on the ground when entering the battle.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Evades ground moves.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "poisoning ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "switching ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "poisoning ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "switching ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Poisoning abilities",
+      "Switching abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257962
+}

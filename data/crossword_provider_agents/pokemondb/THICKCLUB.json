@@ -1,0 +1,17 @@
+{
+  "answerKey": "THICKCLUB",
+  "answerDisplay": "THICK CLUB",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this item, including added effects and where to find it.",
+  "score": 102.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/item/thick-club",
+  "extract": "Club, including added effects and where to find it.",
+  "rankPosition": 1,
+  "updatedAt": 1774213171
+}

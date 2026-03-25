@@ -1,0 +1,34 @@
+{
+  "answerKey": "HARDPRESS",
+  "answerDisplay": "HARD PRESS",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Hard Press (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Hard_Press_(move)",
+  "pageId": 299910,
+  "pageRevisionId": 4415788,
+  "leadText": "Hard Press (Japanese: ハードプレス Hard Press) is a damage-dealing Steel-type move introduced during Generation IX, in The Indigo Disk. It is TM225 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Hard Press inflicts damage. Its power varies between 1 and 100, and is greater the more HP the target has: P o w e r = 1 0 0 × C u r r e n t H P t a r g e t M a x H P t a r g e t"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The target is crushed with an arm, a claw, or the like to inflict damage. The more HP the target has left, the greater the move's power."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move was first revealed on November 21st, 2023, alongside Supercell Slam prior to the release of The Indigo Disk during Serebii 's writeup of their hands-on preview of the DLC. [ 1 ] This move works the same way as Crush Grip and Wring Out , but with higher PP and lower possible base power. It is the only one of these moves to not be Normal-type . This move originated as a TCG attack . ↑ Pokémon Scarlet & Violet - The Indigo Disk - Into The Terarium - Serebii.net"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Hard-Press",
+    "Hard Press",
+    "Hard-Press (move)"
+  ],
+  "updatedAt": 1773323512
+}

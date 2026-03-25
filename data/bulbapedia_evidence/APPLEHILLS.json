@@ -1,0 +1,30 @@
+{
+  "answerKey": "APPLEHILLS",
+  "answerDisplay": "APPLE HILLS",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Apple Hills",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Apple_Hills",
+  "pageId": 295836,
+  "pageRevisionId": 4419718,
+  "leadText": "The Apple Hills (Japanese: アップルヒルズ Apple Hills) is a large apple orchard located in Kitakami.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] This section is a stub . You can help Bulbapedia by expanding it ."
+    },
+    {
+      "title": "Places of interest",
+      "text": "Places of interest [ edit | edit source ] This section is a stub . You can help Bulbapedia by expanding it ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Apple-Hills",
+    "Apple Hills",
+    "Apple-Hills (location)"
+  ],
+  "updatedAt": 1773328753
+}

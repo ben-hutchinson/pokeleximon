@@ -1,0 +1,67 @@
+{
+  "answerKey": "DESOLATELAND",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4475089,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VI ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Desolate Land (Japanese: Land of the End) is an Ability introduced during Generation VI, in Pokemon Omega Ruby and Alpha Sapphire. It is the signature Ability of Primal Groudon.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description S MD The floor will get harsh sunlight! MD RT DX The floor will have Extremely Harsh Sunlight.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Pokemon Legends: Z-A 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Desolate Land enters the battle or a Pokemon gains the Ability Desolate Land, the Ability creates extremely harsh sunlight, a unique variation of harsh sunlight . In a Rotation Battle , Desolate Land will not activate if the Pokemon is sent out in a rotated-out position, nor will it activate if the Pokemon is rotated in. In addition, Desolate Land will not activate if extremely harsh sunlight is already present on the battlefield. Along with the usual effects of harsh sunlight, extremely harsh sunlight causes damage-dealing Water-type moves to fail (unless a Pokemon on the field has the Air Lock or Cloud Nine Ability). Additionally, extremely harsh sunlight causes the weather-modifying moves Sunny Day , Rain Dance , Sandstorm , and Hail to fail if used, and causes the Abilities Drought , Drizzle , Sand Stream , and Snow Warning to fail to activate. Once in effect, as long as there is a Pokemon on the field with the Ability Desolate Land active (even if it is not the Pokemon who created it), the harsh sunlight will remain in effect unless it is replaced. (If the only Pokemon on the field with Desolate Land is rotated out or switched out, or has its Ability suppressed or replaced, the harsh sunlight will dissipate.) The harsh sunlight can be replaced by Primordial Sea or Delta Stream . Pokemon Legends: Z-A [ edit | edit source ] While Abilities do not occur in normal gameplay in Pokemon Legends: Z-A , Primal Groudon is immune to Water-type attacks in the second phase of the Rogue Mega Evolution battle against it. Stunning Primal Groudon temporarily removes this immunity. Outside of battle [ edit | edit source ] Desolate Land has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with Desolate Land enters the battle or a Pokemon gains the Ability Desolate Land, the Ability creates extremely harsh sunlight, a unique variation of harsh sunlight . In a Rotation Battle , Desolate Land will not activate if the Pokemon is sent out in a rotated-out position, nor will it activate if the Pokemon is rotated in. In addition, Desolate Land will not activate if extremely harsh sunlight is already present on the battlefield. Along with the usual effects of harsh sunlight, extremely harsh sunlight causes damage-dealing Water-type moves to fail (unless a Pokemon on the field has the Air Lock or Cloud Nine Ability). Additionally, extremely harsh sunlight causes the weather-modifying moves Sunny Day , Rain Dance , Sandstorm , and Hail to fail if used, and causes the Abilities Drought , Drizzle , Sand Stream , and Snow Warning to fail to activate. Once in effect, as long as there is a Pokemon on the field with the Ability Desolate Land active (even if it is not the Pokemon who created it), the harsh sunlight will remain in effect unless it is replaced. (If the only Pokemon on the field with Desolate Land is rotated out or switched out, or has its Ability suppressed or replaced, the harsh sunlight will dissipate.) The harsh sunlight can be replaced by Primordial Sea or Delta Stream . Pokemon Legends: Z-A [ edit | edit source ] While Abilities do not occur in normal gameplay in Pokemon Legends: Z-A , Primal Groudon is immune to Water-type attacks in the second phase of the Rogue Mega Evolution battle against it. Stunning Primal Groudon temporarily removes this immunity.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Creates extremely harsh sunlight, which has all the properties of Sunny Day, cannot be replaced, and causes damaging Water moves to fail.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Weather abilities",
+      "Gen VI abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257939
+}

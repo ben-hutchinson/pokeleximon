@@ -1,0 +1,33 @@
+{
+  "answerKey": "CRUNCH",
+  "answerDisplay": "CRUNCH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Crunch (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Crunch_(move)",
+  "pageId": 3853,
+  "pageRevisionId": 4452125,
+  "leadText": "Crunch (Japanese: かみくだく Crunch) is a damage-dealing Dark-type move introduced in Generation II. It is: TR32 in Pokémon Sword and Shield. TM108 in Pokémon Scarlet and Violet. TM025 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations II and III 1.2 Generation IV onwards 1.3 Generation VIII 1.3.1 Pokémon Legends: Arceus 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generations II and III [ edit | edit source ] Crunch does damage and has a 20% chance of lowering the target's Special Defense stat by one stage. Crunch can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Scary Face was used in the previous turn. Generation IV onwards [ edit | edit source ] Crunch is now a physical move and as a result now has a 20% chance of lowering the target's Defense stat by one stage. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Crunch's PP has been reduced to 10 and has a 20% chance of lowering the target's defensive stats. Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 80 60 100 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 20% 20% 40% Turns 3 2 4 ? ? May lower the target's defensive stats Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 80 96 Cooldown 8s Move wind-up time 10 frames Effect duration —s Additional effect Chance 20% Duration 15s 18s — May lower the target's Defense."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A Dark -type attack. Has a one-in-five chance of reducing the target's Spcl.Def . G S C An attack that may lower Spcl.Def . R S E Colo XD Crunches with sharp fangs. May lower Sp. Def . FR LG The foe is crunched with sharp fangs. It may lower the foe's Sp. Def . D P Pt HG SS PBR The user crunches up the foe with sharp fangs. It may also lower the target's Defense stat. B W B2 W2 The user crunches up the target with sharp fangs. It may also lower the target's Defense stat. X Y OR AS S M US UM P E Sw Sh BD SP S V The user crunches up the target with sharp fangs. This may also lower the target's Defense stat. LA The user crunches up the target with sharp fangs. This may also lower the target's defensive stats. ZA The user attacks by crunching targets up with sharp fangs. This may also lower targets' Defense stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also lower the target's Special Defense by one level. MD T D S Inflicts damage on the target. It may also reduce the target's Defense by 1 level. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで ぼうぎょを １だんかいさげる Conq. The user crunches up the target with sharp fangs. It may also lower the target's Defense stat. MD GtI It damages an enemy. It could also lower its Defense. S MD MD RT DX It damages an enemy. It could also lower the enemy's Defense."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Crunch",
+    "Crunch (move)"
+  ],
+  "updatedAt": 1773321949
+}

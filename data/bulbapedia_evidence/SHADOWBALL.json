@@ -1,0 +1,38 @@
+{
+  "answerKey": "SHADOWBALL",
+  "answerDisplay": "SHADOW BALL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Ball (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Ball_(move)",
+  "pageId": 3858,
+  "pageRevisionId": 4504604,
+  "leadText": "Shadow Ball (Japanese: シャドーボール Shadow Ball) is a damage-dealing Ghost-type move introduced in Generation II. It is: TM30 from Generation II to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TM43 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR33 in Pokémon Sword and Shield. TM114 in Pokémon Scarlet and Violet. TM074 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Shadow Ball deals damage and has a 20% chance of lowering the target's Special Defense by one stage, even in Generations II and III where it was a physical move . Pokémon with Bulletproof are unaffected by Shadow Ball. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Shadow Ball's PP has been reduced to 10, and it has a 20% chance of lowering the target's defensive stats. Pokémon Legends: Arceus Category Special PP 10 Agile Strong Power 80 60 100 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 20% 20% 40% Turns 3 2 4 ? ? May lower the target's defensive stats Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 80 96 Cooldown 8s Move wind-up time 10 frames Effect duration —s Additional effect Chance 20% Duration 15s 18s — May lower the target's Special Defense."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A Ghost -type attack. Has a one-in-five chance of reducing the target Spcl.Def . G S C An attack that may lower Spcl. Def. R S E Hurls a black blob that may lower Sp. Def. (move) Hurls a dark lump at the foe. It may lower Sp. Def . (TM) FR LG A shadowy blob is hurled at the foe. May also lower the foe's Sp. Def . Colo XD Hurls a black blob that may lower the target's Sp. Def . (move) Hurls a dark lump at the target. It may lower Sp. Def . (TM) D P Pt HG SS PBR The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat. B W B2 W2 The user hurls a shadowy blob at the target. It may also lower the target's Sp. Def stat. X Y OR AS S M US UM P E Sw Sh BD SP The user hurls a shadowy blob at the target. This may also lower the target's Sp. Def stat. LA The user hurls a shadowy blob at the target to deal damage. This may also lower the target’s defensive stats. S V The user attacks by hurling a shadowy blob at the target. This may also lower the target’s Sp. Def stat. ZA The user attacks by hurling a shadowy blob. This may also lower targets' Sp. Def stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target, even at a distance. It may also lower the target's Special Defense by one level. MD T D S Inflicts damage on the target, even at a distance. It may also reduce the target's Special Defense by 1 level. B S L はなれたポケモンに ダメージをあたえる しかも いっていのかくりつで とくぼうを １だんかいさげる Conq. Attack the enemy with a ball of dark shadows, lowering the enemy's Defense. MD GtI It damages even a faraway Pokémon. It could also lower its Special Defense. S MD MD RT DX It damages even a faraway Pokémon. It could also lower the enemy's Sp. Def."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Muk using Shadow Ball in Colosseum Due to Shadow Ball being a physical move prior to Generation IV , Shadow Ball is the only damaging move to have ever dealt damage in a different category from the target's defensive stat it lowers , excluding Max Moves . Shadow Ball was introduced in the animated series prior to the games . In Pokémon Colosseum , in Mt. Battle Area 10 in Battle Mode Singles as well as in Battle Now , Cooltrainer Cruik's Muk knows Shadow Ball, although Muk cannot learn this move until Generation IV. In Generation III and Pokémon: Let's Go, Pikachu! and Let's Go, Eevee! , Shadow Ball was the only Ghost-type move that could be taught via TM . In Generation VIII , Shadow Ball is the only Ghost-type move that can be taught via TR . Shadow Ball is the only Ghost-type move to change damage categories in the transition from Generation III to Generation IV . While Night Shade also became a special attack, it is a fixed damage attack and is therefore not affected by the change in damage category."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Ball",
+    "Shadow Ball",
+    "Shadow-Ball (move)"
+  ],
+  "updatedAt": 1773326822
+}

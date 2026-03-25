@@ -1,0 +1,34 @@
+{
+  "answerKey": "HEALTHCANDY",
+  "answerDisplay": "HEALTH CANDY",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Health Candy",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Health_Candy",
+  "pageId": 234547,
+  "pageRevisionId": 4453546,
+  "leadText": "The Health Candy (Japanese: げんきのアメ Vitality Candy) is a type of Candy introduced in Generation VII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] When used from the Bag on a Pokémon, it increases that Pokémon's HP by 1 AV , up until it has reached 50 AVs in HP."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description P E Sw Sh BD SP LA S V A candy that is packed with energy. When given to a Pokémon, it will increase that Pokémon's HP."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price P E N/A $ 10 Effect [ edit | edit source ] When used from the Bag on a Pokémon, it increases that Pokémon's HP by 1 AV , up until it has reached 50 AVs in HP. Description [ edit | edit source ] Games Description P E Sw Sh BD SP LA S V A candy that is packed with energy. When given to a Pokémon, it will increase that Pokémon's HP. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods P E Celadon Condominiums Catch or transfer Caterpie , Nidoran♀ , Nidorina , Nidoqueen , Clefairy , Clefable , Jigglypuff , Wigglytuff , Slowpoke , Grimer , Muk , Lickitung , Chansey , Kangaskhan , Lapras , Ditto , Vaporeon , Snorlax , or Mew Hidden recurring item ( Rocket Game Corner , Pokémon Mansion , Victory Road ) GO Park , Poké Ball Plus"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Health-Candy",
+    "Health Candy",
+    "Health-Candy (item)"
+  ],
+  "updatedAt": 1773323572
+}

@@ -1,0 +1,33 @@
+{
+  "answerKey": "MUMMY",
+  "answerDisplay": "MUMMY",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Mummy (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mummy_(Ability)",
+  "pageId": 115011,
+  "pageRevisionId": 4341823,
+  "leadText": "Mummy (Japanese: ミイラ Mummy) is an Ability introduced in Generation V. It is the signature Ability of Yamask and Cofagrigus.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Check if these Abilities are unaffected: Protosynthesis , Quark Drive , Orichalcum Pulse , Hadron Engine (also cf. Lingering Aroma ). You can discuss this on the talk page. When a Pokémon with Mummy is hit by a contact move, the attacker's Ability is changed to Mummy. The attacker regains its original Ability once it is switched out , faints , or the battle ends. If a Pokémon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), the attacking Pokémon's Ability will become Mummy after the first strike. If a Pokémon with Rock Head uses a recoil contact move on a Pokémon with Mummy, its Ability will become Mummy, then subsequently it will take recoil damage. If a Pokémon with Parental Bond uses a contact move on a Pokémon with Mummy, the Pokémon's Ability will become Mummy after the first strike, then the current move will continue to strike a second time regardless. If a Pokémon with Skill Link uses a multistrike contact move on a Pokémon with Mummy, the Pokémon's Ability will become Mummy after the first strike, then the current move will continue to strike the maximum number of times regardless. As One , Battle Bond , Comatose , Commander , Disguise , Gulp Missile , Ice Face , Lingering Aroma , Multitype , Power Construct , RKS System , Schooling , Shields Down , Stance Change , Zen Mode , Zero to Hero , and Mummy itself are not affected by Mummy. Outside of battle [ edit | edit source ] Mummy has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Check if these Abilities are unaffected: Protosynthesis , Quark Drive , Orichalcum Pulse , Hadron Engine (also cf. Lingering Aroma ). You can discuss this on the talk page. When a Pokémon with Mummy is hit by a contact move, the attacker's Ability is changed to Mummy. The attacker regains its original Ability once it is switched out , faints , or the battle ends. If a Pokémon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), the attacking Pokémon's Ability will become Mummy after the first strike. If a Pokémon with Rock Head uses a recoil contact move on a Pokémon with Mummy, its Ability will become Mummy, then subsequently it will take recoil damage. If a Pokémon with Parental Bond uses a contact move on a Pokémon with Mummy, the Pokémon's Ability will become Mummy after the first strike, then the current move will continue to strike a second time regardless. If a Pokémon with Skill Link uses a multistrike contact move on a Pokémon with Mummy, the Pokémon's Ability will become Mummy after the first strike, then the current move will continue to strike the maximum number of times regardless. As One , Battle Bond , Comatose , Commander , Disguise , Gulp Missile , Ice Face , Lingering Aroma , Multitype , Power Construct , RKS System , Schooling , Shields Down , Stance Change , Zen Mode , Zero to Hero , and Mummy itself are not affected by Mummy."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI Changes the Ability of the Pokémon that hit it with a direct attack to Mummy. * When the Pokémon is hit with a direct attack like Tackle or Scratch, the attacker's Ability becomes Mummy! * S MD When the Pokémon is hit with a contact move like Vine Whip or Iron Tail, the attacker's Ability becomes Mummy!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mummy",
+    "Mummy (Ability)"
+  ],
+  "updatedAt": 1774214612
+}

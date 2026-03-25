@@ -1,0 +1,31 @@
+{
+  "answerKey": "TAPU",
+  "answerDisplay": "TAPU",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Tapu Village",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tapu_Village",
+  "pageId": 218460,
+  "pageRevisionId": 4487348,
+  "leadText": "Tapu Village (Japanese: カプの村 Kapu Village) is the site of a former village located on Ula'ula Island of the Alola region.",
+  "sections": [
+    {
+      "title": "Places of interest",
+      "text": "Places of interest [ edit | edit source ] Tapu Village mostly consists of ruins of buildings that were destroyed by Tapu Bulu , due to a Thrifty Megamart being built on its sacred grounds nearby. As such, the only functioning building in the village is the Pokémon Center . The village also houses the entrance to Mount Lanakila . In Sun and Moon , the player cannot access the mountain at all until they've defeated Lusamine in Ultra Space , while in Ultra Sun and Ultra Moon , the base of the mountain is accessible as soon as the player first visits the village."
+    },
+    {
+      "title": "Demographics",
+      "text": "Demographics [ edit | edit source ] Pokémon Sun and Moon [ edit | edit source ] The population of Tapu Village is 13, making it the smallest town in Alola . This is likely due to the destruction of most of the village by Tapu Bulu."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Tapu-Village",
+    "Tapu Village",
+    "Tapu",
+    "Tapu-Village (location)"
+  ],
+  "updatedAt": 1773329267
+}

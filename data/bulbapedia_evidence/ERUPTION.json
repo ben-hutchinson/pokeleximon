@@ -1,0 +1,33 @@
+{
+  "answerKey": "ERUPTION",
+  "answerDisplay": "ERUPTION",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Eruption (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Eruption_(move)",
+  "pageId": 3895,
+  "pageRevisionId": 4486946,
+  "leadText": "Eruption (Japanese: ふんか Eruption) is a damage-dealing Fire-type move introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Eruption deals damage. It has 150 base power at maximum HP, but its base power decreases linearly with the user's remaining HP, such that at 0 HP the move would have 0 base power. Specifically, its base power is equal to ⌊ 1 5 0 × H P c u r r e n t H P m a x ⌋ . However, if this formula produces a value less than 1, the move's base power becomes 1 instead. In a battle with multiple opponents, Eruption targets all adjacent opponents. Eruption will also destroy round rocks found in the background of battles . Eruption can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Earthquake , Endure , or Sunny Day was used in the previous turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD The higher the user's HP, the more damage caused. FR LG The higher the user's HP, the more powerful this attack becomes. D P Pt HG SS PBR The user attacks in an explosive fury. The lower the user's HP, the less powerful this attack becomes. B W B2 W2 The user attacks the opposing team with explosive fury. The lower the user's HP, the less powerful this attack becomes. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user attacks opposing Pokémon with explosive fury. The lower the user's HP, the lower the move's power."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. The higher the user's HP, the greater the damage. It thaws and frees frozen Pokémon. MD T D S Inflicts damage on the target. The higher the user's HP, the greater the damage. It thaws out frozen Pokémon. B S L てきポケモンに ダメージをあたえる じぶんの ＨＰが のこりすくないほど あたえるダメージが ちいさい こおっていたポケモンは こおりがとける MD GtI UNUSED S MD The more HP you have, the more powerful this move gets. * It damages nearby enemies. The more HP you have, the greater the damage caused. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Eruption",
+    "Eruption (move)"
+  ],
+  "updatedAt": 1773322600
+}

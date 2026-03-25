@@ -1,0 +1,38 @@
+{
+  "answerKey": "MAGMASTORM",
+  "answerDisplay": "MAGMA STORM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Magma Storm (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Magma_Storm_(move)",
+  "pageId": 18902,
+  "pageRevisionId": 4482217,
+  "leadText": "Magma Storm (Japanese: マグマストーム Magma Storm) is a damage-dealing Fire-type move introduced in Generation IV. It is the signature move of Heatran.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation V 1.3 Generations VI and VII 1.4 Generation VIII onwards 1.4.1 Pokémon Legends: Arceus Effect [ edit | edit source ] Generation IV [ edit | edit source ] Magma Storm deals damage and binds the target for two to five turns. A bound target cannot switch out or flee , and takes damage equal to 1/16 of its maximum HP at the end of each turn. If the user switches out, the target will be freed. If a bound Pokémon uses Rapid Spin , it will be freed. If a Pokémon has Run Away or is holding a Smoke Ball , it can flee even when bound (but still cannot switch out); if a Pokémon has a Shed Shell , it can switch out even when bound (but cannot flee). A Pokémon can only be bound by one move at a time, and the effect disappears if the user is no longer on the field. If the user of Magma Storm is holding a Grip Claw , the duration will always be 5 turns. Magma Storm has an accuracy of 70% and a base power of 120. Generation V [ edit | edit source ] Magma Storm's accuracy was increased to 75%. Magma Storm now traps the target for four to five turns. If the user of Magma Storm is holding a Grip Claw , the duration will be 7 turns. If the user is holding a Binding Band , the target takes damage equal to 1/8 of its maximum HP instead of 1/16. Generations VI and VII [ edit | edit source ] Magma Storm's base power is reduced to 100. A Pokémon bound by Magma Storm now takes damage equal to 1/8 of its maximum HP at the end of each turn. If the user is holding a Binding Band , the target takes damage equal to 1/6 of its maximum HP instead. Ghost-type Pokémon cannot be trapped by Magma Storm. Generation VIII onwards [ edit | edit source ] In Versions 1.0 to 1.2.1 of Pokémon Sword and Shield , Magma Storm could not be selected in a battle. Starting with Version 1.3.0, it is usable and functions the same as it did in the previous generation. Pokémon Legends: Arceus [ edit | edit source ] Magma Storm's power has been lowered to 90. It will always burn the target. Pokémon Legends: Arceus Category Special PP 5 Agile Strong Power 90 70 110 Accuracy 75% 75% 90% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Turns 3 2 4 Burn 100% 100% 100% ? ? Inflicts the target with burn"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The foe becomes trapped within a maelstrom of fire that rages for two to five turns. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP The target becomes trapped within a maelstrom of fire that rages for four to five turns. LA The user envelops the target in a maelstrom of fire. This also leaves the target with a burn. S V The user traps the target inside a maelstrom of fire that inflicts damage for four to five turns. ZA The user whips up a fiercely burning firestorm at targets' feet. Opponents within the storm will take continual damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Constriction status condition. It thaws out frozen Pokémon. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで しめつけじょうたいにかえる こおっていたポケモンは こおりがとける MD GtI UNUSED S MD It damages an enemy. It could also cause the Magma Storm status condition."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Magma Storm has the highest power of all binding moves ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Magma-Storm",
+    "Magma Storm",
+    "Magma-Storm (move)"
+  ],
+  "updatedAt": 1773324664
+}

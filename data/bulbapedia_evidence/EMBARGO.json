@@ -1,0 +1,37 @@
+{
+  "answerKey": "EMBARGO",
+  "answerDisplay": "EMBARGO",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Embargo (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Embargo_(move)",
+  "pageId": 12422,
+  "pageRevisionId": 4474633,
+  "leadText": "Embargo (Japanese: さしおさえ Seize) is a non-damaging Dark-type move introduced in Generation IV. It was TM63 from Generation IV to Pokémon Ultra Sun and Ultra Moon.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generations V to VII 1.3 Generation VIII onwards Effect [ edit | edit source ] Generation IV [ edit | edit source ] For five turns, the target's held item has its effects negated and its Trainer cannot use items from the Bag on it. The effect wears off if the Pokémon switches out. Embargo does not negate item effects that affect prize money , experience , effort values , or friendship , such as those of the Amulet Coin , Lucky Egg , Power Weight , or Soothe Bell . The Speed drop from the Iron Ball , Macho Brace , and Power items (such as the Power Bracer ) is not negated by Embargo. However, the grounding effect of the Iron Ball is negated. A Pokémon under the effect of Embargo cannot use Fling or Natural Gift . If the target of Fling is under the effect of Embargo, items thrown at it will not activate. If a Pokémon affected by Embargo uses Bug Bite or Pluck , it will consume the target's held Berry without gaining its effects. If a Pokémon affected by Embargo uses Judgment , it will be a Normal-type move. Embargo fails if used on a Pokémon with Multitype or a Pokémon holding a Griseous Orb . Generations V to VII [ edit | edit source ] Embargo can now be reflected with Magic Coat . Embargo now negates the Speed drop from the Iron Ball , Macho Brace , and Power items (such as the Power Bracer ). If the target of Fling is under the effect of Embargo, items thrown at it now activate as usual. If a Pokémon affected by Embargo uses Bug Bite or Pluck , it will now receive the effects of a consumed held Berry. If a Pokémon affected by Embargo uses Techno Blast or Multi-Attack , it will be a Normal-type move. Embargo can now be used successfully on a Pokémon with Multitype and Origin Forme Giratina. However, Embargo cannot negate form-changing effects of items. Embargo does not prevent the Pokémon from Mega Evolving with a Mega Stone , undergoing Primal Reversion with a Red Orb or Blue Orb , or using a Z-Move with a Z-Crystal . If powered up by a Darkinium Z into Z-Embargo, the user's Special Attack stat rises one stage. Generation VIII onwards [ edit | edit source ] Embargo cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS It prevents the foe from using its held item. Its Trainer is also prevented from using items on it. PBR It prevents the foe from using its held item. B W B2 W2 It prevents the target from using its held item. Its Trainer is also prevented from using items on it. X Y OR AS This move prevents the target from using its held item. Its Trainer is also prevented from using items on it. S M US UM P E This move prevents the target from using its held item for five turns. Its Trainer is also prevented from using items on it. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Afflicts the targeted enemy with an Embargo status condition. A Pokémon with the Embargo status can't use items. B S L てきポケモンを さしおさえじょうたいにかえる さしおさえじょうたいの ポケモンは どうぐを つかえなくなってしまう MD GtI It causes the Embargo status condition, which makes the enemy unable to use any items. S MD It puts an embargo on an enemy, making the enemy unable to use any items."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Embargo ending in Battle Revolution. Embargo displays an animation when it ends in Pokémon Battle Revolution ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Embargo",
+    "Embargo (move)"
+  ],
+  "updatedAt": 1773322545
+}

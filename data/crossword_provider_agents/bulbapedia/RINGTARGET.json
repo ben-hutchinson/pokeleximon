@@ -1,0 +1,14 @@
+{
+  "answerKey": "RINGTARGET",
+  "answerDisplay": "RING TARGET",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Held battle item",
+  "score": 116.28,
+  "approved": true,
+  "qualityFlags": [],
+  "evidenceRef": "Description",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Ring_Target",
+  "extract": "The Ring Target (Japanese: ねらいのまと Aim Target) is a type of held item introduced in Generation V. It removes the holder's type immunities to moves.",
+  "updatedAt": 1774258397
+}

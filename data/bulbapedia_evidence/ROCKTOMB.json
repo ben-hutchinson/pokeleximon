@@ -1,0 +1,38 @@
+{
+  "answerKey": "ROCKTOMB",
+  "answerDisplay": "ROCK TOMB",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Rock Tomb (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rock_Tomb_(move)",
+  "pageId": 3928,
+  "pageRevisionId": 4500909,
+  "leadText": "Rock Tomb (Japanese: がんせきふうじ Rock Seal) is a damage-dealing Rock-type move introduced in Generation III. It is: TM39 from Generation III to Pokémon Ultra Sun and Ultra Moon, as well as in Pokémon Brilliant Diamond and Shining Pearl. TM48 in Pokémon Sword and Shield. TM036 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III to V 1.2 Generation VI onwards 1.3 Generation IX 1.3.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation III to V [ edit | edit source ] Rock Tomb deals damage and lowers the opponent's Speed by one stage. It has a power of 50, 10 PP, and 80% accuracy. Rock Tomb can be used as the second move of a Pokémon Contest combination , with the user gaining 3 bonus appeal points if Rock Throw was used in the previous turn. Generation VI onwards [ edit | edit source ] Rock Tomb's power changed to 60, its PP changed to 15, and its accuracy changed to 95%. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] In Pokémon Legends: Z-A , Rock Tomb drops a rock at a fixed distance in front of the user. If the rock hits a target, it deals damage and reduces the target's movement speed. If it does not hit a target, the rock will instead remain in place as an obstacle that can block pathing and projectile attacks. The rock can be targeted, and will be destroyed upon being hit by any attacking move. Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 60 72 Cooldown 10s Move wind-up time 25 frames Effect duration 8s 11s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Stops the foe from moving with rocks and cuts Speed . (move) Stops the foe from moving with rocks. May lower Speed . (TM) FR LG Boulders are hurled at the foe. It also lowers the foe's Speed if it hits. Colo XD Immobilizes the target with rocks, and cuts Speed . (move) Stops target from moving with rocks. May lower Speed . (TM) D P Pt HG SS Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement. (move) Large boulders are hurled at the foe to inflict damage. It may also make the target flinch. D P (TM) Large boulders are hurled at the foe to inflict damage. It lowers the foe's Speed. Pt HG SS (TM) PBR Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement. B W B2 W2 Boulders are hurled at the target. It also lowers the target's Speed by preventing its movement. X Y OR AS S M US UM P E Sw Sh BD SP LA Boulders are hurled at the target. This also lowers the target's Speed stat by preventing its movement. S V The user hurls boulders at the target to inflict damage. This also lowers the target's Speed stat by cutting off its movement. ZA The user attacks by hurling a boulder. Boulders that hit will also make targets move more slowly. Boulders that miss will remain on the battlefield."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It also lowers the target's Movement Speed by one level. MD T D S Inflicts damage on the target. It may also reduce the target's Movement Speed by 1 level. B S L てきポケモンに ダメージをあたえる しかも いどうそくどを １だんかいさげる Conq. Bombard the enemy with rocks. It may also reduce the target's Range. MD GtI S MD MD RT DX It damages an enemy. It also lowers the enemy's Travel Speed."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Rock Tomb is the only Rock-type Clever move. In Pokémon Ruby, Sapphire , and Emerald , and in Pokémon Colosseum and Pokémon XD , the TM description erroneously indicates that using Rock Tomb will not always lower the target's Speed. In Pokémon Diamond and Pearl : The TM description erroneously states that using Rock Tomb can cause the target to flinch . When this move is used in a Double Battle , it appears to attack the Pokémon opposite of what the player has chosen. However, the damage is done to the Pokémon initially selected."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Rock-Tomb",
+    "Rock Tomb",
+    "Rock-Tomb (move)"
+  ],
+  "updatedAt": 1773326482
+}

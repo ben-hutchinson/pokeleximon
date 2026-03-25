@@ -1,0 +1,34 @@
+{
+  "answerKey": "ACIDSPRAY",
+  "answerDisplay": "ACID SPRAY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Acid Spray (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Acid_Spray_(move)",
+  "pageId": 117520,
+  "pageRevisionId": 4466715,
+  "leadText": "Acid Spray (Japanese: アシッドボム Acid Bomb) is a damage-dealing Poison-type move introduced in Generation V. It is TM013 in Pokémon Scarlet and Violet and TM112 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Acid Spray inflicts damage and lowers the target's Special Defense by two stages. It has no effect on Pokémon with the Bulletproof ability. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Special PP 20 Agile Strong Power 40 30 50 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 50% 50% 100% Turns 3 2 4 ? ? May lower the target's defensive stats"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user spits fluid that works to melt the target. This harshly reduces the target's Sp. Def stat. X Y OR AS S M US UM P E Sw Sh BD SP The user spits fluid that works to melt the target. This harshly lowers the target's Sp. Def stat. LA The user spits fluid that works to melt the target. This may also lower the target’s defensive stats. S V The user attacks by spitting fluid that works to melt the target. This also harshly lowers the target's Sp. Def stat. ZA The user attacks by spitting caustic fluid at targets. This also lowers their Sp. Def stats for a while."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It damages an enemy. It also sharply lowers the enemy's Special Defense. S MD MD RT DX It damages an enemy. It also sharply lowers the enemy's Sp. Def."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Acid-Spray",
+    "Acid Spray",
+    "Acid-Spray (move)"
+  ],
+  "updatedAt": 1773320669
+}

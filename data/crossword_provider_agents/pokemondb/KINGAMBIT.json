@@ -1,0 +1,17 @@
+{
+  "answerKey": "KINGAMBIT",
+  "answerDisplay": "KINGAMBIT",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Dark / Steel type Pokémon introduced in Generation 9.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/kingambit",
+  "extract": "Kingambit is a Dark / Steel type Pokémon introduced in Generation 9 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211774
+}

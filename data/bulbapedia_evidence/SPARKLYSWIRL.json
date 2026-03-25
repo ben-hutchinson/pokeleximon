@@ -1,0 +1,30 @@
+{
+  "answerKey": "SPARKLYSWIRL",
+  "answerDisplay": "SPARKLY SWIRL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sparkly Swirl (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sparkly_Swirl_(move)",
+  "pageId": 233653,
+  "pageRevisionId": 4269971,
+  "leadText": "Sparkly Swirl (Japanese: きらきらストーム Sparkly Storm) is a damage-dealing Fairy-type move introduced during Generation VII, in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. It is one of the signature moves of the partner Eevee.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VII [ edit | edit source ] Sparkly Swirl deals damage and cures the user, all Pokémon in the user's party, and the user's allies, of all non-volatile status conditions ( sleep , poison , paralysis , freeze , and burn ). Generation VIII onwards [ edit | edit source ] Sparkly Swirl cannot be selected in a battle. However, it has been modified: its power was changed to 120, its accuracy to 85%, and its PP to 5."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description P E The user attacks the target by wrapping it with a whirlwind of an overpowering scent. This also heals all status conditions of the user's party. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sparkly-Swirl",
+    "Sparkly Swirl",
+    "Sparkly-Swirl (move)"
+  ],
+  "updatedAt": 1773327403
+}

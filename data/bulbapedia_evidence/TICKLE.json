@@ -1,0 +1,33 @@
+{
+  "answerKey": "TICKLE",
+  "answerDisplay": "TICKLE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Tickle (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tickle_(move)",
+  "pageId": 3932,
+  "pageRevisionId": 4470625,
+  "leadText": "Tickle (Japanese: くすぐる Tickle) is a non-damaging Normal-type move introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Tickle reduces the target's Attack and Defense stats by one stage each. In Generation III only, Tickle is not blocked by substitute . If powered up by a Normalium Z into Z-Tickle, the user's Defense stat rises by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Makes the foe laugh to lower Attack and Defense . FR LG The foe is made to laugh, reducing its Attack and Defense stats. Colo XD Makes the target laugh to lower Attack and Defense . D P Pt HG SS PBR The user tickles the foe into laughing, reducing its Attack and Defense stats. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user tickles the target into laughing, reducing its Attack and Defense stats. S V The user tickles the target into laughing, lowering its Attack and Defense stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Reduces the target's Attack and Defense by one level. MD T D S Reduces the target's Attack and Defense by 1 level. B S L てきポケモンの こうげき ぼうぎょを １だんかいさげる MD GtI S MD It lowers the enemy's Attack and Defense. MD RT DX It tickles an enemy, making them giggle and lowering their Attack and Defense."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Tickle",
+    "Tickle (move)"
+  ],
+  "updatedAt": 1773327944
+}

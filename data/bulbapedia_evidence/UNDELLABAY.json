@@ -1,0 +1,26 @@
+{
+  "answerKey": "UNDELLABAY",
+  "answerDisplay": "UNDELLA BAY",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Undella Bay",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Undella_Bay",
+  "pageId": 119627,
+  "pageRevisionId": 4490317,
+  "leadText": "Undella Bay (Japanese: サザナミ湾 Sazanami Bay) is a small area in the eastern part of Unova. It is east of Undella Town and is the only way to access the Abyssal Ruins. In Black 2 and White 2, it connects Undella Town to Seaside Cave, which leads to Route 21.",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Black and White , Undella Bay appears on the Town Map as a green dot, like other landmarks, but in Black 2 and White 2 , it appears as a line segment, as if it were a route . Similarly, the Desert Resort also appears as a line segment; however, it is also a line segment in Black and White. Due to a glitch in Black 2 and White 2 , if the player enters the sight range of Ace Trainer Summer from the north while surfing , she will walk over the water to challenge them to a battle."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Undella-Bay",
+    "Undella Bay",
+    "Undella-Bay (location)"
+  ],
+  "updatedAt": 1773328184
+}

@@ -1,0 +1,17 @@
+{
+  "answerKey": "SONIASBOOK",
+  "answerDisplay": "SONIAS BOOK",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "Details for the Pokémon item Sonia.",
+  "score": 57.88,
+  "approved": false,
+  "qualityFlags": [
+    "near_verbatim_source"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/item/sonias-book",
+  "extract": "Details for the Pokémon item Sonia",
+  "rankPosition": 1,
+  "updatedAt": 1774212958
+}

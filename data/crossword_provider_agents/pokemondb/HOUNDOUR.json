@@ -1,0 +1,17 @@
+{
+  "answerKey": "HOUNDOUR",
+  "answerDisplay": "HOUNDOUR",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Dark / Fire type Pokémon introduced in Generation 2.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/houndour",
+  "extract": "Houndour is a Dark / Fire type Pokémon introduced in Generation 2 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211628
+}

@@ -1,0 +1,30 @@
+{
+  "answerKey": "SHADOWSHED",
+  "answerDisplay": "SHADOW SHED",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Shed (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Shed_(move)",
+  "pageId": 9596,
+  "pageRevisionId": 4269569,
+  "leadText": "Shadow Shed (Japanese: ダークリムーブ Dark Remove) is one of several Shadow moves available only in Pokémon XD: Gale of Darkness. Like other Shadow moves, it is forgotten and replaced with another move once the Pokémon is purified.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Shadow Shed removes the effects of Safeguard , Reflect , and Light Screen from the opponent's side of the field. As Shadow Pokémon cannot be traded, and since Pokémon Contests do not exist in Pokémon XD: Gale of Darkness, Shadow Shed cannot be used in Contests."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description XD A shadowy aura eliminates Reflect and similar moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Shed",
+    "Shadow Shed",
+    "Shadow-Shed (move)"
+  ],
+  "updatedAt": 1773326851
+}

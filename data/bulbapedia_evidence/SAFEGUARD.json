@@ -1,0 +1,37 @@
+{
+  "answerKey": "SAFEGUARD",
+  "answerDisplay": "SAFEGUARD",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Safeguard (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Safeguard_(move)",
+  "pageId": 3830,
+  "pageRevisionId": 4446505,
+  "leadText": "Safeguard (Japanese: しんぴのまもり Mysterious Protection) is a non-damaging Normal-type move introduced in Generation II. It is: TM20 from Generation III to Pokémon Ultra Sun and Ultra Moon and in Pokémon Brilliant Diamond and Shining Pearl TM19 in Pokémon Sword and Shield. TM051 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III 1.3 Generation IV 1.4 Generation V onwards 1.5 Generation IX 1.5.1 Pokémon Legends: Z-A Effect [ edit | edit source ] This move effect may be in need of research. Reason: Can a disobedient Pokémon put itself to sleep while under the effect of Safeguard (in each generation)? You can discuss this on the talk page. Generation II [ edit | edit source ] Safeguard prevents the user and its allies from being inflicted with non-volatile status conditions and confusion for five turns. Existing status conditions are not cured by Safeguard and have their effects as normal. Safeguard does not protect from self-inflicted sleep from Rest , but does prevent confusion due to fatigue after using Outrage , Petal Dance , or Thrash . Safeguard does not prevent a Pokémon becoming confused due to its held Berserk Gene . Generation III [ edit | edit source ] Safeguard no longer prevents confusion due to fatigue after using Outrage , Petal Dance , or Thrash . It also does not prevent allies from being confused by a held Figy , Wiki , Mago , Aguav or Iapapa Berry . Safeguard prevents a Pokémon from being made drowsy by Yawn , but will not prevent it from falling asleep due to its effect if it is already drowsy. Safeguard does not protect the user from being inflicted with a status condition by making contact with a Pokémon with the Ability Effect Spore , Static , Flame Body or Poison Point . Generation IV [ edit | edit source ] Safeguard prevents allies from being confused by a Figy , Wiki , Mago , Aguav or Iapapa Berry (regardless of whether it is consumed as a held item, via Fling , or via Bug Bite or Pluck ) as well as being burned or poisoned by a held Flame Orb or Toxic Orb . Safeguard is removed from a Pokémon's side of the field if it is hit by Defog (even if it was used by an ally). Generation V onwards [ edit | edit source ] Safeguard no longer prevents allies from being confused by a Figy , Wiki , Mago , Aguav or Iapapa Berry (regardless of whether it is consumed as a held item, via Fling , or via Bug Bite or Pluck ). Safeguard no longer prevents allies from being burned or poisoned by a held Flame Orb or Toxic Orb . Safeguard now protects the user from being inflicted with a status condition when making contact with a Pokémon with the Ability Effect Spore , Static , Flame Body or Poison Point . Safeguard can be bypassed by Infiltrator . If powered up by a Normalium Z into Z-Safeguard, the user's Speed stat is also raised by one stage. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 12s Move wind-up time 20 frames 10 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A mystic power that protects the user from status problems for five turns. G S C Prevents all status problems. R S E Colo XD A mystical force prevents all status problems. (move) Prevents status abnormality with a mystical power. (TM) FR LG It protects the user's party from all status problems for five turns. D P Pt HG SS The user creates a protective field that prevents status problems for five turns. (move) The user creates a protective field that prevents status problems like poison, paralysis, burn, and sleep. (TM) PBR B W B2 W2 The user creates a protective field that prevents status problems for five turns. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user creates a protective field that prevents status conditions for five turns. ZA The user creates a peculiar field that prevents status conditions for a while. This effect continues even if the user is switched out."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user and team members in the same room gain the Safeguard status, which prevents status problems. MD T D S Gives the Pokémon that uses this move and all team members in the room the Safeguard status, which prevents status problems. B S L おなじへやの なかまポケモンと じぶんを しんぴのまもりじょうたいに かえて わるいじょうたいに ならないようにする MD GtI You and your teammates in the same room will get the Safeguard status, which prevents you from having bad status conditions. S MD You and your teammates in the same room get the Safeguard status condition, which prevents you from having bad status conditions. MD RT DX You and your teammates in the same room get the Safeguard condition, which prevents you from having bad statuses."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Safeguard ending in Battle Revolution. Safeguard displays an animation when it ends in Pokémon Battle Revolution . Despite having distinct effects in the games, Reflect , Light Screen , Barrier , Protect , and Safeguard are often depicted in the animated series seemingly sharing the same effect that Protect has in the games (protecting the user from most the effect of moves)."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Safeguard",
+    "Safeguard (move)"
+  ],
+  "updatedAt": 1773326593
+}

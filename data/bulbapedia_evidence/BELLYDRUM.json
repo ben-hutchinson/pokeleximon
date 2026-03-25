@@ -1,0 +1,38 @@
+{
+  "answerKey": "BELLYDRUM",
+  "answerDisplay": "BELLY DRUM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Belly Drum (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Belly_Drum_(move)",
+  "pageId": 3797,
+  "pageRevisionId": 4406620,
+  "leadText": "Belly Drum (Japanese: はらだいこ Belly Drum) is a non-damaging Normal-type move introduced in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Belly Drum deducts half of the user's maximum HP (rounded down) from its current HP and, in return, it maximizes the user's Attack stat by raising it to +6 stages, even if the user's temporary Attack bonus stages were below 0 prior to using Belly Drum. Belly Drum fails if the user's current HP is less than half its maximum, or if the user's Attack is already at +6 (even if the user has Contrary ). If the user has Contrary, its Attack will be lowered to -6 stages (although the message will still say that the user maximized its Attack); even if the user's Attack is already at -6 stages, Belly Drum will deduct HP. In Generation II handheld games only, if the Pokémon is under 50% HP when using the move, it will still have its Attack raised 2 stages due to a bug. Belly Drum can be used as the first move of a Pokémon Contest combination , causing Rest to score double the normal appeal if used in the next turn. If powered up by a Normalium Z into Z-Belly Drum, the user restores all of its HP before Belly Drum's HP deduction takes effect."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A move that allows the user to consume half of its own HP in order to maximize its Attack . G S C Reduces own HP to maximize Attack . R S E Colo XD Maximizes Attack while sacrificing HP. FR LG The user maximizes its Attack stat at the cost of half its full HP. D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user maximizes its Attack stat in exchange for HP equal to half its max HP. S V The user maximizes its Attack stat but loses HP equal to half its max HP."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts the user's Attack to maximum, but empties its Belly to just one. It has no effect if the Belly is one or less. MD T D S Boosts the user's Attack to its maximum value, but it empties the user's Belly to just 1. It has no effect if the Belly is 1 or less. B S L じぶんの こうげきの だんかいが さいだいまで あがる しかし じぶんの おなかがへって １になってしまう おなかが １いかのときは こうかがない MD GtI UNUSED S MD It makes your Belly emptier, but it boosts your Attack to the max! The state returns to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Belly Drum is the only move that is capable of raising a single stat by more than three levels without Simple , not counting Haze , Psych Up , Power Swap , Guard Swap , Heart Swap , and Spectral Thief . While Shell Smash causes a net total of eight stat changes, Belly Drum can cause more stat changes if the user has experienced at least a -3 stat change to its Attack stat, reaching twelve stat changes if the user has a -6 Attack stat change. Due to how both this move and Darmanitan 's Zen Mode Ability work, Belly Drum can force a Standard Mode Darmanitan to change its form (unless it is at full HP and has an odd maximum HP)."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Belly-Drum",
+    "Belly Drum",
+    "Belly-Drum (move)"
+  ],
+  "updatedAt": 1773321125
+}

@@ -1,0 +1,17 @@
+{
+  "answerKey": "FLUTTERMANE",
+  "answerDisplay": "FLUTTER MANE",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Ghost / Fairy type Pokémon introduced in Generation 9.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/flutter-mane",
+  "extract": "Mane is a Ghost / Fairy type Pokémon introduced in Generation 9 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211308
+}

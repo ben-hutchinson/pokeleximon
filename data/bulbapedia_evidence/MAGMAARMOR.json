@@ -1,0 +1,34 @@
+{
+  "answerKey": "MAGMAARMOR",
+  "answerDisplay": "MAGMA ARMOR",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Magma Armor (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Magma_Armor_(Ability)",
+  "pageId": 4116,
+  "pageRevisionId": 4512232,
+  "leadText": "Magma Armor (Japanese: マグマのよろい Magma Armor) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV 1.1.3 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Magma Armor prevents the Pokémon from being frozen . A Pokémon with this Ability will be thawed out if it is frozen while in battle (such as if it gains the Ability outside of battle or by an effect like Skill Swap , or is frozen by a Pokémon with an Ability like Mold Breaker ). If the Pokémon with this Ability is frozen and is holding an Aspear , Lum , or Pumkin Berry , Magma Armor will cure the Pokémon of freeze before the Berry has a chance to be consumed. Generation III [ edit | edit source ] If a frozen Pokémon with Magma Armor is sent into battle as one of the lead Pokémon or to replace a fainted Pokémon, or gains Magma Armor due to Trace , it will not be cured of freeze until after a Pokémon takes its turn (uses a move, switches out, etc.). It will be cured of freeze if it is switched in to replace a switched out Pokémon (including if switched in via Baton Pass ). If a frozen Pokémon has Magma Armor as its original Ability but not its current Ability, it will remain frozen when switched out. Generation IV [ edit | edit source ] When a frozen Pokémon with Magma Armor enters battle, it will be cured of freeze. If a frozen Pokémon has Magma Armor as its original Ability but not its current Ability, if it is one of the active Pokémon at the end of the battle or switched out, it will be cured of freeze (with no message). Generation V onward [ edit | edit source ] If a frozen Pokémon has Magma Armor as its original Ability but not its current Ability, it will remain frozen when switched out. Outside of battle [ edit | edit source ] If a frozen Pokémon gains Magma Armor by Evolution or the Ability Capsule , it will not be thawed out until sent into battle. Pokémon with Magma Armor will not be frozen by the Gentleman 's Dusclops in the Battle Pike nor the Battle Arcade 's game board. From Pokémon Emerald onward, if a Pokémon with Magma Armor is in the party (even if fainted ), the number of cycles it takes for all Pokémon Eggs in the party to hatch are halved. This effect does not stack with itself, Flame Body , or Steam Engine ; however, it can be stacked with Hatching Power Pass Power , O-Power , or Roto Hatch ."
+    },
+    {
+      "title": "In battle",
+      "text": "Contents 1 In battle 1.1 Generation III 1.2 Generation IV 1.3 Generation V onward In battle [ edit | edit source ] Magma Armor prevents the Pokémon from being frozen . A Pokémon with this Ability will be thawed out if it is frozen while in battle (such as if it gains the Ability outside of battle or by an effect like Skill Swap , or is frozen by a Pokémon with an Ability like Mold Breaker ). If the Pokémon with this Ability is frozen and is holding an Aspear , Lum , or Pumkin Berry , Magma Armor will cure the Pokémon of freeze before the Berry has a chance to be consumed. Generation III [ edit | edit source ] If a frozen Pokémon with Magma Armor is sent into battle as one of the lead Pokémon or to replace a fainted Pokémon, or gains Magma Armor due to Trace , it will not be cured of freeze until after a Pokémon takes its turn (uses a move, switches out, etc.). It will be cured of freeze if it is switched in to replace a switched out Pokémon (including if switched in via Baton Pass ). If a frozen Pokémon has Magma Armor as its original Ability but not its current Ability, it will remain frozen when switched out. Generation IV [ edit | edit source ] When a frozen Pokémon with Magma Armor enters battle, it will be cured of freeze. If a frozen Pokémon has Magma Armor as its original Ability but not its current Ability, if it is one of the active Pokémon at the end of the battle or switched out, it will be cured of freeze (with no message). Generation V onward [ edit | edit source ] If a frozen Pokémon has Magma Armor as its original Ability but not its current Ability, it will remain frozen when switched out."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Prevents freezing. MD T D S Protects the Pokémon from freezing. B S L こおりじょうたいに ならない MD GtI Unavailable S MD It protects the Pokémon from getting frozen! It burns items thrown at the Pokémon, and the Pokémon won't be affected! MD RT DX This Ability protects the Pokémon from getting Frozen. It also burns items thrown at the Pokémon."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Magma-Armor",
+    "Magma Armor",
+    "Magma-Armor (Ability)"
+  ],
+  "updatedAt": 1774214452
+}

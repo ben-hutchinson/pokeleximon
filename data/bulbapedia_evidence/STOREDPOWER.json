@@ -1,0 +1,38 @@
+{
+  "answerKey": "STOREDPOWER",
+  "answerDisplay": "STORED POWER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Stored Power (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Stored_Power_(move)",
+  "pageId": 117613,
+  "pageRevisionId": 4463035,
+  "leadText": "Stored Power (Japanese: アシストパワー Assist Power) is a damage-dealing Psychic-type move introduced in Generation V. It was TR82 in Pokémon Sword and Shield, and is TM041 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Stored Power deals damage. It normally has a base power of 20, but gains 20 power for every increased stat stage the user has. Stats decreased below normal do not affect this move's base power. Its maximum possible base power is 860. This occurs when all seven of the user's stats (Attack, Defense, Special Attack, Special Defense, Speed, evasion, and accuracy) have been raised the maximum six stages. Stored Power can also be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if a certain move ( Amnesia , Calm Mind , Cotton Guard , Hone Claws , or Nasty Plot ) was used in the prior turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user attacks the target with stored power. The more the user's stats are raised, the greater the damage. X Y OR AS S M US UM P E Sw Sh BD SP LA The user attacks the target with stored power. The more the user's stats are raised, the greater the move's power. S V The user attacks the target with stored power. The more the user's stats are boosted, the greater the move's power."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It damages an enemy. The more you have powered up with stat changes, the more powerful it will be. (The power goes up even when stats other than Special Attack have been boosted.) S MD It damages an enemy. The more you have powered up with stat changes, the more powerful it will be. Take note that the power goes up even when stats other than Sp. Atk have been boosted."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] With all available positive stat changes, Stored Power has the highest base power out of all special moves ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Stored-Power",
+    "Stored Power",
+    "Stored-Power (move)"
+  ],
+  "updatedAt": 1773327595
+}

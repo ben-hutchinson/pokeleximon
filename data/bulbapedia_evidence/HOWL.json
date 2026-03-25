@@ -1,0 +1,37 @@
+{
+  "answerKey": "HOWL",
+  "answerDisplay": "HOWL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Howl (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Howl_(move)",
+  "pageId": 3947,
+  "pageRevisionId": 4403266,
+  "leadText": "Howl (Japanese: とおぼえ Howl) is a non-damaging Normal-type move introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation III to VII [ edit | edit source ] Howl raises the user's Attack stat by one stage. If powered up by a Normalium Z into Z-Howl, the user's Attack stat rises another stage. Throat Chop cannot prevent a Pokémon from using Z-Howl. Generation VIII onwards [ edit | edit source ] Howl raises the user and its allies' Attack stats by one stage. Howl is now a sound-based move . As such, it cannot affect allies with the Ability Soundproof . However, Howl always affects the user even it has Soundproof. Howl cannot affect allies if they are behind a substitute unless the user has the Ability Infiltrator . However, it is not blocked by protection moves (including Max Guard and Crafty Shield )."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Howls to raise the spirit and boosts Attack . FR LG The user howls to raise its spirit and boost its Attack stat. D P Pt HG SS PBR B W B2 W2 The user howls loudly to raise its spirit, boosting its Attack stat. X Y OR AS S M US UM P E The user howls loudly to raise its spirit, which raises its Attack stat. Sw Sh BD SP LA The user howls loudly to raise the spirit of itself and allies. This raises their Attack stats. S V The user howls loudly to rouse itself and its allies. This boosts their Attack stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts the user's Attack by one level. MD T D S Boosts the user's Attack by 1 level. B S L じぶんの こうげきを １だんかいあげる MD GtI UNUSED S MD It boosts your Attack. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Howl is the only variation of Defense Curl that hasn't been used in the animated series yet. Howl is the only sound-based move that cannot hit Pokémon behind a substitute ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Howl",
+    "Howl (move)"
+  ],
+  "updatedAt": 1773323727
+}

@@ -1,0 +1,37 @@
+{
+  "answerKey": "GRUDGE",
+  "answerDisplay": "GRUDGE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Grudge (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Grudge_(move)",
+  "pageId": 3899,
+  "pageRevisionId": 4246709,
+  "leadText": "Grudge (Japanese: おんねん Grudge) is a non-damaging Ghost-type move introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] When Grudge is used, if the user faints as the direct result of an attack, the move which causes the user to faint will lose all of its PP . This move's effect only works if the user faints before making another action. Grudge does not activate for Struggle or for damage that occurs at the end of the turn, including damage from Leech Seed , poison , burn , Sandstorm , Hail , and Future Sight . If powered up by a Ghostium Z into Z-Grudge, the user becomes the center of attention , forcing all of the opponent's moves to target the user for the turn, if possible. If the Grudge user faints as the result of a Z-Move , Grudge will have no effect. If it faints as the result of a Max Move , Grudge will activate and display the name of the base move that was powered up, depleting all PP from that move. Grudge can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Curse was used in the previous turn. It is also part of a Contest Spectacular combination with the user gaining an extra three appeal points if any of the moves Encore , Taunt or Torment was used in the prior turn. Generation IX [ edit | edit source ] Grudge cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S Colo XD If the user faints, deletes the PP of the final move. E If the user faints, deletes all PP of foe's last move. FR LG If the user faints, this move deletes the PP of the move that finished it. D P Pt HG SS PBR If the user faints, the user's grudge fully depletes the PP of the foe's move that knocked it out. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA If the user faints, the user's grudge fully depletes the PP of the opponent's move that knocked it out. S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Grudge status. If the user is defeated, it zeroes the PP of the move last used by the foe. MD T D S Gives the user the Grudge status, which zeroes the PP of an enemy's move that makes the user faint. B S L じぶんを おんねんじょうたいにかえる じぶんが たおれたときに こうげきしてきた ポケモンの さいごにくりだしたわざの ＰＰを ０にする MD GtI You'll get the Grudge status. If you faint with the Grudge status, it cuts the PP of the enemy's last move to 0. S MD It halves your HP, which makes you hold a grudge! * You'll halve your HP and hold a grudge! If you're attacked, you'll cut the PP of the attacker's move to 0. The status will go away after a while. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as a TCG attack . In Generation III , the status screen erroneously states that the move has 100% accuracy, even though it targets the user (thus it ignores accuracy and evasion checks). Despite its category matching this move in English and Japanese, Runerigus cannot learn Grudge."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Grudge",
+    "Grudge (move)"
+  ],
+  "updatedAt": 1773323450
+}

@@ -1,0 +1,30 @@
+{
+  "answerKey": "BRUNWAY",
+  "answerDisplay": "BRUN WAY",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Kalos Route 15",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Kalos_Route_15",
+  "pageId": 184562,
+  "pageRevisionId": 4475600,
+  "leadText": "Route 15 (Japanese: １５番道路 Route 15) is a route in northern Kalos, connecting Laverre City, Dendemille Town, and Route 16. The route is also known as Brun Way (Japanese: ブラン通り Brun Way). At the gate from Laverre City, a pair of Team Flare Grunts initially block the player from entering this route. The route becomes accessible once the player defeats Bryony and Celosia at the Poké Ball Factory.",
+  "sections": [
+    {
+      "title": "Route description",
+      "text": "Route description [ edit | edit source ] Route 15 is a winding route that connects Laverre City in the west to Dendemille Town in the east. The route is laden with golden yellow leaves which may conceal items or Trainers. On the far southeast end, near the exit to Dendemille Town, is a path that leads to Route 16 . Also located on the eastern end is an entrance to the Lost Hotel ."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Revive In cul-de-sac south of the Laverre City Gate (pile of leaves) X Y Net Ball Directly east from the Laverre City Gate and north of Hex Maniac Luna (pile of leaves) X Y Leppa Berry In front of the Berry tree directly east of the Laverre City Gate (regenerates after 7 days) X Y Antidote On the north wall behind the Leppa Berry tree, on the west side (hidden) X Y PP Up At the north end of the western stream, in the area on the east side (requires Surf ) (pile of leaves) X Y Tiny Mushroom Beyond the ledge east of the Leppa Berry tree, one pace north of the small corner in the path (requires Surf ) (pile of leaves, hidden) X Y Dire Hit To the west of the western bridge (pile of leaves) X Y Full Heal At the southwest end of the western stream, accessible via a narrow path on the east side of the stream X Y Protein Behind a cracked wall northeast from the western bridge (requires Rock Smash ) X Y HP Up Up the waterfall in the eastern stream, on the rock in the southeast of the area (requires Rock Smash , Surf , and Waterfall ) (hidden) X Y Stone Plate Up the waterfall in the eastern stream, on the north side of the stream (requires Rock Smash , Surf , and Waterfall ) X Y Pretty Wing In the area south on the eastern stream from the bridge, in the middle of the south wall (requires Surf ) (hidden) X Y Macho Brace Behind a cracked wall northeast from the eastern bridge (requires Rock Smash ) X Y X Defense On the second floor of the Lost Hotel's ruins, four paces from the northeast corner (hidden) X Y TM97 ( Dark Pulse ) On the west side of the south part of the eastern stream, accessed from Route 16 (requires Cut , Surf , and Waterfall ) X Y"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Brun-Way",
+    "Brun Way",
+    "Brun-Way (location)"
+  ],
+  "updatedAt": 1774213715
+}

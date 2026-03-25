@@ -1,0 +1,38 @@
+{
+  "answerKey": "LOWSWEEP",
+  "answerDisplay": "LOW SWEEP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Low Sweep (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Low_Sweep_(move)",
+  "pageId": 117453,
+  "pageRevisionId": 4484509,
+  "leadText": "If you were looking for the move that is known as Low Kick in English, see Low Kick. Low Sweep (Japanese: ローキック Low Kick) is a damage-dealing Fighting-type move introduced in Generation V. It is: TM47 from Generation V to Pokémon Ultra Sun and Ultra Moon. TM75 in Pokémon Sword and Shield. TM27 in Pokémon Brilliant Diamond and Shining Pearl. TM039 in Pokémon Scarlet and Violet. TM113 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation V [ edit | edit source ] Low Sweep inflicts damage and lowers the target's Speed stat by one stage. Generation VI onwards [ edit | edit source ] Low Sweep's power changed from 60 to 65."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user attacks the target's legs swiftly, reducing the target's Speed stat. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user makes a swift attack on the target's legs, which lowers the target's Speed stat. ZA The user attacks targets with a swift move aimed at their legs. This also makes targets move more slowly for a short time."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It damages an enemy. It also lowers its Travel Speed. S MD MD RT DX It damages an enemy. It also lowers the enemy's Travel Speed."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Low Sweep appears to be inspired by an attack called a leg sweep, which is a mainstay attack in a wide variety of martial arts. It is designed to trip opponents. Low Sweep is the only Fighting-type Clever move."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Low-Sweep",
+    "Low Sweep",
+    "Low-Sweep (move)"
+  ],
+  "updatedAt": 1773324505
+}

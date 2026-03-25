@@ -1,0 +1,57 @@
+{
+  "answerKey": "EARTHEATER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4289470,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Earth Eater (Japanese: Geophagy) is an Ability introduced in Generation IX. It is the signature Ability of Orthworm.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Earth Eater is hit by a Ground-type move , its HP is restored by one quarter of its maximum HP, and the move will have no effect on that Pokemon (if a Pokemon with this Ability already has full HP, the Ground-type move will do nothing). Earth Eater will not activate if the Pokemon is protected from the Ground-type move. Outside of battle [ edit | edit source ] Earth Eater has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with Earth Eater is hit by a Ground-type move , its HP is restored by one quarter of its maximum HP, and the move will have no effect on that Pokemon (if a Pokemon with this Ability already has full HP, the Ground-type move will do nothing). Earth Eater will not activate if the Pokemon is protected from the Ground-type move.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Restores HP when hit by a Ground-type move.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "healing trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "healing trait"
+    ],
+    "connections_descriptors": [
+      "Healing abilities",
+      "Gen IX abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257942
+}

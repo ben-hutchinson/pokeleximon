@@ -1,0 +1,30 @@
+{
+  "answerKey": "BOLTBEAK",
+  "answerDisplay": "BOLT BEAK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Bolt Beak (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bolt_Beak_(move)",
+  "pageId": 244326,
+  "pageRevisionId": 4270051,
+  "leadText": "Bolt Beak (Japanese: でんげきくちばし Electrical Shock Beak) is a damage-dealing Electric-type move introduced in Generation VIII. It is the signature move of the Fossilized Bird Pokémon.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] Bolt Beak deals damage. If the user attacks before the target, or if the target switches in during the turn that Bolt Beak is used, its base power doubles to 170. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Bolt Beak cannot be selected in a battle. Generation IX [ edit | edit source ] Bolt Beak cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA The user stabs the target with its electrified beak. If the user attacks before the target, the power of this move is doubled. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user stabs the target with its electrified beak. This move's power is doubled if the user moves before the target."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Bolt-Beak",
+    "Bolt Beak",
+    "Bolt-Beak (move)"
+  ],
+  "updatedAt": 1773321281
+}

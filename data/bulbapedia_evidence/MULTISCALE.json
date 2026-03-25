@@ -1,0 +1,29 @@
+{
+  "answerKey": "MULTISCALE",
+  "answerDisplay": "MULTISCALE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Multiscale (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Multiscale_(Ability)",
+  "pageId": 117476,
+  "pageRevisionId": 4407518,
+  "leadText": "Multiscale (Japanese: マルチスケイル Multiscale) is an Ability introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Multiscale reduces damage taken from damage-dealing moves by half when at maximum HP . It does not reduce the amount of HP taken from moves that deal direct damage . When hit with a multistrike move at maximum HP, only the first hit will have its damage reduced. All further hits deal full damage. Outside of battle [ edit | edit source ] Multiscale has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Multiscale reduces damage taken from damage-dealing moves by half when at maximum HP . It does not reduce the amount of HP taken from moves that deal direct damage . When hit with a multistrike move at maximum HP, only the first hit will have its damage reduced. All further hits deal full damage."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Multiscale",
+    "Multiscale (Ability)"
+  ],
+  "updatedAt": 1773329045
+}

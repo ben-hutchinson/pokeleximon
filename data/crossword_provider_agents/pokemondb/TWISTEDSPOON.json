@@ -1,0 +1,17 @@
+{
+  "answerKey": "TWISTEDSPOON",
+  "answerDisplay": "TWISTED SPOON",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this item, including added effects and where to find it.",
+  "score": 102.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/item/twisted-spoon",
+  "extract": "Spoon, including added effects and where to find it.",
+  "rankPosition": 1,
+  "updatedAt": 1774213257
+}

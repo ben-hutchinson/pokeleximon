@@ -1,0 +1,17 @@
+{
+  "answerKey": "IRONTAIL",
+  "answerDisplay": "IRON TAIL",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "tails and added effects for the Pokémon attack.",
+  "score": 57.88,
+  "approved": false,
+  "qualityFlags": [
+    "near_verbatim_source"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/move/iron-tail",
+  "extract": "tails and added effects for the Pokémon attack",
+  "rankPosition": 1,
+  "updatedAt": 1774211724
+}

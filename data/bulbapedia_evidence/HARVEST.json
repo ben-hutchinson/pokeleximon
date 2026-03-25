@@ -1,0 +1,29 @@
+{
+  "answerKey": "HARVEST",
+  "answerDisplay": "HARVEST",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Harvest (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Harvest_(Ability)",
+  "pageId": 117294,
+  "pageRevisionId": 4472684,
+  "leadText": "Harvest redirects here. For the island in the Decolore Islands, see Harvest Island. If you were looking for the different types of harvests in Pokémon Legends: Arceus, see Jubilife Village → Farm. Harvest (Japanese: しゅうかく Harvest) is an Ability introduced in Generation V. It is exclusively a Hidden Ability.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.2 Outside of battle 1.2.1 Generation VIII 1.2.2 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] If the Pokémon has used a Berry , there is a 50% chance of it being restored at the end of each turn. The held Berry is remembered even if it is not restored or if the Pokémon has switched out. Harvest will always activate in harsh sunlight . Harvest can recover Berries consumed by Fling and Natural Gift ; however, Harvest can neither recover Berries transferred to another Pokémon, Berries destroyed by Incinerate , Berries knocked off with Knock Off , or Berries eaten with Bug Bite or Pluck nor restore a Berry if it is collected by a Pokémon with Pickup . If more than one Pokémon has Pickup or Harvest, the faster Pokémon will restore an item first. A single Pokémon's Harvest will not activate more than once per turn. If the held Berry is consumed immediately after it is restored, Harvest will not be able to restore it again until the next turn. Harvest can recover Berries consumed that were originally another Pokémon's, but transferred to the Pokémon with Harvest. However, a Pokémon may only have one consumed item (including non-Berries) at a time; if a Pokémon consumes a Berry, obtains another item and consumes it, the original consumed Berry cannot be restored, even if the second item is restored and swapped away. If the Pokémon with Harvest obtains an item after consuming a Berry, Harvest can still restore the old Berry as long as the Pokémon has no held item and did not consume any other items (including non-Berries) since consuming the old Berry. Berries held by the target of Bug Bite or Pluck do not count as the user's last consumed item, and cannot be restored by the user's Harvest. Outside of battle [ edit | edit source ] Generation VIII [ edit | edit source ] In Pokémon Sword and Shield , if a Pokémon with Harvest is in the first place in the party (even if fainted ), there is a 51% chance the game will force an encounter with a Grass-type Pokémon, if one is possible. In Pokémon Brilliant Diamond and Shining Pearl , the chance is 50%. Generation IX [ edit | edit source ] In Pokémon Scarlet and Violet , this Ability has no effect outside of battle, with its former field function effectively being replaced by Meal Powers ."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] If the Pokémon has used a Berry , there is a 50% chance of it being restored at the end of each turn. The held Berry is remembered even if it is not restored or if the Pokémon has switched out. Harvest will always activate in harsh sunlight . Harvest can recover Berries consumed by Fling and Natural Gift ; however, Harvest can neither recover Berries transferred to another Pokémon, Berries destroyed by Incinerate , Berries knocked off with Knock Off , or Berries eaten with Bug Bite or Pluck nor restore a Berry if it is collected by a Pokémon with Pickup . If more than one Pokémon has Pickup or Harvest, the faster Pokémon will restore an item first. A single Pokémon's Harvest will not activate more than once per turn. If the held Berry is consumed immediately after it is restored, Harvest will not be able to restore it again until the next turn. Harvest can recover Berries consumed that were originally another Pokémon's, but transferred to the Pokémon with Harvest. However, a Pokémon may only have one consumed item (including non-Berries) at a time; if a Pokémon consumes a Berry, obtains another item and consumes it, the original consumed Berry cannot be restored, even if the second item is restored and swapped away. If the Pokémon with Harvest obtains an item after consuming a Berry, Harvest can still restore the old Berry as long as the Pokémon has no held item and did not consume any other items (including non-Berries) since consuming the old Berry. Berries held by the target of Bug Bite or Pluck do not count as the user's last consumed item, and cannot be restored by the user's Harvest."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Harvest",
+    "Harvest (Ability)"
+  ],
+  "updatedAt": 1773328918
+}

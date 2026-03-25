@@ -1,0 +1,14 @@
+{
+  "answerKey": "ABSORBBULB",
+  "answerDisplay": "ABSORB BULB",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Boosts Special Attack after it takes water-type damage",
+  "score": 120.48,
+  "approved": true,
+  "qualityFlags": [],
+  "evidenceRef": "Description",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Absorb_Bulb",
+  "extract": "The Absorb Bulb (Japanese: きゅうこん Bulb) is a type of held item introduced in Generation V. It raises the holder's Special Attack when it is hit by a damaging Water-type move.",
+  "updatedAt": 1774258344
+}

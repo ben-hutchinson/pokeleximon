@@ -1,0 +1,38 @@
+{
+  "answerKey": "MIRACLEEYE",
+  "answerDisplay": "MIRACLE EYE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Miracle Eye (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Miracle_Eye_(move)",
+  "pageId": 13703,
+  "pageRevisionId": 4379326,
+  "leadText": "Miracle Eye (Japanese: ミラクルアイ Miracle Eye) is a non-damaging Psychic-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation V to VII 1.3 Generation VIII onwards Effect [ edit | edit source ] Generation IV [ edit | edit source ] Miracle Eye causes accuracy checks against the target to ignore changes to the target's evasion stat stages if its evasion stat stage is greater than 0. If Miracle Eye's target is a Dark-type Pokémon, it also removes the target's immunity to Psychic-type moves. Miracle Eye's effect ends when the target switches out. Miracle Eye bypasses accuracy checks to always hit its target, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . Generation V to VII [ edit | edit source ] Miracle Eye can now be reflected with Magic Coat . Miracle Eye will now fail if used against a Pokémon already under its effect. Miracle Eye can also be used as part of a Contest Spectacular combination , causing a one-hit knockout move to give an extra three appeal points if used in the next turn. If powered up by a Psychium Z into Z-Miracle Eye, the user's Special Attack stat rises by one stage. Generation VIII onwards [ edit | edit source ] Miracle Eye cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe. Pt HG SS PBR Enables the user to hit a Dark type with any type of move. It also enables the user to hit an evasive foe. B W B2 W2 Enables a Dark-type target to be hit by Psychic-type attacks. It also enables an evasive target to be hit. X Y OR AS S M US UM P E Enables a Dark-type target to be hit by Psychic-type attacks. This also enables an evasive target to be hit. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Resets any boosted evasiveness of the targeted enemy. It also afflicts a targeted Dark-type Pokémon with a Miracle Eye status condition. B S L てきポケモンの あがっている かいひを もとにもどす てきポケモンが あくタイプのばあいは ミラクルアイじょうたいにかえる MD GtI UNUSED S MD It resets an enemy's evasiveness. Dark types can be hit by moves that would have no effect. * It resets an enemy's boosted evasiveness. If the enemy is Dark type, it also causes the Miracle Eye status condition, which allows Psychic-type moves to hit the enemy. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Pokémon Diamond and Pearl , the move description erroneously states that using Miracle Eye allows the user to hit a Ghost type with any type of move, most likely as result of copying it over from Foresight and Odor Sleuth , which is the effect of these moves. Miracle Eye may be a reference to nazar charms with eye-pattern motifs or the Hamsa , both used to ward off the \" evil eye \". Miracle Eye neutralises the Dark-type's (known in Japanese as the \"Evil-type\") immunity to Psychic-type moves, which may allude to spiritual talismans warding off the type's evil associations. Miracle Eye is the only move that removes the Dark-type's immunity to Psychic-type moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Miracle-Eye",
+    "Miracle Eye",
+    "Miracle-Eye (move)"
+  ],
+  "updatedAt": 1773325083
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "PETALDANCE",
+  "answerDisplay": "PETAL DANCE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Petal Dance (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Petal_Dance_(move)",
+  "pageId": 3689,
+  "pageRevisionId": 4503705,
+  "leadText": "Petal Dance (Japanese: はなびらのまい Petal Dance) is a damage-dealing Grass-type move introduced in Generation I. Prior to Generation II, it was the signature move of Oddish's evolutionary line. It is TM151 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generations II and III 1.3 Generation IV 1.4 Generation V onwards 1.5 Generation VIII 1.5.1 Pokémon Legends: Arceus 1.6 Generation IX 1.6.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I [ edit | edit source ] Petal Dance inflicts damage for 3-4 turns, has a base power of 70, and 20 PP . PP is deducted only on the turn Petal Dance is first called. Once called, even if the move misses, the user will only be able to use Petal Dance, and will not be able to switch out. After Petal Dance is finished, the user becomes confused , due to fatigue. If the Petal Dance duration is disrupted (such as by full paralysis or hurting itself due to confusion ), it will immediately end. The user will only become confused if Petal Dance is fully executed, without its duration being disrupted. Sleep , freeze , binding , and flinching will pause but not disrupt the duration of Petal Dance. If a change in accuracy or evasion affects Petal Dance's accuracy, the decrease in accuracy will be reapplied on each automatic turn. Its accuracy will return to normal when it is selected again. If Petal Dance misses due to the 99.6% accuracy bug of 100%-accuracy moves when there are no other accuracy or evasion modifiers in effect, or in case said modifiers cancel each other, its accuracy will be unaffected. If Petal Dance misses during the turn it is selected, its secondary effects will not activate. In Stadium, after the duration of Petal Dance ends, there will be a notice that the user becomes confused. Generations II and III [ edit | edit source ] The duration of Petal Dance is decreased to 2-3 turns. In battles with multiple opponents, the user selects itself as the target, but hits an adjacent opponent that is selected at random upon each use of the move. Petal Dance can be used as the second move of a Pokémon Contest combination , with the user gaining 4 bonus appeal points if Growth was used in the previous turn. Generation IV [ edit | edit source ] The power of Petal Dance is increased to 90. All other effects are the same. Generation V onwards [ edit | edit source ] The power of Petal Dance is further increased to 120, and its PP is reduced to 10. It is disrupted if it is not successful due to missing, sleeping , paralysis , freeze , flinching or is blocked by a protection move. If a disruption occurs on what would have been the final, confusion-inducing turn of Petal Dance, the user will still become confused. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Petal Dance's base power was reduced to 90, and its accuracy to 85%. It no longer continues for multiple turns and confuses the user, and instead the user becomes fixated on using Petal Dance. Pokémon Legends: Arceus Category Special PP 10 Agile Strong Power 90 60 120 Accuracy 85% 85% 95% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect ? ? ? ? ? ? The user becomes fixated Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Petal Dance is a multi-strike move with 40 power that inflicts damage three times around the user and confuses them after they successfully execute the move. If the user flinches during the wind-up, Petal Dance will go on cooldown but the user will not be confused. Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 40 48 Cooldown 10s Move wind-up time 18 frames Effect duration —s Additional effect — — — Confuses the user after execution"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A dance-like attack that lasts two to three turns. Afterwards, the attacker becomes confused. Stad2 A dance-like attack that lasts two to three turns. The attacker becomes confused. G S C Works 2-3 turns and confuses user. R S E Colo XD A rampage of 2 to 3 turns that confuses the user. FR LG The user attacks with petals for two to three turns, then gets confused. D P Pt HG SS PBR The user attacks by scattering petals for two to three turns. The user then becomes confused. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP S V The user attacks the target by scattering petals for two to three turns. The user then becomes confused. LA The user attacks the target by scattering petals, then becomes fixated on using this move. ZA The user attacks by scattering petals in three waves, one after another. The user then becomes confused."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Hits the target two to five times in succession. However it also makes the user confused. MD T D S Inflicts damage on the target using 2 to 5 attacks in a single turn. But it also afflicts the user with a Confused status condition, making its movements and attacks go astray. B S L てきポケモンに ２〜５かいれんぞくで ダメージをあたえる しかし じぶんが こんらんじょうたいに なってしまう Conq. Petals are scattered two to three times to attack the target. The user is temporarily immobilized. MD GtI It damages an enemy 2 to 3 times in a row. After that, you'll get the Confused status condition. S MD It damages an enemy 2 to 3 times in a row. After that, you'll get confused."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Petal-Dance",
+    "Petal Dance",
+    "Petal-Dance (move)"
+  ],
+  "updatedAt": 1773325722
+}

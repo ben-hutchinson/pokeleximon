@@ -1,0 +1,34 @@
+{
+  "answerKey": "SAPSIPPER",
+  "answerDisplay": "SAP SIPPER",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Sap Sipper (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sap_Sipper_(Ability)",
+  "pageId": 111793,
+  "pageRevisionId": 4275922,
+  "leadText": "Sap Sipper (Japanese: そうしょく Herbivorous) is an Ability introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation V 1.1.2 Generation VI onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation V [ edit | edit source ] When a Pokémon with Sap Sipper is hit by a Grass-type move , its Attack is increased by one stage, and the move will have no effect on that Pokémon. Multistrike moves , such as Bullet Seed , will only increase the Pokémon's Attack once. Aromatherapy will not activate Sap Sipper. Sap Sipper will not activate if the Pokémon is protected from the Grass-type move. Generation VI onward [ edit | edit source ] Aromatherapy now activates Sap Sipper of allies. Outside of battle [ edit | edit source ] Sap Sipper has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generation V [ edit | edit source ] When a Pokémon with Sap Sipper is hit by a Grass-type move , its Attack is increased by one stage, and the move will have no effect on that Pokémon. Multistrike moves , such as Bullet Seed , will only increase the Pokémon's Attack once. Aromatherapy will not activate Sap Sipper. Sap Sipper will not activate if the Pokémon is protected from the Grass-type move. Generation VI onward [ edit | edit source ] Aromatherapy now activates Sap Sipper of allies."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI Unavailable S MD Grass-type moves don't work on the Pokémon, and they cause the Pokémon's Attack to go up!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sap-Sipper",
+    "Sap Sipper",
+    "Sap-Sipper (Ability)"
+  ],
+  "updatedAt": 1773329178
+}

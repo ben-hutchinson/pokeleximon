@@ -1,0 +1,38 @@
+{
+  "answerKey": "BULKUP",
+  "answerDisplay": "BULK UP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Bulk Up (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bulk_Up_(move)",
+  "pageId": 3950,
+  "pageRevisionId": 4462328,
+  "leadText": "Bulk Up (Japanese: ビルドアップ Build Up) is a non-damaging Fighting-type move introduced in Generation III. It is: TM08 from Generation III to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TM30 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR48 in Pokémon Sword and Shield. TM064 in Pokémon Scarlet and Violet. TM011 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Bulk Up raises the user's Attack stat and Defense stat by one stage each. If powered up by a Fightinium Z , the user's Attack stat is raised by another stage. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Bulk Up's PP has been reduced to 10, and it raises the user's offensive and defensive stats for four turns. Pokémon Legends: Arceus Category Status PP 10 Agile Strong Power — — — Accuracy —% —% —% Action speed modifier Self -2 -3 +5 Target ? ? ? Additional effect Turns 4 3 5 ? ? ? ? Raises the user's offensive and defensive stats Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 18s Move wind-up time 40 frames Effect duration 12s 15s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo Bulks up the body to boost both Attack and Defense . (move) Bulks up the body to boost both Attack & Defense . (TM) FR LG The user bulks up its body to boost both its Attack and Defense stats. XD Raises Attack and Defense 1 level. D P Pt HG SS PBR B W B2 W2 The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats. X Y OR AS S M US UM P E Sw Sh BD SP The user tenses its muscles to bulk up its body, raising both its Attack and Defense stats. LA The user tenses its muscles to bulk up its body, raising its offensive and defensive stats. S V The user tenses its muscles to bulk up its body, boosting its Attack and Defense stats. ZA The user boosts its Attack and Defense stats for a short time by tensing its muscles to bulk up its body."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Raises the user's Attack and Defense by one level. MD T D S Boosts the user's Attack and Defense by 1 level. B S L じぶんの こうげき ぼうぎょを １だんかいあげる MD GtI It boosts your Attack and Defense. (The stat changes return to normal when you go to the next floor or step on a Wonder Tile.) S MD It boosts your Attack and Defense. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move's name is the same as the category of Grimmsnarl ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Bulk-Up",
+    "Bulk Up",
+    "Bulk-Up (move)"
+  ],
+  "updatedAt": 1773321405
+}

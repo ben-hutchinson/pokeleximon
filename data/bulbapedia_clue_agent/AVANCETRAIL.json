@@ -1,0 +1,85 @@
+{
+  "answerKey": "AVANCETRAIL",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4425537,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Kalos location",
+        "evidence_ref": "lead",
+        "specificity": 0.5
+      },
+      {
+        "text": "route landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.68
+      },
+      {
+        "text": "town landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "forest landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "near a regional town",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Kalos landmark",
+        "evidence_ref": "lead",
+        "mystery_score": 0.38,
+        "specificity_score": 0.5,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Kalos route",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.7,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Regional route",
+        "evidence_ref": "lead",
+        "mystery_score": 0.44,
+        "specificity_score": 0.62,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Route in Kalos",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.66,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Town-side landmark",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "theme"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "Pokemon location"
+    ],
+    "connections_descriptors": [
+      "Kalos landmarks",
+      "Kalos routes"
+    ],
+    "risk_flags": [],
+    "confidence": 0.77
+  },
+  "updatedAt": 1774257927
+}

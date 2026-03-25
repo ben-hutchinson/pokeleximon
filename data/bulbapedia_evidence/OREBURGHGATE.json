@@ -1,0 +1,30 @@
+{
+  "answerKey": "OREBURGHGATE",
+  "answerDisplay": "OREBURGH GATE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Oreburgh Gate",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Oreburgh_Gate",
+  "pageId": 19389,
+  "pageRevisionId": 4339856,
+  "leadText": "The Oreburgh Gate (Japanese: クロガネゲート Kurogane Gate) is a small cave that is located on the west side of Oreburgh City, separating it from Route 203. Although the passage between Route 203 and Oreburgh City is small, the cave has a lower floor that can be reached with Rock Smash. Underneath are several items and the only Trainer in the game that uses Riolu in Pokémon Diamond and Pearl, which can be reached using Strength and Surf. There are also ramps that can be jumped using a bicycle, formed naturally from the stone in the cave.",
+  "sections": [
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Oreburgh Gate is accessed via Route 203 , east of Jubilife City , completing the path between Jubilife and Oreburgh City . The small cave was designed to be a short path in-between routes, but more of it becomes accessible after certain HMs are obtained. Starting from the western entrance from Route 203, the passage approaches an upside down \"T\" intersection. By traveling east, past two Trainers, the entrance to Oreburgh can be reached. However, by turning north, the tunnel leads to a stairwell going down to the basement floor. Several breakable rocks are scattered around the tunnel, including one that blocks the passage to the basement and can only be removed with Rock Smash . The basement floor is much larger and more complex than the ground floor. A series of rocks, ledges , and boulders form a giant maze in the subsurface caverns. A large underground lake cuts through the basement, separating it into two parts. Several items are scattered throughout the area. The cave can be thoroughly navigated through the use of Rock Smash , Bicycle , Surf , and Strength , and the labyrinth can be bypassed almost entirely by surfing around the lake. On the other side of the water, one Trainer and two items, TM01 ( Focus Punch ) and an Earth Plate , can be found."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In all languages except French and Spanish, it is named the same way as gates . Additionally, it serves a similar purpose to them."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Oreburgh-Gate",
+    "Oreburgh Gate",
+    "Oreburgh-Gate (location)"
+  ],
+  "updatedAt": 1773325538
+}

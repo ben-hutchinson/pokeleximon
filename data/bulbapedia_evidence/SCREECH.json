@@ -1,0 +1,37 @@
+{
+  "answerKey": "SCREECH",
+  "answerDisplay": "SCREECH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Screech (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Screech_(move)",
+  "pageId": 3712,
+  "pageRevisionId": 4500912,
+  "leadText": "Screech (Japanese: いやなおと Unpleasant Tone) is a non-damaging Normal-type move introduced in Generation I. It was TM16 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I-II 1.2 Generation III-V 1.3 Generation VI onwards 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Screech decreases the target's Defense stat by two stat stages. Screech is a sound-based move . If powered up by a Normalium Z into Z-Screech, the user's Attack stat rises by one stage. Throat Chop cannot prevent a Pokémon from using Z-Screech. Generation I-II [ edit | edit source ] Screech cannot affect a Pokémon behind a substitute . In the Generation I and II core series games, when an in-game opponent outside of the Battle Tower uses Screech, the move has a 25% chance to fail in addition to its normal chance to miss. Generation III-V [ edit | edit source ] Screech no longer has an additional chance to fail when used by an in-game opponent. Generation VI onwards [ edit | edit source ] Screech can now hit Pokémon even if they are behind a substitute. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 10s Move wind-up time 1 frame Effect duration 30s 33s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A move that makes a horrible noise. It sharply reduces the target's Defense . G S C Sharply reduces the foe's Defense . R S E Emits a screech to sharply reduce the foe's Defense . FR LG An ear-splitting screech is emitted to sharply reduce the foe's Defense . Colo XD Screeches to sharply lower the target's Defense . D P Pt HG SS PBR An earsplitting screech is emitted to sharply reduce the foe's Defense stat. B W B2 W2 An earsplitting screech harshly reduces the target's Defense stat. X Y OR AS S M US UM P E Sw Sh BD SP LA S V An earsplitting screech harshly lowers the target's Defense stat. ZA The user emits a horrible screech that makes targets reflexively want to cover their ears. This lowers their Defense stats for a while."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Sharply lowers the target's Defense. MD T D S Greatly reduces the target's Defense. B S L てきポケモンの ぼうぎょを おおきくさげる MD GtI S MD MD RT DX It sharply lowers the enemy's Defense."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Screech is one of a few moves with its accuracy being different between the core series (85%) and Pokémon Masters EX (100%). Prior to Generation V , Shedinja is able to know Screech by leveling up if Nincada is allowed to evolve only at level 20, as Ninjask learns this move at this level."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Screech",
+    "Screech (move)"
+  ],
+  "updatedAt": 1773326723
+}

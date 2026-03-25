@@ -1,0 +1,33 @@
+{
+  "answerKey": "HEATPROOF",
+  "answerDisplay": "HEATPROOF",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Heatproof (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Heatproof_(Ability)",
+  "pageId": 14330,
+  "pageRevisionId": 4407486,
+  "leadText": "Heatproof (Japanese: たいねつ Heatproof) is an Ability introduced in Generation IV. Prior to Generation VIII, it was the signature Ability of Bronzor and Bronzong.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If a Pokémon with Heatproof is attacked by a Fire-type move, the opponent's Attack or Special Attack is reduced by 50% during damage calculation, effectively halving the damage the Pokémon takes. Prior to Generation IX , the power of affected moves is reduced by 50% instead. It also halves the damage done from the burn status ailment, from 1⁄16 to 1⁄32 of the Pokémon's maximum HP (from 1⁄8 to 1⁄16 of the Pokémon's maximum HP prior to Generation VII ). Outside of battle [ edit | edit source ] Heatproof has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] If a Pokémon with Heatproof is attacked by a Fire-type move, the opponent's Attack or Special Attack is reduced by 50% during damage calculation, effectively halving the damage the Pokémon takes. Prior to Generation IX , the power of affected moves is reduced by 50% instead. It also halves the damage done from the burn status ailment, from 1⁄16 to 1⁄32 of the Pokémon's maximum HP (from 1⁄8 to 1⁄16 of the Pokémon's maximum HP prior to Generation VII )."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Halves the damage the Pokémon suffers from Fire-type attacks. B S L ほのおタイプの ダメージを はんげんする MD GtI Unavailable S MD The Pokémon takes less damage from Fire-type moves!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Heatproof",
+    "Heatproof (Ability)"
+  ],
+  "updatedAt": 1773328921
+}

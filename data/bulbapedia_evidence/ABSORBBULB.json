@@ -1,0 +1,34 @@
+{
+  "answerKey": "ABSORBBULB",
+  "answerDisplay": "ABSORB BULB",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Absorb Bulb",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Absorb_Bulb",
+  "pageId": 133381,
+  "pageRevisionId": 4296622,
+  "leadText": "The Absorb Bulb (Japanese: きゅうこん Bulb) is a type of held item introduced in Generation V. It raises the holder's Special Attack when it is hit by a damaging Water-type move.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If the holder is hit by a Water-type damaging move , it consumes the Absorb Bulb and its Special Attack is increased by one stage. It does not activate if the holder already has +6 Special Attack stat stages (unless its Ability is Contrary , in which case it will not activate if the holder has -6 Special Attack stat stages). It does not activate if the holder is protected from or unaffected by the Water-type move (e.g. due to Water Absorb or Wonder Guard ). If multiple Pokémon each holding an Absorb Bulb or Luminous Moss are hit by a Water-type move at once, each hit Pokémon will consume their Absorb Bulb or Luminous Moss before Symbiosis transfers any item (including these items). Cram-o-matic [ edit | edit source ] Type Points Grass 8"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 A consumable bulb. If the holder is hit by a Water-type move, its Sp. Atk will rise. X Y OR AS S M US UM P E An item to be held by a Pokémon. It boosts Sp. Atk if hit with a Water-type attack. It can only be used once. Sw Sh BD SP LA An item to be held by a Pokémon. It boosts Sp. Atk if the holder is hit with a Water-type attack. It can only be used once. S V An item to be held by a Pokémon. This single-use bulb boosts the Sp. Atk stat if the holder is damaged by a Water-type attack."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.2.1 Cram-o-matic 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price B W B2 W2 X Y OR AS N/A $ 100 S M US UM Sw Sh N/A $ 2,000 S V $ 5,000 $ 1,250 Effect [ edit | edit source ] If the holder is hit by a Water-type damaging move , it consumes the Absorb Bulb and its Special Attack is increased by one stage. It does not activate if the holder already has +6 Special Attack stat stages (unless its Ability is Contrary , in which case it will not activate if the holder has -6 Special Attack stat stages). It does not activate if the holder is protected from or unaffected by the Water-type move (e.g. due to Water Absorb or Wonder Guard ). If multiple Pokémon each holding an Absorb Bulb or Luminous Moss are hit by a Water-type move at once, each hit Pokémon will consume their Absorb Bulb or Luminous Moss before Symbiosis transfers any item (including these items). Cram-o-matic [ edit | edit source ] Type Points Grass 8 Description [ edit | edit source ] Games Description B W B2 W2 A consumable bulb. If the holder is hit by a Water-type move, its Sp. Atk will rise. X Y OR AS S M US UM P E An item to be held by a Pokémon. It boosts Sp. Atk if hit with a Water-type attack. It can only be used once. Sw Sh BD SP LA An item to be held by a Pokémon. It boosts Sp. Atk if the holder is hit with a Water-type attack. It can only be used once. S V An item to be held by a Pokémon. This single-use bulb boosts the Sp. Atk stat if the holder is damaged by a Water-type attack. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods B W Battle Subway (32 BP ) B2 W2 Battle Subway / PWT (16 BP ) Held by wild Roselia (1% chance, dark grass only) X Y Battle Maison (32 BP ) OR AS Battle Maison (32 BP ) Held by wild Oddish and wild Gloom (5% chance each) S M US UM Ambush encounters ( Cottonee S US / Petilil M UM in Poni Plains ) Held by wild Cottonee and wild Petilil (5% chance each) Sw Sh Route 5 Battle Tower (10 BP ) Held by wild Oddish , wild Gloom , wild Vileplume , wild Bellossom , wild Cottonee , and wild Whimsicott (5% chance each) Sw Sh IA Cram-o-matic ( Grass : 82-90 points) Sw Sh CT Hidden recurring item ( Giant's Bed , Giant's Foot , Ballimere Lake ) S V Delibird Presents ( Cascarrafa Branch, after earning 4 Gym Badges ) Sparkling overworld item ( Tagtree Thicket )"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Absorb-Bulb",
+    "Absorb Bulb",
+    "Absorb-Bulb (item)"
+  ],
+  "updatedAt": 1773320649
+}

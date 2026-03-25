@@ -1,0 +1,30 @@
+{
+  "answerKey": "AVANCETRAIL",
+  "answerDisplay": "AVANCE TRAIL",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Kalos Route 2",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Kalos_Route_2",
+  "pageId": 184498,
+  "pageRevisionId": 4425537,
+  "leadText": "Route 2 (Japanese: ２番道路 Route 2) is a route in southern Kalos, connecting Aquacorde Town and Santalune Forest. The route is also known as Avance Trail (Japanese: アバンセ通り Avance Trail).",
+  "sections": [
+    {
+      "title": "Route description",
+      "text": "Route description [ edit | edit source ] This route is a straightforward route with trees and shrubs that can be seen on both sides of the path with slightly different trees in the southwest and southeast part of the route. The route has three patches of grass that the player must go through and a river to the west that is inaccessible. The river appears to have a cut a valley on the west side of the route. There are two small hills on the route, both of which are non-navigable with one hill barely seen on the western side of the route."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Poké Ball ×10 Gift from Calem / Serena after the catching demonstration X Y"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Avance-Trail",
+    "Avance Trail",
+    "Avance-Trail (location)"
+  ],
+  "updatedAt": 1774213587
+}

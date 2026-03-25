@@ -1,0 +1,85 @@
+{
+  "answerKey": "MTMOON",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4509384,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Kanto location",
+        "evidence_ref": "lead",
+        "specificity": 0.5
+      },
+      {
+        "text": "mountain landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.68
+      },
+      {
+        "text": "city landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "cave landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "urban landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Kanto landmark",
+        "evidence_ref": "lead",
+        "mystery_score": 0.38,
+        "specificity_score": 0.5,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Kanto mountain",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.7,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Regional mountain",
+        "evidence_ref": "lead",
+        "mystery_score": 0.44,
+        "specificity_score": 0.62,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Mountain in Kanto",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.66,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Urban landmark",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "theme"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "Pokemon location"
+    ],
+    "connections_descriptors": [
+      "Kanto landmarks",
+      "Kanto mountains"
+    ],
+    "risk_flags": [],
+    "confidence": 0.77
+  },
+  "updatedAt": 1774257979
+}

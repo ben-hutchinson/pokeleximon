@@ -1,0 +1,38 @@
+{
+  "answerKey": "WATERABSORB",
+  "answerDisplay": "WATER ABSORB",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Water Absorb (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Water_Absorb_(Ability)",
+  "pageId": 4088,
+  "pageRevisionId": 4486634,
+  "leadText": "Water Absorb (Japanese: ちょすい Water Storage) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokémon with Water Absorb is hit by a damaging Water-type move , its HP is restored by one quarter of its maximum HP, and the move will have no effect on that Pokémon (if a Pokémon with this Ability already has full HP, the Water-type move will do nothing). Water Absorb will not activate if the Pokémon is protected from the Water-type move. Generation IV onward [ edit | edit source ] Water Absorb will now also activate when a Pokémon with it is hit by a Water-type status move (although none targeted an opponent until Soak was introduced in Generation V ). Multistrike moves , such as Water Shuriken , will only activate the Ability once. If a Pokémon with Water Absorb is holding an Absorb Bulb or Luminous Moss , Water Absorb absorbs the move, so the item's effect is not triggered. Outside of battle [ edit | edit source ] Water Absorb has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokémon with Water Absorb is hit by a damaging Water-type move , its HP is restored by one quarter of its maximum HP, and the move will have no effect on that Pokémon (if a Pokémon with this Ability already has full HP, the Water-type move will do nothing). Water Absorb will not activate if the Pokémon is protected from the Water-type move. Generation IV onward [ edit | edit source ] Water Absorb will now also activate when a Pokémon with it is hit by a Water-type status move (although none targeted an opponent until Soak was introduced in Generation V ). Multistrike moves , such as Water Shuriken , will only activate the Ability once. If a Pokémon with Water Absorb is holding an Absorb Bulb or Luminous Moss , Water Absorb absorbs the move, so the item's effect is not triggered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Restores HP if hit by a Water-type move. MD T D S Restores the Pokémon's HP if the Pokémon is hit by a Water-type move. B S L みずタイプの わざを うけると ＨＰが かいふくする Conq. Restores HP if hit by a Water-type move. MD GtI Water-type moves restore HP instead of damaging the Pokémon. * The Pokémon absorbs Water-type moves, which restore its HP! * S MD The Pokémon absorbs Water-type moves, which restore its HP! MD RT DX The Pokémon absorbs Water-type moves to restore its HP."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Water Absorb is the first Ability of its variations to be shown in the animated series ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Water-Absorb",
+    "Water Absorb",
+    "Water-Absorb (Ability)"
+  ],
+  "updatedAt": 1773328406
+}

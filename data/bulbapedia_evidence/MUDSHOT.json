@@ -1,0 +1,38 @@
+{
+  "answerKey": "MUDSHOT",
+  "answerDisplay": "MUD SHOT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Mud Shot (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mud_Shot_(move)",
+  "pageId": 3952,
+  "pageRevisionId": 4495228,
+  "leadText": "Mud Shot (Japanese: マッドショット Mud Shot) is a damage-dealing Ground-type move introduced in Generation III. It is: TM53 in Pokémon Sword and Shield. TM035 in Pokémon Scarlet and Violet. TM046 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Mud Shot inflicts damage and then lowers the target's Speed stat by one stage. Mud Shot can also be used as part of a Pokémon Contest combination , with the user gaining an extra appeal point if the move Sandstorm was used in the prior turn. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 55 66 Cooldown 6s Move wind-up time 20 frames Effect duration 8s 11s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Hurls mud at the foe and reduces Speed . FR LG The user attacks by hurling mud. It also reduces the foe's Speed . Colo XD Hurls mud at the target and reduces Speed . D P Pt HG SS PBR The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed. B W B2 W2 The user attacks by hurling a blob of mud at the target. It also reduces the target's Speed. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user attacks by hurling a blob of mud at the target. This also lowers the target's Speed stat. ZA The user attacks by hurling a blob of mud at targets. This also makes targets move more slowly for a short time."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It also lowers the target's Movement Speed by one level. MD T D S Inflicts damage on the target. It also reduces the target's Movement Speed by 1 level. B S L てきポケモンに ダメージをあたえる しかも いどうそくどを １だんかいさげる MD GtI S MD MD RT DX It damages an enemy. It also lowers the enemy's Travel Speed."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation III, Secret Power has the same animation as Mud Shot if used in a sandy terrain. From Generation V onwards, Secret Power has the same animation as Mud Shot if used in puddles . Mud Shot is the only variation of Icy Wind not to hit both opponents in a Double Battle ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mud-Shot",
+    "Mud Shot",
+    "Mud-Shot (move)"
+  ],
+  "updatedAt": 1773325224
+}

@@ -1,0 +1,17 @@
+{
+  "answerKey": "NINCADA",
+  "answerDisplay": "NINCADA",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Bug / Ground type Pokémon introduced in Generation 3.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/nincada",
+  "extract": "Nincada is a Bug / Ground type Pokémon introduced in Generation 3 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212192
+}

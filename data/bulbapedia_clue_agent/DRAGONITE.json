@@ -1,0 +1,160 @@
+{
+  "answerKey": "DRAGONITE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4501455,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Dragon/Flying species from Gen I",
+        "evidence_ref": "lead",
+        "specificity": 0.96
+      },
+      {
+        "text": "Evolves from Dragonair",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      },
+      {
+        "text": "Final form of Dratini",
+        "evidence_ref": "lead",
+        "specificity": 0.7
+      },
+      {
+        "text": "Has a Mega Evolution",
+        "evidence_ref": "lead",
+        "specificity": 0.68
+      },
+      {
+        "text": "legendary Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.76
+      },
+      {
+        "text": "gray coloring",
+        "evidence_ref": "Biology",
+        "specificity": 0.74
+      },
+      {
+        "text": "134 base Attack",
+        "evidence_ref": "Game data",
+        "specificity": 0.8
+      },
+      {
+        "text": "80 base Speed",
+        "evidence_ref": "Game data",
+        "specificity": 0.78
+      },
+      {
+        "text": "134 Attack and 80 Speed",
+        "evidence_ref": "Game data",
+        "specificity": 0.9
+      },
+      {
+        "text": "Mega form becomes Dragon/Flying",
+        "evidence_ref": "Game data",
+        "specificity": 0.87
+      },
+      {
+        "text": "Dragon Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      },
+      {
+        "text": "Gen I Dragon Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "134 Attack, 80 Speed species",
+        "evidence_ref": "Game data",
+        "mystery_score": 0.66,
+        "specificity_score": 0.9,
+        "style": "stats"
+      },
+      {
+        "text": "Mega form turns Dragon/Flying",
+        "evidence_ref": "Game data",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "mega"
+      },
+      {
+        "text": "Gen I Dragon/Flying species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.7,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Evolves from Dragonair",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.72,
+        "style": "evolution"
+      },
+      {
+        "text": "Final form of Dratini",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.7,
+        "style": "evolution"
+      },
+      {
+        "text": "legendary Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.48,
+        "specificity_score": 0.72,
+        "style": "signature"
+      },
+      {
+        "text": "Gen I Dragon Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.44,
+        "specificity_score": 0.66,
+        "style": "signature"
+      },
+      {
+        "text": "Brown Dragon Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.64,
+        "style": "signature"
+      },
+      {
+        "text": "Water1 egg-group species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.38,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gray Gen I Dragon/Flying species",
+        "evidence_ref": "Biology",
+        "mystery_score": 0.5,
+        "specificity_score": 0.8,
+        "style": "visual_taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "dragon/flying species",
+      "legendary pokemon"
+    ],
+    "connections_descriptors": [
+      "Mega Dragon/Flying forms",
+      "Gen I Dragon/Flying species",
+      "legendary Pokemon",
+      "Gen I species"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.82
+  },
+  "updatedAt": 1774257941
+}

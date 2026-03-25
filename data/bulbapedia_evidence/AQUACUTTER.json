@@ -1,0 +1,34 @@
+{
+  "answerKey": "AQUACUTTER",
+  "answerDisplay": "AQUA CUTTER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Aqua Cutter (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Aqua_Cutter_(move)",
+  "pageId": 277801,
+  "pageRevisionId": 4490586,
+  "leadText": "Aqua Cutter (Japanese: アクアカッター Aqua Cutter) is a damage-dealing Water-type move introduced in Generation IX.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Aqua Cutter inflicts damage and has an increased critical hit ratio. If used by a Pokémon with Sharpness , its power is increased by 50%."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user expels pressurized water to cut at the target like a blade. This move has a heightened chance of landing a critical hit."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Aqua Cutter is the only physical Water-type move that does not make contact , outside of Z-Moves and Max Moves ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Aqua-Cutter",
+    "Aqua Cutter",
+    "Aqua-Cutter (move)"
+  ],
+  "updatedAt": 1773320830
+}

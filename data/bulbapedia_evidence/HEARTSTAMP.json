@@ -1,0 +1,34 @@
+{
+  "answerKey": "HEARTSTAMP",
+  "answerDisplay": "HEART STAMP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Heart Stamp (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Heart_Stamp_(move)",
+  "pageId": 109478,
+  "pageRevisionId": 4482789,
+  "leadText": "Heart Stamp (Japanese: ハートスタンプ Heart Stamp) is a damage-dealing Psychic-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Heart Stamp inflicts damage and has a 30% chance of causing the target to flinch . Generation VIII onwards [ edit | edit source ] Heart Stamp cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user unleashes a vicious blow after its cute act makes the target less wary. It may also make the target flinch. X Y OR AS S M US UM P E The user unleashes a vicious blow after its cute act makes the target less wary. This may also make the target flinch. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It damages an enemy. It could also cause the Cringe status condition, which makes the enemy unable to attack or use moves. S MD It damages an enemy. It could also make the enemy flinch."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Heart-Stamp",
+    "Heart Stamp",
+    "Heart-Stamp (move)"
+  ],
+  "updatedAt": 1773323584
+}

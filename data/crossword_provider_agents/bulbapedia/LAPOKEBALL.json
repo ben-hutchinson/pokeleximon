@@ -1,0 +1,16 @@
+{
+  "answerKey": "LAPOKEBALL",
+  "answerDisplay": "LAPOKE BALL",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Hisui capture tool",
+  "score": 109.12,
+  "approved": true,
+  "qualityFlags": [
+    "unknown_evidence_ref"
+  ],
+  "evidenceRef": "title",
+  "sourceUrl": "",
+  "extract": "",
+  "updatedAt": 1774258378
+}

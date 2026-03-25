@@ -1,0 +1,30 @@
+{
+  "answerKey": "LAKESIDECAVE",
+  "answerDisplay": "LAKESIDE CAVE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Lakeside Cave",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Lakeside_Cave",
+  "pageId": 257926,
+  "pageRevisionId": 4380546,
+  "leadText": "Lakeside Cave (Japanese: 湖畔の洞窟 Cave by the Lakeshore) is a location in the Galar region. It connects to Ballimere Lake.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] Lakeside Cave is a large, open cave that can only be accessed through Ballimere Lake. It has two ways of access, from the upper and lower parts of Ballimere Lake."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Shiny Stone Sw Sh Hidden items [ edit | edit source ] Every item that reappears every day can also regenerate as a Wishing Piece at a 1% chance. Item Location Games Stardust Reappears daily (39%/30%/30%) Sw Sh Star Piece Rare Bone Rare Bone Sw Sh Bottle Cap Reappears daily (4%/95%) Sw Sh Star Piece Big Nugget Reappears daily (4%/95%) Sw Sh Stardust Stardust Reappears daily (69%/10%/20%) Sw Sh Star Piece Rare Bone Hard Stone Reappears daily (69%/30%) Sw Sh Soft Sand Everstone Sw Sh Bottle Cap Reappears daily (4%/95%) Sw Sh Star Piece Dusk Ball Reappears daily (99%) Sw Sh Dusk Ball Reappears daily (99%) Sw Sh"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Lakeside-Cave",
+    "Lakeside Cave",
+    "Lakeside-Cave (location)"
+  ],
+  "updatedAt": 1774214339
+}

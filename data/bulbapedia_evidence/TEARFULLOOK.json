@@ -1,0 +1,38 @@
+{
+  "answerKey": "TEARFULLOOK",
+  "answerDisplay": "TEARFUL LOOK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Tearful Look (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tearful_Look_(move)",
+  "pageId": 218433,
+  "pageRevisionId": 4403503,
+  "leadText": "Tearful Look (Japanese: なみだめ Teary Eyes) is a non-damaging Normal-type move introduced in Generation VII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Tearful Look lowers the target's Attack and Special Attack stats by one stage each. It bypasses accuracy checks to always hit, unless the opponent is in the semi-invulnerable turn of a move such as Dig or Fly . Tearful Look will hit the target even if it has used Protect , Detect , Spiky Shield , or Baneful Bunker , but will be blocked by Crafty Shield . If powered up by a Normalium Z into Z-Tearful Look, the user's Defense stat rises by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh BD SP LA The user gets teary eyed to make the target lose its combative spirit. This lowers the target's Attack and Sp. Atk stats. S V The user gets teary-eyed to make the target lose its combative spirit. This lowers the target's Attack and Sp. Atk stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD RT DX It lowers the enemy's Attack and Sp. Atk."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The stock image used in the battle animation of Tearful Look appears to be based on Espurr 's eyes, which can't itself learn the move. This trait is shared with Baby-Doll Eyes VII + and Mean Look VII + ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Tearful-Look",
+    "Tearful Look",
+    "Tearful-Look (move)"
+  ],
+  "updatedAt": 1773327847
+}

@@ -1,0 +1,30 @@
+{
+  "answerKey": "ESPERWING",
+  "answerDisplay": "ESPER WING",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Esper Wing (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Esper_Wing_(move)",
+  "pageId": 268714,
+  "pageRevisionId": 4403614,
+  "leadText": "Esper Wing (Japanese: オーラウイング Aura Wing) is a damage-dealing Psychic-type move introduced during Generation VIII, in Pokémon Legends: Arceus. It is the signature move of Hisuian Braviary.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Esper Wing inflicts damage and has an increased critical hit ratio. It also raises the user's action speed. Pokémon Legends: Arceus Category Special PP 10 Agile Strong Power 75 60 90 Accuracy 90% 90% 100% Action speed modifier Self -4 -4 +2 Target 0 +3 0 Additional effect Crit. stage +1 +1 +2 ? ? ? ? Has a high critical-hit ratio Raises the user's action speed Generation IX [ edit | edit source ] Esper Wing now has a base power of 80 and an accuracy of 100%. It has an increased critical hit ratio and raises the user's Speed by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA The user slashes the target with aura-enriched wings. This also raises the user's action speed. This move has a heightened chance of landing a critical hit. S V The user slashes the target with aura-enriched wings. This also boosts the user's Speed stat. This move has a heightened chance of landing a critical hit."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Esper-Wing",
+    "Esper Wing",
+    "Esper-Wing (move)"
+  ],
+  "updatedAt": 1773322616
+}

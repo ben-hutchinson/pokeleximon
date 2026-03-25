@@ -1,0 +1,17 @@
+{
+  "answerKey": "BRIDGEMAILS",
+  "answerDisplay": "BRIDGE MAIL S",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this item S, including added effects and where to find it.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/item/bridge-mail-s",
+  "extract": "Mail S, including added effects and where to find it.",
+  "rankPosition": 1,
+  "updatedAt": 1774210759
+}

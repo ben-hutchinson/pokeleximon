@@ -1,0 +1,38 @@
+{
+  "answerKey": "HIDDENPOWER",
+  "answerDisplay": "HIDDEN POWER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Hidden Power (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Hidden_Power_(move)",
+  "pageId": 900,
+  "pageRevisionId": 4501002,
+  "leadText": "Hidden Power (Japanese: めざめるパワー Awakening Power) is a damage-dealing Normal-type move introduced in Generation II. Although it appears as a Normal-type move, Hidden Power's actual type varies. It was TM10 from Generation II to Pokémon Ultra Sun and Ultra Moon. From Generation VIII onward, it is the signature move of Unown.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Sword and Shield 1.1.2 Pokémon Legends: Arceus 1.2 Generation IX Effect [ edit | edit source ] Main article: Hidden Power (move)/Calculation This move effect may be in need of research. Reason: Does Protean change the user's type to match the type Hidden Power becomes, or does it always change the user's type to Normal? You can discuss this on the talk page. Hidden Power deals damage. Hidden Power can be any type, other than Normal and Fairy , based on its user's IVs . In Pokémon Legends: Arceus , it instead changes its type to be super effective against the opposing Pokémon. Hidden Power receives a same-type attack bonus if its type matches the user's type. From Generation III to V, its power also depends on its user's IVs. From Generation VI onward, its power is fixed at 60. Gen II Gen III Gen IV Gen V Gen VI – VII , BDSP LA Type Varies Power 31–70 30–70 60 See below Category Varies Special Thaws a frozen target (if Fire-type) ✘ ✔ Affected by Normalize N/A ✔ ✘ In Generation II and III , it can be either physical or special , corresponding to its type. Due to being treated as a Normal-type move regardless, it can only activate Counter and will never activate Mirror Coat . Starting in Generation IV , it is always special. Due to never being a Normal-type move, Hidden Power is unaffected by Pixilate , Refrigerate , Aerilate , and Ion Deluge . If the user is under the effect of Electrify , Hidden Power's type will become Electric . Hidden Power is always treated as Normal-type for Z-Move mechanics, and can be upgraded to Breakneck Blitz by a Normalium Z . Generation VIII [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] Hidden Power cannot be selected in a battle. Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Special PP 15 Agile Strong Power 50 30 70 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect ? ? ? ? ? ? None Hidden Power now changes its own type to be super effective against the opposing Pokémon, prioritizing any double weaknesses of dual-typed opponents. While selecting a move, Hidden Power displays the type that it will become against the selected opponent if used that turn. If multiple types are equally effective, Hidden Power's type is chosen at random from those types. This calculation is done on each turn, so if there are multiple valid types, Hidden Power's type may vary between them each turn. Generation IX [ edit | edit source ] Hidden Power cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A peculiar move that changes type and power depending on the Pok é mon using it. G S C The power varies with the Pok é mon . R S E Colo XD The effectiveness varies with the user. (move) The attack power varies among different Pok é mon . * FR LG An attack that varies in type and intensity depending on the user. D P Pt HG SS A unique attack that varies in type and intensity depending on the Pokémon using it. (move) A variable move that changes type and power depending on the hidden ability of the Pokémon using it. * PBR B W B2 W2 A unique attack that varies in type and intensity depending on the Pokémon using it. X Y OR AS S M US UM P E BD SP A unique attack that varies in type depending on the Pokémon using it. Sw Sh S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. LA Through some mysterious power, this move changes type to deal supereffective damage to the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. Its type and power change with the dungeon. MD T D S Inflicts damage on the target. The move's type and power change with the dungeon. B S L てきポケモンに ダメージをあたえる ダンジョンにはいるごとに タイプと いりょくが へんかする MD GtI It damages an enemy. The move's type and power change on each adventure. S MD MD RT DX It damages an enemy. The move's type changes on each adventure."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Despite the only move Unown can learn being Hidden Power—learning it at level 1—it could not learn it via TM until Generation VI . However, this makes no functional difference other than cheating other moves onto it or when searching by TM/ HM compatibility, since Unown will always already know Hidden Power and thus be unable to learn it via TM. Prior to Generation IV , Hidden Power, along with Weather Ball , were the only two moves which could vary between being physical or special , due to the damage category being determined by the type . In Generation II , due to gender being determined by IVs, Hidden Power of a female Pokémon of species with a seven male to one female ratio can only be a physical type. In Generation II, due to the spread of individual values required for Shininess, Shiny Pokémon could only use a Grass - or Dragon-type Hidden Power with power 49 or 69. Due to the Roaming Pokémon IV bug , a roaming Pokémon caught in Pokémon Ruby, Sapphire , FireRed, or LeafGreen will always have a Hidden Power type of Fighting, and a power of 30 or 31. It is impossible for Pokémon in the No Eggs Discovered Egg Group that are caught or obtained as a gift in Pokémon X and Y to have a Fighting-type Hidden Power. In Omega Ruby and Alpha Sapphire and the Generation VII games, this is true only for Legendary Pokémon , Mythical Pokémon , and Ultra Beasts in the No Eggs Discovered Egg Group. This is because these Pokémon are guaranteed to have at least three IVs of 31, whereas a Fighting-type Hidden Power requires at least four IVs that are even numbers. Despite Hidden Power not being able to be used in battle in Sword and Shield , the method of determining its type is still present. This can be seen by entering a battle with a Pokémon that knows it and then entering the move selection, where Hidden Power's type effectiveness will be displayed if the opposing Pokémon has been seen in the Pokédex . Pokémon Masters EX is the only game in which Hidden Power can only have one type, Psychic."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Hidden-Power",
+    "Hidden Power",
+    "Hidden-Power (move)"
+  ],
+  "updatedAt": 1773323628
+}

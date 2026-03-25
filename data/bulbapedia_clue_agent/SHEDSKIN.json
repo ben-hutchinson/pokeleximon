@@ -1,0 +1,96 @@
+{
+  "answerKey": "SHEDSKIN",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4048099,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Shed Skin (Japanese: Shed Skin) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Recovers easily from status problems. MD T D S Helps the Pokemon recover more easily from status problems. B S L Conq. The Pokemon may heal its own status ailments. MD GtI Sometimes heals the Pokemon's negative status conditions. * Sometimes it cures every single bad status condition the Pokemon has! * S MD Sometimes it cures every single bad status condition the Pokemon has! MD RT DX This Ability sometimes cures every bad status condition the Pokemon has.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV 1.1.3 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] At the end of each turn, Shed Skin has a chance of curing the Pokemon of a non-volatile status condition . If it cures a status condition, it does so before burn or poison damage is dealt on that turn. Generation III [ edit | edit source ] Shed Skin has a 1/3 chance of curing the Pokemon. In Pokemon Ruby and Sapphire only, due to an oversight , if a Pokemon cures itself of sleep with Shed Skin, it will not be cured of Nightmare even after waking up. Generation IV [ edit | edit source ] Shed Skin has a 30% chance of curing the Pokemon. Generation V onward [ edit | edit source ] Shed Skin has a 1/3 chance of curing the Pokemon. Outside of battle [ edit | edit source ] Shed Skin has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "Contents 1 In battle 1.1 Generation III 1.2 Generation IV 1.3 Generation V onward In battle [ edit | edit source ] At the end of each turn, Shed Skin has a chance of curing the Pokemon of a non-volatile status condition . If it cures a status condition, it does so before burn or poison damage is dealt on that turn. Generation III [ edit | edit source ] Shed Skin has a 1/3 chance of curing the Pokemon. In Pokemon Ruby and Sapphire only, due to an oversight , if a Pokemon cures itself of sleep with Shed Skin, it will not be cured of Nightmare even after waking up. Generation IV [ edit | edit source ] Shed Skin has a 30% chance of curing the Pokemon. Generation V onward [ edit | edit source ] Shed Skin has a 1/3 chance of curing the Pokemon.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Has a 33% chance of curing any major status ailment after each turn.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "healing ability",
+        "evidence_ref": "Description",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "burning ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "poisoning ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "burning ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "poisoning ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Healing abilities",
+      "Burning abilities",
+      "Poisoning abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258010
+}

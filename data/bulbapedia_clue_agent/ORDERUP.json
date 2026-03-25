@@ -1,0 +1,75 @@
+{
+  "answerKey": "ORDERUP",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4493024,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX Dragon move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Dragon physical move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Effect [ edit | edit source ] Order Up inflicts damage. If the user has a Tatsugiri in its mouth via the Commander Ability , the move's animation will change and the user will gain a stat boost based on Tatsugiri's form: Curly Form increases Attack by one stage. Droopy Form increases Defense by one stage. Stretchy Form increases Speed by one stage. Order Up is boosted by Sheer Force even if Commander is not activated, and increases to stats (if any) apply normally. Generation IX [ edit | edit source ] Prior to Version 1.2.0 of Pokemon Scarlet and Violet , Order Up would increase the stats of a Dondozo with a Tatsugiri even if the move was negated (eg. via Protect ). This was due to a bug and was fixed in the Version 1.2.0 update.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "80-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "protective move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Dragon physical move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen IX Dragon move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "80-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "dragon physical move"
+    ],
+    "connections_descriptors": [
+      "Protective moves",
+      "Dragon Physical moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257987
+}

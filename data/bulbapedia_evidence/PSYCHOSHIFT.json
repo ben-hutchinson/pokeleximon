@@ -1,0 +1,38 @@
+{
+  "answerKey": "PSYCHOSHIFT",
+  "answerDisplay": "PSYCHO SHIFT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Psycho Shift (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Psycho_Shift_(move)",
+  "pageId": 16924,
+  "pageRevisionId": 4412443,
+  "leadText": "Psycho Shift (Japanese: サイコシフト Psycho Shift) is a non-damaging Psychic-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation V 1.3 Generation VI to VIII 1.4 Generation IX Effect [ edit | edit source ] Generation IV [ edit | edit source ] Psycho Shift cures any non-volatile status condition the user has and afflicts the target with it. It will not transfer volatile status conditions, such as confusion . It will fail if the target is immune to the status condition (such as via type , Ability , Safeguard , or by already having a status condition). If a badly poisoned Pokémon uses Psycho Shift, its target will be badly poisoned. Psycho Shift can be used to transfer sleep when used via Sleep Talk . As there is no way to use Psycho Shift while frozen , it is not possible to transfer this status condition. Psycho Shift will cure the user, then inflict the status condition on the opponent. Therefore, if Psycho Shift is used on a Pokémon with Synchronize , Synchronize will activate and afflict the user of Psycho Shift with that status condition again (if the user of Psycho Shift is susceptible to the status condition). Generation V [ edit | edit source ] Psycho Shift will now inflict the status condition on the target, then cure the user. Therefore, if Psycho Shift is used on a Pokémon with Synchronize , the user of Psycho Shift will already be afflicted with a status condition when Synchronize activates. Generation VI to VIII [ edit | edit source ] Psycho Shift's accuracy changed from 90% to 100%. If powered up by a Psychium Z into Z-Psycho Shift, the user's Special Attack stat rises by two stages. Generation IX [ edit | edit source ] Psycho Shift cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR B W B2 W2 Using its psychic power of suggestion, the user transfers its status problems to the target. X Y OR AS S M US UM P E Sw Sh BD SP LA Using its psychic power of suggestion, the user transfers its status conditions to the target. S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Transfers the user's status problems to the Pokémon it is facing, which heals the user's status problems. B S L じぶんの わるいじょうたいを すべて しょうめんの ポケモンに うつして じぶんは かいふくする MD GtI UNUSED S MD It transfers your bad status condition to a target. * It transfers your bad status condition to a target. Not all bad status conditions can be transferred, so be careful. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Psycho Shift is the only Psychic-type move capable of afflicting the target with burn , paralysis , or poison . Most of the Pokémon that learn this move are based on or related to birds."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Psycho-Shift",
+    "Psycho Shift",
+    "Psycho-Shift (move)"
+  ],
+  "updatedAt": 1773326092
+}

@@ -1,0 +1,16 @@
+{
+  "answerKey": "GALARMINE",
+  "answerDisplay": "GALAR MINE",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Regional mine",
+  "score": 97.52,
+  "approved": true,
+  "qualityFlags": [
+    "answer_fragment_leak"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Galar_Mine",
+  "extract": "If you were looking for the second Galar Mine, see Galar Mine No. 2. The Galar Mine (Japanese: ガラル鉱山 Galar Mine) is a mine that connects Route 3 and Route 4.",
+  "updatedAt": 1774258442
+}

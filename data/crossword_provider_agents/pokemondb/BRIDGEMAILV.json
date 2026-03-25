@@ -1,0 +1,17 @@
+{
+  "answerKey": "BRIDGEMAILV",
+  "answerDisplay": "BRIDGE MAIL V",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this item V, including added effects and where to find it.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/item/bridge-mail-v",
+  "extract": "Mail V, including added effects and where to find it.",
+  "rankPosition": 1,
+  "updatedAt": 1774210760
+}

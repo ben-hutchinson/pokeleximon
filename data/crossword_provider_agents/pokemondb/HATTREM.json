@@ -1,0 +1,17 @@
+{
+  "answerKey": "HATTREM",
+  "answerDisplay": "HATTREM",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Psychic type Pokémon introduced in Generation 8.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/hattrem",
+  "extract": "Hattrem is a Psychic type Pokémon introduced in Generation 8 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211551
+}

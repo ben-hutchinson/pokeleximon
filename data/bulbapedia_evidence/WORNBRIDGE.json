@@ -1,0 +1,30 @@
+{
+  "answerKey": "WORNBRIDGE",
+  "answerDisplay": "WORN BRIDGE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Worn Bridge",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Worn_Bridge",
+  "pageId": 269017,
+  "pageRevisionId": 4410109,
+  "leadText": "Worn Bridge (Japanese: 削られ橋 Eroded Bridge) is an area located in the northeastern region of the Obsidian Fieldlands of Hisui. It connects Horseshoe Plains and Grueling Grove to the north and Deertrack Heights to the south.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] Worn Bridge is a set of stony overpasses that extend from the northeastern tip of Deertrack Heights. From Deertrack Heights, a gentle grassy slope splits into two rocky paths. The paths arch over either side of the intersecting rivers below, constituting as bridges leading into the lower elevations of land. The left bridge connects to Horseshoe Plains; a steep cliff abruptly cuts the end of the bridge, creating a one-way that can only be circumvented using Ride Sneasler . The right bridge gently slopes into the southern shore of Grueling Grove."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] This section is incomplete. Please feel free to edit this section to add missing information and complete it."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Worn-Bridge",
+    "Worn Bridge",
+    "Worn-Bridge (location)"
+  ],
+  "updatedAt": 1773329328
+}

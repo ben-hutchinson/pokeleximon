@@ -1,0 +1,34 @@
+{
+  "answerKey": "SWEETVEIL",
+  "answerDisplay": "SWEET VEIL",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Sweet Veil (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sweet_Veil_(Ability)",
+  "pageId": 180569,
+  "pageRevisionId": 4392433,
+  "leadText": "Sweet Veil (Japanese: スイートベール Sweet Veil) is an Ability introduced in Generation VI. Prior to Generation VII, it was the signature Ability of Swirlix and Slurpuff.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Sweet Veil prevents the Pokémon with this Ability and its allies (including non-adjacent allies) from falling asleep . Rest will fail when used by the Pokémon with this Ability or an ally (unless the user has an Ability that ignores other Abilities ). Sweet Veil causes Yawn to fail if used on the Pokémon or its allies (including non-adjacent allies), and prevents the Pokémon and its allies already drowsy due to Yawn from falling asleep. Outside of battle [ edit | edit source ] Sweet Veil has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Sweet Veil prevents the Pokémon with this Ability and its allies (including non-adjacent allies) from falling asleep . Rest will fail when used by the Pokémon with this Ability or an ally (unless the user has an Ability that ignores other Abilities ). Sweet Veil causes Yawn to fail if used on the Pokémon or its allies (including non-adjacent allies), and prevents the Pokémon and its allies already drowsy due to Yawn from falling asleep."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It protects the Pokémon and its teammates near it from the sleep, napping, yawning, and nightmare status conditions."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sweet-Veil",
+    "Sweet Veil",
+    "Sweet-Veil (Ability)"
+  ],
+  "updatedAt": 1773329259
+}

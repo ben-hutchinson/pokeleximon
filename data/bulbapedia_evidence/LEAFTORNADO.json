@@ -1,0 +1,38 @@
+{
+  "answerKey": "LEAFTORNADO",
+  "answerDisplay": "LEAF TORNADO",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Leaf Tornado (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Leaf_Tornado_(move)",
+  "pageId": 115972,
+  "pageRevisionId": 4405813,
+  "leadText": "Leaf Tornado (Japanese: グラスミキサー Grass Mixer) is a damage-dealing Grass-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Leaf Tornado inflicts damage and has a 50% chance to lower the target's accuracy by one stage. Generation IX [ edit | edit source ] Leaf Tornado cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user attacks its target by encircling it in sharp leaves. This attack may also lower the target's accuracy. S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI S MD It damages an enemy. It could also lower the enemy's accuracy."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Leaf Tornado was the first Generation V move seen in the animated series . It was used by Trip's Snivy in In the Shadow of Zekrom! ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Leaf-Tornado",
+    "Leaf Tornado",
+    "Leaf-Tornado (move)"
+  ],
+  "updatedAt": 1773324319
+}

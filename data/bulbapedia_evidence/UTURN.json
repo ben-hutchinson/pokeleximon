@@ -1,0 +1,38 @@
+{
+  "answerKey": "UTURN",
+  "answerDisplay": "U TURN",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "U-turn (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/U-turn_(move)",
+  "pageId": 14503,
+  "pageRevisionId": 4468091,
+  "leadText": "U-turn (Japanese: とんぼがえり Round-trip) is a damage-dealing Bug-type move introduced in Generation IV. It is: TM89 from Generation IV to Pokémon Ultra Sun and Ultra Moon, as well as in Pokémon Brilliant Diamond and Shining Pearl. TM18 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TM56 in Pokémon Sword and Shield. TM060 in Pokémon Scarlet and Violet. TM082 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] U-turn deals damage and then switches the user out . The user will not be switched out if the user is the only Pokémon in the party that is able to battle, if U-turn triggers an opponent's Wimp Out or Emergency Exit Ability , or if using U-turn ends the battle. If U-turn knocks out an opponent Trainer's Pokémon, the next Pokémon sent out by the user will not be counted for additional experience , and if the user is battling an NPC, the player will still have the ability to switch Pokémon in between Pokémon that have fainted. If the next Pokémon sent out by the user is holding an Amulet Coin or Luck Incense , it will be counted for that even if it is immediately switched out in between fainted Pokémon. If the opposing Pokémon uses Pursuit on the same turn U-turn is used, Pursuit will deal normal damage if the foe is faster, or double damage if the foe is slower than the user. U-turn may be used to switch out of Ingrain , but Ingrain's effects will not be passed on. U-turn can also be used to switch out even if the user is under the effect of Arena Trap , Magnet Pull , Shadow Tag , Mean Look , Spider Web , or Block . U-turn will not force a switch if the user is holding a Red Card or the target is holding an Eject Button . Generation IV [ edit | edit source ] In all Generation IV games, including Pokémon Battle Revolution , due to the way the game resolves activation of King's Rock and Razor Fang 's flinch effects, only whether the Pokémon selected after the switch-out is holding one of these items is taken into account. In Pokémon Diamond and Pearl only, if the Pokémon selected after the switch-out is holding a Choice item and also knows the move U-turn, they will be forced to use U-turn as their next attack despite not having made a move. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 70 84 Cooldown 12s Move wind-up time 10 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V After making its attack, the user rushes back to switch places with a party Pokémon in waiting. ZA The user attacks by dishing out a quick blow, then rushes back to its Trainer with incredible speed."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on a target up to 2 tiles away. B S L てきポケモンに ダメージをあたえる ２マスまで とどく MD GtI It damages an enemy. It switches positions with a teammate right behind you, if any. S MD MD RT DX It damages an enemy. If one of your teammates is right behind you, it switches your and your teammate's positions."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Diamond, Pearl , and Platinum , despite being spelled with a lowercase \"t\" (as \"U-turn\") on the status screen and as TM89 , when used in battle it is displayed as \"U- T urn\". U-turn may be Bug-type because its Japanese name contains とんぼ (tonbo), which means dragonfly. In full, its name とんぼがえり (tonbogaeri) means 'Dragonfly Return' if translated in an alternative fashion. This is somewhat supported by the fact that Yanma and Yanmega , both based on dragonflies, can learn the move by leveling up."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "U-Turn",
+    "U Turn",
+    "U-Turn (move)"
+  ],
+  "updatedAt": 1773328218
+}

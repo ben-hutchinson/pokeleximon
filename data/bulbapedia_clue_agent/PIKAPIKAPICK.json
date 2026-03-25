@@ -1,0 +1,53 @@
+{
+  "answerKey": "PIKAPIKAPICK",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "picnic",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Pokemon item from the main series games.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Picnic item",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Picnic item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.66,
+        "style": "family"
+      },
+      {
+        "text": "Picnic-kit item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.46,
+        "specificity_score": 0.64,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "battle item"
+    ],
+    "connections_descriptors": [
+      "Picnic items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257992
+}

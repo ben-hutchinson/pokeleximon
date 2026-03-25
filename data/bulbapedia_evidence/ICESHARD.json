@@ -1,0 +1,34 @@
+{
+  "answerKey": "ICESHARD",
+  "answerDisplay": "ICE SHARD",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Ice Shard (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ice_Shard_(move)",
+  "pageId": 14539,
+  "pageRevisionId": 4441110,
+  "leadText": "Ice Shard (Japanese: こおりのつぶて Ice Pebble) is a damage-dealing Ice-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Ice Shard inflicts damage. It has a priority of +1, so is used before all moves that do not have increased priority. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Ice Shard's PP has been reduced to 20. It also increases the user's action speed. Pokémon Legends: Arceus Category Physical PP 20 Agile Strong Power 40 30 50 Accuracy 100% 100% 100% Action speed modifier Self -4 -4 +2 Target 0 +3 0 Additional effect ? ? ? ? ? ? Increases the user's action speed Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 40 48 Cooldown 3s Move wind-up time 0 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user flash freezes chunks of ice and hurls them. This move always goes first. B W B2 W2 The user flash freezes chunks of ice and hurls them at the target. This move always goes first. X Y OR AS S M US UM P E Sw Sh BD SP S V The user flash-freezes chunks of ice and hurls them at the target. This move always goes first. LA The user flash-freezes chunks of ice and hurls them at the target. This also raises the user's action speed. ZA The user attacks by flash-freezing chunks of ice and hurling them at targets."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on a target up to 2 tiles away. B S L てきポケモンに ダメージをあたえる ２マスまで とどく MD GtI S MD MD RT DX It damages an enemy. It reaches up to 2 tiles away."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ice-Shard",
+    "Ice Shard",
+    "Ice-Shard (move)"
+  ],
+  "updatedAt": 1773323811
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "JUNGLEHEALING",
+  "answerDisplay": "JUNGLE HEALING",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Jungle Healing (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Jungle_Healing_(move)",
+  "pageId": 250062,
+  "pageRevisionId": 4407232,
+  "leadText": "Jungle Healing (Japanese: ジャングルヒール Jungle Heal) is a non-damaging Grass-type move introduced during Generation VIII, in The Isle of Armor. It is the signature move of Zarude.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Jungle Healing restores the HP of the user and its allies by 25% of their maximum HP, and heals any non-volatile status conditions they may have. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Jungle Healing cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA The user becomes one with the jungle, restoring HP and healing any status conditions of itself and its ally Pokémon in battle. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. S V The user becomes one with the jungle, restoring HP and curing status conditions for itself and its ally Pokémon currently in the battle."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as a TCG attack ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Jungle-Healing",
+    "Jungle Healing",
+    "Jungle-Healing (move)"
+  ],
+  "updatedAt": 1773324057
+}

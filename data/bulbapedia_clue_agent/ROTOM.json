@@ -1,0 +1,123 @@
+{
+  "answerKey": "ROTOM",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4505533,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Electric/Ghost species from Gen IV",
+        "evidence_ref": "lead",
+        "specificity": 0.96
+      },
+      {
+        "text": "yellow coloring",
+        "evidence_ref": "Biology",
+        "specificity": 0.74
+      },
+      {
+        "text": "50 base Attack",
+        "evidence_ref": "Game data",
+        "specificity": 0.8
+      },
+      {
+        "text": "91 base Speed",
+        "evidence_ref": "Game data",
+        "specificity": 0.78
+      },
+      {
+        "text": "50 Attack and 91 Speed",
+        "evidence_ref": "Game data",
+        "specificity": 0.9
+      },
+      {
+        "text": "Plasma Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      },
+      {
+        "text": "Gen IV Plasma Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "Red Plasma Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "Indeterminate egg-group species",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "50 Attack, 91 Speed species",
+        "evidence_ref": "Game data",
+        "mystery_score": 0.66,
+        "specificity_score": 0.9,
+        "style": "stats"
+      },
+      {
+        "text": "Gen IV Electric/Ghost species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.7,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Plasma Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.48,
+        "specificity_score": 0.72,
+        "style": "signature"
+      },
+      {
+        "text": "Gen IV Plasma Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.44,
+        "specificity_score": 0.66,
+        "style": "signature"
+      },
+      {
+        "text": "Red Plasma Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.64,
+        "style": "signature"
+      },
+      {
+        "text": "Indeterminate egg-group species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.38,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Yellow Gen IV Electric/Ghost species",
+        "evidence_ref": "Biology",
+        "mystery_score": 0.5,
+        "specificity_score": 0.8,
+        "style": "visual_taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "electric/ghost species",
+      "plasma pokemon"
+    ],
+    "connections_descriptors": [
+      "Gen IV Electric/Ghost species",
+      "Plasma Pokemon",
+      "Gen IV species"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.82
+  },
+  "updatedAt": 1774258004
+}

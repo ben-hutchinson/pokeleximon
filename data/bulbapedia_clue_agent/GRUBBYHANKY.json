@@ -1,0 +1,77 @@
+{
+  "answerKey": "GRUBBYHANKY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4492313,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "plot advancement",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen V plot advancement",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Appears in the Caf Warehouse on Sunday; return to the customer with a Patrat on Thursday.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "specificity": 0.8
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Progress-gating key item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Story-progress key item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.74,
+        "style": "family"
+      },
+      {
+        "text": "Plot-critical key",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "unlocking item"
+    ],
+    "connections_descriptors": [
+      "Gen V items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257953
+}

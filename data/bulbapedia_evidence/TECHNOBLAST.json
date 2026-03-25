@@ -1,0 +1,34 @@
+{
+  "answerKey": "TECHNOBLAST",
+  "answerDisplay": "TECHNO BLAST",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Techno Blast (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Techno_Blast_(move)",
+  "pageId": 117615,
+  "pageRevisionId": 4494448,
+  "leadText": "Techno Blast (Japanese: テクノバスター Techno Buster) is a damage-dealing Normal-type move introduced in Generation V. It is the signature move of Genesect.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation V 1.2 Generations VI 1.3 Generation VIII 1.3.1 Pokémon Sword and Shield 1.3.2 Pokémon Brilliant Diamond and Shining Pearl 1.4 Generation IX 1.4.1 Pokémon Scarlet and Violet 1.4.2 Pokémon Legends: Z-A Effect [ edit | edit source ] Techno Blast inflicts damage and has no secondary effect. The type of Techno Blast depends on the type of Drive held by the user, being Normal-type if there is none held, and Electric , Fire , Ice , or Water with the appropriate Drive. Techno Blast is unaffected by Normalize , Pixilate , Refrigerate , and Aerilate . However, it is affected by Ion Deluge (if the move would be Normal-type) and Electrify . Generation V [ edit | edit source ] Techno Blast's base power in this generation is 85. Generations VI [ edit | edit source ] Techno Blast's power was changed from 85 to 120. Generation VIII [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] In Versions 1.0 to 1.2.1 of Pokémon Sword and Shield , Techno Blast could not be selected in a battle. Starting with Version 1.3.0, it is usable and functions the same as it did in the previous generation. If the user Dynamaxes , the move is displayed as Max Strike , but becomes the Max Move of whichever type of Drive it is holding when used. Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Techno Blast cannot be selected in a battle. Generation IX [ edit | edit source ] Pokémon Scarlet and Violet [ edit | edit source ] Techno Blast cannot be selected in a battle. Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 120 144 Cooldown 12s Move wind-up time 20 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user fires a beam of light at its target. The type changes depending on the Drive the user holds. X Y OR AS S M US UM P E Sw Sh LA The user fires a beam of light at its target. The move's type changes depending on the Drive the user holds. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user attacks by firing a beam of light at the target. This move's type changes depending on the kind of drive held by the user. ZA The user attacks by firing a beam of light at targets. This move's type changes depending on the kind of drive held by the user."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI UNUSED S MD It damages a Pokémon, even one far away. The move's type changes depending on the Drive you have."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Techno-Blast",
+    "Techno Blast",
+    "Techno-Blast (move)"
+  ],
+  "updatedAt": 1773327854
+}

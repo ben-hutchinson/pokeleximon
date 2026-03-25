@@ -1,0 +1,38 @@
+{
+  "answerKey": "FEINTATTACK",
+  "answerDisplay": "FEINT ATTACK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Feint Attack (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Feint_Attack_(move)",
+  "pageId": 3795,
+  "pageRevisionId": 4500878,
+  "leadText": "If you were looking for the attack called Feint, see Feint (move). Feint Attack (Japanese: だましうち Sneak Attack), spelled Faint Attack prior to Pokémon X and Y, is a damage-dealing Dark-type move introduced in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations II and III 1.2 Generation IV to VII 1.3 Generation VIII onwards Effect [ edit | edit source ] Feint Attack inflicts damage and bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . Feint Attack can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Fake Out , Leer , or Pound was used in the previous turn. Generations II and III [ edit | edit source ] Feint Attack will not trigger effects involving contact . Generation IV to VII [ edit | edit source ] Feint Attack is now a physical move that makes contact. Generation VIII onwards [ edit | edit source ] Feint Attack cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A Dark -type attack. The move catches the opponent off guard, so it never misses. G S C An attack that never misses. R S E Draws the foe close, then strikes without fail. FR LG The user draws up close to the foe disarmingly, then hits without fail. Colo XD Draws the target close, then strikes without fail. D P Pt HG SS PBR The user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail. B W B2 W2 The user approaches the target disarmingly, then throws a sucker punch. It hits without fail. X Y OR AS S M US UM P E The user approaches the target disarmingly, then throws a sucker punch. This attack never misses. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. It never misses. B S L てきポケモンに ダメージをあたえる かならず めいちゅうする Conq. The user approaches the target disarmingly, then throws a sucker punch. It hits without fail. MD GtI S MD It damages an enemy. It never misses."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Old animation for the move The English TCG and TFG have consistently spelled the move as \"Feint Attack\". At Pokémon Festa 2002, the early animation for the attack showed that the background didn't change. In Pokémon Brilliant Diamond and Shining Pearl , despite the move being unusable, Ace Trainer Meagan on Route 228 uses a Delcatty that knows Feint Attack. From 1.1.3 onwards, it instead knows Covet ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Feint-Attack",
+    "Feint Attack",
+    "Feint-Attack (move)"
+  ],
+  "updatedAt": 1773322745
+}

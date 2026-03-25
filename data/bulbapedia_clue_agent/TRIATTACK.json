@@ -1,0 +1,83 @@
+{
+  "answerKey": "TRIATTACK",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4503909,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen I Normal move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Normal special move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Has a $effect_chance% chance to burn, freeze, or paralyze the target.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "80-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "burning move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "paralyzing move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Normal special move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen I Normal move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "80-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "normal special move"
+    ],
+    "connections_descriptors": [
+      "Burning moves",
+      "Paralyzing moves",
+      "Normal Special moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258027
+}

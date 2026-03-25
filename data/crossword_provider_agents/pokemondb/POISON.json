@@ -1,0 +1,18 @@
+{
+  "answerKey": "POISON",
+  "answerDisplay": "POISON",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "The strengths and weaknesses of the this type type in the Pokémon games, and a list of this type type Pokémon.",
+  "score": 0.0,
+  "approved": false,
+  "qualityFlags": [
+    "long_form",
+    "too_long"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/type/poison",
+  "extract": "The strengths and weaknesses of the Poison type in the Pokémon games, and a list of Poison-type Pokémon.",
+  "rankPosition": 1,
+  "updatedAt": 1774212376
+}

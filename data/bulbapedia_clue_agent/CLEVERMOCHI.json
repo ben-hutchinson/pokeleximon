@@ -1,0 +1,58 @@
+{
+  "answerKey": "CLEVERMOCHI",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4468463,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "vitamins",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen IX vitamins",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Effect [ edit | edit source ] If used from the Bag on a Pokemon, it increases that Pokemon's Sp. Def EVs by 10.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "vitamins",
+        "evidence_ref": "lead",
+        "mystery_score": 0.35,
+        "specificity_score": 0.52,
+        "style": "category"
+      },
+      {
+        "text": "Gen IX vitamins",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "vitamins"
+    ],
+    "connections_descriptors": [
+      "Vitamins"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257935
+}

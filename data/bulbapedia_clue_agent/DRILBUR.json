@@ -1,0 +1,123 @@
+{
+  "answerKey": "DRILBUR",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4500681,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Ground species from Gen V",
+        "evidence_ref": "lead",
+        "specificity": 0.96
+      },
+      {
+        "text": "white coloring",
+        "evidence_ref": "Biology",
+        "specificity": 0.74
+      },
+      {
+        "text": "85 base Attack",
+        "evidence_ref": "Game data",
+        "specificity": 0.8
+      },
+      {
+        "text": "68 base Speed",
+        "evidence_ref": "Game data",
+        "specificity": 0.78
+      },
+      {
+        "text": "85 Attack and 68 Speed",
+        "evidence_ref": "Game data",
+        "specificity": 0.9
+      },
+      {
+        "text": "Mole Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      },
+      {
+        "text": "Gen V Mole Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "Gray Mole Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "Ground egg-group species",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "85 Attack, 68 Speed species",
+        "evidence_ref": "Game data",
+        "mystery_score": 0.66,
+        "specificity_score": 0.9,
+        "style": "stats"
+      },
+      {
+        "text": "Gen V Ground species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.54,
+        "specificity_score": 0.66,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Mole Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.48,
+        "specificity_score": 0.72,
+        "style": "signature"
+      },
+      {
+        "text": "Gen V Mole Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.44,
+        "specificity_score": 0.66,
+        "style": "signature"
+      },
+      {
+        "text": "Gray Mole Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.64,
+        "style": "signature"
+      },
+      {
+        "text": "Ground egg-group species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.38,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "White Gen V Ground species",
+        "evidence_ref": "Biology",
+        "mystery_score": 0.5,
+        "specificity_score": 0.8,
+        "style": "visual_taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "ground species",
+      "mole pokemon"
+    ],
+    "connections_descriptors": [
+      "Gen V Ground species",
+      "Mole Pokemon",
+      "Gen V species"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.82
+  },
+  "updatedAt": 1774257941
+}

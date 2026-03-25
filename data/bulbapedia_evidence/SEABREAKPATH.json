@@ -1,0 +1,26 @@
+{
+  "answerKey": "SEABREAKPATH",
+  "answerDisplay": "SEABREAK PATH",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Seabreak Path",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Seabreak_Path",
+  "pageId": 20240,
+  "pageRevisionId": 4446742,
+  "leadText": "The Seabreak Path (Japanese: 海割れの道 Seabreak Path) is an extension of Route 224 that leads to the Flower Paradise. It is only accessible if the player has the event-only item Oak's Letter, and, as such, can only be legitimately accessed in Pokémon Platinum and Brilliant Diamond and Shining Pearl. Although Oak's Letter was not distributed for copies of Pokémon Diamond and Pearl, glitches such as the surf glitch, tweaking and the void glitch can be exploited to access this area.",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Name origin [ edit | edit source ] According to the Town Map , Seabreak Path is so named because it breaks the sea between the Sinnoh region and the open ocean that lies to the east."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Seabreak-Path",
+    "Seabreak Path",
+    "Seabreak-Path (location)"
+  ],
+  "updatedAt": 1773326731
+}

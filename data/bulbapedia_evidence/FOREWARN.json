@@ -1,0 +1,33 @@
+{
+  "answerKey": "FOREWARN",
+  "answerDisplay": "FOREWARN",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Forewarn (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Forewarn_(Ability)",
+  "pageId": 17635,
+  "pageRevisionId": 4373167,
+  "leadText": "Forewarn (Japanese: よちむ Prophetic Dream) is an Ability introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Forewarn shows the opponent's move with the highest power . If two or more moves are of the same power, one will be chosen at random. In battles with multiple opponents, Forewarn will only show the highest power move out of all the moves known by the opponents. If multiple opponents have a move with the same power, one will be chosen at random. Forewarn can reveal a move of a non-adjacent opponent even if the move wouldn't be able to hit the Pokémon with Forewarn due to being out of range. Damaging moves without a power (i.e. moves that deal direct damage and moves that have variable power ) are assigned one. If the opposing Pokémon only have status moves , it will still assign one to them. If the opposing Pokémon is Dynamaxed , it will only assign a move from the Pokémon's base moves. This Ability effect may be in need of research. Reason: Check the powers assigned to moves without them in Gen V and VI (the list may only be accurate to Gen IV: Hidden Power probably only has a power assigned prior to Gen VI, and other moves are probably assigned 80), is Dragon Energy affected? You can discuss this on the talk page. Power Moves 150 Blast Burn , Eruption , Water Spout , One-hit knockout moves ( Fissure , Guillotine , Horn Drill , Sheer Cold ) 120 Counter , Metal Burst , Mirror Coat 80 Crush Grip , Dragon Rage , Electro Ball , Endeavor , Final Gambit , Flail , Fling , Frustration , Grass Knot , Guardian of Alola , Gyro Ball , Heat Crash , Heavy Slam , Hidden Power (prior to Generation VI ), Low Kick , Natural Gift , Nature's Madness , Night Shade , Present , Psywave , Punishment , Return , Reversal , Seismic Toss , Sonic Boom , Spit Up , Super Fang , Trump Card , Wring Out , Z-Moves 20 Stored Power , Power Trip Outside of battle [ edit | edit source ] Forewarn has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Forewarn shows the opponent's move with the highest power . If two or more moves are of the same power, one will be chosen at random. In battles with multiple opponents, Forewarn will only show the highest power move out of all the moves known by the opponents. If multiple opponents have a move with the same power, one will be chosen at random. Forewarn can reveal a move of a non-adjacent opponent even if the move wouldn't be able to hit the Pokémon with Forewarn due to being out of range. Damaging moves without a power (i.e. moves that deal direct damage and moves that have variable power ) are assigned one. If the opposing Pokémon only have status moves , it will still assign one to them. If the opposing Pokémon is Dynamaxed , it will only assign a move from the Pokémon's base moves. This Ability effect may be in need of research. Reason: Check the powers assigned to moves without them in Gen V and VI (the list may only be accurate to Gen IV: Hidden Power probably only has a power assigned prior to Gen VI, and other moves are probably assigned 80), is Dragon Energy affected? You can discuss this on the talk page. Power Moves 150 Blast Burn , Eruption , Water Spout , One-hit knockout moves ( Fissure , Guillotine , Horn Drill , Sheer Cold ) 120 Counter , Metal Burst , Mirror Coat 80 Crush Grip , Dragon Rage , Electro Ball , Endeavor , Final Gambit , Flail , Fling , Frustration , Grass Knot , Guardian of Alola , Gyro Ball , Heat Crash , Heavy Slam , Hidden Power (prior to Generation VI ), Low Kick , Natural Gift , Nature's Madness , Night Shade , Present , Psywave , Punishment , Return , Reversal , Seismic Toss , Sonic Boom , Spit Up , Super Fang , Trump Card , Wring Out , Z-Moves 20 Stored Power , Power Trip"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Enables the Pokémon to evade attacks occasionally. B S L ときどき こうげきを かいひする MD GtI While the Pokémon sleeps, items and other Pokémon will be shown on the map of the floor. * The position of Pokémon and items on the floor is displayed on the map while the Pokémon is in the Sleep, Napping, or Nightmare status condition! * S MD The locations of Pokémon and items on the floor are displayed on the map when the Pokémon is in the sleep, napping, or nightmare status condition! MD RT DX The locations of Pokémon and items on the floor will become apparent when the Pokémon has the Sleep, Napping, or Nightmare condition."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Forewarn",
+    "Forewarn (Ability)"
+  ],
+  "updatedAt": 1773328883
+}

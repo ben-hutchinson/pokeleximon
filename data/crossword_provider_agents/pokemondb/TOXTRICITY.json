@@ -1,0 +1,17 @@
+{
+  "answerKey": "TOXTRICITY",
+  "answerDisplay": "TOXTRICITY",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is an Electric / Poison type Pokémon introduced in Generation 8.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/toxtricity",
+  "extract": "Toxtricity is an Electric / Poison type Pokémon introduced in Generation 8 .",
+  "rankPosition": 1,
+  "updatedAt": 1774213230
+}

@@ -1,0 +1,86 @@
+{
+  "answerKey": "GUARDDOG",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4512532,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Guard Dog (Japanese: Guard Dog) is an Ability introduced in Generation IX.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability prevents other Pokemon from forcing the Pokemon with this Ability to switch out or flee with a move (e.g. Roar , Circle Throw , etc.) or item ( Red Card ). Guard Dog does not affect the Pokemon switching out manually, or switching out or fleeing with its own move (e.g. Baton Pass , Teleport , etc.) or item ( Eject Button and Eject Pack ). Additionally, if a Pokemon with this ability is affected by Intimidate , its Attack stat will increase by one stage, rather than decreasing by one stage. Outside of battle [ edit | edit source ] Guard Dog has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] This Ability prevents other Pokemon from forcing the Pokemon with this Ability to switch out or flee with a move (e.g. Roar , Circle Throw , etc.) or item ( Red Card ). Guard Dog does not affect the Pokemon switching out manually, or switching out or fleeing with its own move (e.g. Baton Pass , Teleport , etc.) or item ( Eject Button and Eject Pack ). Additionally, if a Pokemon with this ability is affected by Intimidate , its Attack stat will increase by one stage, rather than decreasing by one stage.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Boosts Attack if intimidated, and prevents being forced to switch out.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Prevents escape",
+        "evidence_ref": "lead",
+        "specificity": 0.84
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "switching trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Prevents escape",
+        "evidence_ref": "lead",
+        "mystery_score": 0.76,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Traps opposing Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "No-escape battle trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.8,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "switching trait",
+      "battle trap",
+      "escape blocker"
+    ],
+    "connections_descriptors": [
+      "Switching abilities",
+      "Trapping abilities",
+      "Gen IX abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257953
+}

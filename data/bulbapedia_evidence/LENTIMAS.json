@@ -1,0 +1,31 @@
+{
+  "answerKey": "LENTIMAS",
+  "answerDisplay": "LENTIMAS",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Lentimas Town",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Lentimas_Town",
+  "pageId": 163688,
+  "pageRevisionId": 4509459,
+  "leadText": "Lentimas Town (Japanese: ヤマジタウン Yamaji Town) is situated in the eastern part of the Unova region. Inaccessible in Pokémon Black and White, it was first introduced in Pokémon Black 2 and White 2, in which it is first accessible via plane from Mistralton City after defeating Skyla.",
+  "sections": [
+    {
+      "title": "Slogan",
+      "text": "Slogan [ edit | edit source ] Where Rough Mountain Trails Lead (Japanese: とがった 山道に 続く 町 The town leading to jagged mountain paths. )"
+    },
+    {
+      "title": "Places of interest",
+      "text": "Places of interest [ edit | edit source ] Runway [ edit | edit source ] Lentimas Town has a small runway, which is used to get here from Mistralton City by plane. Move Tutor [ edit | edit source ] There is a Move Tutor in this town in a house near the Pokémon Center. He teaches 17 moves for 2, 4, 6, 8, or 10 Blue Shards . Move Type Cat. Shards Last Resort Normal Physical 0 0 2 0 Iron Defense Steel Status 0 0 2 0 Magnet Rise Electric Status 0 0 4 0 Magic Coat Psychic Status 0 0 4 0 Block Normal Status 0 0 6 0 Hyper Voice Normal Special 0 0 6 0 Electroweb Electric Special 0 0 6 0 Icy Wind Ice Special 0 0 6 0 Iron Tail Steel Physical 0 0 6 0 Aqua Tail Water Physical 0 0 8 0 Earth Power Ground Special 0 0 8 0 Zen Headbutt Psychic Physical 0 0 8 0 Foul Play Dark Physical 0 0 8 0 Superpower Fighting Physical 0 0 10 0 Gravity Psychic Status 0 0 10 0 Dragon Pulse Dragon Special 0 0 10 0 Dark Pulse Dark Special 0 0 10 0"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Lentimas-Town",
+    "Lentimas Town",
+    "Lentimas",
+    "Lentimas-Town (location)"
+  ],
+  "updatedAt": 1774214372
+}

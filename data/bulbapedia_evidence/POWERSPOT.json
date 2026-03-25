@@ -1,0 +1,30 @@
+{
+  "answerKey": "POWERSPOT",
+  "answerDisplay": "POWER SPOT",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Power Spot (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Power_Spot_(Ability)",
+  "pageId": 244405,
+  "pageRevisionId": 4259068,
+  "leadText": "If you were looking for the places where Dynamaxing is possible, see Dynamax. Power Spot (Japanese: パワースポット Power Spot) is an Ability introduced in Generation VIII. It is the signature Ability of Stonjourner.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] The power of moves used by the allies of the Pokémon with Power Spot is increased by 30%. Outside of battle [ edit | edit source ] Power Spot has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] The power of moves used by the allies of the Pokémon with Power Spot is increased by 30%."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Power-Spot",
+    "Power Spot",
+    "Power-Spot (Ability)"
+  ],
+  "updatedAt": 1773329108
+}

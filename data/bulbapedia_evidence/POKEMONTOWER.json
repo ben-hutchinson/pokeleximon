@@ -1,0 +1,26 @@
+{
+  "answerKey": "POKEMONTOWER",
+  "answerDisplay": "POKEMON TOWER",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Pokémon Tower",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Tower",
+  "pageId": 4023,
+  "pageRevisionId": 4404338,
+  "leadText": "This article is about the location. For the Mystery Dungeon mechanic, see Pokémon Tower (Mystery Dungeon). The Pokémon Tower (Japanese: ポケモンタワー Pokémon Tower) is a seven-story tower located in Lavender Town in the Kanto region. It is a burial ground for Pokémon.",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The song for the Pokémon Tower was briefly arranged for the song Ghost Dive . In Generation I , walking inside or leaving the healing area on the fifth floor do not reduce the duration of Repel , Super Repel , or Max Repel . However, entering the healing area counts as a regular step. In Generation I only, the player will be unable to defeat the Channelers and reach the end of the Pokémon Tower if there are no available moves (with PP remaining) that can damage Ghost-type Pokémon, either directly or indirectly such as via confusion . This is due to the fact that in this generation, Ghost-type Pokémon are immune to Struggle (being a Normal-type move) and all opposing Pokémon have infinite PP. This applies to the battle against Agatha at the Indigo Plateau as well. In particular, it is not possible to win those battles with a team consisting of Caterpie and/or Metapod as well as Magikarp without specific event moves. If no moves are learned from TMs , events, or from other games, then a total of 25 R B or 24 Y Pokémon species would be unable to win: the three previously mentioned, as well as Abra , Voltorb , Electrode , Pinsir , Scyther R B , all the pure Normal-type Pokémon other than Clefairy , Ditto , and Porygon , and all the pure Fighting-type Pokémon other than Hitmonchan ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Pokemon-Tower",
+    "Pokemon Tower",
+    "Pokemon-Tower (location)"
+  ],
+  "updatedAt": 1773325911
+}

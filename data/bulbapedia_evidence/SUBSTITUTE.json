@@ -1,0 +1,37 @@
+{
+  "answerKey": "SUBSTITUTE",
+  "answerDisplay": "SUBSTITUTE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Substitute (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Substitute_(move)",
+  "pageId": 3773,
+  "pageRevisionId": 4503912,
+  "leadText": "If you were looking for the doll produced by the move Substitute, see Substitute (doll). Substitute (Japanese: みがわり Substitute) is a non-damaging Normal-type move introduced in Generation I. It is: TM50 in Generation I. TM90 from Generation IV to Pokémon Ultra Sun and Ultra Moon and in Pokémon Brilliant Diamond and Shining Pearl. TM08 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR20 in Pokémon Sword and Shield. TM103 in Pokémon Scarlet and Violet. TM085 in Pokémon Legends: Z-A. It was Mr. Mime's signature move in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II onward 1.3 Generation IX 1.3.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Main article: Substitute doll → Effect By giving up 25% of its maximum HP (rounded down), the user creates a substitute . The substitute's HP is equal to the amount lost to create it (except in Generation I, where it is 1 HP higher). The move fails if the user already has a substitute. A substitute doll takes any damage the user would take instead, until it breaks. While a Pokémon has a substitute, it is not affected by many status moves used by other Pokémon, and the additional effects of other Pokémon's damaging moves often fail to affect it. Snatch will steal the effect of Substitute when it is used. Generation I [ edit | edit source ] The created substitute's HP is 1 greater than the amount of HP lost by the user. In the handheld Generation I games, if the user has exactly 25% of its maximum HP, it will create a substitute and immediately faint. In Pokémon Stadium, Substitute fails if the user has exactly 25% of its maximum HP. Generation II onward [ edit | edit source ] The created substitute's HP is equal to the HP lost when using Substitute. Substitute fails if the user does not have more than 25% of its maximum HP left (i.e. making a substitute would otherwise cause it to faint ). Consequently, Substitute will always fail if used by Shedinja (who only has 1 HP). If powered up by a Normalium Z into Z-Substitute, all of the user's lowered stats are reset. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] In Pokémon Legends: Z-A , Substitute's health cost is 1/8 of the user's maximum HP. When used, it creates a substitute doll in front of the user to serve as an obstacle. The subsitute doll can be targeted by moves and destroyed by damaging moves, including by the user and other party Pokémon. Only one substitute per party can be active at a time. If Substitute is used while a substitute doll created by a Pokémon in the same party is active, the previous doll will be removed. When used as a Plus Move , Substitute creates a larger doll that takes more damage to break. Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 10s Move wind-up time 1 frame Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 Uses 1/4 of the user's maximum HP to create a substitute that takes the opponent's attacks. G S C Makes a decoy with 1/4 user's max HP. R S E Colo XD Creates a decoy using 1/4 of the user's maximum HP. FR LG The user creates a decoy using one-quarter of its full HP. D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E The user makes a copy of itself using some of its HP. The copy serves as the user's decoy. Sw Sh BD SP LA The user creates a substitute for itself using some of its HP. The substitute serves as the user's decoy. S V The user creates a substitute for itself using some of its own HP. The substitute serves as the user's decoy. ZA The user sacrifices a small amount of HP to create a substitute for itself."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The target gains the Decoy status, making it the target of its fellow Pokémon. MD T D * Afflicts the targeted enemy with a Decoy status condition. A Pokémon with the Decoy status becomes a decoy that is seen as an enemy by its allies and can draw their attacks. MD T D * MD S Afflicts the targeted Pokémon with a Decoy status condition. A Pokémon with the Decoy status is viewed as a foe by its allies. It also becomes likely to draw the attention of foes. B S L ポケモンを みがわりじょうたいにかえる みがわりじょうたいになると ねらわれやすくなったり なかまから こうげきされたりする MD GtI You will get the Substitute status, but every time you use this move, your HP decreases. With the Substitute status, you won't be targeted by enemies, but you can't use moves or items, nor restore your HP naturally. S MD You create a decoy using your HP. You won't be targeted, but you can't use moves or items. * You'll create a substitute, but every time you use this move, your HP decreases. When you create a substitute, you won't be targeted by enemies, but you can't use moves or items, nor can you restore your HP naturally. * Super Smash Bros. for Nintendo 3DS/Wii U Deceive with a substitute, and then counter an attack. * Pokkén Tournament Temporarily protects against some long-range attacks. Also recovers a small amount of HP."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Shedinja can learn Substitute despite being incapable of using it, as its HP is too low to create a substitute . However, in the Mystery Dungeon series, it is able to use the move, due to being able to possess more than 1 HP. This move plays its animation even if the battle animations are turned off. In Generation I games, if the player used Substitute , then looked at the stats of a Pokémon in their party and then exited the menu, the opponent's Pokémon sprite would change to a glitchy version of the Pokémon that was just viewed. In Pokémon Crystal , if the opponent has a substitute and uses Baton Pass , the next Pokémon that switches in will produce a glitchy animation."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Substitute",
+    "Substitute (move)"
+  ],
+  "updatedAt": 1773327641
+}

@@ -1,0 +1,17 @@
+{
+  "answerKey": "SCYTHER",
+  "answerDisplay": "SCYTHER",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Bug / Flying type Pokémon introduced in Generation 1.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/scyther",
+  "extract": "Scyther is a Bug / Flying type Pokémon introduced in Generation 1 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212747
+}

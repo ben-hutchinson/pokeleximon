@@ -1,0 +1,69 @@
+{
+  "answerKey": "COURTCHANGE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4425071,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII Normal move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Normal status move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokemon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] Court Change causes any active battle effects to swap sides. This affects barriers like Reflect , multi-turn effects like Tailwind , and entry hazards like Spikes . Court Change does not cause any Pokemon afflicted with a volatile or non-volatile status condition to pass that condition to another Pokemon, nor does it transfer any Pokemon's stat changes to any other Pokemon. Court Change has no effect on effects that affect the entire field (like weather , terrain , or Trick Room ). If used on an effect created by a G-Max Move , such as G-Max Volcalith , Court Change will successfully switch the passive effect so long as it only impacts one side of the field. If both sides of the battle are affected by the same effect, but are each on different remaining turns, Court Change will swap both effects' remaining turns. If Court Change transfers an entry hazard , it will not have any effect until a new Pokemon is switched in. The following moves are affected by Court Change: Move Type Cat. Reflect Psychic Status Light Screen Psychic Status Aurora Veil Ice Status Fire Pledge Fire Special Grass Pledge Grass Special Water Pledge Water Special Mist Ice Status Safeguard Normal Status Stealth Rock Rock Status Spikes Ground Status Sticky Web Bug Status Toxic Spikes Poison Status Tailwind Flying Status G-Max Steelsurge Steel Unknown G-Max Stonesurge Water Unknown G-Max Resonance Ice unknown G-Max Volcalith Rock unknown G-Max Vine Lash Grass Unknown G-Max Wildfire Fire Unknown G-Max Cannonade Water Unknown Generation VIII [ edit | edit source ] If a Sticky Web is swapped back to its user's side of the field, and a Pokemon with Defiant or Competitive is then switched onto this Sticky Web, the Abilities will not activate. Pokemon Brilliant Diamond and Shining Pearl [ edit | edit source ] Court Change cannot be selected in a battle. Generation IX [ edit | edit source ] Defiant or Competitive will now activate because of a Sticky Web swapped back to its user's side of the field.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "poisoning move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "switching move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Normal status move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen VIII Normal move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "normal status move"
+    ],
+    "connections_descriptors": [
+      "Poisoning moves",
+      "Switching moves",
+      "Normal Status moves"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257937
+}

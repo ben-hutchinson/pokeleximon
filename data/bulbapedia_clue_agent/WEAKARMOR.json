@@ -1,0 +1,71 @@
+{
+  "answerKey": "WEAKARMOR",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4407517,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Weak Armor (Japanese: Broken Armor) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD GtI When the Pokemon is hit by a physical move, its Defense goes down, but its Travel Speed rises. * When it's hit by a physical move, the Pokemon's Defense goes down, and its Travel Speed goes up! * S MD When it's hit by a physical move, the Pokemon's Defense goes down and its Travel Speed goes up!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations V and VI 1.1.2 Generation VII onwards 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations V and VI [ edit | edit source ] When a Pokemon with this Ability is hit by a physical move , its Defense is decreased by one stage and its Speed is increased by one stage. If a Pokemon with this Ability is hit by a physical multistrike move (such as Fury Swipes ), each hit activates this Ability. Generation VII onwards [ edit | edit source ] Weak Armor now raises Speed by two stages. Outside of battle [ edit | edit source ] Weak Armor has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Generations V and VI [ edit | edit source ] When a Pokemon with this Ability is hit by a physical move , its Defense is decreased by one stage and its Speed is increased by one stage. If a Pokemon with this Ability is hit by a physical multistrike move (such as Fury Swipes ), each hit activates this Ability. Generation VII onwards [ edit | edit source ] Weak Armor now raises Speed by two stages.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "boosting trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "debuffing trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "boosting trait",
+      "debuffing trait"
+    ],
+    "connections_descriptors": [
+      "Boosting abilities",
+      "Debuffing abilities",
+      "Gen V abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258032
+}

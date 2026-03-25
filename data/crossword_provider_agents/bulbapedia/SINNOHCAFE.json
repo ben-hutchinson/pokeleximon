@@ -1,0 +1,17 @@
+{
+  "answerKey": "SINNOHCAFE",
+  "answerDisplay": "SINNOH CAFE",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Regional cafe",
+  "score": 87.52,
+  "approved": true,
+  "qualityFlags": [
+    "answer_fragment_leak",
+    "unknown_evidence_ref"
+  ],
+  "evidenceRef": "title",
+  "sourceUrl": "",
+  "extract": "",
+  "updatedAt": 1774258446
+}

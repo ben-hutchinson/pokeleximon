@@ -1,0 +1,91 @@
+{
+  "answerKey": "BIGPECKS",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4471315,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Big Pecks (Japanese: Pigeon Breast) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD GtI Prevents Defense from being lowered. * The Pokemon's Defense won't be lowered! * S MD The Pokemon's Defense won't be lowered!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Big Pecks prevents other Pokemon from lowering the Defense stat stage of the Pokemon with this Ability. It does not prevent the Pokemon with this Ability from lowering its own Defense, such as by using Shell Smash . It does not prevent Spectral Thief from stealing (i.e., resetting) positive stat changes. Effects that decrease Defense without using stat stages, such as Guard Swap , Heart Swap , or Guard Split , are unaffected by Big Pecks. This Ability can be ignored by Pokemon with Mold Breaker , Teravolt , and Turboblaze . Outside of battle [ edit | edit source ] Big Pecks has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Big Pecks prevents other Pokemon from lowering the Defense stat stage of the Pokemon with this Ability. It does not prevent the Pokemon with this Ability from lowering its own Defense, such as by using Shell Smash . It does not prevent Spectral Thief from stealing (i.e., resetting) positive stat changes. Effects that decrease Defense without using stat stages, such as Guard Swap , Heart Swap , or Guard Split , are unaffected by Big Pecks. This Ability can be ignored by Pokemon with Mold Breaker , Teravolt , and Turboblaze .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Protects against Defense drops.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Protects Defense from drops",
+        "evidence_ref": "Description",
+        "specificity": 0.86
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "protective trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Protects Defense from drops",
+        "evidence_ref": "Description",
+        "mystery_score": 0.76,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Defense-drop blocking trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.7,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Keeps Defense from falling",
+        "evidence_ref": "Description",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "protective trait",
+      "defense guard",
+      "defense shield"
+    ],
+    "connections_descriptors": [
+      "Protective abilities",
+      "Defense-protecting abilities",
+      "Gen V abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257929
+}

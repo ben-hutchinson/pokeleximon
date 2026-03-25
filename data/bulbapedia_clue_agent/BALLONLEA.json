@@ -1,0 +1,100 @@
+{
+  "answerKey": "BALLONLEA",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4509300,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Galar location",
+        "evidence_ref": "lead",
+        "specificity": 0.5
+      },
+      {
+        "text": "town landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "house landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "forest landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "route landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "tower landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "near a regional town",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      },
+      {
+        "text": "tower landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.74
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Galar landmark",
+        "evidence_ref": "lead",
+        "mystery_score": 0.38,
+        "specificity_score": 0.5,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Galar town",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.7,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Regional town",
+        "evidence_ref": "lead",
+        "mystery_score": 0.44,
+        "specificity_score": 0.62,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Town in Galar",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.66,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Town-side landmark",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "theme"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "Pokemon location"
+    ],
+    "connections_descriptors": [
+      "Galar landmarks",
+      "Galar towns"
+    ],
+    "risk_flags": [],
+    "confidence": 0.77
+  },
+  "updatedAt": 1774257928
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "SACREDSWORD",
+  "answerDisplay": "SACRED SWORD",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sacred Sword (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sacred_Sword_(move)",
+  "pageId": 117328,
+  "pageRevisionId": 4462236,
+  "leadText": "Sacred Sword (Japanese: せいなるつるぎ Sacred Sword) is a damage-dealing Fighting-type move introduced in Generation V. Prior to Generation VI, it was the signature move of the Swords of Justice.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation V 1.2 Generation VI onwards 1.3 Generation VIII 1.3.1 Pokémon Brilliant Diamond and Shining Pearl 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Sacred Sword inflicts damage, ignoring the target's Defense and evasion stat changes. Generation V [ edit | edit source ] Sacred Sword has 20 PP. Generation VI onwards [ edit | edit source ] Sacred Sword's PP was reduced to 15. If used by a Pokémon with Sharpness , its power is increased by 50%. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Sacred Sword cannot be selected in a battle. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] When Cobalion , Terrakion , Virizion , or Keldeo uses Sacred Sword, its Attack and Special Attack stats increase."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user attacks by slicing with its long horns. The target's stat changes don't affect this attack's damage. X Y OR AS S M US UM P E Sw Sh LA The user attacks by slicing with a long horn. The target's stat changes don't affect this attack's damage. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user attacks by slicing with a sword. The target's stat changes don't affect the damage inflicted by this move. ZA The user attacks by slicing targets with a sword. This move ignores any stat changes affecting its targets."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Conq. The user attacks by slicing with its long horns. The target's stat changes don't affect this attack's damage. MD GtI It damages an enemy. The enemy's stat changes in Defense and evasiveness don't affect this attack's damage. (Whether they are boosted or lowered, they don't affect this attack's damage.) S MD The enemy's stat changes don't affect this attack's damage. * It damages an enemy. The enemy's stat changes in Defense and evasiveness don't affect this attack, regardless of whether the stats were boosted or reduced. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] With the exception of Oshawott , every Pokémon that learns this move has a sword motif. However, it's worth noting that Oshawott evolves into Samurott , which uses its seamitars like swords."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sacred-Sword",
+    "Sacred Sword",
+    "Sacred-Sword (move)"
+  ],
+  "updatedAt": 1773326589
+}

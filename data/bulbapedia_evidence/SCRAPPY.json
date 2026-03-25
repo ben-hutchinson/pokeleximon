@@ -1,0 +1,33 @@
+{
+  "answerKey": "SCRAPPY",
+  "answerDisplay": "SCRAPPY",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Scrappy (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Scrappy_(Ability)",
+  "pageId": 14213,
+  "pageRevisionId": 4487958,
+  "leadText": "Scrappy (Japanese: きもったま Spunk) is an Ability introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Scrappy enables the Pokémon with this Ability to hit Ghost-type Pokémon with damage-dealing Normal - and Fighting-type moves. From Generation VIII onwards, Scrappy now also grants an immunity to Intimidate . Outside of battle [ edit | edit source ] Scrappy has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Scrappy enables the Pokémon with this Ability to hit Ghost-type Pokémon with damage-dealing Normal - and Fighting-type moves. From Generation VIII onwards, Scrappy now also grants an immunity to Intimidate ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D * Enables the Pokémon to hit Ghost types with Normal- and Fighting-type moves. MD T D * Increases the damage inflicted on Ghost-type enemies with Normal- and Fighting-type moves. MD S Increases the damage inflicted on Ghost types with Normal- and Fighting-type moves. B S L ゴーストタイプの ポケモンに ノーマル かくとう タイプのわざの ダメージがあがる MD GtI Unavailable S MD Ghost-type Pokémon can be hit by Normal- and Fighting-type moves! MD RT DX Ghost-type Pokémon can be hit by Normal- and Fighting-type moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Scrappy",
+    "Scrappy (Ability)"
+  ],
+  "updatedAt": 1773329186
+}

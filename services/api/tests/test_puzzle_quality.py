@@ -130,6 +130,30 @@ class PuzzleQualityTests(unittest.TestCase):
         self.assertFalse(result["isPublishable"])
         self.assertIn("clue_contains_disallowed_content", result["hardFailures"])
 
+    def test_structural_letter_pattern_clue_fails_governance(self):
+        entries = _baseline_entries()
+        entries[0]["clue"] = "Pokémon location clue with initials IA and 12 total letters."
+        open_cells = {(x, y) for x in range(6) for y in range(6)} - {(5, 5)}
+        result = evaluate_crossword_publishability(
+            grid=_grid(8, 8, open_cells),
+            entries=entries,
+            metadata={"themeTags": ["pokemon", "crossword"], "source": "curated"},
+        )
+        self.assertFalse(result["isPublishable"])
+        self.assertIn("clue_contains_disallowed_content", result["hardFailures"])
+
+    def test_structural_vowel_count_clue_fails_governance(self):
+        entries = _baseline_entries()
+        entries[0]["clue"] = "Pokémon move clue: ending letters LE; vowels 6, consonants 7."
+        open_cells = {(x, y) for x in range(6) for y in range(6)} - {(5, 5)}
+        result = evaluate_crossword_publishability(
+            grid=_grid(8, 8, open_cells),
+            entries=entries,
+            metadata={"themeTags": ["pokemon", "crossword"], "source": "curated"},
+        )
+        self.assertFalse(result["isPublishable"])
+        self.assertIn("clue_contains_disallowed_content", result["hardFailures"])
+
     def test_generic_clue_token_fails_governance(self):
         entries = _baseline_entries()
         entries[0]["clue"] = "Clue token *****"

@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 import { useParams } from "react-router-dom";
 import { getPublicPlayerStats, type PersonalStats, type PersonalStatsBucket, type PuzzleGameType } from "../api/puzzles";
 import Layout from "../components/Layout";
+import ProfileAvatar from "../components/ProfileAvatar";
 
 const WINDOW_OPTIONS: Array<7 | 30 | 90> = [7, 30, 90];
 const GAME_OPTIONS: Array<{ value: PuzzleGameType; label: string }> = [
@@ -31,7 +32,7 @@ export default function PlayerProfile() {
   const { publicSlug = "" } = useParams();
   const [days, setDays] = useState<7 | 30 | 90>(30);
   const [gameType, setGameType] = useState<PuzzleGameType>("crossword");
-  const [profile, setProfile] = useState<{ displayName: string; publicSlug: string } | null>(null);
+  const [profile, setProfile] = useState<{ displayName: string; publicSlug: string; avatarPreset?: string | null } | null>(null);
   const [stats, setStats] = useState<PersonalStats | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -71,10 +72,18 @@ export default function PlayerProfile() {
 
   return (
     <Layout>
-      <section className="page-section" aria-labelledby="player-profile-heading" aria-busy={loading}>
-        <div className="section-header">
-          <h2 id="player-profile-heading">{profile?.displayName ?? "Player Profile"}</h2>
-          <p>Public stats page for @{profile?.publicSlug ?? publicSlug}.</p>
+      <section className="page-section profile-page" aria-labelledby="player-profile-heading" aria-busy={loading}>
+        <div className="profile-page__header">
+          <ProfileAvatar
+            className="profile-page__avatar"
+            displayName={profile?.displayName ?? "Player Profile"}
+            avatarPreset={profile?.avatarPreset ?? null}
+            size="lg"
+          />
+          <div className="section-header">
+            <h2 id="player-profile-heading">{profile?.displayName ?? "Player Profile"}</h2>
+            <p>Public stats page for @{profile?.publicSlug ?? publicSlug}.</p>
+          </div>
         </div>
 
         <div className="stats-controls" role="group" aria-label="Public stats game filter">

@@ -1,0 +1,139 @@
+{
+  "answerKey": "POISONTOUCH",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4407525,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Poison Touch (Japanese: Underhanded Trick) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD GtI May inflict the Poisoned status on the attacker who hits it with a direct attack. * When the Pokemon lands a direct attack like Tackle or Scratch, the target is sometimes afflicted with the Poisoned status condition! * S MD When the Pokemon damages a target with a contact move like Tackle or Scratch, the target sometimes gets poisoned!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If a Pokemon with this Ability uses a move that makes contact , there is a 30% chance the target will become poisoned . In Japanese versions of Pokemon Black and White , this is a 20% chance instead. This chance applies independently of any moves that may have a chance to poison the target with their own effect. If the attack's target holds a status condition-curing Berry , it is possible for a move's natural effect to inflict a status condition which the target's held item will then cure, only for the target to then be poisoned by Poison Touch. Poison Touch's chances also apply independently for each hit of a multistrike move . Poison Touch can poison a target hit by Dragon Tail or Circle Throw . Poison Touch can poison a target with Mummy before Mummy overwrites Poison Touch. Pokemon with Immunity , Shield Dust , or (during harsh sunlight ) Leaf Guard cannot be poisoned by Poison Touch, unless the contact-making move is Sunsteel Strike . In a link battle including a Japanese version of Pokemon Black or White and non-Japanese version of Black and White (or any version of Black 2 or White 2), the chance to poison is determined by the game of the player with the Pokemon that has the Ability Poison Touch. As such, a Pokemon with Poison Touch owned by the player of a Japanese version of Pokemon Black or White will have a 20% chance to poison, whereas players of Pokemon Black 2 and White 2 and non-Japanese versions of Pokemon Black and White will have a 30% chance. Outside of battle [ edit | edit source ] Poison Touch has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] If a Pokemon with this Ability uses a move that makes contact , there is a 30% chance the target will become poisoned . In Japanese versions of Pokemon Black and White , this is a 20% chance instead. This chance applies independently of any moves that may have a chance to poison the target with their own effect. If the attack's target holds a status condition-curing Berry , it is possible for a move's natural effect to inflict a status condition which the target's held item will then cure, only for the target to then be poisoned by Poison Touch. Poison Touch's chances also apply independently for each hit of a multistrike move . Poison Touch can poison a target hit by Dragon Tail or Circle Throw . Poison Touch can poison a target with Mummy before Mummy overwrites Poison Touch. Pokemon with Immunity , Shield Dust , or (during harsh sunlight ) Leaf Guard cannot be poisoned by Poison Touch, unless the contact-making move is Sunsteel Strike . In a link battle including a Japanese version of Pokemon Black or White and non-Japanese version of Black and White (or any version of Black 2 or White 2), the chance to poison is determined by the game of the player with the Pokemon that has the Ability Poison Touch. As such, a Pokemon with Poison Touch owned by the player of a Japanese version of Pokemon Black or White will have a 20% chance to poison, whereas players of Pokemon Black 2 and White 2 and non-Japanese versions of Pokemon Black and White will have a 30% chance.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Has a 30% chance of poisoning target Pokemon upon contact.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "Description",
+        "specificity": 0.86
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "poisoning trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "poisoning trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "Description",
+        "mystery_score": 0.76,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Damages foes on contact KO",
+        "evidence_ref": "Description",
+        "mystery_score": 0.7,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Contact-backlash trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "effect"
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.78,
+        "style": "effect"
+      },
+      {
+        "text": "Prevents major status ailments",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "effect"
+      },
+      {
+        "text": "Ailment-proof trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "effect"
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "poisoning trait",
+      "contact backlash",
+      "contact punisher",
+      "status immunity"
+    ],
+    "connections_descriptors": [
+      "Poisoning abilities",
+      "Contact-punishing abilities",
+      "Status-blocking abilities",
+      "Weather abilities",
+      "Gen V abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257994
+}

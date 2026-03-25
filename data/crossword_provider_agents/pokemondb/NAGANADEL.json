@@ -1,0 +1,17 @@
+{
+  "answerKey": "NAGANADEL",
+  "answerDisplay": "NAGANADEL",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Poison / Dragon type Pokémon introduced in Generation 7.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/naganadel",
+  "extract": "Naganadel is a Poison / Dragon type Pokémon introduced in Generation 7 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212167
+}

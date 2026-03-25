@@ -1,0 +1,90 @@
+{
+  "answerKey": "PSYCHICNOISE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4499322,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX Psychic move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Psychic special move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Effect [ edit | edit source ] Psychic Noise deals damage and prevents the target from recovering HP for two turns. During these two turns, if the target uses a move with a healing property, such as Recover or Drain Punch , it will fail. Psychic Noise is a sound-based move . The Heal Block property of this move is considered an additional effect , and is thus blocked by Shield Dust and suppressed by Sheer Force . Aroma Veil also prevents the secondary effect from activating. Using Psychic Noise again while the Heal Block is active will not refresh the duration.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "75-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "draining move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "healing move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Psychic special move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen IX Psychic move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Draining move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.6,
+        "specificity_score": 0.72,
+        "style": "effect"
+      },
+      {
+        "text": "75-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "psychic special move"
+    ],
+    "connections_descriptors": [
+      "Draining moves",
+      "Healing moves",
+      "Psychic Special moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257997
+}

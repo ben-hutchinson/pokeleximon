@@ -1,0 +1,38 @@
+{
+  "answerKey": "MACHBIKE",
+  "answerDisplay": "MACH BIKE",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Mach Bike",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mach_Bike",
+  "pageId": 9013,
+  "pageRevisionId": 4492328,
+  "leadText": "The Mach Bike (Japanese: マッハじてんしゃ Mach Bike) is a Key Item introduced in Generation III. It is one of the bicycles the player can ride in Pokémon Ruby, Sapphire, Emerald, Omega Ruby, and Alpha Sapphire. It is the counterpart to the Acro Bike.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] This item is used to toggle between riding the Mach Bike or walking again. It is not possible to start riding the Mach Bike if the player is indoors or surfing . If the player goes indoors or starts surfing, they will leave the Mach Bike automatically. The Running Shoes are unusable as long as the player is riding the Mach Bike. It is not possible to dismount the bike while on any Cycling Road. Riding the Mach Bike replaces the overworld music with the Cycling theme. Once the player resumes walking, the regular overworld music starts again. Pokémon Ruby, Sapphire, Emerald, Omega Ruby, and Alpha Sapphire [ edit | edit source ] The Mach Bike allows players to move a lot faster than regular Bicycles and the Acro Bike (15 steps per second in Generation III , 16 steps per second in Generation VI ). If the player is already riding the Mach Bike, then using this item causes the player to resume walking. It can move fast enough to ride over cracked tiles without falling through (which appear in Generation III in Granite Cave , the Sky Pillar , and Mirage Tower E ), or ride straight up muddy slopes if the player has enough speed. If the player collides with something, then the speed resets. Riding the Mach Bike or Acro Bike is required on the Seaside Cycling Road . On the Seaside Cycling Road, a player's time and number of collisions while riding this Bicycle from the northern entrance to the southern exit are timed and recorded. This is part of the data sent over to other players via record mixing . Pokémon FireRed and LeafGreen [ edit | edit source ] In Pokémon FireRed and LeafGreen , the Mach Bike (as well as the Acro Bike) is found in the game data, but it is not legitimately obtainable . Using this item causes the player to start riding the regular Bicycle . When the player attempts to enter the Route 17 Cycling Road, the game specifically checks for the event flag indicating that the player has received the Bicycle from the Miracle Cycle shop in Cerulean City . As a result, if the player has the Mach Bike but has never received the regular Bicycle from Miracle Cycle, the player will still be unable to enter the Cycling Road."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S A folding bicycle that more than doubles foot speed. FR LG A folding bicycle that is at least twice as fast as walking. E A folding bicycle that doubles your speed or better. OR AS S M US UM P E This folding Bike more than doubles your movement speed. Sw Sh BD SP LA S V This folding bike more than doubles your movement speed."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.2.1 Pokémon Ruby, Sapphire, Emerald, Omega Ruby, and Alpha Sapphire 1.2.2 Pokémon FireRed and LeafGreen 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price R S E FR LG OR AS S M US UM N/A N/A Effect [ edit | edit source ] This item is used to toggle between riding the Mach Bike or walking again. It is not possible to start riding the Mach Bike if the player is indoors or surfing . If the player goes indoors or starts surfing, they will leave the Mach Bike automatically. The Running Shoes are unusable as long as the player is riding the Mach Bike. It is not possible to dismount the bike while on any Cycling Road. Riding the Mach Bike replaces the overworld music with the Cycling theme. Once the player resumes walking, the regular overworld music starts again. Pokémon Ruby, Sapphire, Emerald, Omega Ruby, and Alpha Sapphire [ edit | edit source ] The Mach Bike allows players to move a lot faster than regular Bicycles and the Acro Bike (15 steps per second in Generation III , 16 steps per second in Generation VI ). If the player is already riding the Mach Bike, then using this item causes the player to resume walking. It can move fast enough to ride over cracked tiles without falling through (which appear in Generation III in Granite Cave , the Sky Pillar , and Mirage Tower E ), or ride straight up muddy slopes if the player has enough speed. If the player collides with something, then the speed resets. Riding the Mach Bike or Acro Bike is required on the Seaside Cycling Road . On the Seaside Cycling Road, a player's time and number of collisions while riding this Bicycle from the northern entrance to the southern exit are timed and recorded. This is part of the data sent over to other players via record mixing . Pokémon FireRed and LeafGreen [ edit | edit source ] In Pokémon FireRed and LeafGreen , the Mach Bike (as well as the Acro Bike) is found in the game data, but it is not legitimately obtainable . Using this item causes the player to start riding the regular Bicycle . When the player attempts to enter the Route 17 Cycling Road, the game specifically checks for the event flag indicating that the player has received the Bicycle from the Miracle Cycle shop in Cerulean City . As a result, if the player has the Mach Bike but has never received the regular Bicycle from Miracle Cycle, the player will still be unable to enter the Cycling Road. Description [ edit | edit source ] Games Description R S A folding bicycle that more than doubles foot speed. FR LG A folding bicycle that is at least twice as fast as walking. E A folding bicycle that doubles your speed or better. OR AS S M US UM P E This folding Bike more than doubles your movement speed. Sw Sh BD SP LA S V This folding bike more than doubles your movement speed. Acquisition [ edit | edit source ] Games Method R S E Rydel's Cycles (choice between this and the Acro Bike, can switch at any time by returning the other bike) OR AS Rydel's Cycles (choice between this and the Acro Bike, can switch at any time by returning the other bike; both can be obtained after speaking to a Hex Maniac in Route 111 's desert, a Bird Keeper on Route 119 , and a Triathlete at the Battle Resort )"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation IV , in Rad Rickshaw's Cycle Shop , there are advertisements on the shelves for the Mach and Acro Bikes . In Pokémon Omega Ruby and Alpha Sapphire , the bells on the different bikes have notably different sounds. In Pokémon: Let's Go, Pikachu! and Let's Go, Eevee! , the Bike Maniac in Cerulean City has some Mach Bikes on display at his home."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mach-Bike",
+    "Mach Bike",
+    "Mach-Bike (item)"
+  ],
+  "updatedAt": 1773324602
+}

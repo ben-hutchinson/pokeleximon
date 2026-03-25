@@ -1,0 +1,30 @@
+{
+  "answerKey": "SLUDGEMOUND",
+  "answerDisplay": "SLUDGE MOUND",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Sludge Mound",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sludge_Mound",
+  "pageId": 269303,
+  "pageRevisionId": 4410116,
+  "leadText": "Sludge Mound (Japanese: ヘドロ台地 Sludge Plateau) is an area located in the southern region of the Crimson Mirelands of Hisui. It is bordered by Gapejaw Bog to the west and Ursa's Ring to the east. It is also accessible from the Bogbound Camp to the north, when it is established as part of Request 31: \"Setting Up the Bogbound Camp\". Ursaluna, who is watched by warden Calaba of the Pearl Clan, is found here. He is fought here as part of Mission 8: \"Arezu's Predicament\", where the player gains access to it as a Ride Pokémon when he is rid of his frenzy.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] The primary feature of the Sludge Mound is a massive, rounded plateau that has an appearance similar to a crater. It forms an arena-like space. The edge of the mound is riddled with dead tree trunks. It sits in a dense forest of dead trees and ore deposits."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] This section is incomplete. Please feel free to edit this section to add missing information and complete it. Item Location Games Earth Plate Given by Ursaluna for defeating it LA Old Verse 9 Past the mound to the east, before the mountainous barrier ( hidden , requires Ursaluna ) LA"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sludge-Mound",
+    "Sludge Mound",
+    "Sludge-Mound (location)"
+  ],
+  "updatedAt": 1773329213
+}

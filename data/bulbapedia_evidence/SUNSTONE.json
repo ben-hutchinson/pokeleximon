@@ -1,0 +1,38 @@
+{
+  "answerKey": "SUNSTONE",
+  "answerDisplay": "SUN STONE",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sun Stone",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sun_Stone",
+  "pageId": 9804,
+  "pageRevisionId": 4504954,
+  "leadText": "The Sun Stone (Japanese: たいようのいし Sun Stone) is a type of Evolution stone introduced in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Manual activation [ edit | edit source ] Can be used to evolve one of several Pokémon. This consumes the Sun Stone. Causes Gloom to evolve into Bellossom Causes Sunkern to evolve into Sunflora Causes Cottonee to evolve into Whimsicott Causes Petilil to evolve into Lilligant (outside of Hisui ) or Hisuian Lilligant (in Hisui) Causes Helioptile to evolve into Heliolisk"
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Can be used to evolve one of several Pokémon by offering it at the Luminous Cave R B or Luminous Spring T D S or by using it in a dungeon GtI . This consumes the Sun Stone. Causes Gloom to evolve into Bellossom Causes Sunkern to evolve into Sunflora Causes Cottonee to evolve into Whimsicott Causes Petilil to evolve into Lilligant If thrown, it will deal 1 R B T D S /2 GtI damage (2 if sticky ). In Red Rescue Team, Blue Rescue Team, Explorers of Time, Explorers of Darkness, and Explorers of Sky, using this item in a dungeon will consume it, with no effect."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description G S C Evolves certain kinds of Pok é mon . R S E Colo XD Makes certain species of Pok é mon evolve. FR LG A peculiar stone that makes certain species of Pok é mon evolve. It is as red as the sun. D P Pt A peculiar stone that makes certain species of Pokémon evolve. It is as red as the sun. * An odd stone needed for evolution. It is as red as the sun. * HG SS B W B2 W2 A peculiar stone that makes certain species of Pokémon evolve. It is as red as the sun. X Y OR AS S M US UM P E Sw Sh BD SP LA S V ZA A peculiar stone that can make certain species of Pokémon evolve. It burns as red as the evening sun."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B It enables certain kinds of Pokémon to evolve. Give it to the Pokémon when it's ready to evolve. MD T D S An odd stone that glows with sunny warmth. It allows certain kinds of Pokémon to evolve. MD GtI An odd stone that glows with sunny warmth. It helps certain kinds of Pokémon to evolve."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sun-Stone",
+    "Sun Stone",
+    "Sun-Stone (item)"
+  ],
+  "updatedAt": 1773327667
+}

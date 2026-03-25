@@ -1,0 +1,34 @@
+{
+  "answerKey": "WAVECRASH",
+  "answerDisplay": "WAVE CRASH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Wave Crash (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Wave_Crash_(move)",
+  "pageId": 268029,
+  "pageRevisionId": 4493025,
+  "leadText": "Wave Crash (Japanese: ウェーブタックル Wave Tackle) is a damage-dealing Water-type move introduced during Generation VIII, in Pokémon Legends: Arceus.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Wave Crash inflicts damage and the user receives recoil damage equal to 33% of the damage done to the target and raises the user's action speed. Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 75 60 90 Accuracy 100% 100% 100% Action speed modifier Self -4 -4 +2 Target 0 +3 0 Additional effect Recoil 33% 33% 50% ? ? ? ? Damages the user by a percentage of damage dealt Raises the user's action speed Generation IX [ edit | edit source ] Wave Crash's power was increased to 120."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA The user shrouds itself in water and slams into the target with its whole body to inflict damage. This also damages the user and raises the user’s action speed. S V The user shrouds itself in water and slams into the target with its whole body to inflict damage. This also damages the user quite a lot."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Wave Crash is the only Water-type move that causes recoil damage. In Pokémon Legends: Arceus , Wave Crash has the lowest base power of all recoil moves (besides Struggle )."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Wave-Crash",
+    "Wave Crash",
+    "Wave-Crash (move)"
+  ],
+  "updatedAt": 1773328433
+}

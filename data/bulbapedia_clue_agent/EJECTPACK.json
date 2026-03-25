@@ -1,0 +1,57 @@
+{
+  "answerKey": "EJECTPACK",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4430147,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "specificity": 0.7
+      },
+      {
+        "text": "held items",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen VIII held items",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Effect [ edit | edit source ] If any of the holder's stats is lowered (including by the use of its own moves such as Overheat ), the Eject Pack is consumed and the holder automatically switches out . If the holder is switched in while Sticky Web is set on its side of the field, it will immediately switch out again. Because only one Pokemon can switch out per move, a Pokemon's held Eject Pack will not activate if it is hit by Parting Shot . If multiple Pokemon's held Eject Buttons and Eject Packs would activate at once, only the held item of the fastest among these Pokemon will activate.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.46,
+        "specificity_score": 0.68,
+        "style": "category"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "battle item"
+    ],
+    "connections_descriptors": [
+      "Held battle items",
+      "Gen VIII items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257943
+}

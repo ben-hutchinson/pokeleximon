@@ -1,0 +1,33 @@
+{
+  "answerKey": "CATASTROPIKA",
+  "answerDisplay": "CATASTROPIKA",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Catastropika (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Catastropika_(move)",
+  "pageId": 216045,
+  "pageRevisionId": 4487500,
+  "leadText": "Catastropika (Japanese: ひっさつのピカチュート Certain-kill Pikachoot) is a damage-dealing Electric-type Z-Move introduced in Generation VII. It is the exclusive Z-Move of Pikachu and an upgraded version of its signature move, Volt Tackle.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VII [ edit | edit source ] Catastropika does damage and has no secondary effect. Generation VIII onwards [ edit | edit source ] Catastropika cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E The user, Pikachu, surrounds itself with the maximum amount of electricity using its Z-Power and pounces on its target with full force. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Along with 10,000,000 Volt Thunderbolt , Catastropika is the only species-exclusive Z-Move to have a unique pose not shared with other Z-Moves of the same type. Coincidentally, both are exclusive to Pikachu . Catastropika has the highest base power of all Electric-type moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Catastropika",
+    "Catastropika (move)"
+  ],
+  "updatedAt": 1773321519
+}

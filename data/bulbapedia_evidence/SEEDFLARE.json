@@ -1,0 +1,38 @@
+{
+  "answerKey": "SEEDFLARE",
+  "answerDisplay": "SEED FLARE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Seed Flare (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Seed_Flare_(move)",
+  "pageId": 17177,
+  "pageRevisionId": 4418447,
+  "leadText": "Seed Flare (Japanese: シードフレア Seed Flare) is a damage-dealing Grass-type move introduced in Generation IV. It is the signature move of Shaymin.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Sword and Shield 1.1.2 Pokémon Legends: Arceus Effect [ edit | edit source ] Seed Flare inflicts damage and has a 40% chance of lowering the target's Special Defense stat by two stages. Generation VIII [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] Seed Flare cannot be used in a battle. Pokémon Legends: Arceus [ edit | edit source ] Seed Flare's base power was reduced to 100. Pokémon Legends: Arceus Category Special PP 5 Agile Strong Power 100 80 120 Accuracy 85% 85% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 20% 20% 40% Turns 3 2 4 ? ? May lower the target's defensive stats"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user generates a shock wave from within its body. It may also lower the target's Sp. Def. B W B2 W2 The user emits a shock wave from its body to attack its target. It may harshly lower the target's Sp. Def. X Y OR AS The user emits a shock wave from its body to attack its target. This may harshly lower the target's Sp. Def. S M US UM P E Sw Sh BD SP S V The user emits a shock wave from its body to attack its target. This may also harshly lower the target's Sp. Def stat. LA The user emits a shock wave from its body to attack its target. This may also lower the target’s defensive stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D $$$ MD S * Inflicts damage on all enemies within a 1-tile range. It may also reduce the Special Attack of enemies within a 1-tile range by 2 levels. MD S * Inflicts damage on all enemies within a 1-tile range. It may also reduce the Special Defense of enemies within a 1-tile range by 2 levels. B S L まわりの てきポケモンに ダメージをあたえる しかも いっていのかくりつで とくぼうを ２だんかいさげる MD GtI UNUSED S MD It damages enemies in the same room. It could also sharply lower their Sp. Def."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Giratina and the Sky Warrior , Nurse Joy describes Seed Flare as a process in which Shaymin purifies the polluted air it inhales in its body and then expels it in the form of light and water."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Seed-Flare",
+    "Seed Flare",
+    "Seed-Flare (move)"
+  ],
+  "updatedAt": 1773326775
+}

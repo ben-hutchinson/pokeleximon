@@ -1,0 +1,38 @@
+{
+  "answerKey": "DRAGONDANCE",
+  "answerDisplay": "DRAGON DANCE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Dragon Dance (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Dance_(move)",
+  "pageId": 3960,
+  "pageRevisionId": 4474118,
+  "leadText": "If you were looking for the skill in Pokémon Shuffle, see Skill (Shuffle) → Dancing Dragons. Dragon Dance (Japanese: りゅうのまい Dragon Dance) is a non-damaging Dragon-type move introduced in Generation III. It was TR51 in Pokémon Sword and Shield, and is TM100 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Dragon Dance raises the user's Attack stat and Speed stat by one stage each. If powered up by a Dragonium Z into Z-Dragon Dance, all of the user's lowered stats are reset. Dragon Dance can be used as the first move of a Pokémon Contest combination , causing Dragon Claw , Dragon Rage , and DragonBreath to score double the normal appeal if used in the next turn. It can also be used to finish a combination, with the user gaining 1 bonus appeal point if Dragon Rage or DragonBreath was used in the previous turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD A mystical dance that ups Attack and Speed . FR LG A mystic, powerful dance that boosts the user's Attack and Speed stats. D P Pt HG SS PBR B W B2 W2 S V The user vigorously performs a mystic, powerful dance that boosts its Attack and Speed stats. X Y OR AS S M US UM P E Sw Sh BD SP LA The user vigorously performs a mystic, powerful dance that raises its Attack and Speed stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts the user's Attack and Movement Speed by one level. MD T D S Boosts the user's Attack and Movement Speed by 1 level. B S L じぶんの こうげき いどうそくどを １だんかいあげる MD GtI It boosts your Attack and Travel Speed. (The stat changes return to normal when you go to the next floor or step on a Wonder Tile.) S MD It boosts your Attack and Travel Speed. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Pokédex entries",
+      "text": "Pokédex entries [ edit | edit source ] Episode Subject Source Entry JN010 Dragon Dance Goh's Rotom Phone Dragon Dance, a move that combines concentration and rhythmic movement to increase the physical skills of a Pokémon."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Dragon-Dance",
+    "Dragon Dance",
+    "Dragon-Dance (move)"
+  ],
+  "updatedAt": 1773322266
+}

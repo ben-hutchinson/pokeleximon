@@ -1,0 +1,34 @@
+{
+  "answerKey": "MATCHAGOTCHA",
+  "answerDisplay": "MATCHA GOTCHA",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Matcha Gotcha (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Matcha_Gotcha_(move)",
+  "pageId": 295853,
+  "pageRevisionId": 4492351,
+  "leadText": "Matcha Gotcha (Japanese: シャカシャカほう Rustle-Rustle Cannon) is a damage-dealing Grass-type move introduced during Generation IX, in The Teal Mask. It is the signature move of Sinistcha.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Matcha Gotcha deals damage and restores the user's HP equal to up to half of the damage dealt. It also has a 20% chance of burning targets. Matcha Gotcha hits both opponents in a Double Battle . If the target has the Ability Liquid Ooze , the user will lose the amount of HP it would have gained instead. If Matcha Gotcha is used in a Double Battle when one of the opponents has the ability Liquid Ooze, the user will take damage from that ability first, and then heal of HP from the other opponent. If the user is holding a Big Root , the HP restored is increased by 30% (making the restored HP 65% of the damage dealt). Big Root does not increase the damage dealt. Upon execution, Matcha Gotcha will thaw the user if frozen . Matcha Gotcha also thaws a frozen target hit by it."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user fires a blast of tea that it mixed. The user's HP is restored by up to half the damage taken by the target. This may also leave the target with a burn."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Matcha Gotcha is the only: Grass-type move that can inflict a burn . HP-draining move that has an additional effect . HP-draining move that can target all adjacent opponents without affecting allies . Despite its Japanese name containing ほう \"cannon\", it is not one of the ball and bomb moves ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Matcha-Gotcha",
+    "Matcha Gotcha",
+    "Matcha-Gotcha (move)"
+  ],
+  "updatedAt": 1773324796
+}

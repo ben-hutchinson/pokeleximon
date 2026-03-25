@@ -1,0 +1,37 @@
+{
+  "answerKey": "SOAK",
+  "answerDisplay": "SOAK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Soak (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Soak_(move)",
+  "pageId": 117545,
+  "pageRevisionId": 4407042,
+  "leadText": "This article is about the move Soak. For the Field Move in Pokémon Ranger games, see Soak (Field Move). Soak (Japanese: みずびたし Flood) is a non-damaging Water-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation V 1.2 Generation VI onwards 1.3 Generation VII 1.4 Generation IX Effect [ edit | edit source ] Generation V [ edit | edit source ] Soak changes the target's type to pure Water-type . The effect lasts as long as the target remains in battle; however, changing form or transforming overrides the effect. Soak succeeds even if the target is already a pure Water-type Pokémon. Soak fails if used on a substitute or a Pokémon with Multitype . Type-changing effects cannot be Baton Passed . Generation VI onwards [ edit | edit source ] If used on a pure Water-type Pokémon, Soak's animation will still play, but the game will now state that the move has failed. Soak fails if used on a Pokémon with RKS System . Soak can be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if the move Rain Dance was used in the prior turn. If powered up by a Waterium Z into Z-Soak, the user's Special Attack stat rises by one stage. Generation VII [ edit | edit source ] If used on Mimikyu that has its Disguise up, it loses its Water typing if the disguise is broken. Generation IX [ edit | edit source ] Soak fails if used on a Terastallized Pokémon."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user shoots a torrent of water at the target and changes the target's type to Water. S V The user shoots a torrent of water that changes the target's type to Water."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It changes the type of the Pokémon in front of you to Water. S MD It changes the type of a target to Water. The type returns to normal when you go to the next floor or faint. MD RT DX It changes the type of the target to Water. The type returns to normal when the Pokémon goes to the next floor or faints."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as a TCG Poké-POWER . Although the move itself hasn't been used in the animated series , getting wet has been shown to neutralize the Ground type's immunity to Electric in a couple of occasions, first with Brock's Onix in Showdown in Pewter City and later with Pryce's Piloswine in Nice Pryce, Baby! and Hapu's Mudsdale in A Grand Debut! . In the last instance, getting wet was directly mentioned to mimic Soak's effect. All Pokémon capable of knowing Soak are either a Water -type or in one of the Water Egg Groups ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Soak",
+    "Soak (move)"
+  ],
+  "updatedAt": 1773327350
+}

@@ -1,0 +1,17 @@
+{
+  "answerKey": "GOUGINGFIRE",
+  "answerDisplay": "GOUGING FIRE",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon / Dragon type Pokémon introduced in Generation 9.",
+  "score": 102.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/gouging-fire",
+  "extract": "Fire / Dragon type Pokémon introduced in Generation 9 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211461
+}

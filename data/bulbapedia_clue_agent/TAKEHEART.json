@@ -1,0 +1,75 @@
+{
+  "answerKey": "TAKEHEART",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4411596,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII Psychic move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Psychic status move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Take Heart cures the user of all status conditions and raises its offensive and defensive stats for four turns. Pokemon Legends: Arceus Category Status PP 10 Agile Strong Power Accuracy % % % Action speed modifier Self -2 -3 +5 Target ? ? ? Additional effect Turns 4 3 5 ? ? ? ? Raises the user's offensive and defensive stats Cures the user of status conditions Raises the user's action speed Generation IX [ edit | edit source ] Take Heart raises the user's Special Attack and Special Defense stats by one stage each, and heals any non-volatile status conditions the user may have.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "0-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "boosting move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Psychic status move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen VIII Psychic move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "0-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "psychic status move"
+    ],
+    "connections_descriptors": [
+      "Boosting moves",
+      "Psychic Status moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258022
+}

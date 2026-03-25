@@ -1,0 +1,81 @@
+{
+  "answerKey": "CRAFTYSHIELD",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4500858,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VI Fairy move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Fairy status move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Protects all friendly Pokemon from non-damaging moves.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "priority move",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "protective move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "priority move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Fairy status move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen VI Fairy move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "priority move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.66,
+        "style": "mechanic"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "fairy status move"
+    ],
+    "connections_descriptors": [
+      "Protective moves",
+      "Priority moves",
+      "Fairy Status moves"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257937
+}

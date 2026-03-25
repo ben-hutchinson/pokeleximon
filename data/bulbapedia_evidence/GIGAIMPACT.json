@@ -1,0 +1,38 @@
+{
+  "answerKey": "GIGAIMPACT",
+  "answerDisplay": "GIGA IMPACT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Giga Impact (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Giga_Impact_(move)",
+  "pageId": 12451,
+  "pageRevisionId": 4487952,
+  "leadText": "Giga Impact (Japanese: ギガインパクト Giga Impact) is a damage-dealing Normal-type move introduced in Generation IV. It is: TM68 from Generation IV to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TM09 in Pokémon Sword and Shield. TM152 in Pokémon Scarlet and Violet. TM055 in Pokémon Legends: Z-A. It can be upgraded to the special Z-Move, Pulverizing Pancake, by Snorlax holding Snorlium Z.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Giga Impact deals damage and then forces the user to recharge during the next turn. Unless this attack misses, the user will always have to recharge. If the user has Truant , the recharge and \"loafing around\" take place on the same turn. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Giga Impact's base power has been lowered to 120. Instead of forcing the user to recharge, using Giga Impact lowers the user's action speed . Pokémon Legends: Arceus Category Physical PP 5 Agile Strong Power 120 100 150 Accuracy 90% 90% 95% Action speed modifier Self +5 +2 +8 Target 0 +3 0 Additional effect ? ? ? ? ? ? Lowers the user's action speed Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 150 180 Cooldown 20s Move wind-up time 20 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS The user charges at the foe using every bit of its power. The user must rest on the next turn. (move) The user charges the foe using every bit of its power. It must rest on the next turn to recover. (TM) PBR The user charges at the foe using every bit of its power. The user must rest on the next turn. B W B2 W2 The user charges at the target using every bit of its power. The user must rest on the next turn. X Y OR AS S M US UM P E Sw Sh BD SP S V The user charges at the target using every bit of its power. The user can't move on the next turn. LA The user charges at the target using every bit of its power. ZA The user attacks by charging into targets using every bit of its power. The recoil will leave the user unable to move for a short time."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the targeted enemy. But it also afflicts the user with a Paused status. A Pokémon with the Paused status is incapable of action. B S L てきポケモンに ダメージをあたえる しかし じぶんが ようすみじょうたいに なってしまう ようすみじょうたいの ポケモンは こうどうできない MD GtI It damages an enemy. But it also causes the Recoil status, which prevents you from doing anything on the next turn. S MD It damages an enemy. But it also makes you recoil, which prevents you from doing anything on the next turn."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Most Pokémon that can learn Hyper Beam through TM can learn Giga Impact through TM , and vice versa. It and Hyper Beam can be learned via TM by many fully evolved Pokémon that can learn TMs, including Pokémon that were fully evolved at one point but later received one or more evolved forms, such as Porygon or Seadra ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Giga-Impact",
+    "Giga Impact",
+    "Giga-Impact (move)"
+  ],
+  "updatedAt": 1773323176
+}

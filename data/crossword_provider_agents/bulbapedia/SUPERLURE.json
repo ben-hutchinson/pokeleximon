@@ -1,0 +1,16 @@
+{
+  "answerKey": "SUPERLURE",
+  "answerDisplay": "SUPER LURE",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "spelunking",
+  "score": 95.1,
+  "approved": true,
+  "qualityFlags": [
+    "too_short"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Super_Lure",
+  "extract": "The Super Lure (Japanese: シルバーコロン Silver Cologne) is a type of item introduced in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. The Lure and Max Lure are alternate versions of this item.",
+  "updatedAt": 1774258409
+}

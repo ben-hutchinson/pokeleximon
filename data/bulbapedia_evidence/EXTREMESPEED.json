@@ -1,0 +1,38 @@
+{
+  "answerKey": "EXTREMESPEED",
+  "answerDisplay": "EXTREME SPEED",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Extreme Speed (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Extreme_Speed_(move)",
+  "pageId": 3856,
+  "pageRevisionId": 4503709,
+  "leadText": "Extreme Speed (Japanese: しんそく God Speed), formatted as ExtremeSpeed prior to Pokémon X and Y, is a damage-dealing Normal-type move introduced in Generation II. Prior to Pokémon Crystal Version, it was the signature move of Arcanine.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II to IV 1.2 Generation V onwards 1.3 Generation IX 1.3.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation II to IV [ edit | edit source ] ExtremeSpeed inflicts damage. It has a priority of +1, so is used before all moves that do not have increased priority. Generation V onwards [ edit | edit source ] Extreme Speed now has +2 priority. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Like all other moves that previously possessed priority, Extreme Speed causes the user to dash forward to make damaging contact with the target (although terrain may interfere with doing so). During the dash, the user is intangible and will ignore projectiles and entry hazards that they pass through. Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 65 78 Cooldown 3s Move wind-up time 0 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 An attack that always strikes first. It can be learned by only a few Pok é mon . G S C A powerful first-strike move. R S E Colo XD An extremely fast and powerful attack. FR LG A blindingly speedy charge attack that always goes before any other. D P Pt HG SS PBR The user charges the foe at blinding speed. This attack always goes before any other move. B W B2 W2 The user charges the target at blinding speed. This attack always goes before any other move. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user charges the target at blinding speed. This move always goes first. ZA The user attacks by charging into targets with blinding speed."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on a target up to two tiles ahead. MD T D S Inflicts damage on a target up to 2 tiles away. B S L てきポケモンに ダメージをあたえる ２マスまで とどく MD GtI UNUSED Super Smash Bros. for Nintendo 3DS/Wii U A dash through the air that can be steered with (joystick). * S MD MD RT DX It damages an enemy. It reaches up to 2 tiles away. Super Smash Bros. Ultimate Dashes through the air and attacks at the end. Can swerve midflight with directional input. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Extreme Speed's in-game descriptions erroneously state that it goes before any other move. This trait is shared with Baby-Doll Eyes , Bullet Punch , Ice Shard , Mach Punch , Quick Attack , Shadow Sneak , Vacuum Wave , and Water Shuriken . Although it is a Normal-type move, only one Normal-type Pokémon can learn this move by leveling up, not counting Togekiss which was Normal-type prior to Generation VI ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Extreme-Speed",
+    "Extreme Speed",
+    "Extreme-Speed (move)"
+  ],
+  "updatedAt": 1773322680
+}

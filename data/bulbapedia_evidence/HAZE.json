@@ -1,0 +1,37 @@
+{
+  "answerKey": "HAZE",
+  "answerDisplay": "HAZE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Haze (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Haze_(move)",
+  "pageId": 3723,
+  "pageRevisionId": 4503233,
+  "leadText": "Haze (Japanese: くろいきり Black Mist) is a non-damaging Ice-type move introduced in Generation I. It is TM174 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II and III 1.3 Generation IV 1.4 Generation V onwards 1.5 Generation IX 1.5.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I [ edit | edit source ] Haze resets the stat stages of both active Pokémon to 0 and removes the stat reductions due to burns and paralysis . It also lifts the effects of Focus Energy and Dire Hit , Mist and Guard Spec. , X Accuracy , Leech Seed , Disable , Reflect and Light Screen from both sides of the field. Additionally, Haze cures confusion and turns bad poison into regular poison for both active Pokémon, and also removes any non-volatile status condition from the opponent. Haze does not remove any non-volatile status ailments that the user has, does not change the generic Minimize graphic back to the Pokémon's regular image, and does not reset either Pokémon's current type, moves, or species. If a frozen or sleeping opponent has its status removed via Haze, it cannot make a move in the same turn. If a frozen Pokémon that has not recharged from Hyper Beam has its freeze status eliminated via Haze, it will remain unable to attack, switch, or do anything else, and nothing will then be able to change this until it faints . In Stadium , Haze eliminates any major status ailments that the user has. Generation II and III [ edit | edit source ] Haze now only resets the stat stages of all active Pokémon on the field to 0. It no longer lifts any effects (such as Focus Energy ). Generation IV [ edit | edit source ] Haze now also lifts the effects of Focus Energy and Dire Hit from both sides of the field. Generation V onwards [ edit | edit source ] The effects of Focus Energy and Dire Hit are once again unaffected by Haze. If powered up by Icium Z into Z-Haze, the user regains all of its HP. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 15s Move wind-up time 20 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Eliminates all changes affecting status, such as Speed and accuracy, of both Pok é mon in battle. Stad2 Eliminates all changes affecting stats, such as Speed , of both Pok é mon in battle. G S C Eliminates all stat changes. R S E Colo XD Creates a black haze that eliminates all stat changes. FR LG Eliminates all stat changes among all Pok é mon engaged in battle. D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle. ZA The user cloaks the area in a dark haze. Pokémon touched by the haze will have their stat changes reverted."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Resets the Attack, Defense, etc., of all Pokémon on the floor whether they were boosted or lowered. MD T D S Resets the Attack, Defense, and all other stats of all Pokémon in the room, whether boosted or reduced. B S L おなじへやの すべてのポケモンの こうげき ぼうぎょなどの だんかいを あがっていても さがっていても もとのじょうたいに もどしてしまう MD GtI It resets the Attack, Defense, and all other stats of all Pokémon in the same room. (It resets all, whether boosted or reduced.) S MD It resets the Attack, Defense, and all other stats of all Pokémon in the same room. It resets all stats, whether boosted or reduced. MD RT DX The room becomes hazy, resetting the stats of all Pokémon in the same room. It resets all stats, whether boosted or reduced."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] It appears to be a stat-resetting counterpart to Mist . They have the same type, PP, and Z-Move effect. Moreover, their Japanese names are very similar. They are also usually learned at the same level."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Haze",
+    "Haze (move)"
+  ],
+  "updatedAt": 1773323547
+}

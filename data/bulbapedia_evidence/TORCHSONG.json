@@ -1,0 +1,34 @@
+{
+  "answerKey": "TORCHSONG",
+  "answerDisplay": "TORCH SONG",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Torch Song (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Torch_Song_(move)",
+  "pageId": 277770,
+  "pageRevisionId": 4461928,
+  "leadText": "Torch Song (Japanese: フレアソング Flare Song) is a damage-dealing Fire-type move introduced in Generation IX. It is the signature move of Skeledirge.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Torch Song is a sound-based move . It inflicts damage and raises the user's Special Attack by one stage. Torch Song can hit Pokémon even if they are behind a substitute ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user blows out raging flames as if singing a song, scorching the target. This also boosts the user's Sp. Atk stat."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Torch Song is the only Fire-type sound-based move ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Torch-Song",
+    "Torch Song",
+    "Torch-Song (move)"
+  ],
+  "updatedAt": 1773328009
+}

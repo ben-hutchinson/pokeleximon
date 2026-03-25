@@ -1,0 +1,68 @@
+{
+  "answerKey": "PICKPOCKET",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4465203,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Pickpocket (Japanese: Bad Sticky Fingers) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Does Pickpocket work in a Max Raid Battle of if it is used by a wild Pokemon? What happens with Ogerpon's masks? What happens with Air Balloon ? You can discuss this on the talk page. When a Pokemon with this Ability is hit by a move that makes contact , the Pokemon with this Ability will steal the held item of the attacking Pokemon. It will not activate if the Pokemon with this Ability already has a held item. It will not activate if the Pokemon with this Ability is knocked out by that move. Items stolen during Trainer battles will not be kept after the battle. If a Pokemon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), the item will not be stolen until after the final strike. If multiple Pokemon with this Ability are hit by the same move that made contact, Pickpocket will activate for the fastest one that does not already have an item. Pickpocket activates after Magician and the Sticky Barb , and after Thief and Covet steal a held item. It also activates after the user consumes a single-use item due to the attack that hit it, such as a Focus Sash . Consequently, the Pokemon that has Pickpocket will always end up with the item. Pickpocket also activates after Knock Off , Bug Bite , and Pluck , meaning that the stolen item will not be lost, and if it does lose its item due to these moves it can immediately steal another. The Life Orb and Shell Bell will activate before being stolen. The King's Rock and Razor Fang can still make the Pokemon with Pickpocket flinch even if stolen. Wild Pokemon cannot steal the player's Pokemon's held items. Pickpocket cannot steal from a Pokemon with Sticky Hold . It cannot steal Mail or a Z-Crystal . It cannot steal a Griseous Orb if either Pokemon is Giratina , a Plate if either Pokemon is Arceus , a memory if either Pokemon is Silvally , a Drive if either Pokemon is Genesect , a Mega Stone if either Pokemon can Mega Evolve using it, a Blue Orb if either Pokemon is Kyogre , a Red Orb if either Pokemon is Groudon , the Rusted Sword if either Pokemon is Zacian , the Rusted Shield if either Pokemon is Zamazenta , or Booster Energy if either Pokemon has the Ability Protosynthesis or Quark Drive . Outside of battle [ edit | edit source ] Pickpocket has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Does Pickpocket work in a Max Raid Battle of if it is used by a wild Pokemon? What happens with Ogerpon's masks? What happens with Air Balloon ? You can discuss this on the talk page. When a Pokemon with this Ability is hit by a move that makes contact , the Pokemon with this Ability will steal the held item of the attacking Pokemon. It will not activate if the Pokemon with this Ability already has a held item. It will not activate if the Pokemon with this Ability is knocked out by that move. Items stolen during Trainer battles will not be kept after the battle. If a Pokemon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), the item will not be stolen until after the final strike. If multiple Pokemon with this Ability are hit by the same move that made contact, Pickpocket will activate for the fastest one that does not already have an item. Pickpocket activates after Magician and the Sticky Barb , and after Thief and Covet steal a held item. It also activates after the user consumes a single-use item due to the attack that hit it, such as a Focus Sash . Consequently, the Pokemon that has Pickpocket will always end up with the item. Pickpocket also activates after Knock Off , Bug Bite , and Pluck , meaning that the stolen item will not be lost, and if it does lose its item due to these moves it can immediately steal another. The Life Orb and Shell Bell will activate before being stolen. The King's Rock and Razor Fang can still make the Pokemon with Pickpocket flinch even if stolen. Wild Pokemon cannot steal the player's Pokemon's held items. Pickpocket cannot steal from a Pokemon with Sticky Hold . It cannot steal Mail or a Z-Crystal . It cannot steal a Griseous Orb if either Pokemon is Giratina , a Plate if either Pokemon is Arceus , a memory if either Pokemon is Silvally , a Drive if either Pokemon is Genesect , a Mega Stone if either Pokemon can Mega Evolve using it, a Blue Orb if either Pokemon is Kyogre , a Red Orb if either Pokemon is Groudon , the Rusted Sword if either Pokemon is Zacian , the Rusted Shield if either Pokemon is Zamazenta , or Booster Energy if either Pokemon has the Ability Protosynthesis or Quark Drive .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Steals attacking Pokemon's held items on contact.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "flinch-causing ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "flinch-causing ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Flinch-Causing abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257992
+}

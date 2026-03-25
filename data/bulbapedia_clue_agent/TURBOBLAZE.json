@@ -1,0 +1,57 @@
+{
+  "answerKey": "TURBOBLAZE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4028099,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Turboblaze (Japanese: Turboblaze) is an Ability introduced in Generation V. It is the signature Ability of Reshiram and White Kyurem.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description Conq. Moves can be used regardless of enemy Abilities. MD GtI Damage dealt by the Pokemon's moves is not influenced by the foe's Ability. * The Pokemon's moves are not influenced by the target's Ability! Fire-type moves can even damage a Pokemon with the Flash Fire Ability. * S MD The Pokemon's moves are not influenced by the target's Ability! For example, Fire-type moves can even damage a Pokemon with the Flash Fire Ability.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation VIII onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Main article: Ignoring Abilities When a Pokemon with Turboblaze uses a move, the effects of all Pokemon's ignorable Abilities are ignored for the execution of that move. (Ignorable Abilities are most Abilities that could potentially negatively affect the success, damage, or effects of a move if possessed by the target of a move or its allies.) For example, a Pokemon with Turboblaze that uses Overheat can hit opponents that have Flash Fire . When a Pokemon with Turboblaze is brought out, the message \" is radiating a blazing aura! \" will be displayed. Generation VIII onward [ edit | edit source ] Turboblaze no longer ignores Dark Aura and Fairy Aura , though it will still ignore Aura Break . Outside of battle [ edit | edit source ] Turboblaze has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Main article: Ignoring Abilities When a Pokemon with Turboblaze uses a move, the effects of all Pokemon's ignorable Abilities are ignored for the execution of that move. (Ignorable Abilities are most Abilities that could potentially negatively affect the success, damage, or effects of a move if possessed by the target of a move or its allies.) For example, a Pokemon with Turboblaze that uses Overheat can hit opponents that have Flash Fire . When a Pokemon with Turboblaze is brought out, the message \" is radiating a blazing aura! \" will be displayed. Generation VIII onward [ edit | edit source ] Turboblaze no longer ignores Dark Aura and Fairy Aura , though it will still ignore Aura Break .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Bypasses targets' abilities if they could hinder or prevent moves.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258028
+}

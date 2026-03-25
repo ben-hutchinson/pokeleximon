@@ -1,0 +1,31 @@
+{
+  "answerKey": "FUCHSIA",
+  "answerDisplay": "FUCHSIA",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Fuchsia City",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fuchsia_City",
+  "pageId": 2121,
+  "pageRevisionId": 4514625,
+  "leadText": "If you were looking for the chapter in Pokémon Zensho, see PZ06. Fuchsia City (Japanese: セキチクシティ Sekichiku City) is a city located in southwest Kanto. Its most distinguishing features are the Safari Zone in the Generation I and III games and the Poison-type Gym. Koga is the Fuchsia City Gym Leader until his daughter Janine takes over in the Generation II and IV games. Route 15 leads into the city from the east, Route 18 from the west, and the beach of Route 19 is in the south. Bill's grandfather lives in Fuchsia City. In Generation II, the Safari Zone is closed down. In Pokémon HeartGold and SoulSilver, Pal Park replaces the closed-down Safari Zone. In Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!, the zoo in the city is referred to as the Safari Zone, while the former Safari Zone's location is now occupied by GO Park.",
+  "sections": [
+    {
+      "title": "Slogan",
+      "text": "Slogan [ edit | edit source ] Generations I-III, VII [ edit | edit source ] Behold! It's Passion Pink! (Japanese: セキチクは ピンク 華やかな 色 Sekichiku is the color of pink flora. ) Generation IV [ edit | edit source ] Happening and Passing City (Japanese: にぎわい うつりゆく まち Bustling and passing city )"
+    },
+    {
+      "title": "Generations I-III, VII",
+      "text": "Generations I-III, VII [ edit | edit source ] Behold! It's Passion Pink! (Japanese: セキチクは ピンク 華やかな 色 Sekichiku is the color of pink flora. )"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fuchsia-City",
+    "Fuchsia City",
+    "Fuchsia",
+    "Fuchsia-City (location)"
+  ],
+  "updatedAt": 1774214062
+}

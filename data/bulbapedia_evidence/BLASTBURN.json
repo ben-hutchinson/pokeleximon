@@ -1,0 +1,34 @@
+{
+  "answerKey": "BLASTBURN",
+  "answerDisplay": "BLAST BURN",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Blast Burn (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Blast_Burn_(move)",
+  "pageId": 3918,
+  "pageRevisionId": 4492575,
+  "leadText": "Blast Burn (Japanese: ブラストバーン Blast Burn) is a damage-dealing Fire-type move introduced in Generation III. It is TM153 in Pokémon Scarlet and Violet and TM158 in Pokémon Legends: Z-A. Along with Hydro Cannon and Frenzy Plant, Blast Burn is one of the ultimate moves. All fully evolved Fire-type first partner Pokémon can learn this move.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Blast Burn inflicts damage and then forces the user to recharge during the next turn. Unless this attack misses, the user will always have to recharge. Blast Burn can be used as the second move of a Pokémon Contest combination , with the user gaining 4 bonus appeal points if Sunny Day was used in the previous turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Powerful, but leaves the user immobile the next turn. FR LG The foe is hit with a huge explosion. The user can't move on the next turn. D P Pt HG SS PBR The foe is razed by a fiery explosion. The user must rest on the next turn, however. B W B2 W2 The target is razed by a fiery explosion. The user must rest on the next turn, however. X Y OR AS S M US UM P E Sw Sh BD SP S V The target is razed by a fiery explosion. The user can't move on the next turn. ZA The user attacks by razing targets with a fiery explosion. The recoil will leave the user unable to move for a short time."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. However, it also inflicts the Paused status on the user. It also thaws and frees frozen Pokémon. MD T D S Inflicts damage on enemies within a 1-tile range. But it also afflicts the user with a Paused status condition. It thaws out frozen Pokémon. B S L てきポケモンに ダメージをあたえる しかし じぶんが ようすみじょうたいに なってしまう こおっていたポケモンは こおりがとける MD GtI It damages nearby enemies. But it also causes the Recoil status condition, which prevents you from doing anything on the next turn. S MD It damages enemies in the same room. But it also makes you recoil, which prevents you from doing anything on the next turn."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Blast-Burn",
+    "Blast Burn",
+    "Blast-Burn (move)"
+  ],
+  "updatedAt": 1773321212
+}

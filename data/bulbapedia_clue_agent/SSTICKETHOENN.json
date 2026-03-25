@@ -1,0 +1,53 @@
+{
+  "answerKey": "SSTICKETHOENN",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "unused",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "XXX new effect for ss-ticket--hoenn",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Story or event key item",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Story or event key item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "family"
+      },
+      {
+        "text": "Unlocking key item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "battle item"
+    ],
+    "connections_descriptors": [
+      "Key items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774258447
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "HEADCHARGE",
+  "answerDisplay": "HEAD CHARGE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Head Charge (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Head_Charge_(move)",
+  "pageId": 117504,
+  "pageRevisionId": 4407060,
+  "leadText": "Head Charge (Japanese: アフロブレイク Afro Break) is a damage-dealing Normal-type move introduced in Generation V. It is the signature move of Bouffalant.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Sword and Shield 1.1.2 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] Head Charge inflicts damage, and the user receives recoil damage equal to ¼ of the damage done to the target. Generation VIII [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] In Versions 1.0 to 1.1.1 of Pokémon Sword and Shield , Head Charge could not be selected in a battle. Starting with Version 1.2.0, it is usable and functions as it did in previous generations. Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Head Charge cannot be selected in a battle. Generation IX [ edit | edit source ] Head Charge cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user charges its head into its target, using its powerful guard hair. It also damages the user a little. X Y OR AS S M US UM P E Sw Sh LA The user charges its head into its target, using its powerful guard hair. This also damages the user a little. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user charges its head into the target, using its powerful guard hair. This also damages the user a little."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI UNUSED S MD It damages an enemy, but it damages you, too. * It damages an enemy, but you'll receive recoil damage, too. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Despite its Pokédex entries stating that its fur absorbs damage, Bouffalant still takes recoil damage after using this move."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Head-Charge",
+    "Head Charge",
+    "Head-Charge (move)"
+  ],
+  "updatedAt": 1773323552
+}

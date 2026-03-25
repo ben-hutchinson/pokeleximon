@@ -1,0 +1,38 @@
+{
+  "answerKey": "MAGNETRISE",
+  "answerDisplay": "MAGNET RISE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Magnet Rise (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Magnet_Rise_(move)",
+  "pageId": 18882,
+  "pageRevisionId": 4452259,
+  "leadText": "Magnet Rise (Japanese: でんじふゆう Electromagnetic Levitation) is a non-damaging Electric-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation IV [ edit | edit source ] The user becomes immune to Ground-type attacks for five turns. Like Flying-type Pokémon and Pokémon with Levitate , the user becomes ungrounded which makes it immune to various effects related to the ground. Magnet Rise fails if the user is under the effects of Ingrain and cannot be selected if Gravity is in effect. If the user is holding an Iron Ball , Magnet Rise can still be used, but the user remains on the ground until the item is removed from the user. Magnet Rise can be transferred by Baton Pass . Generation V onwards [ edit | edit source ] Magnet Rise can now be stolen by Snatch . Magnet Rise is removed if the user is hit by Smack Down or Thousand Arrows . If used again, Magnet Rise fails. If powered up by an Electrium Z into Z-Magnet Rise, the user's evasiveness is raised by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user levitates using electrically generated magnetism for five turns."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Gives the Pokémon that uses this move the Magnet Rise status. A Pokémon with the Magnet Rise status levitates and can't be hit by Ground-type moves. B S L じぶんを でんじふゆうじょうたいにかえる でんじふゆうじょうたいに なると じめんタイプの わざが あたらない MD GtI UNUSED S MD You'll get the Magnet Rise status condition. In the Magnet Rise status condition, you won't take damage from Ground-type moves. You can also move to places like a water surface. MD RT DX You'll get the Magnet Rise condition. In the Magnet Rise condition, you won't take damage from Ground-type moves."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Magnet Rise ending in Battle Revolution. Magnet Rise displays animation when it ends in Pokémon Battle Revolution . Magnet Rise can cause some Pokémon, like Electrode , to have no weaknesses due to only being weak to the Ground type. In Generation IV, the Porygon evolutionary line can learn Magnet Rise via level-up, but not via Move Tutor."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Magnet-Rise",
+    "Magnet Rise",
+    "Magnet-Rise (move)"
+  ],
+  "updatedAt": 1773324685
+}

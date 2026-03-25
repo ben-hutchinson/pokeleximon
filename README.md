@@ -123,7 +123,6 @@ python scripts/build_wordlist.py
 python scripts/build_crossword_wordlist.py
 python scripts/build_detail_corpus.py
 python scripts/rebuild_crossword_answer_clue_csv.py
-python scripts/build_crossword_clue_variants.py --cache-only --strict-min-clues --min-clues-per-answer 3 --max-clues-per-answer 5
 ```
 
 For the separate cryptic pipeline, see [`services/cryptic-ml/README.md`](/Users/ben.hutchinson/code/personal/pokeleximon/services/cryptic-ml/README.md).
@@ -150,7 +149,7 @@ API tests live under [`services/api/tests`](/Users/ben.hutchinson/code/personal/
 - [`SESSION_CHECKLIST.md`](/Users/ben.hutchinson/code/personal/pokeleximon/SESSION_CHECKLIST.md)
 - [`docs/api-examples.md`](/Users/ben.hutchinson/code/personal/pokeleximon/docs/api-examples.md)
 - [`docs/adr/README.md`](/Users/ben.hutchinson/code/personal/pokeleximon/docs/adr/README.md)
-- [`infra/production/oci/RUNBOOK.md`](/Users/ben.hutchinson/code/personal/pokeleximon/infra/production/oci/RUNBOOK.md)
+- [`infra/production/aws-ec2/RUNBOOK.md`](/Users/ben.hutchinson/code/personal/pokeleximon/infra/production/aws-ec2/RUNBOOK.md)
 - [`services/api/README.md`](/Users/ben.hutchinson/code/personal/pokeleximon/services/api/README.md)
 - [`services/crossword-gen/README.md`](/Users/ben.hutchinson/code/personal/pokeleximon/services/crossword-gen/README.md)
 - [`services/cryptic-ml/README.md`](/Users/ben.hutchinson/code/personal/pokeleximon/services/cryptic-ml/README.md)

@@ -1,0 +1,16 @@
+{
+  "answerKey": "LONGREACH",
+  "answerDisplay": "LONG REACH",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen VII ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Long_Reach_(Ability)",
+  "extract": "Long Reach (Japanese: えんかく Distant) is an Ability introduced in Generation VII. It is the signature Ability of Rowlet and its Evolutions, except Hisuian Decidueye.",
+  "updatedAt": 1774258444
+}

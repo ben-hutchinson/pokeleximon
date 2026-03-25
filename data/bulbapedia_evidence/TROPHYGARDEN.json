@@ -1,0 +1,26 @@
+{
+  "answerKey": "TROPHYGARDEN",
+  "answerDisplay": "TROPHY GARDEN",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Trophy Garden",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Trophy_Garden",
+  "pageId": 20495,
+  "pageRevisionId": 4491463,
+  "leadText": "The Trophy Garden (Japanese: 自慢の裏庭 Vaunted Backyard) is an area located on Route 212 where many rare Pokémon can be caught. It is located behind the Pokémon Mansion. There are many Pokémon that can be found here without any interaction with the Trophy Garden's owner, Mr. Backlot. All of these Pokémon are in the Sinnoh Pokédex, and many can be found in other areas. After the player has gotten the National Pokédex upgrade, however, Pokémon that do not otherwise appear in Sinnoh will be placed in the Trophy Garden by Backlot's butler to cover up for his fibs, with a different one there daily. In Generation IV, the counter is reset after 24 hours, while in Generation VIII, it is reset at midnight. In Generation IV, it is possible to have Backlot mention a different Pokémon, simply by soft-resetting. In Generation VIII, the Pokémon mentioned by Mr. Backlot are rotating in National Pokédex order, making Clefairy the first mentioned Pokémon and Happiny the sixteenth, before restarting with Clefairy. The last two Pokémon placed in the garden at any given time will remain available until more Pokémon are placed in the garden.",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The Trophy Garden is the first known location where wild Eevee , Porygon , and Castform can be caught. Previously, they had only been available as gift Pokémon ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Trophy-Garden",
+    "Trophy Garden",
+    "Trophy-Garden (location)"
+  ],
+  "updatedAt": 1773328105
+}

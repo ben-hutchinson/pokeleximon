@@ -1,0 +1,70 @@
+{
+  "answerKey": "THICKCLUB",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4493403,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen II item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "species specific",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen II species specific",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Doubles Cubone or Marowaks Attack.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Boosts Attack Stat Of A Cubone Or Marowak's stats",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Attack Stat Of A Cubone Or Marowak Attack Stat. S V An Item To Be Held By Cubone Or Marowak. This Hard Bone boost item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Power item for Attack Stat Of A Cubone Or Marowak",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Attack Stat Of A Cubone Or Marowak-only held item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "attack stat of a cubone or marowak item"
+    ],
+    "connections_descriptors": [
+      "Gen II items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774258024
+}

@@ -1,0 +1,33 @@
+{
+  "answerKey": "OVERGROW",
+  "answerDisplay": "OVERGROW",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Overgrow (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Overgrow_(Ability)",
+  "pageId": 4141,
+  "pageRevisionId": 4494951,
+  "leadText": "Overgrow (Japanese: しんりょく Fresh Greenery) is an Ability introduced in Generation III. All Grass-type first partner Pokémon have this Ability.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations III to IV 1.1.2 Generations V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations III to IV [ edit | edit source ] When a Pokémon with Overgrow uses a Grass-type move , the move's power will be increased by 50% if the user has less than or equal to ⅓ of its maximum HP remaining. Generations V onward [ edit | edit source ] Instead of boosting Grass-type moves' power, Overgrow now technically boosts the Pokémon's Attack or Special Attack by 50% during damage calculation if a Grass-type move is being used, resulting in effectively the same effect. Outside of battle [ edit | edit source ] Overgrow has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generations III to IV [ edit | edit source ] When a Pokémon with Overgrow uses a Grass-type move , the move's power will be increased by 50% if the user has less than or equal to ⅓ of its maximum HP remaining. Generations V onward [ edit | edit source ] Instead of boosting Grass-type moves' power, Overgrow now technically boosts the Pokémon's Attack or Special Attack by 50% during damage calculation if a Grass-type move is being used, resulting in effectively the same effect."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts the power of Grass-type moves when HP is low. MD T D S Boosts the power of the Pokémon's Grass-type moves when its HP is low. B S L ＨＰがへって ピンチになると くさタイプの わざが つよくなる Conq. Raises Attack when HP is low. MD GtI When the Pokémon's HP is low, the power of its Grass-type moves goes up. * When the Pokémon's HP is low, the power of Grass-type moves goes up! * S MD When the Pokémon's HP is low, the power of Grass-type moves goes up! MD RT DX When the Pokémon's HP is low, the power of Grass-type moves goes up."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Overgrow",
+    "Overgrow (Ability)"
+  ],
+  "updatedAt": 1773325562
+}

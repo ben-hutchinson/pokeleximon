@@ -1,0 +1,33 @@
+{
+  "answerKey": "RECKLESS",
+  "answerDisplay": "RECKLESS",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Reckless (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Reckless_(Ability)",
+  "pageId": 19018,
+  "pageRevisionId": 4420154,
+  "leadText": "Reckless (Japanese: すてみ Life-Risking) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Hitmonlee.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Affected moves 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Reckless increases the power of moves that have recoil or crash damage by 20%, except Struggle . Because recoil damage is proportional to damage dealt, Pokémon with Reckless will also take increased recoil damage when using moves boosted by Reckless. Affected moves [ edit | edit source ] The table below lists the moves affected by Reckless, as well as the Pokémon that can have Reckless and learn those moves. Move Type Cat. Power and Boost Learned by Axe Kick Fighting Physical 120 144 Brave Bird Flying Physical 120 144 Double-Edge Normal Physical 120 144 * * * * * Flare Blitz Fire Physical 120 144 Head Charge Normal Physical 120 144 Head Smash Rock Physical 150 180 High Jump Kick Fighting Physical 130 156 Jump Kick Fighting Physical 100 120 Submission Fighting Physical 80 96 * * * Supercell Slam Electric Physical 100 120 Take Down Normal Physical 90 108 * Wave Crash Water Physical 120 144 Wild Charge Electric Physical 90 108 Although the following moves are affected by the Ability, they currently cannot be learned by any Pokémon with Reckless. They may, however, be called via Metronome , Mirror Move , Copycat , or Mimic , or be used by a Pokémon that gained Reckless by an Ability like Trace or Receiver or a move such as Skill Swap or Role Play . Move Type Cat. Power and Boost Light of Ruin Fairy Special 140 168 Volt Tackle Electric Physical 120 144 Wood Hammer Grass Physical 120 144 Outside of battle [ edit | edit source ] Reckless has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Reckless increases the power of moves that have recoil or crash damage by 20%, except Struggle . Because recoil damage is proportional to damage dealt, Pokémon with Reckless will also take increased recoil damage when using moves boosted by Reckless. Affected moves [ edit | edit source ] The table below lists the moves affected by Reckless, as well as the Pokémon that can have Reckless and learn those moves. Move Type Cat. Power and Boost Learned by Axe Kick Fighting Physical 120 144 Brave Bird Flying Physical 120 144 Double-Edge Normal Physical 120 144 * * * * * Flare Blitz Fire Physical 120 144 Head Charge Normal Physical 120 144 Head Smash Rock Physical 150 180 High Jump Kick Fighting Physical 130 156 Jump Kick Fighting Physical 100 120 Submission Fighting Physical 80 96 * * * Supercell Slam Electric Physical 100 120 Take Down Normal Physical 90 108 * Wave Crash Water Physical 120 144 Wild Charge Electric Physical 90 108 Although the following moves are affected by the Ability, they currently cannot be learned by any Pokémon with Reckless. They may, however, be called via Metronome , Mirror Move , Copycat , or Mimic , or be used by a Pokémon that gained Reckless by an Ability like Trace or Receiver or a move such as Skill Swap or Role Play . Move Type Cat. Power and Boost Light of Ruin Fairy Special 140 168 Volt Tackle Electric Physical 120 144 Wood Hammer Grass Physical 120 144"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the Pokémon's power with recoiling attacks but also raises self-inflicted damage. B S L はんどうでダメージを うけるわざの はんどうダメージと あたえるダメージが おおきくなる MD GtI Unavailable S MD The power of moves with recoil damage, such as Take Down, and moves that cause the user to take damage if they fail, such as Jump Kick, goes up! But the damage the Pokémon takes also goes up! It has no effects on some moves, such as Struggle and Final Gambit. MD RT DX The power of moves with recoil damage and moves that cause the user to take damage if they fail goes up–but the damage the Pokémon takes also goes up. It has no effect on some moves such as Struggle and Final Fambit."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Reckless",
+    "Reckless (Ability)"
+  ],
+  "updatedAt": 1773329139
+}

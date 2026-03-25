@@ -1,0 +1,34 @@
+{
+  "answerKey": "TAKEHEART",
+  "answerDisplay": "TAKE HEART",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Take Heart (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Take_Heart_(move)",
+  "pageId": 268369,
+  "pageRevisionId": 4411596,
+  "leadText": "Take Heart (Japanese: ブレイブチャージ Brave Charge) is a non-damaging Psychic-type move introduced during Generation VIII, in Pokémon Legends: Arceus. It is the signature move of Phione and one of the signature moves of Manaphy.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Take Heart cures the user of all status conditions and raises its offensive and defensive stats for four turns. Pokémon Legends: Arceus Category Status PP 10 Agile Strong Power — — — Accuracy —% —% —% Action speed modifier Self -2 -3 +5 Target ? ? ? Additional effect Turns 4 3 5 ? ? ? ? Raises the user's offensive and defensive stats Cures the user of status conditions Raises the user's action speed Generation IX [ edit | edit source ] Take Heart raises the user's Special Attack and Special Defense stats by one stage each, and heals any non-volatile status conditions the user may have."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA The user lifts its spirits, healing its own status conditions and raising its offensive and defensive stats. S V The user lifts its spirits, curing its own status conditions and boosting its Sp. Atk and Sp. Def stats."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Take Heart is the last Generation VIII move in index number order ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Take-Heart",
+    "Take Heart",
+    "Take-Heart (move)"
+  ],
+  "updatedAt": 1773327787
+}

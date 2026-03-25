@@ -1,0 +1,52 @@
+{
+  "answerKey": "HADRONENGINE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4489810,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Hadron Engine (Japanese: Hadron Engine) is an Ability introduced in Generation IX. It is the signature Ability of Miraidon.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Hadron Engine creates the effect of the move Electric Terrain on the battlefield as soon as a Pokemon with Hadron Engine enters the battle. The Electric Terrain lasts for five turns. This can be extended to eight turns if the Pokemon is holding a Terrain Extender . Hadron Engine also boosts the Pokemon's Special Attack stat by roughly 33% (or more precisely, by a factor of 5461/4096) on Electric Terrain. This boost will occur even if the Pokemon is not grounded . Hadron Engine displays a message when the Pokemon enters the battle, even if Electric Terrain is already present. However, if Electric Terrain is summoned while a Pokemon with Hadron Engine is already in battle, no message is displayed (contrary to Quark Drive ). Skill Swap fails if either Pokemon has Hadron Engine. Trace can copy Hadron Engine. Role Play , Entrainment , and Doodle all fail when used on a target with Hadron Engine. Hadron Engine is affected by Simple Beam , Mummy , and Lingering Aroma . Outside of battle [ edit | edit source ] Hadron Engine has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Hadron Engine creates the effect of the move Electric Terrain on the battlefield as soon as a Pokemon with Hadron Engine enters the battle. The Electric Terrain lasts for five turns. This can be extended to eight turns if the Pokemon is holding a Terrain Extender . Hadron Engine also boosts the Pokemon's Special Attack stat by roughly 33% (or more precisely, by a factor of 5461/4096) on Electric Terrain. This boost will occur even if the Pokemon is not grounded . Hadron Engine displays a message when the Pokemon enters the battle, even if Electric Terrain is already present. However, if Electric Terrain is summoned while a Pokemon with Hadron Engine is already in battle, no message is displayed (contrary to Quark Drive ). Skill Swap fails if either Pokemon has Hadron Engine. Trace can copy Hadron Engine. Role Play , Entrainment , and Doodle all fail when used on a target with Hadron Engine. Hadron Engine is affected by Simple Beam , Mummy , and Lingering Aroma .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Creates an Electric Terrain when entering battle, and boosts Special Attack while active.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257953
+}

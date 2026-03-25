@@ -1,0 +1,52 @@
+{
+  "answerKey": "HEAVYMETAL",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4471220,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Heavy Metal (Japanese: Heavy Metal) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Doubles the weight of the Pokemon with this Ability. Autotomize is applied before other weight-modifying effects, including Heavy Metal. Heavy Metal is the only effect that can cause a Pokemon's weight to exceed 999.9 kg. This has no effect on the Heavy Ball , which uses the Pokemon's species' weight rather than its current weight. Outside of battle [ edit | edit source ] Heavy Metal has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Doubles the weight of the Pokemon with this Ability. Autotomize is applied before other weight-modifying effects, including Heavy Metal. Heavy Metal is the only effect that can cause a Pokemon's weight to exceed 999.9 kg. This has no effect on the Heavy Ball , which uses the Pokemon's species' weight rather than its current weight.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Doubles the Pokemon's weight.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257954
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "SMOKEDFILLET",
+  "answerDisplay": "SMOKED FILLET",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Smoked Fillet",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Smoked_Fillet",
+  "pageId": 279911,
+  "pageRevisionId": 4266938,
+  "leadText": "Smoked Fillet (Japanese: スモークきりみ Smoked Fillet) is a type of ingredient introduced in Generation IX.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] It can be used as an ingredient in making a sandwich ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V A very salty and bitter ingredient with that unmistakable smoky flavor. It pairs exceptionally well with veggies."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.3 Description 1.4 Acquisition 1.4.1 Distribution In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price S V $ 330 $ 82 Effect [ edit | edit source ] It can be used as an ingredient in making a sandwich . Description [ edit | edit source ] Games Description S V A very salty and bitter ingredient with that unmistakable smoky flavor. It pairs exceptionally well with veggies. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods S V Deli Cioso (after earning 2 Gym Badges ) S V ID Vending machines ( Terarium ) Distribution [ edit | edit source ] Games Event Language/Region Distribution period S V Poké Times Sandwich Ingredients All December 12-17 to 18, 2022"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Smoked-Fillet",
+    "Smoked Fillet",
+    "Smoked-Fillet (item)"
+  ],
+  "updatedAt": 1773327197
+}

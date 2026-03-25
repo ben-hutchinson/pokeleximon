@@ -1,0 +1,71 @@
+{
+  "answerKey": "COMPETITIVE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4259087,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VI ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Competitive (Japanese: Determined Spirit) is an Ability introduced in Generation VI.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description S MD When the Pokemon's stats are lowered, its Sp. Atk goes up sharply! MD RT DX When the Pokemon's stats are lowered, the Pokemon's Sp. Atk goes up sharply.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a stat of a Pokemon with this Ability is lowered by an opponent, its Special Attack is increased by two stages. Competitive will not activate if the Pokemon with this Ability lowers its own stats (such as with Close Combat ) or if its stats are lowered by an ally. If Special Attack is lowered, it is then raised by Competitive, resulting in a net gain (when lowered by one stage) or no net change (when lowered by two stages). Because there are no moves that lower Special Attack by 3 stages, it is functionally impossible to lower the Special Attack of a Pokemon with Competitive without first suppressing the Ability. If multiple stats are lowered (such as by Memento or Venom Drench ) Competitive activates for each stat lowered. Competitive activates before a held White Herb . If the Pokemon no longer has any negative stat stages after Competitive is applied, the White Herb will not have the chance to activate. Outside of battle [ edit | edit source ] Competitive has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a stat of a Pokemon with this Ability is lowered by an opponent, its Special Attack is increased by two stages. Competitive will not activate if the Pokemon with this Ability lowers its own stats (such as with Close Combat ) or if its stats are lowered by an ally. If Special Attack is lowered, it is then raised by Competitive, resulting in a net gain (when lowered by one stage) or no net change (when lowered by two stages). Because there are no moves that lower Special Attack by 3 stages, it is functionally impossible to lower the Special Attack of a Pokemon with Competitive without first suppressing the Ability. If multiple stats are lowered (such as by Memento or Venom Drench ) Competitive activates for each stat lowered. Competitive activates before a held White Herb . If the Pokemon no longer has any negative stat stages after Competitive is applied, the White Herb will not have the chance to activate.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Raises Special Attack by two stages upon having any stat lowered.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "boosting trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "debuffing trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "boosting trait",
+      "debuffing trait"
+    ],
+    "connections_descriptors": [
+      "Boosting abilities",
+      "Debuffing abilities",
+      "Gen VI abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257936
+}

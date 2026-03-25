@@ -1,0 +1,37 @@
+{
+  "answerKey": "MAGMARIZER",
+  "answerDisplay": "MAGMARIZER",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Magmarizer",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Magmarizer",
+  "pageId": 21905,
+  "pageRevisionId": 4504921,
+  "leadText": "The Magmarizer (Japanese: マグマブースター Magmabooster) is a type of held item introduced in Generation IV. It allows Magmar to evolve into Magmortar when traded while holding it.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Held item [ edit | edit source ] Causes Magmar to evolve into Magmortar when traded while holding it. This consumes the Magmarizer. In Pokémon Legends: Arceus , due to the absence of held items, the Magmarizer simply needs to be used on Magmar to trigger the Evolution, which consumes the item."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If the player offers both a Link Cable and Magmarizer at Luminous Spring , Magmar can be evolved into Magmortar . This consumes the Link Cable and Magmarizer. If thrown, it will deal 1 damage (2 if sticky ). Using this item in a dungeon will consume it, with no effect."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon. X Y OR AS S M US UM P E Sw Sh BD SP LA S V A box packed with a tremendous amount of magma energy. It's loved by a certain Pokémon."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S A box brimming with a huge amount of magma energy. It allows a certain kind of Pokémon to evolve."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Magmarizer",
+    "Magmarizer (item)"
+  ],
+  "updatedAt": 1773324660
+}

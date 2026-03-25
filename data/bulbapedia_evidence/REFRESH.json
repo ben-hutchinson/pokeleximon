@@ -1,0 +1,37 @@
+{
+  "answerKey": "REFRESH",
+  "answerDisplay": "REFRESH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Refresh (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Refresh_(move)",
+  "pageId": 3898,
+  "pageRevisionId": 4406889,
+  "leadText": "If you were looking for the in-game feature, see Pokémon Refresh. Refresh (Japanese: リフレッシュ Refresh) is a non-damaging Normal-type move introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation III to VII [ edit | edit source ] Refresh cures the user of burns , poison , or paralysis . It cannot cure freeze or sleep , so Refresh will fail if it is called by Sleep Talk . Refresh can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Sing or Water Sport was used in the previous turn. If powered up by a Normalium Z into Z-Refresh, the user regains all of its HP. Generation VIII onwards [ edit | edit source ] Refresh cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Heals poisoning, paralysis, or a burn. FR LG A self-healing move that cures the user of a poisoning, burn, or paralysis. D P Pt HG SS PBR B W B2 W2 X Y OR AS The user rests to cure itself of a poisoning, burn, or paralysis. S M US UM P E The user rests to cure itself of poisoning, a burn, or paralysis. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Heals all status problems of the user and its team members in the room. MD T D S Heals all the status problems of the user and its team members in the room. B S L おなじへやの なかまポケモンと じぶんの わるいじょうたいを すべて かいふくする MD GtI It heals all the bad status conditions of you and your teammates in the same room. S MD If you and your teammates in the same room have any bad status conditions, all of the bad status conditions will be removed. MD RT DX If you and your teammates in the same room have any bad statuses, all the bad statuses will be removed."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation III , the status screen erroneously states that the move has 100% accuracy, even though it targets the user (thus it ignores accuracy and evasion checks)."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Refresh",
+    "Refresh (move)"
+  ],
+  "updatedAt": 1773326321
+}

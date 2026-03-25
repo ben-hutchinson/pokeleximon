@@ -54,7 +54,9 @@ def _client_ip_from_request(request: Request) -> str:
     if config.RATE_LIMIT_TRUST_X_FORWARDED_FOR:
         forwarded_for = request.headers.get("x-forwarded-for", "").strip()
         if forwarded_for:
-            return forwarded_for.split(",")[0].strip()
+            forwarded_chain = [value.strip() for value in forwarded_for.split(",") if value.strip()]
+            trusted_hops = min(len(forwarded_chain), max(1, config.RATE_LIMIT_TRUST_X_FORWARDED_FOR_HOPS))
+            return forwarded_chain[-trusted_hops]
 
     client = request.client
     if client and client.host:
@@ -75,7 +77,7 @@ def _policy_for_path(path: str) -> RateLimitPolicy | None:
             max_requests=max(1, config.RATE_LIMIT_ADMIN_MAX_REQUESTS),
             window_seconds=max(1, config.RATE_LIMIT_ADMIN_WINDOW_SECONDS),
         )
-    if path.startswith("/api/v1/puzzles") or path == "/api/v1/health":
+    if path.startswith("/api/v1/puzzles") or path in {"/api/v1/health", "/api/v1/health/ready"}:
         return RateLimitPolicy(
             name="public",
             max_requests=max(1, config.RATE_LIMIT_PUBLIC_MAX_REQUESTS),

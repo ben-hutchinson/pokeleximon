@@ -1,0 +1,38 @@
+{
+  "answerKey": "COMETPUNCH",
+  "answerDisplay": "COMET PUNCH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Comet Punch (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Comet_Punch_(move)",
+  "pageId": 3612,
+  "pageRevisionId": 4462257,
+  "leadText": "If you were looking for the move that is known as Comet Punch in Japanese, see Meteor Mash. Comet Punch (Japanese: れんぞくパンチ Consecutive Punch) is a damage-dealing Normal-type multistrike move introduced in Generation I. It is TM108 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generations III and IV 1.4 Generations V to VII 1.5 Generation VIII 1.6 Generation IX 1.6.1 Pokémon Scarlet and Violet 1.6.2 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I [ edit | edit source ] Comet Punch inflicts damage, hitting the target 2-5 times per use. There is a 37.5% chance that it will hit 2 times, a 37.5% chance that it will hit 3 times, a 12.5% chance that it will hit 4 times, and a 12.5% chance that it will hit 5 times. Although only the first strike can be a critical hit , each successive one will deal the same amount of damage. Comet Punch will end instantly upon breaking a substitute . Bide and Counter deal damage based on the last strike alone. Generation II [ edit | edit source ] Each strike has an independent chance of being a critical hit. Comet Punch may now continue attacking after breaking a substitute. If Comet Punch activates a target's Focus Band , no subsequent hits can knock it out. If the user is holding a King's Rock , the final strike has a chance to cause the opponent to flinch . Generations III and IV [ edit | edit source ] Each strike has an independent chance of activating an Ability that activates upon contact . If Effect Spore causes the attacker to fall asleep, the move will end immediately. If Comet Punch activates the target's Focus Sash , no subsequent hits can knock it out. If the user is holding a King's Rock or Razor Fang , each consecutive hit has an equal chance to cause the opponent to flinch . Generations V to VII [ edit | edit source ] There is now a 35% chance that it will hit 2 times, a 35% chance it will hit 3 times, a 15% chance it will hit 4 times, and a 15% chance it will hit 5 times. The average total base power (including the 15% base miss chance) is now 47.4. If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokémon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokémon has a maximum HP of 1. Each individual strike will activate Weak Armor , Stamina , or a Rocky Helmet . Spiky Shield and King's Shield only activate once. Parental Bond does not activate when using Comet Punch. Generation VIII [ edit | edit source ] Comet Punch cannot be selected in a battle. Generation IX [ edit | edit source ] Pokémon Scarlet and Violet [ edit | edit source ] Comet Punch cannot be selected in a battle. Pokémon Legends: Z-A [ edit | edit source ] Starting from the Mega Dimension DLC, Comet Punch is selectable again. Comet Punch's power has been increased from 18 to 30. Comet Punch will always hit 5 times. When used as a Plus Move , it will always hit 6 times. Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 30 36 Cooldown 6s Move wind-up time 10 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 Although each slap is weak, this attack hits the target two to five times in succession. G S C Repeatedly punches 2-5 times. R S E Repeatedly punches the foe 2 to 5 times. FR LG The foe is hit with a flurry of punches that strike two to five times. Colo XD Repeatedly punches the target 2 to 5 times. D P Pt HG SS PBR The foe is hit with a flurry of punches that strike two to five times in a row. B W B2 W2 X Y OR AS S M US UM P E The target is hit with a flurry of punches that strike two to five times in a row. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. ZA The user attacks with a flurry of five punches, one after the other."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It hits two to five times in succession. MD T D S Inflicts damage on the target using 2 to 5 attacks in a single turn. B S L てきポケモンに ２〜５かいれんぞくで\\nダメージを あたえる MD GtI UNUSED S MD MD RT DX It damages an enemy 2 to 5 times in a row."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Comet Punch is one of two moves in the main series games to have a base power that is not a multiple of 5, the other being Fury Swipes . Pin Missile was a third until its base power was increased to 25 in Generation VI . According to its Pokédex entry, Kangaskhan is skilled at attacking using Comet Punch."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Comet-Punch",
+    "Comet Punch",
+    "Comet-Punch (move)"
+  ],
+  "updatedAt": 1773321808
+}

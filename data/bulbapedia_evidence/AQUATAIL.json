@@ -1,0 +1,34 @@
+{
+  "answerKey": "AQUATAIL",
+  "answerDisplay": "AQUA TAIL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Aqua Tail (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Aqua_Tail_(move)",
+  "pageId": 18883,
+  "pageRevisionId": 4452062,
+  "leadText": "Aqua Tail (Japanese: アクアテール Aqua Tail) is a damage-dealing Water-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Aqua Tail deals damage and has no secondary effect. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Aqua Tail's base power has been lowered to 85. Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 85 65 105 Accuracy 90% 90% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect ? ? ? ? ? ? None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user attacks by swinging its tail as if it were a vicious wave in a raging storm."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. B S L てきポケモンに ダメージをあたえる Conq. The user attacks by swinging its tail as if it were a vicious wave in a raging storm. MD GtI S MD MD RT DX It damages an enemy."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Aqua-Tail",
+    "Aqua Tail",
+    "Aqua-Tail (move)"
+  ],
+  "updatedAt": 1773320838
+}

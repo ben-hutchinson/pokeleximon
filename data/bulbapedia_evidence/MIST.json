@@ -1,0 +1,37 @@
+{
+  "answerKey": "MIST",
+  "answerDisplay": "MIST",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Mist (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mist_(move)",
+  "pageId": 3663,
+  "pageRevisionId": 4442057,
+  "leadText": "Mist (Japanese: しろいきり White Mist) is a non-damaging Ice-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generation III onwards 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I [ edit | edit source ] Mist protects the user from having its stats decreased by opponents' status moves until the user switches out. Damaging moves with additional effects that lower the target's stats, such as Acid or Psychic , can still decrease the Pokémon's stats. Mist does not remove any stat stage changes already in effect, and it does not prevent the user from lowering their own stats. The effect of Mist can be removed by Haze . Mist will fail if it is already under effect. Mist does not stack with the effect of Guard Spec. Generation II [ edit | edit source ] Mist protects the user from having its stats decreased by opponents until the user switches out. It now also applies to damaging moves. Haze can no longer remove the effect of Mist. The effect can be passed with Baton Pass . Generation III onwards [ edit | edit source ] Mist now creates a Mist effect on the user's side of the field that lasts for five turns. All Pokémon on the user's side of the field are protected while Mist is active, including Pokémon switched in after it was created. It is removed if a Pokémon on that side of the field is hit by Defog . While Mist is in effect, other Pokémon (including allies) cannot lower the stats of Pokémon protected by Mist using either moves or Abilities (e.g. Intimidate ). However, it does not prevent Pokémon lowering their own stats. If powered up by an Icium Z into Z-Mist, the user regains all of its HP. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 10s Move wind-up time 20 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Provides full protection against any enemy status attack, such as those that lower Defense . Stad2 Provides full protection against any enemy status attack. G S C Prevents stat reduction. R S E Colo XD Creates a mist that stops reduction of abilities. FR LG The ally party is protected by a mist that prevents stat reductions. D P Pt HG SS PBR B W B2 W2 The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns. ZA The user cloaks the area in a white mist. Pokémon within the mist cannot have their stats lowered by opponents."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Mist status. It prevents Attack, Defense, Special Attack, Special Defense, Accuracy, and Evasion from being reduced. MD T D S Gives the user a Mist status, which prevents the user's Attack, Defense, Special Attack, Special Defense, accuracy, and evasiveness from being reduced. B S L じぶんを しろいきりじょうたいに かえて こうげき ぼうぎょ とくこう とくぼう めいちゅう かいひが さがらないようにする MD GtI You and your teammates will get the Mist status and prevent all of your Attack, Defense, Special Attack, Special Defense, accuracy, and evasiveness from being lowered. S MD Your party is cloaked in mist, which prevents all of your Attack, Defense, Sp. Atk, Sp. Def, accuracy, and evasiveness stats from being lowered. But you're not protected from the effects of your moves that lower your own stats. MD RT DX You and your allies that are in the same room are cloaked in mist, which prevents all of your stats from being lowered. But you're not protected from the effects of your moves that lower your own stats."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Mist ending in Battle Revolution. Mist displays an animation when it ends in Pokémon Battle Revolution . Guard Spec. has the same effect as Mist, even displaying the same \"the ally was shrouded in mist\" text. In Pokémon Yellow , Vaporeon is programmed to learn both Haze and Mist at level 42; however, a bug prevents a Pokémon from learning two moves at the same level, so Vaporeon cannot learn Mist in Yellow outside of Pokémon Day Care . It appears to be a stat-protecting counterpart to Haze . They have the same type, PP, and Z-Move effect. Moreover, their Japanese names are very similar. They are also usually learned at the same level."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mist",
+    "Mist (move)"
+  ],
+  "updatedAt": 1773325117
+}

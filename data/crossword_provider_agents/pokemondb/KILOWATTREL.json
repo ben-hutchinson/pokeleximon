@@ -1,0 +1,17 @@
+{
+  "answerKey": "KILOWATTREL",
+  "answerDisplay": "KILOWATTREL",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is an Electric / Flying type Pokémon introduced in Generation 9.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/kilowattrel",
+  "extract": "Kilowattrel is an Electric / Flying type Pokémon introduced in Generation 9 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211773
+}

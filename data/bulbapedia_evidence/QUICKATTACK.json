@@ -1,0 +1,38 @@
+{
+  "answerKey": "QUICKATTACK",
+  "answerDisplay": "QUICK ATTACK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Quick Attack (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Quick_Attack_(move)",
+  "pageId": 3707,
+  "pageRevisionId": 4503820,
+  "leadText": "Quick Attack (Japanese: でんこうせっか Lightning Speed) is a damage-dealing Normal-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II onwards 1.3 Generation VIII 1.3.1 Pokémon Legends: Arceus 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I [ edit | edit source ] Quick Attack inflicts damage. It has a priority of +1, so it is used before all moves that do not have increased priority. If the user is put to sleep or frozen during the turn that Quick Attack is (or attempts to be) used, its increased priority will not be reset during the sleep or freeze. Subsequently, it can only be reset on the turn after the user wakes up or is defrosted, or if the user switches out. Generation II onwards [ edit | edit source ] Quick Attack's increased priority will no longer carry over to sleeping or frozen Pokémon; instead, the priority at which a sleeping or frozen Pokémon acts depends on the move it selects each turn. Quick Attack can be used as the second move of a Pokémon Contest combination , with the user gaining 3 bonus appeal points if Double Team was used in the previous turn. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Physical PP 20 Agile Strong Power 40 30 50 Accuracy 100% 100% 100% Action speed modifier Self -4 -4 +2 Target 0 +3 0 Additional effect ? ? ? ? ? ? None Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Like all other moves that previously possessed priority, Quick Attack causes the user to dash forward to make damaging contact with the target (although terrain may interfere with doing so). During the dash, the user is intangible and will ignore projectiles and hazards that they pass through. Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 30 36 Cooldown 3s Move wind-up time 0 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad An attack that always strikes first. If both Pok é mon use this, the one with higher Speed attacks first. Stad2 Always strikes first. If both Pok é mon use this, the one with higher Speed attacks first. G S C Lets the user get in the first hit. R S E Colo XD An extremely fast attack that always strikes first. FR LG An almost invisibly fast attack that is certain to strike first. D P Pt HG SS PBR The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first. B W B2 W2 The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first. X Y OR AS S M US UM P E Sw Sh BD SP The user lunges at the target at a speed that makes it almost invisible. This move always goes first. LA The user lunges at the target to deal damage, moving at a speed that makes it almost invisible. This also raises the user's action speed. S V The user lunges at the target to inflict damage, moving at blinding speed. This move always goes first. ZA The user attacks by lunging toward targets with blinding speed."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on a target up to two tiles ahead. MD T D S Inflicts damage on a target up to 2 tiles away. B S L てきポケモンに ダメージをあたえる ２マスまで とどく Conq. The user lunges at the target at a speed that makes it almost invisible. MD GtI S MD It damages an enemy. * It damages an enemy. It reaches up to 2 tiles away. * Super Smash Bros. for Nintendo 3DS/Wii U Dash up to twice in the directions of your choosing. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Quick Attack is often involved in the F.E.A.R strategy. Ash's Pidgeotto 's first usage of Quick Attack resembled the move Brave Bird introduced later. Quick Attack is the only increased priority move introduced in Generation I. Since Generation IV , Quick Attack has had the same description as Aqua Jet ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Quick-Attack",
+    "Quick Attack",
+    "Quick-Attack (move)"
+  ],
+  "updatedAt": 1773326167
+}

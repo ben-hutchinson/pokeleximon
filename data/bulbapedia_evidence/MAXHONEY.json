@@ -1,0 +1,34 @@
+{
+  "answerKey": "MAXHONEY",
+  "answerDisplay": "MAX HONEY",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Max Honey",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Honey",
+  "pageId": 252984,
+  "pageRevisionId": 4448759,
+  "leadText": "Max Honey (Japanese: ダイミツ Dai Honey) is a type of item that was introduced in Generation VIII. It is a type of honey produced by Dynamax Vespiquen.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] When used from the Bag on a fainted Pokémon, it revives the Pokémon and restores all of the Pokémon's HP . Additional effect [ edit | edit source ] It is required as an additional Max Soup ingredient to give or remove Urshifu 's Gigantamax Factor ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh BD SP LA S V Honey that Dynamax Vespiquen produces. Adding this honey to Max Soup makes the taste very smooth. It also has the same effect as a Max Revive ."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.2.1 Additional effect 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price Sw Sh N/A $ 4,000 Effect [ edit | edit source ] When used from the Bag on a fainted Pokémon, it revives the Pokémon and restores all of the Pokémon's HP . Additional effect [ edit | edit source ] It is required as an additional Max Soup ingredient to give or remove Urshifu 's Gigantamax Factor . Description [ edit | edit source ] Games Description Sw Sh BD SP LA S V Honey that Dynamax Vespiquen produces. Adding this honey to Max Soup makes the taste very smooth. It also has the same effect as a Max Revive . Acquisition [ edit | edit source ] Games Finite methods Repeatable methods Sw Sh IA Honeycalm Island (from the story event Max Raid Battle with Dynamax Vespiquen ) Various Max Raid Battles with Combee and Vespiquen on Honeycalm Island"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Max-Honey",
+    "Max Honey",
+    "Max-Honey (item)"
+  ],
+  "updatedAt": 1773324823
+}

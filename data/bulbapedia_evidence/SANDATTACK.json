@@ -1,0 +1,38 @@
+{
+  "answerKey": "SANDATTACK",
+  "answerDisplay": "SAND ATTACK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sand Attack (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sand_Attack_(move)",
+  "pageId": 3636,
+  "pageRevisionId": 4503592,
+  "leadText": "Sand Attack (Japanese: すなかけ Sand Attack), formatted as Sand-Attack prior to Pokémon X and Y, is a non-damaging Ground-type move introduced in Generation I. Prior to Generation II, it was a Normal-type move.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II onwards 1.3 Generation III onwards Effect [ edit | edit source ] Generation I [ edit | edit source ] Sand Attack decreases the target's accuracy stat by one stage. Sand Attack is a Normal-type move in this generation, but it is not affected by immunities to Normal-type . In the Generation I core series games, when an in-game opponent uses Sand Attack, the move has a 25% chance to fail. Generation II onwards [ edit | edit source ] Sand Attack is now a Ground-type move, but it is not affected by immunities to the Ground type. In the Generation II core series games, when an in-game opponent outside of the Battle Tower uses Sand Attack, the move has a 25% chance to fail. Generation III onwards [ edit | edit source ] Sand Attack can be used as the first move of a Pokémon Contest combination , causing Mud-Slap to score double the normal appeal if used in the next turn. It can also be used to finish a combination, with the user gaining 2 bonus appeal points if Mud-Slap or Sandstorm was used in the previous turn. It is also part of a Contest Spectacular combination, with the user gaining an three extra appeal points if Sandstorm was used in the prior turn. If powered up by a Groundium Z into Z-Sand Attack, the user's evasiveness is raised by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 An attack in which sand is used to blind the target and reduce its attack accuracy. G S C Reduces accuracy by throwing sand. R S E Reduces the foe's accuracy by hurling sand in its face. FR LG A lot of sand is hurled in the foe's face, reducing its accuracy. Colo XD Lowers accuracy of target by hurling sand in its face. D P Pt HG SS PBR Sand is hurled in the foe's face, reducing its accuracy. B W B2 W2 Sand is hurled in the target's face, reducing its accuracy. X Y OR AS S M US UM P E Sw Sh BD SP LA Sand is hurled in the target's face, reducing the target's accuracy. S V Sand is hurled in the target's face, lowering the target's accuracy."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Lowers the target's Accuracy by one level. MD T D S Reduces the target's accuracy by 1 level. B S L てきポケモンの めいちゅうを １だんかいさげる MD GtI S MD It lowers the enemy's accuracy."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Sand Attack is one of four moves to have its type changed in Generation II (the others being Gust , Bite , and Karate Chop ; making it the only status move to do so), and one of five status moves to have its type changed between generations at all (the others are Charm , Curse , Moonlight , and Sweet Kiss )."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sand-Attack",
+    "Sand Attack",
+    "Sand-Attack (move)"
+  ],
+  "updatedAt": 1773326624
+}

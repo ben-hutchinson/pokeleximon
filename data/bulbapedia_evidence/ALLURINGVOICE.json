@@ -1,0 +1,34 @@
+{
+  "answerKey": "ALLURINGVOICE",
+  "answerDisplay": "ALLURING VOICE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Alluring Voice (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Alluring_Voice_(move)",
+  "pageId": 300835,
+  "pageRevisionId": 4415786,
+  "leadText": "Alluring Voice (Japanese: みわくのボイス Alluring Voice) is a damage-dealing move introduced during Generation IX, in The Indigo Disk. It is TM227 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Alluring Voice inflicts damage. The move also confuses the target if the target's stats were raised during the same turn before the execution of Alluring Voice. Alluring Voice is a sound-based move ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user attacks the target using its angelic voice. This also confuses the target if its stats have been boosted during the turn."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Alluring Voice is the only Fairy-type move introduced in Generation IX to be accessible in regular gameplay."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Alluring-Voice",
+    "Alluring Voice",
+    "Alluring-Voice (move)"
+  ],
+  "updatedAt": 1773320747
+}

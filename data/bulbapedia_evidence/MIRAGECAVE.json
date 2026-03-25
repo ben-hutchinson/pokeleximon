@@ -1,0 +1,30 @@
+{
+  "answerKey": "MIRAGECAVE",
+  "answerDisplay": "MIRAGE CAVE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Mirage Caves",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mirage_Caves",
+  "pageId": 200690,
+  "pageRevisionId": 4304895,
+  "leadText": "A Mirage Cave (Japanese: マボロシ洞窟 Phantom Cave) is a location in Hoenn located on an island in Pokémon Omega Ruby and Alpha Sapphire. It is only accessible by soaring on Latias or Latios. A Mirage Cave can appear daily, or it may not appear, being replaced with a Mirage Island, Mirage Forest, or Mirage Mountain. More Mirage spots can appear via StreetPass. If a Mirage Cave is received via StreetPass, it will not have a hidden item. In the Pokémon Omega Ruby and Pokémon Alpha Sapphire Special Demo Version, three of the Mirage Caves can also be visited during play.",
+  "sections": [
+    {
+      "title": "Mirage Caves",
+      "text": "Mirage Caves [ edit | edit source ] Each Mirage Cave contains one item that can only be obtained once, as well as one of three possible items ( Blue Shard , Red Shard , or Deep Sea Tooth ) that will be present whenever it appears as the daily Mirage spot; the unique item is listed below. Additionally, some Mirage Caves include breakable rocks , which the player can destroy with Rock Smash to encounter wild Pokémon or obtain fossils . Exterior Interior Mirage Cave Item Breakable rocks In demo South of Route 107 Max Ether ✘ ✘ North of Fallarbor Town TM95 ( Snarl ) ✘ ✔ West of Route 115 Yellow Shard ✔ ✔ North of Fortree City Carbos ✔ ✘ North of Route 124 PP Up ✔ ✔ Southeast of Route 129 Rare Candy ✔ ✘ South of Route 131 Full Heal ✘ ✘ North of Route 132 Big Pearl ✘ ✘"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Although Mirage Caves are caves, the increased capture modifier for the Dusk Ball only applies at night."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mirage-Cave",
+    "Mirage Cave",
+    "Mirage-Cave (location)"
+  ],
+  "updatedAt": 1774214534
+}

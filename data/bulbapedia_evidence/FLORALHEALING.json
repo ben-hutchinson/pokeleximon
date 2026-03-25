@@ -1,0 +1,30 @@
+{
+  "answerKey": "FLORALHEALING",
+  "answerDisplay": "FLORAL HEALING",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Floral Healing (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Floral_Healing_(move)",
+  "pageId": 218337,
+  "pageRevisionId": 4407203,
+  "leadText": "Floral Healing (Japanese: フラワーヒール Flower Heal) is a non-damaging Fairy-type move introduced in Generation VII. It is the signature move of Comfey.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VII 1.2 Generation VIII 1.2.1 Pokémon Sword and Shield 1.2.2 Pokémon Brilliant Diamond and Shining Pearl 1.3 Generation IX 1.3.1 Pokémon Scarlet and Violet Effect [ edit | edit source ] Generation VII [ edit | edit source ] Floral Healing restores up to ½ of the target's maximum HP . If Grassy Terrain is in effect, Floral Healing will restore up to ⅔ of the target's maximum HP. Floral Healing bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . It cannot affect a Pokémon behind a substitute . If powered up by a Fairium Z into Z-Floral Healing, all of the user's lowered stats are reset, and the target can be healed regardless of whether or not it is afflicted by Heal Block . Generation VIII [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] In Versions 1.0 to 1.1.1 of Pokémon Sword and Shield , Floral Healing could not be selected in a battle. Starting with Version 1.2.0, it can be selected and functions as it did in the previous generation. Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Floral Healing cannot be selected in a battle. Generation IX [ edit | edit source ] Pokémon Scarlet and Violet [ edit | edit source ] In Versions 1.0 to 2.0.2 of Pokémon Scarlet and Violet , Floral Healing could not be selected in a battle. Starting with Version 3.0.0, it can be selected and functions as it did in the previous generation."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA The user restores the target's HP by up to half of its max HP. It restores more HP when the terrain is grass. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user restores the target's HP by up to half its max HP. More HP is restored when the ground is Grassy Terrain."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Floral-Healing",
+    "Floral Healing",
+    "Floral-Healing (move)"
+  ],
+  "updatedAt": 1773322916
+}

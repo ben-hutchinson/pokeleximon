@@ -1,0 +1,34 @@
+{
+  "answerKey": "HYPERVOICE",
+  "answerDisplay": "HYPER VOICE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Hyper Voice (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Hyper_Voice_(move)",
+  "pageId": 3915,
+  "pageRevisionId": 4462319,
+  "leadText": "Hyper Voice (Japanese: ハイパーボイス Hyper Voice) is a damage-dealing Normal-type move introduced in Generation III. It is: TR42 in Pokémon Sword and Shield TM117 in Pokémon Scarlet and Violet. TM071 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III-V 1.2 Generation VI onwards 1.3 Generation IX 1.3.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Hyper Voice inflicts damage to all adjacent opponents. Hyper Voice is a sound-based move . Generation III-V [ edit | edit source ] If used on a Pokémon behind a substitute , it hits that Pokémon's substitute. Generation VI onwards [ edit | edit source ] Hyper Voice can now hit Pokémon even if they are behind a substitute. Hyper Voice will destroy certain natural objects found in the background of battles . Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 90 108 Cooldown 8s Move wind-up time 15 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD A loud attack that uses sound waves to injure. FR LG The user lets loose a horribly loud shout with the power to damage. D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user lets loose a horribly echoing shout with the power to inflict damage. S V The user attacks by letting loose a horribly loud, resounding cry. ZA The user attacks by unleashing horribly loud, resounding vibrations."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. B S L てきポケモンに ダメージをあたえる Conq. The user lets loose a horribly echoing shout with the power to inflict damage. MD GtI It damages enemies. S MD It damages nearby enemies."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Hyper-Voice",
+    "Hyper Voice",
+    "Hyper-Voice (move)"
+  ],
+  "updatedAt": 1773323764
+}

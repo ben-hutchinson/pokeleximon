@@ -1,0 +1,38 @@
+{
+  "answerKey": "DUALCHOP",
+  "answerDisplay": "DUAL CHOP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Dual Chop (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dual_Chop_(move)",
+  "pageId": 117268,
+  "pageRevisionId": 4462242,
+  "leadText": "Dual Chop (Japanese: ダブルチョップ Double Chop) is a damage-dealing Dragon-type multistrike move introduced in Generation V. It is TM135 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Dual Chop inflicts damage, hitting twice per use. Each strike has an equal chance to be a critical hit . Dual Chop will hit again if the first strike breaks a substitute. Bide and Counter will only acknowledge the second strike of this move. If the target has an Ability that activates upon contact or a Rocky Helmet , each strike counts individually, enabling the Ability or Rocky Helmet to activate twice. If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokémon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokémon has a maximum HP of 1. If the user is holding a King's Rock or Razor Fang , each consecutive hit has an equal chance to cause the opponent to flinch . If the target has Weak Armor or Stamina , each strike will activate it. Generation IX [ edit | edit source ] Dual Chop cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user attacks its target by hitting it with brutal strikes. The target is hit twice in a row. S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. ZA The user attacks with two strikes dealt with a tough part of its body, one after the other."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI S MD MD RT DX It damages an enemy 2 times in a row."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as a TCG Attack . Ambipom can't learn this move by Move Tutor in Ultra Sun and Ultra Moon , despite it learning the move by level-up starting in Generation VII ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Dual-Chop",
+    "Dual Chop",
+    "Dual-Chop (move)"
+  ],
+  "updatedAt": 1773322375
+}

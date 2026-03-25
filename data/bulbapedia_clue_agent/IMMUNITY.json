@@ -1,0 +1,62 @@
+{
+  "answerKey": "IMMUNITY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4484514,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "\"Immunity\" redirects here. For the type mechanic, see Type Type effectiveness. Immunity (Japanese: Immunity) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Prevents becoming poisoned or badly poisoned. MD T D S Protects the Pokemon from becoming poisoned or badly poisoned. B S L Conq. Prevents the Pokemon from being poisoned. MD GtI Unavailable S MD It protects the Pokemon from getting poisoned or badly poisoned! MD RT DX It protects the Pokemon from getting Poisoned or Badly Poisoned.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV 1.1.3 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Immunity prevents the Pokemon from being afflicted by poison . A Pokemon with this Ability will be cured of poison if it is poisoned while in battle (such as if it gains the Ability outside of battle or by an effect like Skill Swap , or is poisoned by a Pokemon with an Ability like Mold Breaker ). Generation III [ edit | edit source ] If a poisoned Pokemon with Immunity is sent into battle as one of the lead Pokemon or to replace a fainted Pokemon, or gains Immunity due to Trace , it will not be cured of poison until after a Pokemon takes its turn (uses a move, switches out, etc.). It will be cured of poison if it is switched in to replace a switched out Pokemon (including if switched in via Baton Pass ). If a poisoned Pokemon has Immunity as its original Ability but not its current Ability, it will remain poisoned when switched out. If the Pokemon with this Ability is poisoned and is holding a Pecha , Lum , or Drash Berry , Immunity will cure the Pokemon of poison before the Berry has a chance to be consumed. Generation IV [ edit | edit source ] When a poisoned Pokemon with Immunity enters battle, it will be cured of poison. If a poisoned Pokemon has Immunity as its original Ability but not its current Ability, if it is one of the active Pokemon at the end of the battle or switched out, it will be cured of poison (with no message). Generation V onward [ edit | edit source ] If a poisoned Pokemon has Immunity as its original Ability but not its current Ability, it will remain poisoned when switched out. If the Pokemon with this Ability is poisoned and is holding a Pecha or Lum Berry , the Berry will be eaten and cure the Pokemon of poison before Immunity has a chance to activate. A Pokemon with Immunity can be poisoned by Sunsteel Strike if the attacker has Poison Touch , but will be cured of poison immediately. Outside of battle [ edit | edit source ] In Generation III and IV, poison will still hurt a Pokemon outside of battle even if it has Immunity. If a poisoned Pokemon gains Immunity by Evolution or Ability Capsule , it will not be cured of poison until sent into battle. Pokemon with Immunity will not be poisoned by the Gentleman 's Kirlia in the Battle Pike nor the Battle Arcade 's game board.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "Contents 1 In battle 1.1 Generation III 1.2 Generation IV 1.3 Generation V onward In battle [ edit | edit source ] Immunity prevents the Pokemon from being afflicted by poison . A Pokemon with this Ability will be cured of poison if it is poisoned while in battle (such as if it gains the Ability outside of battle or by an effect like Skill Swap , or is poisoned by a Pokemon with an Ability like Mold Breaker ). Generation III [ edit | edit source ] If a poisoned Pokemon with Immunity is sent into battle as one of the lead Pokemon or to replace a fainted Pokemon, or gains Immunity due to Trace , it will not be cured of poison until after a Pokemon takes its turn (uses a move, switches out, etc.). It will be cured of poison if it is switched in to replace a switched out Pokemon (including if switched in via Baton Pass ). If a poisoned Pokemon has Immunity as its original Ability but not its current Ability, it will remain poisoned when switched out. If the Pokemon with this Ability is poisoned and is holding a Pecha , Lum , or Drash Berry , Immunity will cure the Pokemon of poison before the Berry has a chance to be consumed. Generation IV [ edit | edit source ] When a poisoned Pokemon with Immunity enters battle, it will be cured of poison. If a poisoned Pokemon has Immunity as its original Ability but not its current Ability, if it is one of the active Pokemon at the end of the battle or switched out, it will be cured of poison (with no message). Generation V onward [ edit | edit source ] If a poisoned Pokemon has Immunity as its original Ability but not its current Ability, it will remain poisoned when switched out. If the Pokemon with this Ability is poisoned and is holding a Pecha or Lum Berry , the Berry will be eaten and cure the Pokemon of poison before Immunity has a chance to activate. A Pokemon with Immunity can be poisoned by Sunsteel Strike if the attacker has Poison Touch , but will be cured of poison immediately.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Prevents poison.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "poisoning trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "poisoning trait"
+    ],
+    "connections_descriptors": [
+      "Poisoning abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257956
+}

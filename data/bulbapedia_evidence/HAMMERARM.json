@@ -1,0 +1,38 @@
+{
+  "answerKey": "HAMMERARM",
+  "answerDisplay": "HAMMER ARM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Hammer Arm (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Hammer_Arm_(move)",
+  "pageId": 14440,
+  "pageRevisionId": 4505265,
+  "leadText": "Hammer Arm (Japanese: アームハンマー Arm Hammer) is a damage-dealing Fighting-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Hammer Arm inflicts damage and lowers the user's Speed by one stage ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR B W B2 W2 X Y OR AS The user swings and hits with its strong and heavy fist. It lowers the user's Speed, however. S M US UM P E Sw Sh BD SP LA The user swings and hits with its strong, heavy fist. It lowers the user's Speed, however. S V The user swings its strong, heavy fist at the target to inflict damage. This also lowers the user's Speed stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. But it also reduces the user's Movement Speed by 1 level. B S L てきポケモンに ダメージをあたえるが じぶんの いどうそくどが １だんかいさがる MD GtI It damages an enemy, but it also lowers your Travel Speed. S MD MD RT DX It damages an enemy, but it also lowers your Travel Speed. The stat returns to normal after a while."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Hammer Arm has the same description text as Ice Hammer ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Hammer-Arm",
+    "Hammer Arm",
+    "Hammer-Arm (move)"
+  ],
+  "updatedAt": 1773323500
+}

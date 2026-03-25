@@ -1,0 +1,31 @@
+{
+  "answerKey": "SURVIVAL",
+  "answerDisplay": "SURVIVAL",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Survival Area",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Survival_Area",
+  "pageId": 20062,
+  "pageRevisionId": 4399829,
+  "leadText": "Survival Area (Japanese: サバイバルエリア Survival Area) is an area of the Battle Zone, northeast of Sinnoh. It is a training place for those who lose in the Battle Tower/Battle Frontier. In Pokémon Platinum, one of Sinnoh's Move Tutors is housed here.",
+  "sections": [
+    {
+      "title": "Places of interest",
+      "text": "Places of interest [ edit | edit source ] Battleground [ edit | edit source ] Main article: Battleground Only present in Pokémon Platinum , the player can rematch Gym Leaders and battle the Stat Trainers here after completing the Stark Mountain quest. Up to four of these Trainers appear each day and the player can battle them only once a day. The Gym Leaders' and Trainers' Pokémon levels are between 61 and 66."
+    },
+    {
+      "title": "Battleground",
+      "text": "Battleground [ edit | edit source ] Main article: Battleground Only present in Pokémon Platinum , the player can rematch Gym Leaders and battle the Stat Trainers here after completing the Stark Mountain quest. Up to four of these Trainers appear each day and the player can battle them only once a day. The Gym Leaders' and Trainers' Pokémon levels are between 61 and 66."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Survival-Area",
+    "Survival Area",
+    "Survival",
+    "Survival-Area (location)"
+  ],
+  "updatedAt": 1773329258
+}

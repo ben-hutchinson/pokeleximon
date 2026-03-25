@@ -1,0 +1,72 @@
+{
+  "answerKey": "LEGENDPLATE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4514309,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "plates",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Effect [ edit | edit source ] When used on Arceus, the Legend Plate changes it to the Normal type , like the Blank Plate . In battle, when Arceus uses Judgment , the move changes type based on the selected opponent's type, and changes Arceus's type to the same type before completing the attack. While selecting a move, Judgment displays the type that it will become against the selected opponent, if used that turn. This is similar to the move Hidden Power . Judgment will become a type that is super effective against the target, prioritizing any double weaknesses of dual-type targets. If multiple types are equally effective, Judgment will change to a type that best resists the target's primary type, prioritizing immunities, regardless of what the target's secondary type may be. Since Palkia s primary type is Water , Judgment will always become Dragon . Since Giratina s primary type is Ghost , Judgment will always become Dark . Although Fairy is immune to their secondary Dragon typing, it does not resist Water or Ghost. If multiple types are still equally valid, Judgment will change to the type that best resists the target's secondary type, if any. If multiple types are still equally valid, then one of them will be selected at random. This calculation is done on each turn, so if there are multiple valid types, Judgment's type may vary between them each turn. The Legend Plate can be read, and has the following engraving: \"From all creations, over all creations, does the Original One watch over all.\"",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Species-linked power item",
+        "evidence_ref": "lead",
+        "specificity": 0.68
+      },
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "specificity": 0.8
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Species-linked power item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.6,
+        "specificity_score": 0.74,
+        "style": "family"
+      },
+      {
+        "text": "Signature battle item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "family"
+      },
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Progress-gating key item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "unlocking item"
+    ],
+    "connections_descriptors": [
+      "Species-linked items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257962
+}

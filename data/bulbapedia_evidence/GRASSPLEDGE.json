@@ -1,0 +1,38 @@
+{
+  "answerKey": "GRASSPLEDGE",
+  "answerDisplay": "GRASS PLEDGE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Grass Pledge (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Grass_Pledge_(move)",
+  "pageId": 117621,
+  "pageRevisionId": 4475816,
+  "leadText": "Grass Pledge (Japanese: くさのちかい Grass Oath) is a damage-dealing Grass-type move introduced in Generation V. It is TM146 in Pokémon Scarlet and Violet. Along with Water Pledge and Fire Pledge, Grass Pledge is one of the battle-combo moves. All Grass-type first partner Pokémon and their Evolutions can learn this move.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation V 1.2 Generation VI onwards 1.3 Generation VIII 1.3.1 Pokémon Brilliant Diamond and Shining Pearl 1.4 Generation IX Effect [ edit | edit source ] Grass Pledge inflicts damage . When two allies attempt to use Grass Pledge and either Fire Pledge or Water Pledge on the same turn, the ally moving first will not itself use a move, but instead the ally moving second will use a combined attack with a power of 150 and an additional effect immediately after it: If Grass Pledge and Fire Pledge are used in the same turn, the ally moving second will use Fire Pledge with a power of 150, and create a sea of fire on the target's side of the field for four turns. The sea of fire damages all non- Fire-type Pokémon on that side of the field for 1/8 of their maximum HP at the end of each turn. If Grass Pledge and Water Pledge are used in the same turn, the ally moving second will use Grass Pledge with a power of 150, and create a swamp on the target's side of the field for four turns. This swamp quarters the Speed of all Pokémon on that side of the field. If a Pokémon uses one Pledge move and a partner has selected another Pledge move, but none of its partners are able to use their selected Pledge move that turn (e.g. paralysis , Sky Drop , etc.), no move will be executed. Grass Pledge is unaffected by a held Grass Gem (and will not consume it). If a combined move is used, it will always receive the same-type attack bonus no matter which Pokémon is the one executing it, or what type the combined move is. Grass Pledge does not work in Sky Battles . Generation V [ edit | edit source ] It has a regular power of 50. Generation VI onwards [ edit | edit source ] Grass Pledge's regular power changed from 50 to 80. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Grass Pledge cannot be selected in a battle. Generation IX [ edit | edit source ] Grass Pledge can be used again, but its effects do not take effect in Tera Raid battles."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 A column of grass hits opposing Pokémon. When used with its water equivalent, its damage increases into a vast swamp. X Y OR AS A column of grass hits the target. When used with its water equivalent, its damage increases and a vast swamp appears. S M US UM P E Sw Sh LA A column of grass hits the target. When used with its water equivalent, its power increases and a vast swamp appears. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V A column of grass hits the target. When used with its water counterpart, this move's power is boosted and a vast swamp appears."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI UNUSED S MD It damages an enemy. If it's used with Fire Pledge in an Alliance, the enemies in the same room will get the sea of fire condition, and if it's used with Water Pledge, they will get the swamp condition. MD RT DX It damages an enemy. If your teammate is in a position from which it can use Water Pledge, the PP of Water Pledge will be used, but its power increases, and enemies in the same room as you will get the Swamp condition."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Pokémon Ultra Sun and Ultra Moon and Pokémon Sword and Shield , Silvally is intended to be able to be taught Grass Pledge, Fire Pledge , and Water Pledge via Move Tutor. However, due to a programming error, the Move Tutor will only offer to teach it Grass Pledge, making it unable to learn the other two moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Grass-Pledge",
+    "Grass Pledge",
+    "Grass-Pledge (move)"
+  ],
+  "updatedAt": 1773323345
+}

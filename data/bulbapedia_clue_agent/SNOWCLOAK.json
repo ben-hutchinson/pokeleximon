@@ -1,0 +1,76 @@
+{
+  "answerKey": "SNOWCLOAK",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4407483,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Snow Cloak (Japanese: Hidden in the Snow) is an Ability introduced in Generation IV.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the Pokemon's evasiveness if it is hailing or snowing. B S L MD GtI Evasion goes up in the Hail weather condition. * The Pokemon isn't damaged by the Hail weather condition, and its evasion goes up! * S MD The Pokemon isn't damaged by hail, and it causes the Pokemon's evasiveness to go up! MD RT DX The Pokemon isn't damaged by Hail, and hailstorms cause the Pokemon's evasiveness to go up.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.2 Outside of battle 1.2.1 Generation VIII 1.2.2 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] During hail or snow , the accuracy of any move used against a Pokemon with this Ability is modified by a factor of 4/5 (in Generation IV) or 3277/4096 (in Generation V onward). A Pokemon with this Ability will take no damage from hail if it otherwise would. Outside of battle [ edit | edit source ] If a Pokemon with Snow Cloak is in the first place in the party (even if fainted ) in an area with hail , the chance of encountering a wild Pokemon is decreased by 50%. Generation VIII [ edit | edit source ] This Ability appears to have no effect on encounter rate in Pokemon Sword and Shield . Generation IX [ edit | edit source ] This Ability appears to have no effect on encounter rate in Pokemon Scarlet and Violet .",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] During hail or snow , the accuracy of any move used against a Pokemon with this Ability is modified by a factor of 4/5 (in Generation IV) or 3277/4096 (in Generation V onward). A Pokemon with this Ability will take no damage from hail if it otherwise would.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Increases evasion to 1.25 during hail. Protects against hail damage.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "protective trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "protective trait",
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Protective abilities",
+      "Weather abilities",
+      "Gen IV abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258016
+}

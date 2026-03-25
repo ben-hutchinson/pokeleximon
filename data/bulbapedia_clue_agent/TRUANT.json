@@ -1,0 +1,110 @@
+{
+  "answerKey": "TRUANT",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4499435,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Truant (Japanese: Lazy) is an Ability introduced in Generation III. Prior to Generation V and in Generation IX, it is the signature Ability of Slakoth and Slaking.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Prevents action in your next turn after using a move or a Wonder Orb. MD T D S Keeps the Pokemon from taking an action in the turn after using a move or a Wonder Orb. B S L MD GtI Unavailable S MD When the Pokemon uses a move, it will get the truant status condition! Also, if an enemy Pokemon is next to the sleeping Pokemon with this Ability, it will get the yawning status condition! MD RT DX When the Pokemon uses a move, it will get the Truant condition. Also, if an enemy Pokemon is next to a sleeping Pokemon with this Ability, the enemy will sometimes get the Yawning condition.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Every second turn, a Pokemon with Truant cannot use a move due to loafing around, such that the Pokemon can move on its first turn but not its second turn. Switching out or gaining the Ability Truant resets the turn count for Truant. Using an item does not count as a turn for the purposes of Truant. In Generation V , Truant is reset by sleep and a Pokemon with Truant will always be able to attack on the turn it wakes up. In Generation III , using a healing item counts as a turn for Truant. Moves with a charging turn , such as Fly , will not work (unless the user is holding a Power Herb ), because the turn in which the move would be executed is the same turn in which the Pokemon will be truant. If a Pokemon with Truant uses a move that forces it to recharge next turn (such as Hyper Beam ), then it will loaf around and recharge during the same turn. Because of the recharge, this Pokemon will be unable to use items or switch out on this turn. If a Pokemon gains Truant after it calls upon Mega Evolution , Ultra Burst , or Dynamax at the beginning of a turn, but before it moves that turn, Truant will activate on its first attempt to move. Truant cannot be overwritten by Simple Beam , Worry Seed , or Entrainment , but it can be overwritten by Skill Swap , Role Play , Doodle , or Mummy , or disabled with Gastro Acid or Neutralizing Gas . If a Pokemon with Truant uses a move and is then Instructed to use the move again, the Pokemon will loaf around instead of executing that move. Then, in the next turn, the Pokemon with Truant will be able to use a move normally. If a Pokemon with Truant is sent out following an ally Pokemon fainting to end-of-turn damage, Truant will activate on its first attempt to move. Encore will force a Pokemon with Truant to be locked into using the last move used. Outside of battle [ edit | edit source ] Truant has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Every second turn, a Pokemon with Truant cannot use a move due to loafing around, such that the Pokemon can move on its first turn but not its second turn. Switching out or gaining the Ability Truant resets the turn count for Truant. Using an item does not count as a turn for the purposes of Truant. In Generation V , Truant is reset by sleep and a Pokemon with Truant will always be able to attack on the turn it wakes up. In Generation III , using a healing item counts as a turn for Truant. Moves with a charging turn , such as Fly , will not work (unless the user is holding a Power Herb ), because the turn in which the move would be executed is the same turn in which the Pokemon will be truant. If a Pokemon with Truant uses a move that forces it to recharge next turn (such as Hyper Beam ), then it will loaf around and recharge during the same turn. Because of the recharge, this Pokemon will be unable to use items or switch out on this turn. If a Pokemon gains Truant after it calls upon Mega Evolution , Ultra Burst , or Dynamax at the beginning of a turn, but before it moves that turn, Truant will activate on its first attempt to move. Truant cannot be overwritten by Simple Beam , Worry Seed , or Entrainment , but it can be overwritten by Skill Swap , Role Play , Doodle , or Mummy , or disabled with Gastro Acid or Neutralizing Gas . If a Pokemon with Truant uses a move and is then Instructed to use the move again, the Pokemon will loaf around instead of executing that move. Then, in the next turn, the Pokemon with Truant will be able to use a move normally. If a Pokemon with Truant is sent out following an ally Pokemon fainting to end-of-turn damage, Truant will activate on its first attempt to move. Encore will force a Pokemon with Truant to be locked into using the last move used.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Skips every second turn.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Damages sleeping foes",
+        "evidence_ref": "Description",
+        "specificity": 0.86
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Damages sleeping foes",
+        "evidence_ref": "Description",
+        "mystery_score": 0.78,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Nightmare-causing trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.7,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Sleep-punishing trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.78,
+        "style": "effect"
+      },
+      {
+        "text": "Prevents major status ailments",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "effect"
+      },
+      {
+        "text": "Ailment-proof trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "nightmare trait",
+      "sleep punisher",
+      "status immunity"
+    ],
+    "connections_descriptors": [
+      "Sleep-punishing abilities",
+      "Status-blocking abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258027
+}

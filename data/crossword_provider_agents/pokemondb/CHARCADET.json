@@ -1,0 +1,17 @@
+{
+  "answerKey": "CHARCADET",
+  "answerDisplay": "CHARCADET",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Fire type Pokémon introduced in Generation 9.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/charcadet",
+  "extract": "Charcadet is a Fire type Pokémon introduced in Generation 9 .",
+  "rankPosition": 1,
+  "updatedAt": 1774210831
+}

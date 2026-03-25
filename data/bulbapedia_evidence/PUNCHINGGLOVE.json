@@ -1,0 +1,34 @@
+{
+  "answerKey": "PUNCHINGGLOVE",
+  "answerDisplay": "PUNCHING GLOVE",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Punching Glove",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Punching_Glove",
+  "pageId": 277903,
+  "pageRevisionId": 4491304,
+  "leadText": "Punching Glove (Japanese: パンチグローブ Punch Glove) is a type of held item introduced in Generation IX.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Punching Glove increases the power of punching moves by 10% and prevents contact with targets done by those moves. This item's effect additionally stacks with Iron Fist ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V An item to be held by a Pokémon. This protective glove boosts the power of the holder's punching moves and prevents direct contact with targets."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price S V $ 15,000 $ 3,750 Effect [ edit | edit source ] Punching Glove increases the power of punching moves by 10% and prevents contact with targets done by those moves. This item's effect additionally stacks with Iron Fist . Description [ edit | edit source ] Games Description S V An item to be held by a Pokémon. This protective glove boosts the power of the holder's punching moves and prevents direct contact with targets. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods S V Zapapico (from a Pokémon League representative after defeating 7 Trainers in East Province (Area Three) ) Delibird Presents ( Mesagoza Branch, after earning 4 Gym Badges )"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Punching-Glove",
+    "Punching Glove",
+    "Punching-Glove (item)"
+  ],
+  "updatedAt": 1773326112
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "TEETERDANCE",
+  "answerDisplay": "TEETER DANCE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Teeter Dance (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Teeter_Dance_(move)",
+  "pageId": 3909,
+  "pageRevisionId": 4471163,
+  "leadText": "Teeter Dance (Japanese: フラフラダンス Dizzy Dance) is a non-damaging Normal-type move introduced in Generation III. Prior to Generation V, it was the signature move of Spinda, but other Pokémon could still inherit it via breeding.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation III [ edit | edit source ] Teeter Dance confuses all Pokémon adjacent to the user. Generation IV onwards [ edit | edit source ] Teeter Dance can now be copied by Mirror Move . If powered up by a Normalium Z into Z-Teeter Dance, the user's Special Attack stat rises by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Confuses all Pok é mon on the scene. FR LG A wobbly dance that confuses all the Pok é mon in battle. Colo XD Confuses all Pok é mon on the scene except the user. D P Pt HG SS PBR The user performs a wobbly dance that confuses all the Pokémon in battle. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user performs a wobbly dance that confuses the Pokémon around it. S V The user performs a wobbly dance that confuses every Pokémon around it."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts the Confused status on all Pokémon on the floor, making their attacks and movements erratic. MD T D S Afflicts all the Pokémon in the room with a Confused status condition. A Pokémon with the Confused status will find that its movements and attacks go astray. B S L おなじへやの すべてのポケモンを こんらんじょうたいにかえる こんらんじょうたいに なると こうげきや わざを へんなほうこうに くりだしてしまう MD GtI It causes the Confused status condition to all Pokémon in the same room except you. The Confused status impairs their sense of direction. S MD It makes Pokémon in the same room confused except for you."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Teeter-Dance",
+    "Teeter Dance",
+    "Teeter-Dance (move)"
+  ],
+  "updatedAt": 1773327862
+}

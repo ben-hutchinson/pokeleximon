@@ -1,0 +1,30 @@
+{
+  "answerKey": "SEEDSOWER",
+  "answerDisplay": "SEED SOWER",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Seed Sower (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Seed_Sower_(Ability)",
+  "pageId": 277624,
+  "pageRevisionId": 4299121,
+  "leadText": "Seed Sower (Japanese: こぼれダネ Self-Sowing Seeds) is an Ability introduced in Generation IX. It is the signature Ability of Arboliva.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with Seed Sower is hit by a damaging move, it summons Grassy Terrain for five turns, unless Grassy Terrain is already present. This can be extended to eight turns if the Pokémon is holding a Terrain Extender . If hit by a multistrike move , the first strike will activate it. Seed Sower activates before the effect of the moves Steel Roller and Ice Spinner is triggered, thus removing the grassy terrain. Outside of battle [ edit | edit source ] Seed Sower has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with Seed Sower is hit by a damaging move, it summons Grassy Terrain for five turns, unless Grassy Terrain is already present. This can be extended to eight turns if the Pokémon is holding a Terrain Extender . If hit by a multistrike move , the first strike will activate it. Seed Sower activates before the effect of the moves Steel Roller and Ice Spinner is triggered, thus removing the grassy terrain."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Seed-Sower",
+    "Seed Sower",
+    "Seed-Sower (Ability)"
+  ],
+  "updatedAt": 1773329192
+}

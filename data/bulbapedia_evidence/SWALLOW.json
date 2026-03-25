@@ -1,0 +1,33 @@
+{
+  "answerKey": "SWALLOW",
+  "answerDisplay": "SWALLOW",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Swallow (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Swallow_(move)",
+  "pageId": 3867,
+  "pageRevisionId": 4426848,
+  "leadText": "Swallow (Japanese: のみこむ Swallow) is a non-damaging Normal-type move introduced in Generation III. The Pokémon who are able to learn this move are also able to learn the related moves Stockpile and Spit Up, except Snorlax, Munchlax, Trubbish, Garbodor, and Guzzlord, which cannot learn Spit Up.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III 1.2 Generation IV 1.3 Generation V onwards Effect [ edit | edit source ] Generation III [ edit | edit source ] This move will fail if the user has not used Stockpile . If Swallow is used after stockpiling, it recovers the user's HP depending on the number of times Stockpile was used: 1× → 25% of the user's maximum HP 2× → 50% of the user's maximum HP 3× → all of the user's maximum HP After Swallow is used, the stockpile count will be reset to 0. Swallow can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Stockpile was used in the previous turn. Generation IV [ edit | edit source ] Swallow now removes any Defense and Special Defense boosts gained through Stockpile. However, it simply will say the effect wore off without showing stat changing, unlike Stockpile. Generation V onwards [ edit | edit source ] The Stockpile removal is now shown as a stat change. For each Stockpile that successfully changed a defensive stat, that stat will drop by two stages if the Pokémon has Simple at the time of using Swallow, rise by one stage if the Pokémon has Contrary at that time, or drop by one stage with any other Ability. Stockpiles that did not result in stat changes (most likely because the stat was already maxed out) are not taken into account for this adjustment, but Stockpiles that resulted in stat changes which were later erased by a move such as Haze or Clear Smog are. Swallow can be used as part of a Contest Spectacular combination , giving an extra three appeal points if Stockpile was used in the prior turn. If powered up by a Normalium Z into Z-Swallow, all of the user's lowered stats are reset."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Absorbs stockpiled power and restores HP. FR LG The energy it built using Stockpile is absorbed to restore HP. D P Pt HG SS PBR The power stored using the move Stockpile is absorbed by the user to heal its HP. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP. S V The power stored using the move Stockpile is absorbed by the user to restore its own HP. The more power is stored, the more HP is restored."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Restores the user's HP. The HP recovered depends on how often the move Stockpile was used before. MD T D S Restores the user's HP. The amount depends on how many times Stockpile was used in advance. B S L じぶんの ＨＰがかいふくする わざ『たくわえる』で ためただけ かいふくりょうが ふえる MD GtI It restores your HP. The more you stockpile using Stockpile, the more HP you restore. S MD It restores your HP, and the more you stockpile using Stockpile, the more HP you restore. MD RT DX Only the power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Swallow",
+    "Swallow (move)"
+  ],
+  "updatedAt": 1773327707
+}

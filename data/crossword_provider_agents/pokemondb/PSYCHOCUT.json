@@ -1,0 +1,17 @@
+{
+  "answerKey": "PSYCHOCUT",
+  "answerDisplay": "PSYCHO CUT",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "Details and added effects for the Pokémon attack.",
+  "score": 57.88,
+  "approved": false,
+  "qualityFlags": [
+    "near_verbatim_source"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/move/psycho-cut",
+  "extract": "Details and added effects for the Pokémon attack",
+  "rankPosition": 1,
+  "updatedAt": 1774212496
+}

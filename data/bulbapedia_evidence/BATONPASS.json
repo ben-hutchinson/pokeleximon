@@ -1,0 +1,38 @@
+{
+  "answerKey": "BATONPASS",
+  "answerDisplay": "BATON PASS",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Baton Pass (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Baton_Pass_(move)",
+  "pageId": 3837,
+  "pageRevisionId": 4427546,
+  "leadText": "Baton Pass (Japanese: バトンタッチ Baton Touch) is a non-damaging Normal-type move introduced in Generation II. It was TR29 in Pokémon Sword and Shield, and is TM132 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] This move effect may be in need of research. Reason: Baton Pass passes any of those? Nightmare, Encore, Throat Chop, Torment, etc. You can discuss this on the talk page. Baton Pass switches out the user, passing all temporary stat stage increases and decreases on to the Pokémon that replaces it in battle . Baton Pass also passes some volatile status conditions , namely confusion , getting pumped , escape prevention , Ability suppression , seeding , Curse , Substitute , Ingrain , Power Trick , Heal Block , Embargo , Perish Song , Magnet Rise , and Aqua Ring . Ability suppression disappears if the replacement Pokémon's Ability cannot be suppressed . Baton Pass passes the effect of Telekinesis , unless the replacement Pokémon is Mega Gengar . Prior to Generation V , if a Pokémon prevents a target from escaping and then uses Baton Pass, the target will be trapped. Starting in Generation V, this effect cannot be passed by the user. In all generations, the effect can be passed if the Pokémon that can't escape uses Baton Pass. Baton Pass does not pass non-volatile status conditions , infatuation , drowsiness (from Yawn or G-Max Snooze ), center of attention (from Spotlight ), a type change , Ability change , a move learned by Mimic , or a transformation (from Transform or Imposter ). It also does not pass the effects of Disable (even if the replacement Pokémon knows the disabled move), Imprison , or Defense Curl 's effect of doubling the power of Rollout or Ice Ball , or the critical hit rate boosts from G-Max Chi Strike . [ 1 ] It does not pass Minimize 's tiny sprite, or its effect of causing the user to become more vulnerable to some moves ( Stomp , Steamroller , Heat Crash , etc.). Even though the Baton Pass user switches out, Pursuit has no additional power or priority against it. Baton Pass fails if there are no other Pokémon in the user's party that can be switched in in its place. From Generation II to IV, the animation will always display a normal Poké Ball . Starting in Generation V, the correct type of Poké Ball the user was caught with is displayed in the animation. Baton Pass can also be used as part of a Contest Spectacular combination , with the user gaining extra three appeal points if a certain move ( Agility , Amnesia , Autotomize , Calm Mind , Cotton Guard , Hone Claws , Nasty Plot , Rock Polish , or Shell Smash ) was used in the prior turn. If powered up by a Normalium Z into Z-Baton Pass, all of the user's lowered stats are reset. ↑ https://www.smogon.com/forums/threads/sword-shield-battle-mechanics-research.3655528/page-45#post-8440929"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A move that transfers the user's status changes to the next Pok é mon when switching. G S C Switches while keeping effects. R S E Colo XD Switches out the user while keeping effects in play. FR LG The user switches out, passing along any stat changes to the new battler. D P Pt HG SS PBR B W B2 W2 The user switches places with a party Pokémon in waiting, passing along any stat changes. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user switches places with a party Pokémon in waiting and passes along any stat changes."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Successively switches the user's position with the positions of other Pokémon in the room. MD T D S Switches the user's position with the positions of other Pokémon in the room successively. B S L おなじへやの ポケモンの ばしょと じぶんの ばしょを つぎつぎと いれかえる MD GtI After switching positions with your teammate, it boosts the Pokémon's Attack, Defense, Special Attack, Special Defense, accuracy, or evasiveness. (The stat changes return to normal when it goes to the next floor or steps on a Wonder Tile.) S MD It switches the positions of you and your teammate. It also boosts the teammate's stat. * After switching your position with your teammate, it boosts your teammate's Attack, Defense, Sp. Atk., Sp. Def., accuracy, or evasiveness. The stat returns to normal when the Pokémon goes to the next floor or steps on a Wonder Tile. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Prior to Generation V , Shedinja is able to know Baton Pass by leveling up if Nincada is allowed to evolve only at level 45, as Ninjask learns this move at this level."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Baton-Pass",
+    "Baton Pass",
+    "Baton-Pass (move)"
+  ],
+  "updatedAt": 1773321048
+}

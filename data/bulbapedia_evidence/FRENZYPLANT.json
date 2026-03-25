@@ -1,0 +1,38 @@
+{
+  "answerKey": "FRENZYPLANT",
+  "answerDisplay": "FRENZY PLANT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Frenzy Plant (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Frenzy_Plant_(move)",
+  "pageId": 3949,
+  "pageRevisionId": 4465364,
+  "leadText": "Frenzy Plant (Japanese: ハードプラント Hard Plant) is a damage-dealing Grass-type move introduced in Generation III. It is TM155 in Pokémon Scarlet and Violet and TM160 in Pokémon Legends: Z-A. Along with Blast Burn and Hydro Cannon, Frenzy Plant is one of the ultimate moves. All fully evolved Grass-type first partner Pokémon can learn this move.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Frenzy Plant inflicts damage and then forces the user to recharge during the next turn. Unless this attack misses, the user will always have to recharge. Frenzy Plant can be used as the second move of a Pokémon Contest combination , with the user gaining 4 bonus appeal points if Growth was used in the previous turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Powerful, but leaves the user immobile the next turn. FR LG The foe is hit with an enormous branch. The user can't move on the next turn. D P Pt HG SS PBR The foe is slammed with an enormous tree. The user can't move on the next turn. B W B2 W2 X Y OR AS S M US UM P E The user slams the target with an enormous tree. The user can't move on the next turn. Sw Sh BD SP LA S V The user slams the target with the roots of an enormous tree. The user can't move on the next turn. ZA The user attacks by slamming targets with the roots of an enormous tree. The recoil will leave the user unable to move for a short time."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. However, it also inflicts the Paused status on the user, making it incapable of action. MD T D S Inflicts damage on the target, but it also afflicts the user with a Paused status. A Pokémon with the Paused status is incapable of action. B S L てきポケモンに ダメージをあたえる しかし じぶんが ようすみじょうたいに なってしまう ようすみじょうたいの ポケモンは こうどうできない MD GtI It damages enemies in the same room. But it causes the Recoil status condition, which prevents you from doing anything on the next turn. S MD It damages enemies in the same room, but it also makes you recoil, which prevents you from doing anything on the next turn."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In the American and European region releases of Pokémon Colosseum , this move was erroneously named Solid Plant , which is more aligned with its original Japanese name. Frenzy Plant is tied with Chloroblast for the highest base power of all Grass-type attacks, excluding Z-Moves , Max Moves , and G-Max Moves . A Bloom Doom based on Frenzy Plant has the highest base power of all Grass-type moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Frenzy-Plant",
+    "Frenzy Plant",
+    "Frenzy-Plant (move)"
+  ],
+  "updatedAt": 1773322995
+}

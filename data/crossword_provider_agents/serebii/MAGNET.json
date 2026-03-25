@@ -1,0 +1,18 @@
+{
+  "answerKey": "MAGNET",
+  "answerDisplay": "MAGNET",
+  "provider": "serebii",
+  "status": "ok",
+  "clue": "this item Lists all details for the item including descriptions and locations across all Pok&eacute;mon games.",
+  "score": 23.76,
+  "approved": false,
+  "qualityFlags": [
+    "long_form",
+    "too_long"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://www.serebii.net/itemdex/magnet.shtml",
+  "extract": "Magnet - Lists all details for the item including descriptions and locations across all Pok&eacute;mon games",
+  "rankPosition": 1,
+  "updatedAt": 1774211970
+}

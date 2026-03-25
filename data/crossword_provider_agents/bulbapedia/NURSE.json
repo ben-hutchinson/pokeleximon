@@ -1,0 +1,16 @@
+{
+  "answerKey": "NURSE",
+  "answerDisplay": "NURSE",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen V ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Nurse",
+  "extract": "Nurse has several referrals: For the receptionists who operate Pokémon Centers, see Pokémon Center lady. For the family of nurses who operate Pokémon Centers in the animated series, see Nurse Joy. For the Trainer class introduced in Pokémon Black and White, see Nurse (Trainer class).",
+  "updatedAt": 1774258444
+}

@@ -1,0 +1,110 @@
+{
+  "answerKey": "PARENTALBOND",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4487953,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VI ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Parental Bond (Japanese: Parent-Child Love) is an Ability introduced in Generation VI. It is the signature Ability of Mega Kangaskhan.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description S MD Kangaskhan and its young will fight together! This Ability can't be changed or sealed! MD RT DX Kangaskhan and its young will fight together! This Ability can't be changed or sealed.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation VI 1.1.2 Generation VII onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Parental Bond causes most damaging moves used by the Pokemon to become two-strike moves . It does not affect multistrike moves . If a move could hit multiple targets (including allies), such as Earthquake and Rock Slide , it will not strike twice; however, if it can only hit a single Pokemon, such as in a Single Battle or if using a move that can hit multiple targets when only one target is in range, it will strike twice. If a move could hit multiple Pokemon but only hits one due to missing the other Pokemon, it will only strike once. Since Parental Bond turns moves into two-hit multistrike moves, each strike has a separate chance to be a critical hit , items and Abilities that trigger upon strike or contact such as Cursed Body and Rocky Helmet occur for each strike, and Spiky Shield and King's Shield only damage and decrease Attack (respectively) once if they protect a Pokemon from a contact move used by a Pokemon with Parental Bond. Additionally, there is only one accuracy check, so either both strikes hit or both strikes miss. Any attack which has a secondary effect (except Secret Power ) has the same secondary effect on both strikes (such as Power-Up Punch ); if a secondary effect has a certain chance of occurring, each strike has an independent chance of activating that effect. Even if the Pokemon's Ability is changed to Mummy after the first strike, it will continue to make a second strike regardless. Pay Day scatters coins after the first strike only. Incinerate destroys applicable held items after each strike. Unlike other secondary effects, Secret Power 's secondary effect can only occur after the final strike. If a move has recoil damage, the recoil will be based on the damage dealt by both strikes, but will be taken after the final strike; Struggle will inflict recoil damage equal to half the user's maximum HP (after the final strike). Moves that switch the target out and moves that switch the user out strike twice, then force a Pokemon to switch out after both strikes are conducted. Thief , Covet , Bug Bite , and Pluck do not steal or eat the target's held item until after the final strike, so if the target could use its item after the first strike (e.g. due to low HP), it will use it before the attacker can steal or eat it. Smelling Salts , Wake-Up Slap , and Knock Off do not cure the target's status condition or remove its held item (respectively) until after the final strike, so both strikes get the increased power. Fire-type moves, Scald , and Steam Eruption thaw a frozen target after the final strike (so a frozen target cannot be thawed and then burned by the same move). Smack Down and Thousand Arrows only cause the target to fall to the ground after the final strike. If Meloetta has Parental Bond and uses Relic Song , it will change Forme only once, after the final strike. Burn Up does not remove the user's Fire type until after the second strike (so both strikes receive same-type attack bonus ). If a Pokemon with Parental Bond uses an Electric-type move on a Pokemon with Lightning Rod , or a Water-type move on a Pokemon with Storm Drain , the effect of raising the target's Special Attack will only happen once. If Present heals the target it will only strike once, but if it damages the target it will strike twice (the second strike will always damage the target). Fixed-damage moves (such as Seismic Toss and Dragon Rage ) deal the full amount of damage for both strikes. The damage dealt by Psywave is generated separately for each strike, and the second strike's damage is not halved. Each strike of Super Fang halves the target's HP (effectively quartering it if HP is not changed between strikes). Counter , Mirror Coat , Metal Burst , and Bide deal the full amount of damage for both strikes. The first strike of Assurance counts as previously taking damage for the second strike, giving it increased power. Fury Cutter and Echoed Voice only consider uses of the move rather than hits, so the second strike's power is not boosted by the first strike. Grass Pledge , Fire Pledge , and Water Pledge strike twice, even when used as a combination move. Natural Gift and Spit Up strike twice. Moves that require recharging after use strike twice, but the user only needs to recharge for one turn. One-hit knockout moves , Fling , Self-Destruct , Explosion , Final Gambit , Uproar , Rollout , and Ice Ball only strike once. (Other consecutively executed moves , such as Outrage , can strike twice.) Moves with a charging turn (such as Fly and Solar Beam ) only strike once, even if the Pokemon becomes fully charged in one turn (such as with a Power Herb ). Endeavor also only strikes once, even if the user or target's HP is changed after it strikes (such as by Iron Barbs or the Sitrus Berry ). Confusion damage only occurs once. Spirit Shackle and Anchor Shot only trap the target after the final strike. Generation VI [ edit | edit source ] The second strike has its damage halved (unless it is a set-damage move ) Generation VII onward [ edit | edit source ] The second strike now deals 25% of its usual damage (unless it is a set-damage move ). Parental Bond does not affect Z-Moves or Max Moves . Outside of battle [ edit | edit source ] Parental Bond has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Parental Bond causes most damaging moves used by the Pokemon to become two-strike moves . It does not affect multistrike moves . If a move could hit multiple targets (including allies), such as Earthquake and Rock Slide , it will not strike twice; however, if it can only hit a single Pokemon, such as in a Single Battle or if using a move that can hit multiple targets when only one target is in range, it will strike twice. If a move could hit multiple Pokemon but only hits one due to missing the other Pokemon, it will only strike once. Since Parental Bond turns moves into two-hit multistrike moves, each strike has a separate chance to be a critical hit , items and Abilities that trigger upon strike or contact such as Cursed Body and Rocky Helmet occur for each strike, and Spiky Shield and King's Shield only damage and decrease Attack (respectively) once if they protect a Pokemon from a contact move used by a Pokemon with Parental Bond. Additionally, there is only one accuracy check, so either both strikes hit or both strikes miss. Any attack which has a secondary effect (except Secret Power ) has the same secondary effect on both strikes (such as Power-Up Punch ); if a secondary effect has a certain chance of occurring, each strike has an independent chance of activating that effect. Even if the Pokemon's Ability is changed to Mummy after the first strike, it will continue to make a second strike regardless. Pay Day scatters coins after the first strike only. Incinerate destroys applicable held items after each strike. Unlike other secondary effects, Secret Power 's secondary effect can only occur after the final strike. If a move has recoil damage, the recoil will be based on the damage dealt by both strikes, but will be taken after the final strike; Struggle will inflict recoil damage equal to half the user's maximum HP (after the final strike). Moves that switch the target out and moves that switch the user out strike twice, then force a Pokemon to switch out after both strikes are conducted. Thief , Covet , Bug Bite , and Pluck do not steal or eat the target's held item until after the final strike, so if the target could use its item after the first strike (e.g. due to low HP), it will use it before the attacker can steal or eat it. Smelling Salts , Wake-Up Slap , and Knock Off do not cure the target's status condition or remove its held item (respectively) until after the final strike, so both strikes get the increased power. Fire-type moves, Scald , and Steam Eruption thaw a frozen target after the final strike (so a frozen target cannot be thawed and then burned by the same move). Smack Down and Thousand Arrows only cause the target to fall to the ground after the final strike. If Meloetta has Parental Bond and uses Relic Song , it will change Forme only once, after the final strike. Burn Up does not remove the user's Fire type until after the second strike (so both strikes receive same-type attack bonus ). If a Pokemon with Parental Bond uses an Electric-type move on a Pokemon with Lightning Rod , or a Water-type move on a Pokemon with Storm Drain , the effect of raising the target's Special Attack will only happen once. If Present heals the target it will only strike once, but if it damages the target it will strike twice (the second strike will always damage the target). Fixed-damage moves (such as Seismic Toss and Dragon Rage ) deal the full amount of damage for both strikes. The damage dealt by Psywave is generated separately for each strike, and the second strike's damage is not halved. Each strike of Super Fang halves the target's HP (effectively quartering it if HP is not changed between strikes). Counter , Mirror Coat , Metal Burst , and Bide deal the full amount of damage for both strikes. The first strike of Assurance counts as previously taking damage for the second strike, giving it increased power. Fury Cutter and Echoed Voice only consider uses of the move rather than hits, so the second strike's power is not boosted by the first strike. Grass Pledge , Fire Pledge , and Water Pledge strike twice, even when used as a combination move. Natural Gift and Spit Up strike twice. Moves that require recharging after use strike twice, but the user only needs to recharge for one turn. One-hit knockout moves , Fling , Self-Destruct , Explosion , Final Gambit , Uproar , Rollout , and Ice Ball only strike once. (Other consecutively executed moves , such as Outrage , can strike twice.) Moves with a charging turn (such as Fly and Solar Beam ) only strike once, even if the Pokemon becomes fully charged in one turn (such as with a Power Herb ). Endeavor also only strikes once, even if the user or target's HP is changed after it strikes (such as by Iron Barbs or the Sitrus Berry ). Confusion damage only occurs once. Spirit Shackle and Anchor Shot only trap the target after the final strike. Generation VI [ edit | edit source ] The second strike has its damage halved (unless it is a set-damage move ) Generation VII onward [ edit | edit source ] The second strike now deals 25% of its usual damage (unless it is a set-damage move ). Parental Bond does not affect Z-Moves or Max Moves .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Lets the bearer hit twice with damaging moves. The second hit has half power.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "Description",
+        "specificity": 0.86
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "Description",
+        "mystery_score": 0.76,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Damages foes on contact KO",
+        "evidence_ref": "Description",
+        "mystery_score": 0.7,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Contact-backlash trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "effect"
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.78,
+        "style": "effect"
+      },
+      {
+        "text": "Prevents major status ailments",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "effect"
+      },
+      {
+        "text": "Ailment-proof trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "contact backlash",
+      "contact punisher",
+      "status immunity"
+    ],
+    "connections_descriptors": [
+      "Contact-punishing abilities",
+      "Status-blocking abilities",
+      "Gen VI abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257990
+}

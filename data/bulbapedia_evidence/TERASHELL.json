@@ -1,0 +1,30 @@
+{
+  "answerKey": "TERASHELL",
+  "answerDisplay": "TERA SHELL",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Tera Shell (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tera_Shell_(Ability)",
+  "pageId": 300828,
+  "pageRevisionId": 4462851,
+  "leadText": "Tera Shell (Japanese: テラスシェル Tera Shell) is an Ability introduced during Generation IX, in The Indigo Disk. It is one of the signature Abilities of Terapagos.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Check for other moves/Abilities that can or cannot copy/replace/suppress this Ability. Usual suspects: Gastro Acid , Worry Seed , Role Play , Entrainment , Doodle , Trace , Receiver / Power of Alchemy , Lingering Aroma / Mummy . If Terapagos has a double resistance to a move, (through Soak and Forest's Curse ), does Tera Shell cause it to become a single resistance, effectively doubling the damage taken? You can discuss this on the talk page. When Terapagos is hit by a damage-dealing move at full HP (that does not have no effect due to type matchups), it will always be not very effective. The whole move is not very effective, even in the case of multistrike moves . It also overrides the effect of Tar Shot . Tera Shell has no effect on moves that deal direct damage , Struggle , or self-inflicted confusion damage, though it does affect typeless Revelation Dance . However, in the case of the former, the message \"It's not very effective...\" is still displayed even though the damage was not actually halved. Outside of battle [ edit | edit source ] Tera Shell has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Check for other moves/Abilities that can or cannot copy/replace/suppress this Ability. Usual suspects: Gastro Acid , Worry Seed , Role Play , Entrainment , Doodle , Trace , Receiver / Power of Alchemy , Lingering Aroma / Mummy . If Terapagos has a double resistance to a move, (through Soak and Forest's Curse ), does Tera Shell cause it to become a single resistance, effectively doubling the damage taken? You can discuss this on the talk page. When Terapagos is hit by a damage-dealing move at full HP (that does not have no effect due to type matchups), it will always be not very effective. The whole move is not very effective, even in the case of multistrike moves . It also overrides the effect of Tar Shot . Tera Shell has no effect on moves that deal direct damage , Struggle , or self-inflicted confusion damage, though it does affect typeless Revelation Dance . However, in the case of the former, the message \"It's not very effective...\" is still displayed even though the damage was not actually halved."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Tera-Shell",
+    "Tera Shell",
+    "Tera-Shell (Ability)"
+  ],
+  "updatedAt": 1773329273
+}

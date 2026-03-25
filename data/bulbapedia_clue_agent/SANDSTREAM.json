@@ -1,0 +1,67 @@
+{
+  "answerKey": "SANDSTREAM",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4259104,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Sand Stream (Japanese: Sand Raising) is an Ability introduced in Generation III. Prior to Generation IV, it was the signature Ability of Tyranitar.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Changes the weather to a sandstorm. B S L MD GtI Unavailable S MD The weather on the floor will be a sandstorm! MD RT DX The weather condition on the floor will be a Sandstorm.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations III-V 1.1.2 Generation VI onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations III-V [ edit | edit source ] Sand Stream summons a sandstorm in battle as soon as a Pokemon with Sand Stream enters the battle. Its effects almost are the same as Sandstorm 's; the only difference is that instead of lasting for five turns, it lasts for the whole battle or until a different weather condition replaces it. If a Pokemon with Sand Stream is sent out in the same turn as another Pokemon whose Ability causes a different weather condition, the slower Pokemon's Ability will override the faster Pokemon's Ability. Generation VI onward [ edit | edit source ] The sandstorm will now last only for five turns. This can be extended to eight turns if the Pokemon is holding a Smooth Rock . If heavy rain , extremely harsh sunlight , or strong winds are present, Sand Stream will fail to activate. Outside of battle [ edit | edit source ] Sand Stream has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Generations III-V [ edit | edit source ] Sand Stream summons a sandstorm in battle as soon as a Pokemon with Sand Stream enters the battle. Its effects almost are the same as Sandstorm 's; the only difference is that instead of lasting for five turns, it lasts for the whole battle or until a different weather condition replaces it. If a Pokemon with Sand Stream is sent out in the same turn as another Pokemon whose Ability causes a different weather condition, the slower Pokemon's Ability will override the faster Pokemon's Ability. Generation VI onward [ edit | edit source ] The sandstorm will now last only for five turns. This can be extended to eight turns if the Pokemon is holding a Smooth Rock . If heavy rain , extremely harsh sunlight , or strong winds are present, Sand Stream will fail to activate.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Summons a sandstorm that lasts indefinitely upon entering battle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Weather abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258006
+}

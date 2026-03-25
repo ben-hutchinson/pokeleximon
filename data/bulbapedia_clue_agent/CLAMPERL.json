@@ -1,0 +1,123 @@
+{
+  "answerKey": "CLAMPERL",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4505509,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Water species from Gen III",
+        "evidence_ref": "lead",
+        "specificity": 0.96
+      },
+      {
+        "text": "white coloring",
+        "evidence_ref": "Biology",
+        "specificity": 0.74
+      },
+      {
+        "text": "64 base Attack",
+        "evidence_ref": "Game data",
+        "specificity": 0.8
+      },
+      {
+        "text": "32 base Speed",
+        "evidence_ref": "Game data",
+        "specificity": 0.78
+      },
+      {
+        "text": "64 Attack and 32 Speed",
+        "evidence_ref": "Game data",
+        "specificity": 0.9
+      },
+      {
+        "text": "Bivalve Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      },
+      {
+        "text": "Gen III Bivalve Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "Blue Bivalve Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "Water1 egg-group species",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "64 Attack, 32 Speed species",
+        "evidence_ref": "Game data",
+        "mystery_score": 0.66,
+        "specificity_score": 0.9,
+        "style": "stats"
+      },
+      {
+        "text": "Gen III Water species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.54,
+        "specificity_score": 0.66,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Bivalve Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.48,
+        "specificity_score": 0.72,
+        "style": "signature"
+      },
+      {
+        "text": "Gen III Bivalve Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.44,
+        "specificity_score": 0.66,
+        "style": "signature"
+      },
+      {
+        "text": "Blue Bivalve Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.64,
+        "style": "signature"
+      },
+      {
+        "text": "Water1 egg-group species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.38,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "White Gen III Water species",
+        "evidence_ref": "Biology",
+        "mystery_score": 0.5,
+        "specificity_score": 0.8,
+        "style": "visual_taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "water species",
+      "bivalve pokemon"
+    ],
+    "connections_descriptors": [
+      "Gen III Water species",
+      "Bivalve Pokemon",
+      "Gen III species"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.82
+  },
+  "updatedAt": 1774257935
+}

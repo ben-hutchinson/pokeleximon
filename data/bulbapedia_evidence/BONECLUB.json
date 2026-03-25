@@ -1,0 +1,38 @@
+{
+  "answerKey": "BONECLUB",
+  "answerDisplay": "BONE CLUB",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Bone Club (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bone_Club_(move)",
+  "pageId": 3734,
+  "pageRevisionId": 4400147,
+  "leadText": "Bone Club (Japanese: ホネこんぼう Bone Club) is a damage-dealing Ground-type move introduced in Generation I. It is one of the signature moves of Cubone and Marowak.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generations I to VII [ edit | edit source ] Bone Club inflicts damage and has a 10% chance of causing the target to flinch . Bone Club cannot cause a target with a substitute to flinch. Bone Club can be used as the first move of a Pokémon Contest combination , causing Bone Rush and Bonemerang to score double the normal appeal if used in the next turn. It can also be used to finish a combination, with the user gaining 2 bonus appeal points if Bone Rush or Bonemerang was used in the previous turn. Generation VIII onwards [ edit | edit source ] Bone Club cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A physical attack using a bone as a club. If it connects, it may cause the target to flinch. G S C An attack that may cause flinching. R S E Clubs the foe with a bone. May cause flinching. FR LG The foe is clubbed with a bone held in hand. It may make the foe flinch. Colo XD Clubs target with a bone. May cause flinching. D P Pt HG SS PBR The user clubs the foe with a bone. It may also make the target flinch. B W B2 W2 The user clubs the target with a bone. It may also make the target flinch. X Y OR AS S M US UM P E The user clubs the target with a bone. This may also make the target flinch. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also cause the target to cringe, making it incapable of action. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Cringe status condition, making its actions fail. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで ひるみじょうたいにして わざや こうげきを だせなくする MD GtI UNUSED S MD MD RT DX It damages an enemy. It could also make the enemy flinch."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Bone Club is the only Ground-type move capable of making the target flinch ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Bone-Club",
+    "Bone Club",
+    "Bone-Club (move)"
+  ],
+  "updatedAt": 1773321292
+}

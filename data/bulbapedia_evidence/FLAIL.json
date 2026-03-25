@@ -1,0 +1,37 @@
+{
+  "answerKey": "FLAIL",
+  "answerDisplay": "FLAIL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Flail (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Flail_(move)",
+  "pageId": 3785,
+  "pageRevisionId": 4491900,
+  "leadText": "Flail (Japanese: じたばた Flail) is a damage-dealing Normal-type move introduced in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Flail inflicts damage and has no additional effect . Its power is based on the user's current HP as a percentage of its maximum HP, which is higher the lower the user's HP is. Power HP% All other generations Generation IV 20 HP ≥ 68.8% HP ≥ 67.2% 40 35.4% ≤ HP 34.4% ≤ HP 80 20.8% ≤ HP 20.3% ≤ HP 100 10.4% ≤ HP 9.4% ≤ HP 150 4.2% ≤ HP 3.1% ≤ HP 200 HP HP Generation II [ edit | edit source ] Flail cannot cause a critical hit , and its damage is not varied by a random factor during damage calculation . Generation III onwards [ edit | edit source ] Flail can now cause a critical hit, and its damage is now varied by a random factor during damage calculation. Flail can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Endure was used in the previous turn. Flail is also part of a Contest Spectacular combination and will give an extra three appeal points if the move Endure was used in the prior turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 An attack that increases in power if the user's HP is low. It could turn the tide in battle. G S C Stronger if the user's HP is low. R S E Colo XD Inflicts more damage when the user's HP is down. FR LG A desperate attack that becomes more powerful the less HP the user has. D P Pt HG SS PBR B W B2 W2 The user flails about aimlessly to attack. It becomes more powerful the less HP the user has. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user flails about aimlessly to attack. The less HP the user has, the greater the move's power."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. The lower the user's HP, the greater the damage. MD T D S Inflicts damage on the target. The lower the user's HP, the greater the damage it inflicts. B S L てきポケモンに ダメージをあたえる じぶんのＨＰが のこりすくないほど あたえるダメージが おおきい MD GtI S MD MD RT DX It damages an enemy. The lower your HP is, the greater the damage it causes. Monopoly: Pokémon Exclusive Kanto Edition Flail avoids the rent charge! (If the space is a location owned by an opponent, he or she must pay you half the amount of that space's rent.)"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as a TCG attack ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Flail",
+    "Flail (move)"
+  ],
+  "updatedAt": 1773322837
+}

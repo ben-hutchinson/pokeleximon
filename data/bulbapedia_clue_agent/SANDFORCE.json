@@ -1,0 +1,76 @@
+{
+  "answerKey": "SANDFORCE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4446866,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Sand Force (Japanese: Sand Force) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD GtI Sandstorm weather makes the Pokemon's Rock-, Ground-, and Steel-type moves stronger. * The Pokemon isn't damaged by the Sandstorm weather condition, and the power of its Rock-, Ground-, and Steel-type moves goes up! * S MD The Pokemon isn't damaged by a sandstorm, and the power of its Rock-, Ground-, and Steel-type moves goes up while the sandstorm is in effect! MD RT DX The Pokemon isn't damaged by the Sandstorm weather condition, and the power of its Rock-, Ground-, and Steel-type moves goes up while a sandstorm is in effect.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] During a sandstorm , Sand Force increases the power of Rock -, Ground -, and Steel-type moves used by the Pokemon with this Ability by 30%. A Pokemon with this Ability will take no damage from the sandstorm if it otherwise would. Outside of battle [ edit | edit source ] Sand Force has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] During a sandstorm , Sand Force increases the power of Rock -, Ground -, and Steel-type moves used by the Pokemon with this Ability by 30%. A Pokemon with this Ability will take no damage from the sandstorm if it otherwise would.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Strengthens rock, ground, and steel moves to 1.3 their power during a sandstorm. Protects against sandstorm damage.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "protective trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "protective trait",
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Protective abilities",
+      "Weather abilities",
+      "Gen V abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258005
+}

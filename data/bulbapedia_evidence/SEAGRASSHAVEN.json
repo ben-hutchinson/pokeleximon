@@ -1,0 +1,30 @@
+{
+  "answerKey": "SEAGRASSHAVEN",
+  "answerDisplay": "SEAGRASS HAVEN",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Seagrass Haven",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Seagrass_Haven",
+  "pageId": 272592,
+  "pageRevisionId": 4428793,
+  "leadText": "Seagrass Haven (Japanese: 海草の楽園 Seagrass Paradise) is an area located in the northern region of the Cobalt Coastlands of Hisui. It rests directly between Firespit Island to the north and Veilstone Cape to the south. It is accessible by water from Lunker's Lair in the southeast.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] Seagrass Haven is an archipelago in the northern waters of the Cobalt Coastlands. Ride Basculegion is needed to traverse the waters here. There are four large islands populated by Pokémon. The islands are mostly barren except for a few trees. The Seaside Hollow is visible on the cliffside of Veilstone Cape from the westernmost island."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] This section is incomplete. Please feel free to edit this section to add missing information and complete it."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Seagrass-Haven",
+    "Seagrass Haven",
+    "Seagrass-Haven (location)"
+  ],
+  "updatedAt": 1773326738
+}

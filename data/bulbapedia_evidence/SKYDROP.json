@@ -1,0 +1,38 @@
+{
+  "answerKey": "SKYDROP",
+  "answerDisplay": "SKY DROP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sky Drop (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sky_Drop_(move)",
+  "pageId": 117499,
+  "pageRevisionId": 4375320,
+  "leadText": "Sky Drop (Japanese: フリーフォール Free Fall) is a damage-dealing Flying-type move introduced in Generation V. It was TM58 from Generation V to Pokémon Ultra Sun and Ultra Moon.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation V 1.2 Generations VI and VII 1.3 Generation VIII onwards 1.4 Glitches Effect [ edit | edit source ] Generation V [ edit | edit source ] On the turn it is selected, Sky Drop brings the target to the air. While in the air, the target cannot act. While in the air, both the user and the target avoid any move targeted at them (except Gust , Thunder , Twister , Sky Uppercut , Hurricane , or Smack Down ). The next turn, the target is thrown down and receives damage. Sky Drop does no damage to Flying-type Pokémon, but it will still pick them up (making them unable to move) on its first turn. Sky Drop can target non-adjacent Pokémon in Triple Battles . Sky Drop can target allies, but will fail when attempting to perform the move on them. The Ability No Guard or a previously used Lock-On or Mind Reader can still allow moves to hit Pokémon that are in the air. Sky Drop will fail if the target is behind a substitute , or if used on a target that is already semi-invulnerable due to moves such as Fly , Bounce , or another Sky Drop. Sky Drop cannot be used while Gravity is in effect. If Gravity is used during the semi-invulnerable turn of Sky Drop, the move will be cancelled. In Generation V only, due to a glitch , if Gravity is used while two Pokémon are in the semi-invulnerable state of Sky Drop, Gravity will bring the user of Sky Drop down, but the target of Sky Drop will be stuck unable to move in the semi-invulnerable state, until the effect of Gravity ends, the user of Sky Drop switches out or is knocked out, or the Pokémon affected by Sky Drop is knocked out. This can only occur in Double and Triple Battles . If a Pokémon locked into a consecutively executed move is brought up with Sky Drop, the Pokémon will discontinue using the move when freed; if the move confuses the user due to fatigue upon completion, that will occur now. Protect and Detect can guard against the initial use of the move, but the affected Pokémon cannot use any moves (including Protect) while in the air. Sky Drop is unaffected by the Power Herb , and will not consume it. Sky Drop is not redirected by the effects of Follow Me or Rage Powder . If a Pokémon that is the center of attention (due to Follow Me or Rage Powder) is taken into the air by Sky Drop, it will no longer draw moves. In a Rotation Battle , if the target Pokémon is rotated out on the second turn of Sky Drop, the Pokémon will be dropped into their new rotated position and take no damage, while the rotated in Pokémon still gets to attack. Generations VI and VII [ edit | edit source ] Targets weighing 440.9 lbs. (200 kg) or more cannot be lifted by Sky Drop, causing the move to fail. Once the target has been lifted, its weight can no longer affect the success of that usage of Sky Drop—even if a lifted target becomes heavier than the threshold, it will not cause Sky Drop to fail. If Gravity is used during the semi-invulnerable turn of Sky Drop, the move will be cancelled and both Pokémon will be brought down. Both the user and the target can now be hit by Thousand Arrows during the semi-invulnerable turn of Sky Drop. While a Pokémon currently being lifted by Sky Drop can freely select any of its moves at the start of the turn, it does not have the option to Mega Evolve or Ultra Burst even if it otherwise would be able to. The Abilities Wimp Out and Emergency Exit will not trigger if the Pokémon is brought below half HP during the semi-invulnerable turn of Sky Drop. Sky Drop can also be used as part of a Contest Spectacular combination with the user gaining an extra three appeal points if any of the moves Entrainment , Hold Hands or Play Nice was used in the prior turn. Generation VIII onwards [ edit | edit source ] Sky Drop cannot be selected in a battle. Glitches [ edit | edit source ] Main article: Sky Drop glitch In Black, White , Black 2, and White 2 , a glitch in Double and Triple Battles can cause a Pokémon to become stuck in the semi-invulnerable state when Sky Drop is used. The glitch is activated when Gravity is used while two Pokémon are in the semi-invulnerable state after the use of Sky Drop. Gravity will bring the user of Sky Drop down while the target will be stuck in the semi-invulnerable state, unable to move until it is knocked out or hit with one of the moves listed above. Because of the glitch, Sky Drop was banned in Generation V Wi-Fi Random Matches starting November 10, 2010 and all subsequent official tournaments. In Pokémon Sun and Moon , a glitch can cause a Pokémon to become stuck in an \"undead\" invulnerable state when Sky Drop is used. The glitch is activated when Sky Drop is used on a Pokémon using Spiky Shield . Spiky Shield will damage the Pokémon using Sky Drop, but the game does not recognize the move. This makes the attacking Pokémon reach 0 HP and completely skip its turn and all moves used against this glitched Pokémon fail."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky. (move) The user hurls the target into the air, then drops it on the second turn. The target cannot attack while in the air. (TM) X Y OR AS S M US UM P E The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Conq. The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky. MD GtI You take the enemy into the sky, then drop it during the next turn. You evade items or moves while you're in the air. S MD You'll get the Sky Drop status condition. You'll lift the enemy into the sky and then drop it during the next turn, causing damage to it. You'll evade items and moves while you're in the air. MD RT DX You'll get the Sky Drop condition. You'll lift the enemy into the sky and then drop the enemy during the next turn, causing damage to them. You'll evade items and moves while you're in the air."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Sky Drop has the lowest power of all moves with a charging turn. Sky Drop is the only move in Generation VI which causes an opponent's Pokémon to become fully immobile while in use. Sky Drop is one of the two moves with a charging turn that cannot be used in Generation VIII onwards, the other being Razor Wind . Sky Drop is the only move to be banned in an in-game tournament or Battle facility , being banned in the Pokémon World Tournament ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sky-Drop",
+    "Sky Drop",
+    "Sky-Drop (move)"
+  ],
+  "updatedAt": 1773327108
+}

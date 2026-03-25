@@ -1,0 +1,30 @@
+{
+  "answerKey": "MAXAIRSTREAM",
+  "answerDisplay": "MAX AIRSTREAM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Max Airstream (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Airstream_(move)",
+  "pageId": 243945,
+  "pageRevisionId": 4452070,
+  "leadText": "Max Airstream (Japanese: ダイジェット Dai Jet) is a damage-dealing Flying-type Max Move introduced in Generation VIII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Max Airstream inflicts damage and raises the user's and its ally's Speed by one stage. Its power and whether it is a special or physical move depends on the move it is based on. Base move Pwr. Cat. Acrobatics 110 Physical Aerial Ace 110 Physical Aeroblast 130 Special Air Cutter 110 Special Air Slash 130 Special Beak Blast 130 Physical Bounce 130 Physical Brave Bird 140 Physical Chatter 120 Special Dragon Ascent 140 Physical Drill Peck 130 Physical Dual Wingbeat 130 Physical Fly 130 Physical Gust 90 Special Hurricane 140 Special Oblivion Wing 130 Special Peck 90 Physical Pluck 110 Physical Sky Attack 140 Physical Wing Attack 110 Physical Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Max Airstream cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA This is a Flying-type attack Dynamax Pokémon use. This raises ally Pokémon's Speed stats. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. S V This is a Flying-type attack Dynamax Pokémon use. This boosts ally Pokémon's Speed stats."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Max-Airstream",
+    "Max Airstream",
+    "Max-Airstream (move)"
+  ],
+  "updatedAt": 1773324808
+}

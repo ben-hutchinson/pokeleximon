@@ -1,0 +1,37 @@
+{
+  "answerKey": "MINIMIZE",
+  "answerDisplay": "MINIMIZE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Minimize (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Minimize_(move)",
+  "pageId": 3716,
+  "pageRevisionId": 4406396,
+  "leadText": "Minimize (Japanese: ちいさくなる Shrink) is a non-damaging Normal-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations I and II 1.2 Generation III onwards 1.3 Vulnerability to moves Effect [ edit | edit source ] Minimize raises the user's evasion stat. Gen I Gen II Gen III Gen IV Gen V Gen VI onwards PP 20 10 Evasion raised 1 stage 2 stages Minimized Pokémon replaced by a tiny generic image ✔ ✘ Minimized Pokémon vulnerable to certain moves ✘ ✔ 2× damage 2× power 2× damage Boosted moves bypass accuracy and evasion — ✘ ✔ Generations I and II [ edit | edit source ] A minimized Pokémon in Generations I and II In Generations I and II, the user's sprite is replaced by a tiny, generic image if this move raises the user's evasion successfully. In Generation I only, it is only replaced by the tiny generic image if the battle animations are active. If a Pokémon uses Transform on a minimized target, the user copies the target's regular sprite (rather than the tiny sprite). Similarly, if a minimized Pokémon uses Transform, its own tiny sprite is replaced by the target's regular sprite. If a Pokémon's sprite has disappeared because it used Acid Armor , using Minimize will make it visible again as the tiny generic image. Generation III onwards [ edit | edit source ] If a Pokémon undergoes Dynamax after using Minimize, then boosted moves will not bypass accuracy and evasion. If powered up by a Normalium Z into Z-Minimize, all of the user's lowered stats are reset. Vulnerability to moves [ edit | edit source ] Specific moves will hit with double power (Generation IV) or have their damage doubled (Generations II, III, and V onward) against targets that have used Minimize at least once. Additionally, from Generation VI onward, these moves also bypass accuracy and evasion checks in this case. If a Pokémon undergoes Dynamax after using Minimize, these moves will revert to dealing their usual damage. This effect cannot be passed with Baton Pass . Move Type Category Generations II III IV V VI VII VIII IX Body Slam Normal Physical ✘ ✘ ✘ ✘ ✔ ✔ ✔ ✔ Stomp Normal Physical ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ Astonish Ghost Physical ✔ ✘ ✘ ✘ ✘ ✘ ✘ Extrasensory Psychic Special ✔ ✘ ✘ ✘ ✘ ✘ ✘ Needle Arm Grass Physical ✔ ✘ ✘ ✘ ✘ Dragon Rush Dragon Physical ✘ ✘ ✔ ✔ ✔ ✔ Shadow Force Ghost Physical ✘ ✘ ✔ ✘ ✘ ✘ Steamroller Bug Physical ✔ ✔ ✔ Heat Crash Fire Physical ✘ ✔ ✔ ✔ ✔ Heavy Slam Steel Physical ✘ ✘ ✔ ✔ ✔ Phantom Force Ghost Physical ✔ ✘ ✘ ✘ Flying Press Fighting Physical ✔ ✔ ✔ ✔ Malicious Moonsault Dark Physical ✔ Double Iron Bash Steel Physical ✔ ✘ Supercell Slam Electric Physical ✔"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 Reduces the user's size and makes it harder to hit. Can normally be used up to six times. G S C Heightens evasiveness. R S E Colo XD Minimizes the user's size to raise evasiveness. FR LG The user compresses all the cells in its body to raise its evasiveness. D P Pt HG SS PBR The user compresses its body to make itself look smaller. The user's evasion stat is boosted. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user compresses its body to make itself look smaller, which sharply raises its evasiveness. S V The user compresses its body to make itself look smaller, which sharply boosts its evasiveness."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts the user's Evasion by one level. MD T D S Boosts the user's evasiveness by 1 level. B S L じぶんの かいひを １だんかいあげる MD GtI It sharply boosts your evasiveness. (The stat change returns to normal when you go to the next floor or step on a Wonder Tile.) S MD It sharply boosts your evasiveness. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation I games, if the player used Minimize , then looked at the stats of a Pokémon in their party and then exited the menu, the opponent's Pokémon sprite would change to a glitchy version of the Pokémon that was just viewed. Minimize is one of three moves that have been used in a completed series of the animated series , but not been seen in the English dub . The other two are Conversion and Ion Deluge ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Minimize",
+    "Minimize (move)"
+  ],
+  "updatedAt": 1773325071
+}

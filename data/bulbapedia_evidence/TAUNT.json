@@ -1,0 +1,33 @@
+{
+  "answerKey": "TAUNT",
+  "answerDisplay": "TAUNT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Taunt (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Taunt_(move)",
+  "pageId": 3880,
+  "pageRevisionId": 4500988,
+  "leadText": "Taunt (Japanese: ちょうはつ Taunt) is a non-damaging Dark-type move introduced in Generation III. It is: TM12 from Generation III to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TM02 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR37 in Pokémon Sword and Shield. TM087 in Pokémon Scarlet and Violet. TM095 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III 1.2 Generation IV 1.3 Generation V 1.4 Generation VI onwards 1.5 Generation IX 1.5.1 Pokémon Legends: Z-A 1.6 Other effects Effect [ edit | edit source ] Taunt makes the afflicted Pokémon unable to use status moves . The effect wears off if the subject is switched out. Unlike most status moves, Taunt will affect a target with a substitute . If a Pokémon that only knows status moves is taunted, or is taunted after using a status move and holding a Choice item , then it will be forced to use Struggle . On the turn that Taunt is used, if the Pokémon using Taunt goes before the target and the target selected a status move that turn, the target's move will fail. Generation III [ edit | edit source ] The duration of Taunt is two turns. Taunt cannot be copied by Mirror Move . Taunt can be used as the first move of a Pokémon Contest combination , causing Counter , Detect , and Mirror Coat to score double the normal appeal if used in the next turn. Generation IV [ edit | edit source ] The duration of Taunt is now between three and five turns. Taunt can now be copied by Mirror Move . Generation V [ edit | edit source ] The duration of Taunt is now three turns if the user acts before the target, or four turns if the target acted before the user. Taunt can now be reflected with Magic Coat and no longer affects Me First . Generation VI onwards [ edit | edit source ] Pokémon with Oblivious or under the effect of Aroma Veil cannot become taunted. Taunt can also be used as part of a Contest Spectacular combination , causing certain moves ( Counter , Destiny Bond , Grudge , King's Shield , Metal Burst , Mirror Coat , and Spite ) to give an extra three appeal points if used in the next turn. Taunt will not prevent the target from using a status Z-Move , but will prevent a Dynamax target from using Max Guard . If powered up by a Darkinium Z into Z-Taunt, the user's Attack rises one stage. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 12s Move wind-up time 10 frames Effect duration —s Additional effect — — — None Other effects [ edit | edit source ] Clobbopus that know this move will evolve into Grapploct when leveled up."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Taunts the foe into only using attack moves. (move) Enrages the foe so it can only use attack moves. (TM) FR LG The foe is taunted into a rage that allows it to use only attack moves. Colo XD Taunts the target into only using attack moves. (move) Enrages the target so it can only use attack moves. (TM) D P Pt HG SS PBR The foe is taunted into a rage that allows it to use only attack moves for two to four turns. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The target is taunted into a rage that allows it to use only attack moves for three turns. ZA The user taunts targets, sending them into a rage that will allow them to use only damage-dealing moves for a short time."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts the Taunted status on the targeted Pokémon. MD T D S Afflicts the targeted enemy with a Taunted status condition, which restricts a Pokémon to using only moves that inflict damage. B S L てきポケモンを ちょうはつじょうたいにかえる ちょうはつされた ポケモンは ダメージを あたえるわざしか だせなくなる MD GtI It causes the Taunted status condition to an enemy. The taunted Pokémon can't use status moves. (The Pokémon can use attack moves.) S MD It makes an enemy taunted. The taunted Pokémon can't use status moves. The Pokémon can use attack moves, however."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Taunt",
+    "Taunt (move)"
+  ],
+  "updatedAt": 1773327833
+}

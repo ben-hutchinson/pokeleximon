@@ -1,0 +1,34 @@
+{
+  "answerKey": "ROCKPOLISH",
+  "answerDisplay": "ROCK POLISH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Rock Polish (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rock_Polish_(move)",
+  "pageId": 17513,
+  "pageRevisionId": 4403307,
+  "leadText": "Rock Polish (Japanese: ロックカット Rock Cut) is a non-damaging Rock-type move introduced in Generation IV. It was TM69 from Generation IV to Pokémon Ultra Sun and Ultra Moon as well as in Pokémon Brilliant Diamond and Shining Pearl.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Rock Polish raises the user's Speed stat by two stages. Rock Polish is a part of Contest Spectacular combination and using it will cause Baton Pass and Electro Ball to give an extra three appeal points if used in the next turn. If powered up by a Rockium Z into Z-Rock Polish, all of the user's lowered stats are reset."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 The user polishes its body to reduce drag. It can sharply raise the Speed stat. (move) The user polishes its body to reduce drag. It sharply raises the Speed stat. (TM) PBR The user polishes its body to reduce drag. It can sharply raise the Speed stat. X Y OR AS S M US UM P E The user polishes its body to reduce drag. This can sharply raise the Speed stat. Sw Sh BD SP LA The user polishes its body to reduce drag. This sharply raises the Speed stat. S V The user polishes its body to reduce drag. This sharply boosts the user's Speed stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the user's Movement Speed by 2 levels. B S L じぶんの いどうそくどを ２だんかいあげる MD GtI It sharply boosts your Travel Speed! S MD MD RT DX It boosts your Travel Speed sharply!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Rock-Polish",
+    "Rock Polish",
+    "Rock-Polish (move)"
+  ],
+  "updatedAt": 1773326467
+}

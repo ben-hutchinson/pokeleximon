@@ -1,0 +1,77 @@
+{
+  "answerKey": "FLUFFY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4512575,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Fluffy (Japanese: Fluffy) is an Ability introduced in Generation VII. Prior to Generation VIII, it was the signature Ability of Stufful and Bewear, and in Generation IX, it is the signature Ability of Greavard and Houndstone.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] A Pokemon with Fluffy takes half damage from moves that make contact . It also takes double damage from Fire-type moves. Fire-type moves that make contact will deal regular damage. Moves affected by Long Reach which make contact will deal regular damage. Outside of battle [ edit | edit source ] Fluffy has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] A Pokemon with Fluffy takes half damage from moves that make contact . It also takes double damage from Fire-type moves. Fire-type moves that make contact will deal regular damage. Moves affected by Long Reach which make contact will deal regular damage.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Damage from contact moves is halved. Damage from Fire moves is doubled.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "lead",
+        "specificity": 0.86
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "lead",
+        "mystery_score": 0.76,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Damages foes on contact KO",
+        "evidence_ref": "lead",
+        "mystery_score": 0.7,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Contact-backlash trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "contact backlash",
+      "contact punisher"
+    ],
+    "connections_descriptors": [
+      "Contact-punishing abilities",
+      "Gen VII abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257947
+}

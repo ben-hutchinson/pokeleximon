@@ -1,0 +1,30 @@
+{
+  "answerKey": "FABLEDSPRING",
+  "answerDisplay": "FABLED SPRING",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Fabled Spring",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fabled_Spring",
+  "pageId": 272627,
+  "pageRevisionId": 4410282,
+  "leadText": "Fabled Spring (Japanese: フェアリーの泉 Fairy Spring) is an area located in the southwestern region of the Coronet Highlands of Hisui. It lies south of Bolderoll Ravine and west of Wayward Wood. At night, Clefairy gather near the flower patches.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] The Fabled Spring is split into two forested sections, each on either side of a river basin. Patches of purple flowers are strewn throughout the spring."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] This section is incomplete. Please feel free to edit this section to add missing information and complete it. Item Location Games Old Verse 18 To the west of the spring, in a secluded area at the base of the mountain ( hidden , requires Ursaluna ) LA"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fabled-Spring",
+    "Fabled Spring",
+    "Fabled-Spring (location)"
+  ],
+  "updatedAt": 1773328863
+}

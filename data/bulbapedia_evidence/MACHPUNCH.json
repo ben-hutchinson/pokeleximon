@@ -1,0 +1,38 @@
+{
+  "answerKey": "MACHPUNCH",
+  "answerDisplay": "MACH PUNCH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Mach Punch (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mach_Punch_(move)",
+  "pageId": 3793,
+  "pageRevisionId": 4463252,
+  "leadText": "Mach Punch (Japanese: マッハパンチ Mach Punch) is a damage-dealing Fighting-type move introduced in Generation II. Prior to Generation III, it was the signature move of Hitmonchan, but Tyrogue could still inherit it via breeding.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Mach Punch inflicts damage. It has a priority of +1, so it is used before all moves that do not have increased priority. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Physical PP 20 Agile Strong Power 40 30 50 Accuracy 100% 100% 100% Action speed modifier Self -4 -4 +2 Target 0 +3 0 Additional effect ? ? ? ? ? ? Raises the user's action speed Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 30 36 Cooldown 3s Move wind-up time 0 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 An incredibly fast punch that always lands first. G S C A fast punch that lands first. R S E Colo XD A punch is thrown at wicked speed to strike first. FR LG A punch thrown at blinding speed. It is certain to strike first. D P Pt HG SS PBR B W B2 W2 The user throws a punch at blinding speed. It is certain to strike first. X Y OR AS S M US UM P E Sw Sh BD SP S V The user throws a punch at blinding speed. This move always goes first. LA The user throws a punch at blinding speed. This also raises the user's action speed. ZA The user attacks by throwing a punch with blinding speed."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on a target up to two tiles ahead. MD T D S Inflicts damage on a target up to 2 tiles away. B S L てきポケモンに ダメージをあたえる ２マスまで とどく MD GtI UNUSED S MD MD RT DX It damages an enemy. It reaches up to 2 tiles away."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as a TCG attack ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mach-Punch",
+    "Mach Punch",
+    "Mach-Punch (move)"
+  ],
+  "updatedAt": 1773324621
+}

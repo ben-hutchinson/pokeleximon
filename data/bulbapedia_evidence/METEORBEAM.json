@@ -1,0 +1,34 @@
+{
+  "answerKey": "METEORBEAM",
+  "answerDisplay": "METEOR BEAM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Meteor Beam (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Meteor_Beam_(move)",
+  "pageId": 252906,
+  "pageRevisionId": 4472030,
+  "leadText": "Meteor Beam (Japanese: メテオビーム Meteor Beam) is a damage-dealing Rock-type move introduced during Generation VIII, in The Isle of Armor. It is TM220 in Pokémon Scarlet and Violet and TM156 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] On the turn it is selected, Meteor Beam will raise the user's Special Attack by one stage, and the message \"[User] is overflowing with space power!\" will be shown. On the following turn, Meteor Beam will do damage (factoring in the Special Attack boost), PP will be deducted from it, and it will count as the last move used. Once Meteor Beam is selected, the user won't be able to switch out until it is disrupted or fully executed. Sleep , freezing , binding , and flinching will pause but not disrupt the duration of Meteor Beam. If a Power Herb is held by the user, Meteor Beam can be executed in one turn. The user will charge and boost their Special Attack, consume the Power Herb, then execute the final stage of the move in the same turn. The Special Attack boost is applied because the charging stage is still performed. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Meteor Beam cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA In this two-turn attack, the user gathers space power and boosts its Sp. Atk stat, then attacks the target on the next turn. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user gathers energy from space and boosts its Sp. Atk stat on the first turn, then attacks on the next turn. ZA The user attacks with energy gathered from space. This boosts the user's Sp. Atk stat for a while. This move takes some time to carry out."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Meteor Beam is learned by most extraterrestrial Pokémon and all Fossil Pokémon that are obtainable in Pokémon Sword and Shield ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Meteor-Beam",
+    "Meteor Beam",
+    "Meteor-Beam (move)"
+  ],
+  "updatedAt": 1773324988
+}

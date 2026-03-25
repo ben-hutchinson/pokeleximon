@@ -1,0 +1,123 @@
+{
+  "answerKey": "SHELMET",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4505152,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Bug species from Gen V",
+        "evidence_ref": "lead",
+        "specificity": 0.96
+      },
+      {
+        "text": "gray coloring",
+        "evidence_ref": "Biology",
+        "specificity": 0.74
+      },
+      {
+        "text": "40 base Attack",
+        "evidence_ref": "Game data",
+        "specificity": 0.8
+      },
+      {
+        "text": "25 base Speed",
+        "evidence_ref": "Game data",
+        "specificity": 0.78
+      },
+      {
+        "text": "40 Attack and 25 Speed",
+        "evidence_ref": "Game data",
+        "specificity": 0.9
+      },
+      {
+        "text": "Snail Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      },
+      {
+        "text": "Gen V Snail Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "Red Snail Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "Bug egg-group species",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "40 Attack, 25 Speed species",
+        "evidence_ref": "Game data",
+        "mystery_score": 0.66,
+        "specificity_score": 0.9,
+        "style": "stats"
+      },
+      {
+        "text": "Gen V Bug species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.54,
+        "specificity_score": 0.66,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Snail Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.48,
+        "specificity_score": 0.72,
+        "style": "signature"
+      },
+      {
+        "text": "Gen V Snail Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.44,
+        "specificity_score": 0.66,
+        "style": "signature"
+      },
+      {
+        "text": "Red Snail Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.64,
+        "style": "signature"
+      },
+      {
+        "text": "Bug egg-group species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.38,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gray Gen V Bug species",
+        "evidence_ref": "Biology",
+        "mystery_score": 0.5,
+        "specificity_score": 0.8,
+        "style": "visual_taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "bug species",
+      "snail pokemon"
+    ],
+    "connections_descriptors": [
+      "Gen V Bug species",
+      "Snail Pokemon",
+      "Gen V species"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.82
+  },
+  "updatedAt": 1774258011
+}

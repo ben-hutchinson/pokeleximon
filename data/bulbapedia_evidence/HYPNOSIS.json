@@ -1,0 +1,37 @@
+{
+  "answerKey": "HYPNOSIS",
+  "answerDisplay": "HYPNOSIS",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Hypnosis (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Hypnosis_(move)",
+  "pageId": 3704,
+  "pageRevisionId": 4503793,
+  "leadText": "Hypnosis (Japanese: さいみんじゅつ Hypnotism) is a non-damaging Psychic-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generation III 1.4 Generation IV onward 1.5 Generation VIII 1.5.1 Pokémon Legends: Arceus 1.6 Generation IX 1.6.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I [ edit | edit source ] Hypnosis puts the target to sleep . In the Generation I handheld games only, Hypnosis can affect a target behind a substitute . Hypnosis has an accuracy of 60%. Generation II [ edit | edit source ] In the Generation II core series games, when an in-game opponent outside of the Battle Tower uses Hypnosis, the move has a 25% chance to fail in addition to its normal chance to miss. Generation III [ edit | edit source ] Hypnosis has no effect on Pokémon with the Ability Insomnia or Vital Spirit . Hypnosis can be used as the first move of a Pokémon Contest combination , causing Dream Eater and Nightmare to score double the normal appeal if used in the next turn. Generation IV onward [ edit | edit source ] In Diamond and Pearl and Pokémon Battle Revolution , Hypnosis's accuracy was changed to 70%. In Platinum , it was changed back to 60%. In link battles between Diamond and Pearl vs Platinum, HeartGold and SoulSilver, Hypnosis's accuracy is set to 60% regardless of who chose to become leader. Hypnosis can also be used as part of a Contest Spectacular combination , causing certain moves ( Dream Eater , Hex , Nightmare and Wake-Up Slap ) to give an extra three appeal points if used in the next turn. If powered up by a Psychium Z into Z-Hypnosis, the user's Speed stat is raised by one stage. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Hypnosis has an accuracy of 70%. It inflicts drowsiness on the target, lasting five turns. Pokémon Legends: Arceus Category Status PP 20 Agile Strong Power — — — Accuracy 70% 70% 90% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Turns 5 3 7 ? ? ? ? Inflicts the target with drowsiness Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 10s Move wind-up time 20 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A special Psychic -type move. The target is hypnotized into a deep sleep. G S C May put the foe to sleep. R S E Colo XD A hypnotizing move that may induce sleep. FR LG Hypnotic suggestion is used to make the foe fall into a deep sleep. D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP The user employs hypnotic suggestion to make the target fall into a deep sleep. LA The user employs hypnotic suggestion to make the target drowsy. S V The user employs hypnotic suggestion to make the target fall asleep. ZA The user employs hypnotic suggestion to make targets drowsy."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Makes the target go to sleep, causing it to be incapable of action. MD T D S Afflicts the targeted enemy with a Sleep status condition. A Pokémon with the Sleep status is incapable of action. B S L てきポケモンを すいみんじょうたいにかえる すいみんじょうたいの ポケモンは こうどうできない Conq. The user employs hypnotic suggestion to make the target fall into a deep sleep. MD GtI It causes the Sleep status condition to an enemy. With the Sleep status, the enemy can't do anything. S MD It makes an enemy go to sleep. It makes the enemy terrified if the enemy's sleeping. But if you're attacked by this move while you're sleeping, you'll become the enemy's puppet."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Hypnosis is the only 60 accuracy move, not counting Shadow Panic and Shadow End . Hypnosis is the only move whose accuracy changed between games of the same generation, excluding changes in Pokémon Legends: Arceus ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Hypnosis",
+    "Hypnosis (move)"
+  ],
+  "updatedAt": 1773323769
+}

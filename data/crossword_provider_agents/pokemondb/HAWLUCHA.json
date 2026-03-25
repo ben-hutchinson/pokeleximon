@@ -1,0 +1,17 @@
+{
+  "answerKey": "HAWLUCHA",
+  "answerDisplay": "HAWLUCHA",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Fighting / Flying type Pokémon introduced in Generation 6.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/hawlucha",
+  "extract": "Hawlucha is a Fighting / Flying type Pokémon introduced in Generation 6 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211554
+}

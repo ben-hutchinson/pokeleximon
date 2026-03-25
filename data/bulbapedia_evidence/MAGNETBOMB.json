@@ -1,0 +1,34 @@
+{
+  "answerKey": "MAGNETBOMB",
+  "answerDisplay": "MAGNET BOMB",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Magnet Bomb (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Magnet_Bomb_(move)",
+  "pageId": 18894,
+  "pageRevisionId": 4462250,
+  "leadText": "Magnet Bomb (Japanese: マグネットボム Magnet Bomb) is a damage-dealing Steel-type move introduced in Generation IV. It is TM126 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV to VII 1.2 Generation VIII 1.3 Generation IX 1.3.1 Pokémon Scarlet and Violet 1.3.2 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation IV to VII [ edit | edit source ] Magnet Bomb inflicts damage and bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . Magnet Bomb does not affect targets with Bulletproof . Generation VIII [ edit | edit source ] Magnet Bomb cannot be selected in a battle. Generation IX [ edit | edit source ] Pokémon Scarlet and Violet [ edit | edit source ] Magnet Bomb cannot be selected in a battle. Pokémon Legends: Z-A [ edit | edit source ] Starting from the Mega Dimension DLC, Magnet Bomb is selectable again. Magnet Bomb's power has been increased from 60 to 95. Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 95 114 Cooldown 8s Move wind-up time 20 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user launches a steel bomb that sticks to the target. This attack will not miss. B W B2 W2 The user launches steel bombs that stick to the target. This attack will not miss. X Y OR AS S M US UM P E The user launches steel bombs that stick to the target. This attack never misses. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. ZA The user attacks by launching steel bombs that stick to targets."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. It never misses. B S L てきポケモンに ダメージをあたえる かならず めいちゅうする MD GtI UNUSED S MD MD RT DX It damages an enemy. It never misses."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Magnet-Bomb",
+    "Magnet Bomb",
+    "Magnet-Bomb (move)"
+  ],
+  "updatedAt": 1773324677
+}

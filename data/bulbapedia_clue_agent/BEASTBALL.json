@@ -1,0 +1,96 @@
+{
+  "answerKey": "BEASTBALL",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4500562,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VII item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "special balls",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen VII special balls",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Tries to catch a wild Pokemon. Success rate is 5 for Ultra Beasts and 0.1 for all other Pokemon.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Special Poke Ball",
+        "evidence_ref": "lead",
+        "specificity": 0.68
+      },
+      {
+        "text": "Works best on Ultra Beasts",
+        "evidence_ref": "Description",
+        "specificity": 0.9
+      },
+      {
+        "text": "Poor catch rate on most targets",
+        "evidence_ref": "Description",
+        "specificity": 0.82
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Special Poke Ball",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.68,
+        "style": "family"
+      },
+      {
+        "text": "Special capture ball",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.66,
+        "style": "family"
+      },
+      {
+        "text": "Best used on Ultra Beasts",
+        "evidence_ref": "Description",
+        "mystery_score": 0.8,
+        "specificity_score": 0.9,
+        "style": "target"
+      },
+      {
+        "text": "Ultra Beast capture ball",
+        "evidence_ref": "Description",
+        "mystery_score": 0.76,
+        "specificity_score": 0.9,
+        "style": "target"
+      },
+      {
+        "text": "Poor on most other targets",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "restriction"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "special ball",
+      "Ultra Beast ball"
+    ],
+    "connections_descriptors": [
+      "Special Poke Balls",
+      "Gen VII items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257929
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "HORNDRILL",
+  "answerDisplay": "HORN DRILL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Horn Drill (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Horn_Drill_(move)",
+  "pageId": 3640,
+  "pageRevisionId": 4483930,
+  "leadText": "Horn Drill (Japanese: つのドリル Horn Drill) is a Normal-type one-hit knockout move introduced in Generation I. It was TM07 in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generation III onwards Effect [ edit | edit source ] Generation I [ edit | edit source ] Horn Drill always inflicts exactly 65535 HP damage if it hits. Its accuracy is 30%. Horn Drill will break a substitute if it hits. Unlike other moves that skip the damage formula, Horn Drill does not bypass type immunities. Horn Drill will not affect a target whose current Speed stat is greater than the user's current Speed stat. Generation II [ edit | edit source ] Horn Drill inflicts damage equal to the target's current HP. The accuracy of Horn Drill is now calculated using the following formula: A c c u r a c y = ( ( L e v e l u s e r − L e v e l t a r g e t ) × 2 + 7 6 2 5 6 ) × 1 0 0 % If the user is a lower level than the target, the move always fails (Speed no longer has any impact on the success of Horn Drill). If the user is 90 levels or more higher than the target, Horn Drill's accuracy is 100% (even though the formula would produce values over 100% for a difference of 91 or more). This formula means that the accuracy starts at approximately 30% ( 7 6 2 5 6 ) when the Pokémon have the same level, and grows by approximately 0.78% ( 2 2 5 6 ) for every level higher than the target that the user is. This accuracy is affected by accuracy and evasion stats. In the Generation II core series games only, Horn Drill can be countered by Counter for maximum damage if it misses. In Pokémon Stadium 2 , Horn Drill cannot be countered by Counter. Generation III onwards [ edit | edit source ] Despite having an accuracy of 30% listed, Horn Drill's chance of hitting a Pokémon is instead calculated using the following formula: H i t C h a n c e = ( L e v e l u s e r − L e v e l t a r g e t + 3 0 ) % This formula means that the accuracy starts at 30% when the Pokémon have the same level, and is 1% more likely to hit for every level the user is higher than the target. If the user is at least 70 levels higher than the target, Horn Drill will always hit. If the user is a lower level than the target, the move always fails. This chance of hitting is not an accuracy: it is not affected by accuracy and evasion stats, nor is it affected by other accuracy modifiers such as Gravity , Wide Lens , and Compound Eyes . Additionally, Horn Drill cannot hit a semi-invulnerable Pokémon. However, effects that guarantee moves to hit (such as No Guard and Lock-On ) still affect Horn Drill if the user's level isn't lower than the target's. Horn Drill can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Horn Attack was used in the previous turn. It is also part of a Contest Spectacular combination and will give an extra three appeal points if any of the moves Lock-On , Mind Reader and Miracle Eye was used in the prior turn. When used in a Max Raid Battle against a Dynamax Pokémon while it is under the effect of a mysterious barrier, Horn Drill will deplete two bars of the barrier's strength. Otherwise, Horn Drill will always fail against Dynamax Pokémon. Tera Raid bosses are unaffected by Horn Drill."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A single-hit knockout attack. Learned only by Pok é mon with a horn or horns. G S C A one-hit KO, drill attack. R S E Colo XD A one-hit KO attack that uses a horn like a drill. FR LG The horn is rotated like a drill to ram. The foe will faint if it hits. D P Pt HG SS PBR The foe is stabbed with a horn rotating like a drill. The foe instantly faints if it hits. B W B2 W2 The user stabs the target with a horn that rotates like a drill. If it hits, the target faints instantly. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user stabs the target with a horn that rotates like a drill. The target faints instantly if this attack hits."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Defeats the target in one shot--if it hits. It has no effect on a Ghost-type foe. MD T D S Defeats the target in one shot if it hits successfully. It has no effect on a a Ghost-type enemy. B S L てきポケモンを いちげきで たおしてしまうが めいちゅうしにくい ゴーストタイプの ポケモンには こうかがない MD GtI S MD MD RT DX The enemy will faint if this attack hits, but it's hard to land this move. It has no effect on Ghost-type Pokémon."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Despite the implied need for a horn or horn-like apparatus to use this move, at least two Pokémon that don't have a horn but gain one upon Evolution ( Nidorina and Kantonian Ponyta ) can learn Horn Drill. Tyrunt and Tyrantrum do not have a horn, yet can still learn the move."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Horn-Drill",
+    "Horn Drill",
+    "Horn-Drill (move)"
+  ],
+  "updatedAt": 1773323698
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "EARTHPOWER",
+  "answerDisplay": "EARTH POWER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Earth Power (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Earth_Power_(move)",
+  "pageId": 17466,
+  "pageRevisionId": 4500947,
+  "leadText": "Earth Power (Japanese: だいちのちから Earth Power) is a damage-dealing Ground-type move introduced in Generation IV. It is: TR67 in Pokémon Sword and Shield. TM133 in Pokémon Scarlet and Violet. TM052 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Earth Power inflicts damage, and has a 10% chance of lowering the target's Special Defense stat by one stage. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Earth Power's base power has been lowered to 80. It also has a 20% chance of lowering the target's defensive stats for three turns. Pokémon Legends: Arceus Category Special PP 10 Agile Strong Power 80 60 100 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 20% 20% 40% Turns 3 2 4 ? ? May lower the target's defensive stats Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Earth Power generates an explosion from the ground under the target, and can strike other targets close enough to the primary one. As Earth Power generates its attack from the ground, a target too high above it will not take damage. Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 90 108 Cooldown 8s Move wind-up time 35 frames Effect duration —s Additional effect Chance 10% Duration 15s 18s — May lower the target's Special Defense."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def. B W B2 W2 The user makes the ground under the target erupt with power. It may also lower the target's Sp. Def. X Y OR AS The user makes the ground under the target erupt with power. This may also lower the target's Sp. Def. S M US UM P E Sw Sh BD SP S V The user makes the ground under the target erupt with power. This may also lower the target's Sp. Def stat. LA The user makes the ground under the target erupt with power. This may also lower the target's defensive stats. ZA The user attacks by making the ground under targets erupt with power. This may also lower targets' Sp. Def stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on all enemies in the room with the user. It may also reduce their Special Defense by 1 level. B S L おなじへやの てきポケモンに ダメージをあたえる しかも いっていのかくりつで とくぼうを １だんかいさげる Conq. The user makes the ground under the target erupt with power. It may also lower the target's Defense. MD GtI It damages enemies in the same room. It could also lower their Special Defense. S MD MD RT DX It damages enemies in the same room. It could also lower their Sp. Def."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Earth Power is the only Move Tutor move whose Pokémon compatibility changed between games of the same generation, as Sunkern and Sunflora are able to learn Earth Power in Pokémon HeartGold and SoulSilver , but not Pokémon Platinum ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Earth-Power",
+    "Earth Power",
+    "Earth-Power (move)"
+  ],
+  "updatedAt": 1773322451
+}

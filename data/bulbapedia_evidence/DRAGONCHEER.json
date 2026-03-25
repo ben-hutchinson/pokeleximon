@@ -1,0 +1,34 @@
+{
+  "answerKey": "DRAGONCHEER",
+  "answerDisplay": "DRAGON CHEER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Dragon Cheer (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Cheer_(move)",
+  "pageId": 300824,
+  "pageRevisionId": 4415787,
+  "leadText": "Dragon Cheer (Japanese: ドラゴンエール Dragon Yell) is a non-damaging Dragon-type move introduced during Generation IX, in The Indigo Disk. It is TM226 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Dragon Cheer increases the user's allies' critical-hit ratio by one stage. If the affected Pokémon are Dragon-type , their critical-hit ratio is increased by two stages instead. The effects of Dragon Cheer can be copied by Psych Up , Transform , Costar , Opportunist , and a Mirror Herb . Dragon Cheer's effects apply based on the allies' type upon use of the move, and do not change if the allies' type changes later in battle. Prior to version 3.0.1, the effect of Dragon Cheer would remain even if switched in. The move will fail if there is no adjacent ally, or if the ally is already under the effects of Focus Energy or Dragon Cheer. Other effects [ edit | edit source ] A Dipplin that knows this move will evolve into Hydrapple when leveled up."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user raises its allies’ morale with a draconic cry so that their future attacks have a heightened chance of landing critical hits. This rouses Dragon types more."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Dragon Cheer was temporarily banned in official tournaments, due to the bug in Scarlet and Violet 3.0.0 that caused the boost to remain on switching out. The ban was lifted on the release of 3.0.1. [ 1 ] Despite its name and description, Dragon Cheer is not a sound-based move . ↑ https://x.com/playpokemon/status/1752860378877596077"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Dragon-Cheer",
+    "Dragon Cheer",
+    "Dragon-Cheer (move)"
+  ],
+  "updatedAt": 1773322264
+}

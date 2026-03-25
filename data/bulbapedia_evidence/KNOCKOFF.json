@@ -1,0 +1,38 @@
+{
+  "answerKey": "KNOCKOFF",
+  "answerDisplay": "KNOCK OFF",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Knock Off (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Knock_Off_(move)",
+  "pageId": 3893,
+  "pageRevisionId": 4500985,
+  "leadText": "Knock Off (Japanese: はたきおとす Knock Off) is a damage-dealing Dark-type move introduced in Generation III. It is TM181 in Pokémon Scarlet and Violet and TM045 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations III and IV 1.2 Generation V 1.3 Generation VI onwards 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Knock Off inflicts damage and knocks off the target's held item if it has one. If an Exp. Share or Lucky Egg was knocked off, the Pokémon will still gain experience accordingly. If an Amulet Coin was knocked off, the Pokémon will still gain prize money accordingly. Knock Off can knock off Mail (unlike other item-manipulating effects, which often cannot affect Mail). Generations III and IV [ edit | edit source ] If the Pokémon's item is knocked off, that Pokémon's held item becomes unusable for the rest of the battle (even if switched out), but still remains visible on the status screen. If a Pokémon has a knocked off item, it cannot gain or lose an item: Trick and Switcheroo always fail if either Pokémon has a knocked off item, Thief and Covet cannot steal an item from a knocked off Pokémon, and Recycle always fails when used by the Pokémon. If Knock Off triggers an item (such as a Focus Band , Focus Sash , or Colbur Berry ) after the attack, that item activates before Knock Off can knock it off (in the case of the Focus Band, which is not consumed, it will be removed after its effect has activated). Even if the user faints when using Knock Off (such as due to the target's Rough Skin or user's Life Orb ), it still knocks off the target's held item. Knock Off cannot knock off an item from Pokémon with the Sticky Hold Ability or if it hits a Pokémon's substitute . Knock Off cannot knock off any item from a Pokémon with Multitype or a Griseous Orb from any Pokémon. Knock Off can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Fake Out was used in the previous turn. Generation V [ edit | edit source ] Knock Off now removes the held item rather than rendering it unusable; this means that the Pokémon can obtain another item if its held item is removed by Knock Off. However, Recycle still cannot recover an item removed by Knock Off. Wild Pokémon cannot remove held items of the player's Pokémon. If the user faints due to the target's Ability ( Rough Skin or Iron Barbs ) or held Rocky Helmet , it cannot remove the target's held item. However, Knock Off will still remove the target's held item if the user faints due to its own held Life Orb . If Knock Off causes a Pokémon with the Sticky Hold Ability to faint, it can now remove that Pokémon's held item. Knock Off can now remove a held Griseous Orb from any Pokémon other than Giratina . Knock Off cannot remove a Plate if the target is Arceus (Multitype has no effect on Knock Off), and cannot remove a Drive if the target is Genesect . If those Pokémon use Knock Off on a target holding this item (whenever or not the target benefits from holding the item), the item will not be removed. Generation VI onwards [ edit | edit source ] Knock Off's power has been increased from 20 to 65. Knock Off cannot remove a Z-Crystal from any Pokémon, a Mega Stone or Orb if the target could use it to Mega Evolve or undergo Primal Reversion , a memory if the target is Silvally , a Rusted Sword from Zacian , a Rusted Shield from Zamazenta , any of the Hearthflame , Wellspring , or Cornerstone Masks from Ogerpon , or a Booster Energy from any Paradox Pokémon (excluding Koraidon and Miraidon ), even if it hasn't consumed the item because its Ability triggered from the appropriate weather or terrain condition instead. If Knock Off is used on a Pokémon that is holding an item that can be knocked off, its base power will be boosted by 50%. Knock Off cannot remove the held item of a target that has Sticky Hold or if it hits the target's substitute , but the bonus damage will apply anyway. If used on a Pokémon weak to Dark-type moves holding a Colbur Berry , the Colbur Berry will still be eaten, but Knock Off will get the damage boost regardless. If used on a Pokémon that cannot lose its held item — such as a Pokémon holding its corresponding Mega Stone — this move will not receive the boost. Additionally, the boost will also not be applied if the user of Knock Off targets a Pokémon holding an item that would not be able to be removed from it. In Pokémon Sword and Shield , when used in a Max Raid Battle , Knock Off fails completely, without even dealing damage. In Pokémon Scarlet and Violet , when used on an ally in a Tera Raid Battle , Knock Off deals damage, but does not knock off the target's item. However, if used on a raid boss that is holding an item, the held item will be knocked off as normal. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 65 78 Cooldown 10s Move wind-up time 10 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Knocks down the foe's held item to prevent its use. FR LG Knocks down the foe's held item to prevent its use during the battle. Colo XD Drops the target's held item to prevent its use. D P Pt HG SS PBR The user slaps down the foe's held item, preventing the item from being used during the battle. B W B2 W2 The user slaps down the target's held item, preventing that item from being used in the battle. X Y OR AS S M US UM P E Sw Sh BD SP LA The user slaps down the target's held item, and that item can't be used in that battle. The move does more damage if the target has a held item. S V The user slaps down the target's held item, making it unusable for that battle. This move does more damage if the target has a held item. ZA The user attacks by slapping targets' held items away, making the items unusable for the rest of the battle. This move does more damage to targets holding items."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D Knocks the target's hold item to the ground. MD S Knocks the target's held item to the ground. B S L てきポケモンの どうぐを ゆかに はたきおとす MD GtI UNUSED S MD MD RT DX It damages an enemy. The power goes up if the enemy has an item. It also knocks the enemy's held item to the floor near it."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation III , an animation of the bag disappearing appears when Knock Off knocks an opponent's item."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Knock-Off",
+    "Knock Off",
+    "Knock-Off (move)"
+  ],
+  "updatedAt": 1773324174
+}

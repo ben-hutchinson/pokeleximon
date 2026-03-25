@@ -1,0 +1,17 @@
+{
+  "answerKey": "GHOLDENGO",
+  "answerDisplay": "GHOLDENGO",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Steel / Ghost type Pokémon introduced in Generation 9.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/gholdengo",
+  "extract": "Gholdengo is a Steel / Ghost type Pokémon introduced in Generation 9 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211399
+}

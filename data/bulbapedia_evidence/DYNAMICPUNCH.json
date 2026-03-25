@@ -1,0 +1,38 @@
+{
+  "answerKey": "DYNAMICPUNCH",
+  "answerDisplay": "DYNAMIC PUNCH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Dynamic Punch (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dynamic_Punch_(move)",
+  "pageId": 3834,
+  "pageRevisionId": 4440933,
+  "leadText": "Dynamic Punch (Japanese: ばくれつパンチ Exploding Punch), formatted as DynamicPunch prior to Pokémon X and Y, is a damage-dealing Fighting-type move introduced in Generation II. It was TM01 in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III onwards 1.3 Generation IX 1.3.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation II [ edit | edit source ] Dynamic Punch inflicts damage and has a 255/256 (~99.6%) chance of confusing the target. Generation III onwards [ edit | edit source ] Dynamic Punch now always confuses the target. Dynamic Punch gains a 20% power boost when used by a Pokémon with Iron Fist . Dynamic Punch can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Focus Energy or Mind Reader was used in the previous turn. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 100 120 Cooldown 12s Move wind-up time 35 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A Fighting -type attack. In-accurate but guaranteed to confuse the opponent if it hits. G S C An attack that always confuses. R S E Colo XD Powerful and sure to cause confusion, but inaccurate. FR LG The foe is punched with the user's full power. It confuses the foe if it hits. D P Pt HG SS PBR The foe is punched with the user's full, concentrated power. It confuses the foe if it hits. B W B2 W2 The user punches the target with full, concentrated power. It confuses the target if it hits. X Y OR AS S M US UM P E Sw Sh BD SP LA The user punches the target with full, concentrated power. This confuses the target if it hits. S V The user attacks by punching the target with full concentrated power. This also confuses the target. ZA The user attacks by punching targets with full concentrated power. This also leaves targets confused without fail."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It also leaves the target confused. MD T D S Inflicts damage on the target. It also afflicts the target with a Confused status condition, which makes the target's movements and attacks go astray. B S L てきポケモンに ダメージをあたえる しかも こんらんじょうたいにかえる MD GtI It damages an enemy. It also causes the Confused status condition. The Confused status impairs its sense of direction. S MD It damages an enemy. It also confuses the enemy. * It damages an enemy. It also makes the enemy confused. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Although it does not possess any hands, Wooper can learn Dynamic Punch. Due to a glitch in Generation IV , when a Pokémon performs the Dynamic Punch animation, the opponent Pokémon sprite is translated by one pixel to the left. Considering the Japanese name of this move, ばくれつパンチ (Exploding Punch), it is possible that the original intention for the English name was ‘Dynamite Punch,’ but due to character limitations it was adapted as ‘Dynamic Punch.’"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Dynamic-Punch",
+    "Dynamic Punch",
+    "Dynamic-Punch (move)"
+  ],
+  "updatedAt": 1773322439
+}

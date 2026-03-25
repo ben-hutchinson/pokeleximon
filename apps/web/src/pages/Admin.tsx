@@ -22,9 +22,10 @@ import {
   type AdminReserveItem,
 } from "../api/admin";
 import type { GameType } from "../api/puzzles";
+import { todayIsoInTimezone } from "../utils/date";
 
 function todayIso() {
-  return new Date().toISOString().slice(0, 10);
+  return todayIsoInTimezone();
 }
 
 function formatTimestamp(value: string | null) {

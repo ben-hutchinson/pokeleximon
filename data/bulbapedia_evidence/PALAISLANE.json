@@ -1,0 +1,26 @@
+{
+  "answerKey": "PALAISLANE",
+  "answerDisplay": "PALAIS LANE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Kalos Route 6",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Kalos_Route_6",
+  "pageId": 184547,
+  "pageRevisionId": 4227944,
+  "leadText": "Route 6 (Japanese: ６番道路 Route 6) is a route in western Kalos, connecting Route 7 and Parfum Palace. The route is also known as Palais Lane (Japanese: パレの並木道 Palais Allée).",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In-game maps show Route 6 going directly between Parfum Palace and Camphrier Town , but the route ends at Route 7 and does not connect to Camphrier Town at all. The route is probably a reference to the Gardens at the Palace of Versailles , as it appears very garden-like and leads to a palace. This is further evidenced because Honedge, an evolutionary relative of Aegislash (a Pokémon which served kings), can be found in the tall grass. Name origin [ edit | edit source ] Palais is French for palace."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Palais-Lane",
+    "Palais Lane",
+    "Palais-Lane (location)"
+  ],
+  "updatedAt": 1773325585
+}

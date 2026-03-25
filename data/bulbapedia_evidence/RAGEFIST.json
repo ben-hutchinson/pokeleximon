@@ -1,0 +1,30 @@
+{
+  "answerKey": "RAGEFIST",
+  "answerDisplay": "RAGE FIST",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Rage Fist (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rage_Fist_(move)",
+  "pageId": 277797,
+  "pageRevisionId": 4475337,
+  "leadText": "Rage Fist (Japanese: ふんどのこぶし Rage Fist) is a damage-dealing Ghost-type move introduced in Generation IX. It is the signature move of Primeape and Annihilape.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] This move effect may be in need of research. Reason: When does its power reset in Legends: Z-A? Does its power really stay the same in Rogue Mega Rush You can discuss this on the talk page. Rage Fist inflicts damage. Its power increases by 50 each time the user is hit during the battle by a move that causes direct damage, up to a maximum of 350 (after 6 hits). This includes moves used by either allies or opponents and includes moves that do not actually deplete HP, such as those that activate a Disguise . However, the power of Rage Fist does not increase if the user attacks itself due to confusion , nor does it increase when the user's substitute is struck. Each strike from a multistrike move counts as one hit. Switching out or fainting does not reset the hit counter. Transforming copies the target's hit counter. Other effects [ edit | edit source ] A Primeape that has used Rage Fist (and had PP deducted with each use whenever or not the move dealt damage) at least 20 times evolves into Annihilape when leveled up, or, in Pokémon Legends: Z-A , gains the option to evolve. Extra PP lost through effects such as Pressure does not count as extra uses. In Pokémon Legends: Z-A, Rage Fist does not have to hit Pokémon to evolve Primeape."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user converts its rage into energy to attack. The more times the user has been hit by attacks, the greater the move's power. ZA The user attacks by converting its rage into energy. The more times the user has been hit by attacks, the greater the move's power."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Rage-Fist",
+    "Rage Fist",
+    "Rage-Fist (move)"
+  ],
+  "updatedAt": 1773326207
+}

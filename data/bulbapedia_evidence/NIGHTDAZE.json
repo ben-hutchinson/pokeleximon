@@ -1,0 +1,34 @@
+{
+  "answerKey": "NIGHTDAZE",
+  "answerDisplay": "NIGHT DAZE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Night Daze (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Night_Daze_(move)",
+  "pageId": 117383,
+  "pageRevisionId": 4407057,
+  "leadText": "Night Daze (Japanese: ナイトバースト Night Burst) is a damage-dealing Dark-type move introduced in Generation V. Prior to Generation VII, it was the signature move of Unovan Zorua and Zoroark.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Night Daze deals damage and has a 40% chance of lowering the target's accuracy by one stage. In Pokémon Sword and Shield , due to a glitch, when Night Daze plays its animation and damages its target, and the target does not faint, the HP bar does not visibly change until the end of the turn or something else changes its HP. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Night Daze cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user lets loose a pitch-black shock wave at its target. It may also lower the target's accuracy. X Y OR AS S M US UM P E Sw Sh LA The user lets loose a pitch-black shock wave at its target. This may also lower the target's accuracy. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user looses a pitch-black shock wave at the target to inflict damage. This may also lower the target's accuracy."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Conq. The user lets loose a pitch-black shock wave at its target. It may also lower the target's accuracy. It damages nearby enemies. It could also lower their accuracy. MD GtI It damages nearby enemies. It could also lower their accuracy. S MD It damages enemies. It could lower their accuracy. * It damages nearby enemies. It could also lower their accuracy. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Night-Daze",
+    "Night Daze",
+    "Night-Daze (move)"
+  ],
+  "updatedAt": 1773325359
+}

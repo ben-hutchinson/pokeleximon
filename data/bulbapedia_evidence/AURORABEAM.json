@@ -1,0 +1,38 @@
+{
+  "answerKey": "AURORABEAM",
+  "answerDisplay": "AURORA BEAM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Aurora Beam (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Aurora_Beam_(move)",
+  "pageId": 3671,
+  "pageRevisionId": 4493742,
+  "leadText": "Aurora Beam (Japanese: オーロラビーム Aurora Beam) is a damage-dealing Ice-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generation III onward Effect [ edit | edit source ] Generation I [ edit | edit source ] Aurora Beam does damage and has an 85/256 (~33.2%) chance of lowering the target's Attack stat by one stage. When used by an in-game opponent, there is an additional chance of 25% for the effect to fail (resulting in an effective chance of 24.9%). Generation II [ edit | edit source ] Aurora Beam now has a 10% chance of lowering the target's Attack stat by one stage. When used by an in-game opponent, there is still an additional chance of 25% for the effect to fail (resulting in an effective chance of 7.5%). This does not apply when Lock-On or Mind Reader are in effect, nor in the Battle Tower . Generation III onward [ edit | edit source ] Aurora Beam's effect no longer has an additional chance to fail when used by an in-game opponent."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad An Ice -type attack. Has a one-in-three chance of reducing the target's Attack power. Stad2 An Ice -type attack. Has a one-in-ten chance of reducing the target's Attack power. G S C An attack that may lower Attack . R S E Colo XD Fires a rainbow-colored beam that may lower Attack . FR LG A rainbow-colored attack beam. It may lower the foe's Attack stat. D P Pt HG SS PBR The foe is hit with a rainbow-colored beam. It may also lower the target's Attack stat. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The target is hit with a rainbow-colored beam. This may also lower the target's Attack stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target, even at a distance. It may also halve the target's Attack. B S L はなれたポケモンに ダメージをあたえる しかも いっていのかくりつで こうげきを はんぶんにさげる MD GtI It damages even a faraway Pokémon. It could also sharply lower the Pokémon's Attack. S MD It damages a Pokémon, even one far away. It could also sharply lower the Pokémon's Attack. MD RT DX It damages a Pokémon, even one far away. It could also sharply lower the target's Attack."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Pokémon Stadium Official Player's Guide from Nintendo Power wrongly claims that this move also has a chance to freeze the opponent."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Aurora-Beam",
+    "Aurora Beam",
+    "Aurora-Beam (move)"
+  ],
+  "updatedAt": 1773320938
+}

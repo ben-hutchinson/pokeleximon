@@ -1,0 +1,38 @@
+{
+  "answerKey": "FREEZEDRY",
+  "answerDisplay": "FREEZE DRY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Freeze-Dry (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Freeze-Dry_(move)",
+  "pageId": 183150,
+  "pageRevisionId": 4484502,
+  "leadText": "Freeze-Dry (Japanese: フリーズドライ Freeze-Dry) is a damage-dealing Ice-type move introduced in Generation VI.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IX 1.1.1 Pokémon Legends: Z-A 1.2 Type effectiveness 1.2.1 Under Electrify 1.2.2 Under Normalize 1.2.3 During Inverse Battles Effect [ edit | edit source ] Freeze-Dry deals damage and has a 10% chance of freezing the target. Freeze-Dry will always deal supereffective (x2) damage to the Water-type , even during Inverse Battles or if its type is changed. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 70 84 Cooldown 9s Move wind-up time 10 frames Effect duration —s Additional effect Chance 10% — — May freeze the target. Type effectiveness [ edit | edit source ] Offensive properties of Freeze-Dry Super effective (×2): Not very effective (×½): No effect (×0): Water Grass Ground Flying Dragon Fire Ice Steel None Under Electrify [ edit | edit source ] Offensive properties of Freeze-Dry under Electrify Super effective (×2): Not very effective (×½): No effect (×0): Water Flying Grass Electric Dragon Ground Under Normalize [ edit | edit source ] Offensive properties of Freeze-Dry under Normalize Super effective (×2): Not very effective (×½): No effect (×0): Water Rock Steel Ghost During Inverse Battles [ edit | edit source ] Offensive properties of Freeze-Dry during Inverse Battles Super effective (×2): Not very effective (×½): No effect (×0): Fire Ice Steel Water Grass Ground Flying Dragon None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types. ZA The user attacks by rapidly lowering targets' temperature. This move is super effective on Water-type Pokémon, and it may also leave targets frozen."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It could make an enemy frozen. It's super effective on Water-type Pokémon. * It damages an enemy. It's super effective on Water-type Pokémon, too. It could also make the enemy frozen. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Freeze-Dry is the only Ice-type move introduced in Generation VI . This move originated as a TCG attack . The combination of Freeze-Dry and any damage-dealing Water-type move is the only combination of two moves that hits all 171 possible Pokémon type combinations for at least neutral damage and can be learned by at least one Pokémon. In a Double Battle , the only set of eight moves that hits all 171 possible Pokémon type combinations for super effective damage and can be learned by a pair of Pokémon is the set of Freeze-Dry and any damage-dealing Dark -, Fairy -, Fighting -, Fire -, Ground -, Rock -, and Steel-type moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Freeze-Dry",
+    "Freeze Dry",
+    "Freeze-Dry (move)"
+  ],
+  "updatedAt": 1773322988
+}

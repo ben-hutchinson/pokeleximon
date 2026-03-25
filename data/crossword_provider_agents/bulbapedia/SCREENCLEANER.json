@@ -1,0 +1,16 @@
+{
+  "answerKey": "SCREENCLEANER",
+  "answerDisplay": "SCREEN CLEANER",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen VIII ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Screen_Cleaner_(Ability)",
+  "extract": "Screen Cleaner (Japanese: バリアフリー Barrier-Free) is an Ability introduced in Generation VIII. It is the signature Ability of Galarian Mr. Mime and Mr. Rime.",
+  "updatedAt": 1774258446
+}

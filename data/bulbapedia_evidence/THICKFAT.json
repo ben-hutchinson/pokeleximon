@@ -1,0 +1,34 @@
+{
+  "answerKey": "THICKFAT",
+  "answerDisplay": "THICK FAT",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Thick Fat (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Thick_Fat_(Ability)",
+  "pageId": 4123,
+  "pageRevisionId": 4407421,
+  "leadText": "Thick Fat (Japanese: あついしぼう Thick Fat) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If a Pokémon with Thick Fat is attacked by an Ice - or Fire-type move, the opponent's Attack or Special Attack is reduced by 50% during damage calculation, effectively halving the damage the Pokémon takes. Outside of battle [ edit | edit source ] Thick Fat has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] If a Pokémon with Thick Fat is attacked by an Ice - or Fire-type move, the opponent's Attack or Special Attack is reduced by 50% during damage calculation, effectively halving the damage the Pokémon takes."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Resistant to Fire- and Ice-type moves. MD T D S Makes the Pokémon resistant to Fire- and Ice-type moves. B S L ほのおタイプや こおりタイプの わざが ききにくい Conq. Raises resistance to Fire-type and Ice-type moves. MD GtI Reduces damage from Fire- and Ice-type moves. * The Pokémon takes less damage from Fire- and Ice-type moves! * S MD The Pokémon takes less damage from Fire- and Ice-type moves! MD RT DX The Pokémon takes less damage from Fire- and Ice-type moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Thick-Fat",
+    "Thick Fat",
+    "Thick-Fat (Ability)"
+  ],
+  "updatedAt": 1773329277
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "SUPERFANG",
+  "answerDisplay": "SUPER FANG",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Super Fang (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Super_Fang_(move)",
+  "pageId": 3771,
+  "pageRevisionId": 4452292,
+  "leadText": "Super Fang (Japanese: いかりのまえば Fangs of Wrath) is a damage-dealing Normal-type move introduced in Generation I. Prior to Generation IV, it was one of the signature moves of Rattata and Raticate. It is TM183 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generation III onwards 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Super Fang deals damage equal to 50% of the target's current HP , rounded down. It always deals at least 1 HP of damage. Generation I [ edit | edit source ] Super Fang is unaffected by type immunities. Generation II [ edit | edit source ] Super Fang no longer hits Ghost-type Pokémon. Super Fang is affected by King's Rock . Generation III onwards [ edit | edit source ] Super Fang can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Scary Face was used in the previous turn. In Generations III and IV, Super Fang is not affected by King's Rock . Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 1 1 Cooldown 9s Move wind-up time 20 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 If it hits, this attack cuts the target's HP in half. Learned by Pok é mon with developed fangs. G S C Cuts the foe's HP by 1/2. R S E Attacks with sharp fangs and cuts half the foe's HP. FR LG The user attacks with sharp fangs and halves the foe's HP. Colo XD Sharp-fanged attack that cuts half the target's HP. D P Pt HG SS PBR The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half. B W B2 W2 The user chomps hard on the target with its sharp front fangs. It cuts the target's HP to half. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user chomps hard on the target with its sharp front fangs. This cuts the target's HP in half. ZA The user attacks by chomping down on targets with its sharp incisors or front fangs. The damage dealt by this move depends on targets' HP."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Halves the target's HP. MD T D S Inflicts damage on the target by halving its existing HP. B S L てきポケモンの げんざいの ＨＰの はんぶんの ダメージを あたえる MD GtI It cuts the enemy's HP to half. * It damages an enemy by halving its existing HP. * S MD It cuts the enemy's HP in half. * It damages an enemy by halving its existing HP. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Super-Fang",
+    "Super Fang",
+    "Super-Fang (move)"
+  ],
+  "updatedAt": 1773327673
+}

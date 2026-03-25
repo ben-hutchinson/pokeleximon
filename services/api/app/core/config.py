@@ -27,6 +27,7 @@ RATE_LIMIT_TRUST_X_FORWARDED_FOR = os.getenv("RATE_LIMIT_TRUST_X_FORWARDED_FOR",
     "true",
     "yes",
 }
+RATE_LIMIT_TRUST_X_FORWARDED_FOR_HOPS = max(1, int(os.getenv("RATE_LIMIT_TRUST_X_FORWARDED_FOR_HOPS", "1")))
 DATABASE_URL = os.getenv("DATABASE_URL", "")
 REDIS_URL = os.getenv("REDIS_URL", "")
 SCHEDULER_ENABLED = os.getenv("SCHEDULER_ENABLED", "true").lower() in {"1", "true", "yes"}

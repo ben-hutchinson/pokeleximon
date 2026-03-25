@@ -1,0 +1,29 @@
+{
+  "answerKey": "TRAILBLAZE",
+  "answerDisplay": "TRAILBLAZE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Trailblaze (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Trailblaze_(move)",
+  "pageId": 274270,
+  "pageRevisionId": 4486372,
+  "leadText": "Trailblaze (Japanese: くさわけ Trailblazer) is a damage-dealing Grass-type move introduced in Generation IX. It is TM020 in Pokémon Scarlet and Violet and TM115 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Trailblaze inflicts damage and raises the user's Speed by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user attacks suddenly as if leaping out from tall grass. The user's nimble footwork boosts its Speed stat. ZA The user attacks suddenly as if leaping out from tall grass. The user's nimble footwork also increases its movement speed for a short time."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Trailblaze",
+    "Trailblaze (move)"
+  ],
+  "updatedAt": 1773328070
+}

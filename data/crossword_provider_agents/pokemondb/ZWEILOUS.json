@@ -1,0 +1,17 @@
+{
+  "answerKey": "ZWEILOUS",
+  "answerDisplay": "ZWEILOUS",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Dark / Dragon type Pokémon introduced in Generation 5.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/zweilous",
+  "extract": "Zweilous is a Dark / Dragon type Pokémon introduced in Generation 5 .",
+  "rankPosition": 1,
+  "updatedAt": 1774213468
+}

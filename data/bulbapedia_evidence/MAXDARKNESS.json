@@ -1,0 +1,30 @@
+{
+  "answerKey": "MAXDARKNESS",
+  "answerDisplay": "MAX DARKNESS",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Max Darkness (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Darkness_(move)",
+  "pageId": 243948,
+  "pageRevisionId": 4406818,
+  "leadText": "Max Darkness (Japanese: ダイアーク Dai Evil) is a damage-dealing Dark-type Max Move introduced in Generation VIII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Max Darkness inflicts damage and lowers the target's and its ally's Special Defense by one stage. Its power and whether it is a special or physical move depends on the move it is based on. Base move Pwr. Cat. Assurance 110 Physical Beat Up 100 Physical Bite 110 Physical Brutal Swing 110 Physical Crunch 130 Physical Dark Pulse 130 Special Darkest Lariat 130 Physical False Surrender 130 Physical Fiery Wrath 130 Special Fling 100 Physical Foul Play 130 Physical Hyperspace Fury 130 Physical Jaw Lock 130 Physical Knock Off 120 Physical Lash Out 130 Physical Night Daze 130 Special Night Slash 120 Physical Payback 100 Physical Power Trip 130 Physical Snarl 110 Special Sucker Punch 120 Physical Thief 110 Physical Throat Chop 130 Physical Wicked Blow 130 Physical Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Max Darkness cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V This is a Dark-type attack Dynamax Pokémon use. This lowers the target's Sp. Def stat. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Max-Darkness",
+    "Max Darkness",
+    "Max-Darkness (move)"
+  ],
+  "updatedAt": 1773324808
+}

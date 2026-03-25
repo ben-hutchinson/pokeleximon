@@ -1,0 +1,77 @@
+{
+  "answerKey": "ANALYTIC",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4514100,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Analytic (Japanese: Analyze) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If a Pokemon with Analytic executes its move after all other Pokemon have made their move, the power of its move is increased by 30% (approximated as a factor of 5325/4096). In a Triple Battle , this means that if the Pokemon with Analytic is targeting a Pokemon in a flank position that chooses to switch with its ally in the middle, its move's power will always be normal when it attacks the Pokemon that is shifted into the flank position; but if the Pokemon with Analytic targets a Pokemon in the middle whose ally on a flank chooses to shift into the middle position, its move's power still depends on whether the Pokemon that was in the middle (and is now on a flank) has acted when the Pokemon with Analytic uses its move. If another Pokemon faints before it gets a chance to make its move, Analytic's bonus depends on whether that Pokemon would have moved before the user that turn, based on its Speed and the move it chose to use. Modifications to that Speed or to priority caused by paralysis , a held item (such as Power Weight ), or an Ability (such as Stall ) are not taken into account in Generation VIII , but they are in earlier generations . Outside of battle [ edit | edit source ] Analytic has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] If a Pokemon with Analytic executes its move after all other Pokemon have made their move, the power of its move is increased by 30% (approximated as a factor of 5325/4096). In a Triple Battle , this means that if the Pokemon with Analytic is targeting a Pokemon in a flank position that chooses to switch with its ally in the middle, its move's power will always be normal when it attacks the Pokemon that is shifted into the flank position; but if the Pokemon with Analytic targets a Pokemon in the middle whose ally on a flank chooses to shift into the middle position, its move's power still depends on whether the Pokemon that was in the middle (and is now on a flank) has acted when the Pokemon with Analytic uses its move. If another Pokemon faints before it gets a chance to make its move, Analytic's bonus depends on whether that Pokemon would have moved before the user that turn, based on its Speed and the move it chose to use. Modifications to that Speed or to priority caused by paralysis , a held item (such as Power Weight ), or an Ability (such as Stall ) are not taken into account in Generation VIII , but they are in earlier generations .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Strengthens moves to 1.3 their power when moving last.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Boosts moves when acting last",
+        "evidence_ref": "Effect",
+        "specificity": 0.86
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Boosts moves when acting last",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.76,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Stronger when it moves last",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.7,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Late-turn power boost",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "slow-power trait",
+      "late-move booster"
+    ],
+    "connections_descriptors": [
+      "Move-last abilities",
+      "Gen V abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257925
+}

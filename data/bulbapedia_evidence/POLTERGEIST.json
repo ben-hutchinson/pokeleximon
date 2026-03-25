@@ -1,0 +1,33 @@
+{
+  "answerKey": "POLTERGEIST",
+  "answerDisplay": "POLTERGEIST",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Poltergeist (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Poltergeist_(move)",
+  "pageId": 252913,
+  "pageRevisionId": 4428579,
+  "leadText": "Poltergeist (Japanese: ポルターガイスト Poltergeist) is a damage-dealing Ghost-type move introduced during Generation VIII, in The Isle of Armor. It is TM198 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Poltergeist deals damage if the target is holding an item, after displaying the message \"[target] is about to be attacked by its [item]!\" If used when the target is not holding an item, the move fails. If used on a Pokémon weak to Ghost-type moves holding a Kasib Berry or a Weakness Policy , or a Pokémon holding a Red Card , Poltergeist will still do damage after the item has been consumed, but the item in question still takes effect. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Poltergeist cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA The user attacks the target by controlling the target's item. The move fails if the target doesn't have an item. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. S V The user attacks by controlling the target's item. This move fails if the target isn't holding an item."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as a TCG attack . Poltergeist is the only Ghost-type move with an accuracy lower than 100%."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Poltergeist",
+    "Poltergeist (move)"
+  ],
+  "updatedAt": 1773325948
+}

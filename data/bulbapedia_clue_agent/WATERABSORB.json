@@ -1,0 +1,95 @@
+{
+  "answerKey": "WATERABSORB",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4486634,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Water Absorb (Japanese: Water Storage) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Restores HP if hit by a Water-type move. MD T D S Restores the Pokemon's HP if the Pokemon is hit by a Water-type move. B S L Conq. Restores HP if hit by a Water-type move. MD GtI Water-type moves restore HP instead of damaging the Pokemon. * The Pokemon absorbs Water-type moves, which restore its HP! * S MD The Pokemon absorbs Water-type moves, which restore its HP! MD RT DX The Pokemon absorbs Water-type moves to restore its HP.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokemon with Water Absorb is hit by a damaging Water-type move , its HP is restored by one quarter of its maximum HP, and the move will have no effect on that Pokemon (if a Pokemon with this Ability already has full HP, the Water-type move will do nothing). Water Absorb will not activate if the Pokemon is protected from the Water-type move. Generation IV onward [ edit | edit source ] Water Absorb will now also activate when a Pokemon with it is hit by a Water-type status move (although none targeted an opponent until Soak was introduced in Generation V ). Multistrike moves , such as Water Shuriken , will only activate the Ability once. If a Pokemon with Water Absorb is holding an Absorb Bulb or Luminous Moss , Water Absorb absorbs the move, so the item's effect is not triggered. Outside of battle [ edit | edit source ] Water Absorb has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokemon with Water Absorb is hit by a damaging Water-type move , its HP is restored by one quarter of its maximum HP, and the move will have no effect on that Pokemon (if a Pokemon with this Ability already has full HP, the Water-type move will do nothing). Water Absorb will not activate if the Pokemon is protected from the Water-type move. Generation IV onward [ edit | edit source ] Water Absorb will now also activate when a Pokemon with it is hit by a Water-type status move (although none targeted an opponent until Soak was introduced in Generation V ). Multistrike moves , such as Water Shuriken , will only activate the Ability once. If a Pokemon with Water Absorb is holding an Absorb Bulb or Luminous Moss , Water Absorb absorbs the move, so the item's effect is not triggered.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Absorbs water moves, healing for 1/4 max HP.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "healing ability",
+        "evidence_ref": "Description",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "healing ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "protective ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "healing ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "protective ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Healing abilities",
+      "Protective abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258032
+}

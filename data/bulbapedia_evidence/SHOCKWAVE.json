@@ -1,0 +1,30 @@
+{
+  "answerKey": "SHOCKWAVE",
+  "answerDisplay": "SHOCK WAVE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shock Wave (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shock_Wave_(move)",
+  "pageId": 3962,
+  "pageRevisionId": 4406942,
+  "leadText": "Shock Wave (Japanese: でんげきは Electrical Shock Wave) is a damage-dealing Electric-type move introduced in Generation III. It was TM34 in Generation III, Generation IV, and in Pokémon Brilliant Diamond and Shining Pearl.",
+  "sections": [
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD A fast and unavoidable electric attack. (move) Zaps the foe with a jolt of electricity that never misses. R S E (TM) Zaps the target with a jolt of electricity that never misses. Colo XD (TM) FR LG A rapid jolt of electricity strikes the foe. It can't be evaded. D P Pt HG SS PBR The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded. B W B2 W2 The user strikes the target with a quick jolt of electricity. This attack cannot be evaded. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user strikes the target with a quick jolt of electricity. This attack never misses."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target, even at a distance. It never misses. B S L はなれたポケモンに ダメージをあたえる かならず めいちゅうする MD GtI S MD MD RT DX It damages nearby enemies. It never misses."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shock-Wave",
+    "Shock Wave",
+    "Shock-Wave (move)"
+  ],
+  "updatedAt": 1773326948
+}

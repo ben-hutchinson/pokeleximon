@@ -1,0 +1,34 @@
+{
+  "answerKey": "FLOWERGIFT",
+  "answerDisplay": "FLOWER GIFT",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Flower Gift (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Flower_Gift_(Ability)",
+  "pageId": 59985,
+  "pageRevisionId": 4481999,
+  "leadText": "Flower Gift (Japanese: フラワーギフト Flower Gift) is an Ability introduced in Generation IV. It is the signature Ability of Cherrim.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation IV [ edit | edit source ] During harsh sunlight , Flower Gift increases the Attack and Special Defense stats of the Pokémon with this Ability and its allies by 50%. Flower Gift is not responsible for changing Cherrim from Overcast Form into Sunshine Form. Flower Gift can be copied by Trace or Role Play . Generation V onward [ edit | edit source ] This Ability effect may be in need of research. Reason: If a Pokémon holds a Utility Umbrella , is it unaffected by its ally's Flower Gift? You can discuss this on the talk page. Along with its previous effect, Flower Gift now changes Cherrim from Overcast Form to Sunshine Form if the weather becomes harsh sunlight while Cherrim is in battle, or if Cherrim is sent into battle while the weather is harsh sunlight. If Cherrim loses Flower Gift or Flower Gift is suppressed (such as by Gastro Acid ), it will revert to its Overcast Form, unless it was Dynamaxed at the time; if a Dynamaxed Sunshine Form Cherrim loses Flower Gift, it will remain in Sunshine Form even after it ceases to be Dynamaxed. Role Play fails if the target has the Ability Flower Gift. Entrainment fails if the user has the Ability Flower Gift. Flower Gift cannot be copied by Trace , Power of Alchemy , Receiver , or Wandering Spirit . Outside of battle [ edit | edit source ] Flower Gift has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generation IV [ edit | edit source ] During harsh sunlight , Flower Gift increases the Attack and Special Defense stats of the Pokémon with this Ability and its allies by 50%. Flower Gift is not responsible for changing Cherrim from Overcast Form into Sunshine Form. Flower Gift can be copied by Trace or Role Play . Generation V onward [ edit | edit source ] This Ability effect may be in need of research. Reason: If a Pokémon holds a Utility Umbrella , is it unaffected by its ally's Flower Gift? You can discuss this on the talk page. Along with its previous effect, Flower Gift now changes Cherrim from Overcast Form to Sunshine Form if the weather becomes harsh sunlight while Cherrim is in battle, or if Cherrim is sent into battle while the weather is harsh sunlight. If Cherrim loses Flower Gift or Flower Gift is suppressed (such as by Gastro Acid ), it will revert to its Overcast Form, unless it was Dynamaxed at the time; if a Dynamaxed Sunshine Form Cherrim loses Flower Gift, it will remain in Sunshine Form even after it ceases to be Dynamaxed. Role Play fails if the target has the Ability Flower Gift. Entrainment fails if the user has the Ability Flower Gift. Flower Gift cannot be copied by Trace , Power of Alchemy , Receiver , or Wandering Spirit ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the team's Attack and Special Defense in sunny weather. B S L ひざしがつよい てんきだと なかまの こうげきと とくぼうがあがる MD GtI Unavailable S MD When it's sunny, the Attack and Sp. Def of teammates in the same room go up!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Flower-Gift",
+    "Flower Gift",
+    "Flower-Gift (Ability)"
+  ],
+  "updatedAt": 1773328877
+}

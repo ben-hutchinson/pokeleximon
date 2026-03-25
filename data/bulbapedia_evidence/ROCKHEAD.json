@@ -1,0 +1,34 @@
+{
+  "answerKey": "ROCKHEAD",
+  "answerDisplay": "ROCK HEAD",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Rock Head (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rock_Head_(Ability)",
+  "pageId": 4145,
+  "pageRevisionId": 4407454,
+  "leadText": "If you were looking for the Rock Head Pokémon, see Bagon. Rock Head (Japanese: いしあたま Rock Head) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Affected moves 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] A Pokémon with Rock Head will not take recoil damage, except when using Struggle , Shadow Rush Colo , or Shadow End . If a Pokémon with Rock Head uses a contact move with recoil on a target with either Lingering Aroma or Mummy , causing Rock Head to be replaced by the target's Ability , then the user will take recoil damage from this move. Rock Head does not affect other kinds of damage, such as crash damage , damage from a Life Orb , or damage from a Jaboca or Rowap Berry . Rock Head does not prevent the user from fainting from using moves that cause the user to faint . It also does not prevent the user from taking damage when using Steel Beam or Mind Blown . Affected moves [ edit | edit source ] The table below lists the moves affected by Rock Head, as well as the Pokémon that can have Rock Head and learn those moves. Move Type Cat. Pow. Acc. Learned by Double-Edge Normal Physical 120 100 * * * Flare Blitz Fire Physical 120 100 Head Smash Rock Physical 150 80 Submission Fighting Physical 80 80 * Take Down Normal Physical 90 85 * Wood Hammer Grass Physical 120 100 Wave Crash Water Physical 120 100 Wild Charge Electric Physical 90 100 Although the following moves are affected by the Ability, they currently cannot be learned by any Pokémon with Rock Head. They may, however, be called via Metronome , Mirror Move , Copycat , or Mimic , or be used by a Pokémon that gained Rock Head by an Ability like Trace or Receiver or a move such as Skill Swap or Role Play . Move Type Cat. Pow. Acc. Brave Bird Flying Physical 120 100 Chloroblast Grass Special 150 95 Head Charge Normal Physical 120 100 Light of Ruin Fairy Special 140 90 Volt Tackle Electric Physical 120 100 Outside of battle [ edit | edit source ] Rock Head has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] A Pokémon with Rock Head will not take recoil damage, except when using Struggle , Shadow Rush Colo , or Shadow End . If a Pokémon with Rock Head uses a contact move with recoil on a target with either Lingering Aroma or Mummy , causing Rock Head to be replaced by the target's Ability , then the user will take recoil damage from this move. Rock Head does not affect other kinds of damage, such as crash damage , damage from a Life Orb , or damage from a Jaboca or Rowap Berry . Rock Head does not prevent the user from fainting from using moves that cause the user to faint . It also does not prevent the user from taking damage when using Steel Beam or Mind Blown . Affected moves [ edit | edit source ] The table below lists the moves affected by Rock Head, as well as the Pokémon that can have Rock Head and learn those moves. Move Type Cat. Pow. Acc. Learned by Double-Edge Normal Physical 120 100 * * * Flare Blitz Fire Physical 120 100 Head Smash Rock Physical 150 80 Submission Fighting Physical 80 80 * Take Down Normal Physical 90 85 * Wood Hammer Grass Physical 120 100 Wave Crash Water Physical 120 100 Wild Charge Electric Physical 90 100 Although the following moves are affected by the Ability, they currently cannot be learned by any Pokémon with Rock Head. They may, however, be called via Metronome , Mirror Move , Copycat , or Mimic , or be used by a Pokémon that gained Rock Head by an Ability like Trace or Receiver or a move such as Skill Swap or Role Play . Move Type Cat. Pow. Acc. Brave Bird Flying Physical 120 100 Chloroblast Grass Special 150 95 Head Charge Normal Physical 120 100 Light of Ruin Fairy Special 140 90 Volt Tackle Electric Physical 120 100"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Prevents damage from the recoil of moves such as Take Down. MD T D S Protects the Pokémon from the recoil damage of moves such as Take Down. B S L とっしん などの はんどうのダメージを うけない MD GtI Protects the Pokémon from recoil damage from certain moves. * Recoil damage from certain moves won't hurt the Pokémon! * S MD Recoil damage from certain moves won't hurt the Pokémon! MD RT DX The Pokémon won't be hurt when it uses moves that cause recoil damage."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Rock-Head",
+    "Rock Head",
+    "Rock-Head (Ability)"
+  ],
+  "updatedAt": 1773326461
+}

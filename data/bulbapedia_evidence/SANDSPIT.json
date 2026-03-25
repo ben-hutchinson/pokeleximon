@@ -1,0 +1,30 @@
+{
+  "answerKey": "SANDSPIT",
+  "answerDisplay": "SAND SPIT",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Sand Spit (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sand_Spit_(Ability)",
+  "pageId": 244401,
+  "pageRevisionId": 4259139,
+  "leadText": "Sand Spit (Japanese: すなはき Sand Spit) is an Ability introduced in Generation VIII. It is the signature Ability of Silicobra and Sandaconda.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Sand Spit summons a sandstorm in battle for five turns when a Pokémon with Sand Spit is hit by a damaging move, unless a sandstorm is already present. This can be extended to eight turns if the Pokémon is holding a Smooth Rock . Outside of battle [ edit | edit source ] Sand Spit has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Sand Spit summons a sandstorm in battle for five turns when a Pokémon with Sand Spit is hit by a damaging move, unless a sandstorm is already present. This can be extended to eight turns if the Pokémon is holding a Smooth Rock ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sand-Spit",
+    "Sand Spit",
+    "Sand-Spit (Ability)"
+  ],
+  "updatedAt": 1773329175
+}

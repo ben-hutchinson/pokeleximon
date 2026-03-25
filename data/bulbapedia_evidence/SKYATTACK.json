@@ -1,0 +1,38 @@
+{
+  "answerKey": "SKYATTACK",
+  "answerDisplay": "SKY ATTACK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sky Attack (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sky_Attack_(move)",
+  "pageId": 3752,
+  "pageRevisionId": 4503900,
+  "leadText": "Sky Attack (Japanese: ゴッドバード God Bird) is a damage-dealing Flying-type move introduced in Generation I. In Generation II, it was the signature move of Moltres, but other Pokémon could still inherit it via breeding. It is TM43 in Generation I and TM153 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations I and II 1.2 Generation III 1.3 Generation IV 1.4 Generations V and VI 1.5 Generation VII 1.6 Generation VIII onwards Effect [ edit | edit source ] Generations I and II [ edit | edit source ] Sky Attack does nothing on the turn it is selected, other than say that the user is glowing. On the following turn, Sky Attack will deal damage, PP will be deducted from it, and it will count as the last move used. Once Sky Attack is selected, the user will not be able to switch out until it is disrupted or fully executed. If Sky Attack is not fully executed, PP will not be deducted from it, and it will not count as the last move used. If the target uses Mirror Move during the turn that the user is glowing, Mirror Move will copy the move that the user executed immediately before using Sky Attack (or fail if it cannot). Sleep , freeze , binding , and flinching will pause but not disrupt the duration of Sky Attack. In Stadium , Mirror Move will copy Sky Attack on either of the turns it takes to execute. Sky Attack has 140 base power. Generation III [ edit | edit source ] Sky Attack now has a 30% chance of causing the target to flinch . It also now has an increased critical hit ratio. Generation IV [ edit | edit source ] Sky Attack now displays \" became cloaked in a harsh light!\" instead of \" is glowing!\" If the user is holding a Power Herb , there will be no charge turn. Generations V and VI [ edit | edit source ] Sky Attack can hit non-adjacent opponents in Triple Battles . Sky Attack is no longer affected by King's Rock . Generation VII [ edit | edit source ] In Pokémon: Let's Go, Pikachu! and Let's Go, Eevee! , Sky Attack's power was increased from 140 to 200. Generation VIII onwards [ edit | edit source ] Sky Attack's power was changed back to 140."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad The strongest Flying -type attack. Energy is stored in the first turn, then fired the next turn. Stad2 Strongest Flying -type attack. Stores energy in the first turn, then fires in the next. G S C 1st turn: Prepare 2nd turn: Attack R S E Colo XD Searches out weak spots, then strikes the next turn. FR LG A 2nd-turn attack move with a high critical-hit ratio. The foe may flinch. D P Pt HG SS PBR A second-turn attack move with a high critical-hit ratio. It may also make the target flinch. B W B2 W2 A second-turn attack move where critical hits land more easily. It may also make the target flinch. X Y OR AS S M US UM P E Sw Sh BD SP LA A second-turn attack move where critical hits land more easily. This may also make the target flinch. S V The user attacks the turn after using this move. This move has a heightened chance of landing a critical hit and may also make the target flinch. ZA The user attacks with a powered-up dive. This move has a heightened chance of landing a critical hit and may also make targets flinch, but it takes some time to carry out."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Sky Attack status, and it attacks strongly on the next turn. It is not possible to link this move. MD T D S Gives the user a Sky Attack status, which causes the Pokémon to charge power for 1 turn, then try a powerful attack on the next turn. The attack may afflict the targeted enemy with a Cringe status. You can't link this move. B S L ゴッドバードじょうたいとなって ちからをため つぎのこうどうで いりょくのたかい こうげきを くりだす しかも いっていのかくりつで ひるみじょうたいにする このわざは ポケモンタワーでは くりだせない MD GtI UNUSED S MD It damages an enemy on the next turn and could make it flinch. It has a high critical-hit rate. * You'll get the Sky Attack status, which lets you charge power to try a powerful attack on the next turn. It could also make the enemy flinch. It has a high critical-hit rate. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Sky Attack has the highest base power of all Flying-type moves, excluding Z-Moves , Max Moves , and G-Max Moves . Sky Attack also has the highest base power of all moves capable of causing flinching . Additionally, Sky Attack has the highest base power of all increased critical-hit ratio moves. A Supersonic Skystrike based on Sky Attack has the highest base power of all Flying-type moves. Sky Attack and Brave Bird share similar in-game animations in Generation IV and V ; the only major difference is that the former has a blue aura, the latter has a red aura. This was reversed in the animated series ( Pokémon the Series: Ruby and Sapphire portrayed Sky Attack with a red or orange aura, whereas its portrayal in Pokémon the Series: Diamond and Pearl changed it to white or yellow) up until Pokémon the Series: Sun & Moon . In Generation I , Sky Attack was the only Flying-type move that could be taught via TM ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sky-Attack",
+    "Sky Attack",
+    "Sky-Attack (move)"
+  ],
+  "updatedAt": 1773327106
+}

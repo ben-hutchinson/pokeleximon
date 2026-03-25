@@ -1,0 +1,38 @@
+{
+  "answerKey": "TRICKROOM",
+  "answerDisplay": "TRICK ROOM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Trick Room (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Trick_Room_(move)",
+  "pageId": 17450,
+  "pageRevisionId": 4503227,
+  "leadText": "Trick Room redirects here. For the Festival Plaza facility, see Festival Plaza → Haunted houses. Trick Room (Japanese: トリックルーム Trick Room) is a non-damaging Psychic-type move introduced in Generation IV. It is: TM92 from Generation IV to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TM70 in Pokémon Sword and Shield. TM161 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Trick Room reverses the move order within each priority bracket so that Pokémon with a lower Speed stat attack first, while those with a higher Speed stat will attack last. Individual brackets are still maintained; moves in higher priority brackets still work before moves in lower ones regardless of Trick Room. This effect lasts for five turns, and using Trick Room counts as the first turn. Similar to Magic Room and Wonder Room , using Trick Room while it is already in effect will end it immediately. Effects that alter the order of specific priority brackets override Trick Room. Therefore, Pokémon holding Full Incense or Lagging Tail and Pokémon with Stall will go last in their priority bracket regardless of their Speed stat. Pokémon activating Quick Claw will go first in their priority bracket. Trick Room has a priority of -7, so will be used after all moves with a normal priority. From Generation V onwards, due to the way Trick Room affects Speed calculation, Pokémon with 1809 or more Speed will still act before Pokémon slower than 1809, even in Trick Room. Specifically, Pokémon with a Speed stat closest to 1809 without going under go first. This is because, under Trick Room, every Pokemon's Speed is set to (10,000 - (their actual Speed)) modulo 8,192. If powered up by a Psychium Z into Z-Trick Room, the user's accuracy is raised by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR B W B2 W2 The user creates a bizarre area in which slower Pokémon get to move first for five turns. (move) The user creates a bizarre space in which slower Pokémon get to move first for five turns. (TM) X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user creates a bizarre area in which slower Pokémon get to move first for five turns."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Boosts or reduces the Movement Speed of all Pokémon on the floor by 1 level. The effect is random. B S L フロアのポケモンの いどうそくどが ランダムで １だんかい あがったり さがったりする MD GtI S MD It changes the floor to a Trick Room. In a Trick Room, Travel Speed will be reversed."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Trick Room's effect in Battle Revolution. Trick Room's effect ends in Battle Revolution. Trick Room has a special animation effect in Pokémon Battle Revolution . During this effect, a sphere of blinking and fading purple squares surround the battle area. Will 's room in HeartGold and SoulSilver has a similar animation. It also has an animation when it ends or is cancelled out. In HeartGold, SoulSilver , and Platinum , a roulette choice in the Battle Arcade may result in giving a battle the Trick Room effect. Trick Room has the lowest priority of all moves. It shared this trait with Magic Room and Wonder Room in Generation V. In Fairy-Type Trickery! , Trick Room is shown to be breakable if attacked directly, something not present in the games."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Trick-Room",
+    "Trick Room",
+    "Trick-Room (move)"
+  ],
+  "updatedAt": 1773328098
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "VCREATE",
+  "answerDisplay": "V CREATE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "V-create (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/V-create_(move)",
+  "pageId": 117470,
+  "pageRevisionId": 4426555,
+  "leadText": "V-create (Japanese: Ｖジェネレート V-generate) is a damage-dealing Fire-type move introduced in Generation V. It was originally an event-exclusive move. In Generation VIII, it is one of the signature moves of Victini.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Sword and Shield 1.1.2 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] V-create deals damage, then lowers the user's Defense , Special Defense , and Speed stats by one stage each. Generation VIII [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] From Versions 1.0 to 1.2.1 of Pokémon Sword and Shield , V-create could not be selected in a battle. Starting with Version 1.3.0, it is usable and functions the same as it did in previous generations. Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] V-create cannot be selected in a battle. Generation IX [ edit | edit source ] V-create cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 With a hot flame on its forehead, the user hurls itself at its target. It lowers the user's Defense, Sp. Def, and Speed stats. X Y OR AS S M US UM P E Sw Sh LA With a hot flame on its forehead, the user hurls itself at its target. This lowers the user's Defense, Sp. Def, and Speed stats. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user emits a hot flame from its forehead and hurls itself at the target to inflict damage. This also lowers the user's Defense, Sp. Def, and Speed stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI UNUSED S MD Unavailable"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Artwork of Victini using V-create V-create has the highest base power of all Fire-type moves, excluding Z-Moves . An Inferno Overdrive based on V-create has the highest base power of all Fire-type moves, all Z-Moves, and all moves excluding those that cause the user to faint (such as Explosion or Self-Destruct ). This move is one of Victini's animations in Pokédex 3D . This is the only unused move in Pokémon Mystery Dungeon: Gates to Infinity that was removed from Pokémon Super Mystery Dungeon ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "V-Create",
+    "V Create",
+    "V-Create (move)"
+  ],
+  "updatedAt": 1773328249
+}

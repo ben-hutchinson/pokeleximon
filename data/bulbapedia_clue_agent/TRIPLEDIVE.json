@@ -1,0 +1,67 @@
+{
+  "answerKey": "TRIPLEDIVE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4482917,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX Water move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Water physical move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Effect [ edit | edit source ] Triple Dive inflicts damage, hitting the target three times per use. If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokemon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokemon has a maximum HP of 1.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "30-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Water physical move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen IX Water move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "30-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "water physical move"
+    ],
+    "connections_descriptors": [
+      "Water Physical moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258027
+}

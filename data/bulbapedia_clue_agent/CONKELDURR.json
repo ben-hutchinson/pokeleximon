@@ -1,0 +1,147 @@
+{
+  "answerKey": "CONKELDURR",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4504707,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Fighting species from Gen V",
+        "evidence_ref": "lead",
+        "specificity": 0.96
+      },
+      {
+        "text": "Evolves from Gurdurr",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      },
+      {
+        "text": "Final form of Timburr",
+        "evidence_ref": "lead",
+        "specificity": 0.7
+      },
+      {
+        "text": "gray coloring",
+        "evidence_ref": "Biology",
+        "specificity": 0.74
+      },
+      {
+        "text": "140 base Attack",
+        "evidence_ref": "Game data",
+        "specificity": 0.8
+      },
+      {
+        "text": "45 base Speed",
+        "evidence_ref": "Game data",
+        "specificity": 0.78
+      },
+      {
+        "text": "140 Attack and 45 Speed",
+        "evidence_ref": "Game data",
+        "specificity": 0.9
+      },
+      {
+        "text": "Muscular Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      },
+      {
+        "text": "Gen V Muscular Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "Brown Muscular Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "Humanshape egg-group species",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "140 Attack, 45 Speed species",
+        "evidence_ref": "Game data",
+        "mystery_score": 0.66,
+        "specificity_score": 0.9,
+        "style": "stats"
+      },
+      {
+        "text": "Gen V Fighting species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.54,
+        "specificity_score": 0.66,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Evolves from Gurdurr",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.72,
+        "style": "evolution"
+      },
+      {
+        "text": "Final form of Timburr",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.7,
+        "style": "evolution"
+      },
+      {
+        "text": "Muscular Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.48,
+        "specificity_score": 0.72,
+        "style": "signature"
+      },
+      {
+        "text": "Gen V Muscular Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.44,
+        "specificity_score": 0.66,
+        "style": "signature"
+      },
+      {
+        "text": "Brown Muscular Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.64,
+        "style": "signature"
+      },
+      {
+        "text": "Humanshape egg-group species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.38,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gray Gen V Fighting species",
+        "evidence_ref": "Biology",
+        "mystery_score": 0.5,
+        "specificity_score": 0.8,
+        "style": "visual_taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "fighting species",
+      "muscular pokemon"
+    ],
+    "connections_descriptors": [
+      "Gen V Fighting species",
+      "Muscular Pokemon",
+      "Gen V species"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.82
+  },
+  "updatedAt": 1774257936
+}

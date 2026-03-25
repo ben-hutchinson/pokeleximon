@@ -1,0 +1,17 @@
+{
+  "answerKey": "CARVANHA",
+  "answerDisplay": "CARVANHA",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Water / Dark type Pokémon introduced in Generation 3.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/carvanha",
+  "extract": "Carvanha is a Water / Dark type Pokémon introduced in Generation 3 .",
+  "rankPosition": 1,
+  "updatedAt": 1774210808
+}

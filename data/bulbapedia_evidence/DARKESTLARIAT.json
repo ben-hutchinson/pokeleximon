@@ -1,0 +1,34 @@
+{
+  "answerKey": "DARKESTLARIAT",
+  "answerDisplay": "DARKEST LARIAT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Darkest Lariat (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Darkest_Lariat_(move)",
+  "pageId": 216849,
+  "pageRevisionId": 4415812,
+  "leadText": "Darkest Lariat (Japanese: ＤＤラリアット DD Lariat) is a damage-dealing Dark-type move introduced in Generation VII. In Generation VII and Generation IX, it is the signature move of Incineroar. It was TR93 in Pokémon Sword and Shield. It can be upgraded to the special Z-Move Malicious Moonsault by Incineroar holding Incinium Z.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Darkest Lariat inflicts damage, ignoring any changes to the target's Defense and evasion stat stages. It does not ignore changes to stats that do not use stat stages, such as Reflect , Abilities such as Sand Veil , or items such as Eviolite . It also does not ignore changes to the user's Attack or accuracy . Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Darkest Lariat cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA The user swings both arms and hits the target. The target's stat changes don't affect this attack's damage. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. S V The user swings both arms and hits the target. The target's stat changes don't affect the damage inflicted by this move."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Darkest Lariat is only learned by fully evolved Pokémon. In Generation VIII only, it had the greatest availability of any move to have this distinction, in all other generations, it is tied for the lowest of any move with this distinction with many other moves, being the signature move of Incineroar ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Darkest-Lariat",
+    "Darkest Lariat",
+    "Darkest-Lariat (move)"
+  ],
+  "updatedAt": 1773322019
+}

@@ -1,0 +1,82 @@
+{
+  "answerKey": "AURABREAK",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4454519,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VI ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Aura Break (Japanese: Aura Break) is an Ability introduced in Generation VI. It is one of the signature Abilities of Zygarde.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description S MD If there is a Pokemon with the Dark Aura or Fairy Aura Ability, the Ability's effect will be reversed! Dark- and Fairy-type moves become weak!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Aura Break inverts the effects of Fairy Aura and Dark Aura : instead of multiplying the power of Fairy - or Dark -type moves by those Abilities' normal multiplier of approximately 4/3 (or more precisely, 5448/4096), the power of moves of that type is divided by 4/3 instead, resulting in a 25% decrease in power as long as both Abilities are active. Even if a Pokemon with Mold Breaker , Teravolt , or Turboblaze uses a Fairy- or Dark-type move, the effect of Aura Break still applies. Outside of battle [ edit | edit source ] In Generation VII , Zygarde with the Ability Aura Break can be separated back into Cores and Cells by the Reassembly Unit . In Generation VIII only, the Zygarde Cube can be used to switch Zygarde's Ability between Aura Break and Power Construct ; in all games, Zygarde cannot switch between Abilities using an Ability Capsule or an Ability Patch .",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Aura Break inverts the effects of Fairy Aura and Dark Aura : instead of multiplying the power of Fairy - or Dark -type moves by those Abilities' normal multiplier of approximately 4/3 (or more precisely, 5448/4096), the power of moves of that type is divided by 4/3 instead, resulting in a 25% decrease in power as long as both Abilities are active. Even if a Pokemon with Mold Breaker , Teravolt , or Turboblaze uses a Fairy- or Dark-type move, the effect of Aura Break still applies.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Makes dark aura and fairy aura weaken moves of their respective types.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Reverses dark and fairy auras",
+        "evidence_ref": "Description",
+        "specificity": 0.9
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Reverses dark and fairy auras",
+        "evidence_ref": "Description",
+        "mystery_score": 0.78,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Turns aura boosts into penalties",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Aura-flipping trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.8,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "aura reverser",
+      "aura flipper"
+    ],
+    "connections_descriptors": [
+      "Aura-reversing abilities",
+      "Gen VI abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257927
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "KEENEYE",
+  "answerDisplay": "KEEN EYE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Keen Eye (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Keen_Eye_(Ability)",
+  "pageId": 4127,
+  "pageRevisionId": 4355834,
+  "leadText": "Keen Eye (Japanese: するどいめ Keen Eye) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation VI 1.2 Outside of battle 1.2.1 Generation VIII onwards Effect [ edit | edit source ] In battle [ edit | edit source ] Generation III [ edit | edit source ] Keen Eye prevents other Pokémon from lowering the accuracy stat stage of the Pokémon with this Ability. It does not prevent Spectral Thief from stealing (i.e., resetting) positive stat changes. Effects that decrease accuracy without using stat stages, such as Wonder Skin and Sand Veil , are unaffected by Keen Eye. This Ability can be ignored with Mold Breaker , Teravolt , and Turboblaze . Generation VI [ edit | edit source ] Keen Eye now also ignores the target's evasion stages. Outside of battle [ edit | edit source ] From Pokémon Emerald onward, if a Pokémon with Keen Eye is in the first place in the party (even if fainted ), there is a 50% chance it will prevent a random wild encounter that would have occurred if the wild Pokémon would be at least 5 levels lower than the Pokémon with Keen Eye. It shares this effect with Intimidate . In Pokémon HeartGold and SoulSilver only, if a Pokémon with Keen Eye breaks a rock , it receives a flat 5% increase in odds of finding an item. Generation VIII onwards [ edit | edit source ] Keen Eye appears to have no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generation III [ edit | edit source ] Keen Eye prevents other Pokémon from lowering the accuracy stat stage of the Pokémon with this Ability. It does not prevent Spectral Thief from stealing (i.e., resetting) positive stat changes. Effects that decrease accuracy without using stat stages, such as Wonder Skin and Sand Veil , are unaffected by Keen Eye. This Ability can be ignored with Mold Breaker , Teravolt , and Turboblaze . Generation VI [ edit | edit source ] Keen Eye now also ignores the target's evasion stages."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Prevents Accuracy from going down. MD T D S Prevents the Pokémon's accuracy from being reduced. B S L めいちゅうが さがらない Conq. Prevents the Pokémon from losing accuracy. MD GtI Prevents accuracy from being lowered. * Accuracy won't be lowered! Never ever! * S MD The Pokémon's accuracy won't be lowered! Never ever! The Pokémon won't be affected by the enemy's boosted evasiveness, either! MD RT DX The Pokémon's accuracy won't be lowered–never ever! The Pokémon won't be affected by an enemy's boosted evasiveness, either."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Keen-Eye",
+    "Keen Eye",
+    "Keen-Eye (Ability)"
+  ],
+  "updatedAt": 1773328974
+}

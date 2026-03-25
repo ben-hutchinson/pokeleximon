@@ -1,0 +1,34 @@
+{
+  "answerKey": "THUNDERCAGE",
+  "answerDisplay": "THUNDER CAGE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Thunder Cage (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Thunder_Cage_(move)",
+  "pageId": 252167,
+  "pageRevisionId": 4406217,
+  "leadText": "Thunder Cage (Japanese: サンダープリズン Thunder Prison) is a damage-dealing Electric-type move introduced during Generation VIII, in The Crown Tundra. It is the signature move of Regieleki.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In addition to dealing damage, Thunder Cage inflicts 1/8 of the target's maximum HP as damage per turn for four to five turns upon use. It also traps the target, preventing switching and escape . If the user switches out, the target will be freed. If the user of Thunder Cage is holding a Grip Claw , the duration will always be 7 turns. If a Binding Band is held by the user, the damage done at the end of each turn will increase from 1/8 of the target's maximum HP to 1/6. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Thunder Cage cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA The user traps the target in a cage of sparking electricity for four to five turns. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user traps the target inside a cage of sparking electricity that inflicts damage for four to five turns."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Thunder Cage most likely draws inspiration from 19th and 20th-century inventions on electromagnetism, such as the Tesla coil or the Faraday cage ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Thunder-Cage",
+    "Thunder Cage",
+    "Thunder-Cage (move)"
+  ],
+  "updatedAt": 1773327927
+}

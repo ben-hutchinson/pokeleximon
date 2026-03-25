@@ -1,0 +1,38 @@
+{
+  "answerKey": "ALLYSWITCH",
+  "answerDisplay": "ALLY SWITCH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Ally Switch (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ally_Switch_(move)",
+  "pageId": 117493,
+  "pageRevisionId": 4426922,
+  "leadText": "Ally Switch (Japanese: サイドチェンジ Side Change) is a non-damaging Psychic-type move introduced in Generation V. It was TM51 in Generation V and TR83 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation V-VI 1.2 Generation VII-VIII 1.3 Generation IX Effect [ edit | edit source ] Ally Switch causes the user to switch places with the ally opposite to itself, and is an increased- priority move. It will fail if the user is in the middle of the field in a Triple Battle , if the user has no ally opposite it, or if used in a Single Battle, Multi Battle , Rotation Battle , or Horde Encounter . If a Pokémon targeted an ally with a move, but as a result of Ally Switch the Pokémon is now targeting itself when it would execute the move, the move will fail (even if the move is Acupressure ). Snipe Shot and the Abilities Stalwart and Propeller Tail ignore Ally Switch and hit the intended target. Generation V-VI [ edit | edit source ] Ally Switch's priority is +1. Generation VII-VIII [ edit | edit source ] Ally Switch has its priority increased to +2. If powered up by a Psychium Z into Z-Ally Switch, the user's Speed stat rises by two stages. Generation IX [ edit | edit source ] This move effect may be in need of research. Reason: Check Ally Switch's exact success chance and whether the success chance is tied to protection moves . You can discuss this on the talk page. Using Ally Switch consecutively now decreases the chance of success for each consecutive use."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user teleports using a strange power and switches its place with one of its allies. X Y OR AS S M US UM P E Sw Sh BD SP LA The user teleports using a strange power and switches places with one of its allies. S V The user teleports using a strange power and switches places with one of its allies. This move's chance of failing rises if it is used in succession."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI UNUSED S MD MD RT DX It switches the positions of you and your teammate."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] All Pokémon that can learn Ally Switch through TM in Generation V that have genders can learn it through breeding in Generations VI and VII. In X and Y , Tyrogue is programmed to learn Ally Switch as an Egg Move , but there are no legitimate ways to pass the move, as it is male-only and none of its Evolutions can learn Ally Switch by other means. Despite this, Tyrogue and its Evolutions are unable to learn Ally Switch through Move Tutor in Ultra Sun and Ultra Moon or TR in Sword and Shield ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ally-Switch",
+    "Ally Switch",
+    "Ally-Switch (move)"
+  ],
+  "updatedAt": 1773320749
+}

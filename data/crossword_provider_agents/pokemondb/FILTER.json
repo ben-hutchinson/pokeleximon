@@ -1,0 +1,17 @@
+{
+  "answerKey": "FILTER",
+  "answerDisplay": "FILTER",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this ability, and the list of Pokémon that learn it.",
+  "score": 102.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/ability/filter",
+  "extract": "Filter, and the list of Pokémon that learn it.",
+  "rankPosition": 1,
+  "updatedAt": 1774211252
+}

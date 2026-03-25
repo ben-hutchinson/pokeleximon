@@ -1,0 +1,38 @@
+{
+  "answerKey": "NEEDLEARM",
+  "answerDisplay": "NEEDLE ARM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Needle Arm (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Needle_Arm_(move)",
+  "pageId": 3913,
+  "pageRevisionId": 4500940,
+  "leadText": "Needle Arm (Japanese: ニードルアーム Needle Arm) is a damage-dealing Grass-type move introduced in Generation III. Prior to Generation V, it was the signature move of Cacnea and Cacturne.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation III to VII [ edit | edit source ] Needle Arm inflicts damage and has a 30% chance of causing the target to flinch . In Generation III only, Needle Arm will deal double the damage if its target had previously used Minimize . Generation VIII onwards [ edit | edit source ] Needle Arm cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Attacks with thorny arms. May cause flinching. FR LG An attack using thorny arms. It may make the foe flinch. D P Pt HG SS PBR B W B2 W2 The user attacks by wildly swinging its thorny arms. It may also make the target flinch. X Y OR AS S M US UM P E The user attacks by wildly swinging its thorny arms. This may also make the target flinch. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also cause the target to cringe, making it incapable of action. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Cringe status condition, which makes its actions fail. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで ひるみじょうたいにして わざや こうげきを だせなくする MD GtI UNUSED S MD It damages an enemy. It could also cause the enemy to flinch."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generations III-V, Secret Power has the animation of Needle Arm if used in tall grass . Needle Arm is the only Grass-type move capable of making the target flinch . Despite Needle Arm depicting an animation with a fist, it is not boosted by Iron Fist ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Needle-Arm",
+    "Needle Arm",
+    "Needle-Arm (move)"
+  ],
+  "updatedAt": 1773325310
+}

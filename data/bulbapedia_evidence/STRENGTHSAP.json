@@ -1,0 +1,30 @@
+{
+  "answerKey": "STRENGTHSAP",
+  "answerDisplay": "STRENGTH SAP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Strength Sap (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Strength_Sap_(move)",
+  "pageId": 218339,
+  "pageRevisionId": 4403450,
+  "leadText": "Strength Sap (Japanese: ちからをすいとる Strength Sap) is a non-damaging Grass-type move introduced in Generation VII. Prior to Generation VIII, it was the signature move of Morelull and Shiinotic, but other Pokémon could still inherit it via breeding.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Strength Sap lowers the target's Attack stat by one stage, and restores the user's HP by an amount equal to the target's effective Attack stat before Strength Sap was used (taking any stat stages into account). Strength Sap fails if the target already has -6 Attack stat stages. Strength Sap does not fail if the target has +6 Attack stat stages and Contrary , or otherwise cannot have its Attack stat lowered (such as due to being protected by Mist or having Hyper Cutter ), still restoring HP in that case. Strength Sap does not fail if the user of Strength Sap has full HP, still lowering the target's Attack in that case. If the user is holding a Big Root , Strength Sap recovers 30% more HP. If the target has the Ability Liquid Ooze , the user will lose the amount of HP it would have gained instead. If powered up by a Grassium Z into Z-Strength Sap, the user's Defense stat rises one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh BD SP LA The user restores its HP by the same amount as the target's Attack stat. It also lowers the target's Attack stat. S V The user restores its own HP by the same amount as the target's Attack stat. It then lowers the target's Attack stat."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Strength-Sap",
+    "Strength Sap",
+    "Strength-Sap (move)"
+  ],
+  "updatedAt": 1773327610
+}

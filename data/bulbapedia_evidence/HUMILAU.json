@@ -1,0 +1,31 @@
+{
+  "answerKey": "HUMILAU",
+  "answerDisplay": "HUMILAU",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Humilau City",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Humilau_City",
+  "pageId": 163682,
+  "pageRevisionId": 4509468,
+  "leadText": "Humilau City (Japanese: セイガイハシティ Seigaiha City) is a city in northeastern Unova. It is the location of the Humilau Gym, with the Gym Leader Marlon.",
+  "sections": [
+    {
+      "title": "Slogan",
+      "text": "Slogan [ edit | edit source ] Calm and Sparkling Seas (Japanese: 表すは 穏やかな 海 Represents the calm sea. )"
+    },
+    {
+      "title": "Places of interest",
+      "text": "Places of interest [ edit | edit source ] Humilau Gym [ edit | edit source ] Main article: Humilau Gym The Humilau Gym is the official Gym of Humilau City. The Gym specializes in Water-type Pokémon. The Gym Leader is Marlon . Trainers who defeat him receive the Wave Badge . Move Tutor [ edit | edit source ] The Move Tutor here is located in the first house along the boardwalk from Humilau Gym to Route 22. He will teach a total of 13 moves for Yellow Shards . In these games, he is the only Shard Move Tutor to not teach a move introduced in Generation V . Move Type Cat. Shards Bind Normal Physical 0 0 0 2 Snore Normal Special 0 0 0 2 Heal Bell Normal Status 0 0 0 4 Knock Off Dark Physical 0 0 0 4 Synthesis Grass Status 0 0 0 6 Roost Flying Status 0 0 0 6 Sky Attack Flying Physical 0 0 0 8 Role Play Psychic Status 0 0 0 8 Heat Wave Fire Special 0 0 0 10 Giga Drain Grass Special 0 0 0 10 Drain Punch Fighting Physical 0 0 0 10 Pain Split Normal Status 0 0 0 10 Tailwind Flying Status 0 0 0 10"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Humilau-City",
+    "Humilau City",
+    "Humilau",
+    "Humilau-City (location)"
+  ],
+  "updatedAt": 1774214192
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "METEORMASH",
+  "answerDisplay": "METEOR MASH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Meteor Mash (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Meteor_Mash_(move)",
+  "pageId": 3920,
+  "pageRevisionId": 4446481,
+  "leadText": "Meteor Mash (Japanese: コメットパンチ Comet Punch) is a damage-dealing Steel-type move introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation III to V [ edit | edit source ] Meteor Mash inflicts damage and has a 20% chance of raising the user's Attack stat by one stage. Generation VI onwards [ edit | edit source ] Meteor Mash's power was decreased from 100 to 90 and its accuracy was increased from 85% to 90%."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Fires a meteor-like punch. May raise Attack . FR LG The foe is hit with a hard, fast punch. It may also raise the user's Attack . D P Pt HG SS PBR The foe is hit with a hard punch fired like a meteor. It may also raise the user's Attack. B W B2 W2 The target is hit with a hard punch fired like a meteor. It may also raise the user's Attack. X Y OR AS S M US UM P E Sw Sh BD SP LA The target is hit with a hard punch fired like a meteor. This may also raise the user's Attack stat. S V The target is hit with a hard punch fired like a meteor. This may also boost the user’s Attack stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target, even at a distance. It may also boost the user's Attack by one level. MD T D S Inflicts damage on the target, even at a distance. It may also boost the user's Attack by 1 level. B S L はなれたポケモンに ダメージをあたえる いっていのかくりつで じぶんのこうげきを １だんかいあげる Conq. The target is hit with a hard punch fired like a meteor. It may also raise the user's Attack. MD GtI UNUSED S MD It damages an enemy. It could also boost your Attack. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The Ability Iron Fist , which boosts the power of punching moves by 20%, affects Meteor Mash. This move's status as a punching move is more clear in its Japanese name, コメットパンチ Comet Punch (a name which was already taken by a Generation I move in English)."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Meteor-Mash",
+    "Meteor Mash",
+    "Meteor-Mash (move)"
+  ],
+  "updatedAt": 1773324997
+}

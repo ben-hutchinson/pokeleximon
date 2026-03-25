@@ -52,6 +52,10 @@ Read endpoints cache for 5 minutes in Redis. Keys follow:
 - `puzzle:archive:{gameType}:{limit}:{cursor}`
 - `puzzle:meta:{id}`
 
+## Metrics
+- `GET /metrics` exposes Prometheus metrics for API traffic, process health, reserve coverage, users, gameplay activity, jobs, and alerts.
+- In production this path is scraped only on the internal Docker network by Prometheus; it is not proxied publicly by Caddy.
+
 ## Examples
 See `/Users/ben.hutchinson/code/pokeleximon/docs/api-examples.md`.
 
@@ -106,12 +110,14 @@ Set reserve controls in `.env`:
 - `ARTIFACT_S3_ADDRESSING_STYLE` optional `path` or `virtual`
 - `ARTIFACT_S3_PRESIGN_TTL_SECONDS` return presigned GET URL when > 0 (default `0`)
 - `CROSSWORD_CSV_PATH` optional override for crossword curated CSV path
+- `CRYPTIC_CLUES_PATH` optional override for the curated cryptic lexicon path
+- `CRYPTIC_CSV_PATH` legacy override for the curated cryptic lexicon path
 
 Local testing tip:
 - Keep `ARTIFACT_STORAGE_BACKEND=local` to write JSON artifacts under `ARTIFACT_STORAGE_DIR`.
 - Switch to `ARTIFACT_STORAGE_BACKEND=s3` only in environments where S3 credentials/bucket are configured.
 - Example refresh command:
-  `POKEAPI_REFRESH_COMMAND=bash -lc 'cd /app/services/crossword-gen && python scripts/build_wordlist.py && python scripts/build_crossword_wordlist.py && python scripts/build_detail_corpus.py && python scripts/rebuild_crossword_answer_clue_csv.py && python scripts/build_crossword_clue_variants.py --cache-only --strict-min-clues --min-clues-per-answer 3 --max-clues-per-answer 5'`
+  `POKEAPI_REFRESH_COMMAND=bash -lc 'cd /app/services/crossword-gen && python scripts/build_wordlist.py && python scripts/build_crossword_wordlist.py && python scripts/build_detail_corpus.py && python scripts/rebuild_crossword_answer_clue_csv.py'`
 
 ### Suggested env profiles
 - Local/dev profile: `/Users/ben.hutchinson/code/pokeleximon/services/api/.env`
@@ -141,10 +147,6 @@ Base: `/api/v1`
 - `GET /admin/reserve`
 - `POST /admin/reserve/topup`
 - `POST /admin/cryptic/generate`
-- `POST /admin/cryptic/train-ranker`
-- `GET /admin/cryptic/models`
-- `GET /admin/cryptic/training-readiness`
-- `POST /admin/cryptic/models/{modelVersion}/activate`
 - `GET /admin/alerts`
 - `POST /admin/alerts/{id}/resolve`
 - `GET /admin/jobs`
@@ -157,10 +159,12 @@ Base: `/api/v1`
 - Optional scheduler job can run the PokeAPI snapshot/artifact refresh command when
   `POKEAPI_REFRESH_ENABLED=true`.
 - Crossword reserve loads curated answer/clue rows from `/app/data/wordlist_crossword_answer_clue.csv` (or `CROSSWORD_CSV_PATH` override).
+- Cryptic reserve loads curated answer/clue rows from `/app/cryptic_clues.json` by default, with legacy CSV fallback at `/app/data/wordlist_cryptic_answer_clue.csv`.
+- `CRYPTIC_CLUES_PATH` can point at either the curated JSON file or the legacy CSV file.
 - Canonical decision record: `/Users/ben.hutchinson/code/pokeleximon/docs/adr/0001-crossword-curated-csv-source.md`.
 - Crossword generation now applies a publishability governance pass (fill ratio, clue uniqueness, intersection density, direction balance, word-length balance, and answer leakage checks) with bounded retries.
-- Cryptic reserve top-up now builds a canonical Pokemon lexicon (species/moves/items/locations/abilities/types) and emits rule-based cryptic-style clues.
-- Cryptic candidate rows (all ranked options with validator metadata) are stored in `cryptic_candidates`.
+- Cryptic generation now uses manually curated clue variants only; the runtime picks an answer and one of its stored clues for the target date.
+- The selected cryptic clue is still recorded in `cryptic_candidates` for telemetry linkage, but there is no live ranking/model pipeline in the generation path.
 - Manual trigger:
 ```bash
 ADMIN_TOKEN="replace-with-your-admin-token"
@@ -169,10 +173,6 @@ curl -H "X-Admin-Token: ${ADMIN_TOKEN}" -X POST "http://localhost:8000/api/v1/ad
 curl -H "X-Admin-Token: ${ADMIN_TOKEN}" -X POST "http://localhost:8000/api/v1/admin/reserve/topup?gameType=cryptic&targetCount=30"
 curl -H "X-Admin-Token: ${ADMIN_TOKEN}" -X POST "http://localhost:8000/api/v1/admin/cryptic/generate?limit=5&topK=3"
 curl -H "X-Admin-Token: ${ADMIN_TOKEN}" -X POST "http://localhost:8000/api/v1/admin/cryptic/generate?answerKey=FIRESTONE&topK=5&includeInvalid=true"
-curl -H "X-Admin-Token: ${ADMIN_TOKEN}" -X POST "http://localhost:8000/api/v1/admin/cryptic/train-ranker?promote=true"
-curl -H "X-Admin-Token: ${ADMIN_TOKEN}" "http://localhost:8000/api/v1/admin/cryptic/models?limit=10"
-curl -H "X-Admin-Token: ${ADMIN_TOKEN}" "http://localhost:8000/api/v1/admin/cryptic/training-readiness"
-curl -H "X-Admin-Token: ${ADMIN_TOKEN}" -X POST "http://localhost:8000/api/v1/admin/cryptic/models/cryptic-ranker-20260211162000-abc123/activate"
 ```
 - Job history:
 ```bash

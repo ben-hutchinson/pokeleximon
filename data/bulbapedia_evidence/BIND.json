@@ -1,0 +1,37 @@
+{
+  "answerKey": "BIND",
+  "answerDisplay": "BIND",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Bind (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bind_(move)",
+  "pageId": 3628,
+  "pageRevisionId": 4470643,
+  "leadText": "Bind (Japanese: しめつける Bind) is a damage-dealing Normal-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generation III 1.4 Generation IV 1.5 Generation V 1.6 Generation VI onwards Effect [ edit | edit source ] Generation I [ edit | edit source ] This move effect may be in need of research. Reason: Check whether this line applies to both Pokémon Stadium (Japanese) and the international Pokémon Stadium : \"In Pokémon Stadium, if the target Pokémon switches out before the duration ends Bind is ended and the user's turn is skipped.\" You can discuss this on the talk page. Bind has an accuracy of 75%. Bind inflicts damage for 2-5 turns. There is a 37.5% chance that it will attack for 2 turns, a 37.5% chance that it will attack for 3 turns, a 12.5% chance that it will attack for 4 turns, and a 12.5% chance that it will attack for 5 turns. Although only the first hit can be a critical hit , each turn's hit will deal the same amount of damage. Until Bind ends, the target will be unable to attack, including the starting turn, if the user of Bind moves first. Bind will prevent the target from attacking even if it hits a substitute . While it's inflicting damage, the text \" 's attack continues!\" appears. While Bind is ongoing, neither the user nor the target will be able to select moves (selecting \"Fight\" will cause the user to continue to deal damage and the target to do nothing), but both the user and target can switch out. No message is given on the last turn, so players will not know whether Bind has ended unless they select \"Fight\" to open the move list. Damage done by Bind's continuing duration is done after recurrent damage. If the user switches out before the turn duration ends, the target will be unable to attack during that turn, since it did not get to select a move. If the target switches out before the turn duration ends, Bind will automatically be used against the incoming Pokémon, deducting an additional PP from the move. If at such a time Bind has 0 PP, Bind will still be used, and the current PP of Bind will roll over to 63 , applying full PP Ups . Even if Bind misses, it will negate the recharge turn normally required for Hyper Beam . Additionally, if the user of Bind attacks before the user of Hyper Beam during a recharge turn and the use of Bind misses, the user of Hyper Beam will automatically use Hyper Beam during that turn. If at such a time Hyper Beam has 0 PP, Hyper Beam will still be used, and afterwards its current PP will roll over to 63, and full PP ups will be applied to it. Although Bind cannot damage Ghost-type Pokémon, it can still make them unable to attack for its duration. If Bind is successful, the text will say that it \"didn't affect\" the Ghost-type Pokémon regardless, and Bind's animation will not play on the initial turn (but will during the subsequent turns of its duration). In Pokémon Stadium , the player can select a move during each turn of Bind's duration. If the target switches out before the duration ends, the incoming Pokémon will not be automatically attacked; instead, the user's turn is skipped. Bind will negate the recharge turn of Hyper Beam only if successful. Generation II [ edit | edit source ] The target is now able to attack during Bind's duration, and can act normally. Instead, it inflicts 1/16 of the target's maximum HP as damage for two to five turns upon use, in addition to the damage dealt when it is used. The quote \" used Bind on !\" will appear. It also traps the target, preventing switching and escape . If the user switches out, the target will be freed. If a trapped Pokémon uses Rapid Spin , it will be freed. Bind can no longer affect Ghost-type Pokémon. Generation III [ edit | edit source ] Same as before, but if a wild Pokémon uses Bind on the player's Pokémon, the player may escape if the affected Pokémon has Run Away or is holding a Smoke Ball . However, these do not allow the player to switch the Pokémon out. The text also changes to \" was squeezed by 's Bind !\" Bind can be used as the second move of a Pokémon Contest combination , with the user gaining 3 bonus appeal points if ViceGrip was used in the previous turn. Bind is now affected by King's Rock . Generation IV [ edit | edit source ] If the user of Bind is holding a Grip Claw , the duration will always be 5 turns. Also, if an affected Pokémon is holding a Shed Shell , it can switch out. The text changes again, this time to \" was squeezed by !\" Generation V [ edit | edit source ] Bind's accuracy changed from 75% to 85%. Its effect will last either 4 or 5 turns. If the user of Bind is holding a Grip Claw , the duration will be 7 turns. If a Binding Band is held by the user, the damage done at the end of each turn will increase from 1/16 of the target's maximum HP to 1/8. Generation VI onwards [ edit | edit source ] The end turn damage of Bind is increased from 1/16 to 1/8 of the target's maximum HP. If the user is holding a Binding Band , the end turn damage of Bind will increase to 1/6 of the target's maximum HP."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 Traps and squeezes the target over several turns. The target cannot move while under attack. G S C Binds the target for 2-5 turns. R S E Binds and squeezes the foe for 2 to 5 turns. Colo XD Binds and squeezes the target for 2 to 5 turns. FR LG A long body or tentacles are used to bind the foe for two to five turns. D P Pt HG SS PBR A long body or tentacles are used to bind and squeeze the foe for two to five turns. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA Things such as long bodies or tentacles are used to bind and squeeze the target for four to five turns. S V A long body, tentacles, or the like are used to bind and squeeze the target for four to five turns."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also cause constriction, making the foe incapable of movement. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Constriction status condition, making it incapable of movement. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで しめつけじょうたいにして いどうできなくする MD GtI It damages an enemy. It could also cause the Bound status condition. (With the Bound status, the enemy can't move and keeps taking damage.) S MD It damages an enemy. It could also make the enemy bound."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Despite the function of binding moves being changed from Generation I to Generation II, Bind's description in Pokémon Stadium 2 still states it makes the target unable to move. This is also the case for Fire Spin and Wrap ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Bind",
+    "Bind (move)"
+  ],
+  "updatedAt": 1773321177
+}

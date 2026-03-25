@@ -1,0 +1,34 @@
+{
+  "answerKey": "MAGICPOWDER",
+  "answerDisplay": "MAGIC POWDER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Magic Powder (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Magic_Powder_(move)",
+  "pageId": 244322,
+  "pageRevisionId": 4407221,
+  "leadText": "Magic Powder (Japanese: まほうのこな Magic Powder) is a non-damaging Psychic-type move introduced in Generation VIII. It is the signature move of Hatterene.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Magic Powder changes the target's type to pure Psychic . The effect lasts as long as the target remains in battle; however, changing form , transforming or Terastallizing overrides the effect. Magic Powder fails if the target has a substitute , is already a pure Psychic type, is Terastallized, or its Ability is RKS System . Being a powder move, it fails on Grass-type Pokémon, Pokémon with the Ability Overcoat , or holding Safety Goggles . Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Magic Powder cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA The user scatters a cloud of magic powder that changes the target to Psychic type. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user scatters a cloud of magic powder that changes the target's type to Psychic."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Magic Powder is the only powder-based move that cannot be learned by a Grass or Bug -type Pokémon."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Magic-Powder",
+    "Magic Powder",
+    "Magic-Powder (move)"
+  ],
+  "updatedAt": 1773324643
+}

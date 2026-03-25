@@ -1,0 +1,16 @@
+{
+  "answerKey": "FRIENDGUARD",
+  "answerDisplay": "FRIEND GUARD",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen V ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Friend_Guard_(Ability)",
+  "extract": "Friend Guard (Japanese: フレンドガード Friend Guard) is an Ability introduced in Generation V.",
+  "updatedAt": 1774258442
+}

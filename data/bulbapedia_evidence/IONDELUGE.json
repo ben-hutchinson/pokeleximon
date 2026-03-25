@@ -1,0 +1,38 @@
+{
+  "answerKey": "IONDELUGE",
+  "answerDisplay": "ION DELUGE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Ion Deluge (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ion_Deluge_(move)",
+  "pageId": 185079,
+  "pageRevisionId": 4455456,
+  "leadText": "Ion Deluge (Japanese: プラズマシャワー Plasma Shower) is a non-damaging Electric-type move introduced in Generation VI.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VI 1.2 Generation VII 1.3 Generation VIII onwards Effect [ edit | edit source ] Generation VI [ edit | edit source ] For the remainder of the current turn, Ion Deluge causes all Normal-type moves to become Electric-type instead, including status moves . Ion Deluge has a priority of +1, so it is used before all moves that do not have increased priority. Ion Deluge does not affect Struggle . It does not affect Conversion , which still takes into account a move's original type; therefore a Pokémon with a Normal-type move at the top of its move list (including Conversion itself) using Conversion will become Normal-type and not Electric-type even under the effect of Ion Deluge. Moves that change type , such as Judgment or Revelation Dance , are affected by Ion Deluge if they would otherwise deal Normal-type damage. Moves with a charging turn will only change type if the user is affected by Ion Deluge on the turn the move does damage. The type-changing effect is applied after move type-changing Abilities , so it cannot affect an originally Normal-type move used by a Pokémon with Pixilate but can affect an originally Fairy-type move used by a Pokémon with Normalize . If the move Flying Press used by a Pokémon with Normalize is affected by Ion Deluge, it deals Electric / Flying -type damage. If the move Freeze-Dry used by a Pokémon with Normalize is affected by Ion Deluge, its ability to hit Water-type Pokémon super effectively does not stack with its Electric typing (a Water-type Pokémon hit by the move will only take ×2 damage); in Inverse Battles , Freeze-Dry affected by Normalize and then Ion Deluge will hit Water-type Pokémon super effectively. Generation VII [ edit | edit source ] Due to a glitch , in Version 1.0 of Pokémon Ultra Sun and Ultra Moon , Ion Deluge always fails when used. If powered up by an Electrium Z into Z-Ion Deluge, the user's Special Attack stat rises one stage. Generation VIII onwards [ edit | edit source ] Ion Deluge cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E The user disperses electrically charged particles, which changes Normal-type moves to Electric-type moves. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It changes Normal-type moves of Pokémon on the floor to Electric type. * It changes the floor to the Ion Deluge condition. In the Ion Deluge condition, Normal-type moves will be Electric type. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Ion Deluge is one of three moves that have been used in a completed series of the animated series , but not been seen in the English dub . The other two are Conversion and Minimize . Although this move is unusable as of Generation VIII , its effect can still be applied by Plasma Fists ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ion-Deluge",
+    "Ion Deluge",
+    "Ion-Deluge (move)"
+  ],
+  "updatedAt": 1773323931
+}

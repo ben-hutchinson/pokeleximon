@@ -1,0 +1,30 @@
+{
+  "answerKey": "GLITZYGLOW",
+  "answerDisplay": "GLITZY GLOW",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Glitzy Glow (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Glitzy_Glow_(move)",
+  "pageId": 233650,
+  "pageRevisionId": 4269972,
+  "leadText": "Glitzy Glow (Japanese: どばどばオーラ Gushing Aura) is a damage-dealing Psychic-type move introduced during Generation VII, in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. It is one of the signature moves of the partner Eevee.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VII [ edit | edit source ] Glitzy Glow deals damage and sets up the effects of the move Light Screen on the user's side of the field. Generation VIII onwards [ edit | edit source ] Glitzy Glow cannot be selected in a battle. However, it has been modified: its power was changed to 80 and its accuracy to 95%."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description P E The user bombards the target with telekinetic force. A wondrous wall of light is put up to weaken the power of the opposing Pokémon's special moves. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Glitzy-Glow",
+    "Glitzy Glow",
+    "Glitzy-Glow (move)"
+  ],
+  "updatedAt": 1773323232
+}

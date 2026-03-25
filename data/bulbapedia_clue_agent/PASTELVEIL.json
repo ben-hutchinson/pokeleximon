@@ -1,0 +1,57 @@
+{
+  "answerKey": "PASTELVEIL",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4392434,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Pastel Veil (Japanese: Pastel Veil) is an Ability introduced in Generation VIII. It is the signature Ability of Galarian Ponyta and Galarian Rapidash.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Pastel Veil prevents the Pokemon with this Ability and its allies from being afflicted by poison . It also heals the poisoned status condition of allies if a Pokemon with this Ability is sent out into battle. Outside of battle [ edit | edit source ] Pastel Veil has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Pastel Veil prevents the Pokemon with this Ability and its allies from being afflicted by poison . It also heals the poisoned status condition of allies if a Pokemon with this Ability is sent out into battle.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Prevents the Pokemon and its allies from being poisoned.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "poisoning trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "poisoning trait"
+    ],
+    "connections_descriptors": [
+      "Poisoning abilities",
+      "Gen VIII abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257990
+}

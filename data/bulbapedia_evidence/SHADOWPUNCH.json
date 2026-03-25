@@ -1,0 +1,34 @@
+{
+  "answerKey": "SHADOWPUNCH",
+  "answerDisplay": "SHADOW PUNCH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Punch (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Punch_(move)",
+  "pageId": 3936,
+  "pageRevisionId": 4500939,
+  "leadText": "Shadow Punch (Japanese: シャドーパンチ Shadow Punch) is a damage-dealing Ghost-type move introduced in Generation III. It is TM118 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Shadow Punch inflicts damage and bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD An unavoidable punch that is thrown from shadows. FR LG The user throws a punch from the shadows. It cannot be evaded. D P Pt HG SS PBR The user throws a punch at the foe from the shadows. The punch lands without fail. B W B2 W2 The user throws a punch from the shadows. The punch lands without fail. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user throws a punch from the shadows. This attack never misses. ZA The user attacks by hiding in shadows and then throwing out a quick punch."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. It never misses. B S L てきポケモンに ダメージをあたえる かならず めいちゅうする MD GtI S MD MD RT DX It damages an enemy. It never misses."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Punch",
+    "Shadow Punch",
+    "Shadow-Punch (move)"
+  ],
+  "updatedAt": 1773326847
+}

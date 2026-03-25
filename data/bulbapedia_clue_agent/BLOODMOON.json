@@ -1,0 +1,67 @@
+{
+  "answerKey": "BLOODMOON",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4503224,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX Normal move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Normal special move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Effect [ edit | edit source ] Blood Moon inflicts damage. The user cannot select Blood Moon in succession unless the move failed. If the player attempts to use Blood Moon twice in a row, they will be prevented from doing so, and will be allowed to select another move. Once another move is used, Blood Moon can be used again. If the user cannot select another move (due to Choice items or having no other usable moves), it will use Struggle every other turn. Instruct and Sleep Talk allow Blood Moon to be used twice in a row. Encore allows Blood Moon to be used twice in a row, but on subsequent turns of the Encore, the user will be forced to Struggle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "140-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Normal special move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen IX Normal move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "140-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "normal special move"
+    ],
+    "connections_descriptors": [
+      "Normal Special moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257930
+}

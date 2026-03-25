@@ -1,0 +1,18 @@
+{
+  "answerKey": "RILEY",
+  "status": "no_candidates",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4472736,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [],
+    "crossword_candidates": [],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.25
+  },
+  "updatedAt": 1774258002
+}

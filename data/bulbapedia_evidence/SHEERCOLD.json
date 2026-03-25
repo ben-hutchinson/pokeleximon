@@ -1,0 +1,38 @@
+{
+  "answerKey": "SHEERCOLD",
+  "answerDisplay": "SHEER COLD",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sheer Cold (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sheer_Cold_(move)",
+  "pageId": 3940,
+  "pageRevisionId": 4470023,
+  "leadText": "Sheer Cold (Japanese: ぜったいれいど Absolute Zero) is an Ice-type one-hit knockout move introduced in Generation III. It is TM155 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations III to VI 1.2 Generation VII onwards 1.3 Generation IX 1.3.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generations III to VI [ edit | edit source ] If Sheer Cold hits, it will inflict damage equal to the target's current HP . Despite having an accuracy of 30% listed, Sheer Cold's chance of hitting a Pokémon is instead calculated using the following formula: H i t C h a n c e = ( L e v e l u s e r − L e v e l t a r g e t + 3 0 ) % This formula means that the accuracy starts at 30% when the Pokémon have the same level, and is 1% more likely to hit for every level the user is higher than the target. If the user is at least 70 levels higher than the target, Sheer Cold will always hit. If the user is a lower level than the target, the move always fails. This chance of hitting is not an accuracy: it is not affected by accuracy and evasion stats, nor is it affected by other accuracy modifiers such as Gravity , Wide Lens , and Compound Eyes . Additionally, Sheer Cold cannot hit a semi-invulnerable Pokémon. However, effects that guarantee moves to hit (such as No Guard and Lock-On ) still affect Sheer Cold if the user's level isn't lower than the target's. Sheer Cold can be used as part of a Contest Spectacular combination and will give an extra three appeal points if any of the moves Lock-On , Mind Reader and Miracle Eye was used in the prior turn. Generation VII onwards [ edit | edit source ] Ice-type Pokémon are now immune to Sheer Cold. Additionally, the move's base chance of hitting is only 20% if the user is not an Ice-type Pokémon: H i t C h a n c e n o n I c e = ( L e v e l u s e r − L e v e l t a r g e t + 2 0 ) % Under this formula, if the user is at least 80 levels higher than the target, Sheer Cold will always hit. When used in a Max Raid Battle against a Dynamax Pokémon while it is under the effect of a mysterious barrier, Sheer Cold will deplete two bars of the barrier's strength if it hits. Otherwise, Sheer Cold will always fail against Dynamax Pokémon. Tera Raid bosses are unaffected by Sheer Cold. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] In Pokémon Legends: Z-A , Sheer Cold doesn't instantly knock out targets, instead dealing damage normally. Sheer Cold freezes targets every time it hits. Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 150 180 Cooldown 20s Move wind-up time 100 frames 90 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD A chilling attack that causes fainting if it hits. FR LG The foe is attacked with ultimate cold that causes fainting if it hits. D P Pt HG SS PBR The foe is attacked with a blast of absolute-zero cold. The foe instantly faints if it hits. B W B2 W2 The target is attacked with a blast of absolute-zero cold. The target instantly faints if it hits. X Y OR AS The target is attacked with a blast of absolute-zero cold. The target faints instantly if this attack hits. S M US UM P E Sw Sh BD SP The target faints instantly. It's less likely to hit the target if it's used by Pokémon other than Ice types. S V The target faints instantly. This move is less likely to hit the target if used by Pokémon other than Ice types. ZA The user attacks targets with an absolute-zero chill. This also leaves targets frozen, but this move takes a great deal of time to carry out."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Defeats the target in one shot--if it hits. MD T D S Defeats the target in one shot if it hits successfully. B S L てきポケモンを いちげきで たおしてしまうが めいちゅうしにくい MD GtI S MD When the move hits, it knocks out an enemy in a single blow. * The enemy will faint instantly if this attack hits, but it's hard to land this move. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Sheer Cold is the only OHKO move introduced outside of Generation I , and the only special OHKO move. Prior to Generation VII, it was the only OHKO move that no Pokémon had a type-based immunity to. Sheer Cold is the only damage-dealing move where a type immunity can occur through the move’s property rather than by standard type matchups or Ability immunities. In this case, Ice-types are immune to the attack as of Generation VII . Sheer Cold, as it functions in Pokémon Legends: Z-A , is the only move with a 100% chance to inflict the freeze status condition on the target."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sheer-Cold",
+    "Sheer Cold",
+    "Sheer-Cold (move)"
+  ],
+  "updatedAt": 1773326888
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "POISONJAB",
+  "answerDisplay": "POISON JAB",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Poison Jab (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Poison_Jab_(move)",
+  "pageId": 17446,
+  "pageRevisionId": 4500918,
+  "leadText": "Poison Jab (Japanese: どくづき Poison Stab) is a damage-dealing Poison-type move introduced in Generation IV. It is: TM84 from Generation IV to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TM26 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR57 in Pokémon Sword and Shield. TM083 in Pokémon Scarlet and Violet. TM077 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Poison Jab inflicts damage and has a 30% chance of poisoning the target. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Poison Jab's PP has been reduced to 10. Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 80 60 100 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 30% 30% 50% Turns 3 2 4 ? ? May inflict the target with poison Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 80 96 Cooldown 8s Move wind-up time 10 frames Effect duration —s Additional effect Chance 30% — — May poison the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe. (move) The foe is stabbed with a tentacle or arm seeped with poison. It may also poison the foe. (TM) B W B2 W2 The target is stabbed with a tentacle or arm steeped in poison. It may also poison the target. X Y OR AS S M US UM The target is stabbed with a tentacle or arm steeped in poison. This may also poison the target. P E Sw Sh BD SP LA The target is stabbed with a tentacle, arm, or the like steeped in poison. This may also poison the target. S V The target is stabbed with a tentacle, an arm, or the like steeped in poison. This may also poison the target. ZA The user attacks by stabbing targets with a poison- soaked tentacle, arm, or the like. This may also leave targets poisoned."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Poisoned status condition, which causes periodic damage. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで どくじょうたいにして いっていターンごとに ダメージをあたえる Conq. The target is stabbed with a tentacle or arm steeped in poison. It may also poison the target. MD GtI It damages an enemy. It could also cause the Poisoned status condition. With the Poisoned status, the enemy keeps taking damage and can't restore its HP naturally. S MD It damages an enemy. It could also make the enemy poisoned."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Poison Jab was the first Generation IV move seen in the animated series ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Poison-Jab",
+    "Poison Jab",
+    "Poison-Jab (move)"
+  ],
+  "updatedAt": 1773325883
+}

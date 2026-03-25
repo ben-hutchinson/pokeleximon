@@ -1,0 +1,30 @@
+{
+  "answerKey": "POKEMONFESTA",
+  "answerDisplay": "POKEMON FESTA",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Pokémon Festa",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Festa",
+  "pageId": 5753,
+  "pageRevisionId": 4338544,
+  "leadText": "Pokémon Festa (Japanese: ポケモンフェスタ Pokémon Festa) was an annual convention held throughout various locations in Japan. It was sanctioned by Nintendo and featured events, games, shopping, and previews of upcoming games and movies.",
+  "sections": [
+    {
+      "title": "Pokémon Festa 2002",
+      "text": "Pokémon Festa 2002 [ edit | edit source ] The 2002 event gave further information about the games Pokémon Ruby and Sapphire . Those who came to the event were given the opportunity of playing through a demo of the games . The features of this demo were limited however, for example the Flower Shop was always closed."
+    },
+    {
+      "title": "Pokémon Festa 2003",
+      "text": "Pokémon Festa 2003 [ edit | edit source ] Pokémon Festa 2003 featured a distribution of the Negaiboshi Jirachi . Locations and dates [ edit | edit source ] Region Location Dates Hokkaido Sapporo Community Dome , Sapporo July 19 to 20 Chūbu Port Messe Nagoya , Nagoya July 26 to 27 Kansai Intex Osaka , Osaka August 2 to 3 Kantō Saitama Super Arena , Saitama August 6 Kantō Pacifico Yokohama , Minato Mirai 21 , Yokohama August 9 to 10 Shikoku Sun Messe Kagawa , Takamatsu August 13 Tōhoku Sherukomu Sendai , Sendai August 16 Chūgoku and San'yō Hiroshima Sun Plaza , Hiroshima August 20 Kyushu Marine Messe Fukuoka , Fukuoka August 24"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Pokemon-Festa",
+    "Pokemon Festa",
+    "Pokemon-Festa (location)"
+  ],
+  "updatedAt": 1773329096
+}

@@ -7,6 +7,7 @@ import {
   type GlobalLeaderboardPage,
 } from "../api/puzzles";
 import Layout from "../components/Layout";
+import { todayIsoInTimezone } from "../utils/date";
 
 function formatSolveMs(value: number | null | undefined) {
   if (value === null || value === undefined) return "—";
@@ -17,7 +18,7 @@ function formatSolveMs(value: number | null | undefined) {
 }
 
 function todayIso() {
-  return new Date().toISOString().slice(0, 10);
+  return todayIsoInTimezone();
 }
 
 export default function Leaderboard() {
@@ -87,15 +88,15 @@ export default function Leaderboard() {
           <p>Compare completion performance for daily and weekly windows.</p>
         </div>
         <div className="card leaderboard-profile">
-          <h3>Your Account</h3>
+          <h3>Your Profile</h3>
           {authenticated && profile ? (
             <p className="panel__meta">
               Signed in as <strong>{profile.displayName}</strong>. Manage your pseudonym and leaderboard visibility on the{" "}
-              <Link to="/account">Account</Link> page.
+              <Link to="/profile">Profile</Link> page.
             </p>
           ) : (
             <p className="panel__meta">
-              Playing as a guest. Create an account on the <Link to="/account">Account</Link> page to claim your progress and
+              Playing as a guest. Create an account on the <Link to="/profile">Profile</Link> page to claim your progress and
               use a stable public pseudonym.
             </p>
           )}

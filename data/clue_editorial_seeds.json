@@ -1,0 +1,62 @@
+{
+  "AGUAVBERRY": {
+    "standard_clue_stems": [
+      "Pinch-healing berry",
+      "Berry that may confuse",
+      "Half-HP recovery berry"
+    ],
+    "cryptic_definition_seeds": [
+      "healing berry",
+      "confusing berry"
+    ],
+    "connections_descriptors": [
+      "Battle berries",
+      "Low-HP recovery items"
+    ]
+  },
+  "ARMORITEORE": {
+    "standard_clue_stems": [
+      "Tradable armor ore",
+      "Exchangeable ore item",
+      "Collectible Galar ore"
+    ],
+    "cryptic_definition_seeds": [
+      "valuable ore",
+      "exchange item"
+    ],
+    "connections_descriptors": [
+      "Crafting materials",
+      "Tradable collectibles"
+    ]
+  },
+  "CHILLINGNEIGH": {
+    "standard_clue_stems": [
+      "Raises Attack after a knockout",
+      "KO-triggered Attack boost",
+      "Attack snowball trait"
+    ],
+    "cryptic_definition_seeds": [
+      "knockout booster",
+      "icy steed trait"
+    ],
+    "connections_descriptors": [
+      "Knockout-boosting abilities",
+      "Attack-raising traits"
+    ]
+  },
+  "COSTAR": {
+    "standard_clue_stems": [
+      "Copies an ally's stat changes",
+      "Inherits teammate stat boosts",
+      "Ally stat-copying trait"
+    ],
+    "cryptic_definition_seeds": [
+      "ally copier",
+      "teammate mimic"
+    ],
+    "connections_descriptors": [
+      "Stat-copying abilities",
+      "Ally-linked traits"
+    ]
+  }
+}

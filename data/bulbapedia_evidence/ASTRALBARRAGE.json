@@ -1,0 +1,34 @@
+{
+  "answerKey": "ASTRALBARRAGE",
+  "answerDisplay": "ASTRAL BARRAGE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Astral Barrage (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Astral_Barrage_(move)",
+  "pageId": 257884,
+  "pageRevisionId": 4403586,
+  "leadText": "Astral Barrage (Japanese: アストラルビット Astral Bit) is a damage-dealing Ghost-type move introduced during Generation VIII, in The Crown Tundra. It is the signature move of Shadow Rider Calyrex.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Astral Barrage deals damage to all adjacent opponents. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Astral Barrage cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V The user attacks by sending a frightful amount of small ghosts at opposing Pokémon. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Astral Barrage is tied with Shadow Force for the highest base power of all Ghost-type moves , excluding Z-Moves , Max Moves , and G-Max Moves . Astral Barrage can only be registered in the mobile version of Pokémon HOME 's move Pokédex using a Smeargle that used Sketch to learn the move. This is possible in Pokemon Scarlet and Violet after The Indigo Disk DLC introduced Smeargle. It shares this trait with Glacial Lance , Behemoth Blade , Behemoth Bash , Ice Burn , and Freeze Shock ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Astral-Barrage",
+    "Astral Barrage",
+    "Astral-Barrage (move)"
+  ],
+  "updatedAt": 1773320924
+}

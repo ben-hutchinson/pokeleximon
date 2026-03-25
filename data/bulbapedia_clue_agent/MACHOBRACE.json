@@ -1,0 +1,83 @@
+{
+  "answerKey": "MACHOBRACE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4467580,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "specificity": 0.7
+      },
+      {
+        "text": "effort training",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen III effort training",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Held: Holder gains double effort values from battles, but has halved Speed in battle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Boosts The Pokemon Holding This Item Is Halved During Battle's stats",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "The Pokemon Holding This Item Is Halved During Battle Any Effort Values That Are Obtained By The Pokemon Holding It During A Battle. Stacks With Pokrus . It Does Not Affect Effort Values Gained From Vitamins/Feathers . The Speed Stat boost item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Power item for The Pokemon Holding This Item Is Halved During Battle",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "The Pokemon Holding This Item Is Halved During Battle-only held item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.46,
+        "specificity_score": 0.68,
+        "style": "category"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "the pokemon holding this item is halved during battle item"
+    ],
+    "connections_descriptors": [
+      "Held battle items",
+      "Gen III items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257967
+}

@@ -1,0 +1,37 @@
+{
+  "answerKey": "ROLLOUT",
+  "answerDisplay": "ROLLOUT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Rollout (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rollout_(move)",
+  "pageId": 3816,
+  "pageRevisionId": 4452268,
+  "leadText": "Rollout (Japanese: ころがる Roll) is a damage-dealing Rock-type move introduced in Generation II. It was TM04 in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A 1.3 Other effects Effect [ edit | edit source ] Rollout inflicts damage over five turns, doubling in power for each consecutive hit; the power will reset after five turns or if Rollout is interrupted. It is a consecutively executed move . Rollout's power is doubled in addition if the user had previously used Defense Curl . In Generation VII , or Generation VIII prior to version 1.3.1 of Pokémon Sword and Shield , hitting a Mimikyu in Disguised Form or Eiscue in Ice Face form with Rollout or Ice Ball produces the Rollout storage glitch . Rollout can be used as the second move of a Pokémon Contest combination , with the user gaining 3 bonus appeal points if Defense Curl or Harden was used in the previous turn. It is also a Contest Spectacular combination, with the user gaining an extra three appeal points if Defense Curl was used in the prior turn. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Rollout inflicts damage and causes the user to become fixated on using the move. Pokémon Legends: Arceus Category Physical PP 20 Agile Strong Power 40 30 50 Accuracy 90% 90% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect ? ? ? ? ? ? The user becomes fixated Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 60 72 Cooldown 6s Move wind-up time 15 frames Effect duration —s Additional effect — — — None Other effects [ edit | edit source ] From Generation IV onwards, a Lickitung that knows this move will evolve into Lickilicky when leveled up."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 Attacks for five turns, growing more powerful each time. Power returns to normal if it misses. G S C Attacks five turns with rising power. R S E Colo XD An attack lasting 5 turns with rising intensity. FR LG A 5-turn rolling attack that becomes stronger each time it hits. D P Pt HG SS PBR The user continually rolls into the foe over five turns. It becomes stronger each time it hits. B W B2 W2 The user continually rolls into the target over five turns. It becomes stronger each time it hits. X Y OR AS S M US UM P E Sw Sh BD SP The user continually rolls into the target over five turns. It becomes more powerful each time it hits. LA The user rolls into the target to deal damage, then becomes fixated on using this move. S V The user continually rolls into the target over five turns. This attack becomes more powerful each time it hits. ZA The user attacks by rolling into targets like a giant boulder."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Hits the target in succession until it misses. Its power rises with every hit. It may hit up to five times. MD T D S Inflicts damage on the target with attacks that continue in a single turn until one misses. Its power rises after each hit, and it can last for a maximum of 5 attacks. B S L てきポケモンを はずれるまで れんぞくで こうげきする あたるたびに いりょくがあがる さいだい ５かいれんぞくダメージ MD GtI It damages an enemy up to 5 times until one misses. S MD It damages an enemy up to 5 times until one misses. The power goes up even more after you use Defense Curl! MD RT DX It damages an enemy up to 5 times or until it misses. The power goes up after you use Defense Curl."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Rollout is the only Rock-type Cute move. Rollout was one of the first Generation II moves introduced. It was shown along with the third Generation II Pokémon introduced, Donphan , when Raymond used it in the first movie . If a Pokémon levels up mid-battle and a new move is learned in place of Rollout while it is still being used, the Pokémon will continue using Rollout in spite of having forgotten it."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Rollout",
+    "Rollout (move)"
+  ],
+  "updatedAt": 1773326498
+}

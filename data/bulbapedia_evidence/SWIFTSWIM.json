@@ -1,0 +1,34 @@
+{
+  "answerKey": "SWIFTSWIM",
+  "answerDisplay": "SWIFT SWIM",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Swift Swim (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Swift_Swim_(Ability)",
+  "pageId": 4109,
+  "pageRevisionId": 4432400,
+  "leadText": "Swift Swim (Japanese: すいすい Smooth Swim) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] During rain , the Speed stat of Pokémon with this Ability is doubled. Outside of battle [ edit | edit source ] Swift Swim has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] During rain , the Speed stat of Pokémon with this Ability is doubled."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts attack frequency if it is raining. MD T D S Raises the number of moves the Pokémon attempts per turn when it is raining. B S L てんきが あめだと こうげきかいすうが あがる MD GtI In the Rain weather condition, it can use a move 2 times at once for only 1 PP. * When the Pokémon uses a move in the Rain weather condition, it uses it 2 times at once but only consumes PP for 1 use! * S MD When the Pokémon uses a move in rain, it uses it 2 times at once but only consumes PP for 1 use! MD RT DX When the Pokémon uses a move in Rain or Heavy Rain, it uses the move 2 times at ones, but only consumes PP for 1 use."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Swift-Swim",
+    "Swift Swim",
+    "Swift-Swim (Ability)"
+  ],
+  "updatedAt": 1773329261
+}

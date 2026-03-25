@@ -1,0 +1,38 @@
+{
+  "answerKey": "SHIFTGEAR",
+  "answerDisplay": "SHIFT GEAR",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shift Gear (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shift_Gear_(move)",
+  "pageId": 117479,
+  "pageRevisionId": 4412546,
+  "leadText": "Shift Gear (Japanese: ギアチェンジ Gear Change) is a non-damaging Steel-type move introduced in Generation V. Prior to Generation VII, it was one of the signature moves of Klink's evolutionary line.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Shift Gear increases the user's Speed by two stages and the user's Attack by one stage. Shift Gear can also be used as part of a Contest Spectacular combination , causing Gear Grind to give an extra three appeal points if used in the next turn. If powered up by a Steelium Z into Z-Shift Gear, all of the user's lowered stats are reset. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Shift Gear cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS The user rotates its gears, raising its Attack and sharply raising its Speed. S M US UM P E Sw Sh LA The user rotates its gears, raising its Attack stat and sharply raising its Speed stat. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user rotates its gears, boosting its Attack stat and sharply boosting its Speed stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It boosts your Attack and also sharply boosts your Travel Speed. (The stat changes return to normal when you go to the next floor or step on a Wonder Tile.) S MD It boosts your Attack. It also sharply boosts your Travel Speed. * It boosts your Attack while also boosting your Travel Speed sharply. The stat returns to normal when you go to the next floor or step on a Wonder Tile. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Despite being described as a move where \"the user rotates its gears\", Amped Form Toxtricity and Cyclizar can learn this move naturally despite having no visible gears on their bodies."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shift-Gear",
+    "Shift Gear",
+    "Shift-Gear (move)"
+  ],
+  "updatedAt": 1773326926
+}

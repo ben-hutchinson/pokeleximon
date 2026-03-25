@@ -1,0 +1,30 @@
+{
+  "answerKey": "BRAVAARENA",
+  "answerDisplay": "BRAVA ARENA",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Brava Arena",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Brava_Arena",
+  "pageId": 269429,
+  "pageRevisionId": 4410238,
+  "leadText": "Brava Arena (Japanese: 舞台の戦場 Stage Battlefield) is an area located in the northern region of the Crimson Mirelands of Hisui. It lies north of Cloudpool Ridge and west of the Shrouded Ruins. It is the place where the noble Lilligant, Lady of the Ridge (Japanese: 峠クイーン Queen of the Ridge), resides. Lilligant is fought here as part of Mission 8: \"Arezu's Predicament\" to calm her of her frenzy. Warden Arezu of the Diamond Clan tends to Lilligant here initially. After Arezu takes over Edith's job as hairdresser in Jubilife Village, Warden Calaba of the Pearl Clan watches over Lilligant in her stead and handles rematches with the noble.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] The ascent to the Brava Arena is marked by two flights of wooden stairs; the offering pedestal for Lady Lilligant is placed between the two flights and where rematches can be initiated. The arena itself is a simple rounded plateau. A forested area surrounds the base of the arena."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Recipe : Old Gateau Given by a lady just north of the arena LA Marsh Balm Obtained prior to battling Lilligant LA Meadow Plate Given by Lilligant after quelling its frenzy during Mission 8: \"Arezu's Predicament\" LA Exp. Candy M ×3 Given by Calaba after defeating Lilligant in a rematch LA Exp. Candy L Given by Calaba after defeating Lilligant in a rematch without taking damage LA"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Brava-Arena",
+    "Brava Arena",
+    "Brava-Arena (location)"
+  ],
+  "updatedAt": 1774213706
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "VITALSPIRIT",
+  "answerDisplay": "VITAL SPIRIT",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Vital Spirit (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Vital_Spirit_(Ability)",
+  "pageId": 4147,
+  "pageRevisionId": 4462599,
+  "leadText": "Vital Spirit (Japanese: やるき Willingness) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV 1.1.3 Generation V onward 1.2 Outside of battle 1.2.1 Generation VIII 1.2.2 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] Vital Spirit prevents the Pokémon from being afflicted by sleep and Yawn . Rest will fail when used by the Pokémon. A Pokémon with this Ability will wake up if it is asleep in battle (such as if it gains the Ability outside of battle or by an effect like Skill Swap , or is put to sleep by a Pokémon with an Ability like Mold Breaker ). If a Pokémon with this Ability is drowsy due to Yawn, when it would fall asleep the Ability activates and keeps it awake. Generation III [ edit | edit source ] If a sleeping Pokémon with Vital Spirit is sent into battle as one of the lead Pokémon or to replace a fainted Pokémon, or gains Vital Spirit due to Trace , it will not be cured of sleep until after a Pokémon takes its turn (uses a move, switches out, etc.). It will be cured of sleep if it is switched in to replace a switched out Pokémon (including if switched in via Baton Pass ). If a sleeping Pokémon has Vital Spirit as its original Ability but not its current Ability, it will remain asleep when switched out. If the Pokémon with this Ability is asleep and is holding a Chesto or Lum Berry , Vital Spirit will cure the Pokémon of sleep before the Berry has a chance to be consumed. Generation IV [ edit | edit source ] When a sleeping Pokémon with Vital Spirit enters battle, it will be cured of sleep. If a sleeping Pokémon has Vital Spirit as its original Ability but not its current Ability, if it is one of the active Pokémon at the end of the battle or switched out, it will be cured of sleep (with no message). Generation V onward [ edit | edit source ] If a sleeping Pokémon has Vital Spirit as its original Ability but not its current Ability, it will remain asleep when switched out. If the Pokémon with this Ability is asleep and is holding a Chesto or Lum Berry , the Berry will be eaten and cure the Pokémon of sleep before Vital Spirit has a chance to activate. Outside of battle [ edit | edit source ] If a sleeping Pokémon gains Vital Spirit by Evolution or the Ability Capsule , it will not wake up until sent into battle. Pokémon with Vital Spirit will not be put to sleep by the Gentleman 's Kirlia in the Battle Pike nor the Battle Arcade 's game board. From Pokémon Emerald onwards, if a Pokémon with Vital Spirit is in the first slot in the party (even if fainted ), there's a 50% chance that a Pokémon will be forced to the upper bound of their encounter level range. It shares this effect with Hustle and Pressure . Generation VIII [ edit | edit source ] In Pokémon Sword and Shield , Vital Spirit appears to have no effect on the level range of wild Pokémon. Generation IX [ edit | edit source ] In Pokémon Scarlet and Violet , Vital Spirit appears to have no effect on the level range of wild Pokémon."
+    },
+    {
+      "title": "In battle",
+      "text": "Contents 1 In battle 1.1 Generation III 1.2 Generation IV 1.3 Generation V onward In battle [ edit | edit source ] Vital Spirit prevents the Pokémon from being afflicted by sleep and Yawn . Rest will fail when used by the Pokémon. A Pokémon with this Ability will wake up if it is asleep in battle (such as if it gains the Ability outside of battle or by an effect like Skill Swap , or is put to sleep by a Pokémon with an Ability like Mold Breaker ). If a Pokémon with this Ability is drowsy due to Yawn, when it would fall asleep the Ability activates and keeps it awake. Generation III [ edit | edit source ] If a sleeping Pokémon with Vital Spirit is sent into battle as one of the lead Pokémon or to replace a fainted Pokémon, or gains Vital Spirit due to Trace , it will not be cured of sleep until after a Pokémon takes its turn (uses a move, switches out, etc.). It will be cured of sleep if it is switched in to replace a switched out Pokémon (including if switched in via Baton Pass ). If a sleeping Pokémon has Vital Spirit as its original Ability but not its current Ability, it will remain asleep when switched out. If the Pokémon with this Ability is asleep and is holding a Chesto or Lum Berry , Vital Spirit will cure the Pokémon of sleep before the Berry has a chance to be consumed. Generation IV [ edit | edit source ] When a sleeping Pokémon with Vital Spirit enters battle, it will be cured of sleep. If a sleeping Pokémon has Vital Spirit as its original Ability but not its current Ability, if it is one of the active Pokémon at the end of the battle or switched out, it will be cured of sleep (with no message). Generation V onward [ edit | edit source ] If a sleeping Pokémon has Vital Spirit as its original Ability but not its current Ability, it will remain asleep when switched out. If the Pokémon with this Ability is asleep and is holding a Chesto or Lum Berry , the Berry will be eaten and cure the Pokémon of sleep before Vital Spirit has a chance to activate."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Prevents sleep. MD T D Protects the Pokémon from being put to sleep. MD S Protects the Pokémon from being made to sleep. B S L ねむらない MD GtI The Pokémon is filled with energy. It won't get sleepy. * The Pokémon is protected from the Sleep, Napping, Yawning, and Nightmare status conditions! * S MD The Pokémon is protected from the sleep, napping, yawning, and nightmare status conditions! MD RT DX The Pokémon is protected from the Sleep, Napping, Yawning, and Nightmare conditions."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] It is one of three Abilities that prevent sleeping , the others being Insomnia and Sweet Veil ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Vital-Spirit",
+    "Vital Spirit",
+    "Vital-Spirit (Ability)"
+  ],
+  "updatedAt": 1773328327
+}

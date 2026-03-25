@@ -1,0 +1,34 @@
+{
+  "answerKey": "LUNARDANCE",
+  "answerDisplay": "LUNAR DANCE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Lunar Dance (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Lunar_Dance_(move)",
+  "pageId": 18901,
+  "pageRevisionId": 4407030,
+  "leadText": "Lunar Dance (Japanese: みかづきのまい Crescent Moon Dance) is a non-damaging Psychic-type move introduced in Generation IV. It is one of the signature moves of Cresselia.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation V to VII 1.3 Generation VIII onwards Effect [ edit | edit source ] Generation IV [ edit | edit source ] Lunar Dance causes the user to faint, but restores the HP and PP of the Pokémon that is sent out to take its place as well as removing all status conditions (except fainting ). If the user moves before the opponent, the restored Pokémon is then sent out before the end of its turn. Generation V to VII [ edit | edit source ] The receiving Pokémon is now sent out at the end of the turn after all other Pokémon have moved. Lunar Dance can now be stolen by Snatch . If powered up with a Psychium Z into Z-Lunar Dance, the move will gain no additional effects. Generation VIII onwards [ edit | edit source ] In Versions 1.0 to 1.2.1 of Pokémon Sword and Shield , Lunar Dance could not be selected in a battle. Starting with Version 1.3.0, it is usable. If the Pokémon sent out to replace the user already has full health, no status condition, and full PP, Lunar Dance's effect will not activate until a Pokémon is placed in that position (either by switching in or using Ally Switch ). A pending Lunar Dance will not activate if a Pokémon already in that position loses HP, gains a status condition, or loses PP; it will only activate when a new Pokémon is placed in that position. Each position can only have a single instance of Lunar Dance pending (using it multiple times does not stack). Lunar Dance can stack with Healing Wish . [ 1 ] If used in a Max Raid Battle or Tera Raid Battle , Lunar Dance fails, and the user does not faint. ↑ https://www.youtube.com/watch?v=b0gdBvKxvEI"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user faints. In return, the Pokémon taking its place will have its status and HP fully restored. S V The user faints. In return, the Pokémon taking its place will have its HP and PP restored and its status conditions cured."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D * Fully restores the HP and heals all the status problems of the user's team members in the room. However, the user's own HP drops to just 1. MD T D * MD S Fully restores the HP and PP and heals all the status problems of the user's team members in the room. However, the user's own HP drops to just 1. B S L おなじへやの なかまポケモンの ＨＰ ＰＰと わるいじょうたいを すべて かいふくするが じぶんのＨＰが １になってしまう MD GtI UNUSED S MD It heals teammates' HP, PP, and bad status conditions, but it reduces your HP to 1. * It restores your teammates' HP and heals their bad status conditions. It also slightly restores their PP. But it depletes your HP to 1, so be careful! *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Lunar-Dance",
+    "Lunar Dance",
+    "Lunar-Dance (move)"
+  ],
+  "updatedAt": 1773324551
+}

@@ -1,0 +1,41 @@
+{
+  "answerKey": "DRAGONIUMZBAG",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "unused",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "XXX new effect for dragonium-z--bag",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "unused",
+        "evidence_ref": "lead",
+        "mystery_score": 0.35,
+        "specificity_score": 0.52,
+        "style": "category"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "unused"
+    ],
+    "connections_descriptors": [
+      "Unused"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257941
+}

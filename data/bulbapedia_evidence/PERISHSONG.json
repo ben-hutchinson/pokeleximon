@@ -1,0 +1,38 @@
+{
+  "answerKey": "PERISHSONG",
+  "answerDisplay": "PERISH SONG",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Perish Song (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Perish_Song_(move)",
+  "pageId": 3806,
+  "pageRevisionId": 4469862,
+  "leadText": "Perish Song (Japanese: ほろびのうた Song of Perishing) is a non-damaging Normal-type move introduced in Generation II. The Ability Perish Body functions similarly to Perish Song.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III to VII 1.3 Generation VIII onwards 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] All Pokémon on the field when Perish Song is used gain a perish count, except Pokémon with the Ability Soundproof and Pokémon that already have a perish count. Starting at 4 on the turn Perish Song is used, the perish count decreases by 1 at the end of each turn (including the turn Perish Song was used). When a Pokémon's perish count reaches 0, it faints . Perish Song is a sound-based move . Perish Song bypasses accuracy checks to always hit. Perish Song affects Pokémon even if they are behind a substitute or protected (even if protected by Crafty Shield ). Since Perish Song causes a Pokémon to faint without inflicting damage , it is unaffected by effects such as Focus Sash , Magic Guard , and Sturdy . If a Pokémon is switched out, its perish count is removed. However, if a Pokémon switches out with Baton Pass , its perish count is transferred to the Pokémon switched in (even if it has the Ability Soundproof ). In Rotation Battles , if the Pokémon is rotated out, the perish count remains but does not decrease until that Pokémon is rotated back in. If Perish Song becomes an Electric-type move (i.e. due to Ion Deluge , Plasma Fists , or Galvanize ), Pokémon with Volt Absorb , Lightning Rod , or Motor Drive are immune to it, and Perish Song causes the Abilities to activate accordingly. If Perish Song becomes a Water-type move (i.e. due to Liquid Voice ), Pokémon with Water Absorb , Storm Drain , or Dry Skin are immune to it, and the Abilities will activate accordingly. Perish Song can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Mean Look or Sing was used in the previous turn. It is also part of a Contest Spectacular combination, with the user gaining an extra three appeal points if any of the moves Block , Mean Look , or Spider Web were used in the prior turn. If powered up with a Normalium Z into Z-Perish Song, all of the user's lowered stats are reset. Throat Chop cannot prevent a Pokémon from using Z-Perish Song. Perish Song does not affect Dynamax Pokémon in Max Raid Battles , but does in other battles. Perish Song fails if used in a Tera Raid Battle . Generation II [ edit | edit source ] If the perish count of multiple Pokémon on the field reaches 0 at the end of a turn, they will faint simultaneously (but messages and animations show up one after another). Generation III to VII [ edit | edit source ] If the perish count of multiple Pokémon on the field reaches 0 at the end of a turn, they will now faint in the same order they would move in. Pokémon with Soundproof are immune to Perish Song, including the user. Generation VIII onwards [ edit | edit source ] Pokémon with Soundproof are no longer immune to their own moves, so if a Pokémon uses Perish Song, it will now gain a perish count even if it has Soundproof. However, other Pokémon with Soundproof are still immune to Perish Song. Generation IX [ edit | edit source ] Due to Pokémon Legends: Z-A 's real-time combat, any Pokémon that are susceptible to Perish Song will faint if not switched out within thirty seconds. Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 20s Move wind-up time 30 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A malevolent melody that causes both the user and the opponent to faint in three turns. G S C Both user and foe faint in 3 turns. R S E Colo XD Any Pok é mon hearing this song faints in 3 turns. FR LG Any battler that hears this faints in three turns unless it switches. D P Pt PBR Any Pokémon that hears this song faints in three turns unless it switches out of battle. HG SS B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V Any Pokémon that hears this song faints in three turns, unless it switches out of battle. ZA Any Pokémon that hears this song will faint after a while, unless they switch out of battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts the Perish Song status on all foes on the floor. The affected foes faint after several turns. MD T D S Afflicts all enemies on the floor with a Perish Song status condition. All Pokémon with the Perish Song status faint after several turns. B S L フロアの てきポケモンを ほろびのうたじょうたいにかえる ほろびのうたじょうたいになった ポケモンは しばらくすると たおれてしまう MD GtI It causes the Perish Song status condition to enemies on the floor. With the Perish Song status, the enemies will faint 3 turns later. S MD Enemies affected by this attack faint in 3 turns. * It causes the Perish Song status condition to enemies on the floor. In the Perish Song status condition, the enemies will faint 3 turns later. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The move could be a reference to the tritone, a musical interval also known as Diabolus in musica (Devil in music), since it was believed that when it was used, the devil got into the notes; this explains why the move has the effect of making everyone faint after three turns, its name, and the fact its animations feature musical notes changing their color to black. Perish Song displays animation when displaying the counter, as well as when it drops to zero, in Pokémon Battle Revolution . Perish Song animation when displaying the counter in Battle Revolution Perish Song dropping to zero in Battle Revolution"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Perish-Song",
+    "Perish Song",
+    "Perish-Song (move)"
+  ],
+  "updatedAt": 1773325702
+}

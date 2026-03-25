@@ -1,0 +1,17 @@
+{
+  "answerKey": "LANDORUS",
+  "answerDisplay": "LANDORUS",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Ground / Flying type Pokémon introduced in Generation 5.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/landorus",
+  "extract": "Landorus is a Ground / Flying type Pokémon introduced in Generation 5 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211823
+}

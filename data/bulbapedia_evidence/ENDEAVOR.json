@@ -1,0 +1,33 @@
+{
+  "answerKey": "ENDEAVOR",
+  "answerDisplay": "ENDEAVOR",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Endeavor (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Endeavor_(move)",
+  "pageId": 3894,
+  "pageRevisionId": 4431551,
+  "leadText": "Endeavor (Japanese: がむしゃら Daredevil) is a damage-dealing Normal-type move introduced in Generation III. It is TM205 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Endeavor causes the target's HP to equal the user's current HP. It will deduct the difference from the target's HP. This move does nothing if the user's HP is greater than or equal to the target's. Type immunity is not ignored, so Endeavor does not usually affect Ghost-type Pokémon regardless of HP. Endeavor can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Endure was used in the previous turn. It can also be used as a part of a Contest Spectacular combination , giving an extra three appeal points if Endure was used in the prior turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Gains power if the user's HP is lower than the foe's HP. FR LG Gains power the fewer HP the user has compared with the foe. Colo Gains power if the target's HP is higher than the user's. XD Gains power if target's HP is higher than user's. D P Pt HG SS PBR An attack move that cuts down the foe's HP to equal the user's HP. B W B2 W2 X Y OR AS An attack move that cuts down the target's HP to equal the user's HP. S M US UM P E Sw Sh BD SP LA This attack move cuts down the target's HP to equal the user's HP. S V The user inflicts damage by cutting down the target's HP to roughly equal the user's HP."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The difference between the foe's HP and the user's HP is applied as this move's damage. MD T D S Inflicts damage on the target equal to the target's HP minus the user's HP. B S L てきポケモンの ＨＰから じぶんの ＨＰを ひいたぶんの ダメージをあたえる MD GtI It damages an enemy to cut down the enemy's HP to equal your HP. It has no effect if your HP is higher than the enemy's HP. S MD MD RT DX It damages an enemy, cutting the enemy's HP down to equal your HP. If your HP is higher than the enemy's, it has no effect."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Endeavor",
+    "Endeavor (move)"
+  ],
+  "updatedAt": 1773322571
+}

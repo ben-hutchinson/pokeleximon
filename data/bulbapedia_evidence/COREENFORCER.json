@@ -1,0 +1,34 @@
+{
+  "answerKey": "COREENFORCER",
+  "answerDisplay": "CORE ENFORCER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Core Enforcer (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Core_Enforcer_(move)",
+  "pageId": 213899,
+  "pageRevisionId": 4479963,
+  "leadText": "Core Enforcer (Japanese: コアパニッシャー Core Punisher) is a damage-dealing Dragon-type move introduced in Generation VII. It is one of the signature moves of Zygarde. It can be upgraded to the special move Nihil Light by Zygarde Complete Forme when Mega Evolved.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX 1.2.1 Pokémon Scarlet and Violet 1.2.2 Pokémon Legends: Z-A Effect [ edit | edit source ] Core Enforcer deals damage. If the target has already used a move or had a Bag item used on it by its Trainer in the same turn, Core Enforcer also suppresses the target's Ability while it remains in battle. The target's Ability will not be suppressed if Core Enforcer misses or if the target is immune to or protected from the move. It cannot suppress Multitype , Stance Change , Schooling , Comatose , Shields Down , Disguise , RKS System , Battle Bond , Power Construct , or As One . Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Core Enforcer cannot be selected in a battle. Generation IX [ edit | edit source ] Pokémon Scarlet and Violet [ edit | edit source ] Core Enforcer cannot be selected in a battle. Pokémon Legends: Z-A [ edit | edit source ] If Zygarde knows Core Enforcer when it Mega Evolves , Core Enforcer will become Nihil Light until Zygarde returns to its Complete Forme. When used by 10% or 50% Forme Zygarde, Core Enforcer damages targets in range of its beam. When used by Complete Forme Zygarde, Core Enforcer instead damages targets in an area of effect after a delay. Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 100 120 Cooldown 15s Move wind-up time 35 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA If the Pokémon the user has inflicted damage on have already used their moves, this move eliminates the effect of the target's Ability. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V If the Pokémon damaged by this move have already used their moves that turn, this move eliminates the effects of those Pokémon's Abilities. ZA The user attacks by firing off a powerful beam that scorches across the battlefield as if carving out the letter Z."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Core Enforcer was the first Generation VII move seen in the animated series . It was used by two Zygarde Cores nicknamed Squishy and Z2 in Forming a More Perfect Union! , prior to the release of Pokémon Sun and Moon ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Core-Enforcer",
+    "Core Enforcer",
+    "Core-Enforcer (move)"
+  ],
+  "updatedAt": 1773321843
+}

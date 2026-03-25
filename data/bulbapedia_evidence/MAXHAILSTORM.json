@@ -1,0 +1,30 @@
+{
+  "answerKey": "MAXHAILSTORM",
+  "answerDisplay": "MAX HAILSTORM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Max Hailstorm (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Hailstorm_(move)",
+  "pageId": 243946,
+  "pageRevisionId": 4406153,
+  "leadText": "Max Hailstorm (Japanese: ダイアイス Dai Ice) is a damage-dealing Ice-type Max Move introduced in Generation VIII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Max Hailstorm inflicts damage and creates hail for 5 turns (8 if an Icy Rock is held). Its power and whether it is a special or physical move depends on the move it is based on. Base move Pwr. Cat. Aurora Beam 120 Special Avalanche 110 Physical Blizzard 140 Special Freeze Shock 140 Physical Freeze-Dry 120 Special Frost Breath 110 Special Glacial Lance 140 Physical Glaciate 120 Special Ice Beam 130 Special Ice Burn 140 Special Ice Fang 120 Physical Ice Hammer 130 Physical Ice Punch 130 Physical Ice Shard 90 Physical Icicle Crash 130 Physical Icicle Spear 130 Physical Icy Wind 110 Special Powder Snow 90 Special Sheer Cold 130 Special Triple Axel 140 Physical Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Max Hailstorm cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA This is an Ice-type attack Dynamax Pokémon use. The user summons a hailstorm lasting five turns. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. S V This is an Ice-type attack Dynamax Pokémon use. The user summons a snowstorm lasting five turns."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Max-Hailstorm",
+    "Max Hailstorm",
+    "Max-Hailstorm (move)"
+  ],
+  "updatedAt": 1773324820
+}

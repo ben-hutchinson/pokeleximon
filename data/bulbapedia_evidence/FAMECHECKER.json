@@ -1,0 +1,38 @@
+{
+  "answerKey": "FAMECHECKER",
+  "answerDisplay": "FAME CHECKER",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Fame Checker",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fame_Checker",
+  "pageId": 4893,
+  "pageRevisionId": 4505345,
+  "leadText": "The Fame Checker (Japanese: ボイスチェッカー Voice Checker) is a Key Item that appears in Pokémon FireRed and LeafGreen. It records miscellaneous information about famous people (such as Gym Leaders). The Fame Checker has a simple design. It is dark red and has a screen roughly the size of the Pokédex screen. It has four black speaker holes on the left side, and on the right side it has a Poké Ball-shaped button or wheel split into three different portions.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Pokémon FireRed and LeafGreen [ edit | edit source ] The Fame Checker user interface In Pokémon FireRed and LeafGreen , there are several characters who the player can collect information about in the Fame Checker. Each character who appears in the Fame Checker has six different entries that can be unlocked. Each of these entries corresponds to a quote about the character that the player can encounter within the game. When the player encounters this dialogue in the game, it will be registered in their Fame Checker. Each entry has a title (e.g. \"Favorite kind of Pokémon\", \"Friends and Family\", etc.), a location (which does not necessarily correspond to the save location), and the character or text being quoted; additionally, the overworld sprite of the character or object that provided the quote appears as an icon that represents that entry. Prior to unlocking an entry, it appears as a question mark with no title or indication of where the player can unlock it. Quotes encountered before obtaining the Fame Checker appear on it as unlocked entries as soon as it is obtained. These quotes can come from a variety of sources: the character themselves, major characters, unnamed NPCs, NPC Trainers, signs, Pokémon Journal , etc. Once all six data pieces are obtained in a person's section, the player can read a message that that character has sent directly to the player. The characters who have information stored in the Fame Checker in Generation III are as follows: Prof. Oak Daisy Brock Misty Lt. Surge Erika Koga Sabrina Blaine Giovanni Lorelei Bruno Agatha Lance Bill Mr. Fuji Clicking a character's sprite will direct to their Fame Checker transcript. Pokémon Emerald [ edit | edit source ] In Pokémon Emerald , the Fame Checker is found in the game data, but it is not legitimately obtainable and has no effect when used."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description FR LG A device that enables you to recall what you've heard and seen about famous people. E Stores information on famous people for instant recall."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Effect 1.1.1 Pokémon FireRed and LeafGreen 1.1.2 Pokémon Emerald 1.2 Description 1.3 Acquisition In the core series games [ edit | edit source ] Effect [ edit | edit source ] Pokémon FireRed and LeafGreen [ edit | edit source ] The Fame Checker user interface In Pokémon FireRed and LeafGreen , there are several characters who the player can collect information about in the Fame Checker. Each character who appears in the Fame Checker has six different entries that can be unlocked. Each of these entries corresponds to a quote about the character that the player can encounter within the game. When the player encounters this dialogue in the game, it will be registered in their Fame Checker. Each entry has a title (e.g. \"Favorite kind of Pokémon\", \"Friends and Family\", etc.), a location (which does not necessarily correspond to the save location), and the character or text being quoted; additionally, the overworld sprite of the character or object that provided the quote appears as an icon that represents that entry. Prior to unlocking an entry, it appears as a question mark with no title or indication of where the player can unlock it. Quotes encountered before obtaining the Fame Checker appear on it as unlocked entries as soon as it is obtained. These quotes can come from a variety of sources: the character themselves, major characters, unnamed NPCs, NPC Trainers, signs, Pokémon Journal , etc. Once all six data pieces are obtained in a person's section, the player can read a message that that character has sent directly to the player. The characters who have information stored in the Fame Checker in Generation III are as follows: Prof. Oak Daisy Brock Misty Lt. Surge Erika Koga Sabrina Blaine Giovanni Lorelei Bruno Agatha Lance Bill Mr. Fuji Clicking a character's sprite will direct to their Fame Checker transcript. Pokémon Emerald [ edit | edit source ] In Pokémon Emerald , the Fame Checker is found in the game data, but it is not legitimately obtainable and has no effect when used. Description [ edit | edit source ] Games Description FR LG A device that enables you to recall what you've heard and seen about famous people. E Stores information on famous people for instant recall. Acquisition [ edit | edit source ] Games Method FR LG Cerulean City (from Blue after defeating him)"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Koga's Fame Checker entries, his daughter Janine is incorrectly identified as \"Charine\"."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fame-Checker",
+    "Fame Checker",
+    "Fame-Checker (item)"
+  ],
+  "updatedAt": 1773322713
+}

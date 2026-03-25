@@ -1,0 +1,75 @@
+{
+  "answerKey": "WILDBOLTSTORM",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4406220,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII Electric move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Electric special move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Wildbolt Storm inflicts damage and has a 30% chance of paralyzing the target. Pokemon Legends: Arceus Category Special PP 5 Agile Strong Power 95 75 115 Accuracy 80% 80% 90% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 30% 30% 50% Turns 3 2 4 ? ? Inflicts the target with paralysis Generation IX [ edit | edit source ] Wildbolt Storm's PP and power were changed to 10 and 100, respectively. It now has a 20% chance of paralyzing each target. In a battle with multiple opponents, Wildbolt Storm will target all adjacent opponents. When used during rain , Wildbolt Storm bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . Wildbolt Storm is a wind move .",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "100-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "paralyzing move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Electric special move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen VIII Electric move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "100-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "electric special move"
+    ],
+    "connections_descriptors": [
+      "Paralyzing moves",
+      "Electric Special moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258033
+}

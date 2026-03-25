@@ -1,0 +1,38 @@
+{
+  "answerKey": "STEELBEAM",
+  "answerDisplay": "STEEL BEAM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Steel Beam (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Steel_Beam_(move)",
+  "pageId": 239677,
+  "pageRevisionId": 4468132,
+  "leadText": "Steel Beam (Japanese: てっていこうせん Beam of Steely Resolve) is a damage-dealing Steel-type move introduced in Generation VIII. It is TM170 in Pokémon Scarlet and Violet and TM157 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.1.2 Pokémon Legends: Arceus Effect [ edit | edit source ] Steel Beam inflicts damage, and the user takes damage equal to half of its maximum HP rounded up (unless it has Magic Guard ). The user of Steel Beam will take damage even if the target is protected from it, if it hits a substitute , or if the move misses. If Steel Beam fails due to there being no targets (i.e. if all Pokémon in range fainted before the move was used), the user does not take damage. Rock Head and Reckless do not affect Steel Beam. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Steel Beam cannot be selected in a battle. Pokémon Legends: Arceus [ edit | edit source ] Steel Beam's base power is changed from 140 to 120. Steel Beam is a recoil move in this game. Pokémon Legends: Arceus Category Special PP 5 Agile Strong Power 120 100 140 Accuracy 95% 95% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Recoil 50% 33% 66% ? ? ? ? Damages the user by a percentage of its total HP"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V The user fires a beam of steel that it collected from its entire body. This also damages the user. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. ZA The user attacks by firing off a fierce beam of steel that has been collected from its entire body. The user will also take some damage."
+    },
+    {
+      "title": "Pokédex entries",
+      "text": "Pokédex entries [ edit | edit source ] Episode Subject Source Entry JN027 Steel Beam Goh's Rotom Phone Steel Beam uses up energy from Duraludon 's body and, in exchange, releases vast amounts of power."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Steel Beam is the only Steel-type move that damages the user. In April 2019, prior to the release of Pokémon Sword and Shield , CoroCoro Comics May ran a contest where fans could name the strongest Steel-type move. [ 1 ] Steel Beam's Japanese name was the name that won this contest. [ 2 ] The Japanese name of this move literally means an \"all-out resistance\" (徹底抗戦 tettei-kōsen ), while also incorporating puns on 鉄 tetsu (iron or steel), 抵抗 teikō (resistance) and 光線 kōsen (beam). Not including Max Moves , Steel Beam was the first Generation VIII move seen in the animated series. It was used by Raihan 's Duraludon in Toughing It Out! . Dusk Mane Necrozma is the only Steel-type Pokémon that cannot learn Steel Beam. ↑ Pokemon.co.jp ↑ CoroCoro Online"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Steel-Beam",
+    "Steel Beam",
+    "Steel-Beam (move)"
+  ],
+  "updatedAt": 1773327553
+}

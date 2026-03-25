@@ -1,0 +1,34 @@
+{
+  "answerKey": "ROLLINGKICK",
+  "answerDisplay": "ROLLING KICK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Rolling Kick (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rolling_Kick_(move)",
+  "pageId": 3635,
+  "pageRevisionId": 4406297,
+  "leadText": "Rolling Kick (Japanese: まわしげり Roundhouse Kick) is a damage-dealing Fighting-type move introduced in Generation I. Prior to Generation VII, it was the signature move of Hitmonlee and Hitmontop, but other Pokémon could still inherit it via breeding.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations I and II 1.2 Generations III and IV 1.3 Generation V to VII 1.4 Generation VIII onwards Effect [ edit | edit source ] Generations I and II [ edit | edit source ] Rolling Kick does damage and has a 30% chance of causing the target to flinch . Rolling Kick cannot make a target with a substitute flinch. Generations III and IV [ edit | edit source ] Rolling Kick is now affected by King's Rock . Generation V to VII [ edit | edit source ] Rolling Kick is no longer affected by King's Rock . Generation VIII onwards [ edit | edit source ] Rolling Kick cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A sharp Fighting -type attack. Has a one-in-three chance of making the target flinch if it connects. Stad2 A sharp Fighting -type attack. Has a one-in-three shot at making the target flinch. G S C A fast, spinning kick. R S E A fast kick delivered from a rapid spin. Colo XD A rapid spin and fast kick that may cause flinching. FR LG A quick kick from a rolling spin. It may make the foe flinch. D P Pt PBR The user cuts a quick spin and lashes out with a sharp kick. HG SS B W B2 W2 The user lashes out with a quick, spinning kick. It may also make the target flinch. X Y OR AS S M US UM P E The user lashes out with a quick, spinning kick. This may also make the target flinch. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also cause the target to cringe, making it incapable of action. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Cringe status condition, making its actions fail. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで ひるみじょうたいにして わざや こうげきを だせなくする MD GtI UNUSED S MD It damages an enemy. It could also make the enemy flinch."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Rolling-Kick",
+    "Rolling Kick",
+    "Rolling-Kick (move)"
+  ],
+  "updatedAt": 1773326496
+}

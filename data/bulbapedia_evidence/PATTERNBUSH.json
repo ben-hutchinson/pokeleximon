@@ -1,0 +1,30 @@
+{
+  "answerKey": "PATTERNBUSH",
+  "answerDisplay": "PATTERN BUSH",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Pattern Bush",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Pattern_Bush",
+  "pageId": 6800,
+  "pageRevisionId": 4498674,
+  "leadText": "Pattern Bush (Japanese: しるしのはやし Symbol Thicket) is an area exclusive to Pokémon FireRed and LeafGreen located on a small, offshore island to the north of Six Island. To reach Pattern Bush, it is necessary to Surf a short distance from mainland to the island, using the Water Path.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] Pattern Bush is carpeted in a thick undergrowth, which makes it perfect for the multitudes of Bug-type Pokémon who call this place home. An intriguing aspect of Pattern Bush is the mysterious empty patches of ground. No reason for this phenomenon is given, although the Trainers battling there have their own suspicions. It may be a reference to the Nazca Lines or crop circles ."
+    },
+    {
+      "title": "Pokémon",
+      "text": "Pokémon [ edit | edit source ] Pokémon Games Location Levels Rate Caterpie FR LG Grass 6 10% Metapod FR LG Grass 9 5% Weedle FR LG Grass 6 10% Kakuna FR LG Grass 9 20% Ledyba FR LG Grass 9, 14 5% Ledyba FR LG Grass 9, 14 30% Spinarak FR LG Grass 9, 14 30% Spinarak FR LG Grass 9, 14 5% Heracross FR LG Grass 15, 20, 25, 30 20% A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Pattern-Bush",
+    "Pattern Bush",
+    "Pattern-Bush (location)"
+  ],
+  "updatedAt": 1773325658
+}

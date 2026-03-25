@@ -1,0 +1,30 @@
+{
+  "answerKey": "MIGHTYCLEAVE",
+  "answerDisplay": "MIGHTY CLEAVE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Mighty Cleave (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mighty_Cleave_(move)",
+  "pageId": 300836,
+  "pageRevisionId": 4477404,
+  "leadText": "Mighty Cleave (Japanese: パワフルエッジ Powerful Edge) is a damage-dealing Rock-type move introduced during Generation IX, in The Indigo Disk. It is the signature move of Iron Boulder.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Mighty Cleave inflicts damage. It bypasses the effects of Protect , Detect , Spiky Shield , King's Shield , Baneful Bunker , Silk Trap , and Burning Bulwark , but does not lift the effects of these moves. If used by a Pokémon with Sharpness , its power is increased by 50%."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user wields the light that has accumulated atop its head to cleave the target. This move hits even if the target protects itself."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mighty-Cleave",
+    "Mighty Cleave",
+    "Mighty-Cleave (move)"
+  ],
+  "updatedAt": 1773325025
+}

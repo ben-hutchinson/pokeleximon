@@ -4,12 +4,10 @@ import { Link, useSearchParams } from "react-router-dom";
 import { useAuth } from "../auth/AuthContext";
 import Layout from "../components/Layout";
 import {
-  createChallenge,
   getDailyPuzzle,
   getPuzzleProgress,
   postCrypticClueFeedback,
   postCrypticTelemetry,
-  submitLeaderboardResult,
   putPuzzleProgress,
   type CrypticTelemetryEventType,
   type Puzzle,
@@ -85,6 +83,7 @@ function mechanismLabel(mechanism: string | null | undefined): string {
     charade: "Charade",
     deletion: "Deletion",
     hidden: "Hidden word",
+    manual: "Manual cryptic",
   };
   return mapping[value] ?? "Cryptic wordplay";
 }
@@ -115,7 +114,11 @@ function hintStepTwo(entry: PuzzleEntry | null): string {
     return "Stronger hint: hidden clue. The answer appears consecutively inside surface text.";
   }
 
-  return `Stronger hint: mechanism is ${mechanism}.`;
+  if (entry.wordplayPlan) {
+    return "Stronger hint: use the stored breakdown after reveal if you get stuck.";
+  }
+
+  return "Stronger hint: no mechanism is stored for this clue, so focus on where the straight definition begins or ends.";
 }
 
 function explanationDetails(entry: PuzzleEntry): string[] {
@@ -184,15 +187,10 @@ export default function Cryptic() {
   const [feedbackReasonTags, setFeedbackReasonTags] = useState<string[]>([]);
   const [feedbackSubmitted, setFeedbackSubmitted] = useState(false);
   const [feedbackStatus, setFeedbackStatus] = useState<string>("Rate this clue to help improve quality.");
-  const [challengeStatus, setChallengeStatus] = useState<string | null>(null);
-  const [creatingChallenge, setCreatingChallenge] = useState(false);
   const [progressUpdatedAt, setProgressUpdatedAt] = useState<string>(new Date().toISOString());
   const trackedPuzzleId = useRef<string | null>(null);
   const celebrationTimeoutRef = useRef<number | null>(null);
   const cloudSaveTimeoutRef = useRef<number | null>(null);
-  const challengeStatusTimeoutRef = useRef<number | null>(null);
-  const attemptStartedAtRef = useRef<number>(Date.now());
-  const leaderboardSubmissionKeyRef = useRef<string | null>(null);
   const hydratedProgressRef = useRef(false);
   const skipProgressBumpRef = useRef(false);
   const selectedDate = searchParams.get("date") ?? undefined;
@@ -213,20 +211,12 @@ export default function Cryptic() {
     setFeedbackReasonTags([]);
     setFeedbackSubmitted(false);
     setFeedbackStatus("Rate this clue to help improve quality.");
-    setChallengeStatus(null);
-    setCreatingChallenge(false);
     setProgressUpdatedAt(new Date().toISOString());
-    attemptStartedAtRef.current = Date.now();
-    leaderboardSubmissionKeyRef.current = null;
     hydratedProgressRef.current = false;
     skipProgressBumpRef.current = false;
     if (cloudSaveTimeoutRef.current !== null) {
       window.clearTimeout(cloudSaveTimeoutRef.current);
       cloudSaveTimeoutRef.current = null;
-    }
-    if (challengeStatusTimeoutRef.current !== null) {
-      window.clearTimeout(challengeStatusTimeoutRef.current);
-      challengeStatusTimeoutRef.current = null;
     }
 
     getDailyPuzzle("cryptic", { date: selectedDate })
@@ -241,9 +231,6 @@ export default function Cryptic() {
       }
       if (cloudSaveTimeoutRef.current !== null) {
         window.clearTimeout(cloudSaveTimeoutRef.current);
-      }
-      if (challengeStatusTimeoutRef.current !== null) {
-        window.clearTimeout(challengeStatusTimeoutRef.current);
       }
     };
   }, []);
@@ -428,94 +415,12 @@ export default function Cryptic() {
   const puzzleNotes = typeof puzzle?.metadata.notes === "string" ? puzzle.metadata.notes.trim() : "";
   const puzzleBylineLabel = puzzleByline || (puzzleConstructor ? `By ${puzzleConstructor}` : "");
   const hasPuzzleEditorial = Boolean(puzzleBylineLabel || puzzleEditor || puzzleNotes);
-  const exportParams = new URLSearchParams({ gameType: "cryptic" });
-  if (puzzle?.date) exportParams.set("date", puzzle.date);
-  const pdfExportHref = `/api/v1/puzzles/export/pdf?${exportParams.toString()}`;
-  const textOnlyHref = `/text-only?${exportParams.toString()}`;
   const clueMetaId = puzzle ? `cryptic-clue-meta-${puzzle.id}` : "cryptic-clue-meta";
   const guessInputId = puzzle ? `cryptic-guess-${puzzle.id}` : "cryptic-guess";
   const hintStatusId = puzzle ? `cryptic-hint-status-${puzzle.id}` : "cryptic-hint-status";
   const explanationId = puzzle ? `cryptic-explanation-${puzzle.id}` : "cryptic-explanation";
 
   const normalizedGuess = useMemo(() => normalizeGuess(guess), [guess]);
-
-  const createCrypticChallenge = useCallback(async () => {
-    if (!puzzle || puzzle.gameType !== "cryptic" || creatingChallenge) return;
-    const token = playerToken.trim();
-    if (!token) {
-      setChallengeStatus("Missing player token. Reload and try again.");
-      return;
-    }
-
-    setCreatingChallenge(true);
-    try {
-      const item = await createChallenge({
-        playerToken: token,
-        gameType: "cryptic",
-        puzzleId: puzzle.id,
-      });
-      const shareUrl = `${window.location.origin}/challenge/${item.code}`;
-      let copied = false;
-      if (navigator.clipboard?.writeText) {
-        try {
-          await navigator.clipboard.writeText(shareUrl);
-          copied = true;
-        } catch {
-          copied = false;
-        }
-      }
-      if (!copied) {
-        const el = document.createElement("textarea");
-        el.value = shareUrl;
-        el.setAttribute("readonly", "true");
-        el.style.position = "absolute";
-        el.style.left = "-9999px";
-        document.body.appendChild(el);
-        el.select();
-        copied = document.execCommand("copy");
-        document.body.removeChild(el);
-      }
-      setChallengeStatus(copied ? `Challenge created: ${item.code}. Link copied.` : `Challenge created: ${shareUrl}`);
-    } catch {
-      setChallengeStatus("Challenge creation failed. Please try again.");
-    } finally {
-      setCreatingChallenge(false);
-      if (challengeStatusTimeoutRef.current !== null) {
-        window.clearTimeout(challengeStatusTimeoutRef.current);
-      }
-      challengeStatusTimeoutRef.current = window.setTimeout(() => {
-        setChallengeStatus(null);
-      }, 3200);
-    }
-  }, [creatingChallenge, playerToken, puzzle]);
-
-  useEffect(() => {
-    if (!puzzle || puzzle.gameType !== "cryptic" || !entry) return;
-    if (outcome === "in_progress") return;
-    const token = playerToken.trim();
-    if (!token) return;
-
-    const submissionKey = `${puzzle.id}:${outcome}`;
-    if (leaderboardSubmissionKeyRef.current === submissionKey) return;
-    leaderboardSubmissionKeyRef.current = submissionKey;
-
-    const solveMs = outcome === "solved" ? Math.max(0, Date.now() - attemptStartedAtRef.current) : undefined;
-    const completed = outcome === "solved";
-
-    void submitLeaderboardResult({
-      playerToken: token,
-      gameType: "cryptic",
-      puzzleId: puzzle.id,
-      puzzleDate: puzzle.date,
-      completed,
-      solveTimeMs: solveMs,
-      usedAssists: hintStep > 0,
-      usedReveals: outcome === "revealed",
-      sessionId,
-    }).catch(() => {
-      leaderboardSubmissionKeyRef.current = null;
-    });
-  }, [entry, hintStep, outcome, playerToken, puzzle, sessionId]);
 
   const onSubmitGuess = useCallback(
     async (event: React.FormEvent<HTMLFormElement>) => {
@@ -689,8 +594,16 @@ export default function Cryptic() {
   return (
     <Layout>
       <section className="page-section" aria-labelledby="cryptic-heading" aria-busy={!puzzle || !entry}>
-        <div className="section-header">
-          <h2 id="cryptic-heading">Cryptic Clue</h2>
+        <div className="section-header section-header--with-actions">
+          <div>
+            <h2 id="cryptic-heading">Cryptic Clue</h2>
+            <p>Work today&apos;s clue, then open the cryptic archive without leaving the cryptic experience.</p>
+          </div>
+          <div className="section-header__actions">
+            <Link className="button ghost" to="/archive?gameType=cryptic">
+              Cryptic Archive
+            </Link>
+          </div>
         </div>
         {hasPuzzleEditorial ? (
           <section className="card puzzle-editorial puzzle-editorial--standalone" aria-label="Puzzle editorial metadata">
@@ -706,28 +619,6 @@ export default function Cryptic() {
         {contestModeEnabled ? (
           <div className="contest-banner" role="status" aria-live="polite">
             Contest mode: hints, checks, and reveal are locked for this clue.
-          </div>
-        ) : null}
-        <div className="export-tools no-print" aria-label="Cryptic export controls">
-          <button className="button secondary" type="button" onClick={() => window.print()}>
-            Print Clue
-          </button>
-          <a className="button secondary" href={pdfExportHref}>
-            Download PDF
-          </a>
-          <a className="button ghost" href={textOnlyHref}>
-            Text-Only View
-          </a>
-          <button className="button ghost" type="button" onClick={() => void createCrypticChallenge()} disabled={creatingChallenge}>
-            {creatingChallenge ? "Creating..." : "Create Challenge"}
-          </button>
-          <Link className="button ghost" to="/leaderboard">
-            Leaderboard
-          </Link>
-        </div>
-        {challengeStatus ? (
-          <div className="panel__meta" role="status" aria-live="polite">
-            {challengeStatus}
           </div>
         ) : null}
 

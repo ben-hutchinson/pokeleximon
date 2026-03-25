@@ -1,0 +1,38 @@
+{
+  "answerKey": "REAPERCLOTH",
+  "answerDisplay": "REAPER CLOTH",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Reaper Cloth",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Reaper_Cloth",
+  "pageId": 21907,
+  "pageRevisionId": 4504978,
+  "leadText": "The Reaper Cloth (Japanese: れいかいのぬの Spirit World Cloth) is a type of held item introduced in Generation IV. It allows Dusclops to evolve into Dusknoir.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Held item [ edit | edit source ] Causes Dusclops to evolve into Dusknoir when traded while holding it. This consumes the Reaper Cloth. In Pokémon Legends: Arceus , due to the absence of held items, the Reaper Cloth simply needs to be used on Dusclops to trigger the Evolution."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If the player offers both a Link Cable and Reaper Cloth at Luminous Spring , Dusclops can be evolved into Dusknoir . This consumes the Link Cable and Reaper Cloth. If thrown, it will deal 1 damage (2 if sticky ). Using this item in a dungeon will consume it, with no effect."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 A cloth imbued with horrifyingly strong spiritual energy. It is loved by a certain Pokémon. X Y OR AS S M US UM P E Sw Sh BD SP LA S V A cloth imbued with horrifyingly strong spiritual energy. It's loved by a certain Pokémon."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S An eerie cloth imbued with horrifyingly strong spiritual energy. It allows a certain kind of Pokémon to evolve."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Reaper-Cloth",
+    "Reaper Cloth",
+    "Reaper-Cloth (item)"
+  ],
+  "updatedAt": 1773326286
+}

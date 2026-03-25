@@ -1,0 +1,38 @@
+{
+  "answerKey": "XSCISSOR",
+  "answerDisplay": "X SCISSOR",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "X-Scissor (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/X-Scissor_(move)",
+  "pageId": 17452,
+  "pageRevisionId": 4445125,
+  "leadText": "X-Scissor (Japanese: シザークロス Scissor Cross) is a damage-dealing Bug-type move introduced in Generation IV. It is: TM81 from Generation IV to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TM24 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR60 in Pokémon Sword and Shield. TM105 in Pokémon Scarlet and Violet. TM081 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] X-Scissor inflicts damage and has no secondary effect. If used by a Pokémon with Sharpness , its power is increased by 50%. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] X-Scissor's PP has been reduced to 10, and it has been given an increased chance at landing a critical hit. Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 80 60 100 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Crit. stage +1 +1 +2 ? ? ? ? Increased critical-hit ratio Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 80 96 Cooldown 8s Move wind-up time 10 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors. LA The user strikes at the target by crossing its scythes or claws as if they were a pair of scissors. This move has a heightened chance of landing a critical hit. S V The user slashes at the target by crossing its scythes, claws, or the like as if they were a pair of scissors. ZA The user attacks using scythes, claws, or the like as if they were a pair of scissors."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. B S L てきポケモンに ダメージをあたえる Conq. The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors. MD GtI S MD MD RT DX It damages an enemy."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] X-Scissor is the only move to begin with the letter X. In the Pokémon Complete National Pokédex , this move was referred with its Japanese name as \"Scissor-Cross\", instead of \"X-Scissor\"."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "X-Scissor",
+    "X Scissor",
+    "X-Scissor (move)"
+  ],
+  "updatedAt": 1773328616
+}

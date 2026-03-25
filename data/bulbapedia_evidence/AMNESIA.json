@@ -1,0 +1,33 @@
+{
+  "answerKey": "AMNESIA",
+  "answerDisplay": "AMNESIA",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Amnesia (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Amnesia_(move)",
+  "pageId": 3742,
+  "pageRevisionId": 4503886,
+  "leadText": "Amnesia (Japanese: ドわすれ Memory Lapse) is a non-damaging Psychic-type move introduced in Generation I. It was TR17 in Pokémon Sword and Shield, and is TM128 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II onwards 1.3 Generation IX 1.3.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I [ edit | edit source ] Amnesia increases the user's Special by two stages. Generation II onwards [ edit | edit source ] Amnesia now raises the user's Special Defense by two stages instead . Amnesia is a part of Contest Spectacular combination and using it will cause Baton Pass and Stored Power to give an extra three appeal points if used in the next turn. If powered up by a Psychium Z into Z-Amnesia, all of the user's lowered stats are reset. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 9s Move wind-up time 1 frame Effect duration 30s 33s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Sharply raises the user's Special stat. Also increases protection against special attacks. Stad2 A move that increases the user's Spcl.Def. stat. It is normally used up to three times. G S C Sharply raises the user's Spcl.Def. R S E FR LG Colo XD Forgets about something and sharply raises Sp. Def. D P Pt HG SS PBR B W B2 W2 The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat. X Y OR AS S M US UM P E Sw Sh BD SP LA The user temporarily empties its mind to forget its concerns. This sharply raises the user's Sp. Def stat. S V The user temporarily empties its mind to forget its concerns. This sharply boosts the user's Sp. Def stat. ZA The user boosts its Sp. Def stat for a while by temporarily emptying its mind to forget all concerns."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts the user's Special Defense by two levels. MD T D S Boosts the user's Special Defense by 2 levels. B S L じぶんの とくぼうを ２だんかいあげる MD GtI It sharply boosts your Special Defense. (The stat change returns to normal when you go to the next floor or step on a Wonder Tile.) S MD It sharply boosts your Sp. Def. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Amnesia",
+    "Amnesia (move)"
+  ],
+  "updatedAt": 1773320772
+}

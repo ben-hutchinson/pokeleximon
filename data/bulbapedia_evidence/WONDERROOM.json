@@ -1,0 +1,38 @@
+{
+  "answerKey": "WONDERROOM",
+  "answerDisplay": "WONDER ROOM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Wonder Room (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Room_(move)",
+  "pageId": 117446,
+  "pageRevisionId": 4426924,
+  "leadText": "Wonder Room (Japanese: ワンダールーム Wonder Room) is a non-damaging Psychic-type move introduced in Generation V. It is TM71 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation V [ edit | edit source ] Wonder Room swaps the Defense and Special Defense of all Pokémon, but stat changes remain on their respective stat. This effect lasts for five turns. Similar to Magic Room and Trick Room , using Wonder Room while it is already in effect will end it immediately. Wonder Room has a priority of -7, so will be used after all moves with a normal priority. Generation VI onwards [ edit | edit source ] Wonder Room now has a priority of 0. Wonder Room can affect which stat is modified by Beast Boost . It also swaps the roles of Sword of Ruin and Beads of Ruin . If powered up by a Psychium Z into Z-Wonder Room, the user's Special Defense stat is raised by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user creates a bizarre area in which Pokémon's Defense and Sp. Def stats are swapped for five turns."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI UNUSED S MD It swaps Defense and Sp. Def. The stats return to normal if it's used again. * It changes the floor to a Wonder Room. The status returns to normal after a while or after you use this move again. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation V, Wonder Room had the lowest priority of all moves, along with Trick Room and Magic Room ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Wonder-Room",
+    "Wonder Room",
+    "Wonder-Room (move)"
+  ],
+  "updatedAt": 1773328557
+}

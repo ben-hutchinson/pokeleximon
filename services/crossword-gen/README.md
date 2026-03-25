@@ -21,14 +21,16 @@ python scripts/build_wordlist.py
 python scripts/build_crossword_wordlist.py
 python scripts/build_detail_corpus.py
 python scripts/rebuild_crossword_answer_clue_csv.py
+# Rebuild now runs the three provider workers (Bulbapedia, Serebii, PokemonDB)
+# plus the product-owner checker and writes answer, clue 1, clue 2, clue 3.
 # Rebuild now also writes unresolved quality reports:
 # data/crossword_clue_unresolved_report.csv and .json
 # Optional: external enrichment pass for generic clues (Bulbapedia-backed, cache-aware).
 python scripts/enrich_crossword_clues_external.py
-# Optional: build multi-clue variants per answer (Bulbapedia + Serebii scaffold).
-python scripts/build_crossword_clue_variants.py --min-clues-per-answer 3 --max-clues-per-answer 5
-# Optional: deterministic offline pass (no network) and enforce >=3 clues per answer.
-python scripts/build_crossword_clue_variants.py --cache-only --strict-min-clues --min-clues-per-answer 3 --max-clues-per-answer 5
+# Optional: legacy variant-expansion helper for diagnostics.
+python scripts/build_crossword_clue_variants.py --min-clues-per-answer 3 --max-clues-per-answer 3
+# Optional: deterministic offline pass of the legacy helper.
+python scripts/build_crossword_clue_variants.py --cache-only --strict-min-clues --min-clues-per-answer 3 --max-clues-per-answer 3
 # Optional: cache-only run to avoid network fetches.
 python scripts/build_crossword_clue_variants.py --cache-only --dry-run --verbose
 # Optional: cache-only pass (no network calls).

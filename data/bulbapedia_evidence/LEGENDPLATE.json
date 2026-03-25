@@ -1,0 +1,38 @@
+{
+  "answerKey": "LEGENDPLATE",
+  "answerDisplay": "LEGEND PLATE",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Legend Plate",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Legend_Plate",
+  "pageId": 268109,
+  "pageRevisionId": 4514309,
+  "leadText": "The Legend Plate (Japanese: レジェンドプレート Legend Plate) is a Key Item in Pokémon Legends: Arceus. It is one of the Plates, which are associated with Arceus.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] When used on Arceus, the Legend Plate changes it to the Normal type , like the Blank Plate . In battle, when Arceus uses Judgment , the move changes type based on the selected opponent's type, and changes Arceus's type to the same type before completing the attack. While selecting a move, Judgment displays the type that it will become against the selected opponent, if used that turn. This is similar to the move Hidden Power . Judgment will become a type that is super effective against the target, prioritizing any double weaknesses of dual-type targets. If multiple types are equally effective, Judgment will change to a type that best resists the target's primary type, prioritizing immunities, regardless of what the target's secondary type may be. Since Palkia ’s primary type is Water , Judgment will always become Dragon . Since Giratina ’s primary type is Ghost , Judgment will always become Dark . Although Fairy is immune to their secondary Dragon typing, it does not resist Water or Ghost. If multiple types are still equally valid, Judgment will change to the type that best resists the target's secondary type, if any. If multiple types are still equally valid, then one of them will be selected at random. This calculation is done on each turn, so if there are multiple valid types, Judgment's type may vary between them each turn. The Legend Plate can be read, and has the following engraving: \"From all creations, over all creations, does the Original One watch over all.\""
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Method LA Hall of Origin (reward for defeating Arceus during Mission 27: \"The Deified Pokémon\")"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA S V A stone tablet imbued with the essence of all creation. When used on a certain Pokémon, it allows that Pokémon to gain the power of every type there is."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Effect 1.2 Description 1.3 Acquisition In the core series games [ edit | edit source ] Effect [ edit | edit source ] When used on Arceus, the Legend Plate changes it to the Normal type , like the Blank Plate . In battle, when Arceus uses Judgment , the move changes type based on the selected opponent's type, and changes Arceus's type to the same type before completing the attack. While selecting a move, Judgment displays the type that it will become against the selected opponent, if used that turn. This is similar to the move Hidden Power . Judgment will become a type that is super effective against the target, prioritizing any double weaknesses of dual-type targets. If multiple types are equally effective, Judgment will change to a type that best resists the target's primary type, prioritizing immunities, regardless of what the target's secondary type may be. Since Palkia ’s primary type is Water , Judgment will always become Dragon . Since Giratina ’s primary type is Ghost , Judgment will always become Dark . Although Fairy is immune to their secondary Dragon typing, it does not resist Water or Ghost. If multiple types are still equally valid, Judgment will change to the type that best resists the target's secondary type, if any. If multiple types are still equally valid, then one of them will be selected at random. This calculation is done on each turn, so if there are multiple valid types, Judgment's type may vary between them each turn. The Legend Plate can be read, and has the following engraving: \"From all creations, over all creations, does the Original One watch over all.\" Description [ edit | edit source ] Games Description LA S V A stone tablet imbued with the essence of all creation. When used on a certain Pokémon, it allows that Pokémon to gain the power of every type there is. Acquisition [ edit | edit source ] Games Method LA Hall of Origin (reward for defeating Arceus during Mission 27: \"The Deified Pokémon\")"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Legend-Plate",
+    "Legend Plate",
+    "Legend-Plate (item)"
+  ],
+  "updatedAt": 1774214367
+}

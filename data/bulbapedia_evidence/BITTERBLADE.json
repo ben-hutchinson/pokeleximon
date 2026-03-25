@@ -1,0 +1,34 @@
+{
+  "answerKey": "BITTERBLADE",
+  "answerDisplay": "BITTER BLADE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Bitter Blade (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bitter_Blade_(move)",
+  "pageId": 274257,
+  "pageRevisionId": 4482847,
+  "leadText": "Bitter Blade (Japanese: むねんのつるぎ Mortification Sword) is a damage-dealing Fire-type move introduced in Generation IX. It is the signature move of Ceruledge.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Bitter Blade inflicts damage, and it restores the user's HP by half of the damage dealt. If used by a Pokémon with Sharpness , its power is increased by 50%. If the user is holding a Big Root , the HP restored is increased by 30%. Big Root does not increase the damage dealt. If the target has the Ability Liquid Ooze , the user will lose the amount of HP it would have gained instead."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user focuses its bitter feelings toward the world of the living into a slashing attack. The user's HP is restored by up to half the damage taken by the target. ZA The user attacks by focusing all its bitter feelings toward this world into the tip of its blade. The user's HP will be restored by a portion of the damage dealt."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Bitter Blade is the only Fire-type HP-draining move . Bitter Blade was the first Generation IX move seen in the animated series . As shown in Riding the Waves , if Bitter Blade is used to cut food it will suck out its nutrients but the food will still be edible."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Bitter-Blade",
+    "Bitter Blade",
+    "Bitter-Blade (move)"
+  ],
+  "updatedAt": 1773321187
+}

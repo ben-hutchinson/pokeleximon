@@ -1,0 +1,38 @@
+{
+  "answerKey": "ATTACKORDER",
+  "answerDisplay": "ATTACK ORDER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Attack Order (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Attack_Order_(move)",
+  "pageId": 18896,
+  "pageRevisionId": 4500973,
+  "leadText": "Attack Order (Japanese: こうげきしれい Attack Order) is a damage-dealing Bug-type move introduced in Generation IV. It is one of the signature moves of Vespiquen, alongside Defend Order and Heal Order.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Attack Order deals damage and has an increased critical hit ratio. Attack Order can also be used as part of a Contest Spectacular combination , with the user gaining extra three appeal points if the move Focus Energy was used in the prior turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user calls out its underlings to pummel the foe. It has a high critical-hit ratio. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user calls out its underlings to pummel the target. Critical hits land more easily. S V The user calls out its underlings to pummel the target. This move has a heightened chance of landing a critical hit."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on all enemies in the room. It has a high critical-hit rate. * B S L おなじへやの てきポケモンに ダメージをあたえる きゅうしょに あたりやすい MD GtI UNUSED S MD It damages enemies in the same room. It has a high critical-hit rate."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Attack Order in Professor Oak's Big Pokémon Encyclopedia While Attack Order has never made a proper animated series debut , it was used by a Vespiquen in the Professor Oak's Big Pokémon Encyclopedia segment for DP047 ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Attack-Order",
+    "Attack Order",
+    "Attack-Order (move)"
+  ],
+  "updatedAt": 1773320925
+}

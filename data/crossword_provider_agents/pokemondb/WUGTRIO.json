@@ -1,0 +1,17 @@
+{
+  "answerKey": "WUGTRIO",
+  "answerDisplay": "WUGTRIO",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Water type Pokémon introduced in Generation 9.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/wugtrio",
+  "extract": "Wugtrio is a Water type Pokémon introduced in Generation 9 .",
+  "rankPosition": 1,
+  "updatedAt": 1774213423
+}

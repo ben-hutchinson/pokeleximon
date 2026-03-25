@@ -1,0 +1,110 @@
+{
+  "answerKey": "SUCTIONCUPS",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4398806,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Suction Cups (Japanese: Suction Cups) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Prevents forced movement. MD T D S Prevents the Pokemon from being forcibly moved. B S L MD GtI Unavailable S MD The Pokemon can't be blown away or warped! MD RT DX The Pokemon holds tight and can't be blown away or warped.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability prevents other Pokemon from forcing the Pokemon with this Ability to switch out or flee with a move (e.g. Roar , Circle Throw , etc.) or item ( Red Card ). Suction Cups does not affect the Pokemon switching out manually, or switching out or fleeing with its own move (e.g. Baton Pass , Teleport , etc.) or item ( Eject Button ). Even if the Pokemon with this Ability is Ghost-type or holds a Shed Shell or Smoke Ball , it cannot be forced to switch or flee. If a Pokemon with this Ability is under the effect of Ingrain , Suction Cups will take priority over Ingrain if it would be forced to switch or flee. If a Pokemon with Suction Cups hits a Pokemon holding a Red Card, the Red Card will still activate and be consumed, but fails to cause that Pokemon to switch out or flee. Outside of battle [ edit | edit source ] This Ability effect may be in need of research. Reason: In Generation VII , does Suction Cups only make Pokemon fishing encounters more common, or does it make hooking anything more common? You can discuss this on the talk page. From Pokemon Emerald onwards, if a Pokemon with Suction Cups is in first place in the player's party (even if fainted ), bites will occur more often while fishing . Sticky Hold has the same effect. Due to an error in Pokemon Diamond, Pearl , and Platinum , the Ability has no effect outside of battle in those games. [ 1 ] [ 2 ] This behavior is kept in Pokemon Brilliant Diamond and Shining Pearl , where the Ability also has no effect outside of battle. [ 3 ] In Pokemon HeartGold and SoulSilver only, if a Pokemon with Suction Cups breaks a rock , it receives a flat 5% increase in odds of finding an item. @im_a_blisy on Twitter Function ov6_0224226C() in decompilation of Pokemon Platinum by GitHub organization \"pret\" https://web.archive.org/web/20211201221838/https://twitter.com/Sibuna_Switch/status/1465550398354345997",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] This Ability prevents other Pokemon from forcing the Pokemon with this Ability to switch out or flee with a move (e.g. Roar , Circle Throw , etc.) or item ( Red Card ). Suction Cups does not affect the Pokemon switching out manually, or switching out or fleeing with its own move (e.g. Baton Pass , Teleport , etc.) or item ( Eject Button ). Even if the Pokemon with this Ability is Ghost-type or holds a Shed Shell or Smoke Ball , it cannot be forced to switch or flee. If a Pokemon with this Ability is under the effect of Ingrain , Suction Cups will take priority over Ingrain if it would be forced to switch or flee. If a Pokemon with Suction Cups hits a Pokemon holding a Red Card, the Red Card will still activate and be consumed, but fails to cause that Pokemon to switch out or flee.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Prevents being forced out of battle by other Pokemon's moves.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      },
+      {
+        "text": "Prevents escape",
+        "evidence_ref": "Description",
+        "specificity": 0.84
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.78,
+        "style": "effect"
+      },
+      {
+        "text": "Prevents major status ailments",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "effect"
+      },
+      {
+        "text": "Ailment-proof trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "effect"
+      },
+      {
+        "text": "Prevents escape",
+        "evidence_ref": "Description",
+        "mystery_score": 0.76,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Traps opposing Pokemon",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "No-escape battle trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.8,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "status immunity",
+      "battle trap",
+      "escape blocker"
+    ],
+    "connections_descriptors": [
+      "Status-blocking abilities",
+      "Trapping abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258020
+}

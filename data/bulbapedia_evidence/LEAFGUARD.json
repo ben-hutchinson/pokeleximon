@@ -1,0 +1,34 @@
+{
+  "answerKey": "LEAFGUARD",
+  "answerDisplay": "LEAF GUARD",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Leaf Guard (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Leaf_Guard_(Ability)",
+  "pageId": 14336,
+  "pageRevisionId": 4259093,
+  "leadText": "Leaf Guard (Japanese: リーフガード Leaf Guard) is an Ability introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] During harsh sunlight , Leaf Guard prevents the Pokémon from being afflicted by non-volatile status conditions (including via Flame Orb and Toxic Orb ) and Yawn . It has no effect on any status conditions the Pokémon was afflicted by prior to the weather being set up. If harsh sunlight is created in the turn where a Pokémon made drowsy due to Yawn would fall asleep, the Ability will activate and keep the Pokémon awake. Generation IV [ edit | edit source ] Rest can still be used normally, and the user falls asleep for two turns. Generation V onward [ edit | edit source ] Rest will now fail if used by a Pokémon with Leaf Guard during harsh sunlight. Outside of battle [ edit | edit source ] Leaf Guard has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] During harsh sunlight , Leaf Guard prevents the Pokémon from being afflicted by non-volatile status conditions (including via Flame Orb and Toxic Orb ) and Yawn . It has no effect on any status conditions the Pokémon was afflicted by prior to the weather being set up. If harsh sunlight is created in the turn where a Pokémon made drowsy due to Yawn would fall asleep, the Ability will activate and keep the Pokémon awake. Generation IV [ edit | edit source ] Rest can still be used normally, and the user falls asleep for two turns. Generation V onward [ edit | edit source ] Rest will now fail if used by a Pokémon with Leaf Guard during harsh sunlight."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Protects the Pokémon from status problems in sunny weather. B S L ひざしがつよい てんきだと わるいじょうたいに ならない MD GtI Prevents bad status conditions when it's sunny. * The Pokémon is protected from bad status conditions in the Sunny weather condition! * S MD The Pokémon is protected from bad status conditions when it's sunny! MD RT DX The Pokémon is protected from bad status conditions, such as poison or paralysis, during Sunny weather or in Extremely Harsh Sunlight."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Leaf-Guard",
+    "Leaf Guard",
+    "Leaf-Guard (Ability)"
+  ],
+  "updatedAt": 1773328982
+}

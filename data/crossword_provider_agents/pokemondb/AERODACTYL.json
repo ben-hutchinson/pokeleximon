@@ -1,0 +1,17 @@
+{
+  "answerKey": "AERODACTYL",
+  "answerDisplay": "AERODACTYL",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Rock / Flying type Pokémon introduced in Generation 1.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/aerodactyl",
+  "extract": "Aerodactyl is a Rock / Flying type Pokémon introduced in Generation 1 .",
+  "rankPosition": 1,
+  "updatedAt": 1774210551
+}

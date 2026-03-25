@@ -1,0 +1,83 @@
+{
+  "answerKey": "PINKSCARF",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4492688,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "specificity": 0.7
+      },
+      {
+        "text": "scarves",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen III scarves",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Raises the holders Cuteness while in a contest.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Boosts A Pokemon Contest's stats",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "A Pokemon Contest Its Cuteness In The Primary Round boost item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Power item for A Pokemon Contest",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "A Pokemon Contest-only held item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.46,
+        "specificity_score": 0.68,
+        "style": "category"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "a pokemon contest item"
+    ],
+    "connections_descriptors": [
+      "Held battle items",
+      "Gen III items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257993
+}

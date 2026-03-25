@@ -1,0 +1,30 @@
+{
+  "answerKey": "TANGLINGHAIR",
+  "answerDisplay": "TANGLING HAIR",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Tangling Hair (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tangling_Hair_(Ability)",
+  "pageId": 218073,
+  "pageRevisionId": 4259122,
+  "leadText": "Tangling Hair (Japanese: カーリーヘアー Curly Hair) is an Ability introduced in Generation VII. It is the signature Ability of Alolan Diglett and Alolan Dugtrio.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with this Ability is hit by a move that makes contact , the Speed of the attacking Pokémon is decreased by one stage. If a Pokémon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), each hit activates this Ability. Outside of battle [ edit | edit source ] Tangling Hair has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with this Ability is hit by a move that makes contact , the Speed of the attacking Pokémon is decreased by one stage. If a Pokémon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), each hit activates this Ability."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Tangling-Hair",
+    "Tangling Hair",
+    "Tangling-Hair (Ability)"
+  ],
+  "updatedAt": 1773327807
+}

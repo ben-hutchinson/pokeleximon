@@ -1,0 +1,33 @@
+{
+  "answerKey": "ADAPTABILITY",
+  "answerDisplay": "ADAPTABILITY",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Adaptability (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Adaptability_(Ability)",
+  "pageId": 17624,
+  "pageRevisionId": 4360899,
+  "leadText": "Adaptability (Japanese: てきおうりょく Adaptability) is an Ability introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Adaptability increases STAB of a Pokémon with this Ability from 1.5 to 2. When a Pokémon with Adaptability is Terastallized , Adaptability only affects moves of the Tera Type. If the Pokémon's Tera Type is one of its original types, its STAB is 2.25; otherwise, it's 2. Stellar-type moves are unaffected by Adaptability. Outside of battle [ edit | edit source ] Adaptability has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Adaptability increases STAB of a Pokémon with this Ability from 1.5 to 2. When a Pokémon with Adaptability is Terastallized , Adaptability only affects moves of the Tera Type. If the Pokémon's Tera Type is one of its original types, its STAB is 2.25; otherwise, it's 2. Stellar-type moves are unaffected by Adaptability."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the power of the Pokémon's moves that match its type. B S L じぶんと わざのタイプが あっているときの ダメージが おおきい MD GtI Increases the power of moves that are the same type as the Pokémon. * The power of moves that are the same type as the Pokémon goes up. * S MD The power of moves that are the same type as the Pokémon goes up. MD RT DX This Ability increases the power of moves that are the same type as this Pokémon."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Adaptability",
+    "Adaptability (Ability)"
+  ],
+  "updatedAt": 1774213507
+}

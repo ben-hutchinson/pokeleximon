@@ -1,0 +1,17 @@
+{
+  "answerKey": "CHINGLING",
+  "answerDisplay": "CHINGLING",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Psychic type Pokémon introduced in Generation 4.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/chingling",
+  "extract": "Chingling is a Psychic type Pokémon introduced in Generation 4 .",
+  "rankPosition": 1,
+  "updatedAt": 1774210851
+}

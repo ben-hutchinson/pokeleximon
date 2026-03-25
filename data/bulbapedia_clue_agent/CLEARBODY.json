@@ -1,0 +1,90 @@
+{
+  "answerKey": "CLEARBODY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4512256,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Clear Body (Japanese: Clear Body) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Prevents reduction of stats. MD T D S Protects the Pokemon from stat reduction. B S L Conq. Prevents the Pokemon's stats from being lowered. MD GtI Unavailable S MD The Pokemon's Attack, Defense, Sp. Atk, Sp. Def, accuracy, and evasiveness won't be lowered! MD RT DX The Pokemon's Attack, Defense, Sp. Atk, Sp. Def, accuracy, and evasiveness won't be lowered.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Clear Body prevents stat reduction caused by other Pokemon's moves and Abilities (such as Scary Face and Intimidate ), including Sticky Web . Clear Body does not prevent self-inflicted stat reductions such as from moves like Superpower or Shell Smash . Clear Body only protects from effects that lower stat stages, so it does not prevent stat reduction from items like the Iron Ball , the status conditions paralysis or burn , or the moves Guard Split or Power Split . Clear Body does not prevent stat stages being directly modified by Heart Swap , Guard Swap , Power Swap , Baton Pass , or Topsy-Turvy . It does not prevent Spectral Thief from stealing (i.e., resetting) positive stat changes. This Ability is ignored by moves and Abilities that ignore Abilities, such as Mold Breaker . Outside of battle [ edit | edit source ] Clear Body has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Clear Body prevents stat reduction caused by other Pokemon's moves and Abilities (such as Scary Face and Intimidate ), including Sticky Web . Clear Body does not prevent self-inflicted stat reductions such as from moves like Superpower or Shell Smash . Clear Body only protects from effects that lower stat stages, so it does not prevent stat reduction from items like the Iron Ball , the status conditions paralysis or burn , or the moves Guard Split or Power Split . Clear Body does not prevent stat stages being directly modified by Heart Swap , Guard Swap , Power Swap , Baton Pass , or Topsy-Turvy . It does not prevent Spectral Thief from stealing (i.e., resetting) positive stat changes. This Ability is ignored by moves and Abilities that ignore Abilities, such as Mold Breaker .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Prevents stats from being lowered by other Pokemon.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Protects stats from drops",
+        "evidence_ref": "lead",
+        "specificity": 0.82
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "debuffing trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Protects stats from drops",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Stat-drop blocking trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "effect"
+      },
+      {
+        "text": "Keeps stats from falling",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.74,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "debuffing trait",
+      "stat-protecting trait"
+    ],
+    "connections_descriptors": [
+      "Debuffing abilities",
+      "Stat-protecting abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257935
+}

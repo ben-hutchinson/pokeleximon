@@ -1,0 +1,30 @@
+{
+  "answerKey": "DEERTRACKPATH",
+  "answerDisplay": "DEERTRACK PATH",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Deertrack Path",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Deertrack_Path",
+  "pageId": 268513,
+  "pageRevisionId": 4410088,
+  "leadText": "Deertrack Path (Japanese: シシの山道 Deer Mountain Path) is an area located in the northern region of the Obsidian Fieldlands of Hisui. It comprises the northwest section of the central island of the fieldlands, branching into Windswept Run to the southwest and Deertrack Heights to the southeast. It is directly across the bridge from Aspiration Hill, and can only be accessed after the player reaches First Star Rank.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] Deertrack Path is a forested plain that has similar geography to Aspiration Hill right across the river. From the bridge linking the two areas, a dirt path leads from the plain into the hillside, where it is carved through the rock in a winding fashion. Torches line the path on either side up to Deertrack Heights."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] This section is incomplete. Please feel free to edit this section to add missing information and complete it. Item Location Games Vivichoke ×5 From Mai after defeating her at the bridge, during Mission 5: \"A Request from Mai\" LA"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Deertrack-Path",
+    "Deertrack Path",
+    "Deertrack-Path (location)"
+  ],
+  "updatedAt": 1774213875
+}

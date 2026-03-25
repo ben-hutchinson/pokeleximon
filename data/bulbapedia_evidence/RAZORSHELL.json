@@ -1,0 +1,34 @@
+{
+  "answerKey": "RAZORSHELL",
+  "answerDisplay": "RAZOR SHELL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Razor Shell (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Razor_Shell_(move)",
+  "pageId": 117539,
+  "pageRevisionId": 4505292,
+  "leadText": "Razor Shell (Japanese: シェルブレード Shell Blade) is a damage-dealing Water-type move introduced in Generation V. It was TM83 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Razor Shell inflicts damage and has a 50% chance of lowering the target's Defense stat by one stage. If used by a Pokémon with Sharpness , its power is increased by 50%."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user cuts its target with sharp shells. This attack may also lower the target's Defense stat. X Y OR AS S M US UM P E Sw Sh BD SP LA The user cuts its target with sharp shells. This may also lower the target's Defense stat. S V The user cuts the target with sharp shells to inflict damage. This may also lower the target's Defense stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI S MD MD RT DX It damages an enemy. It could also lower the enemy's Defense."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Razor-Shell",
+    "Razor Shell",
+    "Razor-Shell (move)"
+  ],
+  "updatedAt": 1773326279
+}

@@ -1,0 +1,17 @@
+{
+  "answerKey": "BOBSFOODTIN",
+  "answerDisplay": "BOBS FOOD TIN",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "Details for the Pokémon item Bob.",
+  "score": 57.88,
+  "approved": false,
+  "qualityFlags": [
+    "near_verbatim_source"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/item/bobs-food-tin",
+  "extract": "Details for the Pokémon item Bob",
+  "rankPosition": 1,
+  "updatedAt": 1774210731
+}

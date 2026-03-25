@@ -1,0 +1,34 @@
+{
+  "answerKey": "FREEZINGGLARE",
+  "answerDisplay": "FREEZING GLARE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Freezing Glare (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Freezing_Glare_(move)",
+  "pageId": 252179,
+  "pageRevisionId": 4447212,
+  "leadText": "Freezing Glare (Japanese: いてつくしせん Freezing Glare) is a damage-dealing Psychic-type move introduced during Generation VIII, in The Crown Tundra. It is the signature move of Galarian Articuno.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Freezing Glare inflicts damage and has a 10% chance to freeze the target. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Freezing Glare cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V The user shoots its psychic power from its eyes to attack. This may also leave the target frozen. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Freezing Glare is the only Psychic-type move capable of freezing the target."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Freezing-Glare",
+    "Freezing Glare",
+    "Freezing-Glare (move)"
+  ],
+  "updatedAt": 1773322991
+}

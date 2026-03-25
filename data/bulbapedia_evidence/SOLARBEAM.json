@@ -1,0 +1,38 @@
+{
+  "answerKey": "SOLARBEAM",
+  "answerDisplay": "SOLAR BEAM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Solar Beam (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Solar_Beam_(move)",
+  "pageId": 3685,
+  "pageRevisionId": 4503704,
+  "leadText": "Solar Beam (Japanese: ソーラービーム Solar Beam), formatted as SolarBeam prior to Pokémon X and Y, is a damage-dealing Grass-type move introduced in Generation I. It is: TM22 from Generation I to Pokémon Ultra Sun and Ultra Moon as well as in Pokémon Brilliant Diamond and Shining Pearl. TM45 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TM11 in Pokémon Sword and Shield. TM168 in Pokémon Scarlet and Violet. TM064 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generations III and IV 1.4 Generations V and VI 1.5 Generation VII 1.6 Generation VIII onwards 1.7 Generation IX 1.7.1 Pokémon Legends: Z-A Effect [ edit | edit source ] This move effect may be in need of research. Reason: Is the power of Solar Beam affected by shadowy aura (like it is by rain, hail and sandstorm)? You can discuss this on the talk page. Generation I [ edit | edit source ] SolarBeam does nothing on the turn it is selected, other than state that the user has taken in sunlight. On the following turn, SolarBeam will inflict damage, PP will be deducted from it, and it will count as the last move used. Once SolarBeam is selected, the user will not be able to switch out until it is disrupted or fully executed. If SolarBeam is not fully executed, PP will not be deducted from it, and it will not count as the last move used. If the target uses Mirror Move during the turn that the user takes in sunlight, Mirror Move will copy the move that the user executed immediately before using SolarBeam (or fail if it can't). Sleep , freezing , binding , and flinching will pause, but not disrupt, the duration of SolarBeam. In Pokémon Stadium , Mirror Move will copy SolarBeam on either of the turns it takes to execute. Generation II [ edit | edit source ] SolarBeam will not need a turn to charge if used during harsh sunlight . It will have its power halved if used during rain . If the user is prevented from attacking with SolarBeam during harsh sunlight by conditions such as flinching , paralysis , and confusion , then PP will still be deducted regardless, due to the fact that SolarBeam was designed as a two-turn attack. If SolarBeam is disrupted from succeeding due to conditions such as flinching, paralysis, or confusion, the entire move will now be cancelled rather than simply paused. Generations III and IV [ edit | edit source ] SolarBeam will also have its power halved if used during hail , fog or when a sandstorm is raging. If a Pokémon holding a Power Herb uses SolarBeam, it will consume the Power Herb to execute SolarBeam in one turn. If there is harsh sunlight , the Power Herb will not be consumed. SolarBeam can be used as the second move of a Pokémon Contest combination , with the user gaining 4 bonus appeal points if Growth or Sunny Day was used in the previous turn. Generations V and VI [ edit | edit source ] A minor change shows the charging half of SolarBeam's animation happening even if it is sunny, where previously it did not. The actual attack will happen immediately after. Strong winds have no effect on Solar Beam's power. Solar Beam can also be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if Sunny Day was used in the prior turn. Generation VII [ edit | edit source ] In Pokémon: Let's Go, Pikachu! and Let's Go, Eevee! , Solar Beam's power was increased from 120 to 200. Generation VIII onwards [ edit | edit source ] Solar Beam's power was changed back to 120. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 120 144 Cooldown 12s Move wind-up time 70 frames 15 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad The strongest Grass -type attack. Energy is absorbed in the first turn, then fired the next turn. Stad2 Strongest Grass -type attack. Energy is absorbed in the first turn, then fired on the next. G S C 1st turn: Prepare 2nd turn: Attack R S E Colo XD Absorbs light in one turn, then attacks next turn. (move) Absorbs sunlight in the 1st turn, then attacks next turn. * FR LG A 2-turn move that blasts the foe with absorbed energy in the 2nd turn. D P Pt HG SS PBR B W B2 W2 A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn. X Y OR AS A two-turn attack. The user gathers light, then blasts a bundled beam on the next turn. S M US UM P E Sw Sh BD SP LA In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn. S V The user gathers light on the first turn, then blasts a bundled beam on the next turn. ZA The user attacks by gathering a great deal of light and then shooting it at targets. This move takes some time to carry out."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Solarbeam status, making it attack strongly on the next turn. It is not possible to link this move. MD T D S Gives the user a SolarBeam status, which causes the Pokémon to charge power for 1 turn, then try a powerful attack on the next turn. During a Sunny condition, it charges for an immediate attack. You can't link this move. B S L ソーラービームじょうたいになり ちからをため つぎのこうどうで いりょくのたかい こうげきを くりだす てんきが『ひざしがつよい』のときには ためずに １ターンでくりだせる このわざは ポケモンタワーでは くりだせない MD GtI You'll get the SolarBeam status, which lets you charge power, then try a powerful attack. Under a Sunny condition, it charges for an immediate attack on the first turn. S MD You'll get the Solar Beam status condition, which lets you charge power to try a powerful attack on the next turn. When it's sunny, it charges for an immediate attack on the first turn. But during rain, hail, or a sandstorm, the damage will be reduced! MD RT DX You'll get the Solar Beam status condition, which lets you charge power to try a powerful attack on the next turn. During Sunny weather or in Extremely Harsh Sunlight, it charges for an immediate attack on the first turn. But during Rain, Heavy Rain, Hail, or a Sandstorm, the damage will be reduced."
+    },
+    {
+      "title": "Pokédex entries",
+      "text": "Pokédex entries [ edit | edit source ] Episode Subject Source Entry EP051 Solar Beam Ash's Pokédex Solar Beam, Bulbasaur 's strongest attack . Light is collected and formed into a powerful beam with intensive force."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Solar-Beam",
+    "Solar Beam",
+    "Solar-Beam (move)"
+  ],
+  "updatedAt": 1773327366
+}

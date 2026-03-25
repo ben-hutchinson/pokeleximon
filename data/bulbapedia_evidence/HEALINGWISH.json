@@ -1,0 +1,34 @@
+{
+  "answerKey": "HEALINGWISH",
+  "answerDisplay": "HEALING WISH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Healing Wish (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Healing_Wish_(move)",
+  "pageId": 14446,
+  "pageRevisionId": 4479002,
+  "leadText": "Healing Wish (Japanese: いやしのねがい Healing Wish) is a non-damaging Psychic-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation V to VII 1.3 Generation VIII onwards Effect [ edit | edit source ] Generation IV [ edit | edit source ] Healing Wish causes the user to faint, then immediately switches in the new Pokémon. The new Pokémon's HP is restored and it is cured of any status conditions upon being sent out. Healing Wish will fail if its Trainer has no other conscious Pokémon in their party or if used by a wild Pokémon . Generation V to VII [ edit | edit source ] The receiving Pokémon is now sent out at the end of the turn rather than immediately sending it out. Healing Wish can now be stolen by Snatch . If powered up with a Psychium Z into Z-Healing Wish, the move will gain no additional effects. Generation VIII onwards [ edit | edit source ] If the Pokémon sent out to replace the user already has full health and no status condition, Healing Wish's effect will not activate until a Pokémon is placed in that position (either by switching in or using Ally Switch ). A pending Healing Wish will not activate if a Pokémon already in that position loses HP or gains a status condition; it will only activate when a new Pokémon is placed in that position. Each position can only have a single instance of Healing Wish pending (using it multiple times does not stack). Healing Wish can stack with Lunar Dance . If used in a Max Raid Battle or Tera Raid Battle , Healing Wish fails, and the user does not faint."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR B W B2 W2 The user faints. In return, the Pokémon taking its place will have its HP restored and status cured. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user faints. In return, the Pokémon taking its place will have its HP restored and status conditions cured."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Fully restores the HP and heals all the status problems of the user's team members in the room. However, the user's own HP drops to just 1. B S L おなじへやの なかまポケモンの ＨＰと わるいじょうたいを すべて かいふくするが じぶんのＨＰが １になってしまう MD GtI UNUSED S MD It restores your teammates' HP and heals their bad status conditions. But it also depletes your HP to 1, so be careful! MD RT DX It restores your teammates' HP and heals their bad statuses. But it also depletes your HP to 1, so be careful!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Healing-Wish",
+    "Healing Wish",
+    "Healing-Wish (move)"
+  ],
+  "updatedAt": 1773323567
+}

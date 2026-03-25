@@ -1,0 +1,34 @@
+{
+  "answerKey": "ICICLECRASH",
+  "answerDisplay": "ICICLE CRASH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Icicle Crash (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Icicle_Crash_(move)",
+  "pageId": 117314,
+  "pageRevisionId": 4498555,
+  "leadText": "Icicle Crash (Japanese: つららおとし Icicle Drop) is a damage-dealing Ice-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Icicle Crash inflicts damage and has a 30% chance of causing the target to flinch . Icicle Crash can also be used as part of a Contest Spectacular combination , with the user gaining extra three appeal points if the move Hail was used in the prior turn. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Icicle Crash's base power has been lowered to 80. Instead of causing flinching, it lowers the target's action speed. Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 80 60 100 Accuracy 90% 90% 100% Action speed modifier Self 0 0 +5 Target +3 +5 +3 Additional effect ? ? ? ? ? ? Lowers the target's action speed Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 85 102 Cooldown 8s Move wind-up time 20 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user attacks by harshly dropping an icicle onto the target. It may also make the target flinch. X Y OR AS S M US UM P E Sw Sh BD SP The user attacks by harshly dropping large icicles onto the target. This may also make the target flinch. LA The user attacks by harshly dropping large icicles onto the target. S V The user attacks by crashing large icicles onto the target. This may also make the target flinch. ZA The user attacks by crashing large icicles down upon targets. This may also make targets flinch."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Conq. The user attacks by harshly dropping an icicle onto the target. It may also make the target flinch. MD GtI It damages an enemy. It could also cause the Cringe status condition, which makes the enemy unable to attack or use moves. S MD It damages an enemy. It could also make the enemy flinch."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Icicle-Crash",
+    "Icicle Crash",
+    "Icicle-Crash (move)"
+  ],
+  "updatedAt": 1773323819
+}

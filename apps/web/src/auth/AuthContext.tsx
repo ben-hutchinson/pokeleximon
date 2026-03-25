@@ -1,4 +1,4 @@
-import { createContext, useContext, useEffect, useMemo, useState } from "react";
+import { createContext, useCallback, useContext, useEffect, useMemo, useState } from "react";
 import {
   getAuthSession,
   getOrCreatePlayerToken,
@@ -49,7 +49,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   const [username, setUsername] = useState<string | null>(null);
   const [profile, setProfile] = useState<PlayerProfile | null>(null);
 
-  const applySession = (session: AuthSession) => {
+  const applySession = useCallback((session: AuthSession) => {
     const fallbackPlayerToken = getOrCreatePlayerToken();
     const next = normalizeSession(session, fallbackPlayerToken);
     setAuthenticated(next.authenticated);
@@ -57,19 +57,19 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     setUsername(next.username);
     setProfile(next.profile);
     return session;
-  };
+  }, []);
 
-  const refreshSession = async () => {
+  const refreshSession = useCallback(async () => {
     const session = await getAuthSession();
     return applySession(session);
-  };
+  }, [applySession]);
 
-  const signUp = async (params: { username: string; password: string; guestPlayerToken?: string | null }) => {
+  const signUp = useCallback(async (params: { username: string; password: string; guestPlayerToken?: string | null }) => {
     const session = await apiSignUp(params);
     return applySession(session);
-  };
+  }, [applySession]);
 
-  const logIn = async (params: {
+  const logIn = useCallback(async (params: {
     username: string;
     password: string;
     guestPlayerToken?: string | null;
@@ -77,9 +77,9 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   }) => {
     const session = await apiLogIn(params);
     return applySession(session);
-  };
+  }, [applySession]);
 
-  const logOut = async () => {
+  const logOut = useCallback(async () => {
     const session = await apiLogOut();
     const fallbackPlayerToken = getOrCreatePlayerToken();
     setAuthenticated(false);
@@ -87,7 +87,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     setUsername(null);
     setProfile(null);
     return session;
-  };
+  }, []);
 
   useEffect(() => {
     const fallbackPlayerToken = getOrCreatePlayerToken();
@@ -101,7 +101,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
         setPlayerToken(fallbackPlayerToken);
       })
       .finally(() => setLoading(false));
-  }, []);
+  }, [applySession]);
 
   const value = useMemo<AuthContextValue>(
     () => ({
@@ -115,7 +115,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       logIn,
       logOut,
     }),
-    [authenticated, loading, playerToken, profile, username],
+    [authenticated, loading, logIn, logOut, playerToken, profile, refreshSession, signUp, username],
   );
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;

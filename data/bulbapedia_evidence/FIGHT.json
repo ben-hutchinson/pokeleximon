@@ -1,0 +1,31 @@
+{
+  "answerKey": "FIGHT",
+  "answerDisplay": "FIGHT",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Fight Area",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fight_Area",
+  "pageId": 20061,
+  "pageRevisionId": 4399840,
+  "leadText": "Fight Area (Japanese: ファイトエリア Fight Area) is an area of the Battle Zone, northeast of Sinnoh. It is the home of the Battle Park. In Platinum, the Battle Park is replaced by the Sinnoh Battle Frontier. Fight Area is the town the player will arrive at when first visiting the Battle Zone. In fact, it is the only area of the Zone accessible until the player has visited the Battle Tower or the Battle Frontier and obtained the National Pokédex.",
+  "sections": [
+    {
+      "title": "Places of interest",
+      "text": "Places of interest [ edit | edit source ] Battle Park [ edit | edit source ] Main article: Battle Park (Sinnoh) In front of the entrance to the Battle Park is a spot where the rival will stand on weekends in Pokémon Diamond and Pearl and its remakes , after the Magma Stone has been returned to Stark Mountain , where the player can battle him. Within Battle Park itself are both the Battle Tower (where Battle Points can be earned) and a building where the earned Battle Points can be redeemed. Battle Frontier [ edit | edit source ] Main article: Battle Frontier (Generation IV) Within the Battle Frontier are five battle facilities, including the Battle Tower , where Battle Points can be earned, an Entrance hall, and a marketplace and prize center where Battle Points can be exchanged for items."
+    },
+    {
+      "title": "Battle Park",
+      "text": "Battle Park [ edit | edit source ] Main article: Battle Park (Sinnoh) In front of the entrance to the Battle Park is a spot where the rival will stand on weekends in Pokémon Diamond and Pearl and its remakes , after the Magma Stone has been returned to Stark Mountain , where the player can battle him. Within Battle Park itself are both the Battle Tower (where Battle Points can be earned) and a building where the earned Battle Points can be redeemed."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fight-Area",
+    "Fight Area",
+    "Fight",
+    "Fight-Area (location)"
+  ],
+  "updatedAt": 1774213986
+}

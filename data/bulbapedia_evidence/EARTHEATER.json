@@ -1,0 +1,30 @@
+{
+  "answerKey": "EARTHEATER",
+  "answerDisplay": "EARTH EATER",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Earth Eater (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Earth_Eater_(Ability)",
+  "pageId": 277628,
+  "pageRevisionId": 4289470,
+  "leadText": "Earth Eater (Japanese: どしょく Geophagy) is an Ability introduced in Generation IX. It is the signature Ability of Orthworm.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with Earth Eater is hit by a Ground-type move , its HP is restored by one quarter of its maximum HP, and the move will have no effect on that Pokémon (if a Pokémon with this Ability already has full HP, the Ground-type move will do nothing). Earth Eater will not activate if the Pokémon is protected from the Ground-type move. Outside of battle [ edit | edit source ] Earth Eater has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with Earth Eater is hit by a Ground-type move , its HP is restored by one quarter of its maximum HP, and the move will have no effect on that Pokémon (if a Pokémon with this Ability already has full HP, the Ground-type move will do nothing). Earth Eater will not activate if the Pokémon is protected from the Ground-type move."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Earth-Eater",
+    "Earth Eater",
+    "Earth-Eater (Ability)"
+  ],
+  "updatedAt": 1773328852
+}

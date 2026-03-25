@@ -1,0 +1,67 @@
+{
+  "answerKey": "DRYSKIN",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4388192,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Dry Skin (Japanese: Dry Skin) is an Ability introduced in Generation IV.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD T D S Weakens Pokemon in sun and to Fire-type moves; rain and Water-type moves heal HP. B S L MD GtI Water-type moves and Rain restore its HP. Fire-type moves and Sunny weather damage it. * If it is hit with a Water-type move or the weather condition is Rain, the Pokemon's HP is restored! But if the weather condition is Sunny, it will gradually take damage. Fire-type moves do more damage! * S MD If it is hit with a Water-type move, the Pokemon's HP is restored! Rain or heavy rain helps the Pokemon restore HP naturally. But the Pokemon doesn't do well when it's sunny or in harsh sunlight. MD RT DX The Pokemon absorbs Water-type moves to restore its HP. Rain or Heavy Rain helps the Pokemon restore HP naturally more quickly. But the Pokemon doesn't do well when it's Sunny or in Extremely Harsh Sunlight, and it also doesn't do well against Fire-type moves.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Dry Skin is hit by a Water-type move , its HP is restored by one quarter of its maximum HP, and the move will have no effect on that Pokemon (if a Pokemon with this Ability already has full HP, the Water-type move will do nothing). This effect will not activate if the Pokemon is protected from the Water-type move. Multistrike moves , such as Water Shuriken , will only activate this effect once. Fire-type attacks do 25% more damage to a Pokemon with Dry Skin. During rain , a Pokemon with Dry Skin will regain of its maximum HP at the end of each turn. During harsh sunlight , a Pokemon with Dry Skin will lose of its maximum HP at the end of each turn. If a Pokemon with Dry Skin is holding an Absorb Bulb or Luminous Moss , Dry Skin absorbs the Water-type move so the item's effect is not triggered. Outside of battle [ edit | edit source ] Dry Skin has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with Dry Skin is hit by a Water-type move , its HP is restored by one quarter of its maximum HP, and the move will have no effect on that Pokemon (if a Pokemon with this Ability already has full HP, the Water-type move will do nothing). This effect will not activate if the Pokemon is protected from the Water-type move. Multistrike moves , such as Water Shuriken , will only activate this effect once. Fire-type attacks do 25% more damage to a Pokemon with Dry Skin. During rain , a Pokemon with Dry Skin will regain of its maximum HP at the end of each turn. During harsh sunlight , a Pokemon with Dry Skin will lose of its maximum HP at the end of each turn. If a Pokemon with Dry Skin is holding an Absorb Bulb or Luminous Moss , Dry Skin absorbs the Water-type move so the item's effect is not triggered.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain. Increases damage from fire moves to 1.25, but absorbs water moves, healing for 1/4 max HP.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Weather abilities",
+      "Gen IV abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257942
+}

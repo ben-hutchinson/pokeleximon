@@ -1,0 +1,38 @@
+{
+  "answerKey": "FALSESWIPE",
+  "answerDisplay": "FALSE SWIPE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "False Swipe (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/False_Swipe_(move)",
+  "pageId": 3817,
+  "pageRevisionId": 4495384,
+  "leadText": "False Swipe (Japanese: みねうち Strike with the Back of the Sword) is a damage-dealing Normal-type move introduced in Generation II. It is: TM54 from Generation IV to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TM94 in Pokémon Sword and Shield. TM057 in Pokémon Scarlet and Violet. TM122 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] False Swipe inflicts damage, but will leave the target with 1 HP if it would otherwise cause it to faint. If the target has 1 HP remaining, False Swipe will hit and leave the target at 1 HP. False Swipe does not reduce its damage when hitting a substitute . False Swipe can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Swords Dance was used in the previous turn. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] False Swipe's PP was reduced to 30. Pokémon Legends: Arceus Category Physical PP 30 Agile Strong Power 40 30 50 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect ? ? ? ? ? ? Leaves the target with at least 1 HP"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A move that adjusts Attack so that the foe has one HP left. Can't cause the foe to faint. G S C Leaves the foe with at least 1HP. R S E Colo An attack that leaves the foe with at least 1 HP. FR LG A restrained attack that always leaves the foe with at least 1 HP. XD An attack that leaves the target with at least 1 HP. D P Pt HG SS PBR A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V A restrained attack that prevents the target from fainting. The target is left with at least 1 HP. ZA The user attacks with restraint to ensure that targets are left with at least 1 HP."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It leaves the target with one HP if its damage would have made the target faint. MD T D S Inflicts damage on the target but leaves it with 1 HP if its damage would have made the target faint. B S L てきポケモンに ダメージをあたえる あいてを たおすようなダメージを あたえても ＨＰを １だけのこす MD GtI If you make an enemy faint with this move, the chance of befriending the enemy slightly goes up. S MD It damages an enemy. But the enemy will endure the attack that would cause it to faint with 1 HP! MD RT DX It damages an enemy. If you knock an enemy out with it, they will be more likely to join you on your adventure!"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] False Swipe's Japanese name is a reference to katanas , which are designed to have a single cutting edge on one side, while the other side is mostly flat. Thus, striking the opponent with the flat side of the katana would not be fatal."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "False-Swipe",
+    "False Swipe",
+    "False-Swipe (move)"
+  ],
+  "updatedAt": 1773322711
+}

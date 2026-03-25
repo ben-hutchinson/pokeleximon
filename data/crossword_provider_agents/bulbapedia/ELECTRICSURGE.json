@@ -1,0 +1,16 @@
+{
+  "answerKey": "ELECTRICSURGE",
+  "answerDisplay": "ELECTRIC SURGE",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen VII ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Electric_Surge_(Ability)",
+  "extract": "Electric Surge (Japanese: エレキメイカー Electric Maker) is an Ability introduced in Generation VII. Prior to Generation VIII, it was the signature Ability of Tapu Koko. In Generation IX, it is the signature Ability of Pincurchin.",
+  "updatedAt": 1774258442
+}

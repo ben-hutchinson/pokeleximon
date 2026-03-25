@@ -1,0 +1,16 @@
+{
+  "answerKey": "HONEYGATHER",
+  "answerDisplay": "HONEY GATHER",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen IV ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Honey_Gather_(Ability)",
+  "extract": "Honey Gather (Japanese: みつあつめ Honey Gather) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Combee.",
+  "updatedAt": 1774258443
+}

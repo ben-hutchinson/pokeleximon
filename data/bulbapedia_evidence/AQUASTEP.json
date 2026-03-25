@@ -1,0 +1,34 @@
+{
+  "answerKey": "AQUASTEP",
+  "answerDisplay": "AQUA STEP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Aqua Step (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Aqua_Step_(move)",
+  "pageId": 277775,
+  "pageRevisionId": 4498411,
+  "leadText": "Aqua Step (Japanese: アクアステップ Aqua Step) is a damage-dealing Water-type move introduced in Generation IX. It is the signature move of Quaquaval.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Aqua Step inflicts damage and raises the user's Speed by one stage if the move is successful."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user toys with the target and attacks it using light and fluid dance steps. This also boosts the user's Speed stat."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Aqua Step is the only physical dance move . It is also the only Water-type dance move."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Aqua-Step",
+    "Aqua Step",
+    "Aqua-Step (move)"
+  ],
+  "updatedAt": 1773320835
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "FOLLOWME",
+  "answerDisplay": "FOLLOW ME",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Follow Me (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Follow_Me_(move)",
+  "pageId": 3877,
+  "pageRevisionId": 4483077,
+  "leadText": "Follow Me (Japanese: このゆびとまれ Stay With This Finger) is a non-damaging Normal-type move introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations III and IV 1.2 Generation V 1.3 Generation VI onwards Effect [ edit | edit source ] Generations III and IV [ edit | edit source ] Follow Me has a priority of +3 and makes the user the center of attention , forcing opposing Pokémon to use their moves on the user rather than the intended target (even if it was a friendly target, unless it is a move that cannot target an opponent such as Acupressure or Helping Hand ) for the rest of the turn. If a move cannot target the center of attention, it will be used on its intended target. It does not affect allies. If the center of attention faints or switches out , it no longer draws moves. Follow Me can draw moves with a charging turn (such as Fly and Solar Beam ) if it is used on the turn the move would hit. Follow Me will draw the moves Future Sight and Doom Desire only if it used on the turn these moves are selected. Follow Me draws Electric - and Water-type moves even if a Pokémon with Lightning Rod or Storm Drain is on the field. If another Pokémon on the same team is already the center of attention, the first user takes priority; if the first user is outside of range or stops being the center of attention, the attack will be drawn to the next center of attention. Follow Me has no effect on moves which hit multiple Pokémon in a battle. While it can be used in Single Battles, it has no effect. Generation V [ edit | edit source ] In Triple Battles , Follow Me will draw the attacks of all opponents in the field, but it can only draw attacks from non-adjacent opponents if they use a long-range move . Follow Me cannot redirect Sky Drop . If the center of attention is taken into the air by Sky Drop , it no longer draws moves. Generation VI onwards [ edit | edit source ] Follow Me now has +2 priority. Follow Me does not redirect Future Sight or Doom Desire . Snipe Shot and the Abilities Stalwart and Propeller Tail ignore Follow Me and hit the intended target. If powered up by a Normalium Z into Z-Follow Me, all of the user's lowered stats are reset. From Pokémon Brilliant Diamond and Shining Pearl onwards, Follow Me fails in Single Battles."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Draws attention to make foes attack only the user. FR LG The user draws attention to itself, making foes attack only the user. D P Pt HG SS PBR The user draws attention to itself, making all foes take aim only at the user. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user draws attention to itself, making all targets take aim only at the user. S V The user draws attention to itself, making all opposing Pokémon take aim only at the user."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Decoy status, making it the primary target of foes. MD T D S Gives the user a Decoy status. A Pokémon with the Decoy status is the primary target of enemies. B S L じぶんを みがわりじょうたいにかえる みがわりじょうたいになると てきポケモンから ゆうせんてきに こうげきされる MD GtI UNUSED S MD It warps 1 random enemy in the same room to the tile in front of you. Then it warps your teammates near you to surround the enemy."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] A song under the same Japanese name uses this move as the title, as well as Pokémon and move puns. In Generation III , the status screen erroneously states that the move has 100% accuracy, even though it targets the user (thus it ignores accuracy and evasion checks). Despite being introduced in Generation III, no Pokémon from this generation can learn the move. A Jirachi distributed through an event was later released during Generation V , being the only exception. In Pokémon UNITE , in Panic Parade, despite the line being unable to learn the move in the main series, Tinkaton uses this move at the start of each wave containing a boss."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Follow-Me",
+    "Follow Me",
+    "Follow-Me (move)"
+  ],
+  "updatedAt": 1773322955
+}

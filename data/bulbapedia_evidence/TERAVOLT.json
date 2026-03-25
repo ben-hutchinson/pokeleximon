@@ -1,0 +1,33 @@
+{
+  "answerKey": "TERAVOLT",
+  "answerDisplay": "TERAVOLT",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Teravolt (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Teravolt_(Ability)",
+  "pageId": 117724,
+  "pageRevisionId": 4465202,
+  "leadText": "Teravolt (Japanese: テラボルテージ Teravoltage) is an Ability introduced in Generation V. It is the signature Ability of Zekrom and Black Kyurem.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation VIII onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Main article: Ignoring Abilities When a Pokémon with Teravolt uses a move, the effects of all Pokémon's ignorable Abilities are ignored for the execution of that move. (Ignorable Abilities are most Abilities that could potentially negatively affect the success, damage, or effects of a move if possessed by the target of a move or its allies.) For example, a Pokémon with Teravolt that uses Thunder can hit opponents that have Lightning Rod . When a Pokémon with Teravolt is brought out, the message \" is radiating a bursting aura! \" will be displayed. Generation VIII onward [ edit | edit source ] Teravolt no longer ignores Dark Aura and Fairy Aura , though it will still ignore Aura Break . Outside of battle [ edit | edit source ] Teravolt has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Main article: Ignoring Abilities When a Pokémon with Teravolt uses a move, the effects of all Pokémon's ignorable Abilities are ignored for the execution of that move. (Ignorable Abilities are most Abilities that could potentially negatively affect the success, damage, or effects of a move if possessed by the target of a move or its allies.) For example, a Pokémon with Teravolt that uses Thunder can hit opponents that have Lightning Rod . When a Pokémon with Teravolt is brought out, the message \" is radiating a bursting aura! \" will be displayed. Generation VIII onward [ edit | edit source ] Teravolt no longer ignores Dark Aura and Fairy Aura , though it will still ignore Aura Break ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Conq. Moves can be used regardless of enemy Abilities. MD GtI Damage dealt by the Pokémon's moves is not influenced by the foe's Ability. * The Pokémon's moves are not influenced by the target's Ability! Electric-type moves can damage even a Pokémon with the Volt Absorb Ability. * S MD The Pokémon's moves are not influenced by the target's Ability! For example, Electric-type moves can damage even a Pokémon with the Volt Absorb Ability."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Teravolt",
+    "Teravolt (Ability)"
+  ],
+  "updatedAt": 1773329275
+}

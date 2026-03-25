@@ -165,6 +165,7 @@ class PlayerProfile(Base):
     display_name: Mapped[str | None] = mapped_column(String(48), nullable=True)
     public_slug: Mapped[str] = mapped_column(String(96), nullable=False, unique=True, index=True)
     leaderboard_visible: Mapped[bool] = mapped_column(nullable=False, default=True, index=True)
+    avatar_preset: Mapped[str | None] = mapped_column(String(32), nullable=True)
     created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), server_default=func.now(), index=True)
     updated_at: Mapped[datetime] = mapped_column(
         DateTime(timezone=True), server_default=func.now(), onupdate=func.now(), index=True

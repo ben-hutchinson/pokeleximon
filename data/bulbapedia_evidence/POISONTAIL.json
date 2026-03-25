@@ -1,0 +1,38 @@
+{
+  "answerKey": "POISONTAIL",
+  "answerDisplay": "POISON TAIL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Poison Tail (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Poison_Tail_(move)",
+  "pageId": 3953,
+  "pageRevisionId": 4500894,
+  "leadText": "Poison Tail (Japanese: ポイズンテール Poison Tail) is a damage-dealing Poison-type move introduced in Generation III. Prior to Generation V, it was the signature move of Seviper, but other Pokémon could still inherit it via breeding. It is TM026 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Poison Tail deals damage and has an increased critical hit ratio. It has a 10% chance of poisoning the target. Poison Tail can also be used as part of a Contest Spectacular combination , with the user gaining extra three appeal points if the move Focus Energy was used in the prior turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Has a high critical-hit ratio. May also poison. FR LG An attack with a high critical-hit ratio. It may also poison the foe. D P Pt HG SS PBR An attack with a high critical-hit ratio. This tail attack may also poison the foe. B W B2 W2 The user hits the target with its tail. It may also poison the target. Critical hits land more easily. X Y OR AS S M US UM P E Sw Sh BD SP LA The user hits the target with its tail. This may also poison the target. Critical hits land more easily. S V The user hits the target with its tail. This move has a heightened chance of landing a critical hit and may also poison the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also leave the target poisoned. It has a high critical-hit rate. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Poisoned status condition, which causes periodic damage. It has a high critical-hit rate. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで どくじょうたいにかえる きゅうしょにあたりやすい Conq. An attack with a high critical-hit ratio. This tail attack may also poison the target. MD GtI It damages an enemy. It could also cause the Poisoned status condition. With the Poisoned status, the enemy keeps taking damage and can't restore its HP naturally. S MD It could make an enemy poisoned. It has a high critical-hit rate. * It damages an enemy. It could also make the enemy poisoned. It has a high critical-hit rate. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Goomy and Sliggoo cannot learn Poison Tail through TM in Generation IX , despite learning it through breeding in Generations VI and VII."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Poison-Tail",
+    "Poison Tail",
+    "Poison-Tail (move)"
+  ],
+  "updatedAt": 1773325892
+}

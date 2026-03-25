@@ -1,0 +1,34 @@
+{
+  "answerKey": "EGGBOMB",
+  "answerDisplay": "EGG BOMB",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Egg Bomb (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Egg_Bomb_(move)",
+  "pageId": 3730,
+  "pageRevisionId": 4503860,
+  "leadText": "Egg Bomb (Japanese: タマゴばくだん Egg Bomb) is a damage-dealing Normal-type move introduced in Generation I. It was TM37 in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generations I to VII [ edit | edit source ] Egg Bomb inflicts damage and has no secondary effect. Egg Bomb does no damage to opponents with the Bulletproof ability. Egg Bomb can be used as the second move of a Pokémon Contest combination and a Contest Spectacular combination , with the user gaining 4 bonus appeal points if Soft-Boiled was used in the previous turn. Generation VIII onwards [ edit | edit source ] Egg Bomb cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A Normal -type attack. An egg is launched at the target. It may miss, however. G S C Eggs are hurled at the foe. R S E An egg is forcibly hurled at the foe. FR LG A large egg is hurled with great force at the foe to inflict damage. Colo XD An egg is forcibly hurled at the target. D P Pt HG SS PBR A large egg is hurled with maximum force at the foe to inflict damage. B W B2 W2 X Y OR AS S M US UM P E A large egg is hurled at the target with maximum force to inflict damage. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. B S L てきポケモンに ダメージをあたえる MD GtI UNUSED S MD MD RT DX It damages an enemy."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Egg-Bomb",
+    "Egg Bomb",
+    "Egg-Bomb (move)"
+  ],
+  "updatedAt": 1773322483
+}

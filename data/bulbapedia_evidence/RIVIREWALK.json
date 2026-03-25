@@ -1,0 +1,27 @@
+{
+  "answerKey": "RIVIREWALK",
+  "answerDisplay": "RIVIRE WALK",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Kalos Route 7",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Kalos_Route_7",
+  "pageId": 184555,
+  "pageRevisionId": 4493425,
+  "leadText": "Route 7 (Japanese: ７番道路 Route 7) is a route in western Kalos, connecting Route 6, Camphrier Town, and Connecting Cave. The route is also known as Rivière Walk (Japanese: リビエールライン Rivière Line).",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Name origin [ edit | edit source ] Rivière is French for river."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Rivière-Walk",
+    "Rivière Walk",
+    "Rivire Walk",
+    "Rivière-Walk (location)"
+  ],
+  "updatedAt": 1773326443
+}

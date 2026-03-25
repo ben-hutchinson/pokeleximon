@@ -1,0 +1,38 @@
+{
+  "answerKey": "VACUUMWAVE",
+  "answerDisplay": "VACUUM WAVE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Vacuum Wave (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Vacuum_Wave_(move)",
+  "pageId": 17457,
+  "pageRevisionId": 4500951,
+  "leadText": "Vacuum Wave (Japanese: しんくうは Vacuum Wave) is a damage dealing Fighting-type move introduced in Generation IV. It is TM184 in Pokémon Scarlet and Violet and TM150 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Vacuum Wave inflicts damage. It has a priority of +1, so it is used before all moves that do not have increased priority."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user whirls its fists to send a wave of pure vacuum at the foe. This move always goes first. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first. ZA The user attacks swiftly by whirling its fists to create a wave of pure vacuum that it sends flying at targets."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on a target up to 2 tiles away. B S L てきポケモンに ダメージをあたえる ２マスまで とどく MD GtI UNUSED S MD MD RT DX It damages an enemy. It reaches up to 2 tiles away."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move's Japanese name, しんくうは shinkūha , is a reference to a ninja technique ubiquitous in manga, anime, and other fiction commonly known in English as vacuum wave . A popular example of this is the Naruto series or Megami Tensei franchise. Despite being able to learn it by level up in these games, Scyther cannot learn this move by Move Tutor in Pokémon Platinum , HeartGold , or SoulSilver . Vacuum Wave is the only variation of Quick Attack to be a special move ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Vacuum-Wave",
+    "Vacuum Wave",
+    "Vacuum-Wave (move)"
+  ],
+  "updatedAt": 1773328226
+}

@@ -1,0 +1,33 @@
+{
+  "answerKey": "GUTS",
+  "answerDisplay": "GUTS",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Guts (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Guts_(Ability)",
+  "pageId": 4138,
+  "pageRevisionId": 4407442,
+  "leadText": "Guts (Japanese: こんじょう Guts) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] While a Pokémon with this Ability has a status condition (non-volatile status), its Attack is increased by 50%. Additionally, a Pokémon with this Ability does not lose Attack due to burn . The Attack boost from Guts does not activate if a Pokémon is frozen and uses a move that thaws it out, such as Flame Wheel or Flare Blitz . Outside of battle [ edit | edit source ] Guts has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] While a Pokémon with this Ability has a status condition (non-volatile status), its Attack is increased by 50%. Additionally, a Pokémon with this Ability does not lose Attack due to burn . The Attack boost from Guts does not activate if a Pokémon is frozen and uses a move that thaws it out, such as Flame Wheel or Flare Blitz ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts Attack if the Pokémon has any status problems. MD T D S Boosts the Pokémon's Attack when it has any status problems. B S L わるいじょうたいに なったときに こうげきが あがる Conq. Raises Attack when suffering from a status ailment. MD GtI When the Pokémon is affected by a bad status condition, the power of its physical moves rises. * When the Pokémon is affected by a bad status condition, the power of its physical moves goes up! * S MD When the Pokémon is affected by a bad status condition, the power of its physical moves goes up! MD RT DX When the Pokémon is affected by a bad status condition, like poison or a burn, the power of its physical moves goes up."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Guts",
+    "Guts (Ability)"
+  ],
+  "updatedAt": 1774214132
+}

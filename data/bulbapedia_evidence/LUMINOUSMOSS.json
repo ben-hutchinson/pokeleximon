@@ -1,0 +1,34 @@
+{
+  "answerKey": "LUMINOUSMOSS",
+  "answerDisplay": "LUMINOUS MOSS",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Luminous Moss",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Luminous_Moss",
+  "pageId": 187172,
+  "pageRevisionId": 4329103,
+  "leadText": "The Luminous Moss (Japanese: ひかりごけ Luminous Moss) is a type of held item introduced in Generation VI. It raises the holder's Special Defense when it is hit by a damaging Water-type move.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If the holder is hit by a Water-type damaging move, it consumes the Luminous Moss and its Special Defense is increased by one stage. It does not activate if the holder already has +6 Special Defense stat stages (unless its Ability is Contrary , in which case it will not activate if the holder has -6 Special Defense stat stages). It does not activate if the holder is protected from or unaffected by the Water-type move (e.g. due to Water Absorb or Wonder Guard ). If multiple Pokémon each holding an Absorb Bulb or Luminous Moss are hit by a Water-type move at once, each hit Pokémon will consume their Absorb Bulb or Luminous Moss before Symbiosis transfers any item (including these items). Cram-o-matic [ edit | edit source ] Type Points Grass 8"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM An item to be held by a Pokémon. It boosts Sp. Def if hit with a Water-type attack. It can only be used once. P E Sw Sh BD SP LA An item to be held by a Pokémon. It boosts Sp. Def if the holder is hit with a Water-type attack. It can only be used once. S V An item to be held by a Pokémon. This single-use luminous moss boosts the Sp. Def stat if the holder is damaged by a Water-type move."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.2.1 Cram-o-matic 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price X Y OR AS N/A $ 500 S M US UM Sw Sh N/A $ 2,000 S V $ 5,000 $ 1,250 Effect [ edit | edit source ] If the holder is hit by a Water-type damaging move, it consumes the Luminous Moss and its Special Defense is increased by one stage. It does not activate if the holder already has +6 Special Defense stat stages (unless its Ability is Contrary , in which case it will not activate if the holder has -6 Special Defense stat stages). It does not activate if the holder is protected from or unaffected by the Water-type move (e.g. due to Water Absorb or Wonder Guard ). If multiple Pokémon each holding an Absorb Bulb or Luminous Moss are hit by a Water-type move at once, each hit Pokémon will consume their Absorb Bulb or Luminous Moss before Symbiosis transfers any item (including these items). Cram-o-matic [ edit | edit source ] Type Points Grass 8 Description [ edit | edit source ] Games Description X Y OR AS S M US UM An item to be held by a Pokémon. It boosts Sp. Def if hit with a Water-type attack. It can only be used once. P E Sw Sh BD SP LA An item to be held by a Pokémon. It boosts Sp. Def if the holder is hit with a Water-type attack. It can only be used once. S V An item to be held by a Pokémon. This single-use luminous moss boosts the Sp. Def stat if the holder is damaged by a Water-type move. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods X Y Mossy rocks OR AS Battle Maison (32 BP ) Held by wild Corsola (5% chance) S M US UM Hau'oli City US UM Held by wild Corsola (5% chance) Sw Sh Glimwood Tangle Battle Tower (10 BP ) Held by wild Corsola (5% chance) Sh S V Delibird Presents ( Cascarrafa Branch, after earning 4 Gym Badges )"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Luminous-Moss",
+    "Luminous Moss",
+    "Luminous-Moss (item)"
+  ],
+  "updatedAt": 1773324542
+}

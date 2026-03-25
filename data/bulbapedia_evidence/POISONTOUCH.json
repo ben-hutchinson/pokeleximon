@@ -1,0 +1,38 @@
+{
+  "answerKey": "POISONTOUCH",
+  "answerDisplay": "POISON TOUCH",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Poison Touch (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Poison_Touch_(Ability)",
+  "pageId": 118117,
+  "pageRevisionId": 4407525,
+  "leadText": "Poison Touch (Japanese: どくしゅ Underhanded Trick) is an Ability introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If a Pokémon with this Ability uses a move that makes contact , there is a 30% chance the target will become poisoned . In Japanese versions of Pokémon Black and White , this is a 20% chance instead. This chance applies independently of any moves that may have a chance to poison the target with their own effect. If the attack's target holds a status condition-curing Berry , it is possible for a move's natural effect to inflict a status condition which the target's held item will then cure, only for the target to then be poisoned by Poison Touch. Poison Touch's chances also apply independently for each hit of a multistrike move . Poison Touch can poison a target hit by Dragon Tail or Circle Throw . Poison Touch can poison a target with Mummy before Mummy overwrites Poison Touch. Pokémon with Immunity , Shield Dust , or (during harsh sunlight ) Leaf Guard cannot be poisoned by Poison Touch, unless the contact-making move is Sunsteel Strike . In a link battle including a Japanese version of Pokémon Black or White and non-Japanese version of Black and White (or any version of Black 2 or White 2), the chance to poison is determined by the game of the player with the Pokémon that has the Ability Poison Touch. As such, a Pokémon with Poison Touch owned by the player of a Japanese version of Pokémon Black or White will have a 20% chance to poison, whereas players of Pokémon Black 2 and White 2 and non-Japanese versions of Pokémon Black and White will have a 30% chance. Outside of battle [ edit | edit source ] Poison Touch has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] If a Pokémon with this Ability uses a move that makes contact , there is a 30% chance the target will become poisoned . In Japanese versions of Pokémon Black and White , this is a 20% chance instead. This chance applies independently of any moves that may have a chance to poison the target with their own effect. If the attack's target holds a status condition-curing Berry , it is possible for a move's natural effect to inflict a status condition which the target's held item will then cure, only for the target to then be poisoned by Poison Touch. Poison Touch's chances also apply independently for each hit of a multistrike move . Poison Touch can poison a target hit by Dragon Tail or Circle Throw . Poison Touch can poison a target with Mummy before Mummy overwrites Poison Touch. Pokémon with Immunity , Shield Dust , or (during harsh sunlight ) Leaf Guard cannot be poisoned by Poison Touch, unless the contact-making move is Sunsteel Strike . In a link battle including a Japanese version of Pokémon Black or White and non-Japanese version of Black and White (or any version of Black 2 or White 2), the chance to poison is determined by the game of the player with the Pokémon that has the Ability Poison Touch. As such, a Pokémon with Poison Touch owned by the player of a Japanese version of Pokémon Black or White will have a 20% chance to poison, whereas players of Pokémon Black 2 and White 2 and non-Japanese versions of Pokémon Black and White will have a 30% chance."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI May inflict the Poisoned status on the attacker who hits it with a direct attack. * When the Pokémon lands a direct attack like Tackle or Scratch, the target is sometimes afflicted with the Poisoned status condition! * S MD When the Pokémon damages a target with a contact move like Tackle or Scratch, the target sometimes gets poisoned!"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This Ability's Japanese, Korean, and Chinese names are a pun; 毒手 Dokushu is a figure of speech meaning treachery or an underhanded scheme , but the individual characters 毒 and 手 literally mean \"poison\" and \"hand/touch\", respectively."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Poison-Touch",
+    "Poison Touch",
+    "Poison-Touch (Ability)"
+  ],
+  "updatedAt": 1773325893
+}

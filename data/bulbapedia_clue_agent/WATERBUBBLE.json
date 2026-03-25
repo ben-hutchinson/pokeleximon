@@ -1,0 +1,57 @@
+{
+  "answerKey": "WATERBUBBLE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4407543,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Water Bubble (Japanese: Water Bubble) is an Ability introduced in Generation VII. It is the signature Ability of Dewpider and Araquanid.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Water Bubble halves the damage dealt to the Pokemon with this Ability by Fire-type attacks and doubles the power of Water-type moves used by the Pokemon with this Ability. It also prevents the Pokemon with the Ability from being burned . A Pokemon with Water Bubble will be cured of burn if it is burned while in battle (such as if it gains the Ability by an effect like Skill Swap , or is burned by a Pokemon with an Ability like Mold Breaker ). Outside of battle [ edit | edit source ] Water Bubble has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Water Bubble halves the damage dealt to the Pokemon with this Ability by Fire-type attacks and doubles the power of Water-type moves used by the Pokemon with this Ability. It also prevents the Pokemon with the Ability from being burned . A Pokemon with Water Bubble will be cured of burn if it is burned while in battle (such as if it gains the Ability by an effect like Skill Swap , or is burned by a Pokemon with an Ability like Mold Breaker ).",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Halves damage from Fire moves, doubles damage of Water moves, and prevents burns.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "burning trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "burning trait"
+    ],
+    "connections_descriptors": [
+      "Burning abilities",
+      "Gen VII abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258032
+}

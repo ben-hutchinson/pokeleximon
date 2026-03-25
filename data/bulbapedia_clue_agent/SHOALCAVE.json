@@ -1,0 +1,97 @@
+{
+  "answerKey": "SHOALCAVE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4387979,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Hoenn location",
+        "evidence_ref": "lead",
+        "specificity": 0.5
+      },
+      {
+        "text": "city landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "cave landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "route landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "Site on Route 125",
+        "evidence_ref": "lead",
+        "specificity": 0.86
+      },
+      {
+        "text": "urban landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Site on Route 125",
+        "evidence_ref": "lead",
+        "mystery_score": 0.54,
+        "specificity_score": 0.72,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Hoenn landmark",
+        "evidence_ref": "lead",
+        "mystery_score": 0.38,
+        "specificity_score": 0.5,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Hoenn city",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.7,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Regional city",
+        "evidence_ref": "lead",
+        "mystery_score": 0.44,
+        "specificity_score": 0.62,
+        "style": "taxonomy"
+      },
+      {
+        "text": "City in Hoenn",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.66,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Urban landmark",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "theme"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "Pokemon location"
+    ],
+    "connections_descriptors": [
+      "Hoenn landmarks",
+      "Hoenn citys"
+    ],
+    "risk_flags": [],
+    "confidence": 0.77
+  },
+  "updatedAt": 1774258011
+}

@@ -1,0 +1,83 @@
+{
+  "answerKey": "TACHYONCUTTER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4414797,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX Steel move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Steel special move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Effect [ edit | edit source ] Tachyon Cutter inflicts damage, hitting twice per use. Each strike has an equal chance to be a critical hit . It bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . If used by a Pokemon with Sharpness , its power is increased by 50%. Tachyon Cutter will hit again if the first strike breaks a substitute. Mirror Coat will only acknowledge the second strike of this move. If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokemon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. If the user is holding a King's Rock or Razor Fang , each consecutive hit has an equal chance to cause the opponent to flinch . If the target has Stamina , each strike will activate it.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "50-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "critical-hit move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "flinch-causing move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Steel special move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen IX Steel move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "50-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "steel special move"
+    ],
+    "connections_descriptors": [
+      "Critical-Hit moves",
+      "Flinch-Causing moves",
+      "Steel Special moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258022
+}

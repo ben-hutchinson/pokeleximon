@@ -1,0 +1,42 @@
+{
+  "answerKey": "DANCER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4300299,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Dancer has several referrals: For the Ability introduced in Generation VII, see Dancer (Ability) For the Trainer class, see Dancer (Trainer class)",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Whenever another Pokemon uses a dance move, this Pokemon will use the same move immediately afterwards.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen VII ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257938
+}

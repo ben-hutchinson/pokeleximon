@@ -1,0 +1,38 @@
+{
+  "answerKey": "SLUDGEBOMB",
+  "answerDisplay": "SLUDGE BOMB",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sludge Bomb (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sludge_Bomb_(move)",
+  "pageId": 3798,
+  "pageRevisionId": 4498485,
+  "leadText": "Sludge Bomb (Japanese: ヘドロばくだん Sludge Bomb) is a damage-dealing Poison-type move introduced in Generation II. It is: TM36 from Generation II to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TM52 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR22 in Pokémon Sword and Shield. TM148 in Pokémon Scarlet and Violet. TM053 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Sludge Bomb inflicts damage and has a 30% chance of poisoning the target. It has no effect on targets with Bulletproof . Sludge Bomb can be used as the first move of a Pokémon Contest combination , causing Sludge to score double the normal appeal if used in the next turn. It can also be used to finish a combination, with the user gaining 2 bonus appeal points if Sludge was used in the previous turn. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Special PP 10 Agile Strong Power 80 60 100 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 30% 30% 50% Turns 3 2 4 ? ? May inflict the target with poison Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 90 108 Cooldown 7s Move wind-up time 15 frames Effect duration —s Additional effect Chance 30% — — May poison the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A Poison -type attack. Has a one-in-three chance of leaving the target poisoned. G S C An attack that may poison the foe. R S E Colo XD Sludge is hurled to inflict damage. May also poison. (move) Hurls sludge at the foe. It may poison the foe. R S E (TM) Hurl sludge at the target. It may poison the target. Colo XD (TM) FR LG Filthy sludge is hurled at the foe. It may poison the target. D P Pt HG SS The user attacks by hurling filthy sludge at the foe. It may also poison the target. (move) Unsanitary sludge is hurled at the foe. It may also poison the target. (TM) PBR The user attacks by hurling filthy sludge at the foe. It may also poison the target. B W B2 W2 Unsanitary sludge is hurled at the target. It may also poison the target. X Y OR AS S M US UM P E Sw Sh BD SP Unsanitary sludge is hurled at the target. This may also poison the target. LA Unsanitary sludge is hurled at the target to deal damage. This may also poison the target. S V The user hurls unsanitary sludge at the target to inflict damage. This may also poison the target. ZA The user attacks by hurling unsanitary sludge at targets. This may also leave targets poisoned."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target, even at a distance. It may also leave the target poisoned, damaging it for several turns. MD T D MD S * Inflicts damage on the target, even at a distance. It may also afflict the targeted enemy with a Poisoned status condition, which causes periodic damage. MD S * Inflicts damage on the target, even at a distance. It may also afflict the target with a Poisoned status condition, which causes periodic damage. B S L はなれたポケモンに ダメージをあたえる しかも いっていのかくりつで どくじょうたいにして いっていターンごとに ダメージをあたえる Conq. Unsanitary sludge is hurled at the target. It may also poison the target. MD GtI It damages even a faraway Pokémon. It could also cause the Poisoned status condition. With the Poisoned status, the Pokémon keeps taking damage and can't restore its HP naturally. S MD It damages a Pokémon, even one far away. It could also make the enemy poisoned."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Sludge Bomb is the only Poison-type move introduced in Generation II . Since Generation V , Sludge Bomb has the same description text as Sludge . Since Pokémon the Series: Diamond and Pearl , probably due to an oversight, the Polish animated series dub has used the same translated name for Sludge Bomb as Mud Bomb . Oddish and Gloom could learn Sludge Bomb in Generation II , but Bellossom couldn't. This was fixed in Generation III"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sludge-Bomb",
+    "Sludge Bomb",
+    "Sludge-Bomb (move)"
+  ],
+  "updatedAt": 1773327168
+}

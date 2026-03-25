@@ -1,0 +1,82 @@
+{
+  "answerKey": "ROUGHSKIN",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4407391,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Rough Skin (Japanese: Rough Skin) is an Ability introduced in Generation III. Prior to Generation V, it was the signature Ability of Carvanha and Sharpedo. In Generation IX, it is the signature Ability of Gible's evolutionary line.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on attackers. MD T D S Inflicts damage on an attacker who lands a direct-contact attack. B S L MD GtI Damages the attacker a little when the Pokemon is hit by a direct attack. * When the Pokemon is hit with a direct attack like Tackle or Scratch, the attacker is damaged a little! * S MD When the Pokemon is hit with a contact move like Tackle or Scratch, the attacker is damaged a little! MD RT DX When the Pokemon is hit with a contact move, like Tackle or Scratch, the attacker is damaged a little.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV onward 1.1.3 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokemon with this Ability is hit by a move that makes contact , the attacking Pokemon takes damage equal to 1/16 of its own maximum HP . If a Pokemon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), each hit will activate this Ability. If the contact move hitting the Pokemon with this Ability does 0 damage (for example, if the Pokemon with this Ability uses Endure at 1 HP ) this Ability will not trigger. Generation IV onward [ edit | edit source ] When a Pokemon with this Ability is hit by a move that makes contact , the attacking Pokemon now takes damage equal to 1/8 of its own maximum HP . If Rough Skin causes both the Pokemon with this Ability and the attacking Pokemon to faint, then the attacking Pokemon will faint first. Generation V onward [ edit | edit source ] When a Pokemon with this Ability is hit by a move that makes contact , the Ability will trigger even if that move deals 0 damage. Outside of battle [ edit | edit source ] Rough Skin has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "Contents 1 In battle 1.1 Generation III 1.2 Generation IV onward 1.3 Generation V onward In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokemon with this Ability is hit by a move that makes contact , the attacking Pokemon takes damage equal to 1/16 of its own maximum HP . If a Pokemon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), each hit will activate this Ability. If the contact move hitting the Pokemon with this Ability does 0 damage (for example, if the Pokemon with this Ability uses Endure at 1 HP ) this Ability will not trigger. Generation IV onward [ edit | edit source ] When a Pokemon with this Ability is hit by a move that makes contact , the attacking Pokemon now takes damage equal to 1/8 of its own maximum HP . If Rough Skin causes both the Pokemon with this Ability and the attacking Pokemon to faint, then the attacking Pokemon will faint first. Generation V onward [ edit | edit source ] When a Pokemon with this Ability is hit by a move that makes contact , the Ability will trigger even if that move deals 0 damage.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Damages attacking Pokemon for 1/8 their max HP on contact.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "Description",
+        "specificity": 0.86
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "Description",
+        "mystery_score": 0.76,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Damages foes on contact KO",
+        "evidence_ref": "Description",
+        "mystery_score": 0.7,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Contact-backlash trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "contact backlash",
+      "contact punisher"
+    ],
+    "connections_descriptors": [
+      "Contact-punishing abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258004
+}

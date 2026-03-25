@@ -1,0 +1,37 @@
+{
+  "answerKey": "MAGNITUDE",
+  "answerDisplay": "MAGNITUDE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Magnitude (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Magnitude_(move)",
+  "pageId": 3833,
+  "pageRevisionId": 4369584,
+  "leadText": "Magnitude (Japanese: マグニチュード Magnitude) is a damage-dealing Ground-type move introduced in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II to IV 1.2 Generation V to VII 1.3 Generation VIII onwards Effect [ edit | edit source ] Generation II to IV [ edit | edit source ] Magnitude's power varies based on a randomly selected \"magnitude\" value ranging from 4 to 10, with 4 having the least power and 10 having the greatest. Magnitude can hit a Pokémon during the semi-invulnerable turn of Dig , and if it does, it will have its power doubled for that Pokémon. Power varies as follows: Magnitude Power Probability 4 10 5% 5 30 10% 6 50 20% 7 70 30% 8 90 20% 9 110 10% 10 150 5% Its average power is 71. Generation V to VII [ edit | edit source ] If Magnitude hits a Pokémon during the semi-invulnerable turn of Dig , instead of doubling in power, the damage is doubled instead, resulting in virtually the same effect. If Grassy Terrain is in effect, Magnitude deals only half the usual damage. Generation VIII onwards [ edit | edit source ] Magnitude cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A Ground -type attack. The power of the attack will vary each time it is used. G S C A ground attack with random power. R S E Colo XD A ground-shaking attack of random intensity. FR LG A ground-shaking attack against all standing Pok é mon . Its power varies. D P Pt HG SS PBR The user looses a ground-shaking quake affecting everyone in battle. Its power varies. B W B2 W2 The user looses a ground-shaking quake affecting everyone around the user. Its power varies. X Y OR AS S M US UM P E The user attacks everything around it with a ground-shaking quake. Its power varies. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Damages all Pokémon in the same room. The amount of damage varies. It inflicts double damage on any digging Pokémon. MD T D S Inflicts random amounts of damage on all Pokémon in the room except the user. It will inflict double damage on a Pokémon with a Digging status. B S L おなじへやの じぶんいがいの すべてのポケモンに ダメージをあたえる ランダムで ダメージがかわる あなをほるじょうたいの ポケモンには ２ばいのダメージをあたえる MD GtI It damages all Pokémon in the same room except you. It randomly changes its intensity. It also damages a Pokémon underground using Dig. S MD MD RT DX It damages all Pokémon in the same room, except for you, including Pokémon underground using Dig. It randomly changes its intensity."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Despite being introduced in Generation II , no Pokémon introduced in Generation II could learn Magnitude until Generation IV . At 150 base power, Magnitude 10 has the highest base power of all Ground-type moves. At base power 10, Magnitude 4 has the lowest base power of all Ground-type moves and is tied with Constrict for the lowest fixed base power of any move. Due to the 2004 Chuetsu earthquake , this move, along with Fissure and Earthquake , has not been used in the animated series since AG101 (which itself has never been aired)."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Magnitude",
+    "Magnitude (move)"
+  ],
+  "updatedAt": 1773324689
+}

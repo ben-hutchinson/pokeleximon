@@ -1,0 +1,57 @@
+{
+  "answerKey": "DARKAURA",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4481982,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VI ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Dark Aura (Japanese: Dark Aura) is an Ability introduced in Generation VI. It is the signature Ability of Yveltal.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description S MD Dark-type moves of all Pokemon become more powerful!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Dark Aura increases the power of Dark-type attacks by approximately 33% (or more accurately, by a factor of 5448/4096) for all Pokemon on the field. This effect is inverted by Aura Break , instead dividing the power of Dark-type attacks by 4/3, resulting in a 25% reduction in damage. The effects will not stack multiple times if more than one Pokemon has this Ability. Outside of battle [ edit | edit source ] Dark Aura has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Dark Aura increases the power of Dark-type attacks by approximately 33% (or more accurately, by a factor of 5448/4096) for all Pokemon on the field. This effect is inverted by Aura Break , instead dividing the power of Dark-type attacks by 4/3, resulting in a 25% reduction in damage. The effects will not stack multiple times if more than one Pokemon has this Ability.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Strengthens dark moves to 1.33 their power for all friendly and opposing Pokemon.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen VI ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257938
+}

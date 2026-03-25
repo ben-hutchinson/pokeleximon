@@ -1,0 +1,17 @@
+{
+  "answerKey": "JUMPLUFF",
+  "answerDisplay": "JUMPLUFF",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Grass / Flying type Pokémon introduced in Generation 2.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/jumpluff",
+  "extract": "Jumpluff is a Grass / Flying type Pokémon introduced in Generation 2 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211755
+}

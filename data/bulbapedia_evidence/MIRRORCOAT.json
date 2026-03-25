@@ -1,0 +1,38 @@
+{
+  "answerKey": "MIRRORCOAT",
+  "answerDisplay": "MIRROR COAT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Mirror Coat (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mirror_Coat_(move)",
+  "pageId": 3854,
+  "pageRevisionId": 4402921,
+  "leadText": "Mirror Coat (Japanese: ミラーコート Mirror Coat) is a damage-dealing Psychic-type move introduced in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generations II and III [ edit | edit source ] If the last amount of damage done to the user before the use of Mirror Coat is greater than 0 and was dealt by a special move , Mirror Coat will do twice as much damage as taken by that attack to the opponent. If the opponent uses a physical move or does not attack at all, Mirror Coat fails. Dark-type Pokémon are immune to Mirror Coat, but otherwise, Mirror Coat's type has no effect on the damage done to the target. Mirror Coat is a decreased priority move. If the opponent does not use a decreased priority move during the round that it is used, Mirror Coat will go last regardless of the user's or opponent's speed. If the opponent also uses a decreased priority move during the same round, the attack order of the users will be determined normally. Mirror Coat will only consider the last strike of a multistrike move . It does not counter a move absorbed by a substitute . Shadow Half can be bounced back by Mirror Coat. Mirror Coat cannot be activated by Hidden Power , regardless of its actual type and damage category . It also cannot be activated by Beat Up , despite Dark-type moves being special in Generations II and III. In Double Battles , Mirror Coat will hit the last opponent that dealt special damage to the attacker. Mirror Coat cannot affect allied Pokémon. Mirror Coat can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Taunt was used in the previous turn. Generation IV onwards [ edit | edit source ] Mirror Coat can no longer be copied by Mirror Move . As Hidden Power is a special move regardless of its actual type, it can now activate Mirror Coat. In Triple Battles , Mirror Coat can hit non-adjacent opponents provided a non-adjacent opponent was the last Pokémon to attack the user. Mirror Coat is effective against Psystrike , Psyshock and Secret Sword even though these moves use the target's Defense stat to calculate damage. If the Pokémon using Mirror Coat is hit by a special move that deals 0 damage, Mirror Coat becomes a special move with 1 base power. Mirror Coat can also be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if any of the moves Encore , Taunt or Torment was used in the prior turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 The foe will receive double the damage the user sustained from a special attack. High accuracy. G S Counters a Spcl. Atk. move double. C Counters a Spcl. Atk move double. R S E Counters the foe's special attack at double the power. FR LG A retaliation move that pays back the foe's special attack double. Colo XD Counters a special attack at double the power. D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA A retaliation move that counters any special attack, inflicting double the damage taken. S V A retaliatory attack that counters any special move, inflicting double the damage taken."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Mirror Coat status. The user returns the damage it takes from any Special Attack moves used by a foe beside it. MD T D Gives the user a Mirror Coat status, which reflects the damage from specific types of direct moves back at an enemy. MD S Gives the user a Mirror Coat status, which reflects the damage from Special Attack moves back at an enemy. B S L じぶんを ミラーコートじょうたいにかえる となりにいる てきからうけた とくしゅこうげきの わざの ダメージを あいてにかえす MD GtI You'll get the Mirror Coat status, which reflects the damage from a special move back at an enemy. S MD You'll get the Mirror Coat status condition, which enables you to counter when you take damage from a special move. MD RT DX You'll get the Mirror Coat condition, which enables you to counter when you take damage from a special move."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generations II and III , this move cannot reflect Hidden Power , regardless of its type. This is because Hidden Power was always determined by the game to be Normal-type , so even if it was a Special type, like Ice or Grass , Mirror Coat would always fail against Hidden Power, while Counter would always reflect it."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mirror-Coat",
+    "Mirror Coat",
+    "Mirror-Coat (move)"
+  ],
+  "updatedAt": 1773325099
+}

@@ -1,0 +1,37 @@
+{
+  "answerKey": "YAWN",
+  "answerDisplay": "YAWN",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Yawn (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Yawn_(move)",
+  "pageId": 3892,
+  "pageRevisionId": 4426909,
+  "leadText": "Yawn (Japanese: あくび Yawn) is a non-damaging Normal-type move introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generations III and IV [ edit | edit source ] Yawn makes the target drowsy. At the end of the next turn, the drowsy Pokémon will fall asleep , unless it is already afflicted by a non-volatile status condition . If a drowsy Pokémon switches out, it loses its drowsiness. Drowsiness cannot be passed by Baton Pass . Yawn bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . Yawn will fail if the target is already afflicted by a major status condition or behind a substitute . Yawn will fail if the target has the Ability Insomnia or Vital Spirit or if it has Leaf Guard during harsh sunlight ; a drowsy Pokémon that has Insomnia, Vital Spirit, or (during harsh sunlight) Leaf Guard will not fall asleep. Yawn will fail if used on a Pokémon without Soundproof during an uproar . It will also fail when used on a target under the effect of Safeguard , but a Pokémon that is already drowsy can still fall asleep while under the effect of Safeguard. If a Pokémon falls asleep from Yawn while it is in the semi-invulnerable turn of a move such as Dig or Fly , it will remain in that state until it attempts to use the move again (whether it wakes up or not). Yawn can be used as the first move of a Pokémon Contest combination , causing Rest and Slack Off to score double the normal appeal if used in the next turn. Generation V onwards [ edit | edit source ] Yawn no longer fails during an uproar , but drowsiness cannot cause a Pokémon to fall asleep during an uproar. Yawn will fail if the target has the Ability Comatose or is a Meteor Form Minior ; a drowsy Pokémon that has Comatose or that is Meteor Form Minior will not fall asleep. Yawn will fail if used on a target that is affected by Sweet Veil , Electric Terrain , or Flower Veil ; Sweet Veil, Electric Terrain, and Misty Terrain each also prevent affected Pokémon already drowsy due to Yawn from falling asleep. Yawn can also be used as part of a Contest Spectacular combination , causing certain moves ( Dream Eater , Hex , Nightmare , and Wake-Up Slap ) to give an extra three appeal points if used in the next turn. If powered up by a Normalium Z into Z-Yawn, the user's Speed stat is raised by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Lulls the foe into yawning, then sleeping the next turn. FR LG A huge yawn lulls the foe into falling asleep on the next turn. Colo XD Makes the target yawn and fall asleep next turn. D P Pt HG SS PBR The user lets loose a huge yawn that lulls the foe into falling asleep on the next turn. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user lets loose a huge yawn that lulls the target into falling asleep on the next turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts the Yawning status on the target. A yawning Pokémon falls asleep sometime later. MD T D S Afflicts the targeted enemy with a Yawning status condition. A Pokémon with the Yawning status falls asleep sometime later. B S L てきポケモンを あくびじょうたいにかえる あくびじょうたいになった ポケモンは しばらくすると ねてしまう MD GtI It causes the Yawning status condition to an enemy. The Yawning status will cause the Sleep condition after a while. S MD It inflicts the yawning status on an enemy. The yawning status condition will make the Pokémon go to sleep after a while."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Yawn is the only move whose English name begins with the letter Y. Its basis stems from the phenomenon of how yawns are contagious from person to person. In Generation III , the status screen erroneously states that the move has 100% accuracy, even though it ignores accuracy and evasion checks."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Yawn",
+    "Yawn (move)"
+  ],
+  "updatedAt": 1773328643
+}

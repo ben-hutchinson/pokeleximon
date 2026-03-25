@@ -1,0 +1,57 @@
+{
+  "answerKey": "PUREPOWER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4446753,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Pure Power (Japanese: Yoga Power) is an Ability introduced in Generation III. It is the signature Ability of Meditite and Medicham.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Occasionally boosts Attack. MD T D S Boosts the Pokemon's Attack occasionally. B S L MD GtI Unavailable S MD Sometimes the power of the Pokemon's physical moves goes up! MD RT DX Sometimes the power of the Pokemon's physical moves goes up.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Pure Power doubles the Attack stat of the Pokemon with this Ability. Because they use Attack modifiers (except stat stages), it also doubles the user's effective Attack stat when using Foul Play or Body Press . Generation IV [ edit | edit source ] Pure Power also affects self-inflicted confusion damage. Generation V onward [ edit | edit source ] Pure Power no longer affects confusion damage. Outside of battle [ edit | edit source ] Pure Power has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Pure Power doubles the Attack stat of the Pokemon with this Ability. Because they use Attack modifiers (except stat stages), it also doubles the user's effective Attack stat when using Foul Play or Body Press . Generation IV [ edit | edit source ] Pure Power also affects self-inflicted confusion damage. Generation V onward [ edit | edit source ] Pure Power no longer affects confusion damage.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Doubles Attack in battle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257997
+}

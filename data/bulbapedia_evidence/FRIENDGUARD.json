@@ -1,0 +1,30 @@
+{
+  "answerKey": "FRIENDGUARD",
+  "answerDisplay": "FRIEND GUARD",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Friend Guard (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Friend_Guard_(Ability)",
+  "pageId": 117698,
+  "pageRevisionId": 3829602,
+  "leadText": "Friend Guard (Japanese: フレンドガード Friend Guard) is an Ability introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Friend Guard reduces the damage that other allied Pokémon receive from attacks (from any Pokémon) by 25%. It does not reduce the damage dealt by moves that deal direct damage . It does not affect the Pokémon with the Ability itself. If multiple of a Pokémon's allies have Friend Guard, Friend Guard stacks multiplicatively. For example, if both of a Pokémon's allies have Friend Guard in a Triple Battle , the damage that that Pokémon receives is multiplied by 9/16 (56.25%), which is a damage reduction of 43.75%. Outside of battle [ edit | edit source ] Friend Guard has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Friend Guard reduces the damage that other allied Pokémon receive from attacks (from any Pokémon) by 25%. It does not reduce the damage dealt by moves that deal direct damage . It does not affect the Pokémon with the Ability itself. If multiple of a Pokémon's allies have Friend Guard, Friend Guard stacks multiplicatively. For example, if both of a Pokémon's allies have Friend Guard in a Triple Battle , the damage that that Pokémon receives is multiplied by 9/16 (56.25%), which is a damage reduction of 43.75%."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Friend-Guard",
+    "Friend Guard",
+    "Friend-Guard (Ability)"
+  ],
+  "updatedAt": 1773328885
+}

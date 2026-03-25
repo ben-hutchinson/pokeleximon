@@ -1,5 +1,7 @@
 # OCI Production Runbook
 
+Legacy reference only. The active production deployment target is [`infra/production/aws-ec2/RUNBOOK.md`](/Users/ben.hutchinson/code/personal/pokeleximon/infra/production/aws-ec2/RUNBOOK.md).
+
 This runbook sets up Pokeleximon on a single Oracle Cloud Always Free VM using Docker Compose and server-local secrets.
 
 ## Security Rules

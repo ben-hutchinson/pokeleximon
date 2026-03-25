@@ -1,0 +1,30 @@
+{
+  "answerKey": "ICESCALES",
+  "answerDisplay": "ICE SCALES",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Ice Scales (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ice_Scales_(Ability)",
+  "pageId": 244402,
+  "pageRevisionId": 4442406,
+  "leadText": "Ice Scales (Japanese: こおりのりんぷん Ice Scales) is an Ability introduced in Generation VIII. It is the signature Ability of Snom and Frosmoth.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Ice Scales halves damage from special moves that hit Pokémon with this Ability, including from special moves that use the target's Defense stat (like Psyshock ). It has no effect on moves that deal direct damage . Outside of battle [ edit | edit source ] Ice Scales has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Ice Scales halves damage from special moves that hit Pokémon with this Ability, including from special moves that use the target's Defense stat (like Psyshock ). It has no effect on moves that deal direct damage ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ice-Scales",
+    "Ice Scales",
+    "Ice-Scales (Ability)"
+  ],
+  "updatedAt": 1773328946
+}

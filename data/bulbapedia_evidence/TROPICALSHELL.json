@@ -1,0 +1,38 @@
+{
+  "answerKey": "TROPICALSHELL",
+  "answerDisplay": "TROPICAL SHELL",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Tropical Shell",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tropical_Shell",
+  "pageId": 234632,
+  "pageRevisionId": 4499793,
+  "leadText": "The Tropical Shell (Japanese: なんごくかいがら Tropical Shell) is a valuable item introduced in Generation VII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] The Tropical Shell serves no practical purpose other than to be sold."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description P E Sw Sh BD SP LA S V A beautiful white shell that may have drifted from a sea in a warm region."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description GO A beautiful white shell that may have drifted from a sea in a warm region. Your buddy was probably drawn to its beauty!"
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price P E N/A $ 1,000 Effect [ edit | edit source ] The Tropical Shell serves no practical purpose other than to be sold. Description [ edit | edit source ] Games Description P E Sw Sh BD SP LA S V A beautiful white shell that may have drifted from a sea in a warm region. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods P E Gift from Partner Pikachu P or Eevee E"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Tropical-Shell",
+    "Tropical Shell",
+    "Tropical-Shell (item)"
+  ],
+  "updatedAt": 1773328107
+}

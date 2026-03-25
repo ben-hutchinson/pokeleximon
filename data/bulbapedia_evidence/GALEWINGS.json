@@ -1,0 +1,30 @@
+{
+  "answerKey": "GALEWINGS",
+  "answerDisplay": "GALE WINGS",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Gale Wings (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Gale_Wings_(Ability)",
+  "pageId": 185058,
+  "pageRevisionId": 4345509,
+  "leadText": "Gale Wings (Japanese: はやてのつばさ Gale Wings) is an Ability introduced in Generation VI. It is the signature Ability of Fletchling's evolutionary line.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation VI 1.1.2 Generation VII onwards 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation VI [ edit | edit source ] Gale Wings increases the priority of Flying-type moves by one. Affected Flying-type attacks and offensive status moves can be blocked by Quick Guard . This Ability does not increase the priority of Flying-type Hidden Power , Natural Gift , or Judgment , as they are treated as Normal-type moves before being used. Generation VII onwards [ edit | edit source ] Gale Wings now only activates if the user has full HP when the move is selected. It does not increase the priority of Flying-type Tera Blast . Outside of battle [ edit | edit source ] Gale Wings has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generation VI [ edit | edit source ] Gale Wings increases the priority of Flying-type moves by one. Affected Flying-type attacks and offensive status moves can be blocked by Quick Guard . This Ability does not increase the priority of Flying-type Hidden Power , Natural Gift , or Judgment , as they are treated as Normal-type moves before being used. Generation VII onwards [ edit | edit source ] Gale Wings now only activates if the user has full HP when the move is selected. It does not increase the priority of Flying-type Tera Blast ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Gale-Wings",
+    "Gale Wings",
+    "Gale-Wings (Ability)"
+  ],
+  "updatedAt": 1773328893
+}

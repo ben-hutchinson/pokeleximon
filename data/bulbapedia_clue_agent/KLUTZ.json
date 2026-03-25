@@ -1,0 +1,57 @@
+{
+  "answerKey": "KLUTZ",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4407495,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Klutz (Japanese: Clumsy) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Buneary and Lopunny.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD T D S Prevents the Pokemon's held item from activating. B S L MD GtI The Pokemon's held items have no effect. * If the Pokemon holds an item, it won't do anything! * S MD A held item has no effect on the Pokemon. The Pokemon can't use or throw items, either. But the Pokemon won't become a puppet when it gets the puppet status condition.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Klutz prevents the effects of the held item of the Pokemon with this Ability from applying. Klutz does not negate item effects that affect prize money , experience , effort values , or friendship , such as those of the Amulet Coin , Lucky Egg , Power Weight , or Soothe Bell . The Speed drop from the Macho Brace , and Power items (such as the Power Bracer ) is not negated by Klutz. Generation IV [ edit | edit source ] The Speed drop from the Iron Ball is not negated, but the grounding effect is. Klutz prevents the Pokemon with this Ability from using Natural Gift ; however, it does not prevent the Pokemon from using Fling . If a Pokemon with Klutz uses Bug Bite or Pluck , it will consume the target's held Berry without gaining its effects. If a Pokemon with Klutz uses Judgment , it will be a Normal-type move. Generation V onward [ edit | edit source ] Klutz now prevents the Pokemon with this Ability from using Fling . If a Pokemon with Klutz uses Bug Bite or Pluck , it will now receive the effects of a consumed held Berry. If a Pokemon with Klutz uses Techno Blast , it will be a Normal-type move. All effects of the Iron Ball are now negated by Klutz. However, Klutz still does not negate the Speed drop from the Macho Brace and Power items. If a Pokemon is already locked into a move due to a held Choice item ( Choice Scarf , Choice Specs , Choice Band ), if the held Choice item is removed while its effect is negated, the Pokemon will be affected by the Choice item lock glitch . Klutz cannot prevent the form-changing effects of items, but will still negate the other effects of those items (e.g. if a Giratina holding a Griseous Orb has Klutz, it will remain in its Origin Forme, but will not receive the 20% boost in the power of Dragon - and Ghost-type moves). Klutz does not prevent Pokemon with this Ability from Mega Evolving with a Mega Stone or undergoing Primal Reversion with the Red Orb or Blue Orb . Klutz does not prevent Pokemon with this Ability from using a Z-Move with a Z-Crystal . If a Pokemon with Klutz uses Multi-Attack , it will be a Normal-type move. Outside of battle [ edit | edit source ] Klutz has no effect outside of battle. Items such as the Everstone , Cleanse Tag , Scarves , and Soothe Bell are not affected.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Klutz prevents the effects of the held item of the Pokemon with this Ability from applying. Klutz does not negate item effects that affect prize money , experience , effort values , or friendship , such as those of the Amulet Coin , Lucky Egg , Power Weight , or Soothe Bell . The Speed drop from the Macho Brace , and Power items (such as the Power Bracer ) is not negated by Klutz. Generation IV [ edit | edit source ] The Speed drop from the Iron Ball is not negated, but the grounding effect is. Klutz prevents the Pokemon with this Ability from using Natural Gift ; however, it does not prevent the Pokemon from using Fling . If a Pokemon with Klutz uses Bug Bite or Pluck , it will consume the target's held Berry without gaining its effects. If a Pokemon with Klutz uses Judgment , it will be a Normal-type move. Generation V onward [ edit | edit source ] Klutz now prevents the Pokemon with this Ability from using Fling . If a Pokemon with Klutz uses Bug Bite or Pluck , it will now receive the effects of a consumed held Berry. If a Pokemon with Klutz uses Techno Blast , it will be a Normal-type move. All effects of the Iron Ball are now negated by Klutz. However, Klutz still does not negate the Speed drop from the Macho Brace and Power items. If a Pokemon is already locked into a move due to a held Choice item ( Choice Scarf , Choice Specs , Choice Band ), if the held Choice item is removed while its effect is negated, the Pokemon will be affected by the Choice item lock glitch . Klutz cannot prevent the form-changing effects of items, but will still negate the other effects of those items (e.g. if a Giratina holding a Griseous Orb has Klutz, it will remain in its Origin Forme, but will not receive the 20% boost in the power of Dragon - and Ghost-type moves). Klutz does not prevent Pokemon with this Ability from Mega Evolving with a Mega Stone or undergoing Primal Reversion with the Red Orb or Blue Orb . Klutz does not prevent Pokemon with this Ability from using a Z-Move with a Z-Crystal . If a Pokemon with Klutz uses Multi-Attack , it will be a Normal-type move.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Prevents the Pokemon from using its held item in battle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257959
+}

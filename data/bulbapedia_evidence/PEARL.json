@@ -1,0 +1,29 @@
+{
+  "answerKey": "PEARL",
+  "answerDisplay": "PEARL",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Pearl",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Pearl",
+  "pageId": 19188,
+  "pageRevisionId": 4301176,
+  "leadText": "Pearl (パール) has several referrals.",
+  "sections": [
+    {
+      "title": "Game",
+      "text": "Game [ edit | edit source ] For the Generation IV game , see Pokémon Diamond and Pearl Versions . For the Generation VIII game , see Pokémon Brilliant Diamond and Shining Pearl ."
+    },
+    {
+      "title": "Animation",
+      "text": "Animation [ edit | edit source ] For the animated series based on the Generation IV games, see Pokémon the Series: Diamond and Pearl ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Pearl",
+    "Pearl (item)"
+  ],
+  "updatedAt": 1773325684
+}

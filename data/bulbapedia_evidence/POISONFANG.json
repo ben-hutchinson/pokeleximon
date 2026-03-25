@@ -1,0 +1,38 @@
+{
+  "answerKey": "POISONFANG",
+  "answerDisplay": "POISON FANG",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Poison Fang (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Poison_Fang_(move)",
+  "pageId": 3916,
+  "pageRevisionId": 4500954,
+  "leadText": "Poison Fang (Japanese: どくどくのキバ Excessive Poison Fang) is a damage-dealing Poison-type move introduced in Generation III. It is TM123 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation III to V [ edit | edit source ] Poison Fang inflicts damage and has a 30% chance of badly poisoning the target. Generation VI onwards [ edit | edit source ] Poison Fang now has a 50% chance to badly poison."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E A sharp-fanged attack. May badly poison the foe. FR LG The foe is bitten with toxic fangs. It may also badly poison the foe. Colo XD A sharp-fanged attack. May badly poison target. D P Pt HG SS PBR The user bites the foe with toxic fangs. It may also leave the foe badly poisoned. B W B2 W2 The user bites the target with toxic fangs. It may also leave the target badly poisoned. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user bites the target with toxic fangs. This may also leave the target badly poisoned. ZA The user attacks by biting targets with toxic fangs. This may also leave targets badly poisoned."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also leave the target badly poisoned, damaging it over several turns. MD T D S Inflicts damage on the target. It may also give the targeted enemy a Badly Poisoned status condition, which inflicts damage every few turns. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで もうどくじょうたいにして いっていターンごとに ダメージを あたえる Conq. The user bites the enemy with toxic fangs. It may also leave the target badly poisoned. MD GtI UNUSED S MD It damages an enemy. It could also make the enemy badly poisoned."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Prior to Generation IX , Poison Fang was the only move with a chance to badly poison as a secondary effect."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Poison-Fang",
+    "Poison Fang",
+    "Poison-Fang (move)"
+  ],
+  "updatedAt": 1773325874
+}

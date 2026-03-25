@@ -1,0 +1,38 @@
+{
+  "answerKey": "GYROBALL",
+  "answerDisplay": "GYRO BALL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Gyro Ball (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Gyro_Ball_(move)",
+  "pageId": 14441,
+  "pageRevisionId": 4483925,
+  "leadText": "Gyro Ball (Japanese: ジャイロボール Gyro Ball) is a damage-dealing Steel-type move introduced in Generation IV. It is: TM74 from Generation IV to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TR52 in Pokémon Sword and Shield. TM180 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generations IV and V [ edit | edit source ] Gyro Ball inflicts more damage the slower the user is compared to the target. Therefore, the larger the relative difference between the user's and target's Speed stat, the greater the damage. The base power is calculated by the following formula: B a s e P o w e r = m i n ( 1 5 0 , 2 5 × C u r r e n t S p e e d t a r g e t C u r r e n t S p e e d u s e r + 1 ) The Speed values used in the calculation take all modifiers into account (including stat stages, paralysis , held items such as the Iron Ball , and Abilities such as Slush Rush ). Effects that only modify movement order without affecting Speed (such as Trick Room and Stall ) have no effect on Gyro Ball. If the user of Gyro Ball has a Speed stat that rounds down to 0, the stat will be treated as 1 in the power formula, to avoid having to divide by 0. The maximum base power that can be reached with Gyro Ball is 150, if the target's Speed is at least 5.96 times the user's Speed. Generation VI onwards [ edit | edit source ] If the user of Gyro Ball has a Speed stat that rounds down to 0, the move's power is set to 1, entirely ignoring the above formula. Pokémon with Bulletproof are immune to Gyro Ball."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS The user tackles the foe with a high-speed spin. The slower the user, the greater the damage. (move) The user tackles the foe from a high-speed spin. The slower the user, the greater the damage. (TM) PBR The user tackles the foe with a high-speed spin. The slower the user, the greater the damage. B W B2 W2 The user tackles the target with a high-speed spin. The slower the user, the greater the damage. X Y OR AS S M US UM P E Sw Sh BD SP LA The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move's power. S V The user tackles the target with a high-speed spin. The slower the user is than the target, the greater the move's power."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target and double damage on a target if the user has a Half Speed status. B S L てきポケモンに ダメージをあたえる じぶんが どんそくじょうたいだと ダメージが ２ばいになる Conq. The user tackles the target with a high-speed spin. The slower the user, the greater the damage. MD GtI It damages an enemy. The slower your Travel Speed than that of the enemy, the greater the damage the move causes. S MD MD RT DX It damages an enemy. The slower your Speed compared to your enemy's, the greater the damage caused by the move."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move might be a reference to the Gyroball , a rare type of baseball pitch developed in Japan that uses a unique spinning motion to minimize horizontal and vertical break. Its Steel type likely alludes to its name, which is derived from the gyroscope , a metal device that uses the spin of its rings to stabilize itself in space. In Pokémon Conquest , Gyro Ball will always do 1 damage if the user is faster than the target. This happens due to how the move's damage is calculated: the target's Speed stat is divided by the user's, and this quotient is rounded down to use as a damage multiplier. A faster user than the target will give a multiplier of 0, causing the move's damage to become 0, finally adjusted to a minimum of 1."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Gyro-Ball",
+    "Gyro Ball",
+    "Gyro-Ball (move)"
+  ],
+  "updatedAt": 1773323492
+}

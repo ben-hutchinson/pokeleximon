@@ -1,0 +1,62 @@
+{
+  "answerKey": "HEATPROOF",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4407486,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Heatproof (Japanese: Heatproof) is an Ability introduced in Generation IV. Prior to Generation VIII, it was the signature Ability of Bronzor and Bronzong.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD T D S Halves the damage the Pokemon suffers from Fire-type attacks. B S L MD GtI Unavailable S MD The Pokemon takes less damage from Fire-type moves!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If a Pokemon with Heatproof is attacked by a Fire-type move, the opponent's Attack or Special Attack is reduced by 50% during damage calculation, effectively halving the damage the Pokemon takes. Prior to Generation IX , the power of affected moves is reduced by 50% instead. It also halves the damage done from the burn status ailment, from 116 to 132 of the Pokemon's maximum HP (from 18 to 116 of the Pokemon's maximum HP prior to Generation VII ). Outside of battle [ edit | edit source ] Heatproof has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] If a Pokemon with Heatproof is attacked by a Fire-type move, the opponent's Attack or Special Attack is reduced by 50% during damage calculation, effectively halving the damage the Pokemon takes. Prior to Generation IX , the power of affected moves is reduced by 50% instead. It also halves the damage done from the burn status ailment, from 116 to 132 of the Pokemon's maximum HP (from 18 to 116 of the Pokemon's maximum HP prior to Generation VII ).",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Halves damage from fire moves and burns.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "burning trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "burning trait"
+    ],
+    "connections_descriptors": [
+      "Burning abilities",
+      "Gen IV abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257954
+}

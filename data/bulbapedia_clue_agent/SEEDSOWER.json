@@ -1,0 +1,52 @@
+{
+  "answerKey": "SEEDSOWER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4299121,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Seed Sower (Japanese: Self-Sowing Seeds) is an Ability introduced in Generation IX. It is the signature Ability of Arboliva.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Seed Sower is hit by a damaging move, it summons Grassy Terrain for five turns, unless Grassy Terrain is already present. This can be extended to eight turns if the Pokemon is holding a Terrain Extender . If hit by a multistrike move , the first strike will activate it. Seed Sower activates before the effect of the moves Steel Roller and Ice Spinner is triggered, thus removing the grassy terrain. Outside of battle [ edit | edit source ] Seed Sower has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with Seed Sower is hit by a damaging move, it summons Grassy Terrain for five turns, unless Grassy Terrain is already present. This can be extended to eight turns if the Pokemon is holding a Terrain Extender . If hit by a multistrike move , the first strike will activate it. Seed Sower activates before the effect of the moves Steel Roller and Ice Spinner is triggered, thus removing the grassy terrain.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Turns the ground into Grassy Terrain when the Pokemon is hit by an attack.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258008
+}

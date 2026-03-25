@@ -1,0 +1,58 @@
+{
+  "answerKey": "SMALLBOUQUET",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4499797,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VII item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "loot",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen VII loot",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Effect [ edit | edit source ] The Small Bouquet serves no practical purpose.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Valuable sellable loot",
+        "evidence_ref": "lead",
+        "mystery_score": 0.64,
+        "specificity_score": 0.74,
+        "style": "family"
+      },
+      {
+        "text": "Vendor treasure",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.7,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "battle item"
+    ],
+    "connections_descriptors": [
+      "Gen VII items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774258015
+}

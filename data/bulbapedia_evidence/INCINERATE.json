@@ -1,0 +1,37 @@
+{
+  "answerKey": "INCINERATE",
+  "answerDisplay": "INCINERATE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Incinerate (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Incinerate_(move)",
+  "pageId": 117554,
+  "pageRevisionId": 4469849,
+  "leadText": "Incinerate (Japanese: やきつくす Complete Burn) is a damage-dealing Fire-type move introduced in Generation V. It was TM59 in Generations V and VI.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation V [ edit | edit source ] Incinerate inflicts damage to all adjacent opponents. It destroys any Berries held by the hit Pokémon. The Occa Berry will activate before being burned up. Berries that would activate in response to Incinerate, such as the Oran Berry or Rowap Berry , are destroyed before they have a chance to be consumed. Incinerate cannot destroy items held by a Pokémon with Sticky Hold . Symbiosis will not activate when an item is destroyed by Incinerate. Items destroyed by Incinerate cannot be recovered by Recycle , Pickup , or Harvest . Generation VI onwards [ edit | edit source ] Incinerate's power changed from 30 to 60. Incinerate will now also destroy Gems . When used in a Max Raid Battle , Incinerate fails completely, without even dealing damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user attacks the target with fire. If the target is holding a Berry, the Berry becomes burnt up and unusable. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user attacks opposing Pokémon with fire. If a Pokémon is holding a certain item, such as a Berry, the item becomes burned up and unusable."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Conq. The user attacks the target with fire. If the target is holding an item, the item becomes burnt up and unusable. MD GtI It damages an enemy. If the enemy has food, it burns the food and makes it useless. S MD It damages an enemy. If the enemy is carrying food, it burns the food, making it useless. MD RT DX It damages an enemy. If the enemy is carrying food, this move burns the food, making it useless."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Incinerate is the only special move that always fails in Max Raid Battles."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Incinerate",
+    "Incinerate (move)"
+  ],
+  "updatedAt": 1773323857
+}

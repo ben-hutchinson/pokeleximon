@@ -1,0 +1,18 @@
+{
+  "answerKey": "ADAPTABILITY",
+  "answerDisplay": "ADAPTABILITY",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this ability, and the list of Pokémon that learn it.",
+  "score": 47.88,
+  "approved": false,
+  "qualityFlags": [
+    "long_form",
+    "near_verbatim_source"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/ability/adaptability",
+  "extract": "Adaptability, and the list of Pokémon that learn it.",
+  "rankPosition": 1,
+  "updatedAt": 1774210548
+}

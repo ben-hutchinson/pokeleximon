@@ -1,0 +1,38 @@
+{
+  "answerKey": "IRONTAIL",
+  "answerDisplay": "IRON TAIL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Iron Tail (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Iron_Tail_(move)",
+  "pageId": 3842,
+  "pageRevisionId": 4454592,
+  "leadText": "Iron Tail (Japanese: アイアンテール Iron Tail) is a damage-dealing Steel-type move introduced in Generation II. It is: TM23 from Generations II to IV as well as in Pokémon Brilliant Diamond and Shining Pearl. TM19 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR31 in Pokémon Sword and Shield. TM087 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Iron Tail inflicts damage and has a 30% chance of lowering the target's Defense stat by one stage. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Iron Tail's PP has been lowered to 5. It may lower the opponent's defensive stats. Pokémon Legends: Arceus Category Physical PP 5 Agile Strong Power 100 80 120 Accuracy 75% 75% 90% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 20% 0% 40% Turns 3 2 4 ? ? May lower the opponent's defensive stats Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 100 120 Cooldown 10s Move wind-up time 15 frames Effect duration —s Additional effect Chance 30% Duration 15s 18s — May lower the target's Defense."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 Strikes the target with a stiff tail. Has a one-in-three shot at lowering the target's Defense . G S C An attack that may reduce Defense . R S E Slams the foe with a hard tail. It may also lower Defense . (move) Slams the foe with a hard tail. It may lower Defense . (TM) FR LG An attack with a steel-hard tail. It may lower the foe's Defense stat. Colo XD Attacks with a rock-hard tail. May lower Defense . (move) Slams target with a hard tail. It may lower Defense . (TM) D P Pt HG SS The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat. (move) The foe is slammed with a sturdy tail of steel. It may also lower the target's Defense stat if it hits. (TM) PBR The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat. B W B2 W2 The target is slammed with a steel-hard tail. It may also lower the target's Defense stat. X Y OR AS S M US UM P E Sw Sh BD SP S V The target is slammed with a steel-hard tail. This may also lower the target's Defense stat. LA The target is slammed with a steel-hard tail. This may also lower the target’s defensive stats. ZA The user attacks by slamming its hard tail into targets. This may also lower targets' Defense stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also lower the target's Defense by one level. MD T D S Inflicts damage on the target. It may also reduce the target's Defense by 1 level. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで ぼうぎょを １だんかいさげる Conq. Beat the enemy with a hardened tail. It may also lower the target's Attack. MD GtI UNUSED S MD MD RT DX It damages an enemy. It could also lower the enemy's Defense."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Primeape knowing Iron Tail Despite the narrative implying the need for a tail to perform this attack, Pokémon that lose their tails when they evolve (such as Primeape ) or do not have a tail but gain one upon Evolution (such as Nidoran♀ ) can still learn and use this attack. This is highlighted in PokéPark Wii: Pikachu's Adventure , where a Primeape works as the tutor for Iron Tail and mentions they can use the move without an actual tail."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Iron-Tail",
+    "Iron Tail",
+    "Iron-Tail (move)"
+  ],
+  "updatedAt": 1773323973
+}

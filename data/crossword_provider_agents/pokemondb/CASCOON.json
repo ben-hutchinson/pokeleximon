@@ -1,0 +1,17 @@
+{
+  "answerKey": "CASCOON",
+  "answerDisplay": "CASCOON",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Bug type Pokémon introduced in Generation 3.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/cascoon",
+  "extract": "Cascoon is a Bug type Pokémon introduced in Generation 3 .",
+  "rankPosition": 1,
+  "updatedAt": 1774210809
+}

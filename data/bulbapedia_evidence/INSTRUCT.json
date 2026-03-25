@@ -1,0 +1,29 @@
+{
+  "answerKey": "INSTRUCT",
+  "answerDisplay": "INSTRUCT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Instruct (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Instruct_(move)",
+  "pageId": 216632,
+  "pageRevisionId": 4403479,
+  "leadText": "Instruct (Japanese: さいはい Command) is a non-damaging Psychic-type move introduced in Generation VII. It is the signature move of Oranguru.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Instruct causes the target to immediately repeat its most recent move, ignoring those called indirectly via Dancer or Magic Bounce . PP will be deducted from moves used in this manner, and damage dealt by moves used in this manner is considered for the purpose of Counter , Mirror Coat , and Metal Burst (even if the target did not select a move this turn). If the target hasn't yet made a move this turn (but has on a previous turn) when instructed to use its most recent move, it will repeat its move from the previous turn, then later on when its natural turn order comes up, it can use its newly selected move normally. Instruct will fail if the target has not made any move; the target is in the middle of Bide , Focus Punch , Beak Blast , Shell Trap , or a consecutively executed move (excluding Raging Fury as of Generation IX ); the target has been picked up by Sky Drop (even if one of the Pokémon has No Guard ); the instructed move's PP is depleted; the target no longer knows the move that would be instructed (e.g. it has leveled up and replaced that move since it used it); or the target is a Dynamax Pokémon or the boss of a Tera Raid Battle . It will also fail if the target's most recent move is Instruct itself, Bide, Focus Punch, Beak Blast, Shell Trap, Sketch , Transform , Mimic , King's Shield , Struggle , a move that requires recharging (such as Hyper Beam ), a move with a charging turn (such as Dig or Skull Bash ), a move that calls another move (such as Metronome ), a Z-Move , or a Max Move . Using an instructed move is a separate action, and effects bound to a Pokémon's actions are applied individually: for example, a Pokémon may hit itself in confusion or loaf around for the first of its actions, but execute a move normally for its second. For action-bound status conditions that can be recovered from, such as sleep or confusion , using an instructed move both gives a chance of recovery, and counts as a turn towards guaranteed recovery if applicable. All actions that are not bound to a Pokémon's actions still apply once for the entire turn: for example, if a Pokémon has flinched , this applies to all of its actions for the remainder of the turn. A Pokémon can successfully be instructed to repeat a move when under the effect of Torment or to use a status move while holding an Assault Vest . When instructed to use Fake Out , Mat Block , or First Impression , the target will attempt to use the move and PP will be deducted from it, but the move will fail. When instructed to use a move that would be prevented by Disable , Heal Block , Gravity , Throat Chop , Taunt , or Imprison , the target will attempt to use it, but the move will fail without PP being deducted. The instructed move will target the same Pokémon slot as the previously used move, as long as a Pokémon is present in that slot. Instructed moves retain their original priority, regardless of the priority of Instruct - for example, Quick Attack still fails in Psychic Terrain when Instruct is used at 0 priority to call it. Similarly, non-priority moves succeed when instructed in Psychic Terrain, even if the Instruct user has Prankster . Prankster-instructed non-priority status moves used on a Dark-type -type Pokémon will also succeed, as will Prankster-instructed non-priority moves used on a Pokémon protected by Armor Tail or Queenly Majesty . If powered up by a Psychium Z into Z-Instruct, the user's Special Attack rises one stage. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Instruct cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA The user instructs the target to use the target's last move again. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user instructs the target to reuse the move last used by the target."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Instruct",
+    "Instruct (move)"
+  ],
+  "updatedAt": 1773323917
+}

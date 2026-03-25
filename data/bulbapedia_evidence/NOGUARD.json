@@ -1,0 +1,38 @@
+{
+  "answerKey": "NOGUARD",
+  "answerDisplay": "NO GUARD",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "No Guard (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/No_Guard_(Ability)",
+  "pageId": 56082,
+  "pageRevisionId": 4377906,
+  "leadText": "No Guard (Japanese: ノーガード No Guard) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Machop's evolutionary line.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.2 Outside of battle 1.2.1 Generation VIII 1.2.2 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] All moves used by or against a Pokémon with this Ability cannot miss. It also allows Pokémon to be hit during the semi-invulnerable turn of Fly , Bounce , Dive , Dig , Shadow Force , Sky Drop , and Phantom Force . It does not bypass type immunities . A Tatsugiri hidden inside a Dondozo 's mouth via the Commander Ability is immune to the effects of No Guard. In Diamond and Pearl , a Pokémon with No Guard can successfully hit a Pokémon that has used Protect or Detect , but only if it uses a move with less than 100% accuracy. The lower the initial accuracy of the move, the higher its chance of breaking through Protect or Detect. Thus, when used against Protect or Detect, moves that never miss (such as Swift and Aerial Ace ) will always be blocked. One-hit knockout moves are exempted from this behavior and will be protected against. This battle mechanic was a bug, and was fixed in Platinum so that most moves are blocked by Protect and Detect. Outside of battle [ edit | edit source ] Outside of battle, if a Pokémon with No Guard is in the first place in the party (even if fainted ), the wild Pokémon encounter rate increases by 100%. It shares this property with Arena Trap and Illuminate . Generation VIII [ edit | edit source ] In Pokémon Sword and Shield , this Ability only affects the rate at which random encounters happen. Generation IX [ edit | edit source ] In Pokémon Scarlet and Violet , this Ability has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] All moves used by or against a Pokémon with this Ability cannot miss. It also allows Pokémon to be hit during the semi-invulnerable turn of Fly , Bounce , Dive , Dig , Shadow Force , Sky Drop , and Phantom Force . It does not bypass type immunities . A Tatsugiri hidden inside a Dondozo 's mouth via the Commander Ability is immune to the effects of No Guard. In Diamond and Pearl , a Pokémon with No Guard can successfully hit a Pokémon that has used Protect or Detect , but only if it uses a move with less than 100% accuracy. The lower the initial accuracy of the move, the higher its chance of breaking through Protect or Detect. Thus, when used against Protect or Detect, moves that never miss (such as Swift and Aerial Ace ) will always be blocked. One-hit knockout moves are exempted from this behavior and will be protected against. This battle mechanic was a bug, and was fixed in Platinum so that most moves are blocked by Protect and Detect."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D Allows Pokémon to ignore stat modifications to accuracy and evasion. MD S Allows Pokémon to ignore stat modifications to accuracy and evasiveness. B S L めいちゅうと かいひの だんかいを むしする MD GtI Unavailable S MD The hit rate of moves and attacks won't be lowered even if accuracy is lowered or evasiveness is boosted! It has the same effects on you as on your enemies. Abilities that boost evasiveness have no effects, either. MD RT DX When changes to the Pokémon's and its target's accuracy or evasiveness make it more difficult for attacks to land, those changes go away so that the Pokémon can have a fair fight."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] A Pokémon with No Guard can use one-hit knockout moves without missing. This may be a cause of several measures preventing Machop's evolutionary line from having the combination of No Guard and Fissure , which it can learn in Generation I . Although Machop's line can retain the move Fissure when transferred to Generation VII and Pokémon Sword and Shield , it can only have the Hidden Ability Steadfast , as Poké Transporter assigns the Hidden Ability to all Pokémon transferred from Virtual Console . Despite the introduction of the Ability Capsule and Ability Patch , they were restricted from changing a Hidden Ability to a standard Ability in Generations VII and VIII . In Pokémon Scarlet and Violet , it is now possible to use the Ability Patch to remove a Pokémon's Hidden Ability and send it back to Sword and Shield where it will have both the changed Ability and its old moveset, but Machop's line is not in the game. Finally, even if Machop's line appears in a future game with the Ability Patch, not only will Pokémon HOME not carry over Fissure to those games, Pokémon that have been transferred past Pokémon Legends: Z-A are barred from transfer back to Sword and Shield."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "No-Guard",
+    "No Guard",
+    "No-Guard (Ability)"
+  ],
+  "updatedAt": 1773325392
+}

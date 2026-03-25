@@ -1,0 +1,38 @@
+{
+  "answerKey": "GRASSWHISTLE",
+  "answerDisplay": "GRASS WHISTLE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Grass Whistle (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Grass_Whistle_(move)",
+  "pageId": 3931,
+  "pageRevisionId": 4500996,
+  "leadText": "Grass Whistle (Japanese: くさぶえ Grass Flute), formatted as GrassWhistle prior to Pokémon X and Y, is a non-damaging Grass-type move introduced in Generation III. Prior to Generation IV, it was the signature move of Roselia, but other Pokémon could still inherit it via breeding.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III-V 1.2 Generation VI onwards 1.3 Generation VIII onwards Effect [ edit | edit source ] Grass Whistle puts the target to sleep . Grass Whistle is a sound-based move . Pokémon with Insomnia , Vital Spirit , Shields Down (with the shield active), or Comatose as their Ability are immune to sleep. Pokémon with Soundproof (due to being a sound-based move) or Sap Sipper (due to being a Grass-type move) are also immune to Grass Whistle. If powered up by a Grassium Z into Z-Grass Whistle, the user's Speed stat rises one stage. Throat Chop cannot prevent a Pokémon from using Z-Grass Whistle. Grass Whistle can also be used as part of a Contest Spectacular combination , causing certain moves ( Dream Eater , Hex , Nightmare , and Wake-Up Slap ) to give an extra three appeal points if used in the next turn. Generation III-V [ edit | edit source ] Grass Whistle cannot affect a Pokémon behind a substitute . Generation VI onwards [ edit | edit source ] Grass Whistle can now hit Pokémon even if they are behind a substitute. Generation VIII onwards [ edit | edit source ] Grass Whistle cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Lulls the foe into sleep with a pleasant melody. FR LG A pleasant melody is played to lull the foe into a deep sleep. Colo XD Lulls target into sleep with a pleasant melody. D P Pt HG SS PBR The user plays a pleasant melody that lulls the foe into a deep sleep. B W B2 W2 X Y OR AS S M US UM P E The user plays a pleasant melody that lulls the target into a deep sleep. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Makes the target go to sleep, causing it to be incapable of action. MD T D S Afflicts the targeted enemy with a Sleep status condition. A Pokémon with the Sleep status is incapable of action. B S L てきポケモンを すいみんじょうたいにかえる すいみんじょうたいの ポケモンは こうどうできない MD GtI It causes the Sleep status condition to an enemy. With the Sleep status, the enemy can't do anything. S MD It makes an enemy go to sleep."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Grass Whistle was the only sleep move to be made unusable in Generation VIII . Despite several of Nuzleaf 's Pokédex entries stating that it uses the leaf on its head as a flute, Nuzleaf cannot learn this move. Grass Whistle is the only Grass-type sound-based move . Grass Whistle is the only Grass-type sleep move that Grass Pokémon are not immune to."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Grass-Whistle",
+    "Grass Whistle",
+    "Grass-Whistle (move)"
+  ],
+  "updatedAt": 1773323347
+}

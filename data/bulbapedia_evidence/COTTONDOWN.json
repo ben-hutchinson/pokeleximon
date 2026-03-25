@@ -1,0 +1,30 @@
+{
+  "answerKey": "COTTONDOWN",
+  "answerDisplay": "COTTON DOWN",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Cotton Down (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Cotton_Down_(Ability)",
+  "pageId": 238726,
+  "pageRevisionId": 4070550,
+  "leadText": "Cotton Down (Japanese: わたげ Cotton Down) is an Ability introduced in Generation VIII. It is the signature Ability of Gossifleur and Eldegoss.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with this Ability is hit by a damaging move, the Speed of all other Pokémon is decreased by one stage. If a Pokémon with this Ability is hit by a multistrike move (such as Fury Swipes ), each hit activates this Ability. Outside of battle [ edit | edit source ] Cotton Down has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with this Ability is hit by a damaging move, the Speed of all other Pokémon is decreased by one stage. If a Pokémon with this Ability is hit by a multistrike move (such as Fury Swipes ), each hit activates this Ability."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Cotton-Down",
+    "Cotton Down",
+    "Cotton-Down (Ability)"
+  ],
+  "updatedAt": 1773328815
+}

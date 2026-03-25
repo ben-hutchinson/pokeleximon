@@ -1,0 +1,38 @@
+{
+  "answerKey": "PHANTOMFORCE",
+  "answerDisplay": "PHANTOM FORCE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Phantom Force (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Phantom_Force_(move)",
+  "pageId": 185067,
+  "pageRevisionId": 4501637,
+  "leadText": "Ghost Dive redirects here. For the song, see Ghost Dive (song). Not to be confused with Shadow Force. Phantom Force (Japanese: ゴーストダイブ Ghost Dive) is a damage-dealing Ghost-type move introduced in Generation VI. It was TM86 in Pokémon Sword and Shield, and is TM151 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VI 1.2 Generation VII onwards 1.3 Generation IX 1.3.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation VI [ edit | edit source ] Phantom Force causes the user to \"vanish\" on the turn it is used, making it semi-invulnerable, and then reappear the next turn causing damage. Phantom Force hits the target even if it is protected by a protection move , and removes the effects of protection moves from the target for the remainder of the turn; if it hits a target that is protected by protection move that affects its whole side of the field, it removes the protection move from that entire side of the field (even if the protection move would not affect Phantom Force, such as Crafty Shield ). If Phantom Force hits a Pokémon protected by a move with a negative effect (such as Spiky Shield ), the user will not suffer the negative effect of the protection move. Phantom Force cannot remove the effects of protecting moves if it does not affect the target (such as if the target is Normal-type ). If the target has used Minimize , Phantom Force deals double its regular damage and bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . In addition, a foe who has just used Lock-On or Mind Reader can still strike through Phantom Force, as well as if the Ability No Guard is possessed by the foe or the user of Phantom Force. If a Pokémon is asleep when it would execute the second turn of Phantom Force, the semi-invulnerable turn will end without the move being executed. If the user is holding a Power Herb , it will consume the Power Herb and execute Phantom Force in one turn. Generation VII onwards [ edit | edit source ] Phantom Force no longer bypasses accuracy checks nor deals double its regular damage against a target that has used Minimize . Phantom Force cannot bypass Max Guard nor lift its effects. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 90 108 Cooldown 12s Move wind-up time 40 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself. ZA The user attacks by disappearing into the shadows for a short time, then surfacing to strike targets. This attack can hit targets using moves such as Protect or Detect."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD You'll get the Phantom Force status condition, which lets you charge power to try a powerful attack on the next turn. It breaks through the enemy's Protect, Wide Guard, or Quick Guard to damage the enemy. MD RT DX You'll get the Phantom Force condition, which lets you charge power to try a powerful attack on the next turn. This move breaks through the enemy's Protect, Wide Guard, or Quick Guard to damage the enemy."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The Japanese name of Phantom Force was used as the title for the song Ghost Dive . This move works the same way as Shadow Force , but with higher PP and lower base power."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Phantom-Force",
+    "Phantom Force",
+    "Phantom-Force (move)"
+  ],
+  "updatedAt": 1773325737
+}

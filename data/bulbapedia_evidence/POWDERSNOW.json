@@ -1,0 +1,38 @@
+{
+  "answerKey": "POWDERSNOW",
+  "answerDisplay": "POWDER SNOW",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Powder Snow (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Powder_Snow_(move)",
+  "pageId": 3791,
+  "pageRevisionId": 4430918,
+  "leadText": "Powder Snow (Japanese: こなゆき Powder Snow) is a damage-dealing Ice-type move introduced in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Powder Snow inflicts damage and has a 10% chance of freezing the target. Powder Snow hits both opponents in a Double Battle . In a Triple Battle , Powder Snow will only hit opposing adjacent Pokémon. Powder Snow can be used as the first move of a Pokémon Contest combination , causing Blizzard to score double the normal appeal if used in the next turn. It can also be used to finish a combination, with the user gaining 4 bonus appeal points if Hail was used in the previous turn. It is also part of a Contest Spectacular combination, giving an extra three appeal points if the move Hail was used in the prior turn. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Special PP 25 Agile Strong Power 40 30 50 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 30% 30% 50% Turns 3 2 4 ? ? Inflicts the target with frostbite"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 An Ice -type attack. Has a one-in-ten chance of freezing the target. G S C An attack that may cause freezing. R S E Blasts the foe with a snowy gust. May cause freezing. FR LG Blasts the foe with a snowy gust. It may cause freezing. Colo XD Blasts target with a snowy gust. May cause freezing. D P Pt HG SS PBR The user attacks with a chilling gust of powdery snow. It may also freeze the target. B W B2 W2 The user attacks with a chilling gust of powdery snow. It may also freeze the targets. X Y OR AS S M US UM P E The user attacks with a chilling gust of powdery snow. This may also freeze the opposing Pokemon. Sw Sh BD SP The user attacks with a chilling gust of powdery snow. This may also freeze opposing Pokémon. LA The user attacks with a chilling gust of powdery snow. This may also leave the target with frostbite. S V The user attacks with a chilling gust of powdery snow. This may also leave opposing Pokémon frozen."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also leave the target frozen and incapable of action. MD T D Inflicts damage on all enemies in the room. It may also afflict enemies in the room with a Frozen status condition, making it incapable of action. MD S Inflicts damage on all enemies in the room. It may also afflict enemies in the room with a Frozen status condition, making them incapable of action. B S L おなじへやの てきポケモンに ダメージをあたえる いっていのかくりつで こおりじょうたいにして うごけなくする Conq. Create a small blizzard that may also freeze the target. MD GtI It damages an enemy. It could also cause the Frozen status condition. With the Frozen status, the enemy can't do anything. S MD It damages an enemy. It could also make the enemy frozen."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Powder Snow is the only variation of Acid to have been introduced after Generation I . Although the move is consistently described as a \"chilling gust of powdery snow\" and is present in Pokémon Scarlet and Violet , Powder Snow is not considered a wind move ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Powder-Snow",
+    "Powder Snow",
+    "Powder-Snow (move)"
+  ],
+  "updatedAt": 1773325991
+}

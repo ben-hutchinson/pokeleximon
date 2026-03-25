@@ -1,0 +1,33 @@
+{
+  "answerKey": "INSOMNIA",
+  "answerDisplay": "INSOMNIA",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Insomnia (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Insomnia_(Ability)",
+  "pageId": 4092,
+  "pageRevisionId": 4510589,
+  "leadText": "Insomnia (Japanese: ふみん Insomnia) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV 1.1.3 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Insomnia prevents the Pokémon from being afflicted by sleep and Yawn . Rest will fail when used by the Pokémon. A Pokémon with this Ability will wake up if it is asleep in battle (such as if it gains the Ability outside of battle or by an effect like Skill Swap , or is put to sleep by a Pokémon with an Ability like Mold Breaker ). If the Pokémon with this Ability is asleep and is holding a Chesto or Lum Berry , Insomnia will cure the Pokémon of sleep before the Berry has a chance to be consumed. If a Pokémon with this Ability is drowsy due to Yawn, when it would fall asleep the Ability activates and keeps it awake. The move Worry Seed can change the target Pokémon's Ability to Insomnia. Generation III [ edit | edit source ] If a sleeping Pokémon with Insomnia is sent into battle as one of the lead Pokémon or to replace a fainted Pokémon, or gains Insomnia due to Trace , it will not be cured of sleep until after a Pokémon takes its turn (uses a move, switches out, etc.). It will be cured of sleep if it is switched in to replace a switched out Pokémon (including if switched in via Baton Pass ). If a sleeping Pokémon has Insomnia as its original Ability but not its current Ability, it will remain asleep when switched out. Generation IV [ edit | edit source ] When a sleeping Pokémon with Insomnia enters battle, it will be cured of sleep. If a sleeping Pokémon has Insomnia as its original Ability but not its current Ability, if it is one of the active Pokémon at the end of the battle or switched out, it will be cured of sleep (with no message). Generation V onward [ edit | edit source ] If a sleeping Pokémon has Insomnia as its original Ability but not its current Ability, it will remain asleep when switched out. Outside of battle [ edit | edit source ] If a sleeping Pokémon gains Insomnia by Evolution or the Ability Capsule , it will not wake up until sent into battle. Pokémon with Insomnia will not be put to sleep by the Gentleman 's Kirlia in the Battle Pike nor the Battle Arcade 's game board."
+    },
+    {
+      "title": "In battle",
+      "text": "Contents 1 In battle 1.1 Generation III 1.2 Generation IV 1.3 Generation V onward In battle [ edit | edit source ] Insomnia prevents the Pokémon from being afflicted by sleep and Yawn . Rest will fail when used by the Pokémon. A Pokémon with this Ability will wake up if it is asleep in battle (such as if it gains the Ability outside of battle or by an effect like Skill Swap , or is put to sleep by a Pokémon with an Ability like Mold Breaker ). If the Pokémon with this Ability is asleep and is holding a Chesto or Lum Berry , Insomnia will cure the Pokémon of sleep before the Berry has a chance to be consumed. If a Pokémon with this Ability is drowsy due to Yawn, when it would fall asleep the Ability activates and keeps it awake. The move Worry Seed can change the target Pokémon's Ability to Insomnia. Generation III [ edit | edit source ] If a sleeping Pokémon with Insomnia is sent into battle as one of the lead Pokémon or to replace a fainted Pokémon, or gains Insomnia due to Trace , it will not be cured of sleep until after a Pokémon takes its turn (uses a move, switches out, etc.). It will be cured of sleep if it is switched in to replace a switched out Pokémon (including if switched in via Baton Pass ). If a sleeping Pokémon has Insomnia as its original Ability but not its current Ability, it will remain asleep when switched out. Generation IV [ edit | edit source ] When a sleeping Pokémon with Insomnia enters battle, it will be cured of sleep. If a sleeping Pokémon has Insomnia as its original Ability but not its current Ability, if it is one of the active Pokémon at the end of the battle or switched out, it will be cured of sleep (with no message). Generation V onward [ edit | edit source ] If a sleeping Pokémon has Insomnia as its original Ability but not its current Ability, it will remain asleep when switched out."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Prevents sleep. MD T D Protects the Pokémon from being put to sleep. MD S Protects the Pokémon from being made to sleep. B S L ねむらない MD GtI Unavailable S MD The Pokémon won't get the sleep, napping, yawning, or nightmare status condition! MD RT DX The Pokémon won't get the Sleep, Napping, Yawning, or Nightmare condition."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Insomnia",
+    "Insomnia (Ability)"
+  ],
+  "updatedAt": 1774214249
+}

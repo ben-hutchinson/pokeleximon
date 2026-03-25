@@ -1,0 +1,33 @@
+{
+  "answerKey": "SWAGGER",
+  "answerDisplay": "SWAGGER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Swagger (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Swagger_(move)",
+  "pageId": 3435,
+  "pageRevisionId": 4462222,
+  "leadText": "Swagger (Japanese: いばる Swagger) is a non-damaging Normal-type move introduced in Generation II. It is similar to Flatter. It is: TM34 in Generation II. TM87 from Generation IV to Pokémon Ultra Sun and Ultra Moon, as well as in Pokémon Brilliant Diamond and Shining Pearl. TM139 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III to VI 1.3 Generation VII onwards Effect [ edit | edit source ] Generation II [ edit | edit source ] Swagger raises the target's Attack stat by two stages and confuses it. Even if the target is already confused, or cannot become confused due to an effect such as Safeguard , its Attack will still be raised. If the target's Attack is already at +6 stages, it will not become confused. Swagger has an accuracy of 90%. Generation III to VI [ edit | edit source ] Even if the target's Attack is already at +6 stages, it will still become confused. Even if the target has Contrary and its Attack is already at -6 stages, it will still become confused. Swagger fails if the target cannot be confused and either its Attack is at +6 stages or it has Contrary and its Attack is at -6 stages. Generation VII onwards [ edit | edit source ] Swagger's accuracy was lowered from 90% to 85%. If powered up by a Normalium Z into Z-Swagger, all of the user's lowered stats are reset."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A move that infuriates and confuses the opponent, but it increases the target's Attack . G S C Causes confusion and raises Attack . R S E Confuses the foe, but also sharply raises Attack . FR LG A move that makes the foe confused, but also sharply raises its Attack . Colo XD Confuses the target, but sharply raises Attack . D P Pt HG SS PBR The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat. B W B2 W2 The user enrages and confuses the target. However, it also sharply raises the target's Attack stat. X Y OR AS S M US UM P E Sw Sh BD SP LA The user enrages and confuses the target. However, this also sharply raises the target's Attack stat. S V The user enrages and confuses the target. However, this also sharply boosts the target's Attack stat. ZA The user enrages targets, leaving them confused but boosting their Attack stats for a while."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts the Confused status on the target, but also raises its Attack by two levels. MD T D S Afflicts the targeted enemy with a Confused status condition and also boosts its Attack by 2 levels. B S L てきポケモンを こんらんじょうたいにかえるが こうげきが ２だんかい あがってしまう MD GtI It causes the Confused status condition to an enemy, but it also sharply raises its Attack. S MD It makes an enemy confused, but it also sharply raises its Attack."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Swagger",
+    "Swagger (move)"
+  ],
+  "updatedAt": 1773327706
+}

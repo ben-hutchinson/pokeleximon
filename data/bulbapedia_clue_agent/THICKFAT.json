@@ -1,0 +1,66 @@
+{
+  "answerKey": "THICKFAT",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4407421,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Thick Fat (Japanese: Thick Fat) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Resistant to Fire- and Ice-type moves. MD T D S Makes the Pokemon resistant to Fire- and Ice-type moves. B S L Conq. Raises resistance to Fire-type and Ice-type moves. MD GtI Reduces damage from Fire- and Ice-type moves. * The Pokemon takes less damage from Fire- and Ice-type moves! * S MD The Pokemon takes less damage from Fire- and Ice-type moves! MD RT DX The Pokemon takes less damage from Fire- and Ice-type moves.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If a Pokemon with Thick Fat is attacked by an Ice - or Fire-type move, the opponent's Attack or Special Attack is reduced by 50% during damage calculation, effectively halving the damage the Pokemon takes. Outside of battle [ edit | edit source ] Thick Fat has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] If a Pokemon with Thick Fat is attacked by an Ice - or Fire-type move, the opponent's Attack or Special Attack is reduced by 50% during damage calculation, effectively halving the damage the Pokemon takes.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Halves damage from fire and ice moves.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "boosting ability",
+        "evidence_ref": "Description",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Boosting abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258024
+}

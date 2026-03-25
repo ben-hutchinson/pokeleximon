@@ -1,0 +1,34 @@
+{
+  "answerKey": "IRONBARBS",
+  "answerDisplay": "IRON BARBS",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Iron Barbs (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Iron_Barbs_(Ability)",
+  "pageId": 117424,
+  "pageRevisionId": 4514028,
+  "leadText": "Iron Barbs (Japanese: てつのトゲ Iron Thorns) is an Ability introduced in Generation V. Prior to Generation VII, it was the signature Ability of Ferroseed and Ferrothorn.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with this Ability is hit by a move that makes contact , the attacking Pokémon takes damage equal to 1/8 of its own maximum HP . If Iron Barbs causes both the Pokémon with this Ability and the attacking Pokémon to faint, then the attacking Pokémon will faint first. If a Pokémon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), each hit will activate this Ability. Outside of battle [ edit | edit source ] Iron Barbs has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with this Ability is hit by a move that makes contact , the attacking Pokémon takes damage equal to 1/8 of its own maximum HP . If Iron Barbs causes both the Pokémon with this Ability and the attacking Pokémon to faint, then the attacking Pokémon will faint first. If a Pokémon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), each hit will activate this Ability."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI Unavailable S MD When the Pokémon is hit with a contact move like Tackle or Scratch, the attacker is damaged a little!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Iron-Barbs",
+    "Iron Barbs",
+    "Iron-Barbs (Ability)"
+  ],
+  "updatedAt": 1774214258
+}

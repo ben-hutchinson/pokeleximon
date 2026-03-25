@@ -1,0 +1,34 @@
+{
+  "answerKey": "TWINBEAM",
+  "answerDisplay": "TWIN BEAM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Twin Beam (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Twin_Beam_(move)",
+  "pageId": 277643,
+  "pageRevisionId": 4403678,
+  "leadText": "Twin Beam (Japanese: ツインビーム Twin Beam) is a damage-dealing Psychic-type multistrike move introduced in Generation IX. It is the signature move of Girafarig and Farigiraf.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Twin Beam inflicts damage, hitting twice per use. Each strike has an equal chance to be a critical hit . Twin Beam will hit again if the first strike breaks a substitute. Mirror Coat will only acknowledge the second strike of this move. If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokémon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokémon is a Shedinja . If the user is holding a King's Rock or Razor Fang , each consecutive hit has an equal chance to cause the opponent to flinch . If the target has Stamina , each strike will activate it. Other effects [ edit | edit source ] A Girafarig that knows Twin Beam evolves into Farigiraf when leveled up."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user shoots mystical beams from its eyes to inflict damage. The target is hit twice in a row."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Twin Beam is the only Psychic-type multistrike move ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Twin-Beam",
+    "Twin Beam",
+    "Twin-Beam (move)"
+  ],
+  "updatedAt": 1773328139
+}

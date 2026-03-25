@@ -1,0 +1,30 @@
+{
+  "answerKey": "DRONINGMEADOW",
+  "answerDisplay": "DRONING MEADOW",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Droning Meadow",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Droning_Meadow",
+  "pageId": 269428,
+  "pageRevisionId": 4410225,
+  "leadText": "The Droning Meadow (Japanese: 羽音の原 Droning Field) is an area located in the eastern region of the Crimson Mirelands of Hisui. It lies just to the south of Cottonsedge Prairie.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] The topography of the Droning Meadow is uneven in its middle and upper portions. Plateaus, some nearly three times the height of the player , are densely spread across the landscape, creating a sort of maze-like feature. The foliage in this area is also fairly dense."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] This section is incomplete. Please feel free to edit this section to add missing information and complete it."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Droning-Meadow",
+    "Droning Meadow",
+    "Droning-Meadow (location)"
+  ],
+  "updatedAt": 1774213924
+}

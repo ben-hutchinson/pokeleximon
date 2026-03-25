@@ -1,0 +1,38 @@
+{
+  "answerKey": "BRAVEBIRD",
+  "answerDisplay": "BRAVE BIRD",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Brave Bird (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Brave_Bird_(move)",
+  "pageId": 12735,
+  "pageRevisionId": 4484677,
+  "leadText": "Brave Bird (Japanese: ブレイブバード Brave Bird) is a damage-dealing Flying-type move introduced in Generation IV. It was TR66 in Pokémon Sword and Shield, and is TM164 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Brave Bird inflicts damage, and the user receives recoil damage equal to ⅓ of the damage done to the target. If the user inflicts no damage (such as if Disguise takes the damage), they do not take recoil damage. Brave Bird can hit non-adjacent opponents in Triple Battles . Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Brave Bird's PP has been reduced to 5, and its base power has been lowered to 100. Pokémon Legends: Arceus Category Physical PP 5 Agile Strong Power 100 80 120 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Recoil 33% 33% 50% ? ? ? ? User receives damage as a percentage of damage dealt Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 120 144 Cooldown 10s Move wind-up time 15 frames Effect duration —s Additional effect Recoil 33% — — Damages the user by a percentage of damage dealt."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR B W B2 W2 The user tucks in its wings and charges from a low altitude. The user also takes serious damage. X Y OR AS S M US UM P E Sw Sh BD SP The user tucks in its wings and charges from a low altitude. This also damages the user quite a lot. LA The user tucks in its wings and charges at a low altitude. This also damages the user. S V The user tucks in its wings and charges at a low altitude. This also damages the user quite a lot. ZA The user attacks by tucking its wings and charging at targets from a low altitude. The user will also take some damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target, but it also hurts the user. B S L てきポケモンに ダメージをあたえるが じぶんも ダメージをうけてしまう Conq. The user tucks in its wings and charges from a low altitude. The user is weakened for one turn. MD GtI It damages an enemy, but you receive recoil damage, too. S MD MD RT DX It damages an enemy, but you'll receive recoil damage, too."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Sky Attack and Brave Bird share similar in-game animations in Generation IV and V ; the only major difference is that the former has a blue aura, and the latter has a red aura. This was reversed in the animated series up until Pokémon the Series: Sun & Moon . In the Japanese version, there are even more similarities with Sky Attack being named \"God Bird.\" In the animated series and Pokémon Adventures , Pokémon are shown with their wings spread out when Brave Bird connects, but the in-game descriptions state that the user tucks in its wings. Brave Bird is the only Flying-type move that causes recoil damage. Except for Mew , which can learn any move via TM or TRs , the Zubat evolutionary line is the only one able to learn this move despite not being based on birds."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Brave-Bird",
+    "Brave Bird",
+    "Brave-Bird (move)"
+  ],
+  "updatedAt": 1773321328
+}

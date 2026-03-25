@@ -1,0 +1,30 @@
+{
+  "answerKey": "SECLUDEDSHORE",
+  "answerDisplay": "SECLUDED SHORE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Ula'ula Beach",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ula%27ula_Beach",
+  "pageId": 218533,
+  "pageRevisionId": 4245437,
+  "leadText": "If you were looking for the location in Paldea, see Secluded Beach. Ula'ula Beach (Japanese: ウラウラビーチ ʻUlaʻula Beach), known as Secluded Shore (Japanese: ウラウラ裏海岸 ʻUlaʻula Secluded Shore) in Pokémon Sun and Moon, is a location on Ula'ula Island in Alola, located south of Route 12.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ]"
+    },
+    {
+      "title": "Mantine Surf",
+      "text": "Mantine Surf [ edit | edit source ] The player can travel from this beach to other islands' Surf Spots using Mantine Surf if they have visited those locations. The player can travel to the following locations: Akala Surf Spot: Heahea Beach Poni Surf Spot: Poni Beach"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Secluded-Shore",
+    "Secluded Shore",
+    "Secluded-Shore (location)"
+  ],
+  "updatedAt": 1773326761
+}

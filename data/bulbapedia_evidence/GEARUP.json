@@ -1,0 +1,30 @@
+{
+  "answerKey": "GEARUP",
+  "answerDisplay": "GEAR UP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Gear Up (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Gear_Up_(move)",
+  "pageId": 218347,
+  "pageRevisionId": 4407205,
+  "leadText": "Gear Up (Japanese: アシストギア Assist Gear) is a non-damaging Steel-type move introduced in Generation VII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] Gear Up raises the Attack and Special Attack stats of allied Pokémon (including the user) with the Ability Plus or Minus by one stage each. If powered up by a Steelium Z into Z-Gear Up, the user's Special Attack stat rises one stage. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Gear Up cannot be selected in a battle. Generation IX [ edit | edit source ] Gear Up cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA The user engages its gears to raise the Attack and Sp. Atk stats of ally Pokémon with the Plus or Minus Ability. BD SP S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Gear-Up",
+    "Gear Up",
+    "Gear-Up (move)"
+  ],
+  "updatedAt": 1773323130
+}

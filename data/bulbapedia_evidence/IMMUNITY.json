@@ -1,0 +1,33 @@
+{
+  "answerKey": "IMMUNITY",
+  "answerDisplay": "IMMUNITY",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Immunity (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Immunity_(Ability)",
+  "pageId": 4094,
+  "pageRevisionId": 4484514,
+  "leadText": "\"Immunity\" redirects here. For the type mechanic, see Type → Type effectiveness. Immunity (Japanese: めんえき Immunity) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV 1.1.3 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Immunity prevents the Pokémon from being afflicted by poison . A Pokémon with this Ability will be cured of poison if it is poisoned while in battle (such as if it gains the Ability outside of battle or by an effect like Skill Swap , or is poisoned by a Pokémon with an Ability like Mold Breaker ). Generation III [ edit | edit source ] If a poisoned Pokémon with Immunity is sent into battle as one of the lead Pokémon or to replace a fainted Pokémon, or gains Immunity due to Trace , it will not be cured of poison until after a Pokémon takes its turn (uses a move, switches out, etc.). It will be cured of poison if it is switched in to replace a switched out Pokémon (including if switched in via Baton Pass ). If a poisoned Pokémon has Immunity as its original Ability but not its current Ability, it will remain poisoned when switched out. If the Pokémon with this Ability is poisoned and is holding a Pecha , Lum , or Drash Berry , Immunity will cure the Pokémon of poison before the Berry has a chance to be consumed. Generation IV [ edit | edit source ] When a poisoned Pokémon with Immunity enters battle, it will be cured of poison. If a poisoned Pokémon has Immunity as its original Ability but not its current Ability, if it is one of the active Pokémon at the end of the battle or switched out, it will be cured of poison (with no message). Generation V onward [ edit | edit source ] If a poisoned Pokémon has Immunity as its original Ability but not its current Ability, it will remain poisoned when switched out. If the Pokémon with this Ability is poisoned and is holding a Pecha or Lum Berry , the Berry will be eaten and cure the Pokémon of poison before Immunity has a chance to activate. A Pokémon with Immunity can be poisoned by Sunsteel Strike if the attacker has Poison Touch , but will be cured of poison immediately. Outside of battle [ edit | edit source ] In Generation III and IV, poison will still hurt a Pokémon outside of battle even if it has Immunity. If a poisoned Pokémon gains Immunity by Evolution or Ability Capsule , it will not be cured of poison until sent into battle. Pokémon with Immunity will not be poisoned by the Gentleman 's Kirlia in the Battle Pike nor the Battle Arcade 's game board."
+    },
+    {
+      "title": "In battle",
+      "text": "Contents 1 In battle 1.1 Generation III 1.2 Generation IV 1.3 Generation V onward In battle [ edit | edit source ] Immunity prevents the Pokémon from being afflicted by poison . A Pokémon with this Ability will be cured of poison if it is poisoned while in battle (such as if it gains the Ability outside of battle or by an effect like Skill Swap , or is poisoned by a Pokémon with an Ability like Mold Breaker ). Generation III [ edit | edit source ] If a poisoned Pokémon with Immunity is sent into battle as one of the lead Pokémon or to replace a fainted Pokémon, or gains Immunity due to Trace , it will not be cured of poison until after a Pokémon takes its turn (uses a move, switches out, etc.). It will be cured of poison if it is switched in to replace a switched out Pokémon (including if switched in via Baton Pass ). If a poisoned Pokémon has Immunity as its original Ability but not its current Ability, it will remain poisoned when switched out. If the Pokémon with this Ability is poisoned and is holding a Pecha , Lum , or Drash Berry , Immunity will cure the Pokémon of poison before the Berry has a chance to be consumed. Generation IV [ edit | edit source ] When a poisoned Pokémon with Immunity enters battle, it will be cured of poison. If a poisoned Pokémon has Immunity as its original Ability but not its current Ability, if it is one of the active Pokémon at the end of the battle or switched out, it will be cured of poison (with no message). Generation V onward [ edit | edit source ] If a poisoned Pokémon has Immunity as its original Ability but not its current Ability, it will remain poisoned when switched out. If the Pokémon with this Ability is poisoned and is holding a Pecha or Lum Berry , the Berry will be eaten and cure the Pokémon of poison before Immunity has a chance to activate. A Pokémon with Immunity can be poisoned by Sunsteel Strike if the attacker has Poison Touch , but will be cured of poison immediately."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Prevents becoming poisoned or badly poisoned. MD T D S Protects the Pokémon from becoming poisoned or badly poisoned. B S L どくじょうたい もうどくじょうたいに ならない Conq. Prevents the Pokémon from being poisoned. MD GtI Unavailable S MD It protects the Pokémon from getting poisoned or badly poisoned! MD RT DX It protects the Pokémon from getting Poisoned or Badly Poisoned."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Immunity",
+    "Immunity (Ability)"
+  ],
+  "updatedAt": 1773328950
+}

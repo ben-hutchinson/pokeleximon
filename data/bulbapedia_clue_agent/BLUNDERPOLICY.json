@@ -1,0 +1,83 @@
+{
+  "answerKey": "BLUNDERPOLICY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4462428,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "specificity": 0.7
+      },
+      {
+        "text": "held items",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen VIII held items",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Effect [ edit | edit source ] If one of the holder's moves misses one of its targets because of an accuracy or evasion check, the Blunder Policy is consumed and the holder's Speed is increased by two stages. Blunder Policy does not activate if a one-hit knockout move misses, if Triple Kick , Triple Axel , or Population Bomb ends early by failing one of their subsequent accuracy checks, or if a move misses due to a target being in the semi-invulnerable turn of a move. The Blunder Policy only activates if the move misses, not for other reasons it might fail to affect a target (e.g. immunity due to type or Ability , being protected by a protection move , etc.). If Dragon Darts would have missed one of its targets in a Double Battle for accuracy or evasion reasons, but the other target is successfully hit with the move, that target will be hit twice, and the Blunder Policy will still activate even though no message about missing a target ever appears.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Boosts Accuracy's stats",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Accuracy Speed Sharply When A Pokemon Misses With A Move Because boost item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Power item for Accuracy",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Accuracy-only held item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.46,
+        "specificity_score": 0.68,
+        "style": "category"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "accuracy item"
+    ],
+    "connections_descriptors": [
+      "Held battle items",
+      "Gen VIII items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257930
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "SPINOUT",
+  "answerDisplay": "SPIN OUT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Spin Out (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Spin_Out_(move)",
+  "pageId": 277622,
+  "pageRevisionId": 4403639,
+  "leadText": "Spin Out (Japanese: ホイールスピン Wheel Spin) is a damage-dealing Steel-type move introduced in Generation IX. It is the signature move of Varoom and Revavroom.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Spin Out inflicts damage and lowers the user's Speed by two stages."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user spins furiously by straining its legs, inflicting damage on the target. This also harshly lowers the user's Speed stat."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Spin Out has a unique animation if it is used by a Starmobile . It shares this trait with Steel Roller ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Spin-Out",
+    "Spin Out",
+    "Spin-Out (move)"
+  ],
+  "updatedAt": 1773327452
+}

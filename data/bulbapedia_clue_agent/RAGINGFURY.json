@@ -1,0 +1,91 @@
+{
+  "answerKey": "RAGINGFURY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4403595,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII Fire move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Fire physical move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Raging Fury inflicts damage and the user becomes fixated on using this move until the battle ends, or until another move is chosen. Pokemon Legends: Arceus Category Physical PP 10 Agile Strong Power 90 60 120 Accuracy 85% 85% 95% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect ? ? ? ? ? ? The user becomes fixated Generation IX [ edit | edit source ] Raging Fury's power and accuracy were changed to 120 and 100% respectively. Raging Fury inflicts damage for 2-3 turns, then the user becomes confused due to fatigue. It is disrupted if it is not successful due to missing, sleeping , paralysis , freeze , flinching , a protected target, or immunity. If a disruption occurs on what would have been the final, confusion-inducing turn of Raging Fury, the user will still become confused.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "120-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "paralyzing move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "flinch-causing move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "protective move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Fire physical move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen VIII Fire move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "120-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "fire physical move"
+    ],
+    "connections_descriptors": [
+      "Paralyzing moves",
+      "Flinch-Causing moves",
+      "Protective moves",
+      "Fire Physical moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257999
+}

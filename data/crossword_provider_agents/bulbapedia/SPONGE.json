@@ -1,0 +1,16 @@
+{
+  "answerKey": "SPONGE",
+  "answerDisplay": "SPONGE",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen V ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Appendix:Metagame_terminology",
+  "extract": "The Pokémon metagame has a wide range of fanmade terminology for various aspects of the games. These are colloquial terms originating from unofficial sources, and are not found within the games themselves.",
+  "updatedAt": 1774258446
+}

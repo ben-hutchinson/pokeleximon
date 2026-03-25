@@ -1,0 +1,18 @@
+{
+  "answerKey": "STICK",
+  "answerDisplay": "STICK",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "Details for the Pokémon item Leek, including added effects and where to find it.",
+  "score": 27.88,
+  "approved": false,
+  "qualityFlags": [
+    "long_form",
+    "near_verbatim_source"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/item/stick",
+  "extract": "Details for the Pokémon item Leek, including added effects and where to find it.",
+  "rankPosition": 1,
+  "updatedAt": 1774213047
+}

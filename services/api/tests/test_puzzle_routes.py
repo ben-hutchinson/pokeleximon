@@ -50,7 +50,6 @@ class PuzzleRouteOrderTests(unittest.TestCase):
 
     def test_export_routes_exist(self):
         source = PUZZLES_FILE.read_text(encoding="utf-8")
-        self.assertIn('@router.get("/export/text")', source)
         self.assertIn('@router.get("/export/pdf")', source)
 
     def test_challenge_and_leaderboard_routes_exist(self):
@@ -74,7 +73,7 @@ class PuzzleRouteOrderTests(unittest.TestCase):
 
     def test_export_route_is_declared_before_dynamic_puzzle_id(self):
         source = PUZZLES_FILE.read_text(encoding="utf-8")
-        export_marker = '@router.get("/export/text")'
+        export_marker = '@router.get("/export/pdf")'
         dynamic_marker = '@router.get("/{puzzle_id}"'
         self.assertIn(export_marker, source)
         self.assertIn(dynamic_marker, source)

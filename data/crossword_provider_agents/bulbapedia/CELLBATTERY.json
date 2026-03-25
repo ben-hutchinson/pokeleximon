@@ -1,0 +1,14 @@
+{
+  "answerKey": "CELLBATTERY",
+  "answerDisplay": "CELL BATTERY",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Boosts Attack after it takes electric-type damage",
+  "score": 120.48,
+  "approved": true,
+  "qualityFlags": [],
+  "evidenceRef": "Description",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Cell_Battery",
+  "extract": "The Cell Battery (Japanese: じゅうでんち Charge Battery) is a type of held item introduced in Generation V. It raises the holder's Attack when it is hit by a damaging Electric-type move.",
+  "updatedAt": 1774258352
+}

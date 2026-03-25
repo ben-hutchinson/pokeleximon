@@ -1,0 +1,38 @@
+{
+  "answerKey": "ICICLESPEAR",
+  "answerDisplay": "ICICLE SPEAR",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Icicle Spear (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Icicle_Spear_(move)",
+  "pageId": 3944,
+  "pageRevisionId": 4493735,
+  "leadText": "Icicle Spear (Japanese: つららばり Icicle Needle) is a damage-dealing Ice-type multistrike move introduced in Generation III. Prior to Generation V, it was the signature move of Shellder, but other Pokémon could still inherit it via breeding. It is: TM51 in Pokémon Sword and Shield. TM187 in Pokémon Scarlet and Violet. TM149 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III 1.2 Generation IV 1.3 Generation V onwards 1.3.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation III [ edit | edit source ] Icicle Spear inflicts damage, hitting the target 2-5 times per use. There is a 37.5% chance that it will hit 2 times, a 37.5% chance that it will hit 3 times, a 12.5% chance that it will hit 4 times, and a 12.5% chance that it will hit 5 times. Each strike made has an equal chance to be a critical hit . Icicle Spear may continue attacking after breaking a substitute . Bide and Mirror Coat will only acknowledge the last strike of this move. If the user is holding a King's Rock , each consecutive hit has an equal chance to cause the opponent to flinch . Icicle Spear has a base power of 10. Generation IV [ edit | edit source ] Pokémon with the Ability Skill Link will always hit five times when using Icicle Spear unless it misses. Due to being now classified as a physical move, Icicle Spear is affected by Counter instead of Mirror Coat. If the user is holding a Razor Fang , each consecutive hit has an equal chance to cause the opponent to flinch . Generation V onwards [ edit | edit source ] Icicle Spear's base power was increased to 25. There is now a 35% chance that it will hit 2 times, a 35% chance it will hit 3 times, a 15% chance it will hit 4 times, and a 15% chance it will hit 5 times. The average total base power is now 77.5. If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokémon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokémon has a maximum HP of 1. If the target has Weak Armor or Stamina , each strike will activate it. Pokémon Legends: Z-A [ edit | edit source ] Icicle Spear shoots a spread of five icicles in front of the user, with the center icicle aimed at the target. Multiple icicles can hit the same target. Because Icicle Spear is classified as a long-range move, the user will move to its trainer's position before starting its wind-up; as such, it is more effective when used while the trainer is close to the target, allowing multiple icicles to hit. Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 25 30 Cooldown 6s Move wind-up time 20 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Attacks the foe by firing 2 to 5 icicles in a row. FR LG Sharp icicles are fired at the foe. It strikes two to five times. Colo XD Attacks target by firing 2 to 5 icicles in a row. D P Pt HG SS PBR The user launches sharp icicles at the foe. It strikes two to five times in a row. B W B2 W2 The user launches sharp icicles at the target. It strikes two to five times in a row. X Y OR AS S M US UM P E Sw Sh BD SP LA The user launches sharp icicles at the target two to five times in a row. S V The user attacks by launching sharp icicles at the target. This move hits two to five times in a row. ZA The user attacks by launching five sharp icicles in a single volley at targets."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It hits two to five times in succession. MD T D S Inflicts damage on the target using 2 to 5 attacks in a single turn. B S L てきポケモンに ２〜５かいれんぞくで ダメージをあたえる MD GtI UNUSED S MD MD RT DX It damages an enemy 2 to 5 times in a row."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move is unavailable to the player in Pokémon Ruby, Sapphire , and Emerald and Pokémon Colosseum and XD without trading, as no Pokémon can learn it without breeding outside of Pokémon FireRed and LeafGreen ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Icicle-Spear",
+    "Icicle Spear",
+    "Icicle-Spear (move)"
+  ],
+  "updatedAt": 1773323824
+}

@@ -1,0 +1,17 @@
+{
+  "answerKey": "ROTOM",
+  "answerDisplay": "ROTOM",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is an Electric / Ghost type Pokémon introduced in Generation 4.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/rotom",
+  "extract": "Rotom is an Electric / Ghost type Pokémon introduced in Generation 4 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212653
+}

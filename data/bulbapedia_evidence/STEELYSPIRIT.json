@@ -1,0 +1,30 @@
+{
+  "answerKey": "STEELYSPIRIT",
+  "answerDisplay": "STEELY SPIRIT",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Steely Spirit (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Steely_Spirit_(Ability)",
+  "pageId": 244411,
+  "pageRevisionId": 4446842,
+  "leadText": "Steely Spirit (Japanese: はがねのせいしん Steely Spirit) is an Ability introduced in Generation VIII. It is the signature Ability of Perrserker.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] The power of Steel-type moves used by a Pokémon with Steely Spirit and its allies is increased by 50%. This effect stacks if multiple Pokémon with this Ability are on the field. Doom Desire counts as an allied move even if its user is no longer on the field at the time it hits. Outside of battle [ edit | edit source ] Steely Spirit has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] The power of Steel-type moves used by a Pokémon with Steely Spirit and its allies is increased by 50%. This effect stacks if multiple Pokémon with this Ability are on the field. Doom Desire counts as an allied move even if its user is no longer on the field at the time it hits."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Steely-Spirit",
+    "Steely Spirit",
+    "Steely-Spirit (Ability)"
+  ],
+  "updatedAt": 1773329241
+}

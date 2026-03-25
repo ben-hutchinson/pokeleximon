@@ -1,0 +1,38 @@
+{
+  "answerKey": "STRANGEBALL",
+  "answerDisplay": "STRANGE BALL",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Strange Ball",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Strange_Ball",
+  "pageId": 268505,
+  "pageRevisionId": 4467764,
+  "leadText": "The Strange Ball (Japanese: ストレンジボール Strange Ball) is a placeholder Poké Ball introduced in Pokémon Brilliant Diamond and Shining Pearl. It is used to represent the Poké Balls of Pokémon when they were caught in a Poké Ball that does not exist in the current game.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Manual activation 1.1.1 Legends: Arceus 1.1.2 Scarlet and Violet 1.2 As a Pokémon's Poké Ball Effect [ edit | edit source ] Manual activation [ edit | edit source ] Legends: Arceus [ edit | edit source ] The Strange Ball cannot be legitimately obtained as an item, so it cannot normally be used. If it were to be obtained by hacking , when used from the satchel in a wild encounter, it would attempt to catch the wild Pokémon with the same catch rate as a typical Hisuian Poké Ball (0.75×). Unlike other Poké Balls in Legends: Arceus, the Strange Ball cannot be thrown by the player in the overworld, as it only appears in the satchel menu, but not in the throwable item menu in the lower-right of the screen. It is only usable if selected from the satchel menu during a battle. Scarlet and Violet [ edit | edit source ] The Strange Ball cannot be legitimately obtained as an item, so it cannot normally be used. If it were to be obtained by hacking , when used against a wild encounter, it would attempt to catch the wild Pokémon with the same catch rate as a typical Poké Ball (1×). As a Pokémon's Poké Ball [ edit | edit source ] From Generation VI onward, bred Pokémon inherit their Poké Ball from their parents. However, any offspring that would inherit a Strange Ball, Master Ball , or Cherish Ball will instead be contained in a standard Poké Ball ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA ー ー ー S V ZA - - -"
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Effect 1.1.1 Manual activation 1.1.1.1 Legends: Arceus 1.1.1.2 Scarlet and Violet 1.1.2 As a Pokémon's Poké Ball 1.2 Description 1.3 Acquisition In the core series games [ edit | edit source ] Starting in Pokémon Brilliant Diamond and Shining Pearl , Pokémon caught in Poké Balls that are unavailable in that game instead display a Strange Ball as their Poké Ball. In Pokémon Legends: Arceus , Pokémon caught in any Poké Ball other than one of the Hisuian Poké Balls are displayed as being caught in a Strange Ball. In Pokémon Brilliant Diamond, Shining Pearl , Scarlet, Violet , and Legends: Z-A , Pokémon caught in any Hisuian Poké Balls are displayed as being caught in a Strange Ball. Pokémon Sword and Shield do not feature Strange Balls; Pokémon caught in Hisuian Poké Balls are displayed in standard Poké Balls instead, with Pokémon HOME storing the original ball server-side. When returned to HOME, these Pokémon will regain their original balls. In Brilliant Diamond and Shining Pearl, the Strange Ball does not exist as an actual item, only as a graphic displayed for Pokémon with a ball ID value that doesn't match any ball found in the game. The Strange Ball was made an item in Pokémon Legends: Arceus and remains an item in subsequent games. Effect [ edit | edit source ] Manual activation [ edit | edit source ] Legends: Arceus [ edit | edit source ] The Strange Ball cannot be legitimately obtained as an item, so it cannot normally be used. If it were to be obtained by hacking , when used from the satchel in a wild encounter, it would attempt to catch the wild Pokémon with the same catch rate as a typical Hisuian Poké Ball (0.75×). Unlike other Poké Balls in Legends: Arceus, the Strange Ball cannot be thrown by the player in the overworld, as it only appears in the satchel menu, but not in the throwable item menu in the lower-right of the screen. It is only usable if selected from the satchel menu during a battle. Scarlet and Violet [ edit | edit source ] The Strange Ball cannot be legitimately obtained as an item, so it cannot normally be used. If it were to be obtained by hacking , when used against a wild encounter, it would attempt to catch the wild Pokémon with the same catch rate as a typical Poké Ball (1×). As a Pokémon's Poké Ball [ edit | edit source ] From Generation VI onward, bred Pokémon inherit their Poké Ball from their parents. However, any offspring that would inherit a Strange Ball, Master Ball , or Cherish Ball will instead be contained in a standard Poké Ball . Description [ edit | edit source ] Games Description LA ー ー ー S V ZA - - - Acquisition [ edit | edit source ] The Strange Ball cannot be obtained in any game."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The Strange Ball and Park Ball are the only Poké Balls that cannot be a Pokémon's own Poké Ball, due to Pokémon displayed in Strange Balls retaining their original Poké Ball's index number . The Park Ball, Cherish Ball , and Strange Ball are the only Poké Balls in the core series games that have never been obtainable in any core series game."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Strange-Ball",
+    "Strange Ball",
+    "Strange-Ball (item)"
+  ],
+  "updatedAt": 1773327604
+}

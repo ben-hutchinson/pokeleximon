@@ -1,0 +1,57 @@
+{
+  "answerKey": "PURIFYINGSALT",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4238246,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Purifying Salt (Japanese: Purifying Salt) is an Ability introduced in Generation IX. It is the signature Ability of Nacli's evolutionary line.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Purifying Salt grants the Pokemon immunity from all non-volatile status conditions and halves the Attack and Special Attack of an attacking Pokemon during damage calculation if targeted by a Ghost-type move. Rest fails if used by a Pokemon with Purifying Salt. If the Pokemon has a status condition and gains this Ability, the status condition will not be cured and remains in effect. Outside of battle [ edit | edit source ] Purifying Salt has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Purifying Salt grants the Pokemon immunity from all non-volatile status conditions and halves the Attack and Special Attack of an attacking Pokemon during damage calculation if targeted by a Ghost-type move. Rest fails if used by a Pokemon with Purifying Salt. If the Pokemon has a status condition and gains this Ability, the status condition will not be cured and remains in effect.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Protects from status conditions and halves damage from Ghost-type moves.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "protective trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "protective trait"
+    ],
+    "connections_descriptors": [
+      "Protective abilities",
+      "Gen IX abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257997
+}

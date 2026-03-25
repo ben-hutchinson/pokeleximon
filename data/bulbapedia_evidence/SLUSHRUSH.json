@@ -1,0 +1,30 @@
+{
+  "answerKey": "SLUSHRUSH",
+  "answerDisplay": "SLUSH RUSH",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Slush Rush (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Slush_Rush_(Ability)",
+  "pageId": 218217,
+  "pageRevisionId": 4259107,
+  "leadText": "Slush Rush (Japanese: ゆきかき Snow Removal) is an Ability introduced in Generation VII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] During a hailstorm or snow , the Speed stat of Pokémon with this Ability is doubled. Unlike Sand Rush , Snow Cloak , and Sand Veil , a Pokémon with this Ability will take damage from the hailstorm unless it is Ice-type. Outside of battle [ edit | edit source ] Slush Rush has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] During a hailstorm or snow , the Speed stat of Pokémon with this Ability is doubled. Unlike Sand Rush , Snow Cloak , and Sand Veil , a Pokémon with this Ability will take damage from the hailstorm unless it is Ice-type."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Slush-Rush",
+    "Slush Rush",
+    "Slush-Rush (Ability)"
+  ],
+  "updatedAt": 1773329214
+}

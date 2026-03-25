@@ -1,0 +1,48 @@
+{
+  "answerKey": "REINSOFUNITY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "plot advancement",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Cords that shine when you hold them up to the light. The people of old times presented these to the King of Bountiful Harvests to express their gratitude.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Story-progress key item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.74,
+        "style": "family"
+      },
+      {
+        "text": "Plot-critical key",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "battle item"
+    ],
+    "connections_descriptors": [
+      "Battle items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774258445
+}

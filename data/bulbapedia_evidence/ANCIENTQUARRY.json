@@ -1,0 +1,30 @@
+{
+  "answerKey": "ANCIENTQUARRY",
+  "answerDisplay": "ANCIENT QUARRY",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Ancient Quarry",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ancient_Quarry",
+  "pageId": 272608,
+  "pageRevisionId": 4428763,
+  "leadText": "Ancient Quarry (Japanese: 古代の石切り場 Ancient Quarry) is an area located in the southern region of the Coronet Highlands of Hisui. It connects Wayward Wood with Sonorous Path. It has two parts: a quarry inside a mountain and a flatland atop the mountain. The top of the mountain is reachable with the help of Ride Sneasler or Braviary. According to Ingo, the stones used to construct the Temple of Sinnoh at the summit of Mount Coronet were derived from the Ancient Quarry.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] The interior of the Ancient Quarry is a large chamber filled with stone. Two squared stone arches are situated at the ends of the quarry, one on either end. They each lead to a large staircase which descend from the exterior to the main space of the quarry. The entire space has been carved out into a geometric arrangement of cube-like chunks of stone, creating pockets within the walls. The quarry itself is carved into the core of a small mountain. The top of the mountain has a wide plain with large pockets of mud and a couple of trees."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] This section is incomplete. Please feel free to edit this section to add missing information and complete it."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ancient-Quarry",
+    "Ancient Quarry",
+    "Ancient-Quarry (location)"
+  ],
+  "updatedAt": 1773328750
+}

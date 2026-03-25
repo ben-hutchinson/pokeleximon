@@ -1,0 +1,76 @@
+{
+  "answerKey": "FLOWERGIFT",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4481999,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Flower Gift (Japanese: Flower Gift) is an Ability introduced in Generation IV. It is the signature Ability of Cherrim.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the team's Attack and Special Defense in sunny weather. B S L MD GtI Unavailable S MD When it's sunny, the Attack and Sp. Def of teammates in the same room go up!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation IV [ edit | edit source ] During harsh sunlight , Flower Gift increases the Attack and Special Defense stats of the Pokemon with this Ability and its allies by 50%. Flower Gift is not responsible for changing Cherrim from Overcast Form into Sunshine Form. Flower Gift can be copied by Trace or Role Play . Generation V onward [ edit | edit source ] This Ability effect may be in need of research. Reason: If a Pokemon holds a Utility Umbrella , is it unaffected by its ally's Flower Gift? You can discuss this on the talk page. Along with its previous effect, Flower Gift now changes Cherrim from Overcast Form to Sunshine Form if the weather becomes harsh sunlight while Cherrim is in battle, or if Cherrim is sent into battle while the weather is harsh sunlight. If Cherrim loses Flower Gift or Flower Gift is suppressed (such as by Gastro Acid ), it will revert to its Overcast Form, unless it was Dynamaxed at the time; if a Dynamaxed Sunshine Form Cherrim loses Flower Gift, it will remain in Sunshine Form even after it ceases to be Dynamaxed. Role Play fails if the target has the Ability Flower Gift. Entrainment fails if the user has the Ability Flower Gift. Flower Gift cannot be copied by Trace , Power of Alchemy , Receiver , or Wandering Spirit . Outside of battle [ edit | edit source ] Flower Gift has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Generation IV [ edit | edit source ] During harsh sunlight , Flower Gift increases the Attack and Special Defense stats of the Pokemon with this Ability and its allies by 50%. Flower Gift is not responsible for changing Cherrim from Overcast Form into Sunshine Form. Flower Gift can be copied by Trace or Role Play . Generation V onward [ edit | edit source ] This Ability effect may be in need of research. Reason: If a Pokemon holds a Utility Umbrella , is it unaffected by its ally's Flower Gift? You can discuss this on the talk page. Along with its previous effect, Flower Gift now changes Cherrim from Overcast Form to Sunshine Form if the weather becomes harsh sunlight while Cherrim is in battle, or if Cherrim is sent into battle while the weather is harsh sunlight. If Cherrim loses Flower Gift or Flower Gift is suppressed (such as by Gastro Acid ), it will revert to its Overcast Form, unless it was Dynamaxed at the time; if a Dynamaxed Sunshine Form Cherrim loses Flower Gift, it will remain in Sunshine Form even after it ceases to be Dynamaxed. Role Play fails if the target has the Ability Flower Gift. Entrainment fails if the user has the Ability Flower Gift. Flower Gift cannot be copied by Trace , Power of Alchemy , Receiver , or Wandering Spirit .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Increases friendly Pokemon's Attack and Special Defense to 1.5 during strong sunlight.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "debuffing trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "debuffing trait",
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Debuffing abilities",
+      "Weather abilities",
+      "Gen IV abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257947
+}

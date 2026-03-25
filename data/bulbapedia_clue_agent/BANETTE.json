@@ -1,0 +1,147 @@
+{
+  "answerKey": "BANETTE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4504689,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Ghost species from Gen III",
+        "evidence_ref": "lead",
+        "specificity": 0.96
+      },
+      {
+        "text": "Evolves from Shuppet",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      },
+      {
+        "text": "Has a Mega Evolution",
+        "evidence_ref": "lead",
+        "specificity": 0.68
+      },
+      {
+        "text": "gray coloring",
+        "evidence_ref": "Biology",
+        "specificity": 0.74
+      },
+      {
+        "text": "115 base Attack",
+        "evidence_ref": "Game data",
+        "specificity": 0.8
+      },
+      {
+        "text": "65 base Speed",
+        "evidence_ref": "Game data",
+        "specificity": 0.78
+      },
+      {
+        "text": "115 Attack and 65 Speed",
+        "evidence_ref": "Game data",
+        "specificity": 0.9
+      },
+      {
+        "text": "Marionette Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      },
+      {
+        "text": "Gen III Marionette Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "Black Marionette Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "Indeterminate egg-group species",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "115 Attack, 65 Speed species",
+        "evidence_ref": "Game data",
+        "mystery_score": 0.66,
+        "specificity_score": 0.9,
+        "style": "stats"
+      },
+      {
+        "text": "Gen III Ghost species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.54,
+        "specificity_score": 0.66,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Evolves from Shuppet",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.72,
+        "style": "evolution"
+      },
+      {
+        "text": "Marionette Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.48,
+        "specificity_score": 0.72,
+        "style": "signature"
+      },
+      {
+        "text": "Gen III Marionette Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.44,
+        "specificity_score": 0.66,
+        "style": "signature"
+      },
+      {
+        "text": "Black Marionette Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.64,
+        "style": "signature"
+      },
+      {
+        "text": "Indeterminate egg-group species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.38,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Mega-evolving species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.66,
+        "style": "mega"
+      },
+      {
+        "text": "Gray Gen III Ghost species",
+        "evidence_ref": "Biology",
+        "mystery_score": 0.5,
+        "specificity_score": 0.8,
+        "style": "visual_taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "ghost species",
+      "marionette pokemon"
+    ],
+    "connections_descriptors": [
+      "Gen III Ghost species",
+      "Marionette Pokemon",
+      "Gen III species"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.82
+  },
+  "updatedAt": 1774257928
+}

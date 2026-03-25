@@ -1,0 +1,57 @@
+{
+  "answerKey": "STAMINA",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4465198,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Stamina redirects here. For other uses, see Stamina (disambiguation). Stamina (Japanese: Stamina) is an Ability introduced in Generation VII. Prior to Generation IX, it was the signature Ability of Mudbray and Mudsdale.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Stamina is hit by an attack, its Defense rises by one stage. If a Pokemon with this Ability is hit by a multistrike move (such as Fury Swipes ), each hit activates this Ability. Outside of battle [ edit | edit source ] Stamina has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with Stamina is hit by an attack, its Defense rises by one stage. If a Pokemon with this Ability is hit by a multistrike move (such as Fury Swipes ), each hit activates this Ability.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Raises this Pokemon's Defense by one stage when it takes damage from a move.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "boosting trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "boosting trait"
+    ],
+    "connections_descriptors": [
+      "Boosting abilities",
+      "Gen VII abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258018
+}

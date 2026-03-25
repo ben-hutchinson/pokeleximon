@@ -1,0 +1,38 @@
+{
+  "answerKey": "PETALBLIZZARD",
+  "answerDisplay": "PETAL BLIZZARD",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Petal Blizzard (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Petal_Blizzard_(move)",
+  "pageId": 185066,
+  "pageRevisionId": 4415766,
+  "leadText": "Petal Blizzard (Japanese: はなふぶき Cherry Blossom Blizzard) is a damage-dealing Grass-type move introduced in Generation VI. It is TM206 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Petal Blizzard does damage to all adjacent Pokémon, including allies. In Horde Encounters , it will target all opponents. Petal Blizzard will also destroy grass patches found in the background of battles . Petal Blizzard is a wind move ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh BD SP LA The user stirs up a violent petal blizzard and attacks everything around it. S V The user stirs up a violent petal blizzard and damages everything around it."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It damages enemies in the same room. MD RT DX It damages enemies in the same room by stirring up a petal blizzard."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Petal Blizzard is the only physical wind move ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Petal-Blizzard",
+    "Petal Blizzard",
+    "Petal-Blizzard (move)"
+  ],
+  "updatedAt": 1773325720
+}

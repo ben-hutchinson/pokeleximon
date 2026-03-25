@@ -1,0 +1,33 @@
+{
+  "answerKey": "UNBURDEN",
+  "answerDisplay": "UNBURDEN",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Unburden (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Unburden_(Ability)",
+  "pageId": 14206,
+  "pageRevisionId": 4055263,
+  "leadText": "Unburden (Japanese: かるわざ Acrobatics) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Drifloon and Drifblim.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Unburden doubles the Pokémon's Speed stat when the Pokémon's held item is used or lost. This includes items that were lost via Knock Off , Thief , Incinerate , Bug Bite , and Pluck , as well as if an Air Balloon popped. If there is no held item to begin with or if a held item is traded for another, Unburden will not be activated. This boost is lost if the Pokémon is switched out, loses Unburden, or gains a held item. Regaining Unburden if it had been lost does not restore a previous boost. If Unburden is suppressed with Neutralizing Gas , a new boost cannot be gained, but a previous boost will return once Neutralizing Gas leaves the field. Outside of battle [ edit | edit source ] Unburden has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Unburden doubles the Pokémon's Speed stat when the Pokémon's held item is used or lost. This includes items that were lost via Knock Off , Thief , Incinerate , Bug Bite , and Pluck , as well as if an Air Balloon popped. If there is no held item to begin with or if a held item is traded for another, Unburden will not be activated. This boost is lost if the Pokémon is switched out, loses Unburden, or gains a held item. Regaining Unburden if it had been lost does not restore a previous boost. If Unburden is suppressed with Neutralizing Gas , a new boost cannot be gained, but a previous boost will return once Neutralizing Gas leaves the field."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Raises the number of moves the Pokémon attempts per turn when not holding an item. B S L どうぐを もっていないと こうげきかいすうが あがる MD GtI Unavailable S MD When the Pokémon doesn't have an item, it uses a move 2 times at once but only consumes PP for 1 use!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Unburden",
+    "Unburden (Ability)"
+  ],
+  "updatedAt": 1773328182
+}

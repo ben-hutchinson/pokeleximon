@@ -1,0 +1,34 @@
+{
+  "answerKey": "SUPERLUCK",
+  "answerDisplay": "SUPER LUCK",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Super Luck (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Super_Luck_(Ability)",
+  "pageId": 14210,
+  "pageRevisionId": 4407499,
+  "leadText": "Super Luck (Japanese: きょううん Good Luck) is an Ability introduced in Generation IV. In Generation IX, it is the signature Ability of Murkrow and Honchkrow.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.2 Outside of battle 1.2.1 Generation IV 1.2.2 Generation VIII 1.2.3 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] Super Luck increases the critical hit ratio by 1 stage. Outside of battle [ edit | edit source ] Generation IV [ edit | edit source ] In Pokémon HeartGold and SoulSilver only, if a Pokémon with Super Luck breaks a rock and finds an item, the game will instead pick the item below it in the game's list, unless it was the 5% item (this effectively means it will never find the most common item). Generation VIII [ edit | edit source ] If a Pokémon with this Ability leads the party (even if fainted ), the chances of finding a wild Pokémon holding an item increase from 50%/5% to 60%/20%. This effect is shared with Compound Eyes . Generation IX [ edit | edit source ] In Pokémon Scarlet and Violet , Super Luck has no effect on the items held by wild Pokémon."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Super Luck increases the critical hit ratio by 1 stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Improves the chances of the Pokémon making critical hits. B S L きゅうしょに こうげきを あてやすい MD GtI Unavailable S MD The Pokémon's moves have a high critical-hit rate! MD RT DX The Pokémon's moves have a high critical-hit rate."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Super-Luck",
+    "Super Luck",
+    "Super-Luck (Ability)"
+  ],
+  "updatedAt": 1773329250
+}

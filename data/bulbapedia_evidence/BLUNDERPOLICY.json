@@ -1,0 +1,34 @@
+{
+  "answerKey": "BLUNDERPOLICY",
+  "answerDisplay": "BLUNDER POLICY",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Blunder Policy",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Blunder_Policy",
+  "pageId": 244466,
+  "pageRevisionId": 4462428,
+  "leadText": "Blunder Policy (Japanese: からぶりほけん Miss Insurance) is a type of held item introduced in Generation VIII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If one of the holder's moves misses one of its targets because of an accuracy or evasion check, the Blunder Policy is consumed and the holder's Speed is increased by two stages. Blunder Policy does not activate if a one-hit knockout move misses, if Triple Kick , Triple Axel , or Population Bomb ends early by failing one of their subsequent accuracy checks, or if a move misses due to a target being in the semi-invulnerable turn of a move. The Blunder Policy only activates if the move misses, not for other reasons it might fail to affect a target (e.g. immunity due to type or Ability , being protected by a protection move , etc.). If Dragon Darts would have missed one of its targets in a Double Battle for accuracy or evasion reasons, but the other target is successfully hit with the move, that target will be hit twice, and the Blunder Policy will still activate even though no message about missing a target ever appears."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh BD SP LA Raises Speed sharply when a Pokémon misses with a move because of accuracy. S V An item to be held by a Pokémon. If the holder misses with a move due to low accuracy, this policy will sharply boost its Speed stat."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price Sw Sh N/A $ 2,000 S V $ 30,000 $ 7,500 Effect [ edit | edit source ] If one of the holder's moves misses one of its targets because of an accuracy or evasion check, the Blunder Policy is consumed and the holder's Speed is increased by two stages. Blunder Policy does not activate if a one-hit knockout move misses, if Triple Kick , Triple Axel , or Population Bomb ends early by failing one of their subsequent accuracy checks, or if a move misses due to a target being in the semi-invulnerable turn of a move. The Blunder Policy only activates if the move misses, not for other reasons it might fail to affect a target (e.g. immunity due to type or Ability , being protected by a protection move , etc.). If Dragon Darts would have missed one of its targets in a Double Battle for accuracy or evasion reasons, but the other target is successfully hit with the move, that target will be hit twice, and the Blunder Policy will still activate even though no message about missing a target ever appears. Description [ edit | edit source ] Games Description Sw Sh BD SP LA Raises Speed sharply when a Pokémon misses with a move because of accuracy. S V An item to be held by a Pokémon. If the holder misses with a move due to low accuracy, this policy will sharply boost its Speed stat. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods Sw Sh Battle Tower (20 BP ) Sw Sh IA Cram-o-matic ( Flying : 62-70 points) Sw Sh CT Freezington S V Delibird Presents ( Mesagoza Branch, after completing the main storyline)"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Blunder-Policy",
+    "Blunder Policy",
+    "Blunder-Policy (item)"
+  ],
+  "updatedAt": 1773321268
+}

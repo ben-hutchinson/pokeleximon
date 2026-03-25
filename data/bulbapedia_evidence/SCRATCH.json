@@ -1,0 +1,33 @@
+{
+  "answerKey": "SCRATCH",
+  "answerDisplay": "SCRATCH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Scratch (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Scratch_(move)",
+  "pageId": 3618,
+  "pageRevisionId": 4503568,
+  "leadText": "Scratch (Japanese: ひっかく Scratch) is a damage-dealing Normal-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Scratch inflicts damage and has no secondary effect. Scratch can be used as the first move of a Pokémon Contest combination , causing Fury Swipes and Slash to score double the normal appeal if used in the next turn. It can also be used to finish a combination, with the user gaining 4 bonus appeal points if Leer was used in the previous turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A Normal -type attack. Sharp claws are used to inflict damage on the target. G S C Scratches with sharp claws. R S E Scratches the foe with sharp claws. FR LG Hard, pointed, and sharp claws rake the foe. Colo XD Scratches the target with sharp claws. D P Pt HG SS PBR Hard, pointed, and sharp claws rake the foe to inflict damage. B W B2 W2 Hard, pointed, and sharp claws rake the target to inflict damage. X Y OR AS S M US UM P E Sw Sh BD SP LA S V Hard, pointed, sharp claws rake the target to inflict damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. B S L てきポケモンに ダメージをあたえる MD GtI S MD MD RT DX It damages an enemy."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Scratch",
+    "Scratch (move)"
+  ],
+  "updatedAt": 1773326719
+}

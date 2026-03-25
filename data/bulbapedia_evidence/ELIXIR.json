@@ -1,0 +1,37 @@
+{
+  "answerKey": "ELIXIR",
+  "answerDisplay": "ELIXIR",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Elixir",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Elixir",
+  "pageId": 12853,
+  "pageRevisionId": 4504971,
+  "leadText": "The Elixir (Japanese: ピーピーエイダー PP Aider), spelled Elixer in the Generation I and II games, is a type of medicine introduced in Generation I. It restores 10 PP for all of a Pokémon's moves. It is the improved counterpart of the Ether; it has an improved counterpart, the Max Elixir.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] When used from the Bag on a Pokémon, it restores 10 PP to all of its moves ."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] It fully restores 10 PP to all the moves of the Pokémon that ingests it and restores 5 Belly for it. If thrown, it will grant the same effect as if it was consumed by the Pokémon it hits (it cannot be caught); if it is sticky , it will instead deal 2 damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Restores the PP of all the selected Pok é mon 's moves by 10. G S C Restores PP of all moves by 10. R S E Colo XD Restores the PP of all moves by 10. FR LG Restores the PP of all moves for one Pok é mon by 10 points each. D P Pt HG SS B W B2 W2 It restores the PP of all the moves learned by the targeted Pokémon by 10 points each. X Y OR AS S M US UM This medicine can restore 10 PP to each of the moves that have been learned by a Pokémon. P E Sw Sh BD SP LA This medicine can be used to restore 10 PP to each of the moves that have been learned by a Pokémon. S V A medicine that can be used to restore 10 PP to all four moves that a Pokémon knows."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD Drinking it slightly restores the PP of all of your moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Elixir",
+    "Elixir (item)"
+  ],
+  "updatedAt": 1773322542
+}

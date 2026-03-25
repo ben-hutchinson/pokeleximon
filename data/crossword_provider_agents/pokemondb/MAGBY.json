@@ -1,0 +1,17 @@
+{
+  "answerKey": "MAGBY",
+  "answerDisplay": "MAGBY",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Fire type Pokémon introduced in Generation 2.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/magby",
+  "extract": "Magby is a Fire type Pokémon introduced in Generation 2 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211956
+}

@@ -1,0 +1,37 @@
+{
+  "answerKey": "DISCHARGE",
+  "answerDisplay": "DISCHARGE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Discharge (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Discharge_(move)",
+  "pageId": 12427,
+  "pageRevisionId": 4482932,
+  "leadText": "Discharge (Japanese: ほうでん Electrical Discharge) is a damage-dealing Electric-type move introduced in Generation IV. It is TM039 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Discharge damages all Pokémon except the user in Double Battles and has a 30% chance of paralyzing each of them. In Triple Battles , Discharge damages all adjacent Pokémon. Discharge can also be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if the move Charge was used in the prior turn. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 80 96 Cooldown 8s Move wind-up time 12 frames Effect duration —s Additional effect Chance 30% — — May paralyze the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR A flare of electricity is loosed to strike all Pokémon in battle. It may also cause paralysis. B W B2 W2 A flare of electricity is loosed to strike the area around the user. It may also cause paralysis. X Y OR AS S M US UM P E Sw Sh BD SP LA The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis. S V The user strikes everything around it by letting loose a flare of electricity. This may also leave those hit by the attack with paralysis. ZA The user attacks by letting loose a flare of electricity across a wide area. This may also leave those hit paralyzed."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on all enemies in the room. It may also afflict enemies in the room with a Paralysis status. A Pokémon with the Paralysis status has slowed movement and can't take action. B S L おなじへやの てきポケモンに ダメージをあたえる しかも いっていのかくりつで まひじょうたいにかえる まひじょうたいのポケモンは わざがだせない Conq. A flare of electricity is loosed to strike the area around the user. It may also cause paralysis. MD GtI It damages enemies in the same room. It could also cause the Paralysis status condition. With the Paralysis status, their Travel Speed goes down and they can't attack or use moves. S MD It damages enemies in the same room. It could also cause paralysis."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move's name is the same as the category of Manectric ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Discharge",
+    "Discharge (move)"
+  ],
+  "updatedAt": 1773322169
+}

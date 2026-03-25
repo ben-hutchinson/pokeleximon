@@ -1,0 +1,37 @@
+{
+  "answerKey": "VENOSHOCK",
+  "answerDisplay": "VENOSHOCK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Venoshock (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Venoshock_(move)",
+  "pageId": 117329,
+  "pageRevisionId": 4452521,
+  "leadText": "Venoshock (Japanese: ベノムショック Venom Shock) is a damage-dealing Poison-type move introduced in Generation V. It was TM09 from Generation V to Pokémon Ultra Sun and Ultra Moon, TM74 in Pokémon Sword and Shield, and is TM045 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Venoshock inflicts damage. Its power is doubled to 130 if the target is poisoned . Venoshock can also be used as part of a Contest Spectacular combination , giving an extra three points if any of the moves Poison Gas , Poison Powder , Toxic or Toxic Spikes was used in the prior turn. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Venoshock's power is doubled if the target has any status condition. Pokémon Legends: Arceus Category Special PP 15 Agile Strong Power 65 50 80 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect ? ? ? ? ? ? Power is doubled if the target has a status condition"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user drenches the target in a special poisonous liquid. Its power is doubled if the target is poisoned. X Y OR AS S M US UM P E Sw Sh BD SP S V The user drenches the target in a special poisonous liquid. This move's power is doubled if the target is poisoned. LA The user drenches the target in a special poisonous liquid to inflict damage. This move’s power is doubled if the target has a status condition."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Conq. The user drenches the target in a special poisonous liquid. Its power is doubled if the target is poisoned. MD GtI It damages an enemy. Its power goes up if the enemy is in the Poisoned or Badly Poisoned status. S MD It damages an enemy. Its power goes up if the enemy is poisoned or badly poisoned."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Venoshock has the highest base power of all Poison-type moves, excluding Z-Moves , but only if the target is poisoned."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Venoshock",
+    "Venoshock (move)"
+  ],
+  "updatedAt": 1773328269
+}

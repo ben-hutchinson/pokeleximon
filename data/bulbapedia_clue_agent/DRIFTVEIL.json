@@ -1,0 +1,123 @@
+{
+  "answerKey": "DRIFTVEIL",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4512906,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Unova location",
+        "evidence_ref": "lead",
+        "specificity": 0.5
+      },
+      {
+        "text": "city landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "house landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "cave landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "forest landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "route landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "tunnel landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "tower landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "ancient ruins",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      },
+      {
+        "text": "urban landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "tower landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.74
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Ancient regional ruins",
+        "evidence_ref": "lead",
+        "mystery_score": 0.64,
+        "specificity_score": 0.72,
+        "style": "theme"
+      },
+      {
+        "text": "Unova landmark",
+        "evidence_ref": "lead",
+        "mystery_score": 0.38,
+        "specificity_score": 0.5,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Unova city",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.7,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Regional city",
+        "evidence_ref": "lead",
+        "mystery_score": 0.44,
+        "specificity_score": 0.62,
+        "style": "taxonomy"
+      },
+      {
+        "text": "City in Unova",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.66,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Urban landmark",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "theme"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "ancient ruins"
+    ],
+    "connections_descriptors": [
+      "Ruins",
+      "Unova landmarks",
+      "Unova citys"
+    ],
+    "risk_flags": [],
+    "confidence": 0.77
+  },
+  "updatedAt": 1774257941
+}

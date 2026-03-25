@@ -1,0 +1,34 @@
+{
+  "answerKey": "ABILITYSHIELD",
+  "answerDisplay": "ABILITY SHIELD",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Ability Shield",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ability_Shield",
+  "pageId": 279841,
+  "pageRevisionId": 4397209,
+  "leadText": "Ability Shield (Japanese: とくせいガード Ability Guard) is a type of item introduced in Generation IX.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] This Ability effect may be in need of research. Reason: If a Pokémon whose Ability has already been suppressed by Gastro Acid obtains an Ability Shield, is the Ability suppression removed permanently (i.e. even if the Pokémon loses the Ability Shield), temporarily (i.e. only while holding the Ability Shield), or does it remain in place? You can discuss this on the talk page. The Ability Shield prevents the holder's Ability from being changed or suppressed by any effect, even if the effect is directly caused by the holder (such as by Role Play or Trace ). It also protects the holder from effects that ignore Abilities . For instance, if a Pokémon with Clear Body or Big Pecks is holding an Ability Shield and a Pokémon with Mold Breaker uses Leer , its Defense will not be lowered. If a Pokémon with an Ability Shield transforms into another Pokémon (either by using the move Transform or using the Ability Imposter ) it will still copy the opponent's Ability. This copied Ability will then be protected."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V An item to be held by a Pokémon. This cute and rather unique-looking shield protects the holder from having its Ability changed by others."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price S V $ 20,000 $ 5,000 Effect [ edit | edit source ] This Ability effect may be in need of research. Reason: If a Pokémon whose Ability has already been suppressed by Gastro Acid obtains an Ability Shield, is the Ability suppression removed permanently (i.e. even if the Pokémon loses the Ability Shield), temporarily (i.e. only while holding the Ability Shield), or does it remain in place? You can discuss this on the talk page. The Ability Shield prevents the holder's Ability from being changed or suppressed by any effect, even if the effect is directly caused by the holder (such as by Role Play or Trace ). It also protects the holder from effects that ignore Abilities . For instance, if a Pokémon with Clear Body or Big Pecks is holding an Ability Shield and a Pokémon with Mold Breaker uses Leer , its Defense will not be lowered. If a Pokémon with an Ability Shield transforms into another Pokémon (either by using the move Transform or using the Ability Imposter ) it will still copy the opponent's Ability. This copied Ability will then be protected. Description [ edit | edit source ] Games Description S V An item to be held by a Pokémon. This cute and rather unique-looking shield protects the holder from having its Ability changed by others. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods S V Delibird Presents ( Mesagoza Branch)"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ability-Shield",
+    "Ability Shield",
+    "Ability-Shield (item)"
+  ],
+  "updatedAt": 1773320624
+}

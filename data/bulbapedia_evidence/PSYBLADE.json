@@ -1,0 +1,33 @@
+{
+  "answerKey": "PSYBLADE",
+  "answerDisplay": "PSYBLADE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Psyblade (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Psyblade_(move)",
+  "pageId": 281866,
+  "pageRevisionId": 4433877,
+  "leadText": "Psyblade (Japanese: サイコブレイド Psycho Blade) is a damage-dealing Psychic-type move introduced during Generation IX. It is the signature move of Iron Leaves.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Psyblade inflicts damage. If there is Electric Terrain on the field, its base power is increased to 120, whether or not the user is grounded . If used by a Pokémon with Sharpness , its power is increased by 50%."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user rends the target with an ethereal blade. This move's power is boosted by 50 percent if the user is on Electric Terrain."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Among the signature moves of the six Paradox Pokémon connected to Legendary Pokémon , Psyblade is the only one to not match its user 's primary type , namely Grass . Psyblade is the only non- Electric-type move to benefit from a power boost from Electric Terrain ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Psyblade",
+    "Psyblade (move)"
+  ],
+  "updatedAt": 1773326076
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "PAYDAY",
+  "answerDisplay": "PAY DAY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Pay Day (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Pay_Day_(move)",
+  "pageId": 3614,
+  "pageRevisionId": 4503550,
+  "leadText": "Pay Day (Japanese: ネコにこばん Coin for a Cat) is a damage-dealing Normal-type move introduced in Generation I. In Generations II and III, it was the signature move of Meowth and Persian, and from Generations IV to VI, it was the signature move of Meowth. It is: TM16 in Generation I. TM57 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TM02 in Pokémon Sword and Shield. TM116 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generation III to V 1.4 Generation VI 1.5 Generation VII Effect [ edit | edit source ] This move effect may be in need of research. Reason: What is the maximum amount of money available per battle from Pay Day in all generations? You can discuss this on the talk page. Pay Day deals damage and scatters coins on the ground. The amount of coins increases directly with the user's level . If the player wins the battle or ends a wild encounter with a move that forces the opponent to flee (such as Roar or Dragon Tail ), they will pick up all the scattered coins and receive the money amount. The amount of money from Pay Day is doubled if any of the player's Pokémon takes part in battle while holding an Amulet Coin or Luck Incense ; however, this effect can only be applied once, regardless of how many additional Pokémon hold these items. Having more than one Pokémon holding the items does not increase the money amount any further. No money is obtained if: Either side flees or Teleports , unless the player forces the wild Pokémon to flee. The player loses or blacks out . The wild Pokémon ends the battle with a move that forces the player to flee . The wild Pokémon is caught . The battle is a link battle, Max Raid Battle , or Tera Raid Battle , or is part of a battle facility . Generation I [ edit | edit source ] Pay Day scatters coins with a value equal to twice the user's level (at the time the move was used), up to 200 coins if the user is level 100. Pay Day will normally scatter coins when it hits a substitute , but fails to do so if it breaks the substitute. In this generation, the maximum amount of Pay Day coins allowed per battle is $ 999,999. After this, the game still states that coins are scattered with every use of Pay Day, but the value of coins stored by the game will not increase any further. At the end of the battle, the player picks up all coins that were scattered by both their own Pokémon and opposing Pokémon. Generation II [ edit | edit source ] This move effect may be in need of research. Reason: Is money received when a wild Pokémon escapes? (such as wild Magnemite, Grimer, Cubone, etc.) You can discuss this on the talk page. Pay Day now scatters coins even if the move breaks a substitute. Generation III to V [ edit | edit source ] This move effect may be in need of research. Reason: Does the Amulet Coin error occur in Pokémon Colosseum and XD? You can discuss this on the talk page. Pay Day now scatters coins equal to five times the user's level each time. The player can now only pick up coins that were scattered by their own Pokémon. Pay Day hitting a substitute will no longer scatter coins (even if the substitute breaks). Generation VI [ edit | edit source ] If the user levels up during battle, the amount of money collected is now calculated based on the new level, not the level at which the move was used. If Pay Day is used by a Pokémon with Parental Bond (e.g. by using Skill Swap ), coins are only scattered on the first hit. Happy Hour increases the amount of money picked up. Prize Money Power increases the amount of money picked up. Generation VII [ edit | edit source ] This move effect may be in need of research. Reason: In Sun/Moon, is the Lusamine fight in Ultra Space (which does not offer money) affected by Pay Day? You can discuss this on the talk page."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A move that also nets money at the end of battle. How much depends on the attack frequency and level. Stad2 A move that nets money at the end of battle. How much depends on the attack frequency and level. G S C Throws coins. Gets them back later. R S E Throws coins at the foe. Money is recovered after. Colo XD Throws coins at target. Money is recovered after. FR LG Numerous coins are hurled at the foe. Money is earned after battle. D P Pt HG SS Numerous coins are hurled at the foe to inflict damage. Money is earned after battle. PBR Numerous coins are hurled at the foe to inflict damage. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA Numerous coins are hurled at the target to inflict damage. Money is earned after the battle. S V Coins are hurled at the target to inflict damage. Money is earned after the battle. ZA The user attacks by hurling coins at targets. If a target is successfully struck, you will earn money."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. If the foe faints, it will drop money. MD T D S Inflicts damage on the target. The enemy will drop money if it faints. B S L てきポケモンに ダメージをあたえる このわざで たおれたポケモンは おかねを おとす MD GtI UNUSED S MD If you defeat an enemy with this move, the enemy will drop . MD RT DX If you defeat an enemy with this move, the enemy will drop money. However, enemies you defeat while you're in a maze won't drop any money!"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The Japanese name of the move is an idiom equivalent to \"to cast pearls before swine .\" The coins depicted in the move's animation are koban , gold coins used in the Edo period of feudal Japan , the same type of coin as the one on Meowth 's head. In Generation I , Pay Day was one of only three methods (discounting glitches ) to earn money once all Trainers were defeated, the other two being selling items (obtaining them with Coins after all other items are sold) and battling the Elite Four and Champion . In Generation I, Pay Day can be used to obtain up to $ 999,999 per battle. However, this maximum amount would require using this move at least 5000 times in the same battle. For instance, obtaining the maximum amount of money in a single battle is achievable in this generation by using a Mew with Pay Day, Rest , and Transform against a wild Ditto . Once Ditto transforms into Mew, they will both have the same moveset, including Pay Day, as well as Rest to restore their own HP . The opponent has infinite PP by default, while the player's Pokémon can indefinitely restore its own PP by repeatedly transforming into the opponent and obtaining its moves again."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Pay-Day",
+    "Pay Day",
+    "Pay-Day (move)"
+  ],
+  "updatedAt": 1773325679
+}

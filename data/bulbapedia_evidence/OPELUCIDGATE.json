@@ -1,0 +1,26 @@
+{
+  "answerKey": "OPELUCIDGATE",
+  "answerDisplay": "OPELUCID GATE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Gate",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Gate",
+  "pageId": 50784,
+  "pageRevisionId": 4468663,
+  "leadText": "Gates (Japanese: ゲート gate) are prominent locations found within the Pokémon world. They are locations in which two other locations (typically routes or civilizations such as towns and cities) are connected, acting as a checkpoint. Usually gates have no wild Pokémon, but wild Pokémon and Trainer battles may appear in scripted events. Gates are normally on land, but may also be used for travel around an existing region. Such locations include ferry terminals, train stations, and airports. Starting with Pokémon Legends: Arceus, gates have been absent from the core series, although similar functionality is found at Jubilife Village, Mesagoza, and the Naranja and Uva Academies.",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Due to their design, the gates in the Sevii Islands are the only ones that have their supporting pillars built on water. They are also the only gates that have a single access point, given that they are the gates of the islands' ports, with one common entrance and exit for the Seagallop Ferries . These gates are all headed north as well. In Black 2 and White 2 , if the player uses the Unova Link to swap their Black City B2 / White Forest W2 for the opposite version's equivalent, the text and images on the bulletin boards in the Black Gates B2 /White Gates W2 will change accordingly. However, the gates themselves will not, and as such if the player calls their Mom on the Xtransceiver and asks her about the gates, she will incorrectly state they lead into Black City B2 /White Forest W2 ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Opelucid-Gate",
+    "Opelucid Gate",
+    "Opelucid-Gate (location)"
+  ],
+  "updatedAt": 1773325517
+}

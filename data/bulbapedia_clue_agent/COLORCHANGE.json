@@ -1,0 +1,67 @@
+{
+  "answerKey": "COLORCHANGE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4491411,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Color Change (Japanese: Color Change) is an Ability introduced in Generation III. It is the signature Ability of Kecleon.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Changes the Pokemon's type to that of the move that hit it last. MD T D S Changes the Pokemon's type to match that of the move that hit it last. B S L MD GtI When the Pokemon is damaged by a move, its type changes to match the type of that move. * When it's damaged by a move, the Pokemon's type changes to the type of the move that damaged it! * S MD When it's damaged by a move, the Pokemon's type changes to the type of the move that damaged it! MD RT DX When it's damaged by a move, the Pokemon changes type to the type of the move that damaged it. The Pokemon will return to its original type when it goes to a different floor.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations III and IV 1.1.2 Generation V onwards 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with this Ability is hit by a damage-dealing move (with some exceptions mentioned below), the Pokemon's types will be changed to the type of the move that it was hit by. Even if the Pokemon with Color Change has two types, it will only have a single type after the effect is applied. Color Change does not activate if the Pokemon is hit by a move of the same type as itself, even if the Pokemon has two or three types (the latter from Forest's Curse or Trick-or-Treat ). Color Change does not activate if the Pokemon's substitute is hit. If a Pokemon with this Ability is hit by Weather Ball during shadowy aura , it will become Normal-type . Status conditions are inflicted before Color Change activates. As a result, even if Color Change would make the Pokemon become a type that is immune to the status condition, the Pokemon can still be afflicted with the status condition; for example, a Pokemon with Color Change that is hit by Poison Sting has a chance to be poisoned before it becomes Poison-type . Color Change is not activated by Struggle , Shadow moves , Stellar moves, Pain Split , or a typeless Revelation Dance . It will also not activate if the Pokemon is affected by Forest's Curse or Trick-or-Treat and is hit by a Grass or Ghost-type move, respectively. Generations III and IV [ edit | edit source ] Color Change will activate after the first hit of a multistrike move . Future Sight and Doom Desire do not activate Color Change. Generation V onwards [ edit | edit source ] Color Change now activates after the last hit of a multistrike move. Future Sight and Doom Desire now activate Color Change when they hit (they do not activate Color Change when used). Outside of battle [ edit | edit source ] Color Change has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with this Ability is hit by a damage-dealing move (with some exceptions mentioned below), the Pokemon's types will be changed to the type of the move that it was hit by. Even if the Pokemon with Color Change has two types, it will only have a single type after the effect is applied. Color Change does not activate if the Pokemon is hit by a move of the same type as itself, even if the Pokemon has two or three types (the latter from Forest's Curse or Trick-or-Treat ). Color Change does not activate if the Pokemon's substitute is hit. If a Pokemon with this Ability is hit by Weather Ball during shadowy aura , it will become Normal-type . Status conditions are inflicted before Color Change activates. As a result, even if Color Change would make the Pokemon become a type that is immune to the status condition, the Pokemon can still be afflicted with the status condition; for example, a Pokemon with Color Change that is hit by Poison Sting has a chance to be poisoned before it becomes Poison-type . Color Change is not activated by Struggle , Shadow moves , Stellar moves, Pain Split , or a typeless Revelation Dance . It will also not activate if the Pokemon is affected by Forest's Curse or Trick-or-Treat and is hit by a Grass or Ghost-type move, respectively. Generations III and IV [ edit | edit source ] Color Change will activate after the first hit of a multistrike move . Future Sight and Doom Desire do not activate Color Change. Generation V onwards [ edit | edit source ] Color Change now activates after the last hit of a multistrike move. Future Sight and Doom Desire now activate Color Change when they hit (they do not activate Color Change when used).",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Changes type to match when hit by a damaging move.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Weather abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257936
+}

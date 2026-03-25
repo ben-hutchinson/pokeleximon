@@ -1,0 +1,30 @@
+{
+  "answerKey": "BONDBRIDGE",
+  "answerDisplay": "BOND BRIDGE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Bond Bridge",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bond_Bridge",
+  "pageId": 13011,
+  "pageRevisionId": 4227186,
+  "leadText": "Bond Bridge (Japanese: きずなばし Bond Bridge) is an area of the Sevii Islands located on Three Island, connecting its two \"parent\" and \"child\" islands. It has a few Trainers in it, and many patches of tall grass, but it is an easy walk between Three Island and Berry Forest.",
+  "sections": [
+    {
+      "title": "Route description",
+      "text": "Route description [ edit | edit source ] Leaving the town of Three Island through its western entrance, Trainers can follow the path presented before them all the way up the small hill, or if they have a Pokémon with Cut on them, can take a shortcut. After finding some way to get around this obstacle, Trainers will walk across a beach to a small bridge across to an islet with the entrance to Berry Forest."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Max Repel On the rock northwest of Aroma Lady Violet (hidden) FR LG Pearl In the corner southwest of Tuber Alexis (hidden recurring item ; group B) FR LG Stardust One square west and two squares north of the northwest corner of the bridge (hidden recurring item ; group B) FR LG"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Bond-Bridge",
+    "Bond Bridge",
+    "Bond-Bridge (location)"
+  ],
+  "updatedAt": 1774213704
+}

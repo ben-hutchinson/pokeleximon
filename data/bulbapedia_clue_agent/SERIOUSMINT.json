@@ -1,0 +1,111 @@
+{
+  "answerKey": "SERIOUSMINT",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4503750,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "nature mints",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen VIII nature mints",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Effect [ edit | edit source ] If used from the Bag , it changes the effect of a Pokemon's Nature on its stats to that of the Serious Nature, neither increasing nor decreasing any stat.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Makes every stat grow equally",
+        "evidence_ref": "lead",
+        "specificity": 0.88
+      },
+      {
+        "text": "Nature-changing mint",
+        "evidence_ref": "lead",
+        "specificity": 0.74
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Nature-changing mint",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.82,
+        "style": "family"
+      },
+      {
+        "text": "Stat-nature mint",
+        "evidence_ref": "lead",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "family"
+      },
+      {
+        "text": "Mint that changes natures",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "family"
+      },
+      {
+        "text": "Nature-changing mint",
+        "evidence_ref": "lead",
+        "mystery_score": 0.7,
+        "specificity_score": 0.8,
+        "style": "family"
+      },
+      {
+        "text": "Stat-nature mint",
+        "evidence_ref": "lead",
+        "mystery_score": 0.64,
+        "specificity_score": 0.76,
+        "style": "family"
+      },
+      {
+        "text": "Mint that changes natures",
+        "evidence_ref": "lead",
+        "mystery_score": 0.6,
+        "specificity_score": 0.74,
+        "style": "family"
+      },
+      {
+        "text": "Even-stat nature changer",
+        "evidence_ref": "lead",
+        "mystery_score": 0.76,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Makes every stat grow evenly",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.86,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "nature mint"
+    ],
+    "connections_descriptors": [
+      "Nature mints",
+      "Gen VIII items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774258009
+}

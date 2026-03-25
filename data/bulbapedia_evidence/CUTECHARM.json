@@ -1,0 +1,34 @@
+{
+  "answerKey": "CUTECHARM",
+  "answerDisplay": "CUTE CHARM",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Cute Charm (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Cute_Charm_(Ability)",
+  "pageId": 4132,
+  "pageRevisionId": 4513813,
+  "leadText": "Cute Charm (Japanese: メロメロボディ Mad Love Body) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV onward 1.1.3 Generation IX 1.2 Outside of battle 1.2.1 Generation IV 1.2.1.1 Effects on personality value 1.2.2 Generation VIII 1.2.3 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokémon with this Ability is hit by a move that makes contact from a Pokémon of the opposite gender , there is a 1/3 chance that the attacking Pokémon will become infatuated . If either Pokémon is a gender-unknown Pokémon (such as Magnemite ), this Ability will not activate. If a Pokémon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), each hit has an independent chance to activate this Ability. Generation IV onward [ edit | edit source ] The chance for Cute Charm to infatuate is lowered to 30%. Generation IX [ edit | edit source ] Unlike in Max Raid Battles from Generation VIII, Cute Charm does not affect opponents in Tera Raid Battles regardless of their gender, since Tera Raid Battle opponents are immune to infatuation . Outside of battle [ edit | edit source ] From Pokémon Emerald onwards, if a Pokémon with Cute Charm is in the first place in the party (even if fainted ), there is a 66.7% chance that the game will force an encountered Pokémon to be the opposite gender to the Pokémon with Cute Charm if it can be that gender. This does not affect a swarming Pokémon species (except in Generation IV ) or Pokémon found in Hidden Grottoes . Generation IV [ edit | edit source ] Effects on personality value [ edit | edit source ] In Generation IV only, when Cute Charm forces a Pokémon to be a specific gender, it does so by setting its personality value to one out of 25 possible values that correspond to the forced gender (one value per nature ). The set of possible values depends on the gender of the Pokémon with Cute Charm, and, if the Pokémon with Cute Charm is female, the wild Pokémon's gender ratio . This has significant consequences for properties determined by personality value. As a result, when the encountered species can be affected by Cute Charm (i.e., when it is not a male-only, female-only, or gender-unknown species), the chances of encountering a Shiny Pokémon differ from the usual 1/8192, depending on how many of the 25 possible values forced by Cute Charm result in a Shiny Pokémon (in conjunction with the Trainer ID number and secret ID number ): they may be as low as 1/24576 (if none of the 25 values forced by Cute Charm result in Shiny Pokémon, so the Pokémon can only be Shiny if Cute Charm fails), or as high as 21.34% (if 8 out of the 25 values forced by Cute Charm result in Shiny Pokémon). Also, the lower the difference between the Trainer ID number and secret ID number, the higher the Shiny encounter chances. Additionally, Spinda whose gender has been forced by Cute Charm in Generation IV only have one of 50 patterns (25 for male, 25 for female). Generation VIII [ edit | edit source ] In Pokémon Sword and Shield , the chance is 66% instead. Generation IX [ edit | edit source ] In Pokémon Scarlet and Violet , this Ability has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "Contents 1 In battle 1.1 Generation III 1.2 Generation IV onward 1.3 Generation IX In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokémon with this Ability is hit by a move that makes contact from a Pokémon of the opposite gender , there is a 1/3 chance that the attacking Pokémon will become infatuated . If either Pokémon is a gender-unknown Pokémon (such as Magnemite ), this Ability will not activate. If a Pokémon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), each hit has an independent chance to activate this Ability. Generation IV onward [ edit | edit source ] The chance for Cute Charm to infatuate is lowered to 30%. Generation IX [ edit | edit source ] Unlike in Max Raid Battles from Generation VIII, Cute Charm does not affect opponents in Tera Raid Battles regardless of their gender, since Tera Raid Battle opponents are immune to infatuation ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Causes attackers to become infatuated. MD T D Makes an attacker who lands a direct-contact attack become infatuated. MD S Makes an attacker of the opposite gender who lands a direct attack infatuated. B S L こうげきしてきた いせいの ポケモンを メロメロじょうたいに してしまう MD GtI May inflict the Infatuated status condition on the attacker who hits it with a direct attack. * When the Pokémon is hit with a direct attack like Tackle or Scratch, the attacker is sometimes afflicted with the Infatuated status condition! * S MD When the Pokémon is hit with a contact move like Tackle or Scratch, the attacker sometimes gets infatuated! MD RT DX When the Pokémon is hit with a contact move, like Tackle or Scratch, the attacker sometimes gets Infatuated."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Cute-Charm",
+    "Cute Charm",
+    "Cute-Charm (Ability)"
+  ],
+  "updatedAt": 1774213858
+}

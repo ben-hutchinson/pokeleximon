@@ -1,0 +1,34 @@
+{
+  "answerKey": "FLASHFIRE",
+  "answerDisplay": "FLASH FIRE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Flash Fire (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Flash_Fire_(Ability)",
+  "pageId": 4095,
+  "pageRevisionId": 4499423,
+  "leadText": "Flash Fire redirects here. For the TCG expansion, see Flashfire (TCG). Flash Fire (Japanese: もらいび Catching on Fire) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV 1.1.3 Generation V onwards 1.2 Outside of battle 1.2.1 Generation VIII 1.2.2 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] Generation III [ edit | edit source ] Flash Fire makes the Pokémon immune to Fire-type moves and will activate when hit by one. When activated, the power of the Pokémon's Fire-type moves is increased by 50%. While subsequent hits by Fire-type moves will not provide further increases in power, the Pokémon remains immune to the moves. Flash Fire will not activate if the Pokémon is protected from the Fire-type move. Flash Fire will not work while the user is frozen . Flash Fire's boost is not passed with Baton Pass . Generation IV [ edit | edit source ] Instead of boosting Fire-type moves' power, Flash Fire now technically boosts the Pokémon's Attack or Special Attack by 50% during damage calculation if a Fire-type move is being used, resulting in effectively the same effect. Flash Fire can be activated by Will-O-Wisp . Generation V onwards [ edit | edit source ] Flash Fire is now functional even if the user is frozen . The Pokémon will not be thawed out, however. Outside of battle [ edit | edit source ] Generation VIII [ edit | edit source ] In Pokémon Sword and Shield , if a Pokémon with Flash Fire is in the first place in the party (even if fainted ), there is a 51% chance the game will force an encounter with a Fire-type Pokémon, if one is possible. In Pokémon Brilliant Diamond and Shining Pearl , the chance is 50%. Generation IX [ edit | edit source ] In Pokémon Scarlet and Violet , this Ability has no effect outside of battle, with its former field function effectively being replaced by Meal Powers ."
+    },
+    {
+      "title": "In battle",
+      "text": "Contents 1 In battle 1.1 Generation III 1.2 Generation IV 1.3 Generation V onwards In battle [ edit | edit source ] Generation III [ edit | edit source ] Flash Fire makes the Pokémon immune to Fire-type moves and will activate when hit by one. When activated, the power of the Pokémon's Fire-type moves is increased by 50%. While subsequent hits by Fire-type moves will not provide further increases in power, the Pokémon remains immune to the moves. Flash Fire will not activate if the Pokémon is protected from the Fire-type move. Flash Fire will not work while the user is frozen . Flash Fire's boost is not passed with Baton Pass . Generation IV [ edit | edit source ] Instead of boosting Fire-type moves' power, Flash Fire now technically boosts the Pokémon's Attack or Special Attack by 50% during damage calculation if a Fire-type move is being used, resulting in effectively the same effect. Flash Fire can be activated by Will-O-Wisp . Generation V onwards [ edit | edit source ] Flash Fire is now functional even if the user is frozen . The Pokémon will not be thawed out, however."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Zeroes damage from Fire-type move hits, and boosts own Fire moves. MD T D S Lets Pokémon avoid damage of Fire-type attacks, then boosts its own Fire-type attacks. B S L ほのおタイプのわざを うけると ダメージがなく ほのお タイプの わざが つよくなる Conq. Raises Attack if hit by a Fire-type move. MD GtI Fire-type moves boost the power of the Pokémon's Fire-type moves instead of damaging it. * Not only will Fire-type moves not work on the Pokémon, they boost the power of its own Fire-type moves! * S MD Not only will Fire-type moves fail to work on the Pokémon, they will boost the power of its own Fire-type moves! MD RT DX The Pokémon will absorb Fire-type moves that are used on it, boosting the power of its own Fire-type moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Flash-Fire",
+    "Flash Fire",
+    "Flash-Fire (Ability)"
+  ],
+  "updatedAt": 1773328874
+}

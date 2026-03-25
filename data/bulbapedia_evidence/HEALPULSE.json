@@ -1,0 +1,38 @@
+{
+  "answerKey": "HEALPULSE",
+  "answerDisplay": "HEAL PULSE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Heal Pulse (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Heal_Pulse_(move)",
+  "pageId": 117501,
+  "pageRevisionId": 4431473,
+  "leadText": "Heal Pulse (Japanese: いやしのはどう Healing Pulse) is a non-damaging Psychic-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Heal Pulse restores up to 50% (75% if the user has Mega Launcher ) of the target's maximum HP . Heal Pulse bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . It can hit non-adjacent targets in Triple Battles . If either the user or target is affected by Heal Block , this move cannot be used. In this case, if there are no other usable moves (due to Disable , Choice Band , lack of PP , etc.), the user will use Struggle . It will fail if the target's HP stat is already full or if it is behind a substitute . If powered up by a Psychium Z into Z-Heal Pulse, all of the user's lowered stats are reset, and the target can be healed regardless of whether the user or target is affected by Heal Block ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS The user emits a healing pulse which restores the target's HP by up to half of its max HP. S M US UM P E Sw Sh BD SP LA The user emits a healing pulse that restores the target's HP by up to half of its max HP. S V The user emits a healing pulse that restores the target's HP by up to half its max HP."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It slightly restores even a distant Pokémon's HP. S MD MD RT DX It restores a distant Pokémon's HP."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as a TCG Attack . Heal Pulse is the only status aura and pulse move ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Heal-Pulse",
+    "Heal Pulse",
+    "Heal-Pulse (move)"
+  ],
+  "updatedAt": 1773323571
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "THUNDERWAVE",
+  "answerDisplay": "THUNDER WAVE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Thunder Wave (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Thunder_Wave_(move)",
+  "pageId": 3695,
+  "pageRevisionId": 4503755,
+  "leadText": "Thunder Wave (Japanese: でんじは Electromagnetic Wave) is a non-damaging Electric-type move introduced in Generation I. It is: TM45 in Generation I. TM73 from Generation IV to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TM16 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TM14 in Pokémon Sword and Shield. TM082 in Pokémon Scarlet and Violet. TM008 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generations III to V 1.4 Generation VI onwards 1.5 Generation VII onwards 1.6 Generation VIII 1.6.1 Pokémon Legends: Arceus 1.7 Generation IX 1.7.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I [ edit | edit source ] Thunder Wave has 100% accuracy and paralyzes the target. Thunder Wave takes types into consideration, so it cannot usually affect Ground-type Pokémon. This will take type changes into account, such as if Thunder Wave is affected by Normalize (which would make Ghost-type Pokémon immune to it). In the Generation I handheld games only, Thunder Wave can affect a target behind a substitute . Generation II [ edit | edit source ] In the Generation II core series games, when an in-game opponent outside of the Battle Tower uses Thunder Wave, the move has a 25% chance to fail. Generations III to V [ edit | edit source ] Thunder Wave can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Charge was used in the previous turn. It can also be used as part of a Contest Spectacular combination, causing Hex and Smelling Salts to give extra three appeal points if used in the next turn. Ground-type Pokémon holding a Ring Target can be affected by Thunder Wave. Generation VI onwards [ edit | edit source ] Thunder Wave can no longer paralyze Electric-type Pokémon, due to them being immune to paralysis. Generation VII onwards [ edit | edit source ] Thunder Wave's accuracy was lowered to 90%. If powered up by an Electrium Z into Z-Thunder Wave, the user's Special Defense stat is raised by one stage. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Status PP 20 Agile Strong Power — — — Accuracy 90% 90% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Turns 5 3 7 ? ? ? ? Inflicts the target with paralysis Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 10s Move wind-up time 15 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A special move that causes paralysis. When paralyzed, the victim has a one-in-four chance of immobility. Stad2 A special move that causes paralysis. The victim has a one-in-four chance of immobility. G S C A move that may cause paralysis. R S E A weak jolt of electricity that paralyzes the foe. FR LG A weak electric shock that is sure to cause paralysis if it hits. Colo XD A weak jolt of electricity that paralyzes the target. D P Pt HG SS PBR A weak electric charge is launched at the foe. It causes paralysis if it hits. B W B2 W2 A weak electric charge is launched at the target. It causes paralysis if it hits. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user launches a weak jolt of electricity that paralyzes the target. ZA The user launches a weak jolt of electricity to leave targets paralyzed."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Causes paralysis in the target. A Pokémon affected by paralysis is incapable of attacking or using moves. MD T D S Afflicts the target with a Paralysis status. A Pokémon with the Paralysis status condition has slowed movement and is incapable of action. B S L てきポケモンを まひじょうたいにかえる まひじょうたいの ポケモンは わざが だせない MD GtI It causes the Paralysis status condition to an enemy. With the Paralysis status, the enemy's Travel Speed goes down and it can't attack or use moves. S MD It inflicts paralysis on an enemy."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Thunder Wave is the only status move that takes the type chart into account. Consequently, it is the only status move that cannot hit Ground-type Pokémon (even when other status moves are affected by Electrify ). In Generations II and III, Glare also took the type chart into account. Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team and its remake Pokémon Mystery Dungeon: Rescue Team DX have a dungeon that shares the name with this move (though only partially in French, German and Korean versions): Thunderwave Cave . In the Japanese version, the kanji equivalent is 「電磁波」."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Thunder-Wave",
+    "Thunder Wave",
+    "Thunder-Wave (move)"
+  ],
+  "updatedAt": 1773327937
+}

@@ -1,0 +1,82 @@
+{
+  "answerKey": "MUMMY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4341823,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Mummy (Japanese: Mummy) is an Ability introduced in Generation V. It is the signature Ability of Yamask and Cofagrigus.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD GtI Changes the Ability of the Pokemon that hit it with a direct attack to Mummy. * When the Pokemon is hit with a direct attack like Tackle or Scratch, the attacker's Ability becomes Mummy! * S MD When the Pokemon is hit with a contact move like Vine Whip or Iron Tail, the attacker's Ability becomes Mummy!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Check if these Abilities are unaffected: Protosynthesis , Quark Drive , Orichalcum Pulse , Hadron Engine (also cf. Lingering Aroma ). You can discuss this on the talk page. When a Pokemon with Mummy is hit by a contact move, the attacker's Ability is changed to Mummy. The attacker regains its original Ability once it is switched out , faints , or the battle ends. If a Pokemon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), the attacking Pokemon's Ability will become Mummy after the first strike. If a Pokemon with Rock Head uses a recoil contact move on a Pokemon with Mummy, its Ability will become Mummy, then subsequently it will take recoil damage. If a Pokemon with Parental Bond uses a contact move on a Pokemon with Mummy, the Pokemon's Ability will become Mummy after the first strike, then the current move will continue to strike a second time regardless. If a Pokemon with Skill Link uses a multistrike contact move on a Pokemon with Mummy, the Pokemon's Ability will become Mummy after the first strike, then the current move will continue to strike the maximum number of times regardless. As One , Battle Bond , Comatose , Commander , Disguise , Gulp Missile , Ice Face , Lingering Aroma , Multitype , Power Construct , RKS System , Schooling , Shields Down , Stance Change , Zen Mode , Zero to Hero , and Mummy itself are not affected by Mummy. Outside of battle [ edit | edit source ] Mummy has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Check if these Abilities are unaffected: Protosynthesis , Quark Drive , Orichalcum Pulse , Hadron Engine (also cf. Lingering Aroma ). You can discuss this on the talk page. When a Pokemon with Mummy is hit by a contact move, the attacker's Ability is changed to Mummy. The attacker regains its original Ability once it is switched out , faints , or the battle ends. If a Pokemon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), the attacking Pokemon's Ability will become Mummy after the first strike. If a Pokemon with Rock Head uses a recoil contact move on a Pokemon with Mummy, its Ability will become Mummy, then subsequently it will take recoil damage. If a Pokemon with Parental Bond uses a contact move on a Pokemon with Mummy, the Pokemon's Ability will become Mummy after the first strike, then the current move will continue to strike a second time regardless. If a Pokemon with Skill Link uses a multistrike contact move on a Pokemon with Mummy, the Pokemon's Ability will become Mummy after the first strike, then the current move will continue to strike the maximum number of times regardless. As One , Battle Bond , Comatose , Commander , Disguise , Gulp Missile , Ice Face , Lingering Aroma , Multitype , Power Construct , RKS System , Schooling , Shields Down , Stance Change , Zen Mode , Zero to Hero , and Mummy itself are not affected by Mummy.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Changes attacking Pokemon's abilities to Mummy on contact.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "Description",
+        "specificity": 0.86
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "Description",
+        "mystery_score": 0.76,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Damages foes on contact KO",
+        "evidence_ref": "Description",
+        "mystery_score": 0.7,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Contact-backlash trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "contact backlash",
+      "contact punisher"
+    ],
+    "connections_descriptors": [
+      "Contact-punishing abilities",
+      "Gen V abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257980
+}

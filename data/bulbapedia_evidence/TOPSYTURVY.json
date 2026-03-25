@@ -1,0 +1,34 @@
+{
+  "answerKey": "TOPSYTURVY",
+  "answerDisplay": "TOPSY TURVY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Topsy-Turvy (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Topsy-Turvy_(move)",
+  "pageId": 180351,
+  "pageRevisionId": 4500857,
+  "leadText": "Topsy-Turvy redirects here. For the mini-game in Pokémon Stadium 2, see Pokémon Stadium series mini-games → In Pokémon Stadium 2. Topsy-Turvy (Japanese: ひっくりかえす Flip) is a non-damaging Dark-type move introduced in Generation VI. Prior to Generation VIII, it was the signature move of Inkay and Malamar.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VI 1.2 Generation VII onwards 1.3 Generation VIII 1.3.1 Pokémon Brilliant Diamond and Shining Pearl 1.4 Generation IX 1.4.1 Pokémon Scarlet and Violet 1.5 Generation IX 1.5.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation VI [ edit | edit source ] Topsy-Turvy reverses all stat modifiers on the target Pokémon, making positive changes negative and vice versa. If all the target's stat stages are neutral (equal to 0), Topsy-Turvy fails. In this generation, Topsy-Turvy has an accuracy of 100. Topsy-Turvy does not reverse stat changes that are not based on stat stages, e.g. the Speed drop from paralysis . Because Topsy-Turvy changes stats rather than raising or lowering them, it is unaffected by effects such as Mist or Abilities such as Simple , Contrary , and Clear Body . It does not activate Defiant or Competitive . Generation VII onwards [ edit | edit source ] Topsy-Turvy now bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . If powered up by a Darkinium Z into Z-Topsy-Turvy, the user's Attack stat rises by one stage. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Topsy-Turvy cannot be selected in a battle. Generation IX [ edit | edit source ] Pokémon Scarlet and Violet [ edit | edit source ] In Versions 1.0 to 2.0.2 of Pokémon Scarlet and Violet , Topsy-Turvy could not be selected in a battle. Starting with Version 3.0.0, it is usable and functions the same as it did in previous generations. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 10s Move wind-up time 10 frames 1 frame Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh LA S V All stat changes affecting the target turn topsy-turvy and become the opposite of what they were. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. ZA The user turns all the stat changes affecting targets topsy-turvy so that they become the opposite of what they were."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It reverses stat changes of a target. * It reverses any changes in Attack, Sp. Atk, Defense, Sp. Def, accuracy, and evasiveness of the Pokémon in front of you. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Topsy-Turvy",
+    "Topsy Turvy",
+    "Topsy-Turvy (move)"
+  ],
+  "updatedAt": 1773328003
+}

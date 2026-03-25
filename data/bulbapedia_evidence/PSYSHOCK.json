@@ -1,0 +1,37 @@
+{
+  "answerKey": "PSYSHOCK",
+  "answerDisplay": "PSYSHOCK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Psyshock (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Psyshock_(move)",
+  "pageId": 117289,
+  "pageRevisionId": 4462292,
+  "leadText": "Psyshock (Japanese: サイコショック Psycho Shock) is a damage-dealing Psychic-type move introduced in Generation V. It is: It is TM03 from Generation V to Pokémon Ultra Sun and Ultra Moon. TR25 in Pokémon Sword and Shield. TM054 in Pokémon Scarlet and Violet. TM003 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] This move effect may be in need of research. Reason: Check whether this move takes into account stat modifiers inconsistently, as with Foul Play and Body Press : stat stage modifiers of the target's Defense and non-stage stat modifiers of its Special Defense. You can discuss this on the talk page. Psyshock inflicts damage. Psyshock uses the target's Defense instead of its Special Defense to calculate damage. Otherwise, it is considered a special move: it uses the user's Special Attack , activates Mirror Coat and Maranga Berry (not Counter or Kee Berry ), has its damage reduced by Light Screen (not Reflect ), etc. It does not activate Toxic Debris . Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 80 96 Cooldown 8s Move wind-up time 20 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user materializes an odd psychic wave to attack the target. This attack does physical damage. S V The user materializes an odd psychic wave to attack the target. This move deals physical damage. ZA The user attacks by materializing a mysterious psychic wave. This move deals physical damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Conq. The user materializes an odd psychic wave to attack the target. This attack does physical damage. MD GtI This is a special move, but it won't be affected by the enemy's Special Defense. * It damages an enemy. This move is a special attack, but the enemy's Defense stat determines damage instead of its Special Defense stat. * S MD It damages an enemy. This move is a special attack, but the damage is determined by the enemy's Defense stat rather than its Sp. Def stat. MD RT DX It damages an enemy. The damage is determined by the enemy's Defense stat."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Psyshock is an attack that has appeared as the translated name of ねんりき Nenriki on many English trading cards in the Pokémon Trading Card Game since Generation I (starting with Base Set Abra ), long before its actualization as a move in Generation V . Its effect induces paralysis. Since the introduction of Psyshock, ねんりき Nenriki was translated as Psy Bolt, to match ちょうねんりき Chōnenriki being translated as Super Psy Bolt. Out of the three moves that deal physical damage despite being special-based, Psyshock is the only one that is not a signature move . Psyshock has the same description text as Psystrike . In Conquest , this move has the same description as in Generation V of the core series, including the mention of it dealing physical damage. However, the split of physical and special damage does not exist in Conquest - there is only one attack stat and one defense stat, so all damage is in the same, single category."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Psyshock",
+    "Psyshock (move)"
+  ],
+  "updatedAt": 1773326103
+}

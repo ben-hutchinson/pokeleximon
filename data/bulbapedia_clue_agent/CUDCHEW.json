@@ -1,0 +1,52 @@
+{
+  "answerKey": "CUDCHEW",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4505174,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Cud Chew (Japanese: Cud Chew) is an Ability introduced in Generation IX.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Version 1.3 of SV corrected a glitch where Cud Chew would activate every other turn. Can multiple berries simultaneously be in the queue to be re-eaten? You can discuss this on the talk page. If a Pokemon with Cud Chew eats a Berry or is affected by a Flung Berry, its effect will activate again at the end of the next turn.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Version 1.3 of SV corrected a glitch where Cud Chew would activate every other turn. Can multiple berries simultaneously be in the queue to be re-eaten? You can discuss this on the talk page. If a Pokemon with Cud Chew eats a Berry or is affected by a Flung Berry, its effect will activate again at the end of the next turn.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Causes the Pokemon to reuse an already consumed Berry at the end of the next turn.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257938
+}

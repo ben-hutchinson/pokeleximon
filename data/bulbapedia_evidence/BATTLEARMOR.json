@@ -1,0 +1,34 @@
+{
+  "answerKey": "BATTLEARMOR",
+  "answerDisplay": "BATTLE ARMOR",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Battle Armor (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Battle_Armor_(Ability)",
+  "pageId": 4081,
+  "pageRevisionId": 4512188,
+  "leadText": "Battle Armor (Japanese: カブトアーマー Kabuto Armor) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Battle Armor prevents the Pokémon from receiving a critical hit , even from moves that normally always land one, namely Frost Breath , Storm Throw , Wicked Blow , Surging Strikes , Flower Trick , and any move boosted by Merciless (if the Pokémon is poisoned ) or Laser Focus . Outside of battle [ edit | edit source ] Battle Armor has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Battle Armor prevents the Pokémon from receiving a critical hit , even from moves that normally always land one, namely Frost Breath , Storm Throw , Wicked Blow , Surging Strikes , Flower Trick , and any move boosted by Merciless (if the Pokémon is poisoned ) or Laser Focus ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Blocks critical hits. MD T D S Blocks critical hits on the Pokémon. B S L こうげきを きゅうしょに うけない Conq. The Pokémon is protected against critical hits. MD GtI Unavailable S MD Moves don't hit the Pokémon critically! Never ever! MD RT DX Moves are never critical hits against this Pokémon."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Battle-Armor",
+    "Battle Armor",
+    "Battle-Armor (Ability)"
+  ],
+  "updatedAt": 1774213616
+}

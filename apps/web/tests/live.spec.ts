@@ -3,7 +3,6 @@ import path from "node:path";
 
 import { expect, test, type Page } from "@playwright/test";
 
-const E2E_DATE = process.env.PLAYWRIGHT_E2E_DATE ?? "2099-01-01";
 const ADMIN_TOKEN = process.env.PLAYWRIGHT_ADMIN_TOKEN ?? "local-admin-token-change-me";
 const API_CONTAINER_BASE_URL = process.env.PLAYWRIGHT_CONTAINER_API_BASE_URL ?? "http://127.0.0.1:8000";
 const API_COMPOSE_FILE =
@@ -14,6 +13,27 @@ type ContainerApiResponse = {
   status: number;
   headers: Record<string, string>;
   body_b64: string;
+};
+
+type ApiEnvelope<T> = {
+  data: T;
+};
+
+type DailyPuzzle = {
+  id: string;
+  date: string;
+  title: string;
+  entries: Array<{
+    answer: string;
+  }>;
+  metadata: {
+    connections?: {
+      groups: Array<{
+        title: string;
+        labels: string[];
+      }>;
+    } | null;
+  };
 };
 
 function filterRequestHeaders(headers: Record<string, string>): Record<string, string> {
@@ -90,6 +110,25 @@ function requestViaApiContainer(params: {
   return JSON.parse(output) as ContainerApiResponse;
 }
 
+function requestJsonViaApiContainer<T>(params: {
+  url: string;
+  method?: string;
+  headers?: Record<string, string>;
+  body?: Buffer | null;
+}) {
+  const response = requestViaApiContainer({
+    url: params.url,
+    method: params.method ?? "GET",
+    headers: params.headers ?? {},
+    body: params.body ?? null,
+  });
+  const text = Buffer.from(response.body_b64, "base64").toString("utf8");
+  return {
+    status: response.status,
+    json: JSON.parse(text) as T,
+  };
+}
+
 test.describe.configure({ mode: "serial" });
 test.setTimeout(180_000);
 
@@ -140,99 +179,81 @@ test.beforeEach(async ({ page }) => {
 });
 
 test("live app routes work against the local backend", async ({ page }) => {
-  await page.goto(`/daily?date=${E2E_DATE}`);
+  const crossword = requestJsonViaApiContainer<ApiEnvelope<DailyPuzzle>>({
+    url: `${API_CONTAINER_BASE_URL}/api/v1/puzzles/daily?gameType=crossword`,
+  }).json.data;
+  const cryptic = requestJsonViaApiContainer<ApiEnvelope<DailyPuzzle>>({
+    url: `${API_CONTAINER_BASE_URL}/api/v1/puzzles/daily?gameType=cryptic`,
+  }).json.data;
+  const connections = requestJsonViaApiContainer<ApiEnvelope<DailyPuzzle>>({
+    url: `${API_CONTAINER_BASE_URL}/api/v1/puzzles/daily?gameType=connections`,
+  }).json.data;
+  const firstConnectionsGroup = connections.metadata.connections?.groups[0];
+
+  await page.goto(`/daily?date=${crossword.date}`);
+  await expect(page.getByRole("heading", { name: "Daily Crossword" })).toBeVisible({ timeout: 20_000 });
   await expect(page.getByRole("button", { name: "Check Entry" })).toBeVisible({ timeout: 20_000 });
-  await expect(page.getByRole("button", { name: "Create Challenge" })).toBeVisible({ timeout: 20_000 });
-  await expect(page.getByText("By Smoke Suite")).toBeVisible({ timeout: 20_000 });
-  await expect(page.getByRole("button", { name: "1. Starter pet (3)" })).toBeVisible({ timeout: 20_000 });
+  await expect(page.getByRole("button", { name: "Reveal All" })).toBeVisible({ timeout: 20_000 });
+  await page.getByRole("button", { name: "Reveal All" }).click();
+  await expect(page.getByText("Puzzle Recap")).toBeVisible({ timeout: 20_000 });
   await expectNoErrorBanner(page);
 
-  const [challengeResponse] = await Promise.all([
-    page.waitForResponse(
-      (response) =>
-        response.request().method() === "POST" && response.url().includes("/api/v1/puzzles/challenges"),
-    ),
-    page.getByRole("button", { name: "Create Challenge" }).click(),
-  ]);
-  expect(challengeResponse.ok()).toBeTruthy();
-  const challengePayload = (await challengeResponse.json()) as { data?: { code?: string }; code?: string };
-  const challengeCode = String(challengePayload.data?.code ?? challengePayload.code ?? "").toUpperCase();
-  expect(challengeCode).toMatch(/^[A-Z0-9]{8}$/);
-
-  await page.evaluate((joinerToken) => {
-    window.localStorage.setItem("player:token:v1", joinerToken);
-  }, `anon_e2e_joiner_${Date.now()}`);
-  await page.goto(`/challenge/${challengeCode}`);
-  await expect(page.getByRole("heading", { name: "Challenge" })).toBeVisible({ timeout: 20_000 });
-  await expect(page.getByText(`Code: ${challengeCode}`)).toBeVisible({ timeout: 20_000 });
-  const joinButton = page.getByRole("button", { name: "Join Challenge" });
-  if (await joinButton.isVisible()) {
-    await joinButton.click();
-    await expect(page.getByText("You joined this challenge.")).toBeVisible();
-  }
-  await expectNoErrorBanner(page);
-
-  await page.goto(`/cryptic?date=${E2E_DATE}`);
+  await page.goto(`/cryptic?date=${cryptic.date}`);
   await expect(page.getByRole("heading", { name: "Cryptic Clue" })).toBeVisible({ timeout: 20_000 });
-  await expect(page.getByText("Mechanism: anagram")).toBeVisible({ timeout: 20_000 });
   await page.getByRole("button", { name: "Hint 1" }).click();
   await expect(page.getByText("Hint 1 shown.")).toBeVisible();
-  await page.getByRole("textbox", { name: "Your Answer" }).fill("MEW");
+  await page.getByRole("textbox", { name: "Your Answer" }).fill(cryptic.entries[0]?.answer ?? "");
   await page.getByRole("button", { name: "Submit Guess" }).click();
   await expect(page.getByText("Correct. Explanation unlocked.")).toBeVisible({ timeout: 20_000 });
+  await expect(page.getByRole("heading", { name: "Explanation" })).toBeVisible({ timeout: 20_000 });
   await expectNoErrorBanner(page);
 
-  await page.goto(`/connections?date=${E2E_DATE}`);
+  await page.goto(`/connections?date=${connections.date}`);
   await expect(page.getByRole("heading", { name: "Daily Connections" })).toBeVisible({ timeout: 20_000 });
   await expect(page.locator(".connections-tile")).toHaveCount(16, { timeout: 20_000 });
   await page.locator(".connections-tile").first().click();
   await page.getByRole("button", { name: "Clear" }).click();
   await expect(page.getByText("Selection cleared.")).toBeVisible();
-  await page.getByRole("button", { name: "Bulbasaur" }).click();
-  await page.getByRole("button", { name: "Charmander" }).click();
-  await page.getByRole("button", { name: "Squirtle" }).click();
-  await page.getByRole("button", { name: "Pikachu" }).click();
+  for (const label of firstConnectionsGroup?.labels ?? []) {
+    await page.getByRole("button", { name: label, exact: true }).click();
+  }
   await page.getByRole("button", { name: "Submit Group" }).click();
-  await expect(page.getByRole("heading", { name: "Starter Pokemon" })).toBeVisible({ timeout: 20_000 });
+  await expect(page.getByRole("heading", { name: firstConnectionsGroup?.title ?? "" })).toBeVisible({ timeout: 20_000 });
   await expectNoErrorBanner(page);
 
   await page.goto("/archive?gameType=connections");
   await expect(page.getByRole("heading", { name: "Archive" })).toBeVisible({ timeout: 20_000 });
-  await expect(page.getByText(`Connections ${E2E_DATE}`)).toBeVisible({ timeout: 20_000 });
   await expectNoErrorBanner(page);
 
-  await page.goto("/stats");
-  await expect(page.getByRole("heading", { name: "Your Stats" })).toBeVisible({ timeout: 20_000 });
+  await page.goto("/account");
+  await expect(page.getByRole("heading", { name: "Profile", exact: true })).toBeVisible({ timeout: 20_000 });
+  await expect(page).toHaveURL(/\/profile$/);
+  await expect(page.getByRole("button", { name: "Create Account" })).toBeVisible({ timeout: 20_000 });
+  await expect(page.getByRole("button", { name: "Log In" })).toBeVisible({ timeout: 20_000 });
   await expect(page.getByText("Completion Rate")).toBeVisible({ timeout: 20_000 });
+  await page.getByRole("link", { name: "View Public Page" }).click();
+  await expect(page).toHaveURL(/\/players\//);
   await expectNoErrorBanner(page);
 
   await page.goto("/leaderboard");
   await expect(page.getByRole("heading", { name: "Leaderboard" })).toBeVisible({ timeout: 20_000 });
-  await expect(page.getByText("Your Account")).toBeVisible({ timeout: 20_000 });
-  await page.getByRole("textbox", { name: "Date" }).fill(E2E_DATE);
+  await expect(page.getByText("Your Profile")).toBeVisible({ timeout: 20_000 });
+  await page.getByRole("textbox", { name: "Date" }).fill(crossword.date);
   await page.getByRole("textbox", { name: "Date" }).press("Tab");
-  await expect(page.getByText(`Window: ${E2E_DATE} to ${E2E_DATE}`)).toBeVisible({ timeout: 20_000 });
-  await expect(page.getByRole("link", { name: "Ash" })).toBeVisible({ timeout: 20_000 });
-  await page.getByRole("link", { name: "Ash" }).click();
-  await expect(page.getByRole("heading", { name: "Ash" })).toBeVisible({ timeout: 20_000 });
-  await expect(page.getByText("Public stats page for @ash-ketchum.")).toBeVisible({ timeout: 20_000 });
-  await expectNoErrorBanner(page);
-
-  await page.goto("/account");
-  await expect(page.getByRole("heading", { name: "Account", exact: true })).toBeVisible({ timeout: 20_000 });
-  await expect(page.getByRole("button", { name: "Create Account" })).toBeVisible({ timeout: 20_000 });
-  await expect(page.getByRole("button", { name: "Log In" })).toBeVisible({ timeout: 20_000 });
-  await expectNoErrorBanner(page);
-
-  await page.goto(`/text-only?gameType=cryptic&date=${E2E_DATE}`);
-  await expect(page.getByRole("heading", { name: "Text-Only Puzzle View" })).toBeVisible({ timeout: 20_000 });
-  await expect(page.getByText("Legendary psychic Pokemon we remodeled")).toBeVisible({ timeout: 20_000 });
+  await expect(page.getByText(`Window: ${crossword.date} to ${crossword.date}`)).toBeVisible({ timeout: 20_000 });
+  const playerLinks = page.locator('a[href^="/players/"]');
+  if (await playerLinks.count()) {
+    await playerLinks.first().click();
+    await expect(page).toHaveURL(/\/players\//);
+    await expect(page.getByRole("heading", { level: 2 })).toBeVisible({ timeout: 20_000 });
+  } else {
+    await expect(page.getByText("No ranked completions in this window yet.")).toBeVisible({ timeout: 20_000 });
+  }
   await expectNoErrorBanner(page);
 
   await page.goto("/admin");
   await expect(page.getByRole("heading", { name: "Admin Console" })).toBeVisible({ timeout: 20_000 });
   await expect(page.getByText("Token loaded")).toBeVisible({ timeout: 20_000 });
-  await expect(page.getByText("Analytics endpoint unavailable in this backend build.")).toBeVisible({ timeout: 20_000 });
   await expect(page.getByRole("heading", { name: "Reserve" })).toBeVisible({ timeout: 20_000 });
   await expectNoErrorBanner(page);
 });

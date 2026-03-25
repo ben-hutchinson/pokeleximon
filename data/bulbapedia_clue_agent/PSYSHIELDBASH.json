@@ -1,0 +1,75 @@
+{
+  "answerKey": "PSYSHIELDBASH",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4403590,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII Psychic move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Psychic physical move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Contents 1 Effect 1.1 Generation VIII 1.2 Generation IX 1.3 Other effects Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Psyshield Bash inflicts damage and raises the user's defensive stats. Pokemon Legends: Arceus Category Physical PP 10 Agile Strong Power 70 55 85 Accuracy 90% 90% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Turns 3 2 4 ? ? ? ? Raises the user's defensive stats Generation IX [ edit | edit source ] Psyshield Bash inflicts damage and raises the user's Defense by one stage. Other effects [ edit | edit source ] A Stantler that has used Psyshield Bash in the agile style at least 20 times can evolve into Wyrdeer .",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "70-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "boosting move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Psychic physical move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen VIII Psychic move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "70-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "psychic physical move"
+    ],
+    "connections_descriptors": [
+      "Boosting moves",
+      "Psychic Physical moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257997
+}

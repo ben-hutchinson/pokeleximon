@@ -1,0 +1,38 @@
+{
+  "answerKey": "SHIELDDUST",
+  "answerDisplay": "SHIELD DUST",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shield Dust (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shield_Dust_(Ability)",
+  "pageId": 4096,
+  "pageRevisionId": 4277787,
+  "leadText": "Shield Dust (Japanese: りんぷん Scales) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Pokémon with Shield Dust are unaffected by the additional effects of other Pokémon's damaging moves, including additional effects provided by Poison Touch , Toxic Chain , Stench , King's Rock , and Razor Fang . For example, a Pokémon with Shield Dust cannot be frozen by Blizzard or made to flinch by Fake Out . Shield Dust has no effect on status moves (such as Thunder Wave or Leech Seed ) or Max Moves . It also doesn't prevent additional effects that apply to the user, so for example a Pokémon using Flame Charge will still be able to increase its own Speed even if it hits a target that has Shield Dust. Shield Dust prevents a Pokémon's burn being cured by Sparkling Aria if it is the only target of the attack (even in battles such as Double Battles , as long as there are no other targets of Sparkling Aria); however, if the attack has multiple targets, all targets will be cured on burn even if they have Shield Dust. ( Wake-Up Slap and Smelling Salts , which also cure status conditions, are not considered to have additional effects and thus are not affected by Shield Dust.) This behavior is unique to Sparkling Aria—for example, Shield Dust prevents a Pokémon from being paralyzed by Discharge regardless of the number of targets. Outside of battle [ edit | edit source ] Shield Dust has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Pokémon with Shield Dust are unaffected by the additional effects of other Pokémon's damaging moves, including additional effects provided by Poison Touch , Toxic Chain , Stench , King's Rock , and Razor Fang . For example, a Pokémon with Shield Dust cannot be frozen by Blizzard or made to flinch by Fake Out . Shield Dust has no effect on status moves (such as Thunder Wave or Leech Seed ) or Max Moves . It also doesn't prevent additional effects that apply to the user, so for example a Pokémon using Flame Charge will still be able to increase its own Speed even if it hits a target that has Shield Dust. Shield Dust prevents a Pokémon's burn being cured by Sparkling Aria if it is the only target of the attack (even in battles such as Double Battles , as long as there are no other targets of Sparkling Aria); however, if the attack has multiple targets, all targets will be cured on burn even if they have Shield Dust. ( Wake-Up Slap and Smelling Salts , which also cure status conditions, are not considered to have additional effects and thus are not affected by Shield Dust.) This behavior is unique to Sparkling Aria—for example, Shield Dust prevents a Pokémon from being paralyzed by Discharge regardless of the number of targets."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Blocks the added effects of moves. MD T D S Blocks the added effects from any moves that hit the Pokémon. B S L わざの ついかこうかを うけない MD GtI Unavailable S MD It blocks additional effects when the Pokémon is hit by an attacking move! MD RT DX This Ability blocks additional effects when the Pokémon is hit by an attacking move."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Shield Dust effectively prevents the Pokémon from being frozen in battle by any Pokémon (except those with Mold Breaker or one of its variants ), as the Freeze status ailment is always caused as a secondary effect of an opponent's move, and the status cannot be passed to another Pokémon via Baton Pass or Synchronize . Similarly, Shield Dust prevents the Pokémon from flinching as it is always caused as a secondary effect of an opponent's move. Every Pokémon that can have Shield Dust as an Ability is Bug-type . Shield Dust is replaced with Shed Skin for the middle stage of every three-stage evolutionary line that has it. Notably, these middle stage Pokémon are all based on cocoons or (in Spewpa 's case) cased larvae."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shield-Dust",
+    "Shield Dust",
+    "Shield-Dust (Ability)"
+  ],
+  "updatedAt": 1773326919
+}

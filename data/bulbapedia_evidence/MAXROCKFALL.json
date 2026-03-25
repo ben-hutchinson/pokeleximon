@@ -1,0 +1,30 @@
+{
+  "answerKey": "MAXROCKFALL",
+  "answerDisplay": "MAX ROCKFALL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Max Rockfall (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Rockfall_(move)",
+  "pageId": 240361,
+  "pageRevisionId": 4468596,
+  "leadText": "Max Rockfall (Japanese: ダイロック Dai Rock) is a damage-dealing Rock-type Max Move introduced in Generation VIII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Max Rockfall inflicts damage and creates a sandstorm for 5 turns (8 if a Smooth Rock is held). Its power and whether it is a special or physical move depends on the move it is based on. Base move Pwr. Cat. Accelerock 90 Physical Ancient Power 110 Special Diamond Storm 130 Physical Head Smash 150 Physical Meteor Beam 140 Special Power Gem 130 Special Rock Blast 130 Physical Rock Slide 130 Physical Rock Throw 100 Physical Rock Tomb 110 Physical Rock Wrecker 150 Physical Rollout 90 Physical Smack Down 100 Physical Stone Edge 130 Physical Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Max Rockfall cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V This is a Rock-type attack Dynamax Pokémon use. The user summons a sandstorm lasting five turns. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Max-Rockfall",
+    "Max Rockfall",
+    "Max-Rockfall (move)"
+  ],
+  "updatedAt": 1773324847
+}

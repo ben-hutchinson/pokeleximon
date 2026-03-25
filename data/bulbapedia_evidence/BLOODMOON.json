@@ -1,0 +1,30 @@
+{
+  "answerKey": "BLOODMOON",
+  "answerDisplay": "BLOOD MOON",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Blood Moon (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Blood_Moon_(move)",
+  "pageId": 295876,
+  "pageRevisionId": 4503224,
+  "leadText": "Blood Moon (Japanese: ブラッドムーン Blood Moon) is a damage-dealing Normal-type move introduced during Generation IX, in The Teal Mask. It is the signature move of Bloodmoon Ursaluna.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Blood Moon inflicts damage. The user cannot select Blood Moon in succession unless the move failed. If the player attempts to use Blood Moon twice in a row, they will be prevented from doing so, and will be allowed to select another move. Once another move is used, Blood Moon can be used again. If the user cannot select another move (due to Choice items or having no other usable moves), it will use Struggle every other turn. Instruct and Sleep Talk allow Blood Moon to be used twice in a row. Encore allows Blood Moon to be used twice in a row, but on subsequent turns of the Encore, the user will be forced to Struggle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user unleashes the full brunt of its spirit from a full moon that shines as red as blood. This move can't be used twice in a row."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Blood-Moon",
+    "Blood Moon",
+    "Blood-Moon (move)"
+  ],
+  "updatedAt": 1773321244
+}

@@ -1,0 +1,33 @@
+{
+  "answerKey": "DRIZZLE",
+  "answerDisplay": "DRIZZLE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Drizzle (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Drizzle_(Ability)",
+  "pageId": 4079,
+  "pageRevisionId": 4486383,
+  "leadText": "Not to be confused with Drizzile. Drizzle (Japanese: あめふらし Rainfall) is an Ability introduced in Generation III. Prior to Generation V, it was the signature Ability of Kyogre.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations III to V 1.1.2 Generation VI onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations III to V [ edit | edit source ] Drizzle summons rain in battle as soon as a Pokémon with Drizzle enters the battle. Its effects are the same as the move Rain Dance , but instead of lasting for a limited amount of turns, it lasts for the whole battle (unless it is replaced by another type of weather). If a Pokémon with Drizzle is sent out in the same turn as another Pokémon whose Ability affects the weather, the slower Pokémon's Ability will override the faster Pokémon's Ability. Generation VI onward [ edit | edit source ] The rain now lasts only for five turns. This can be extended to eight turns if the Pokémon is holding a Damp Rock . Rain called by Drizzle does not allow Sliggoo to evolve into Goodra . Drizzle will not activate if the Pokémon it's on is a Kyogre that's in position to undergo Primal Reversion ; in that case the Primal Reversion will happen instead, its ability will be replaced by Primordial Sea , and only that ability will activate. Drizzle will also fail to activate if heavy rain , extremely harsh sunlight , or strong winds are already in effect. Outside of battle [ edit | edit source ] Drizzle has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generations III to V [ edit | edit source ] Drizzle summons rain in battle as soon as a Pokémon with Drizzle enters the battle. Its effects are the same as the move Rain Dance , but instead of lasting for a limited amount of turns, it lasts for the whole battle (unless it is replaced by another type of weather). If a Pokémon with Drizzle is sent out in the same turn as another Pokémon whose Ability affects the weather, the slower Pokémon's Ability will override the faster Pokémon's Ability. Generation VI onward [ edit | edit source ] The rain now lasts only for five turns. This can be extended to eight turns if the Pokémon is holding a Damp Rock . Rain called by Drizzle does not allow Sliggoo to evolve into Goodra . Drizzle will not activate if the Pokémon it's on is a Kyogre that's in position to undergo Primal Reversion ; in that case the Primal Reversion will happen instead, its ability will be replaced by Primordial Sea , and only that ability will activate. Drizzle will also fail to activate if heavy rain , extremely harsh sunlight , or strong winds are already in effect."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Changes the weather to rainy. MD T D S Changes the weather to a rain condition. B S L てんきを あめに してしまう MD GtI Unavailable S MD The weather on the floor will be rain! MD RT DX The weather condition on the floor will be Rain."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Drizzle",
+    "Drizzle (Ability)"
+  ],
+  "updatedAt": 1773328843
+}

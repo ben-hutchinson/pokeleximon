@@ -1,0 +1,37 @@
+{
+  "answerKey": "INFERNO",
+  "answerDisplay": "INFERNO",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Inferno (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Inferno_(move)",
+  "pageId": 117309,
+  "pageRevisionId": 4469763,
+  "leadText": "Inferno (Japanese: れんごく Purgatory) is a damage-dealing Fire-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Inferno deals damage and will always burn the target if it hits. Inferno can also be used as part of a Contest Spectacular combination , causing Hex to give extra three appeal points if used in the next turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user attacks by engulfing the target in an intense fire. It leaves the target with a burn. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user attacks by engulfing the target in an intense fire. This leaves the target with a burn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It damages an enemy. It also causes the Burn status condition. With the Burn status, the enemy keeps taking damage, and its Attack also goes down slightly. S MD It damages an enemy. It also leaves the enemy with a burn."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Inferno has the lowest accuracy of all Fire-type moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Inferno",
+    "Inferno (move)"
+  ],
+  "updatedAt": 1773323900
+}

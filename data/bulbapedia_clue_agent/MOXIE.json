@@ -1,0 +1,62 @@
+{
+  "answerKey": "MOXIE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4263613,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Moxie (Japanese: Overconfident) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description Conq. Raises Attack for 1 turn after defeating an enemy. MD GtI May increase the Pokemon's Attack when it defeats a foe. * When it defeats a foe, the Pokemon's Attack may go up! * S MD When it defeats an enemy, the Pokemon's Attack may go up!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation V 1.1.2 Generation VI onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Moxie directly causes another Pokemon (including allies) to faint by using a damaging move, its Attack is increased by one stage. If its Attack is already at +6 stages, Moxie will not activate. Moxie activates after the Pokemon gains Attack from Fell Stinger . If a Pokemon with Moxie defeats a Pokemon with Mummy using a contact move, the Pokemon's Ability will become Mummy before Moxie has the opportunity to activate. Generation V [ edit | edit source ] Moxie will activate even if the Pokemon fainting ends the battle. Generation VI onward [ edit | edit source ] If the Pokemon fainting ends the battle, Moxie will not activate. Outside of battle [ edit | edit source ] Moxie has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with Moxie directly causes another Pokemon (including allies) to faint by using a damaging move, its Attack is increased by one stage. If its Attack is already at +6 stages, Moxie will not activate. Moxie activates after the Pokemon gains Attack from Fell Stinger . If a Pokemon with Moxie defeats a Pokemon with Mummy using a contact move, the Pokemon's Ability will become Mummy before Moxie has the opportunity to activate. Generation V [ edit | edit source ] Moxie will activate even if the Pokemon fainting ends the battle. Generation VI onward [ edit | edit source ] If the Pokemon fainting ends the battle, Moxie will not activate.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Raises Attack one stage upon KOing a Pokemon.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "boosting trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "boosting trait"
+    ],
+    "connections_descriptors": [
+      "Boosting abilities",
+      "Gen V abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257978
+}

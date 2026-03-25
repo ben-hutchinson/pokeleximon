@@ -1,0 +1,62 @@
+{
+  "answerKey": "WONDERSKIN",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4407528,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Wonder Skin (Japanese: Miracle Skin) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD GtI Unavailable S MD It makes it easier for the Pokemon to dodge status moves!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Wonder Skin lowers the accuracy of status moves used against the Pokemon with this Ability to 50%. If the move's accuracy is already 50% or less, it does not change. Other effects may still be able to modify the accuracy after Wonder Skin's effect. Wonder Skin does not affect moves without an accuracy check , or moves used by Pokemon with Mold Breaker , Teravolt , or Turboblaze . Outside of battle [ edit | edit source ] Wonder Skin has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Wonder Skin lowers the accuracy of status moves used against the Pokemon with this Ability to 50%. If the move's accuracy is already 50% or less, it does not change. Other effects may still be able to modify the accuracy after Wonder Skin's effect. Wonder Skin does not affect moves without an accuracy check , or moves used by Pokemon with Mold Breaker , Teravolt , or Turboblaze .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Lowers incoming non-damaging moves' base accuracy to exactly 50%.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "debuffing trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "debuffing trait"
+    ],
+    "connections_descriptors": [
+      "Debuffing abilities",
+      "Gen V abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258034
+}

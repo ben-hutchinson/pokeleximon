@@ -1,0 +1,66 @@
+{
+  "answerKey": "VICTORYSTAR",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4446858,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Victory Star (Japanese: Victory Star) is an Ability introduced in Generation V. It is the signature Ability of Victini.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD GtI Raises the accuracy of moves used by the Pokemon and allies standing next to it. * The accuracy of moves goes up! It also affects allies who are next to the Pokemon. * S MD The accuracy of moves goes up! It also has effects on teammates who are next to the Pokemon.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Victory Star increases the accuracy of moves (that are not one-hit knockout moves ) used by the Pokemon with this Ability and its allies in battle by approximately 10% (or precisely, a factor of 4506/4096) of their original accuracy. Victory Star can stack and does so multiplicatively (which means if there are two ally Pokemon with this Ability, the accuracy increase is 21%). Outside of battle [ edit | edit source ] Victory Star has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Victory Star increases the accuracy of moves (that are not one-hit knockout moves ) used by the Pokemon with this Ability and its allies in battle by approximately 10% (or precisely, a factor of 4506/4096) of their original accuracy. Victory Star can stack and does so multiplicatively (which means if there are two ally Pokemon with this Ability, the accuracy increase is 21%).",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Increases moves' accuracy to 1.1 for friendly Pokemon.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "boosting ability",
+        "evidence_ref": "Description",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Boosting abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258030
+}

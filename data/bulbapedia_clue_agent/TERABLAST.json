@@ -1,0 +1,83 @@
+{
+  "answerKey": "TERABLAST",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4498679,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX Normal move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Normal special move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Effect [ edit | edit source ] Tera Blast deals damage. If the user's Attack stat is higher than its Special Attack stat, Tera Blast becomes a physical move when Terastallized ; otherwise, it remains a special move . For determining which stat is higher, stat stage-modifiers are taken into account, but other effects (e.g. held items such as a Choice Band , Abilities such as Huge Power , etc.) are not. This is determined when the move is performed (not when it is selected), so for example the move's category may change mid-turn if the opponent goes first and uses a move like Charm . If the user has Terastallized, Tera Blast's type becomes the same as their Tera Type, is unaffected by moves and Abilities that change its type, and has a different animation depending on the move's type (except if their Tera Type is Normal , where the animation stays the same whether Terastallized or not). Gale Wings does not increase the priority of Flying-type Tera Blast. If the user has Terastallized into the Stellar type, it deals supereffective damage against Terastallized targets and neutral damage against all other targets. Moreover, its base power is 100 instead of 80 and it lowers the users Attack and Sp. Atk stats by one stage. If the user is not Terastallized, Tera Blast will be affected by Abilities such as Galvanize , but if the user Terastallized into a Normal type, Tera Blast will remain Normal.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "80-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "priority move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "debuffing move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Normal special move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen IX Normal move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "80-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "normal special move"
+    ],
+    "connections_descriptors": [
+      "Priority moves",
+      "Debuffing moves",
+      "Normal Special moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258023
+}

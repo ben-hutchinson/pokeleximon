@@ -1,0 +1,90 @@
+{
+  "answerKey": "DISGUISE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4484666,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "This article is about the Ability. For a list of Team Rocket disguises, see List of Team Rocket's disguises. Disguise (Japanese: Disguise) is an Ability introduced in Generation VII. It is the signature Ability of Mimikyu.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation VII 1.1.2 Generation VIII 1.1.3 Generation IX 1.1.4 Pokemon Legends: Z-A 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation VII [ edit | edit source ] If a Mimikyu in its Disguised Form is hit by a damaging move or hits itself in confusion , Disguise prevents the move from calling the damage formula. The move will thus deal no damage, and type effectiveness will not be calculated (except in case of immunity, which prevents Disguise from triggering since the move will not hit in the first place). When this effect activates, the message, \" Its disguise served it as a decoy! \" is displayed, Mimikyu changes to its Busted Form, and finally the message, \" 's disguise was busted! \" is displayed. If Mimikyu's type had been changed beforehand, it is restored to Ghost / Fairy when it changes to its Busted Form. Mimikyu remains in Busted Form if it is switched out, but reverts to Disguised Form outside of battle. If a Mimikyu faints and is revived , it will be revived in its Disguised Form and Disguise will be able to activate again. Disguise will not protect against status moves , entry hazards , or weather damage. Disguise activates at the first strike of a multistrike move such as Water Shuriken and will not block damage from remaining strikes. Disguise only blocks the damage from moves; additional effects of damaging moves like paralysis from Nuzzle are not prevented. If Mimikyu has a substitute , the substitute will take damage before Disguise. Because a Disguise-busting hit skips the type effectiveness check as well as the rest of the damage formula, Weakness Policy will not activate regardless of the move's type. A held Air Balloon will be popped even if Disguise negates the damage. Busting a Disguise with Rollout or Ice Ball results in the Rollout storage glitch . Gastro Acid , Worry Seed , and Simple Beam fail if the target has the Ability Disguise. Role Play , Skill Swap , Entrainment , and Doodle fail if either Pokemon has Disguise. Disguise cannot be copied by Trace , Power of Alchemy , or Receiver . Disguise cannot be replaced by Mummy or Lingering Aroma , traded by Wandering Spirit , or suppressed by Core Enforcer or Neutralizing Gas ; if a Pokemon that has its Ability suppressed passes that effect to a Pokemon with this Ability via Baton Pass , that effect fades. If a Pokemon obtains Disguise with Imposter or Transform , the Ability will never activate. Pokemon with Mold Breaker , Teravolt , or Turboblaze will ignore Disguise, hitting through the disguise without busting it. The same is true for the moves Moongeist Beam , Sunsteel Strike , and Photon Geyser as well as the Z-Moves Searing Sunraze Smash , Menacing Moonraze Maelstrom , and Light That Burns the Sky . Generation VIII [ edit | edit source ] When a Disguised Form Mimikyu's Disguise is busted, upon changing to its Busted Form it now loses HP equal to 1/8 of its maximum HP, rounded down, and not factoring in any increase in maximum HP due to Dynamax . If a Disguised Form Mimikyu faints from the damage, nothing special occurs. The moves G-Max Drum Solo , G-Max Fireball , and G-Max Hydrosnipe will ignore Disguise. Generation IX [ edit | edit source ] If a damaging move is absorbed by a Disguised Form Mimikyu's Disguise in a Tera Raid Battle , the player's Tera Orb will not be charged. Pokemon Legends: Z-A [ edit | edit source ] Although there are no Abilities in Pokemon Legends: Z-A , any attack that hits a Mimikyu in its Disguised Form will only deal damage equal to 1/8 of its maximum health and change it into Busted Form. Busting Mimikyu's disguise will interrupt its current action. When the player is out of battle and Mimikyu is in its Pok Ball, it will return to Disguised Form. Outside of battle [ edit | edit source ] Disguise has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "Contents 1 In battle 1.1 Generation VII 1.2 Generation VIII 1.3 Generation IX 1.4 Pokemon Legends: Z-A In battle [ edit | edit source ] Generation VII [ edit | edit source ] If a Mimikyu in its Disguised Form is hit by a damaging move or hits itself in confusion , Disguise prevents the move from calling the damage formula. The move will thus deal no damage, and type effectiveness will not be calculated (except in case of immunity, which prevents Disguise from triggering since the move will not hit in the first place). When this effect activates, the message, \" Its disguise served it as a decoy! \" is displayed, Mimikyu changes to its Busted Form, and finally the message, \" 's disguise was busted! \" is displayed. If Mimikyu's type had been changed beforehand, it is restored to Ghost / Fairy when it changes to its Busted Form. Mimikyu remains in Busted Form if it is switched out, but reverts to Disguised Form outside of battle. If a Mimikyu faints and is revived , it will be revived in its Disguised Form and Disguise will be able to activate again. Disguise will not protect against status moves , entry hazards , or weather damage. Disguise activates at the first strike of a multistrike move such as Water Shuriken and will not block damage from remaining strikes. Disguise only blocks the damage from moves; additional effects of damaging moves like paralysis from Nuzzle are not prevented. If Mimikyu has a substitute , the substitute will take damage before Disguise. Because a Disguise-busting hit skips the type effectiveness check as well as the rest of the damage formula, Weakness Policy will not activate regardless of the move's type. A held Air Balloon will be popped even if Disguise negates the damage. Busting a Disguise with Rollout or Ice Ball results in the Rollout storage glitch . Gastro Acid , Worry Seed , and Simple Beam fail if the target has the Ability Disguise. Role Play , Skill Swap , Entrainment , and Doodle fail if either Pokemon has Disguise. Disguise cannot be copied by Trace , Power of Alchemy , or Receiver . Disguise cannot be replaced by Mummy or Lingering Aroma , traded by Wandering Spirit , or suppressed by Core Enforcer or Neutralizing Gas ; if a Pokemon that has its Ability suppressed passes that effect to a Pokemon with this Ability via Baton Pass , that effect fades. If a Pokemon obtains Disguise with Imposter or Transform , the Ability will never activate. Pokemon with Mold Breaker , Teravolt , or Turboblaze will ignore Disguise, hitting through the disguise without busting it. The same is true for the moves Moongeist Beam , Sunsteel Strike , and Photon Geyser as well as the Z-Moves Searing Sunraze Smash , Menacing Moonraze Maelstrom , and Light That Burns the Sky . Generation VIII [ edit | edit source ] When a Disguised Form Mimikyu's Disguise is busted, upon changing to its Busted Form it now loses HP equal to 1/8 of its maximum HP, rounded down, and not factoring in any increase in maximum HP due to Dynamax . If a Disguised Form Mimikyu faints from the damage, nothing special occurs. The moves G-Max Drum Solo , G-Max Fireball , and G-Max Hydrosnipe will ignore Disguise. Generation IX [ edit | edit source ] If a damaging move is absorbed by a Disguised Form Mimikyu's Disguise in a Tera Raid Battle , the player's Tera Orb will not be charged. Pokemon Legends: Z-A [ edit | edit source ] Although there are no Abilities in Pokemon Legends: Z-A , any attack that hits a Mimikyu in its Disguised Form will only deal damage equal to 1/8 of its maximum health and change it into Busted Form. Busting Mimikyu's disguise will interrupt its current action. When the player is out of battle and Mimikyu is in its Pok Ball, it will return to Disguised Form.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Prevents the first instance of battle damage.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.78,
+        "style": "effect"
+      },
+      {
+        "text": "Prevents major status ailments",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "effect"
+      },
+      {
+        "text": "Ailment-proof trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "effect"
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "status immunity",
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Status-blocking abilities",
+      "Weather abilities",
+      "Gen VII abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257940
+}

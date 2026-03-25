@@ -1,0 +1,29 @@
+{
+  "answerKey": "FLUFFY",
+  "answerDisplay": "FLUFFY",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Fluffy (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fluffy_(Ability)",
+  "pageId": 214606,
+  "pageRevisionId": 4512575,
+  "leadText": "Fluffy (Japanese: もふもふ Fluffy) is an Ability introduced in Generation VII. Prior to Generation VIII, it was the signature Ability of Stufful and Bewear, and in Generation IX, it is the signature Ability of Greavard and Houndstone.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] A Pokémon with Fluffy takes half damage from moves that make contact . It also takes double damage from Fire-type moves. Fire-type moves that make contact will deal regular damage. Moves affected by Long Reach which make contact will deal regular damage. Outside of battle [ edit | edit source ] Fluffy has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] A Pokémon with Fluffy takes half damage from moves that make contact . It also takes double damage from Fire-type moves. Fire-type moves that make contact will deal regular damage. Moves affected by Long Reach which make contact will deal regular damage."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fluffy",
+    "Fluffy (Ability)"
+  ],
+  "updatedAt": 1774214021
+}

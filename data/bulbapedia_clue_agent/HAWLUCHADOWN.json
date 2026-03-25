@@ -1,0 +1,104 @@
+{
+  "answerKey": "HAWLUCHADOWN",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4470961,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "tm materials",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen IX tm materials",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Effect [ edit | edit source ] TM Machine [ edit | edit source ] In Pokemon Scarlet and Violet , TM Materials can be used in combination with each other and League Points at the TM Machine in a Pokemon Center to create TMs . They can also be exchanged at the TM Machine for League Points, or used as a material for the Item Printer . Some TM Materials are not included in any TM recipes; with the exception of the Gimmighoul Coin , they serve no practical purpose other than to be sold or used by the Item Printer. These include all materials acquired from version-exclusive Pokemon (other than Shieldon in version 3.0.0), as well as those acquired from Ditto , Rotom , Gimmighoul , and various Pokemon native to Kitakami and Blueberry Academy : Ditto Goo Misdreavus Tears Larvitar Claw Gulpin Mucus Bagon Scales Drifloon Gas Stunky Fur Rotom Sparks Deino Scales Skrelp Kelp Clauncher Claw Oranguru Fur Passimian Fur Stonjourner Stone Eiscue Down Dreepy Powder Gimmighoul Coin Poliwag Slime Sentret Fur Hoothoot Feather Spinarak Thread Aipom Hair Gligar Fang Volbeat Fluid Illumise Fluid Mienfoo Claw Grubbin Thread Cutiefly Powder Cramorant Down Morpeko Snack Doduo Down Chinchou Sparks Skarmory Feather Smeargle Paint Plusle Fur Minun Fur Cranidos Spike Shieldon Claw * Inkay Ink Milcery Cream In Version 3.0.0, Shieldon 's dropped material is used to create TM223 ( Metal Sound ), despite the Pokemon being exclusive to Pokemon Violet . This made it impossible for TM223 to be created in Pokemon Scarlet without using the Union Circle , joining other players' Tera Raid Battles , or transferring a Shieldon or Bastiodon from another game to allow wild Ditto to transform into it. However, this was fixed in Version 3.0.1, with the requirement for Shieldon Claws being removed. Other uses [ edit | edit source ] Some TM Materials have other uses, beyond being used to create TMs or Item Printer jobs. Bronzor Fragment: 10 can be traded for Auspicious Armor in Zapapico . S Sinistea Chip: 10 can be traded for Malicious Armor in Zapapico. V Gimmighoul Coin: If the player has 999 Gimmighoul Coins on hand, Gimmighoul will consume them to evolve into Gholdengo when it levels up.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "TM crafting material",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      },
+      {
+        "text": "Poor catch rate on most targets",
+        "evidence_ref": "Description",
+        "specificity": 0.82
+      },
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "lead",
+        "specificity": 0.74
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "TM crafting material",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.72,
+        "style": "family"
+      },
+      {
+        "text": "Move-machine crafting item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.7,
+        "style": "family"
+      },
+      {
+        "text": "Crafting drop for TMs",
+        "evidence_ref": "lead",
+        "mystery_score": 0.48,
+        "specificity_score": 0.68,
+        "style": "family"
+      },
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.66,
+        "specificity_score": 0.8,
+        "style": "family"
+      },
+      {
+        "text": "Exchangeable collectible",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.78,
+        "style": "family"
+      },
+      {
+        "text": "Poor on most other targets",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "restriction"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "tm material",
+      "crafting drop",
+      "exchange item"
+    ],
+    "connections_descriptors": [
+      "TM crafting items",
+      "Gen IX items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257954
+}

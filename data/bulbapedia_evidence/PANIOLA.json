@@ -1,0 +1,27 @@
+{
+  "answerKey": "PANIOLA",
+  "answerDisplay": "PANIOLA",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Paniola Town",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Paniola_Town",
+  "pageId": 218307,
+  "pageRevisionId": 4471049,
+  "leadText": "Paniola Town (Japanese: オハナタウン Ohana Town) is a town on Akala Island in the Alola region. Route 4 leads to Paniola Town from the south, and the town connects to Paniola Ranch in the north. An isolated area of Paniola Town can be accessed from Route 6.",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Origin [ edit | edit source ]"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Paniola-Town",
+    "Paniola Town",
+    "Paniola",
+    "Paniola-Town (location)"
+  ],
+  "updatedAt": 1773325607
+}

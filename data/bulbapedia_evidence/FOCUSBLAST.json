@@ -1,0 +1,38 @@
+{
+  "answerKey": "FOCUSBLAST",
+  "answerDisplay": "FOCUS BLAST",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Focus Blast (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Focus_Blast_(move)",
+  "pageId": 17444,
+  "pageRevisionId": 4504588,
+  "leadText": "Focus Blast (Japanese: きあいだま Fighting Spirit Bullet) is a damage-dealing Fighting-type move introduced in Generation IV. It is: TM52 from Generation IV to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TR64 in Pokémon Sword and Shield. TM158 in Pokémon Scarlet and Violet. TM102 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Focus Blast does damage and has a 10% chance of lowering the target's Special Defense by one stage. It does not affect Pokémon with Bulletproof . Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 70% Standard Plus Move Power 120 144 Cooldown 12s Move wind-up time 25 frames Effect duration —s Additional effect Chance 10% Duration 15s 18s — May lower the target's Special Defense."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def. (move) The user attacks at full power. It may also lower the foe's Sp. Def stat if it hits. (TM) PBR B W B2 W2 The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def. X Y OR AS The user heightens its mental focus and unleashes its power. This may also lower the target's Sp. Def. S M US UM P E Sw Sh BD SP LA S V The user heightens its mental focus and unleashes its power. This may also lower the target's Sp. Def stat. ZA The user attacks by heightening its mental focus to unleash its power. This may also lower targets' Sp. Def stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target, even at a distance. It may also reduce the target's Special Defense by 1 level. B S L はなれたポケモンに ダメージをあたえる しかも いっていのかくりつで とくぼうを １だんかいさげる MD GtI It damages even a faraway Pokémon. It could also lower its Special Defense. S MD MD RT DX It damages a Pokémon, even one far away. It could also lower the enemy's Sp. Def."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Focus Blast is the only special Fighting-type move that has an accuracy lower than 100%. In the pre-release material of the Japanese versions of Pokémon Diamond and Pearl , Focus Blast had a different animation: instead of \"spreading\" when it touched the opponent, it disintegrated. Focus Blast is the only special variant of Blizzard that was not lowered to 110 power in Generation VI . In an early trailer of Pokémon X and Y , Focus Blast's animation had a red background. In the final version, the background is blue. This move originated as an attack in the TCG."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Focus-Blast",
+    "Focus Blast",
+    "Focus-Blast (move)"
+  ],
+  "updatedAt": 1773322947
+}

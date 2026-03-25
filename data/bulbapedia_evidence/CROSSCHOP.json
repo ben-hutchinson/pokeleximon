@@ -1,0 +1,34 @@
+{
+  "answerKey": "CROSSCHOP",
+  "answerDisplay": "CROSS CHOP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Cross Chop (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Cross_Chop_(move)",
+  "pageId": 3849,
+  "pageRevisionId": 4433483,
+  "leadText": "Cross Chop (Japanese: クロスチョップ Cross Chop) is a damage dealing Fighting-type move introduced in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Cross Chop deals damage and has an increased critical hit ratio. Cross Chop can be used as the second move of a Pokémon Contest combination , with the user gaining 3 bonus appeal points if Focus Energy was used in the previous turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A Fighting -type attack. It is powerful and often lands a critical hit. G S C Has a high critical hit ratio. R S E Colo XD A double-chopping attack. High critical-hit ratio. FR LG The foe is hit with double chops. It has a high critical-hit ratio. D P Pt HG SS PBR The user delivers a double chop with its forearms crossed. It has a high critical-hit ratio. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user delivers a double chop with its forearms crossed. Critical hits land more easily. S V The user delivers a double chop with its forearms crossed. This move has a heightened chance of landing a critical hit."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. It has a high critical-hit rate. B S L てきポケモンに ダメージをあたえる きゅうしょに あたりやすい Conq. The user delivers a double chop with its forearms crossed. Critical hits land more easily. MD GtI UNUSED S MD MD RT DX It damages an enemy. It has a high critical-hit rate."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Cross-Chop",
+    "Cross Chop",
+    "Cross-Chop (move)"
+  ],
+  "updatedAt": 1773321942
+}

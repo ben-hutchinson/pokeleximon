@@ -1,0 +1,30 @@
+{
+  "answerKey": "SNAPTRAP",
+  "answerDisplay": "SNAP TRAP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Snap Trap (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Snap_Trap_(move)",
+  "pageId": 244333,
+  "pageRevisionId": 4407222,
+  "leadText": "Snap Trap (Japanese: トラバサミ Foothold Trap) is a damage-dealing Grass-type move introduced in Generation VIII. It is the signature move of Galarian Stunfisk.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] In addition to dealing damage, Snap Trap inflicts 1/8 of the target's maximum HP as damage per turn for four to five turns upon use. It also traps the target, preventing switching and escape . If the user switches out, the target will be freed. If the user of Snap Trap is holding a Grip Claw , the duration will always be 7 turns. If a Binding Band is held by the user, the damage done at the end of each turn will increase from 1/8 of the target's maximum HP to 1/6. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Snap Trap cannot be selected in a battle. Generation IX [ edit | edit source ] Snap Trap cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA The user snares the target in a snap trap for four to five turns. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user snares the target in a snap trap that inflicts damage for four to five turns."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Snap-Trap",
+    "Snap Trap",
+    "Snap-Trap (move)"
+  ],
+  "updatedAt": 1773327210
+}

@@ -1,0 +1,17 @@
+{
+  "answerKey": "PALOSSAND",
+  "answerDisplay": "PALOSSAND",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Ghost / Ground type Pokémon introduced in Generation 7.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/palossand",
+  "extract": "Palossand is a Ghost / Ground type Pokémon introduced in Generation 7 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212270
+}

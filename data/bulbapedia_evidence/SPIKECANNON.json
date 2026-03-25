@@ -1,0 +1,38 @@
+{
+  "answerKey": "SPIKECANNON",
+  "answerDisplay": "SPIKE CANNON",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Spike Cannon (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Spike_Cannon_(move)",
+  "pageId": 3740,
+  "pageRevisionId": 4406411,
+  "leadText": "Spike Cannon (Japanese: とげキャノン Spike Cannon) is a damage-dealing Normal-type multistrike move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generations III and IV 1.4 Generation V to VII 1.5 Generation VIII onwards Effect [ edit | edit source ] Generation I [ edit | edit source ] Spike Cannon inflicts damage, hitting the target 2-5 times per use. There is a 37.5% chance that it will hit 2 times; a 37.5% chance that it will hit 3 times; a 12.5% chance that it will hit 4 times; and a 12.5% chance that it will hit 5 times. Although only the first strike can be a critical hit , each successive one will deal the same amount of damage. Spike Cannon will end immediately if it breaks a substitute . Bide and Counter will only acknowledge the last strike of this move. Generation II [ edit | edit source ] All strikes now do damage independently, consequently enabling any of them to be critical. Spike Cannon may now continue attacking after breaking a substitute. If the user is holding a King's Rock , the final strike has a chance to cause the opponent to flinch . Generations III and IV [ edit | edit source ] Pokémon with the Ability Skill Link will always hit five times when using Spike Cannon unless it misses. If the user is holding a King's Rock or Razor Fang , each consecutive hit has an equal chance to cause the opponent to flinch . Generation V to VII [ edit | edit source ] There is now a 35% chance that it will hit 2 times; a 35% chance it will hit 3 times; a 15% chance it will hit 4 times; and a 15% chance it will hit 5 times. The average total base power is now 62. If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokémon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokémon has a maximum HP of 1. If the target has Weak Armor or Stamina , each strike will activate it. Generation VIII onwards [ edit | edit source ] Spike Cannon cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A physical attack consisting of two to five consecutive hits. Highly accurate. G S C Fires spikes to hit 2-5 times. R S E Launches sharp spikes that strike 2 to 5 times. FR LG Sharp spikes are fired at the foe to strike two to five times. Colo XD Sharp pins are fired to strike 2 to 5 times. D P Pt HG SS PBR Sharp spikes are fired at the foe to strike two to five times in rapid succession. B W B2 W2 X Y OR AS S M US UM P E Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target, even at a distance. It hits two to five times in succession. MD T D S Inflicts damage on the target, even at a distance, using 2 to 5 attacks in a single turn. B S L はなれたポケモンに ２〜５かいれんぞくで ダメージを あたえる MD GtI UNUSED S MD It damages an enemy 2 to 5 times in a row. * It damages a Pokémon, even one far away, 2 to 5 times in a row. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation I , Omanyte is able to learn Spike Cannon despite lacking any visible spikes. None of the Pokémon that can learn Spike Cannon get STAB from it (other than Smeargle ). In addition, all Pokémon that can learn it are part Water -type."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Spike-Cannon",
+    "Spike Cannon",
+    "Spike-Cannon (move)"
+  ],
+  "updatedAt": 1773327437
+}

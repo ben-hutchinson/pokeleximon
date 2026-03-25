@@ -1,0 +1,34 @@
+{
+  "answerKey": "SOLARBLADE",
+  "answerDisplay": "SOLAR BLADE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Solar Blade (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Solar_Blade_(move)",
+  "pageId": 215497,
+  "pageRevisionId": 4476730,
+  "leadText": "Solar Blade (Japanese: ソーラーブレード Solar Blade) is a damage-dealing Grass-type move introduced in Generation VII. Prior to Generation VIII, it was the signature move of Lurantis. It is: TM12 in Pokémon Sword and Shield. TM190 in Pokémon Scarlet and Violet. TM152 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Solar Blade charges up sunlight on the first turn and then unleashes the power as an attack on the second. Solar Blade will not need a turn to charge if used during harsh sunlight . It will have its power halved if used during rain , hail , or sandstorm . If a Pokémon holding a Power Herb uses Solar Blade, it will consume the Power Herb to execute Solar Blade in one turn. If there is harsh sunlight , the Power Herb will not be consumed. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Solar Blade cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA In this two-turn attack, the user gathers light and fills a blade with the light's energy, attacking the target on the next turn. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user gathers light on the first turn, then fills a blade with the light's energy and attacks on the next turn. ZA The user attacks by gathering a great deal of light, then funneling it into a huge blade to swing at its targets. This move takes some time to carry out."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Solar Blade is the only move with a base power of 125. Solar Blade can be considered as the physical version of Solar Beam for having identical mechanics of being a two-turn attack as well as negating its charging turn under harsh sunlight."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Solar-Blade",
+    "Solar Blade",
+    "Solar-Blade (move)"
+  ],
+  "updatedAt": 1773327368
+}

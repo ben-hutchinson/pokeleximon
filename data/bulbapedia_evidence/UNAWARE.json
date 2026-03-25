@@ -1,0 +1,33 @@
+{
+  "answerKey": "UNAWARE",
+  "answerDisplay": "UNAWARE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Unaware (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Unaware_(Ability)",
+  "pageId": 15662,
+  "pageRevisionId": 4407503,
+  "leadText": "This article is about the Ability that involves stat changes. For the Ability with a synonymous meaning, see Oblivious (Ability). Unaware (Japanese: てんねん Airhead) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Bidoof and Bibarel.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If a Pokémon with this Ability uses a damaging move or is targeted by a damaging move, the other Pokémon's stat stages are ignored during damage and accuracy calculation. Specifically, when a Pokémon with this Ability uses a damaging move, the evasion stat stages of the targets are ignored during accuracy calculation, and the Defense and Special Defense stat stages of the targets are ignored during damage calculation; when a Pokémon with this Ability is targeted by a damaging move, the accuracy stat stages of the attacking Pokémon are ignored during accuracy calculation, and the Attack and Special Attack stat stages of the attacking Pokémon are ignored during damage calculation. Unaware will not prevent the moves Gyro Ball , Electro Ball , Stored Power , Punishment , and Power Trip from factoring in the stat changes that determine their power. This Ability has no effect on a Pokémon hurting itself in confusion . Unaware does not ignore the damage decrease from being burned as being burned halves the move's power, not the user's attack stat. Outside of battle [ edit | edit source ] Unaware has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] If a Pokémon with this Ability uses a damaging move or is targeted by a damaging move, the other Pokémon's stat stages are ignored during damage and accuracy calculation. Specifically, when a Pokémon with this Ability uses a damaging move, the evasion stat stages of the targets are ignored during accuracy calculation, and the Defense and Special Defense stat stages of the targets are ignored during damage calculation; when a Pokémon with this Ability is targeted by a damaging move, the accuracy stat stages of the attacking Pokémon are ignored during accuracy calculation, and the Attack and Special Attack stat stages of the attacking Pokémon are ignored during damage calculation. Unaware will not prevent the moves Gyro Ball , Electro Ball , Stored Power , Punishment , and Power Trip from factoring in the stat changes that determine their power. This Ability has no effect on a Pokémon hurting itself in confusion . Unaware does not ignore the damage decrease from being burned as being burned halves the move's power, not the user's attack stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Enables the Pokémon to ignore a foe's stat modifications. B S L あいての こうげきなどの だんかいと ばいりつを むしする Conq. Ignores any stat changes in enemy Pokémon. MD GtI Ignores the other Pokémon's stat changes. * The changes to other Pokémon's stats are ignored when the Pokémon attacks or is attacked! * S MD The changes to other Pokémon's stats are ignored when the Pokémon attacks or is attacked!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Unaware",
+    "Unaware (Ability)"
+  ],
+  "updatedAt": 1773329295
+}

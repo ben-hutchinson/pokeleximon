@@ -1,0 +1,30 @@
+{
+  "answerKey": "WILDBOLTSTORM",
+  "answerDisplay": "WILDBOLT STORM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Wildbolt Storm (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Wildbolt_Storm_(move)",
+  "pageId": 268734,
+  "pageRevisionId": 4406220,
+  "leadText": "Wildbolt Storm (Japanese: かみなりあらし Thunderous Storm) is a damage-dealing Electric-type move introduced during Generation VIII, in Pokémon Legends: Arceus. It is the signature move of Thundurus.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Wildbolt Storm inflicts damage and has a 30% chance of paralyzing the target. Pokémon Legends: Arceus Category Special PP 5 Agile Strong Power 95 75 115 Accuracy 80% 80% 90% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 30% 30% 50% Turns 3 2 4 ? ? Inflicts the target with paralysis Generation IX [ edit | edit source ] Wildbolt Storm's PP and power were changed to 10 and 100, respectively. It now has a 20% chance of paralyzing each target. In a battle with multiple opponents, Wildbolt Storm will target all adjacent opponents. When used during rain , Wildbolt Storm bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . Wildbolt Storm is a wind move ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA The user summons a thunderous tempest and savagely attacks with lightning and wind. This may also leave the target with paralysis. S V The user summons a thunderous tempest and savagely attacks with lightning and wind. This may also leave opposing Pokémon with paralysis."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Wildbolt-Storm",
+    "Wildbolt Storm",
+    "Wildbolt-Storm (move)"
+  ],
+  "updatedAt": 1773328515
+}

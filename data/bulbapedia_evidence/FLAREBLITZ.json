@@ -1,0 +1,38 @@
+{
+  "answerKey": "FLAREBLITZ",
+  "answerDisplay": "FLARE BLITZ",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Flare Blitz (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Flare_Blitz_(move)",
+  "pageId": 17054,
+  "pageRevisionId": 4500895,
+  "leadText": "Flare Blitz (Japanese: フレアドライブ Flare Drive) is a damage-dealing Fire-type move introduced in Generation IV. It is: TR55 in Pokémon Sword and Shield. TM165 in Pokémon Scarlet and Violet. TM104 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Flare Blitz inflicts damage, and the user receives recoil damage equal to ⅓ of the damage done to the target. This move has a 10% chance of burning the target. If the user is frozen , Flare Blitz will thaw the user out, then inflict damage on the target. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Flare Blitz's PP has been reduced to 5, and its base power has been lowered to 100. It also cures the user of frostbite. Pokémon Legends: Arceus Category Physical PP 5 Agile Strong Power 100 80 120 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 20% 20% 40% Turns 3 2 4 Recoil 33% 33% 50% May inflict the target with burn Damages the user by a percentage of damage dealt Cures the user of frostbite Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 120 144 Cooldown 8s Move wind-up time 15 frames Effect duration —s Additional effect Chance 10% Recoil 33% — May burn the target. Damages the user by a percentage of damage dealt."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user cloaks itself in fire and charges at the foe. The user sustains serious damage, too. B W B2 W2 The user cloaks itself in fire and charges at the target. The user sustains serious damage and may leave the target burned. X Y OR AS The user cloaks itself in fire and charges the target. This also damages the user quite a lot. This may leave the target with a burn. S M US UM P E Sw Sh BD SP The user cloaks itself in fire and charges the target. This also damages the user quite a lot. This attack may leave the target with a burn. LA The user cloaks itself in fire and charges the target to inflict damage. This also damages the user and may leave the target with a burn. S V The user cloaks itself in fire and charges the target to inflict damage. This also damages the user quite a lot and may leave the target with a burn. ZA The user attacks by charging forward while cloaked in flames. This may leave targets with a burn. The user will also take some damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target, but it also hurts the user. It may also afflict the targeted enemy with a Burn status condition. It thaws out frozen Pokémon. B S L てきポケモンに ダメージをあたえるが じぶんも ダメージをうけてしまう いっていのかくりつで やけどじょうたいにかえる こおっていたポケモンは こおりがとける MD GtI It damages an enemy, but you receive recoil damage, too. It could also cause the Burn status condition to the enemy. Super Smash Bros. for Nintendo 3DS/Wii U A powerful flaming tackle that also hurts you. * Super Smash Bros. Ultimate Charges forward, engulfed in flame, and explodes. It's so powerful, even Charizard takes damage! * S MD It damages an enemy, but you'll receive recoil damage, too. It could also leave the enemy with a burn."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation IV , Flare Blitz was the only Fire-type Smart move. This no longer applies in Generation VI , where it is instead a Cool move. Flare Blitz is the only Fire-type move that causes recoil damage."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Flare-Blitz",
+    "Flare Blitz",
+    "Flare-Blitz (move)"
+  ],
+  "updatedAt": 1773322860
+}

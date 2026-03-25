@@ -1,0 +1,34 @@
+{
+  "answerKey": "MAGNETPULL",
+  "answerDisplay": "MAGNET PULL",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Magnet Pull (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Magnet_Pull_(Ability)",
+  "pageId": 4118,
+  "pageRevisionId": 4392863,
+  "leadText": "Magnet Pull (Japanese: じりょく Magnetism) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation VI onward 1.2 Outside of battle 1.2.1 Generation IV 1.2.2 Generation VIII 1.2.3 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] Magnet Pull prevents adjacent Steel-type opponents from fleeing (including Teleport ) or switching out as long as the user remains in battle. However, if a Pokémon with Magnet Pull switches in, opponents are not prevented from switching out for that turn. Using Baton Pass , U-turn , Volt Switch , Flip Turn , or Parting Shot will still cause the Pokémon to switch out. Holding a Shed Shell allows the Pokémon to switch out, but not flee or use Teleport. Having the Ability Run Away or holding a Smoke Ball allows the Pokémon to flee or use Teleport, but not switch. If the player does not switch out a fainted Pokémon and instead attempts to flee, they will not be affected by a wild Pokémon with Shadow Tag. Magnet Pull affects allies only in Generation III . Generation VI onward [ edit | edit source ] Steel-type Pokémon are now unaffected by Magnet Pull if they have Ghost as another type. Outside of battle [ edit | edit source ] From Pokémon Emerald onwards, if a Pokémon with Magnet Pull is in the first place in the party (even if fainted ), then there is a 50% chance the game will force an encounter with a Steel-type Pokémon, if one is possible. Generation IV [ edit | edit source ] In Pokémon HeartGold and SoulSilver only, if a Pokémon with Magnet Pull breaks a rock , it receives a flat 5% increase in odds of finding an item. Generation VIII [ edit | edit source ] In Pokémon Sword and Shield only, the chance is 51% instead. Generation IX [ edit | edit source ] In Pokémon Scarlet and Violet , this Ability has no effect outside of battle, with its former field function effectively being replaced by Meal Powers ."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Magnet Pull prevents adjacent Steel-type opponents from fleeing (including Teleport ) or switching out as long as the user remains in battle. However, if a Pokémon with Magnet Pull switches in, opponents are not prevented from switching out for that turn. Using Baton Pass , U-turn , Volt Switch , Flip Turn , or Parting Shot will still cause the Pokémon to switch out. Holding a Shed Shell allows the Pokémon to switch out, but not flee or use Teleport. Having the Ability Run Away or holding a Smoke Ball allows the Pokémon to flee or use Teleport, but not switch. If the player does not switch out a fainted Pokémon and instead attempts to flee, they will not be affected by a wild Pokémon with Shadow Tag. Magnet Pull affects allies only in Generation III . Generation VI onward [ edit | edit source ] Steel-type Pokémon are now unaffected by Magnet Pull if they have Ghost as another type."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Immobilizes Steel-type attackers. B S L こうげきしてきた はがねタイプの ポケモンを いどうできなくしてしまう MD GtI Unavailable S MD Steel-type Pokémon next to the Pokémon can't move! It has no effects on Pokémon other than Steel types and has no effect on Pokémon with the Run Away Ability. MD RT DX Steel-type enemies next to the Pokémon can't walk. However, in some special cases, this Ability will have no effect."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Magnet-Pull",
+    "Magnet Pull",
+    "Magnet-Pull (Ability)"
+  ],
+  "updatedAt": 1774214456
+}

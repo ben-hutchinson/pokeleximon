@@ -1,0 +1,37 @@
+{
+  "answerKey": "SMOG",
+  "answerDisplay": "SMOG",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Smog (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Smog_(move)",
+  "pageId": 3732,
+  "pageRevisionId": 4402579,
+  "leadText": "Smog (Japanese: スモッグ Smog) is a damage-dealing Poison-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation I to V [ edit | edit source ] Smog inflicts damage and has a 40% chance of poisoning the target. Smog can be used as the first move of a Pokémon Contest combination , causing SmokeScreen to score double the normal appeal if used in the next turn. Smog's base power was 20. Generation VI onwards [ edit | edit source ] Smog's base power changed from 20 to 30."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 Smog is spewed as a cloud. Has a fifty-fifty chance of poisoning the target. G S C An attack that may poison the foe. R S E Colo XD An exhaust-gas attack that may also poison. FR LG The foe is attacked with exhaust gases. It may also poison the foe. D P Pt HG SS PBR The foe is attacked with a discharge of filthy gases. It may also poison the target. B W B2 W2 The target is attacked with a discharge of filthy gases. It may also poison the target. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The target is attacked with a discharge of filthy gases. This may also poison the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also leave the target poisoned, damaging it over several turns. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Poisoned status condition, which causes periodic damage. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで どくじょうたいにして いっていターンごとに ダメージをあたえる MD GtI It damages an enemy. It could also cause the Poisoned status condition. With the Poisoned status, the enemy keeps taking damage and can't restore its HP naturally. S MD It damages an enemy. It could also make the enemy poisoned."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Pokémon Stadium and Stadium 2 , Smog is described as having a 50% chance of poisoning its target, but it actually has a 40% chance."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Smog",
+    "Smog (move)"
+  ],
+  "updatedAt": 1773327194
+}

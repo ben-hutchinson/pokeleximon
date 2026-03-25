@@ -1,0 +1,34 @@
+{
+  "answerKey": "ACIDARMOR",
+  "answerDisplay": "ACID ARMOR",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Acid Armor (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Acid_Armor_(move)",
+  "pageId": 3760,
+  "pageRevisionId": 4439750,
+  "leadText": "Acid Armor (Japanese: とける Liquefy) is a non-damaging Poison-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations I to V 1.2 Generation VI onward 1.3 Generation VIII 1.3.1 Pokémon Legends: Arceus 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generations I to V [ edit | edit source ] Acid Armor increases the user's Defense by two stages. Generation VI onward [ edit | edit source ] Acid Armor's PP was changed from 40 to 20. If powered up by a Poisonium Z into Z-Acid Armor, all of the user's lowered stats are reset. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Status PP 20 Agile Strong Power — — — Accuracy —% —% —% Action speed modifier Self -3 -4 +5 Target ? ? ? Additional effect Turns 5 4 7 ? ? ? ? Raises the user's defensive stats Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 9s Move wind-up time 1 frame Effect duration 30s 33s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 Melts the user's body for protection. A move that sharply raises Defense . G S C Sharply raises the user's Defense . R S E Colo XD Liquifies the user's body to sharply raise Defense . FR LG The user alters its cells to liquefy itself and sharply raise Defense . D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP The user alters its cellular structure to liquefy itself, sharply raising its Defense stat. LA The user alters its cellular structure to liquefy itself, raising its defensive stats. S V The user alters its cellular structure to liquefy itself, sharply boosting its Defense stat. ZA The user boosts its Defense stat for a while by altering its cellular structure to become liquefied."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts the user's Defense by two levels. MD T D S Boosts the user's Defense by 2 levels. B S L じぶんの ぼうぎょを ２だんかいあげる MD GtI It sharply boosts your Defense. (The stat change returns to normal when you go to the next floor or step on a Wonder Tile.) S MD It sharply boosts your Defense. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Acid-Armor",
+    "Acid Armor",
+    "Acid-Armor (move)"
+  ],
+  "updatedAt": 1773320667
+}

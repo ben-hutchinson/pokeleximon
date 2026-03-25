@@ -1,0 +1,30 @@
+{
+  "answerKey": "HAPPYHOUR",
+  "answerDisplay": "HAPPY HOUR",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Happy Hour (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Happy_Hour_(move)",
+  "pageId": 184817,
+  "pageRevisionId": 4270187,
+  "leadText": "Happy Hour (Japanese: ハッピータイム Happy Time) is a non-damaging Normal-type event-exclusive move introduced in Generation VI.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Happy Hour doubles the amount of prize money earned at the end of battle (including from Pay Day and Make It Rain ). It stacks with the Amulet Coin or Luck Incense , such that the prize money will be quadrupled if both are used. It can be stacked with the Prize Money O-Powers . It does not stack with itself. If powered up by a Normalium Z into Z-Happy Hour, the user's Attack , Defense , Special Attack , Special Defense , and Speed are raised by one stage each. Happy Hour can be used as a part of a Contest Spectacular combination , causing Bestow , Fling and Present to give an extra three appeal points if any of them is used in the next turn. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Happy Hour cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh LA S V Using Happy Hour doubles the amount of prize money received after battle. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Happy-Hour",
+    "Happy Hour",
+    "Happy-Hour (move)"
+  ],
+  "updatedAt": 1773323509
+}

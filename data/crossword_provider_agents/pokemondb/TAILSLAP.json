@@ -1,0 +1,17 @@
+{
+  "answerKey": "TAILSLAP",
+  "answerDisplay": "TAIL SLAP",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "tails and added effects for the Pokémon attack.",
+  "score": 57.88,
+  "approved": false,
+  "qualityFlags": [
+    "near_verbatim_source"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/move/tail-slap",
+  "extract": "tails and added effects for the Pokémon attack",
+  "rankPosition": 1,
+  "updatedAt": 1774213125
+}

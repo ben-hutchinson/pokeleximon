@@ -1,0 +1,26 @@
+{
+  "answerKey": "PANIOLARANCH",
+  "answerDisplay": "PANIOLA RANCH",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Paniola Ranch",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Paniola_Ranch",
+  "pageId": 218308,
+  "pageRevisionId": 4383142,
+  "leadText": "Paniola Ranch (Japanese: オハナ牧場 Ohana Ranch) is a location on Akala Island in Alola, located north of Paniola Town. It connects to Route 5 to the north and Route 6 to the south. The Pokémon Nursery is located here.",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Name origin [ edit | edit source ] The location's name in English, Paniola Ranch, refers to the Hawaiian word, paniola , meaning \"cowboy.\" The location's name in Japanese and other languages, Ohana Ranch, refer to the Hawaiian word ʻohana , meaning \"family.\""
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Paniola-Ranch",
+    "Paniola Ranch",
+    "Paniola-Ranch (location)"
+  ],
+  "updatedAt": 1773325608
+}

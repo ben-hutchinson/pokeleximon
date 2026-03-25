@@ -1,0 +1,38 @@
+{
+  "answerKey": "LEAFSTONE",
+  "answerDisplay": "LEAF STONE",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Leaf Stone",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Leaf_Stone",
+  "pageId": 9808,
+  "pageRevisionId": 4504902,
+  "leadText": "The Leaf Stone (Japanese: リーフのいし Leaf Stone) is a type of Evolution stone introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Can be used to evolve one of several Pokémon. This consumes the Leaf Stone. Causes Gloom to evolve into Vileplume Causes Weepinbell to evolve into Victreebel Causes Hisuian Voltorb to evolve into Hisuian Electrode Causes Exeggcute to evolve into Exeggutor (outside of Alola ) or Alolan Exeggutor (in Alola) Causes Eevee to evolve into Leafeon ( Generation VIII onward) The Leaf Stone cannot be used to evolve Eevee with the Gigantamax Factor into Leafeon. Causes Nuzleaf to evolve into Shiftry Causes Pansage to evolve into Simisage"
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Can be used to evolve one of several Pokémon by offering it at the Luminous Cave R B or Luminous Spring T D S or by using it in a dungeon GtI . This consumes the Leaf Stone. Causes Gloom to evolve into Vileplume Causes Weepinbell to evolve into Victreebel Causes Exeggcute to evolve into Exeggutor Causes Nuzleaf to evolve into Shiftry Causes Pansage to evolve into Simisage If thrown, it will deal 1 R B T D S /2 GtI damage (2 if sticky ). In Red Rescue Team, Blue Rescue Team, Explorers of Time, Explorers of Darkness, and Explorers of Sky, using this item in a dungeon will consume it, with no effect."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] The Leaf Stone is required to evolve certain Pokémon in Pokémon Sleep. It is consumed upon use. Weepinbell requires 80 Bellsprout Candy and a Leaf Stone to evolve into Victreebel . Eevee requires 80 Eevee Candy and a Leaf Stone to evolve into Leafeon ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A Stone used for making certain kinds of Pok é mon evolve. G S C Evolves certain kinds of Pok é mon . R S E Colo XD Makes certain species of Pok é mon evolve. FR LG A peculiar stone that makes certain species of Pok é mon evolve. It has a leaf pattern. D P Pt HG SS B W B2 W2 A peculiar stone that makes certain species of Pokémon evolve. It has a leaf pattern. X Y OR AS S M US UM P E Sw Sh BD SP LA S V ZA A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable leaf pattern."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Leaf-Stone",
+    "Leaf Stone",
+    "Leaf-Stone (item)"
+  ],
+  "updatedAt": 1773324314
+}

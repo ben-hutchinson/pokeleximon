@@ -1,0 +1,30 @@
+{
+  "answerKey": "EMBEDDEDTOWER",
+  "answerDisplay": "EMBEDDED TOWER",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Embedded Tower",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Embedded_Tower",
+  "pageId": 85166,
+  "pageRevisionId": 4382430,
+  "leadText": "The Embedded Tower (Japanese: うずもれのとう Hidden Tower) is an area located on Route 47 in Pokémon HeartGold and SoulSilver. It is where Groudon/Kyogre and Rayquaza rest.",
+  "sections": [
+    {
+      "title": "Orbs",
+      "text": "Orbs [ edit | edit source ] Kyogre HG / Groudon SS appear at the Embedded Tower when the player is in possession of the Blue Orb HG / Red Orb SS (which can be received from Mr. Pokémon after the player has obtained a Kanto first partner Pokémon in Pallet Town after defeating Red ). If a Kyogre and a Groudon that are caught at the Embedded Tower are both shown to Professor Oak , he will award the player with the Jade Orb , which causes Rayquaza to appear at the Embedded Tower; Professor Oak will not give the Jade Orb if shown Groudon and Kyogre from any other location."
+    },
+    {
+      "title": "Appearance",
+      "text": "Appearance [ edit | edit source ] The appearance of the interior changes depending on which of the trio occupies it at the time. If Kyogre is in the room, the markings on the floor will be red and depict the pattern on Kyogre's fins. If Groudon is there, then the markings will be blue and show Groudon's arm patterns. If Rayquaza is occupying the Embedded Tower, then the markings will be yellow and represent those on Rayquaza's body."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Embedded-Tower",
+    "Embedded Tower",
+    "Embedded-Tower (location)"
+  ],
+  "updatedAt": 1774213940
+}

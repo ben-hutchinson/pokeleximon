@@ -1,0 +1,38 @@
+{
+  "answerKey": "MAXETHER",
+  "answerDisplay": "MAX ETHER",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Max Ether",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Ether",
+  "pageId": 12852,
+  "pageRevisionId": 4480916,
+  "leadText": "The Max Ether (Japanese: ピーピーリカバー PP Recover) is a type of medicine introduced in Generation I. It fully restores PP for one of a Pokémon's moves. It is the improved counterpart of the Ether; it has an improved counterpart, the Max Elixir.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] When used from the Bag on a Pokémon, it fully restores the PP of one of its moves ."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] It fully restores the PP of one of the moves of the Pokémon that ingests it. If thrown, it will grant the same effect as if it was consumed by the Pokémon it hits (it cannot be caught)."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Fully restores the PP of the selected move. G S C Fully restores PP of one move. R S E Colo XD Fully restores the PP of a selected move. FR LG Fully restores a selected move's PP for one Pok é mon . D P Pt HG SS B W B2 W2 It fully restores the PP of a single selected move that has been learned by the target Pokémon. X Y OR AS S M US UM This medicine can fully restore the PP of a single selected move that has been learned by a Pokémon. P E Sw Sh BD SP This medicine can be used to fully restore the PP of a single selected move that has been learned by a Pokémon. LA This medicine can be used to fully restore the PP of a single selected move that a Pokémon knows. S V A medicine that can be used to fully restore the max PP of a single move that a Pokémon knows."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD RT DX A drink that completely restores the PP of one of your moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Max-Ether",
+    "Max Ether",
+    "Max-Ether (item)"
+  ],
+  "updatedAt": 1773324812
+}

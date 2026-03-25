@@ -1,0 +1,37 @@
+{
+  "answerKey": "EXTRASENSORY",
+  "answerDisplay": "EXTRASENSORY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Extrasensory (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Extrasensory_(move)",
+  "pageId": 3937,
+  "pageRevisionId": 4482321,
+  "leadText": "Extrasensory (Japanese: じんつうりき Supernatural Power) is a damage-dealing Psychic-type move introduced in Generation III. Prior to Generation IV, it was the signature move of Nuzleaf, but other Pokémon could still inherit it via breeding.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III to V 1.2 Generation VI onwards 1.3 Generation VIII 1.3.1 Pokémon Legends: Arceus Effect [ edit | edit source ] Generation III to V [ edit | edit source ] Extrasensory inflicts damage and has a 10% chance of causing the target to flinch . In Generation III only, Extrasensory will deal double the damage if its target had previously used Minimize . Generation VI onwards [ edit | edit source ] Extrasensory's PP changed from 30 to 20. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Extrasensory's PP has been reduced to 15, and its power has been lowered to 70. It also lowers the target's action speed . Pokémon Legends: Arceus Category Special PP 15 Agile Strong Power 70 55 85 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target +3 +5 +3 Additional effect ? ? ? ? ? ? Lowers the target's action speed"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Attacks with a peculiar power. May cause flinching. FR LG The user attacks with an odd power that may make the foe flinch. D P Pt HG SS PBR The user attacks with an odd, unseeable power. It may also make the foe flinch. B W B2 W2 The user attacks with an odd, unseeable power. It may also make the target flinch. X Y OR AS S M US UM P E Sw Sh BD SP S V The user attacks with an odd, unseeable power. This may also make the target flinch. LA The user attacks with an odd, unseeable power."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also cause the target to cringe, making it incapable of attacking or using moves. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Cringe status condition, which makes its actions fail. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで ひるみじょうたいにして わざや こうげきを だせなくする MD GtI It damages an enemy. It could also cause the Cringe status condition, which makes the enemy unable to attack or use moves. It damages even a faraway Pokémon. It could also cause the Cringe status condition, which makes the enemy unable to attack or use moves. * S MD It could cause an enemy to flinch, making it unable to attack on the next turn. * It damages an enemy. It could also cause the enemy to flinch. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Prior to its PP being reduced in Generation VI , Extrasensory had the highest PP to power ratio of all moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Extrasensory",
+    "Extrasensory (move)"
+  ],
+  "updatedAt": 1773322678
+}

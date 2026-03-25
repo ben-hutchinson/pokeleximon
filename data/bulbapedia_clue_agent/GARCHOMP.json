@@ -1,0 +1,160 @@
+{
+  "answerKey": "GARCHOMP",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4505553,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Dragon/Ground species from Gen IV",
+        "evidence_ref": "lead",
+        "specificity": 0.96
+      },
+      {
+        "text": "Evolves from Gabite",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      },
+      {
+        "text": "Final form of Gible",
+        "evidence_ref": "lead",
+        "specificity": 0.7
+      },
+      {
+        "text": "legendary Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.76
+      },
+      {
+        "text": "golden coloring",
+        "evidence_ref": "Biology",
+        "specificity": 0.74
+      },
+      {
+        "text": "130 base Attack",
+        "evidence_ref": "Game data",
+        "specificity": 0.8
+      },
+      {
+        "text": "102 base Speed",
+        "evidence_ref": "Game data",
+        "specificity": 0.78
+      },
+      {
+        "text": "130 Attack and 102 Speed",
+        "evidence_ref": "Game data",
+        "specificity": 0.9
+      },
+      {
+        "text": "Mega form becomes Garchomp/Dragon",
+        "evidence_ref": "Game data",
+        "specificity": 0.87
+      },
+      {
+        "text": "Mach Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      },
+      {
+        "text": "Gen IV Mach Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "Blue Mach Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "130 Attack, 102 Speed species",
+        "evidence_ref": "Game data",
+        "mystery_score": 0.66,
+        "specificity_score": 0.9,
+        "style": "stats"
+      },
+      {
+        "text": "Mega form turns Garchomp/Dragon",
+        "evidence_ref": "Game data",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "mega"
+      },
+      {
+        "text": "Gen IV Dragon/Ground species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.7,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Evolves from Gabite",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.72,
+        "style": "evolution"
+      },
+      {
+        "text": "Final form of Gible",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.7,
+        "style": "evolution"
+      },
+      {
+        "text": "legendary Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.48,
+        "specificity_score": 0.72,
+        "style": "signature"
+      },
+      {
+        "text": "Gen IV Mach Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.44,
+        "specificity_score": 0.66,
+        "style": "signature"
+      },
+      {
+        "text": "Blue Mach Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.64,
+        "style": "signature"
+      },
+      {
+        "text": "Monster egg-group species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.38,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Golden Gen IV Dragon/Ground species",
+        "evidence_ref": "Biology",
+        "mystery_score": 0.5,
+        "specificity_score": 0.8,
+        "style": "visual_taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "dragon/ground species",
+      "legendary pokemon"
+    ],
+    "connections_descriptors": [
+      "Mega Garchomp/Dragon forms",
+      "Gen IV Dragon/Ground species",
+      "legendary Pokemon",
+      "Gen IV species"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.82
+  },
+  "updatedAt": 1774257948
+}

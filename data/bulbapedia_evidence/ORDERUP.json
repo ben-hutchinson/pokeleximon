@@ -1,0 +1,30 @@
+{
+  "answerKey": "ORDERUP",
+  "answerDisplay": "ORDER UP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Order Up (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Order_Up_(move)",
+  "pageId": 277758,
+  "pageRevisionId": 4493024,
+  "leadText": "Order Up (Japanese: いっちょうあがり Order Up) is a damage-dealing Dragon-type move introduced in Generation IX. It is the signature move of Dondozo.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Order Up inflicts damage. If the user has a Tatsugiri in its mouth via the Commander Ability , the move's animation will change and the user will gain a stat boost based on Tatsugiri's form: Curly Form increases Attack by one stage. Droopy Form increases Defense by one stage. Stretchy Form increases Speed by one stage. Order Up is boosted by Sheer Force even if Commander is not activated, and increases to stats (if any) apply normally. Generation IX [ edit | edit source ] Prior to Version 1.2.0 of Pokémon Scarlet and Violet , Order Up would increase the stats of a Dondozo with a Tatsugiri even if the move was negated (eg. via Protect ). This was due to a bug and was fixed in the Version 1.2.0 update."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user attacks with elegant poise. If the user has a Tatsugiri in its mouth, this move boosts one of the user's stats based on the Tatsugiri's form. ZA The user attacks with roguish poise. If the user has a Tatsugiri in its mouth, this move boosts one of the user's stats based on the Tatsugiri's form."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Order-Up",
+    "Order Up",
+    "Order-Up (move)"
+  ],
+  "updatedAt": 1773325534
+}

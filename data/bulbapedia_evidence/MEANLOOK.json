@@ -1,0 +1,38 @@
+{
+  "answerKey": "MEANLOOK",
+  "answerDisplay": "MEAN LOOK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Mean Look (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mean_Look_(move)",
+  "pageId": 3823,
+  "pageRevisionId": 4426844,
+  "leadText": "Mean Look (Japanese: くろいまなざし Dark Look) is a non-damaging Normal-type move introduced in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generations III and IV 1.3 Generation V 1.4 Generation VI onwards Effect [ edit | edit source ] Generation II [ edit | edit source ] Mean Look prevents the target from switching out or fleeing (including via Teleport ). It bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . The effect only applies as long as the Pokémon that used it remains in battle. It will hit the target even if it has used Protect or Detect . The affected Pokémon can still switch out via Baton Pass , but in that case, the Pokémon that switches in will now be affected. Conversely, the Pokémon that used Mean Look can switch out with Baton Pass and the effects of Mean Look will still apply. Also, if the affected Pokémon is Roared at or hit with a Whirlwind , they will still be switched out. If a wild Pokémon uses Mean Look on the player's Pokémon, the player will be unable to escape. Generations III and IV [ edit | edit source ] Pokémon affected by Mean Look can escape (but not switch out) if the Pokémon has the Ability Run Away or is holding a Smoke Ball . It is now blocked by Protect and Detect . Pokémon affected by Mean Look can now switch out with U-turn . Mean Look can be used as the first move of a Pokémon Contest combination , causing Destiny Bond and Perish Song to score double the normal appeal if used in the next turn. It can also be used to finish a combination, with the user gaining 2 bonus appeal points if Curse was used in the previous turn. Generation V [ edit | edit source ] If a Pokémon traps a target with Mean Look and then switches with Baton Pass, the target will no longer be trapped. Pokémon affected by Mean Look can also switch out with Volt Switch . Also, Dragon Tail and Circle Throw will force the affected Pokémon to switch out. Generation VI onwards [ edit | edit source ] Mean Look no longer affects Ghost-type Pokémon. It will now hit the target even if it has used Protect , Detect , or Spiky Shield , but will fail if the target is protected by Crafty Shield . Pokémon affected by Mean Look can also switch out with Parting Shot and Flip Turn . Mean Look can also be used as part of a Contest Spectacular combination , causing certain moves ( Explosion , Memento , Perish Song and Self-Destruct ) to give an extra three appeal points if used in the next turn. If powered up by a Normalium Z into Z-Mean Look, the user's Special Defense stat is raised by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A probing stare that prevents the target from escaping until the attacking Pok é mon is gone. G S C Prevents fleeing or switching. R S E Fixes the foe with a mean look that prevents escape. FR LG The foe is fixed with a mean look that prevents it from escaping. Colo XD Fixes the target with a look that prevents escape. D P Pt HG SS PBR The user affixes the foe with a dark, arresting look. The target becomes unable to flee. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user pins the target with a dark, arresting look. The target becomes unable to flee."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts the Leg Hold status on the target, making it incapable of movement. MD T D S Afflicts the targeted enemy with a Shadow Hold status condition. A Pokémon with the Shadow Hold status is incapable of movement. B S L てきポケモンを かげふみじょうたいにかえる かげふみじょうたいの ポケモンは いどうできない MD GtI It causes the Stuck status condition to an enemy. With the Stuck status, the enemy can't move. S MD It causes an enemy to get stuck."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Zubat can learn this move despite having no eyes. In Generation III , the status screen erroneously states that the move has 100% accuracy, even though it ignores accuracy and evasion checks. The stock image used in the battle animation of Mean Look from Generation VII onwards appears to be based on Espurr 's eyes, which can't itself learn the move. This trait is shared with Tearful Look and Baby-Doll Eyes VII + ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mean-Look",
+    "Mean Look",
+    "Mean-Look (move)"
+  ],
+  "updatedAt": 1773324857
+}

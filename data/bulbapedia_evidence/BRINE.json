@@ -1,0 +1,37 @@
+{
+  "answerKey": "BRINE",
+  "answerDisplay": "BRINE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Brine (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Brine_(move)",
+  "pageId": 13680,
+  "pageRevisionId": 4500971,
+  "leadText": "Brine (Japanese: しおみず Brine) is a damage-dealing Water-type move introduced in Generation IV. It is TM55 in Generation IV and Generation VIII, as well as in Pokémon Brilliant Diamond and Shining Pearl.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Brine inflicts damage, and its power doubles to 130 when the target is at or below 50% health."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS If the foe's HP is down to about half, this attack will hit with double the power. (move) If the foe's HP is down to under half, this attack will hit with double the power. * PBR If the foe's HP is down to about half, this attack will hit with double the power. B W B2 W2 If the target's HP is down to about half, this attack will hit with double the power. X Y OR AS S M US UM P E Sw Sh BD SP LA If the target's HP is half or less, this attack will hit with double the power. S V This move's power is doubled if the target's HP is at half or less."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. It will inflict double damage if the target's HP is down to half or lower. B S L てきポケモンに ダメージをあたえる あいての ＨＰが はんぶんいかの ときには ダメージが ２ばいになる Conq. If the target's HP is down to about half, this attack will hit with double the power. MD GtI S MD MD RT DX It damages an enemy. It will cause more damage if the enemy's HP is down to half or lower."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Brine's effect of becoming stronger when the opponent is low on HP might be inspired by the idiom rubbing salt into the wound , meaning to make a bad situation even worse. Brine is the only Water-type Clever move. Brine is the only Water-type move introduced in Generation IV that doesn't have the word \"aqua\" in its name."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Brine",
+    "Brine (move)"
+  ],
+  "updatedAt": 1773321356
+}

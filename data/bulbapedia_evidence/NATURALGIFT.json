@@ -1,0 +1,38 @@
+{
+  "answerKey": "NATURALGIFT",
+  "answerDisplay": "NATURAL GIFT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Natural Gift (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Natural_Gift_(move)",
+  "pageId": 14448,
+  "pageRevisionId": 4491484,
+  "leadText": "Natural Gift (Japanese: しぜんのめぐみ Nature's Blessing) is a Normal-type move introduced in Generation IV. It was TM83 in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation V to VII 1.3 Generation VIII onwards 1.4 Power Effect [ edit | edit source ] Generation IV [ edit | edit source ] Natural Gift inflicts damage and has no secondary effect. Natural Gift's power and type vary depending on the user's held Berry . Using Natural Gift consumes the held Berry, even if the move fails due to accuracy miss. The move will fail if the user is not holding a Berry, or if it cannot use its held Berry (due to Klutz , Magic Room , or Embargo ). Natural Gift is affected by Normalize . Generation V to VII [ edit | edit source ] Natural Gift is unaffected by Normalize, Pixilate , Refrigerate , and Aerilate . However, it is affected by Ion Deluge (if the move would be Normal-type) and Electrify . If a Red Card forces the user to leave the battlefield, the Berry is not consumed. If Powder prevents the move from being executed, the Berry is not consumed. If Natural Gift cannot be fully executed due to heavy rain (for the Fire -type damage) or extremely harsh sunlight (for the Water -type damage), the Berry is not consumed. Consuming a berry via Natural Gift does not interact with Unnerve , Cheek Pouch , or Belch . Generation VIII onwards [ edit | edit source ] Natural Gift cannot be selected in a battle. Power [ edit | edit source ] The type and power of Natural Gift vary as follows. No. Spr Berry Type Power IV-V VI-VII 01 Cheri Berry Fire 60 80 02 Chesto Berry Water 60 80 03 Pecha Berry Electric 60 80 04 Rawst Berry Grass 60 80 05 Aspear Berry Ice 60 80 06 Leppa Berry Fighting 60 80 07 Oran Berry Poison 60 80 08 Persim Berry Ground 60 80 09 Lum Berry Flying 60 80 10 Sitrus Berry Psychic 60 80 11 Figy Berry Bug 60 80 12 Wiki Berry Rock 60 80 13 Mago Berry Ghost 60 80 14 Aguav Berry Dragon 60 80 15 Iapapa Berry Dark 60 80 16 Razz Berry Steel 60 80 17 Bluk Berry Fire 70 90 18 Nanab Berry Water 70 90 19 Wepear Berry Electric 70 90 20 Pinap Berry Grass 70 90 21 Pomeg Berry Ice 70 90 22 Kelpsy Berry Fighting 70 90 23 Qualot Berry Poison 70 90 24 Hondew Berry Ground 70 90 25 Grepa Berry Flying 70 90 26 Tamato Berry Psychic 70 90 27 Cornn Berry Bug 70 90 28 Magost Berry Rock 70 90 29 Rabuta Berry Ghost 70 90 30 Nomel Berry Dragon 70 90 31 Spelon Berry Dark 70 90 32 Pamtre Berry Steel 70 90 33 Watmel Berry Fire 80 100 34 Durin Berry Water 80 100 35 Belue Berry Electric 80 100 36 Occa Berry Fire 60 80 37 Passho Berry Water 60 80 38 Wacan Berry Electric 60 80 39 Rindo Berry Grass 60 80 40 Yache Berry Ice 60 80 41 Chople Berry Fighting 60 80 42 Kebia Berry Poison 60 80 43 Shuca Berry Ground 60 80 44 Coba Berry Flying 60 80 45 Payapa Berry Psychic 60 80 46 Tanga Berry Bug 60 80 47 Charti Berry Rock 60 80 48 Kasib Berry Ghost 60 80 49 Haban Berry Dragon 60 80 50 Colbur Berry Dark 60 80 51 Babiri Berry Steel 60 80 52 Chilan Berry Normal 60 80 53 Liechi Berry Grass 80 100 54 Ganlon Berry Ice 80 100 55 Salac Berry Fighting 80 100 56 Petaya Berry Poison 80 100 57 Apicot Berry Ground 80 100 58 Lansat Berry Flying 80 100 59 Starf Berry Psychic 80 100 60 Enigma Berry Bug 80 100 61 Micle Berry Rock 80 100 62 Custap Berry Ghost 80 100 63 Jaboca Berry Dragon 80 100 64 Rowap Berry Dark 80 100 65 Roseli Berry Fairy — 80 — Kee Berry Fairy — 100 — Maranga Berry Dark — 100"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS The user draws power to attack by using its held Berry. The Berry determines its type and power. (move) The user draws power from the Berry it is holding to attack. The Berry determines its type and power. (TM) PBR B W B2 W2 The user draws power to attack by using its held Berry. The Berry determines its type and power. X Y OR AS S M US UM P E The user draws power to attack by using its held Berry. The Berry determines the move's type and power. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D Inflicts damage on the target. The move's type and power will change, based on the kind of Berry the user is holding, if any. MD S Inflicts damage on the target. The move's type and power will change based on the kind of Berry the user is holding, if any. B S L てきポケモンに ダメージをあたえる きのみを もっていると わざの タイプや いりょくが かわる MD GtI It damages an enemy. The move's type and power will change based on the kind of Berry you are holding, if any. S MD The move's type changes, and its power goes up if you're carrying an item. MD RT DX It damages an enemy. If you're holding food, such as Berries or seeds, the move's type will change and the power will go up."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] For the Cram-o-matic , every Berry uses the same type as the type the Natural Gift gets converted to with that Berry, and its value correlates to Natural Gift's power in Generation VII : 2 Cram-o-matic points: 80 power, except damage-reducing Berries and Berries that may cause confusion 4 Cram-o-matic points: 80 power, only damage-reducing Berries and Berries that may cause confusion 6 Cram-o-matic points: 90 power 10 Cram-o-matic points: 100 power"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Natural-Gift",
+    "Natural Gift",
+    "Natural-Gift (move)"
+  ],
+  "updatedAt": 1773325299
+}

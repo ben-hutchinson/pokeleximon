@@ -1,0 +1,30 @@
+{
+  "answerKey": "BIRTHISLAND",
+  "answerDisplay": "BIRTH ISLAND",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Birth Island",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Birth_Island",
+  "pageId": 8576,
+  "pageRevisionId": 4498383,
+  "leadText": "Birth Island (Japanese: たんじょうのしま Birth Island) is a location near Six and Seven Islands in the Sevii Islands, accessible in Pokémon FireRed, LeafGreen, and Emerald. The Mythical Pokémon Deoxys dwells on this island.",
+  "sections": [
+    {
+      "title": "Role",
+      "text": "Role [ edit | edit source ] The player can reach Birth Island only after obtaining the AuroraTicket (downloaded through Mystery Gift in the original releases, or after entering Hall of Fame in the Nintendo Switch re-release of Pokémon FireRed and LeafGreen ) and sailing there by talking to the Sailor in front of the Seagallop Ferries in FireRed and LeafGreen (only after obtaining the Rainbow Pass ), or by boarding the S.S. Tidal in Pokémon Emerald . Like Navel Rock , Birth Island is invisible on the Town Map by default in FireRed and LeafGreen due to its event -only status, only appearing when the player first arrives there. This is in contrast to the other Sevii Islands, which appear on the Town Map even before the player has visited them. It also never appears on the PokéNav 's map in Emerald. Upon first arriving at the island, the only thing the player will find is an inert, black, triangular rock. To make Deoxys appear, the player must solve a puzzle by following the rock: each time the rock is interacted with, it will move to a different position on the island, and the player must perform the shortest possible path to the rock's new position. Each successful interaction will cause the rock to glow more; the puzzle is solved once the rock returns to one space above its original position and glows a bright red. Interacting with the rock in this state will cause it to shatter and Deoxys to appear. If the player fails to follow the shortest path before the puzzle is solved, interacting with the rock will reset the puzzle, moving the rock back to its original position and reverting it to black."
+    },
+    {
+      "title": "Puzzle",
+      "text": "Puzzle [ edit | edit source ] To solve the puzzle and make Deoxys appear, the player must do the following: Approach the triangle from below and press A . Press ← 5×, ↓ once, then A . Press → 5×, ↑ 5×, then A . Press → 5×, ↓ 5×, then A . Press ↑ 3×, ← 7×, then A . Press → 5×, then A . Press ← 3×, ↓ 2×, then A . Press ↓ once, ← 4×, then A . Press → 7×, then A . Press ← 4×, ↓ once, then A . Press ↑ 4×, then A ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Birth-Island",
+    "Birth Island",
+    "Birth-Island (location)"
+  ],
+  "updatedAt": 1773328772
+}

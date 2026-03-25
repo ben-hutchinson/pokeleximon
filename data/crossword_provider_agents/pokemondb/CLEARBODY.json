@@ -1,0 +1,17 @@
+{
+  "answerKey": "CLEARBODY",
+  "answerDisplay": "CLEAR BODY",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this ability, and the list of Pokémon that learn it.",
+  "score": 102.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/ability/clear-body",
+  "extract": "Body, and the list of Pokémon that learn it.",
+  "rankPosition": 1,
+  "updatedAt": 1774210867
+}

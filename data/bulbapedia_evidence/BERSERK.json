@@ -1,0 +1,29 @@
+{
+  "answerKey": "BERSERK",
+  "answerDisplay": "BERSERK",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Berserk (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Berserk_(Ability)",
+  "pageId": 214116,
+  "pageRevisionId": 4512567,
+  "leadText": "Berserk (Japanese: ぎゃくじょう Frenzy) is an Ability introduced in Generation VII. Prior to Generation VIII, it was the signature Ability of Drampa. In Generation IX, it is the signature Ability of Galarian Moltres.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Each time the HP of a Pokémon with Berserk is reduced below half due to being targeted by a damaging move, its Special Attack is raised by one stage. If the HP of a Pokémon with Berserk drops below half but is about to be restored to above half due to a held item such as a Sitrus Berry , Berserk will activate before the HP is restored. However, if the move that hits the Pokémon with Berserk is a multistrike move , the item will be consumed immediately after the hit that drops the HP to below half, so Berserk will only activate if the HP is still below half after all the strikes and after the activation of the held item. If the HP falls below half due to indirect damage, such as one caused by Leech Seed , status conditions, or weather, Berserk won't activate. Berserk will not activate if the Pokémon's HP is reduced below half by a move affected by Sheer Force . Outside of battle [ edit | edit source ] Berserk has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Each time the HP of a Pokémon with Berserk is reduced below half due to being targeted by a damaging move, its Special Attack is raised by one stage. If the HP of a Pokémon with Berserk drops below half but is about to be restored to above half due to a held item such as a Sitrus Berry , Berserk will activate before the HP is restored. However, if the move that hits the Pokémon with Berserk is a multistrike move , the item will be consumed immediately after the hit that drops the HP to below half, so Berserk will only activate if the HP is still below half after all the strikes and after the activation of the held item. If the HP falls below half due to indirect damage, such as one caused by Leech Seed , status conditions, or weather, Berserk won't activate. Berserk will not activate if the Pokémon's HP is reduced below half by a move affected by Sheer Force ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Berserk",
+    "Berserk (Ability)"
+  ],
+  "updatedAt": 1774213662
+}

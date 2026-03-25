@@ -1,0 +1,76 @@
+{
+  "answerKey": "ADAPTABILITY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4360899,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Adaptability (Japanese: Adaptability) is an Ability introduced in Generation IV.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the power of the Pokemon's moves that match its type. B S L MD GtI Increases the power of moves that are the same type as the Pokemon. * The power of moves that are the same type as the Pokemon goes up. * S MD The power of moves that are the same type as the Pokemon goes up. MD RT DX This Ability increases the power of moves that are the same type as this Pokemon.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Adaptability increases STAB of a Pokemon with this Ability from 1.5 to 2. When a Pokemon with Adaptability is Terastallized , Adaptability only affects moves of the Tera Type. If the Pokemon's Tera Type is one of its original types, its STAB is 2.25; otherwise, it's 2. Stellar-type moves are unaffected by Adaptability. Outside of battle [ edit | edit source ] Adaptability has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Adaptability increases STAB of a Pokemon with this Ability from 1.5 to 2. When a Pokemon with Adaptability is Terastallized , Adaptability only affects moves of the Tera Type. If the Pokemon's Tera Type is one of its original types, its STAB is 2.25; otherwise, it's 2. Stellar-type moves are unaffected by Adaptability.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Increases the same-type attack bonus from 1.5 to 2.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Boosts same-type attacks",
+        "evidence_ref": "lead",
+        "mystery_score": 0.7,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Stronger matching-move trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.66,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Enhanced STAB trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.76,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "same-type booster"
+    ],
+    "connections_descriptors": [
+      "Damage-boosting abilities",
+      "Gen IV abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257924
+}

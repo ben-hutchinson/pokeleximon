@@ -1,0 +1,38 @@
+{
+  "answerKey": "SLUDGEWAVE",
+  "answerDisplay": "SLUDGE WAVE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sludge Wave (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sludge_Wave_(move)",
+  "pageId": 117334,
+  "pageRevisionId": 4491904,
+  "leadText": "Sludge Wave (Japanese: ヘドロウェーブ Sludge Wave) is a damage-dealing Poison-type move introduced in Generation V. It is: TM34 from Generation V to Pokémon Ultra Sun and Ultra Moon. TR78 in Pokémon Sword and Shield. TM214 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Sludge Wave inflicts damage and has a 10% chance of poisoning the target. Sludge Wave will hit all Pokémon in Double Battles and all adjacent Pokémon in Triple Battles . Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Sludge Wave generates its damaging area around the user, similar to Bulldoze and Earthquake . Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 95 114 Cooldown 8s Move wind-up time 15 frames Effect duration —s Additional effect Chance 10% — — May poison the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 It swamps the area around the user with a giant sludge wave. It may also poison those hit. X Y OR AS S M US UM P E Sw Sh BD SP LA The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those hit. S V The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those it hits. ZA The user attacks by sending a giant wave of sludge across a wide area. This may also leave those hit poisoned."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It damages nearby enemies. It could also cause the Poisoned status condition. With the Poisoned status, they keep taking damage and can't restore their HP naturally. S MD It damages nearby enemies. It could also make them poisoned."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The Sludge Wave animation from Generation VII onwards resembles the Surf animation from Generation VI ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sludge-Wave",
+    "Sludge Wave",
+    "Sludge-Wave (move)"
+  ],
+  "updatedAt": 1773327170
+}

@@ -1,0 +1,68 @@
+{
+  "answerKey": "MIMICRY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4259043,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Mimicry (Japanese: Mimicry) is an Ability introduced in Generation VIII. It is the signature Ability of Galarian Stunfisk.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Depending on the terrain , Mimicry will change the type of a Pokemon with this Ability. Its type changes as follows: During Electric Terrain , it will become a pure Electric type. During Grassy Terrain , it will become a pure Grass type. During Misty Terrain , it will become a pure Fairy type. During Psychic Terrain , it will become a pure Psychic type. When the terrain disappears, the Pokemon reverts to its original typing. ( Transformed Pokemon with Mimicry revert to their own original typing before transforming, not the typing of the Pokemon it transformed into.) Mimicry activates after the Pokemon with Mimicry is switched in while terrain is present, or whenever there is a change in terrain; changing the Pokemon's type by other means (such as via Soak ) overrides the type caused by Mimicry. Mimicry will activate regardless of whether the Pokemon with Mimicry is grounded or not. If the Pokemon with Mimicry has an additional type due to Forest's Curse or Trick-or-Treat , when terrain triggers Mimicry, it will normally only change its regular types and not affect the additional types. However, if the Pokemon is already Grass-type due to Forest's Curse when it becomes Grass-type due to Grassy Terrain, the effect of Forest's Curse disappears. Outside of battle [ edit | edit source ] Mimicry has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Depending on the terrain , Mimicry will change the type of a Pokemon with this Ability. Its type changes as follows: During Electric Terrain , it will become a pure Electric type. During Grassy Terrain , it will become a pure Grass type. During Misty Terrain , it will become a pure Fairy type. During Psychic Terrain , it will become a pure Psychic type. When the terrain disappears, the Pokemon reverts to its original typing. ( Transformed Pokemon with Mimicry revert to their own original typing before transforming, not the typing of the Pokemon it transformed into.) Mimicry activates after the Pokemon with Mimicry is switched in while terrain is present, or whenever there is a change in terrain; changing the Pokemon's type by other means (such as via Soak ) overrides the type caused by Mimicry. Mimicry will activate regardless of whether the Pokemon with Mimicry is grounded or not. If the Pokemon with Mimicry has an additional type due to Forest's Curse or Trick-or-Treat , when terrain triggers Mimicry, it will normally only change its regular types and not affect the additional types. However, if the Pokemon is already Grass-type due to Forest's Curse when it becomes Grass-type due to Grassy Terrain, the effect of Forest's Curse disappears.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Changes type depending on the terrain.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "switching ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "switching ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen VIII ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Switching abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257976
+}

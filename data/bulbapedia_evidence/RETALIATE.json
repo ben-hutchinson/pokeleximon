@@ -1,0 +1,37 @@
+{
+  "answerKey": "RETALIATE",
+  "answerDisplay": "RETALIATE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Retaliate (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Retaliate_(move)",
+  "pageId": 117527,
+  "pageRevisionId": 4403391,
+  "leadText": "Retaliate (Japanese: かたきうち Blood Revenge) is a damage-dealing Normal-type move introduced in Generation V. It was TM67 in Generations V and VI, and TM79 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Retaliate inflicts damage. Its base power doubles from 70 to 140 if a Pokémon from the user's party has fainted in the previous turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user gets revenge for a fainted ally. If an ally fainted in the previous turn, this attack's damage increases. X Y OR AS The user gets revenge for a fainted ally. If an ally fainted in the previous turn, this move becomes more powerful. S M US UM P E Sw Sh BD SP LA The user gets revenge for a fainted ally. If an ally fainted in the previous turn, this move's power is increased. S V The user takes revenge for a fainted ally. This move's power is boosted if an ally fainted in the previous turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It damages an enemy. If you know this move, your Attack sharply goes up when your teammate faints. (The stat change returns to normal when you go to the next floor or step on a Wonder Tile.) S MD It damages an enemy. If you know this move, your Attack goes up sharply when your teammate faints. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The Japanese name of this move, かたきうち (Katakiuchi), refers to a practice common of samurai families during the Edo period, where a samurai was allowed by law to avenge the murder of a direct family member (such as a parent or older sibling), as a form of justice. [ 1 ] This may explain its move animation from Generation VI onward. This move was possibly intended to be a Dark-type move. A remnant of this is present in the Japanese versions of Black and White , with TM67 being erroneously shown as a Dark-type TM. ↑ https://www.japanese-wiki-corpus.org/history/Katakiuchi%20(Revenge).html"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Retaliate",
+    "Retaliate (move)"
+  ],
+  "updatedAt": 1773326382
+}

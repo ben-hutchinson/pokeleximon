@@ -1,0 +1,30 @@
+{
+  "answerKey": "PSYCHICSURGE",
+  "answerDisplay": "PSYCHIC SURGE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Psychic Surge (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Psychic_Surge_(Ability)",
+  "pageId": 216836,
+  "pageRevisionId": 4259075,
+  "leadText": "Psychic Surge (Japanese: サイコメイカー Psycho Maker) is an Ability introduced in Generation VII. Prior to Generation VIII, it was the signature Ability of Tapu Lele. In Generation IX, it is the signature Ability of Indeedee.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with Psychic Surge enters the battle, it creates the effect of the move Psychic Terrain on the battlefield. Outside of battle [ edit | edit source ] Psychic Surge has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with Psychic Surge enters the battle, it creates the effect of the move Psychic Terrain on the battlefield."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Psychic-Surge",
+    "Psychic Surge",
+    "Psychic-Surge (Ability)"
+  ],
+  "updatedAt": 1773329116
+}

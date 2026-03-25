@@ -1,0 +1,30 @@
+{
+  "answerKey": "PSYCHICNOISE",
+  "answerDisplay": "PSYCHIC NOISE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Psychic Noise (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Psychic_Noise_(move)",
+  "pageId": 294637,
+  "pageRevisionId": 4499322,
+  "leadText": "Psychic Noise (Japanese: サイコノイズ Psycho Noise) is a damage-dealing Psychic-type move introduced during Generation IX, in The Indigo Disk. It is TM228 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Psychic Noise deals damage and prevents the target from recovering HP for two turns. During these two turns, if the target uses a move with a healing property, such as Recover or Drain Punch , it will fail. Psychic Noise is a sound-based move . The Heal Block property of this move is considered an additional effect , and is thus blocked by Shield Dust and suppressed by Sheer Force . Aroma Veil also prevents the secondary effect from activating. Using Psychic Noise again while the Heal Block is active will not refresh the duration."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user attacks the target with unpleasant sound waves. For two turns, the target is prevented from recovering HP through moves, Abilities, or held items."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Psychic-Noise",
+    "Psychic Noise",
+    "Psychic-Noise (move)"
+  ],
+  "updatedAt": 1773326081
+}

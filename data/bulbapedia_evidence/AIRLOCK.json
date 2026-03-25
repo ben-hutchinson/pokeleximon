@@ -1,0 +1,34 @@
+{
+  "answerKey": "AIRLOCK",
+  "answerDisplay": "AIR LOCK",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Air Lock (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Air_Lock_(Ability)",
+  "pageId": 4152,
+  "pageRevisionId": 4514103,
+  "leadText": "Air Lock (Japanese: エアロック Air Lock) is an Ability introduced in Generation III. It is the signature Ability of Rayquaza.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation V 1.1.2 Generation VI 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with Air Lock is in battle, all effects of weather are negated (though the weather itself does not disappear). Generation V [ edit | edit source ] When a Pokémon with Air Lock is brought out, the message \" The effects of weather disappeared. \" will be displayed after the Ability is announced. Generation VI [ edit | edit source ] During extremely harsh sunlight , heavy rain , and strong winds , even if a Pokémon is negating the effects of weather with Air Lock, the moves Sunny Day , Rain Dance , Sandstorm , and Hail will still fail if used, and the Abilities Drought , Drizzle , Sand Stream , and Snow Warning will still fail to activate. However, all other effects of these weather conditions are negated by Air Lock. Outside of battle [ edit | edit source ] Air Lock has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with Air Lock is in battle, all effects of weather are negated (though the weather itself does not disappear). Generation V [ edit | edit source ] When a Pokémon with Air Lock is brought out, the message \" The effects of weather disappeared. \" will be displayed after the Ability is announced. Generation VI [ edit | edit source ] During extremely harsh sunlight , heavy rain , and strong winds , even if a Pokémon is negating the effects of weather with Air Lock, the moves Sunny Day , Rain Dance , Sandstorm , and Hail will still fail if used, and the Abilities Drought , Drizzle , Sand Stream , and Snow Warning will still fail to activate. However, all other effects of these weather conditions are negated by Air Lock."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Changes the weather to clear. MD T D S Changes the weather to a clear condition. B S L てんきを はれに してしまう MD GtI Unavailable S MD It changes the floor to have ineffective weather! MD RT DX This Ability causes the floor to have Ineffective Weather, removing the effects of weather."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Air-Lock",
+    "Air Lock",
+    "Air-Lock (Ability)"
+  ],
+  "updatedAt": 1774213519
+}

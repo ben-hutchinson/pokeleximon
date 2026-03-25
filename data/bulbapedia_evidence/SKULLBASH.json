@@ -1,0 +1,34 @@
+{
+  "answerKey": "SKULLBASH",
+  "answerDisplay": "SKULL BASH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Skull Bash (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Skull_Bash_(move)",
+  "pageId": 3739,
+  "pageRevisionId": 4503880,
+  "leadText": "Skull Bash (Japanese: ロケットずつき Rocket Headbutt) is a damage-dealing Normal-type move introduced in Generation I. In Generation II, it was the signature move of Squirtle's evolutionary line, but other Pokémon could still inherit it via breeding. It is TM40 in Generation I and TM146 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II to V 1.3 Generation VI 1.4 Generation IX Effect [ edit | edit source ] Generation I [ edit | edit source ] Skull Bash does nothing on the turn it is selected, other than say that the user lowered its head. On the following turn, Skull Bash will do damage, PP will be deducted from it, and it will count as the last move used. Once Skull Bash is selected, the user won't be able to switch out until it is disrupted or fully executed. If Skull Bash is not fully executed, PP will not be deducted from it, and it will not count as the last move used. If the opponent uses Mirror Move during the turn that the user lowers its head, Mirror Move will copy the move that the user executed immediately before using Skull Bash (or fail if it can't). Sleep , freeze , binding , and flinching will pause but not disrupt the duration of Skull Bash. In Stadium , Mirror Move will copy Skull Bash on either of the turns it takes to execute. Generation II to V [ edit | edit source ] On the turn it is selected, Skull Bash will raise the user's Defense by one level. If a Power Herb is held by the user, Skull Bash can be executed in one turn. Generation VI [ edit | edit source ] Skull Bash's power is changed from 100 to 130 and its PP changed from 15 to 10. Generation IX [ edit | edit source ] Skull Bash cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad In the first turn, the attacker tucks in its head. The next turn, it head-butts at full steam. Stad2 In the first turn, the attacker tucks its head. The next turn, it head-butts at full steam. G S C 1st turn: Prepare 2nd turn: Attack R S E Tucks in the head, then attacks on the next turn. FR LG The user raises its Defense in the 1st turn, then attacks in the 2nd turn. Colo XD Raises defense, then attacks on the next turn. D P Pt HG SS PBR The user tucks in its head to raise its Defense in the first turn, then rams the foe on the next turn. B W B2 W2 X Y OR AS The user tucks in its head to raise its Defense in the first turn, then rams the target on the next turn. S M US UM P E Sw Sh BD SP LA The user tucks in its head to raise its Defense stat on the first turn, then rams the target on the next turn. S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. ZA The user boosts its Defense stat for a short time by tucking its head in, then attacks by ramming into targets. This move takes some time to carry out."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Skull Bash status, causing it to attack strongly on the next turn. It is not possible to link this move. MD T D S Gives the user a Skull Bash status, which causes the Pokémon to charge power for 1 turn, then try a powerful attack on the next turn. It also boosts the Pokémon's Defense while charging. You can't link this move. B S L ロケットずつきじょうたいになり ちからをため つぎのこうどうで いりょくのたかい こうげきを くりだす しかも ちからをためたターンは ぼうぎょがあがるぞ このわざは ポケモンタワーでは くりだせない MD GtI UNUSED Super Smash Bros. for Nintendo 3DS/Wii U Charge it to increase the power and distance. * S MD You tuck your head to boost your Defense and then damage an enemy on the next turn. * You'll get the Skull Bash status condition, which lets you charge power to try a powerful attack on the next turn. It also boosts your Defense. The stat returns to normal when you go to the next floor or step on a Wonder Tile. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Skull-Bash",
+    "Skull Bash",
+    "Skull-Bash (move)"
+  ],
+  "updatedAt": 1773327096
+}

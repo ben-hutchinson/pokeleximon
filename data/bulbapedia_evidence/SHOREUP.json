@@ -1,0 +1,30 @@
+{
+  "answerKey": "SHOREUP",
+  "answerDisplay": "SHORE UP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shore Up (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shore_Up_(move)",
+  "pageId": 218331,
+  "pageRevisionId": 4462262,
+  "leadText": "Shore Up (Japanese: すなあつめ Sand Gather) is a non-damaging Ground-type move introduced in Generation VII. It is the signature move of Sandygast and Palossand.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VII 1.2 Generation VIII 1.2.1 Pokémon Sword and Shield 1.2.2 Pokémon Brilliant Diamond and Shining Pearl 1.3 Generation IX Effect [ edit | edit source ] Generation VII [ edit | edit source ] Shore Up restores the user's current HP based on the weather in the battle. Outside of a sandstorm , it restores ½ total HP; during a sandstorm, it restores ⅔ total HP, rounded down. If powered up by a Groundium Z into Z-Shore Up, all of the user's lowered stats are reset. Generation VIII [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] In Version 1.0 to 1.1.1 of Pokémon Sword and Shield , Shore Up could not be selected in a battle. Starting with Version 1.2.0, it is usable and functions as it did in previous generations. Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Shore Up cannot be selected in a battle. Generation IX [ edit | edit source ] Shore Up's PP has been reduced from 10 to 5."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA The user regains up to half of its max HP. It restores more HP in a sandstorm. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user restores its own HP by up to half its max HP. It regains more HP in a sandstorm. ZA The user restores some HP by kicking up a cloud of sand from its surroundings, then absorbing the sand into itself."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shore-Up",
+    "Shore Up",
+    "Shore-Up (move)"
+  ],
+  "updatedAt": 1773326949
+}

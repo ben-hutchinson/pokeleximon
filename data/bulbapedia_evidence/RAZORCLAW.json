@@ -1,0 +1,38 @@
+{
+  "answerKey": "RAZORCLAW",
+  "answerDisplay": "RAZOR CLAW",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Razor Claw",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Razor_Claw",
+  "pageId": 20203,
+  "pageRevisionId": 4491197,
+  "leadText": "The Razor Claw (Japanese: するどいツメ Razor Claw) is a type of held item introduced in Generation IV. It allows Sneasel to evolve into Weavile or Sneasler, and also increases the holder's critical hit ratio.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Raises the critical hit ratio of the holder by one stage. Outside battles [ edit | edit source ] Causes Johtonian Sneasel to evolve into Weavile when leveled up at night , and Hisuian Sneasel to evolve into Sneasler when leveled up during the day , both while holding it. This consumes the Razor Claw."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If the player offers both a Lunar Ribbon and Razor Claw at Luminous Spring , Sneasel can be evolved into Weavile . This consumes the Lunar Ribbon and Razor Claw. If thrown, it will deal 1 damage (2 if sticky ). Using this item in a dungeon will consume it, with no effect."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] The Razor Claw is required to evolve certain Pokémon in Pokémon Sleep. It is consumed upon use. Sneasel requires 80 Sneasel Candy and a Razor Claw to evolve into Weavile ."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Raises the critical hit ratio of the holder by one stage."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Razor-Claw",
+    "Razor Claw",
+    "Razor-Claw (item)"
+  ],
+  "updatedAt": 1773326274
+}

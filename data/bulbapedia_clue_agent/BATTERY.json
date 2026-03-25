@@ -1,0 +1,77 @@
+{
+  "answerKey": "BATTERY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4351233,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Battery redirects here. For the held item, see Cell Battery. Battery (Japanese: Battery) is an Ability introduced in Generation VII. It is the signature Ability of Charjabug.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability increases the Special Attack of allies when they use special moves by approximately 30%, or more precisely, 5325/4096. Outside of battle [ edit | edit source ] Battery has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] This Ability increases the Special Attack of allies when they use special moves by approximately 30%, or more precisely, 5325/4096.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Ally Pokemon's moves have their power increased to 1.3.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Boosts allies' Special Attack on special moves",
+        "evidence_ref": "Effect",
+        "specificity": 0.88
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Boosts allies' Special Attack",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.76,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Powers teammates' special moves",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Ally special-move booster",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.8,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "ally booster",
+      "special support trait"
+    ],
+    "connections_descriptors": [
+      "Ally-boosting abilities",
+      "Gen VII abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257928
+}

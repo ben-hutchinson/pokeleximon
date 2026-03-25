@@ -1,0 +1,52 @@
+{
+  "answerKey": "FRIENDGUARD",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 3829602,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Friend Guard (Japanese: Friend Guard) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Friend Guard reduces the damage that other allied Pokemon receive from attacks (from any Pokemon) by 25%. It does not reduce the damage dealt by moves that deal direct damage . It does not affect the Pokemon with the Ability itself. If multiple of a Pokemon's allies have Friend Guard, Friend Guard stacks multiplicatively. For example, if both of a Pokemon's allies have Friend Guard in a Triple Battle , the damage that that Pokemon receives is multiplied by 9/16 (56.25%), which is a damage reduction of 43.75%. Outside of battle [ edit | edit source ] Friend Guard has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Friend Guard reduces the damage that other allied Pokemon receive from attacks (from any Pokemon) by 25%. It does not reduce the damage dealt by moves that deal direct damage . It does not affect the Pokemon with the Ability itself. If multiple of a Pokemon's allies have Friend Guard, Friend Guard stacks multiplicatively. For example, if both of a Pokemon's allies have Friend Guard in a Triple Battle , the damage that that Pokemon receives is multiplied by 9/16 (56.25%), which is a damage reduction of 43.75%.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Decreases all direct damage taken by friendly Pokemon to 0.75.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257947
+}

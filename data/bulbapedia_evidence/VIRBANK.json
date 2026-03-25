@@ -1,0 +1,27 @@
+{
+  "answerKey": "VIRBANK",
+  "answerDisplay": "VIRBANK",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Virbank City",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Virbank_City",
+  "pageId": 162153,
+  "pageRevisionId": 4490437,
+  "leadText": "Virbank City (Japanese: タチワキシティ Tachiwaki City) is a city in southwestern Unova. It is the location of the second Gym that the player visits in the games Black 2 and White 2, led by Roxie. Virbank City is shown to be a port city with many hangars, docks and waterways. In the northeastern part of the city, there is graffiti painted on the wall that resembles Koffing's skull and crossbones mark.",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Due to a glitch , it is possible to Surf on the southeasternmost tile of the westmost boat by interacting with it from land, despite this tile being inaccessible from the adjacent water tile. This tile cannot produce wild Pokémon encounters, even through Sweet Scent or Honey . In Pokémon Scarlet and Violet , Virbank City is mentioned to be Crispin 's hometown."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Virbank-City",
+    "Virbank City",
+    "Virbank",
+    "Virbank-City (location)"
+  ],
+  "updatedAt": 1773328320
+}

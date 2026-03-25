@@ -1,0 +1,29 @@
+{
+  "answerKey": "IMPOSTER",
+  "answerDisplay": "IMPOSTER",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Imposter (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Imposter_(Ability)",
+  "pageId": 117439,
+  "pageRevisionId": 4431749,
+  "leadText": "Imposter (Japanese: かわりもの Changer) is an Ability introduced in Generation V. It is the signature Hidden Ability of Ditto.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Main article: Transform (move) → Effect As soon as the user comes into battle, it transforms into its opponent. Broadly, the target's appearance, including its form , gender , and Shiny status or lack thereof, as well as its types , Ability , moves , stats , and cry are copied; the user retains its own HP , level , nickname , and held item . The user still retains its original appearance and information in the party and summary screens, and its original sprite in the battle menu and the list of moves. The user remains transformed until it switches out, faints, or the battle ends. Imposter will not activate if the opponent is transformed, is disguised with Illusion , is behind a substitute , or is a Starmobile . Imposter only activates when the Pokémon with the Ability is sent out; it does not activate if gained while already on the field, and if it fails to activate when a Pokémon is sent out, it will not activate again until the Pokémon is sent out again. If a Pokémon with Imposter Terastallizes into the Stellar type, Imposter will no longer activate. Imposter cannot be ignored . In Double Battles , Triple Battles , and Battle Royals , Imposter transforms into the opponent in the position directly opposite it. In Horde Encounters , Imposter transforms into the opponent in the rightmost position. In an SOS Battle , Imposter will copy the opponent in the leftmost position. In all cases, if there is no opponent in that position, the Pokémon will not transform. If the raid boss in a Max Raid Battle or Tera Raid Battle has Imposter, it will transform into the host's Pokémon; however, in a Max Raid Battle, the raid boss's Imposter will fail to activate if the host is using Zacian , Zamazenta , or Eternatus . Role Play fails if the target has the Ability Imposter. Entrainment fails if the user has the Ability Imposter. Imposter cannot be copied by Trace , Power of Alchemy , or Receiver . Outside of battle [ edit | edit source ] Imposter has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Main article: Transform (move) → Effect As soon as the user comes into battle, it transforms into its opponent. Broadly, the target's appearance, including its form , gender , and Shiny status or lack thereof, as well as its types , Ability , moves , stats , and cry are copied; the user retains its own HP , level , nickname , and held item . The user still retains its original appearance and information in the party and summary screens, and its original sprite in the battle menu and the list of moves. The user remains transformed until it switches out, faints, or the battle ends. Imposter will not activate if the opponent is transformed, is disguised with Illusion , is behind a substitute , or is a Starmobile . Imposter only activates when the Pokémon with the Ability is sent out; it does not activate if gained while already on the field, and if it fails to activate when a Pokémon is sent out, it will not activate again until the Pokémon is sent out again. If a Pokémon with Imposter Terastallizes into the Stellar type, Imposter will no longer activate. Imposter cannot be ignored . In Double Battles , Triple Battles , and Battle Royals , Imposter transforms into the opponent in the position directly opposite it. In Horde Encounters , Imposter transforms into the opponent in the rightmost position. In an SOS Battle , Imposter will copy the opponent in the leftmost position. In all cases, if there is no opponent in that position, the Pokémon will not transform. If the raid boss in a Max Raid Battle or Tera Raid Battle has Imposter, it will transform into the host's Pokémon; however, in a Max Raid Battle, the raid boss's Imposter will fail to activate if the host is using Zacian , Zamazenta , or Eternatus . Role Play fails if the target has the Ability Imposter. Entrainment fails if the user has the Ability Imposter. Imposter cannot be copied by Trace , Power of Alchemy , or Receiver ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Imposter",
+    "Imposter (Ability)"
+  ],
+  "updatedAt": 1774214235
+}

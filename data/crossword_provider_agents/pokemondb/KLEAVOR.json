@@ -1,0 +1,17 @@
+{
+  "answerKey": "KLEAVOR",
+  "answerDisplay": "KLEAVOR",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Bug / Rock type Pokémon introduced in Generation 8.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/kleavor",
+  "extract": "Kleavor is a Bug / Rock type Pokémon introduced in Generation 8 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211783
+}

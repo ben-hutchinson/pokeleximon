@@ -1,0 +1,30 @@
+{
+  "answerKey": "STEAMENGINE",
+  "answerDisplay": "STEAM ENGINE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Steam Engine (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Steam_Engine_(Ability)",
+  "pageId": 239639,
+  "pageRevisionId": 3830062,
+  "leadText": "Steam Engine (Japanese: じょうききかん Steam Engine) is an Ability introduced in Generation VIII. It is the signature Ability of Rolycoly's evolutionary line.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with Steam Engine is hit by a Fire - or Water-type move , its Speed stat is increased by six stages. This Ability activates after any stat decreases caused by the move are applied. Outside of battle [ edit | edit source ] If a Pokémon with Steam Engine is in the party (even if fainted ), the number of cycles it takes for all Pokémon Eggs in the party to hatch are halved. This effect does not stack with itself, Flame Body , or Magma Armor ."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with Steam Engine is hit by a Fire - or Water-type move , its Speed stat is increased by six stages. This Ability activates after any stat decreases caused by the move are applied."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Steam-Engine",
+    "Steam Engine",
+    "Steam-Engine (Ability)"
+  ],
+  "updatedAt": 1773329237
+}

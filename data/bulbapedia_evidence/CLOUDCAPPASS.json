@@ -1,0 +1,30 @@
+{
+  "answerKey": "CLOUDCAPPASS",
+  "answerDisplay": "CLOUDCAP PASS",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Cloudcap Pass",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Cloudcap_Pass",
+  "pageId": 270833,
+  "pageRevisionId": 4410291,
+  "leadText": "Cloudcap Pass (Japanese: 笠雲の切り通し Cap Cloud Cut) is an area located in the northern region of the Coronet Highlands of Hisui. It lies to the north of the Sacred Plaza, as well as the Summit Camp after it is permanently established. The entrance to the Stone Portal is found here, which leads to the Temple of Sinnoh at the top of Mount Coronet. Entry to the Stone Portal is denied by a Galaxy Team member until Mission 17: \"Atop Mount Coronet\".",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] The Cloudcap Pass is a barren path that leads up to the top of Mount Coronet and the Temple of Sinnoh . The area is covered in snow due to the increased elevation."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] This section is incomplete. Please feel free to edit this section to add missing information and complete it. Item Location Games Old Verse 16 Across the entrance to the Stone Portal , at the edge of a cliff ( hidden , requires Ursaluna ) LA"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Cloudcap-Pass",
+    "Cloudcap Pass",
+    "Cloudcap-Pass (location)"
+  ],
+  "updatedAt": 1773328805
+}

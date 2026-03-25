@@ -1,0 +1,30 @@
+{
+  "answerKey": "ANGERSHELL",
+  "answerDisplay": "ANGER SHELL",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Anger Shell (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Anger_Shell_(Ability)",
+  "pageId": 274259,
+  "pageRevisionId": 4088684,
+  "leadText": "Anger Shell (Japanese: いかりのこうら Anger Shell) is an Ability introduced in Generation IX. It is the signature Ability of Klawf.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When the Pokémon's HP falls from over 50% to 50% or lower as a result of an attack from another Pokémon, its Attack , Special Attack , and Speed rise by one stage each, while its Defense and Special Defense fall by one stage each. Non-attack damage (e.g., due to a status condition , recoil , or Life Orb ) does not activate Anger Shell. If hit by a multistrike move , Anger Shell activates only after all strikes are finished. Outside of battle [ edit | edit source ] Anger Shell has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When the Pokémon's HP falls from over 50% to 50% or lower as a result of an attack from another Pokémon, its Attack , Special Attack , and Speed rise by one stage each, while its Defense and Special Defense fall by one stage each. Non-attack damage (e.g., due to a status condition , recoil , or Life Orb ) does not activate Anger Shell. If hit by a multistrike move , Anger Shell activates only after all strikes are finished."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Anger-Shell",
+    "Anger Shell",
+    "Anger-Shell (Ability)"
+  ],
+  "updatedAt": 1773328751
+}

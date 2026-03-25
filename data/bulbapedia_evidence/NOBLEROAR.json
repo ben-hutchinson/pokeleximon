@@ -1,0 +1,34 @@
+{
+  "answerKey": "NOBLEROAR",
+  "answerDisplay": "NOBLE ROAR",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Noble Roar (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Noble_Roar_(move)",
+  "pageId": 180355,
+  "pageRevisionId": 4433868,
+  "leadText": "Noble Roar (Japanese: おたけび War Cry) is a non-damaging Normal-type move introduced in Generation VI. Prior to Generation VII, it was the signature move of Litleo and Pyroar.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Noble Roar lowers the target's Attack and Special Attack stats by one stage. Noble Roar is a sound-based move . Noble Roar can hit Pokémon even if they are behind a substitute . If powered up by a Normalium Z into Z-Noble Roar, the user's Defense stat rises by one stage. Throat Chop cannot prevent a Pokémon from using Z-Noble Roar."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh BD SP LA Letting out a noble roar, the user intimidates the target and lowers its Attack and Sp. Atk stats. S V Letting out a noble roar, the user intimidates the target and lowers the target's Attack and Sp. Atk stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It lowers an enemy's Attack and Sp. Atk. * It lowers the enemy's Attack and Sp. Atk. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Noble-Roar",
+    "Noble Roar",
+    "Noble-Roar (move)"
+  ],
+  "updatedAt": 1773325385
+}

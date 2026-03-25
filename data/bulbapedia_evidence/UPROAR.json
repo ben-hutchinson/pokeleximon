@@ -1,0 +1,37 @@
+{
+  "answerKey": "UPROAR",
+  "answerDisplay": "UPROAR",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Uproar (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Uproar_(move)",
+  "pageId": 3864,
+  "pageRevisionId": 4415743,
+  "leadText": "Uproar (Japanese: さわぐ Clamor) is a damage-dealing Normal-type move introduced in Generation III. It was TR35 in Pokémon Sword and Shield, and is TM191 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations III and IV 1.2 Generation V 1.3 Generation VI onwards Effect [ edit | edit source ] This move effect may be in need of research. Reason: How Mold Breaker Uproar interacts with Soundproof in each generation You can discuss this on the talk page. Uproar deals damage and causes the user to make an uproar for several turns. While making an uproar, the Pokémon automatically uses the move Uproar each turn. PP is only deducted on the first turn Uproar is used. Uproar is a sound-based move . While any Pokémon is making an uproar, Pokémon cannot fall asleep (with some exceptions, depending on the game). Generations III and IV [ edit | edit source ] Uproar has a base power of 50. Uproar causes the user to make an uproar for 2-5 turns. While a Pokémon is making an uproar: Pokémon that do not have Soundproof cannot fall asleep due to moves that can inflict sleep (including Rest , which fails if the user does not have Soundproof), Effect Spore , and disobedience ; or become drowsy due to Yawn . However, a Pokémon that is already drowsy due to Yawn can fall asleep during an uproar (regardless of whether it has Soundproof). If a sleeping Pokémon that does not have Soundproof would make a move, it is woken up immediately before using its move. At the end of each turn (including the turn the user calms down), any sleeping Pokémon on the field that do not have Soundproof are woken up. Even if the user of Uproar has the Ability Mold Breaker , Pokémon with Soundproof are unaffected by a Pokémon that is making an uproar. The Pokémon will not start an uproar if Uproar fails to be executed completely, such as if it is used against a Ghost-type Pokémon (which would be immune to Uproar), a protected Pokémon, or a Pokémon with the Ability Soundproof ; however, once it is making an uproar, it will continue even if it fails in such cases. In battles with multiple opponents, the user selects itself as the target, but hits an adjacent opponent that is selected at random upon each use of the move. If used on a Pokémon behind a substitute , it hits that Pokémon's substitute. Generation V [ edit | edit source ] Uproar's base power changed from 50 to 90. Uproar now causes the user to make an uproar for exactly 3 turns. When Uproar is initially used (i.e. when the user is not already making an uproar), any sleeping Pokémon on the field are woken up (even if they have the Ability Soundproof or are not adjacent to the user). This is now the only time Uproar wakes up Pokémon that are already asleep. While a Pokémon is making an uproar, Pokémon cannot fall asleep (even if they have Soundproof or are not adjacent to the Pokémon making the uproar). Pokémon can be made drowsy by Yawn , but a drowsy Pokémon cannot fall asleep during an uproar (even if it has Soundproof). If Uproar fails to be executed completely on any turn—such as if it is used against a Ghost-type Pokémon, a protected Pokémon, or a Pokémon with the Ability Soundproof—the user immediately calms down and is no longer forced to use Uproar. Generation VI onwards [ edit | edit source ] Uproar can now hit Pokémon even if they are behind a substitute. If the user is affected by Throat Chop , it will immediately calm down at the end of the turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Causes an uproar for 2 to 5 turns and prevents sleep. FR LG The user attacks in an uproar that prevents sleep for two to five turns. D P Pt HG SS PBR The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep. B W B2 W2 The user attacks in an uproar for three turns. Over that time, no one can fall asleep. X Y OR AS The user attacks in an uproar for three turns. During that time, no one can fall asleep. S M US UM P E Sw Sh BD SP LA S V The user attacks in an uproar for three turns. During that time, no Pokémon can fall asleep."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user and team members in the room gain the Sleepless status, so they cannot fall asleep. It also awakens sleeping team members. MD T D S Afflicts the user and team members in the room with a Sleepless status, which prevents them from falling asleep. It also awakens sleeping team members. B S L おなじへやの なかまポケモンと じぶんを ねむらずじょうたいにして ねむらなくする なかまポケモンが ねていたばあいは すぐに おきる MD GtI It damages enemies in the same room. It also causes the Sleepless status to all Pokémon in the same room. If Pokémon are sleeping, they'll wake up immediately. S MD It makes everyone unable to sleep and damages enemies. * It damages enemies in the same room. It also causes all Pokémon in the same room to be sleepless. Sleeping Pokémon will wake up immediately. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Uproar end-of-turn animation in Battle Revolution. Uproar displays an animation during the end-of-turn message in Pokémon Battle Revolution ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Uproar",
+    "Uproar (move)"
+  ],
+  "updatedAt": 1773328205
+}

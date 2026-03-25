@@ -1,0 +1,34 @@
+{
+  "answerKey": "IRONDEFENSE",
+  "answerDisplay": "IRON DEFENSE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Iron Defense (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Iron_Defense_(move)",
+  "pageId": 3945,
+  "pageRevisionId": 4504363,
+  "leadText": "Iron Defense redirects here. For the Pokémon Battle e card pack, see Iron Defense (Battle e). Iron Defense (Japanese: てっぺき Iron Wall) is a non-damaging Steel-type move introduced in Generation III. It is: TR46 in Pokémon Sword and Shield. TM104 in Pokémon Scarlet and Violet. TM080 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Iron Defense raises the user's Defense stat by two stages. If powered up by a Steelium Z into Z-Iron Defense, all of the user's lowered stats are reset. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Iron Defense's PP has been increased to 20, and it raises the user's defensive stats for five turns. Pokémon Legends: Arceus Category Status PP 20 Agile Strong Power — — — Accuracy —% —% —% Action speed modifier Self -3 -4 +5 Target ? ? ? Additional effect Turns 5 4 7 ? ? ? ? Raises the user's defensive stats Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 9s Move wind-up time 1 frame Effect duration 30s 33s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Hardens the body's surface to sharply raise Defense . FR LG The user hardens its body's surface to sharply raise its Defense stat. D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP The user hardens its body's surface like iron, sharply raising its Defense stat. LA The user hardens its body's surface like iron, raising its defensive stats. S V The user hardens its body's surface like iron, sharply boosting its Defense stat. ZA The user boosts its Defense stat for a while by hardening the surface of its body until it becomes like iron."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts the user's Defense by two levels. MD T D S Boosts the user's Defense by 2 levels. B S L じぶんの ぼうぎょを ２だんかいあげる MD GtI It sharply boosts your Defense. (The stat change returns to normal when you go to the next floor or step on a Wonder Tile.) S MD It sharply boosts your Defense. * It sharply boosts your Defense. The stat returns to normal when you go to the next floor or step on a Wonder Tile. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Iron-Defense",
+    "Iron Defense",
+    "Iron-Defense (move)"
+  ],
+  "updatedAt": 1773323950
+}

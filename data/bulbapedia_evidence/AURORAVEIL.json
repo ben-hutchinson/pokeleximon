@@ -1,0 +1,38 @@
+{
+  "answerKey": "AURORAVEIL",
+  "answerDisplay": "AURORA VEIL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Aurora Veil (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Aurora_Veil_(move)",
+  "pageId": 218370,
+  "pageRevisionId": 4403486,
+  "leadText": "Aurora Veil (Japanese: オーロラベール Aurora Veil) is a non-damaging Ice-type move introduced in Generation VII. It was TM70 in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Aurora Veil reduces the damage done to the user by physical and special moves for five turns by half; in battles beside Single Battles, Aurora Veil protects the user and all allies, but only reduces damage by (roughly) a third rather than half (specifically, with a multiplier of 2732/4096). It does not reduce damage done by self-inflicted confusion damage, critical hits , or moves that deal direct damage . Aurora Veil can only be used during hail or snow , but the effect remains even after hail or snow ends; Cloud Nine and Air Lock will cause Aurora Veil to fail even if it is hailing or snowing. While it can be active at the same time as Reflect and Light Screen , the damage reduction effects do not stack. Aurora Veil is removed from a Pokémon's side of the field if it is hit by Brick Break , Defog , Psychic Fangs , or Raging Bull , or if a Pokémon with Screen Cleaner is sent out. Pokémon with the Ability Infiltrator ignore the effects of Aurora Veil when attacking. If a Light Clay is held when Aurora Veil is used, it will extend the duration of Aurora Veil from 5 to 8 turns. If powered up by an Icium Z into Z-Aurora Veil, the user's Speed stat rises by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh BD SP LA This move reduces damage from physical and special moves for five turns. This can be used only in a hailstorm. S V This move reduces damage from physical and special moves for five turns. This can be used only when it is snowing."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD RT DX It gives you and your teammates in the same room the Aurora Veil condition, reducing damage taken from moves. This move fails when the weather is not Hail."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Rescue Team DX , Aurora Veil's TM description erroneously refers to it as a \"damage-dealing physical move\", rather than a status move."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Aurora-Veil",
+    "Aurora Veil",
+    "Aurora-Veil (move)"
+  ],
+  "updatedAt": 1773320942
+}

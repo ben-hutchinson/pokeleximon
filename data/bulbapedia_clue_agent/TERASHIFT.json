@@ -1,0 +1,52 @@
+{
+  "answerKey": "TERASHIFT",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4297828,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Tera Shift (Japanese: Tera Change) is an Ability introduced during Generation IX, in The Indigo Disk. It is one of the signature Abilities of Terapagos.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When Terapagos enters the battle, it turns into its Terastal Form until the end of the battle. Tera Shift cannot be copied by Trace , Power of Alchemy , or Receiver . Tera Shift cannot be replaced by Lingering Aroma , or suppressed by Neutralizing Gas . Outside of battle [ edit | edit source ] In Auto Battles , Terapagos will first change into its Terastal Form before attacking the wild Pokemon.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When Terapagos enters the battle, it turns into its Terastal Form until the end of the battle. Tera Shift cannot be copied by Trace , Power of Alchemy , or Receiver . Tera Shift cannot be replaced by Lingering Aroma , or suppressed by Neutralizing Gas .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "When Terapagos enters the battle, it turns into its Terastal Form until the end of the battle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258024
+}

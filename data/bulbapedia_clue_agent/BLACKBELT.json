@@ -1,0 +1,41 @@
+{
+  "answerKey": "BLACKBELT",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4301080,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "type enhancement",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Held: Fighting-Type moves from holder do 20% more damage.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "type enhancement",
+        "evidence_ref": "lead",
+        "mystery_score": 0.35,
+        "specificity_score": 0.52,
+        "style": "category"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "type enhancement"
+    ],
+    "connections_descriptors": [
+      "Type Enhancement"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257930
+}

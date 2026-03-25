@@ -1,0 +1,30 @@
+{
+  "answerKey": "TRIPLEARROWS",
+  "answerDisplay": "TRIPLE ARROWS",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Triple Arrows (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Triple_Arrows_(move)",
+  "pageId": 268730,
+  "pageRevisionId": 4403618,
+  "leadText": "Triple Arrows (Japanese: ３ぼんのや Triple Arrows) is a damage-dealing Fighting-type move introduced during Generation VIII, in Pokémon Legends: Arceus. It is the signature move of Hisuian Decidueye.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Triple Arrows inflicts damage. For three turns, it increases the user's critical hit ratio by two stages and decreases the target's defensive stats. Pokémon Legends: Arceus Category Physical PP 15 Agile Strong Power 50 40 60 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target +3 +5 +3 Additional effect Turns 3 2 4 ? ? ? ? Lowers the target's defensive stats The user gets a Critical Hit Boost Generation IX [ edit | edit source ] Triple Arrows's PP was decreased to 10, its power was increased to 90, and it now has an increased critical hit ratio. It has a 50% chance of lowering the target's Defense by one stage and a 30% chance of causing the target to flinch ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA The user delivers an axe kick, then fires three arrows. This raises the chance of its future attacks landing critical hits and also lowers the target's defensive stats. S V The user kicks, then fires three arrows. This move has a heightened chance of landing a critical hit and may also lower the target’s Defense stat or make it flinch."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Triple-Arrows",
+    "Triple Arrows",
+    "Triple-Arrows (move)"
+  ],
+  "updatedAt": 1773328100
+}

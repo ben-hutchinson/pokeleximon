@@ -1,0 +1,30 @@
+{
+  "answerKey": "MAXWYRMWIND",
+  "answerDisplay": "MAX WYRMWIND",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Max Wyrmwind (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Wyrmwind_(move)",
+  "pageId": 244376,
+  "pageRevisionId": 4406164,
+  "leadText": "Max Wyrmwind (Japanese: ダイドラグーン Dai Dragoon) is a damage-dealing Dragon-type Max Move introduced in Generation VIII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Max Wyrmwind inflicts damage and lowers the target's and its ally's Attack by one stage. Its power and whether it is a special or physical move depends on the move it is based on. Base move Pwr. Cat. Breaking Swipe 110 Physical Clanging Scales 140 Special Core Enforcer 130 Special Draco Meteor 140 Special Dragon Breath 110 Special Dragon Claw 130 Physical Dragon Darts 130 Physical Dragon Energy 150 Special Dragon Hammer 130 Physical Dragon Pulse 130 Special Dragon Rush 130 Physical Dragon Tail 110 Physical Dual Chop 130 Physical Dynamax Cannon 140 Special Eternabeam 150 Special Outrage 140 Physical Roar of Time 150 Special Scale Shot 130 Physical Spacial Rend 130 Special Twister 90 Special Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Max Wyrmwind cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V This is a Dragon-type attack Dynamax Pokémon use. This lowers the target's Attack stat. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Max-Wyrmwind",
+    "Max Wyrmwind",
+    "Max-Wyrmwind (move)"
+  ],
+  "updatedAt": 1773324852
+}

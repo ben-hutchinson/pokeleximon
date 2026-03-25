@@ -1,0 +1,17 @@
+{
+  "answerKey": "SANDYSHOCKS",
+  "answerDisplay": "SANDY SHOCKS",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is an Electric / Ground type Pokémon introduced in Generation 9.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/sandy-shocks",
+  "extract": "Shocks is an Electric / Ground type Pokémon introduced in Generation 9 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212722
+}

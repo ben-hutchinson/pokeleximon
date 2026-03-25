@@ -1,0 +1,33 @@
+{
+  "answerKey": "CHLOROBLAST",
+  "answerDisplay": "CHLOROBLAST",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Chloroblast (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Chloroblast_(move)",
+  "pageId": 268711,
+  "pageRevisionId": 4483824,
+  "leadText": "Chloroblast (Japanese: クロロブラスト Chloroblast) is a damage-dealing Grass-type move introduced during Generation VIII, in Pokémon Legends: Arceus. It is the signature move of Hisuian Electrode.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Chloroblast inflicts damage, and the user takes damage equal to half of its maximum HP rounded up. It also lowers the user's action speed. Pokémon Legends: Arceus Category Special PP 5 Agile Strong Power 120 100 140 Accuracy 95% 95% 100% Action speed modifier Self +5 +2 +8 Target 0 +3 0 Additional effect Recoil 50% 33% 66% ? ? ? ? Damages the user by a percentage of its total HP Reduces the user's action speed Generation IX [ edit | edit source ] Chloroblast has a base power of 150. The user takes recoil damage equal to half of its maximum HP rounded up unless the user has Magic Guard or Rock Head , or the target has Sap Sipper ; its Speed is not lowered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA The user launches its amassed chlorophyll to inflict damage on the target. This also damages the user and lowers the user's action speed. S V The user launches its amassed chlorophyll to inflict damage on the target. This also damages the user."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move's name may be a pun on chloroplast , a chlorophyll-rich organelle in plant and algae cells responsible for photosynthesis. Chloroblast is tied with Frenzy Plant for the highest base power of all Grass-type attacks, excluding Z-Moves , Max Moves , and G-Max Moves . Chloroblast is the only move to have its recoil negated by Rock Head but not receive a boost from Reckless ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Chloroblast",
+    "Chloroblast (move)"
+  ],
+  "updatedAt": 1773321676
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "TRIPLEAXEL",
+  "answerDisplay": "TRIPLE AXEL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Triple Axel (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Triple_Axel_(move)",
+  "pageId": 252917,
+  "pageRevisionId": 4478603,
+  "leadText": "Triple Axel (Japanese: トリプルアクセル Triple Axel) is a damage-dealing Ice-type multistrike move introduced during Generation VIII, in The Isle of Armor. It is TM212 in Pokémon Scarlet and Violet and TM144 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Triple Axel inflicts damage, hitting the target up to three times per use. Its base power will increase by 20 with each successive strike, so the first, second, and third strikes have powers of 20, 40, and 60, respectively. Each of Triple Axel's strikes has a separate accuracy check. If any strike fails, the move ends. Assuming no modifications to accuracy or evasion, since each strike has 90% base accuracy, there is a: 72.9% chance that it will hit 3 times (for cumulative 120 base power), 8.1% chance that it will hit twice (for cumulative 60 base power), 9% chance that it will hit once (for 20 base power), 10% chance that it will miss outright. With all three accuracy checks and base powers taken into account, the move's average effective power is 94.14. If the target has an Ability that activates upon contact (such as Weak Armor or Stamina ), each strike counts individually, enabling the Ability to activate multiple times. If the target is holding a Rocky Helmet , the user is damaged for each strike. If the user has Skill Link or is holding Loaded Dice , the move will have only one accuracy check. If the first hit misses due to Disguise , the first hit will count as a strike, but the power of the two subsequent hits will be 20 and 40 respectively. If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokémon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokémon has a maximum HP of 1. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Triple Axel cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V A consecutive three-kick attack that becomes more powerful with each successful hit. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. ZA The user attacks with three kicks, one after the other. The range of these attacks grow wider each time the user jumps up to unleash a kick."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Along with Triple Kick and Population Bomb , it is one of only three multistrike moves where the chance to miss for successful hits is independent of the first hit. Triple Axel has the same description text as Triple Kick. Triple Axel may be based on a variation of the Axel jump with the same name in figure skating . Even though Triple Axel is referred to as a \"consecutive three-kick attack\", Seel , Dewgong , Bellossom , Milotic , Froslass , Cryogonal , the Popplio evolutionary line, Frosmoth , and Tatsugiri can all learn Triple Axel despite not having feet."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Triple-Axel",
+    "Triple Axel",
+    "Triple-Axel (move)"
+  ],
+  "updatedAt": 1773328102
+}

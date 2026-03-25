@@ -1,0 +1,38 @@
+{
+  "answerKey": "HEALORDER",
+  "answerDisplay": "HEAL ORDER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Heal Order (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Heal_Order_(move)",
+  "pageId": 18898,
+  "pageRevisionId": 4500945,
+  "leadText": "Heal Order (Japanese: かいふくしれい Recovery Order) is a non-damaging Bug-type move introduced in Generation IV. It is one of the signature moves of Vespiquen, alongside Attack Order and Defend Order.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation V to VII 1.3 Generation VIII onwards Effect [ edit | edit source ] Generation IV [ edit | edit source ] Heal Order restores up to 50% of the user's maximum HP, rounded down. Generation V to VII [ edit | edit source ] Heal Order now restores 50% of the user's maximum HP, rounded up. If powered up by a Buginium Z into Z-Heal Order, all of the user's lowered stats are reset. Generation VIII onwards [ edit | edit source ] Heal Order cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E The user calls out its underlings to heal it. The user regains up to half of its max HP. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Restores the user's HP. B S L じぶんの ＨＰをかいふくする MD GtI UNUSED S MD It restores your HP."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation VIII and IX , Heal Order is the only one of Vespiquen's signature moves that cannot be used in a battle."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Heal-Order",
+    "Heal Order",
+    "Heal-Order (move)"
+  ],
+  "updatedAt": 1773323569
+}

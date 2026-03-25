@@ -1,0 +1,30 @@
+{
+  "answerKey": "SYRUPBOMB",
+  "answerDisplay": "SYRUP BOMB",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Syrup Bomb (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Syrup_Bomb_(move)",
+  "pageId": 294180,
+  "pageRevisionId": 4466776,
+  "leadText": "Syrup Bomb (Japanese: みずあめボム Mizuame Bomb) is a damage-dealing Grass-type move introduced during Generation IX, in The Teal Mask. It is the signature move of Dipplin and one of the signature moves of Hydrapple.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Syrup Bomb inflicts damage and lowers the target's Speed stat by one stage each turn, for the next three turns. It does not affect targets with Bulletproof . If the move's user leaves the field, the effect will end immediately. The game uses a unique animation when the target's Speed stat is lowered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user sets off an explosion of sticky candy syrup, which coats the target and causes the target's Speed stat to drop each turn for three turns."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Syrup-Bomb",
+    "Syrup Bomb",
+    "Syrup-Bomb (move)"
+  ],
+  "updatedAt": 1773327765
+}

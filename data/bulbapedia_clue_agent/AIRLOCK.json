@@ -1,0 +1,96 @@
+{
+  "answerKey": "AIRLOCK",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4514103,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Air Lock (Japanese: Air Lock) is an Ability introduced in Generation III. It is the signature Ability of Rayquaza.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Changes the weather to clear. MD T D S Changes the weather to a clear condition. B S L MD GtI Unavailable S MD It changes the floor to have ineffective weather! MD RT DX This Ability causes the floor to have Ineffective Weather, removing the effects of weather.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation V 1.1.2 Generation VI 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Air Lock is in battle, all effects of weather are negated (though the weather itself does not disappear). Generation V [ edit | edit source ] When a Pokemon with Air Lock is brought out, the message \" The effects of weather disappeared. \" will be displayed after the Ability is announced. Generation VI [ edit | edit source ] During extremely harsh sunlight , heavy rain , and strong winds , even if a Pokemon is negating the effects of weather with Air Lock, the moves Sunny Day , Rain Dance , Sandstorm , and Hail will still fail if used, and the Abilities Drought , Drizzle , Sand Stream , and Snow Warning will still fail to activate. However, all other effects of these weather conditions are negated by Air Lock. Outside of battle [ edit | edit source ] Air Lock has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with Air Lock is in battle, all effects of weather are negated (though the weather itself does not disappear). Generation V [ edit | edit source ] When a Pokemon with Air Lock is brought out, the message \" The effects of weather disappeared. \" will be displayed after the Ability is announced. Generation VI [ edit | edit source ] During extremely harsh sunlight , heavy rain , and strong winds , even if a Pokemon is negating the effects of weather with Air Lock, the moves Sunny Day , Rain Dance , Sandstorm , and Hail will still fail if used, and the Abilities Drought , Drizzle , Sand Stream , and Snow Warning will still fail to activate. However, all other effects of these weather conditions are negated by Air Lock.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Negates all effects of weather, but does not prevent the weather itself.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Cancels weather effects",
+        "evidence_ref": "Description",
+        "specificity": 0.9
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Cancels weather effects",
+        "evidence_ref": "Description",
+        "mystery_score": 0.76,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Turns weather ineffective",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Weather-clearing trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "weather nullifier",
+      "storm stopper",
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Weather-canceling abilities",
+      "Weather abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257925
+}

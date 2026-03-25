@@ -1,0 +1,38 @@
+{
+  "answerKey": "VITALTHROW",
+  "answerDisplay": "VITAL THROW",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Vital Throw (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Vital_Throw_(move)",
+  "pageId": 3844,
+  "pageRevisionId": 4484511,
+  "leadText": "Vital Throw (Japanese: あてみなげ Strike Throw) is a damage-dealing Fighting-type move introduced in Generation II. Prior to Generation III, it was the signature move of Machop's evolutionary line.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Vital Throw deals damage and is a decreased priority move, causing the user to attack after other Pokémon that are using ordinary priority moves. However, it will strike before Pokémon using other decreased priority moves such as Focus Punch and Avalanche . Vital Throw bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . Vital Throw can be used as the second move of a Pokémon Contest combination , with the user gaining 3 bonus appeal points if Fake Out was used in the previous turn. It can also part of a Contest Spectacular combination with the user gaining an extra three appeal points if any of the moves Entrainment , Hold Hands or Play Nice was used in the prior turn. Generation IX [ edit | edit source ] Vital Throw cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A Fighting -type attack. Always comes after the target's attack but never misses. G S C A 2nd-strike move that never misses. R S E Makes the user's move last, but it never misses. FR LG Makes the user attack after the foe. In return, it will not miss. Colo XD Makes the user go last, but it never misses. D P Pt HG SS PBR The user allows the foe to attack first. In return, this throw move is guaranteed not to miss. B W B2 W2 The user attacks last. In return, this throw move is guaranteed not to miss. X Y OR AS S M US UM P E Sw Sh BD SP LA The user attacks last. In return, this throw move never misses. S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Vital Throw status. Foes that attack the user are hurled at other foes. MD T D S Gives the Pokémon that uses this move the Vital Throw status, which causes enemies that attack the user to be hurled at other enemies. B S L じぶんを あてみなげじょうたいにかえる こうげきしてきた てきポケモンを なげとばして ほかの てきポケモンに ぶつける MD GtI UNUSED S MD MD RT DX It damages an enemy. It never misses."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Description in Generation III with erroneous accuracy data In Generation III , the status screen erroneously states that the move has 100% accuracy, even though it ignores accuracy and evasion checks. Vital Throw's Japanese name Atemi-nage alludes to judo atemi waza (strikes) and nage waza (throws). Its depiction in the animated series is similar to an ura nage , incorrectly translated as a side slam in American wrestling."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Vital-Throw",
+    "Vital Throw",
+    "Vital-Throw (move)"
+  ],
+  "updatedAt": 1773328329
+}

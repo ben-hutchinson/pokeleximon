@@ -1,0 +1,33 @@
+{
+  "answerKey": "BIDE",
+  "answerDisplay": "BIDE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Bide (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bide_(move)",
+  "pageId": 3726,
+  "pageRevisionId": 4406405,
+  "leadText": "Bide (Japanese: がまん Perseverance) is a damage-dealing Normal-type move introduced in Generation I. It is TM34 in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generation III 1.4 Generation IV 1.5 Generations V to VII 1.6 Generation VIII onwards Effect [ edit | edit source ] Generation I [ edit | edit source ] After Bide is selected, the user will be unable to select a move for an idling period of 2-3 turns (chosen randomly), though it will still be able to switch out during the move's effect. Afterwards, Bide will do damage equal to twice the damage received during the idling period. If the user is not directly attacked during the biding period, it will fail on the turn it would have released. Although Bide is a Normal-type move, type has no effect on the calculated damage inflicted by this attack, so Bide deals neutral damage on Rock and Ghost types and does not receive the same-type attack bonus . Bide bypasses accuracy checks to always hit, even during the semi-invulnerable turn of a move such as Dig or Fly . The damage received during the period is counted as equal to the last amount of damage done. The last amount of damage done will include crash damage, an opponent's self-inflicted confusion damage, and the full damage absorbed by a substitute . Additionally, if the opponent does not use an attack that misses, the last amount of damage done will not be reset, effectively resulting in damage done during the previous turn also being counted as damage done during that turn. Sleep , freeze , binding , and flinching will pause but not disrupt the duration of Bide. In Stadium, a move can be selected during each of Bide's idling turns. Bide will miss against any Pokémon that is in the middle of Dig , Fly , or a similar semi-invulnerable state. Generation II [ edit | edit source ] Bide no longer bypasses accuracy checks, and has an accuracy of 100. It can no longer hit Ghost-type Pokémon, nor Pokémon in the semi-invulnerable turn of a move such as Dig or Fly . If sleep status is inflicted on a Pokémon using Bide, the move is disrupted and does not continue even after the Pokémon wakes up. Generation III [ edit | edit source ] Bide will now only endure attacks for two turns. Once a Pokémon has started biding, it cannot choose to switch out until the attack is complete. Bide hits the last Pokémon to attack the user, even if this is an ally. In Generation III only, a loss of HP due to Pain Split contributes to the accumulated damage of Bide. Generation IV [ edit | edit source ] Bide now has an increased priority of +1 in its entire duration, so it is used before all moves that do not have increased priority. Bide now bypasses accuracy checks again. It can again hit Ghost-type Pokémon. Pain Split can no longer contribute to the accumulated damage of Bide. If Bide is called through another move , it will have +0 priority on its subsequent turns. Generations V to VII [ edit | edit source ] Bide can no longer hit Ghost-type Pokémon. During Triple Battles , this attack will hit the last Pokémon to attack the user, including allies and non-adjacent foes. If Bide is called through another move, it will have +1 priority on its subsequent turns. Generation VIII onwards [ edit | edit source ] Bide cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 The user waits for several turns. At the end, it returns double the damage it received. G S C Waits 2-3 turns & hits back double. R S E Colo XD Endures attack for 2 turns to retaliate double. FR LG The user endures attacks for two turns, then strikes back double. D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E The user endures attacks for two turns, then strikes back to cause double the damage taken. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Bide status. When Bide is released, the user looses an attack double the damage it took while waiting. MD T D S Gives the user a Bide status. A Pokémon that has a Bide status waits, then does double any damage it took under Bide status. B S L じぶんを がまんじょうたいにかえる がまんじょうたいが かいじょされたときの こうげきは そのあいだに うけたダメージの ２ばい このわざは ポケモンタワーでは くりだせない MD GtI You will get the Bide status for a little while and then cause damage. The more damage you take while biding, the greater the damage the move causes. S MD MD RT DX You'll get the Bide status for a little while, and then you'll damage an enemy. The more damage you take from enemy Pokémon while biding, the greater the damage you can cause."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Bide",
+    "Bide (move)"
+  ],
+  "updatedAt": 1773321155
+}

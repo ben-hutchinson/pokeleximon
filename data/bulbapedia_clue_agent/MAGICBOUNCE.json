@@ -1,0 +1,118 @@
+{
+  "answerKey": "MAGICBOUNCE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4497726,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Magic Mirror redirects here. For the Pokemon Conquest item, see List of items in Pokemon Conquest Magic Mirror. Magic Bounce (Japanese: Magic Mirror) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD GtI Unavailable S MD It reflects status moves! MD RT DX The Pokemon reflects status moves and the effects of wands. Not all moves can be reflected.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations V to VI 1.1.2 Generation VII 1.1.3 Generation VIII 1.1.4 Generation IX 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations V to VI [ edit | edit source ] Magic Bounce reflects certain status moves back at the attacker. Reflectable moves match Magic Coat 's list of reflectable moves . Moves reflected by Magic Bounce can still miss. If Parting Shot is reflected, the Pokemon that originally used Parting Shot has its stats lowered while the Pokemon with Magic Bounce is switched out. Even if the Pokemon with Magic Bounce is immune to a move due to its type or species (e.g. a Ground-type Pokemon targeted by Thunder Wave , or Dugtrio targeted by Telekinesis ), Magic Bounce will still reflect the move. However, it will not activate if the Pokemon with Magic Bounce is protected from that move. Magic Bounce can reflect a move even if the move would fail (e.g. Disable used on a Pokemon that has not used a move or is already disabled) or have no effect on the target (e.g. Feather Dance when the target already has -6 Attack ). Magic Bounce does not activate if the move is used by a Pokemon with Teravolt , Turboblaze , or Mold Breaker . Magic Bounce cannot reflect a move that was just reflected by Magic Coat or Magic Bounce. If a Pokemon with this Ability is in the semi-invulnerable turn of a move like Fly , Magic Bounce will not activate. If a move targets multiple Pokemon individually (such as Heal Block or Growl ), it will still affect each Pokemon that does not have Magic Bounce as normal, then each Pokemon that has Magic Bounce will reflect the move individually. If a move targets an entire side (such as entry hazard moves), if any Pokemon on that side reflects the move with Magic Bounce then the whole side is unaffected; even if multiple Pokemon on that side have Magic Bounce, only one of the Pokemon on that side will have its Magic Bounce activate. Generation VII [ edit | edit source ] Magic Bounce can reflect status Z-Moves (but not their Z-Power effects) and moves used via Dancer or Instruct . If Z- Parting Shot is reflected, the Pokemon switched in does not have its HP restored. In Battle Royals , if multiple Pokemon have Magic Bounce and a hazard-setting move is used, only the fastest Pokemon's Magic Bounce will activate. Generation VIII [ edit | edit source ] A Dynamax Pokemon reflecting Parting Shot will still be forced to switch out. Generation IX [ edit | edit source ] This Ability effect may be in need of research. Reason: Which moves are bouncable in this generation? \"Same list as Magic Coat\" isn't helpful here, because that move is unusable in Gen IX. (This might need its own version of the reflectable move table.) You can discuss this on the talk page. Magic Bounce can reflect Spicy Extract . Magic Bounce will not activate if the opponent has the Ability Mycelium Might . Outside of battle [ edit | edit source ] Magic Bounce has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "Contents 1 In battle 1.1 Generations V to VI 1.2 Generation VII 1.3 Generation VIII 1.4 Generation IX In battle [ edit | edit source ] Generations V to VI [ edit | edit source ] Magic Bounce reflects certain status moves back at the attacker. Reflectable moves match Magic Coat 's list of reflectable moves . Moves reflected by Magic Bounce can still miss. If Parting Shot is reflected, the Pokemon that originally used Parting Shot has its stats lowered while the Pokemon with Magic Bounce is switched out. Even if the Pokemon with Magic Bounce is immune to a move due to its type or species (e.g. a Ground-type Pokemon targeted by Thunder Wave , or Dugtrio targeted by Telekinesis ), Magic Bounce will still reflect the move. However, it will not activate if the Pokemon with Magic Bounce is protected from that move. Magic Bounce can reflect a move even if the move would fail (e.g. Disable used on a Pokemon that has not used a move or is already disabled) or have no effect on the target (e.g. Feather Dance when the target already has -6 Attack ). Magic Bounce does not activate if the move is used by a Pokemon with Teravolt , Turboblaze , or Mold Breaker . Magic Bounce cannot reflect a move that was just reflected by Magic Coat or Magic Bounce. If a Pokemon with this Ability is in the semi-invulnerable turn of a move like Fly , Magic Bounce will not activate. If a move targets multiple Pokemon individually (such as Heal Block or Growl ), it will still affect each Pokemon that does not have Magic Bounce as normal, then each Pokemon that has Magic Bounce will reflect the move individually. If a move targets an entire side (such as entry hazard moves), if any Pokemon on that side reflects the move with Magic Bounce then the whole side is unaffected; even if multiple Pokemon on that side have Magic Bounce, only one of the Pokemon on that side will have its Magic Bounce activate. Generation VII [ edit | edit source ] Magic Bounce can reflect status Z-Moves (but not their Z-Power effects) and moves used via Dancer or Instruct . If Z- Parting Shot is reflected, the Pokemon switched in does not have its HP restored. In Battle Royals , if multiple Pokemon have Magic Bounce and a hazard-setting move is used, only the fastest Pokemon's Magic Bounce will activate. Generation VIII [ edit | edit source ] A Dynamax Pokemon reflecting Parting Shot will still be forced to switch out. Generation IX [ edit | edit source ] This Ability effect may be in need of research. Reason: Which moves are bouncable in this generation? \"Same list as Magic Coat\" isn't helpful here, because that move is unusable in Gen IX. (This might need its own version of the reflectable move table.) You can discuss this on the talk page. Magic Bounce can reflect Spicy Extract . Magic Bounce will not activate if the opponent has the Ability Mycelium Might .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Reflects most non-damaging moves back at their user.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "healing ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "switching ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "debuffing ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "protective ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "healing ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "switching ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "debuffing ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "protective ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Healing abilities",
+      "Switching abilities",
+      "Debuffing abilities",
+      "Protective abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257967
+}

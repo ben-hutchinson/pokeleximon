@@ -1,0 +1,38 @@
+{
+  "answerKey": "MATBLOCK",
+  "answerDisplay": "MAT BLOCK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Mat Block (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mat_Block_(move)",
+  "pageId": 185069,
+  "pageRevisionId": 4505145,
+  "leadText": "Mat Block (Japanese: たたみがえし Tatami Flip) is a non-damaging Fighting-type move introduced in Generation VI. Prior to Generation VII, it was the signature move of Greninja, and in Generation VIII, it is the signature move of Throh.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] Mat Block protects all Pokémon on the user's side of the field from any physical or special moves for that turn. Unlike Protect , Mat Block is not an increased priority move. Mat Block will fail if not used on the first turn after the Pokémon enters the field; the Pokémon must be switched out and back in to be able to use Mat Block again. Some moves will do damage through Mat Block . Most damaging Z-Moves and Max Moves will only do 25% of their original damage, except G-Max One Blow and G-Max Rapid Flow which do full damage. Moves that break protection , like Feint , will do their full damage and remove the effects of Mat Block. The Ability Unseen Fist allows contact moves to bypass Mat Block. Additionally, Mat Block cannot protect against Future Sight or Doom Desire . If powered up by a Fightinium Z into Z-Mat Block, the user's Defense stat rises by one stage. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Mat Block cannot be selected in a battle. Generation IX [ edit | edit source ] Mat Block cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh LA Using a pulled-up mat as a shield, the user protects itself and its allies from damaging moves. This does not stop status moves. BD SP S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It protects from physical and special moves. Its chance of failing rises if used in a row. * You and your teammates in the same room will get Mat Block status, which protects you from physical and special moves. But its chance of failure rises if you use it after you use a move that evades enemies' attacks. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move is a reference to a trick that has been used by ninjas , which involves flipping a tatami (a type of mat used as a flooring material in traditional Japanese-style rooms) to block incoming projectile attacks. While Mat Block is usable in Pokémon Sword and Shield , no Pokémon can learn it in those games. The only way to obtain it is to transfer a Throh that already knows the move from an earlier game via Pokémon HOME , since Greninja and Smeargle are not present in Pokémon Sword and Shield. Mat Block is the only protection move that does not have increased priority . Additionally, it is the only one that works on the first turn only."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mat-Block",
+    "Mat Block",
+    "Mat-Block (move)"
+  ],
+  "updatedAt": 1773324795
+}

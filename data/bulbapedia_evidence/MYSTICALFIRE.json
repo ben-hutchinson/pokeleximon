@@ -1,0 +1,38 @@
+{
+  "answerKey": "MYSTICALFIRE",
+  "answerDisplay": "MYSTICAL FIRE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Mystical Fire (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mystical_Fire_(move)",
+  "pageId": 184464,
+  "pageRevisionId": 4493869,
+  "leadText": "Mystical Fire (Japanese: マジカルフレイム Magical Flame) is a damage-dealing Fire-type move introduced in Generation VI. It was TM92 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VI 1.2 Generation VII onwards 1.3 Generation VIII 1.3.1 Pokémon Legends: Arceus 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation VI [ edit | edit source ] Mystical Fire inflicts damage and lowers the target's Special Attack stat by one stage. Generation VII onwards [ edit | edit source ] Mystical Fire had its power increased from 65 to 75. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Mystical Fire's power was decreased to 70, and it lowers the opponent's offensive stats. Pokémon Legends: Arceus Category Special PP 10 Agile Strong Power 70 55 85 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Turns 3 2 4 ? ? ? ? Lowers the target's offensive stats Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 75 90 Cooldown 8s Move wind-up time 20 frames Effect duration 8s 11s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh BD SP S V The user attacks by breathing a special, hot fire. This also lowers the target's Sp. Atk stat. LA The user attacks by breathing a special, hot fire. This also lowers the target's offensive stats. ZA The user attacks by breathing a special kind of searing flame. This also lowers targets' Sp. Atk stats for a short time."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD MD RT DX It damages an enemy. It also lowers the enemy's Sp. Atk."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Mystical Fire is the only Fire-type move that was introduced in Generation VI ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mystical-Fire",
+    "Mystical Fire",
+    "Mystical-Fire (move)"
+  ],
+  "updatedAt": 1773325266
+}

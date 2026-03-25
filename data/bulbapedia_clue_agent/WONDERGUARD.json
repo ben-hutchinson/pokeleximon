@@ -1,0 +1,111 @@
+{
+  "answerKey": "WONDERGUARD",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4475356,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Wonder Guard (Japanese: Mysterious Protection) is an Ability introduced in Generation III. It is the signature Ability of Shedinja.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Only super-effective moves can inflict damage. MD T D * Protects the Pokemon from all damaging moves but super-effective ones. MD T D * Protects the Pokemon from all Move damage except when super-effective. MD S Protects the Pokemon from all move damage except when super effective. B S L MD GtI Unavailable S MD The Pokemon takes no damage from attacks or moves that are not super effective. But it takes damage from weather and traps! MD RT DX The Pokemon takes no damage from attacks or moves that are not super effectivebut it takes damage from other things, such as weather and traps.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III and IV 1.1.2 Generation V onwards 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Does Entrainment fail if used by a Pokemon with Wonder Guard? You can discuss this on the talk page. A Pokemon with Wonder Guard is immune to damaging moves that are not super effective , except Struggle . This also applies to damaging moves that do not increase their damage based on type effectiveness, such moves that deal direct damage , counterattack moves , and one-hit knockout moves . For example, a Shedinja ( Bug / Ghost ) with Wonder Guard is immune to Metal Burst ( Steel-type ), Psywave ( Psychic-type ), and Fissure ( Ground-type ), but not Night Shade ( Ghost-type ). Wonder Guard does not protect against status moves (for instance, Tail Whip or Poison Powder ), and it does not prevent indirect damage such as from burn , poison , confusion , weather , recoil , or entry hazards . Wonder Guard can be bypassed by moves and Abilities that ignore Abilities (such as Sunsteel Strike and Mold Breaker ). Wonder Guard can be copied by Trace or acquired with a transformation from Transform or Imposter . There is no other legitimate way for any Pokemon besides Shedinja to obtain Wonder Guard. Role Play fails if the target has the Ability Wonder Guard. Skill Swap fails if either Pokemon has Wonder Guard. Wonder Guard cannot be copied by Power of Alchemy or Receiver . Wandering Spirit will not swap Abilities with Wonder Guard. A Flying-type Pokemon with Wonder Guard will not take damage during strong winds if the move is not super effective against the Pokemon's other type. A typeless Pokemon with Wonder Guard (such as a pure Fire-type Pokemon that used Burn Up ) is immune to damaging moves of all types. Generation III and IV [ edit | edit source ] Typeless damage is not blocked by Wonder Guard. Due to dealing typeless damage in these games, Beat Up , Future Sight , and Doom Desire bypass Wonder Guard. Additionally, Weather Ball used during shadowy aura deals typeless damage, so bypasses Wonder Guard. Shadow moves bypass Wonder Guard, regardless of whether the move is considered super effective or not. Due to a glitch , Fire Fang is able to hit through Wonder Guard, even if the target does not have a weakness to Fire-type moves. In Pokemon Emerald , if the active Pokemon of an NPC trainer has no moves that can bypass the player's Wonder Guard, they will switch to a Pokemon that has at least one move that can bypass Wonder Guard, if they have one. If none of the NPC's Pokemon can bypass Wonder Guard, then they will not switch. Generation V onwards [ edit | edit source ] Typeless damage is now blocked by Wonder Guard, except from Struggle . Fire Fang also no longer bypasses Wonder Guard. Outside of battle [ edit | edit source ] Wonder Guard has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Does Entrainment fail if used by a Pokemon with Wonder Guard? You can discuss this on the talk page. A Pokemon with Wonder Guard is immune to damaging moves that are not super effective , except Struggle . This also applies to damaging moves that do not increase their damage based on type effectiveness, such moves that deal direct damage , counterattack moves , and one-hit knockout moves . For example, a Shedinja ( Bug / Ghost ) with Wonder Guard is immune to Metal Burst ( Steel-type ), Psywave ( Psychic-type ), and Fissure ( Ground-type ), but not Night Shade ( Ghost-type ). Wonder Guard does not protect against status moves (for instance, Tail Whip or Poison Powder ), and it does not prevent indirect damage such as from burn , poison , confusion , weather , recoil , or entry hazards . Wonder Guard can be bypassed by moves and Abilities that ignore Abilities (such as Sunsteel Strike and Mold Breaker ). Wonder Guard can be copied by Trace or acquired with a transformation from Transform or Imposter . There is no other legitimate way for any Pokemon besides Shedinja to obtain Wonder Guard. Role Play fails if the target has the Ability Wonder Guard. Skill Swap fails if either Pokemon has Wonder Guard. Wonder Guard cannot be copied by Power of Alchemy or Receiver . Wandering Spirit will not swap Abilities with Wonder Guard. A Flying-type Pokemon with Wonder Guard will not take damage during strong winds if the move is not super effective against the Pokemon's other type. A typeless Pokemon with Wonder Guard (such as a pure Fire-type Pokemon that used Burn Up ) is immune to damaging moves of all types. Generation III and IV [ edit | edit source ] Typeless damage is not blocked by Wonder Guard. Due to dealing typeless damage in these games, Beat Up , Future Sight , and Doom Desire bypass Wonder Guard. Additionally, Weather Ball used during shadowy aura deals typeless damage, so bypasses Wonder Guard. Shadow moves bypass Wonder Guard, regardless of whether the move is considered super effective or not. Due to a glitch , Fire Fang is able to hit through Wonder Guard, even if the target does not have a weakness to Fire-type moves. In Pokemon Emerald , if the active Pokemon of an NPC trainer has no moves that can bypass the player's Wonder Guard, they will switch to a Pokemon that has at least one move that can bypass Wonder Guard, if they have one. If none of the NPC's Pokemon can bypass Wonder Guard, then they will not switch. Generation V onwards [ edit | edit source ] Typeless damage is now blocked by Wonder Guard, except from Struggle . Fire Fang also no longer bypasses Wonder Guard.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Protects against damaging moves that are not super effective.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "protective trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "protective trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.78,
+        "style": "effect"
+      },
+      {
+        "text": "Prevents major status ailments",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "effect"
+      },
+      {
+        "text": "Ailment-proof trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "effect"
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "protective trait",
+      "status immunity",
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Protective abilities",
+      "Status-blocking abilities",
+      "Weather abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258034
+}

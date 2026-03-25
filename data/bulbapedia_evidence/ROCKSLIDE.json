@@ -1,0 +1,38 @@
+{
+  "answerKey": "ROCKSLIDE",
+  "answerDisplay": "ROCK SLIDE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Rock Slide (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rock_Slide_(move)",
+  "pageId": 3766,
+  "pageRevisionId": 4503907,
+  "leadText": "Rock Slide (Japanese: いわなだれ Rock Slide) is a damage-dealing Rock-type move introduced in Generation I. It is: TM48 in Generation I. TM80 from Generation IV to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TM22 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee! and Pokémon Sword and Shield. TM086 in Pokémon Scarlet and Violet. TM012 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II onwards 1.3 Generation VIII 1.3.1 Pokémon Legends: Arceus 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I [ edit | edit source ] Rock Slide deals damage with no additional effect. Generation II onwards [ edit | edit source ] Rock Slide inflicts damage and has a 30% chance of causing each target to flinch . In battles with multiple opponents, Rock Slide targets all adjacent opponents. Rock Slide will also destroy certain natural objects found in the background of battles . Rock Slide can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Rock Throw was used in the previous turn. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Like all other moves in Pokémon Legends: Arceus, Rock Slide only hits one target. Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 75 60 90 Accuracy 90% 90% 100% Action speed modifier Self 0 0 +5 Target +3 +5 +3 Additional effect ? ? ? ? ? ? None Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Rock Slide creates a group of rock projectiles that fall from above the target; the grouping is set upon completion of the wind-up animation and does not follow the target's movement. Should any of the rocks strike an enemy, that enemy takes the full damage of the move and flinch chance is calculated at that time. No extra damage or chances to flinch will occur if a target is struck by extra rocks. Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 75 90 Cooldown 7s Move wind-up time 20 frames Effect duration —s Additional effect — — — May flinch struck targets"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A Rock -type attack that hits the target with an avalanche of rocks and boulders. G S C An attack that may cause flinching. R S E Colo XD Large boulders are hurled. May cause flinching. FR LG Large boulders are hurled at the foe. It may make the foe flinch. D P Pt HG SS PBR Large boulders are hurled at the foe to inflict damage. It may also make the target flinch. B W B2 W2 Large boulders are hurled at the opposing team to inflict damage. They may also make the targets flinch. X Y OR AS S M US UM P E Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch. Sw Sh BD SP S V Large boulders are hurled at opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch. LA Large boulders are hurled at the target to inflict damage. ZA The user attacks by hurling large boulders. This may also make targets flinch."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also cause the target to cringe, making it incapable of action. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Cringe status condition, making its actions fail. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで ひるみじょうたいにして わざや こうげきを だせなくする Conq. Send large rocks crashing into the enemy. It may also cause the target to flinch. MD GtI It damages an enemy. It could also cause the Cringe status condition, which makes the enemy unable to attack or use moves. S MD It damages an enemy. It could also make the enemy flinch."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Lance's Aerodactyl using Rock Slide in Pokémon Gold and Silver In Generation I , Rock Slide was the only Rock-type TM . In the Japanese versions of Pokémon Red, Green, Blue, and Yellow, the girl who gives the player TM48 in exchange for a Soda Pop states that Rock Slide can sometimes cause the enemy to faint (Japanese: たまに あいてを きぜつ させる). In the English version of Pokémon Red and Blue , she makes no reference to fainting, but instead says Rock Slide can \"spook the target sometimes\". This may be a reference to flinching , even though the move could not cause flinching until Generation II . This quote is omitted in the English version of Pokémon Yellow . In Generation II, Champion Lance 's Aerodactyl knows Rock Slide, despite the fact that it couldn't learn the move prior to Generation III . Rock Slide is the only Rock-type move capable of making the target flinch . Cornerstone Mask Ogerpon and Iron Boulder are the only Rock types that are unable to learn Rock Slide."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Rock-Slide",
+    "Rock Slide",
+    "Rock-Slide (move)"
+  ],
+  "updatedAt": 1773326475
+}

@@ -1,0 +1,30 @@
+{
+  "answerKey": "MOLTENARENA",
+  "answerDisplay": "MOLTEN ARENA",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Molten Arena",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Molten_Arena",
+  "pageId": 269565,
+  "pageRevisionId": 4410269,
+  "leadText": "Molten Arena (Japanese: 溶岩の戦場 Lava Battlefield) is an area located in the northeastern region Cobalt Coastlands of Hisui. It is found at the center of Firespit Island. It is the place where the noble Arcanine, Lord of the Isles (Japanese: 島キング King of the Island), resides. As part of Mission 10: \"The Lordless Island\", a Hisuian Growlithe that is the son of the late Lord of the Isles evolves here after confronting the Miss Fortune sisters and becomes the new noble. The newly evolved Arcanine is then fought here to calm him of his frenzy. Warden Palina of the Pearl Clan tends to the new lord Arcanine here.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] The Molten Arena is situated at the base of the central volcano of Firespit Island, in front of the entrance to the Lava Dome Sanctum . The shape of the arena is a small and circular rocky platform with three fan-shaped pieces of rock extending from it in adjacent cardinal directions. It sits amidst a pool of impassable lava."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Volcano Balm Obtained prior to battling Arcanine LA Flame Plate Given by Arcanine for quelling its frenzy during Mission 10: \"The Lordless Island\" LA Exp. Candy M ×3 Given by Palina after defeating Arcanine in a rematch LA Exp. Candy L Given by Palina after defeating Arcanine in a rematch without taking damage LA"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Molten-Arena",
+    "Molten Arena",
+    "Molten-Arena (location)"
+  ],
+  "updatedAt": 1774214554
+}

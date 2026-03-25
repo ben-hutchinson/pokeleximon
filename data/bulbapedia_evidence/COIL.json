@@ -1,0 +1,37 @@
+{
+  "answerKey": "COIL",
+  "answerDisplay": "COIL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Coil (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Coil_(move)",
+  "pageId": 117551,
+  "pageRevisionId": 4403362,
+  "leadText": "Coil redirects here. For the Pokémon named Coil in Japanese, see Magnemite (Pokémon). Coil (Japanese: とぐろをまく Coil Up) is a non-damaging Poison-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Coil raises the user's Attack , Defense , and accuracy stats by one stage each. If powered up by a Poisonium Z into Z-Coil, all of the user's lowered stats are reset."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user coils up and concentrates. This raises its Attack and Defense stats as well as its accuracy. S V The user coils up and concentrates. This boosts its Attack and Defense stats as well as its accuracy."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It boosts your Attack, Defense, and accuracy. (The stat changes return to normal when you go to the next floor or step on a Wonder Tile.) S MD It boosts your Attack, Defense, and accuracy. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move, along with Hone Claws and Acupressure , are the only moves that raise the accuracy stat. Fitting for its name, most Pokémon that can learn this move have a serpentine body."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Coil",
+    "Coil (move)"
+  ],
+  "updatedAt": 1773321788
+}

@@ -1,0 +1,37 @@
+{
+  "answerKey": "SUPERPOWER",
+  "answerDisplay": "SUPERPOWER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Superpower (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Superpower_(move)",
+  "pageId": 3887,
+  "pageRevisionId": 4434599,
+  "leadText": "Superpower (Japanese: ばかぢから Brute Force) is a damage-dealing Fighting-type move introduced in Generation III. It was TM49 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!, and it was TR39 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Superpower inflicts damage, then lowers the user's Attack and Defense stats by one stage each. Superpower can be used as the second move of a Pokémon Contest combination , with the user gaining 6 bonus appeal points if Lock-On was used in the previous turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Boosts strength sharply, but lowers abilities. FR LG A powerful attack, but it also lowers the user's Attack and Defense stats. D P Pt HG SS PBR The user attacks the foe with great power. However, it also lowers the user's Attack and Defense. B W B2 W2 The user attacks the target with great power. However, it also lowers the user's Attack and Defense. X Y OR AS S M US UM P E Sw Sh BD SP LA The user attacks the target with great power. However, this also lowers the user's Attack and Defense stats. S V The user attacks the target with great power. This also lowers the user's Attack and Defense stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. However, it also lowers the user's Attack and Defense by one level. MD T D S Inflicts damage on the target, but it also reduces the user's Attack and Defense by 1 level. B S L てきポケモンに ダメージをあたえる しかし じぶんの こうげき ぼうぎょが １だんかい さがる Conq. Attack with tremendous force. The user's Attack and Defense will decrease as a result. MD GtI It damages an enemy, but it also lowers your Attack and Defense. (The stat changes return to normal when you go to the next floor or step on a Wonder Tile.) S MD It damages an enemy, but it also lowers your Attack and Defense. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Superpower's German name is the same as the name for the Ability Huge Power in German. Though it translates to Great Power, the Japanese name of the move can also mean Animal Power , which may explain why it can be learned by several beast-like Pokémon, such as Luxray ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Superpower",
+    "Superpower (move)"
+  ],
+  "updatedAt": 1773327679
+}

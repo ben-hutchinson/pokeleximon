@@ -1,0 +1,38 @@
+{
+  "answerKey": "POWERGEM",
+  "answerDisplay": "POWER GEM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Power Gem (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Power_Gem_(move)",
+  "pageId": 60071,
+  "pageRevisionId": 4505269,
+  "leadText": "Power Gem (Japanese: パワージェム Power Gem) is a damage-dealing Rock-type move introduced in Generation IV. It is: TR63 in Pokémon Sword and Shield. TM101 in Pokémon Scarlet and Violet. TM019 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations IV and V 1.2 Generation VI onwards 1.3 Generation VIII 1.3.1 Pokémon Legends: Arceus 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generations IV and V [ edit | edit source ] Power Gem inflicts damage and has no secondary effect. Power Gem's base power is 70. Generation VI onwards [ edit | edit source ] Power Gem's power changed from 70 to 80. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Special PP 10 Agile Strong Power 80 60 100 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect ? ? ? ? ? ? None Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 80 96 Cooldown 8s Move wind-up time 30 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V ZA The user attacks with a ray of light that sparkles as if it were made of gemstones."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. B S L てきポケモンに ダメージをあたえる MD GtI S MD MD RT DX It damages an enemy."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Despite not being able to learn it in Generation VI , Diancie is seen using Power Gem on X and Y 's official website . However, since the battle takes place in a cave , it is possible the move Diancie used was actually Nature Power ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Power-Gem",
+    "Power Gem",
+    "Power-Gem (move)"
+  ],
+  "updatedAt": 1773326002
+}

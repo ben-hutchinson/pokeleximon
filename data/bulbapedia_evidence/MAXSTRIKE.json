@@ -1,0 +1,30 @@
+{
+  "answerKey": "MAXSTRIKE",
+  "answerDisplay": "MAX STRIKE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Max Strike (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Strike_(move)",
+  "pageId": 238781,
+  "pageRevisionId": 4452072,
+  "leadText": "Max Strike (Japanese: ダイアタック Dai Attack) is a damage-dealing Normal-type Max Move introduced in Generation VIII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Max Strike does damage to a target and lowers the Speed of all opponents by one stage. Its power and whether it is a special or physical move depends on the move it is based on. If Max Strike is used with Multi-Attack or Techno Blast as its base move while the user is holding a Memory or a Drive , respectively, Max Strike turns into the Max Move of the type corresponding to the type of Memory or Drive held by the user. If Max Strike is used during weather with Weather Ball as its base move, it turns into the Max Move of the type corresponding to the type Weather Ball would be in that weather. In a similar way, if Max Strike is used during terrain with Terrain Pulse as its base move, it turns into the Max Move of the type corresponding to the type Terrain Pulse would be in that terrain. If Max Strike is used by a Pokémon with Aerilate , Galvanize , Pixilate , or Refrigerate , it turns into the Max Move of the type corresponding to the Pokémon's Ability. Base move Power Cat. Bind 90 Physical Body Slam 130 Physical Boomburst 140 Special Covet 110 Physical Crush Claw 130 Physical Crush Grip 140 Physical Cut 100 Physical Double Hit 120 Physical Double-Edge 140 Physical Echoed Voice 90 Special Endeavor 130 Physical Explosion 150 Physical Extreme Speed 130 Physical Facade 120 Physical Fake Out 90 Physical False Swipe 90 Physical Feint 90 Physical Flail 130 Physical Fury Attack 90 Physical Fury Swipes 100 Physical Giga Impact 150 Physical Guillotine 130 Physical Head Charge 140 Physical Headbutt 120 Physical Hold Back 90 Physical Horn Attack 120 Physical Horn Drill 130 Physical Hyper Beam 150 Special Hyper Fang 130 Physical Hyper Voice 130 Special Judgment 130 Special Last Resort 140 Physical Mega Kick 140 Physical Mega Punch 130 Physical Multi-Attack 95 Physical Pay Day 90 Physical Pound 90 Physical Present 100 Physical Quick Attack 90 Physical Rapid Spin 100 Physical Relic Song 130 Special Retaliate 120 Physical Revelation Dance 130 Special Round 110 Special Scratch 90 Physical Self-Destruct 150 Physical Skull Bash 140 Physical Slam 130 Physical Slash 120 Physical Snore 100 Special Spit Up 100 Special Stomp 120 Physical Strength 130 Physical Super Fang 100 Physical Swift 110 Special Tackle 90 Physical Tail Slap 130 Physical Take Down 130 Physical Techno Blast 140 Special Terrain Pulse 130 Special Thrash 140 Physical Tri Attack 130 Special Uproar 130 Special Vise Grip 110 Physical Weather Ball 130 Special Wrap 90 Physical Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Max Strike cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V This is a Normal-type attack Dynamax Pokémon use. This lowers the target's Speed stat. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Max-Strike",
+    "Max Strike",
+    "Max-Strike (move)"
+  ],
+  "updatedAt": 1773324851
+}

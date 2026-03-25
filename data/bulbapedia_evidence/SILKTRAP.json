@@ -1,0 +1,30 @@
+{
+  "answerKey": "SILKTRAP",
+  "answerDisplay": "SILK TRAP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Silk Trap (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Silk_Trap_(move)",
+  "pageId": 277754,
+  "pageRevisionId": 4403633,
+  "leadText": "Silk Trap (Japanese: スレッドトラップ Thread Trap) is a non-damaging Bug-type move introduced in Generation IX. It is the signature move of Spidops.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Main article: Protection Silk Trap protects the user from all effects of physical and special moves that target it during the turn it is used. If Silk Trap blocks an attack that would make contact with the user, the attacker's Speed stat is lowered by one stage . (Moves that are blocked do not activate other effects that require making contact, like Rocky Helmet or Rough Skin .) If the user goes last in the turn, the move will fail. The chance that Silk Trap will succeed also drops each time the user successfully and consecutively uses Endure , any protection move that only affects the user , Quick Guard , or Wide Guard . Each time, the chance of success is divided by 3. Some moves will do damage through Silk Trap . Moves that break protection , like Feint , will do their full damage and remove the effects of Silk Trap. The Ability Unseen Fist allows contact moves to bypass Silk Trap. Silk Trap is an increased priority move that will go before most attacks in a turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user spins a silken trap, protecting itself from damage while lowering the Speed stat of any attacker that makes direct contact."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Silk-Trap",
+    "Silk Trap",
+    "Silk-Trap (move)"
+  ],
+  "updatedAt": 1773326987
+}

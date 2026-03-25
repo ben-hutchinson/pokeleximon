@@ -1,0 +1,17 @@
+{
+  "answerKey": "DYNAMAXCANNON",
+  "answerDisplay": "DYNAMAX CANNON",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "Details and added effects for the Pokémon attack.",
+  "score": 57.88,
+  "approved": false,
+  "qualityFlags": [
+    "near_verbatim_source"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/move/dynamax-cannon",
+  "extract": "Details and added effects for the Pokémon attack",
+  "rankPosition": 1,
+  "updatedAt": 1774211116
+}

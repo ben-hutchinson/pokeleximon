@@ -1,0 +1,30 @@
+{
+  "answerKey": "SHADOWMIST",
+  "answerDisplay": "SHADOW MIST",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Mist (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Mist_(move)",
+  "pageId": 9593,
+  "pageRevisionId": 4309722,
+  "leadText": "Shadow Mist (Japanese: ダークミスト Dark Mist) is one of several Shadow moves available only in Pokémon XD: Gale of Darkness. Like other Shadow moves, it is forgotten and replaced with another move once the Pokémon is purified. Shadow Mist is a Shadow version of Sweet Scent.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Shadow Mist is a Shadow version of Sweet Scent . It lowers the evasion of both opponents by two stages each. As Shadow Pokémon cannot be traded, and since Pokémon Contests do not exist in Pokémon XD: Gale of Darkness, Shadow Mist cannot be used in Contests."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description XD A shadowy aura sharply cuts the foe's evasiveness."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Mist",
+    "Shadow Mist",
+    "Shadow-Mist (move)"
+  ],
+  "updatedAt": 1773326844
+}

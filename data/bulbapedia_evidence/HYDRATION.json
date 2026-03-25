@@ -1,0 +1,33 @@
+{
+  "answerKey": "HYDRATION",
+  "answerDisplay": "HYDRATION",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Hydration (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Hydration_(Ability)",
+  "pageId": 11319,
+  "pageRevisionId": 4345573,
+  "leadText": "Hydration (Japanese: うるおいボディ Moist Body) is an Ability introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] At the end of each turn, if it is raining , Hydration will cure the Pokémon of any non-volatile status condition . If it cures a status condition, it does so before burn or poison damage is dealt on that turn. Pokémon who are made drowsy by Yawn will not fall asleep until after Hydration takes effect, and as such, will not be healed until the end of the next turn. Outside of battle [ edit | edit source ] Hydration has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] At the end of each turn, if it is raining , Hydration will cure the Pokémon of any non-volatile status condition . If it cures a status condition, it does so before burn or poison damage is dealt on that turn. Pokémon who are made drowsy by Yawn will not fall asleep until after Hydration takes effect, and as such, will not be healed until the end of the next turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Helps the Pokémon recover from status problems when it is raining. B S L てんきが あめだと わるいじょうたいが かいふくする MD GtI Heals bad status conditions in the Rain weather condition. * It heals the Pokémon's bad status condition when the weather is Rain! * S MD It heals the Pokémon's bad status condition when the weather is rain! MD RT DX This Ability heals the Pokémon's bad status conditions, such as being poisoned or paralyzed, when the weather condition is Rain or Heavy Rain."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Hydration",
+    "Hydration (Ability)"
+  ],
+  "updatedAt": 1773328936
+}

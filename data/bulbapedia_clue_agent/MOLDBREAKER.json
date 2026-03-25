@@ -1,0 +1,103 @@
+{
+  "answerKey": "MOLDBREAKER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4312299,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Mold Breaker (Japanese: Mold-Breaking) is an Ability introduced in Generation IV.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD T D S Prevents the foe's ability from activating when the Pokemon attacks. B S L MD GtI Damage dealt by the Pokemon's moves or items is not influenced by the target's Ability. * The Pokemon's moves are not influenced by the target's Ability! For example, it could make a Pokemon with Sturdy faint in one hit! * S MD The Pokemon's moves are not influenced by the target's Ability! For example, it could make a Pokemon with the Sturdy Ability faint in one hit! MD RT DX The Pokemon can deal damage and inflict status conditions on targets regardless of their Abilities. For example, this Pokemon can make a Pokemon with the Sturdy Ability faints in one hit!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generation V onward 1.1.3 Generation VIII onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Main article: Ignoring Abilities When a Pokemon with Mold Breaker uses a move, the effects of all Pokemon's ignorable Abilities are ignored for the execution of that move. (Ignorable Abilities are most Abilities that could potentially negatively affect the success, damage, or effects of a move if possessed by the target of a move or its allies.) For example, a Pokemon with Mold Breaker that uses Earthquake can hit opponents that have Levitate . In Generation IV, when a Pokemon with Mold Breaker is brought out, the message \" has Mold Breaker! \" is displayed. From Generation V onward, when a Pokemon with Mold Breaker is brought out, the message \" breaks the mold! \" is displayed. Generation IV [ edit | edit source ] Flower Gift will increase the Attack of allies with Mold Breaker, even when they are attacking the ally with Flower Gift. Generation V onward [ edit | edit source ] If a Pokemon with Mold Breaker forces a Pokemon to switch in by using a move that switches the target out (such as Roar or Dragon Tail ), ignorable Abilities are ignored when applying entry hazards . For example, a Pokemon with Levitate switched in this way will be affected by Spikes and Toxic Spikes (unless it is also ungrounded for other reasons); if a Poison-type Pokemon with Levitate is switched in this way, it will remove Toxic Spikes from its side of the field (unless it is also ungrounded for other reasons). If a Pokemon with Mold Breaker attacks, it does not gain Attack due to an ally's Flower Gift. Generation VIII onward [ edit | edit source ] Mold Breaker no longer ignores Dark Aura and Fairy Aura , though it will still ignore Aura Break. Outside of battle [ edit | edit source ] Mold Breaker has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "Contents 1 In battle 1.1 Generation IV 1.2 Generation V onward 1.3 Generation VIII onward In battle [ edit | edit source ] Main article: Ignoring Abilities When a Pokemon with Mold Breaker uses a move, the effects of all Pokemon's ignorable Abilities are ignored for the execution of that move. (Ignorable Abilities are most Abilities that could potentially negatively affect the success, damage, or effects of a move if possessed by the target of a move or its allies.) For example, a Pokemon with Mold Breaker that uses Earthquake can hit opponents that have Levitate . In Generation IV, when a Pokemon with Mold Breaker is brought out, the message \" has Mold Breaker! \" is displayed. From Generation V onward, when a Pokemon with Mold Breaker is brought out, the message \" breaks the mold! \" is displayed. Generation IV [ edit | edit source ] Flower Gift will increase the Attack of allies with Mold Breaker, even when they are attacking the ally with Flower Gift. Generation V onward [ edit | edit source ] If a Pokemon with Mold Breaker forces a Pokemon to switch in by using a move that switches the target out (such as Roar or Dragon Tail ), ignorable Abilities are ignored when applying entry hazards . For example, a Pokemon with Levitate switched in this way will be affected by Spikes and Toxic Spikes (unless it is also ungrounded for other reasons); if a Poison-type Pokemon with Levitate is switched in this way, it will remove Toxic Spikes from its side of the field (unless it is also ungrounded for other reasons). If a Pokemon with Mold Breaker attacks, it does not gain Attack due to an ally's Flower Gift. Generation VIII onward [ edit | edit source ] Mold Breaker no longer ignores Dark Aura and Fairy Aura , though it will still ignore Aura Break.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Bypasses targets' abilities if they could hinder or prevent a move.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "poisoning ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "switching ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "debuffing ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "poisoning ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "switching ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "debuffing ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Poisoning abilities",
+      "Switching abilities",
+      "Debuffing abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257977
+}

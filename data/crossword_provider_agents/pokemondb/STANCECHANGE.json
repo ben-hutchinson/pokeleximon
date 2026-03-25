@@ -1,0 +1,17 @@
+{
+  "answerKey": "STANCECHANGE",
+  "answerDisplay": "STANCE CHANGE",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this ability, and the list of Pokémon that learn it.",
+  "score": 102.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/ability/stance-change",
+  "extract": "Change, and the list of Pokémon that learn it.",
+  "rankPosition": 1,
+  "updatedAt": 1774213012
+}

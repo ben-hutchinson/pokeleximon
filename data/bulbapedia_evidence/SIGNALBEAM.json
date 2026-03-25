@@ -1,0 +1,38 @@
+{
+  "answerKey": "SIGNALBEAM",
+  "answerDisplay": "SIGNAL BEAM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Signal Beam (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Signal_Beam_(move)",
+  "pageId": 3935,
+  "pageRevisionId": 4405175,
+  "leadText": "Signal Beam (Japanese: シグナルビーム Signal Beam) is a damage-dealing Bug-type move introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation III to VII [ edit | edit source ] Signal Beam deals damage and has a 10% chance of confusing the target. Generation VIII onwards [ edit | edit source ] Signal Beam cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E A strange beam attack that may confuse the foe. FR LG The foe is hit with a flashing beam that may also cause confusion. Colo XD Fires a peculiar ray that may confuse the target. D P Pt HG SS PBR B W B2 W2 The user attacks with a sinister beam of light. It may also confuse the target. X Y OR AS S M US UM P E The user attacks with a sinister beam of light. This may also confuse the target. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target, even at a distance. It may also leave the target confused. MD T D MD S * Inflicts damage on the target, even at a distance. It may also afflict the targeted enemy with a Confused status condition. MD S * Inflicts damage on the target, even at a distance. It may also afflict the target with a Confused status condition. B S L はなれたポケモンに ダメージをあたえる いっていのかくりつで こんらんじょうたいにかえる MD GtI It damages even a faraway Pokémon. It could also cause the Confused status condition. The Confused status impairs its sense of direction. S MD It damages a Pokémon, even one far away. It could also make the enemy confused."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Signal Beam is the only Platinum Move Tutor move that requires each kind of shard to learn. All others require only one, two, or three types of shards. Signal Beam is the only Bug-type move capable of inflicting confusion."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Signal-Beam",
+    "Signal Beam",
+    "Signal-Beam (move)"
+  ],
+  "updatedAt": 1773326979
+}

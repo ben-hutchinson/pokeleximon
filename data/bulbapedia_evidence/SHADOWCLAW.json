@@ -1,0 +1,38 @@
+{
+  "answerKey": "SHADOWCLAW",
+  "answerDisplay": "SHADOW CLAW",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Claw (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Claw_(move)",
+  "pageId": 12428,
+  "pageRevisionId": 4483826,
+  "leadText": "Shadow Claw (Japanese: シャドークロー Shadow Claw) is a damage-dealing Ghost-type move introduced in Generation IV. It was TM65 from Generation IV through Pokémon Ultra Sun and Ultra Moon and in Generation VIII. In Generation IX, it is TM061.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Shadow Claw deals damage and has an increased critical hit ratio. Shadow Claw can also be used as part of a Contest Spectacular combination , with the user gaining extra three appeal points if the move Focus Energy was used in the prior turn. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Physical PP 15 Agile Strong Power 70 55 85 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Crit. stage +1 +1 +2 ? ? ? ? Has an increased critical-hit ratio Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 70 84 Cooldown 7s Move wind-up time 10 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP The user slashes with a sharp claw made from shadows. Critical hits land more easily. LA The user slashes with a sharp claw made from shadows. This move has a heightened chance of landing a critical hit. S V The user attacks by slashing the target with a sharp claw made from shadows. This move has a heightened chance of landing a critical hit. ZA The user attacks by slashing with a sharp claw made from shadows. This move has a heightened chance of landing a critical hit."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. It has a high critical-hit rate. B S L てきポケモンに ダメージをあたえる きゅうしょに あたりやすい MD GtI S MD MD RT DX It damages an enemy. It has a high critical-hit rate."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Shadow Claw is the only Ghost-type Cute move. Shadow Claw is the only move that retained its TM number between Generation VII and Generation VIII ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Claw",
+    "Shadow Claw",
+    "Shadow-Claw (move)"
+  ],
+  "updatedAt": 1773326832
+}

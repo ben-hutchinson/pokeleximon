@@ -1,0 +1,38 @@
+{
+  "answerKey": "DRAGONRAGE",
+  "answerDisplay": "DRAGON RAGE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Dragon Rage (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Rage_(move)",
+  "pageId": 3691,
+  "pageRevisionId": 4499762,
+  "leadText": "Dragon Rage (Japanese: りゅうのいかり Dragon Rage) is a damage-dealing Dragon-type move introduced in Generation I. It was TM23 in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations I and II 1.2 Generations III to VII 1.3 Generation VIII onwards Effect [ edit | edit source ] Generations I and II [ edit | edit source ] Dragon Rage always inflicts exactly 40 HP damage if it hits. It has no secondary effects and does not take weaknesses or resistances into account, but it does not ignore type immunity. In Generation II only, its base power is displayed as 40 instead of —. Generations III to VII [ edit | edit source ] Dragon Rage can be used as the first move of a Pokémon Contest combination , causing Dragon Claw , Dragon Dance , and Dragon Breath to score double the normal appeal if used in the next turn. It can also be used to finish a combination, with the user gaining 1 bonus appeal points if Dragon Dance or Dragon Breath was used in the previous turn. Dragon Rage is now affected by King's Rock , except in Generation IV . Generation VIII onwards [ edit | edit source ] Dragon Rage cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A Dragon -type attack. It inflicts a set amount of damage, regardless of the target's type. Stad2 A Dragon -type attack. It always inflicts a set amount of damage. G S C Always inflicts 40HP damage. R S E Colo XD Launches shock waves that always inflict 40 HP damage. FR LG The foe is hit with a shock wave that always inflicts 40-HP damage. D P Pt HG SS PBR The foe is stricken by a shock wave. This attack always inflicts 40 HP damage. B W B2 W2 X Y OR AS S M US UM This attack hits the target with a shock wave of pure rage. This attack always inflicts 40 HP damage. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts a set amount of damage on the target. MD T D S Inflicts 30 HP damage on the target. B S L てきポケモンに かならず ３０ダメージを あたえる Conq. This attack hits the target with a shock wave of pure rage. This attack always inflicts 40 HP damage. MD GtI It causes a set amount of damage to an enemy. S MD It inflicts a set amount of damage on an enemy. If your level goes up, the move can reach a greater distance. MD RT DX It inflicts a set amount of damage on an enemy. The greater your level, the further this move can reach."
+    },
+    {
+      "title": "Pokédex entries",
+      "text": "Pokédex entries [ edit | edit source ] Episode Subject Source Entry EP105 Dragon Rage Ash's Pokédex Rage , one of Charizard 's most powerful attacks . Rage attack usually has a devastating effect on its opponents."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Dragon-Rage",
+    "Dragon Rage",
+    "Dragon-Rage (move)"
+  ],
+  "updatedAt": 1773322286
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "FLYINGPRESS",
+  "answerDisplay": "FLYING PRESS",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Flying Press (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Flying_Press_(move)",
+  "pageId": 185065,
+  "pageRevisionId": 4470576,
+  "leadText": "Flying Press (Japanese: フライングプレス Flying Press) is a damage-dealing Fighting-type move introduced in Generation VI. It is the signature move of Hawlucha.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VI 1.2 Generation VII onwards 1.3 Generation VIII 1.3.1 Pokémon Brilliant Diamond and Shining Pearl 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A 1.5 Type effectiveness 1.5.1 Under Electrify 1.5.2 Under Normalize 1.5.3 During Inverse Battles Effect [ edit | edit source ] Generation VI [ edit | edit source ] Flying Press deals damage. In this generation, it has a power of 80. Despite being a Fighting-type move, the damage dealt is actually a combination of Fighting and Flying types, and thus its effectiveness against a given Pokémon differs from other Fighting-type moves. However, for all other purposes, it is a Fighting-type move: only Fighting-type Pokémon can receive the same-type attack bonus on Flying Press, it is unaffected by items like the Sky Plate and Flying Gem , and it will not activate the target's Coba Berry (but will activate Chople Berry even in cases where a regular Fighting-type move would not deal supereffective damage). If Flying Press is used while under the effect of Electrify or Normalize , damage is calculated using Flying type and Electric or Normal type modifiers instead. If the target has used Minimize , Flying Press deals double its regular damage and bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . Flying Press can hit non-adjacent opponents in Triple Battles . It cannot be used while Gravity is in effect. Generation VII onwards [ edit | edit source ] Flying Press now has a power of 100. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Flying Press cannot be selected in a battle. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 100 120 Cooldown 9s Move wind-up time 30 frames Effect duration —s Additional effect — — — None Type effectiveness [ edit | edit source ] Offensive properties of Flying Press Super effective (×2): Not very effective (×½): No effect (×0): Normal Grass Ice Fighting Dark Electric Poison Flying Psychic Fairy Ghost Under Electrify [ edit | edit source ] Offensive properties of Flying Press under Electrify Super effective (×2): Not very effective (×½): Not very effective (×¼): No effect (×0): Fighting Flying Bug Water Rock Steel Dragon Electric Ground Under Normalize [ edit | edit source ] Offensive properties of Flying Press under Normalize Super effective (×2): Not very effective (×½): Not very effective (×¼): No effect (×0): Fighting Bug Grass Electric Rock Steel Ghost During Inverse Battles [ edit | edit source ] Offensive properties of Flying Press during Inverse Battles Super effective (×2): Not very effective (×½): No effect (×0): Ghost Electric Poison Flying Psychic Fairy Normal Grass Ice Fighting Dark None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh LA S V The user dives down onto the target from the sky. This move is Fighting and Flying type simultaneously. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. ZA The user attacks by diving down onto targets from the sky. This move is both Fighting and Flying type simultaneously."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD This move is both Fighting and Flying type. * It damages an enemy. This move has two types: Fighting and Flying. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Flying Press is the first Generation VI move in index number order. Flying Press is the only move that deals dual-type damage."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Flying-Press",
+    "Flying Press",
+    "Flying-Press (move)"
+  ],
+  "updatedAt": 1773322942
+}

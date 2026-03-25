@@ -1,0 +1,34 @@
+{
+  "answerKey": "LOADEDDICE",
+  "answerDisplay": "LOADED DICE",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Loaded Dice",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Loaded_Dice",
+  "pageId": 273863,
+  "pageRevisionId": 4475500,
+  "leadText": "Loaded Dice (Japanese: いかさまダイス Cheating Dice) is a type of held item introduced in Generation IX.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Loaded Dice causes multi-strike moves used by the holder to always hit at least four times, if possible. It causes Triple Kick , Triple Axel , and Population Bomb used by the holder to only perform one accuracy check. It causes the holder's Population Bomb to hit four to ten times (with an even chance of each number of hits)."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V An item to be held by a Pokémon. This loaded dice always rolls a good number, and holding one can ensure that the holder's multistrike moves hit more times."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.3 Description 1.4 Acquisition 1.4.1 Distribution In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price S V $ 20,000 $ 5,000 Effect [ edit | edit source ] Loaded Dice causes multi-strike moves used by the holder to always hit at least four times, if possible. It causes Triple Kick , Triple Axel , and Population Bomb used by the holder to only perform one accuracy check. It causes the holder's Population Bomb to hit four to ten times (with an even chance of each number of hits). Description [ edit | edit source ] Games Description S V An item to be held by a Pokémon. This loaded dice always rolls a good number, and holding one can ensure that the holder's multistrike moves hit more times. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods S V East Province (Area One) (from a Pokémon League representative after defeating 5 Trainers in the area) Delibird Presents ( Levincia Branch) S V ID Item Printer Distribution [ edit | edit source ] Games Event Language/Region Distribution period S V Lotte World Mall battle item set South Korea April 29 to May 31, 2023"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Loaded-Dice",
+    "Loaded Dice",
+    "Loaded-Dice (item)"
+  ],
+  "updatedAt": 1773324443
+}

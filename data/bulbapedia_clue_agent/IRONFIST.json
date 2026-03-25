@@ -1,0 +1,73 @@
+{
+  "answerKey": "IRONFIST",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4489944,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Iron Fist redirects here. For the Paradox Pokemon with a similar name, see Iron Hands (Pokemon). Iron Fist (Japanese: Iron Fist) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Hitmonchan.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the power the Pokemon uses for punching moves. B S L MD GtI Increases the power of punching moves. * It makes the power of punching moves go up. * S MD The power of punching moves goes up! MD RT DX The power of punching moves goes up.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Affected moves 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Iron Fist causes the power of affected punching moves to increase by 20% (approximated as a factor of 4915/4096 since Generation V). This boost stacks with the Punching Glove , resulting in a power boost of 32%. Affected moves [ edit | edit source ] The table below lists the moves affected by Iron Fist, as well as the Pokemon that can have Iron Fist and learn those moves. Move Type Cat. Power and Boost Learned by Bullet Punch Steel Physical 40 48 Comet Punch Normal Physical 18 21.6 Dizzy Punch Normal Physical 70 84 Double Iron Bash Steel Physical 60 72 Drain Punch Fighting Physical 75 90 Dynamic Punch Fighting Physical 100 120 * * Fire Punch Fire Physical 75 90 Focus Punch Fighting Physical 150 180 Hammer Arm Fighting Physical 100 120 Ice Hammer Ice Physical 100 120 Ice Punch Ice Physical 75 90 Mach Punch Fighting Physical 40 48 Mega Punch Normal Physical 80 96 Power-Up Punch Fighting Physical 40 48 * * * * * * Shadow Punch Ghost Physical 60 72 Sky Uppercut Fighting Physical 85 102 Thunder Punch Electric Physical 75 90 Although the following moves are affected by the Ability, they currently cannot be learned by any Pokemon with Iron Fist. They may, however, be called via Metronome , Mirror Move , Copycat , or Mimic , or be used by a Pokemon that gained Iron Fist by an Ability like Trace or Receiver or a move such as Skill Swap or Role Play . Move Type Cat. Power and Boost Headlong Rush * Ground Physical 120 144 Jet Punch Water Physical 60 72 Meteor Mash * Steel Physical 90 108 Plasma Fists Electric Physical 100 120 Rage Fist Ghost Physical 50 60 Surging Strikes Water Physical 25 30 Wicked Blow Dark Physical 75 90 Outside of battle [ edit | edit source ] Iron Fist has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Iron Fist causes the power of affected punching moves to increase by 20% (approximated as a factor of 4915/4096 since Generation V). This boost stacks with the Punching Glove , resulting in a power boost of 32%. Affected moves [ edit | edit source ] The table below lists the moves affected by Iron Fist, as well as the Pokemon that can have Iron Fist and learn those moves. Move Type Cat. Power and Boost Learned by Bullet Punch Steel Physical 40 48 Comet Punch Normal Physical 18 21.6 Dizzy Punch Normal Physical 70 84 Double Iron Bash Steel Physical 60 72 Drain Punch Fighting Physical 75 90 Dynamic Punch Fighting Physical 100 120 * * Fire Punch Fire Physical 75 90 Focus Punch Fighting Physical 150 180 Hammer Arm Fighting Physical 100 120 Ice Hammer Ice Physical 100 120 Ice Punch Ice Physical 75 90 Mach Punch Fighting Physical 40 48 Mega Punch Normal Physical 80 96 Power-Up Punch Fighting Physical 40 48 * * * * * * Shadow Punch Ghost Physical 60 72 Sky Uppercut Fighting Physical 85 102 Thunder Punch Electric Physical 75 90 Although the following moves are affected by the Ability, they currently cannot be learned by any Pokemon with Iron Fist. They may, however, be called via Metronome , Mirror Move , Copycat , or Mimic , or be used by a Pokemon that gained Iron Fist by an Ability like Trace or Receiver or a move such as Skill Swap or Role Play . Move Type Cat. Power and Boost Headlong Rush * Ground Physical 120 144 Jet Punch Water Physical 60 72 Meteor Mash * Steel Physical 90 108 Plasma Fists Electric Physical 100 120 Rage Fist Ghost Physical 50 60 Surging Strikes Water Physical 25 30 Wicked Blow Dark Physical 75 90",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Strengthens punch-based moves to 1.2 their power.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "draining ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "draining ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Draining abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257957
+}

@@ -1,0 +1,17 @@
+{
+  "answerKey": "YAMASK",
+  "answerDisplay": "YAMASK",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Ghost type Pokémon introduced in Generation 5.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/yamask",
+  "extract": "Yamask is a Ghost type Pokémon introduced in Generation 5 .",
+  "rankPosition": 1,
+  "updatedAt": 1774213437
+}

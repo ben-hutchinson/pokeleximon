@@ -1,0 +1,34 @@
+{
+  "answerKey": "DELTASTREAM",
+  "answerDisplay": "DELTA STREAM",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Delta Stream (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Delta_Stream_(Ability)",
+  "pageId": 198504,
+  "pageRevisionId": 4485908,
+  "leadText": "Delta Stream (Japanese: デルタストリーム Delta Stream) is an Ability introduced during Generation VI, in Pokémon Omega Ruby and Alpha Sapphire. It is the signature Ability of Mega Rayquaza.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with Delta Stream enters the battle or a Pokémon gains the Ability, a unique weather condition called strong winds is created. In a Rotation Battle , Delta Stream will not activate if the Pokémon is sent out in a rotated-out position, nor will it activate when that Pokémon is rotated in. In addition, Delta Stream will not activate if strong winds are already present on the battlefield or if the Pokémon's Ability is suppressed prior to it gaining Delta Stream. Strong winds cause moves that would be super effective against pure Flying-type Pokémon to remove the Flying type's weaknesses (unless a Pokémon on the field has Cloud Nine or Air Lock ). Outside of Inverse Battles , this causes Electric -, Ice -, and Rock-type moves to deal neutral damage to Flying-type Pokémon; during Inverse Battles, this causes Bug -, Fighting -, Grass -, and Ground-type moves to deal neutral damage to Flying-type Pokémon. If a move is not super effective against the Pokémon's other type (for dual-typed Pokémon), this no longer counts as a supereffective hit (for the purposes of damage-reducing Berries , etc.). Strong winds have no effect on Stealth Rock or Anticipation . Additionally, strong winds cause the weather-modifying moves Sunny Day , Rain Dance , Sandstorm , and Hail to fail if used, and cause the Abilities Drought , Drizzle , Sand Stream , and Snow Warning to fail to activate. However, the strong winds can be replaced by Desolate Land or Primordial Sea . Once strong winds are in effect, as long as there is an active Pokémon on the field with Delta Stream (even if it is not the Pokémon who created it), the strong winds will remain in effect, unless Delta Stream is suppressed or replaced. If the only Pokémon on the field with Delta Stream is rotated out or switched out, or has its Ability suppressed or replaced, the strong winds will dissipate. Outside of battle [ edit | edit source ] Delta Stream has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with Delta Stream enters the battle or a Pokémon gains the Ability, a unique weather condition called strong winds is created. In a Rotation Battle , Delta Stream will not activate if the Pokémon is sent out in a rotated-out position, nor will it activate when that Pokémon is rotated in. In addition, Delta Stream will not activate if strong winds are already present on the battlefield or if the Pokémon's Ability is suppressed prior to it gaining Delta Stream. Strong winds cause moves that would be super effective against pure Flying-type Pokémon to remove the Flying type's weaknesses (unless a Pokémon on the field has Cloud Nine or Air Lock ). Outside of Inverse Battles , this causes Electric -, Ice -, and Rock-type moves to deal neutral damage to Flying-type Pokémon; during Inverse Battles, this causes Bug -, Fighting -, Grass -, and Ground-type moves to deal neutral damage to Flying-type Pokémon. If a move is not super effective against the Pokémon's other type (for dual-typed Pokémon), this no longer counts as a supereffective hit (for the purposes of damage-reducing Berries , etc.). Strong winds have no effect on Stealth Rock or Anticipation . Additionally, strong winds cause the weather-modifying moves Sunny Day , Rain Dance , Sandstorm , and Hail to fail if used, and cause the Abilities Drought , Drizzle , Sand Stream , and Snow Warning to fail to activate. However, the strong winds can be replaced by Desolate Land or Primordial Sea . Once strong winds are in effect, as long as there is an active Pokémon on the field with Delta Stream (even if it is not the Pokémon who created it), the strong winds will remain in effect, unless Delta Stream is suppressed or replaced. If the only Pokémon on the field with Delta Stream is rotated out or switched out, or has its Ability suppressed or replaced, the strong winds will dissipate."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD The floor will have strong winds! MD RT DX The floor will have Strong Winds."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Delta-Stream",
+    "Delta Stream",
+    "Delta-Stream (Ability)"
+  ],
+  "updatedAt": 1773328834
+}

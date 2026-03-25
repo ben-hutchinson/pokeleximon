@@ -1,0 +1,37 @@
+{
+  "answerKey": "TORMENT",
+  "answerDisplay": "TORMENT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Torment (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Torment_(move)",
+  "pageId": 3870,
+  "pageRevisionId": 4462226,
+  "leadText": "Torment (Japanese: いちゃもん Falsely Accuse) is a non-damaging Dark-type move introduced in Generation III. It is TM41 from Generation III to Pokémon Ultra Sun and Ultra Moon, as well as in Pokémon Brilliant Diamond and Shining Pearl, and TM121 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] This move effect may be in need of research. Reason: How does hitting yourself in confusion interact with Torment? Does it count the move used on the previous turn, current turn, or neither? You can discuss this on the talk page. Torment prevents the target from using the same move twice in a row. The effect lasts until the target is switched out. If a Pokémon has selected the move it used last turn and becomes affected with Torment, it may still use the move this turn (even if it moves after the user of Torment). If the target can only use one move (e.g. is holding a Choice item, only has one move with PP, is under the effect of Encore , etc.), the target will be forced to use Struggle every second round. Struggle is not affected by Torment; if a Pokémon has run out of PP for all of its moves, it can continue to use Struggle. Moves such as Rollout will still be fully executed under the effects of Torment. Torment does not work on Pokémon under the protection of Aroma Veil . Torment does not prevent the target from repeating its most recent move via Instruct . Generations III and IV [ edit | edit source ] Torment cannot be reflected with Magic Coat . In Pokémon Emerald , if the target hits itself in Confusion , Torment has no effect on which move it can select next. In Generation IV , due to an oversight , if a tormented Pokémon has used Rage and then selects a different move, it will be freed from the torment, but its rage will still be building. Generation V onwards [ edit | edit source ] Torment can now be reflected with Magic Coat . Pokémon that know Torment are banned from participating in films at Pokéstar Studios . Torment can also be used as part of a Contest Spectacular combination , causing certain moves ( Counter , Destiny Bond , Grudge , King's Shield , Metal Burst , Mirror Coat and Spite ) to give an extra three appeal points if used in the next turn. A Pokémon affected by Torment can upgrade a status move into a Z-Move even if it used that move during the previous turn. If powered up by a Darkinium Z into Z-Torment, the user's Defense stat rises by one stage. Torment will fail if used on a Dynamax Pokémon, and a Pokémon under the effect of Torment can remove it by Dynamaxing."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Torments the foe and stops successive use of a move. (move) Prevents the foe from using the same move in a row. (TM) FR LG It enrages the foe, making it incapable of using the same move successively. Colo XD Torments the target. Stops successive use of a move. (move) Prevents the target from using the same move in a row. (TM) D P Pt HG SS PBR The user torments and enrages the foe, making it incapable of using the same move twice in a row. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user torments and enrages the target, making it incapable of using the same move twice in a row. ZA The user torments and enrages the target, making it harder for the same move to be used in quick succession."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Prevents the targeted Pokémon, while it remains on the floor, from using the last move it used. MD T D S Prevents the target from using the last move it used. The effect persists as long as the target remains on the floor. B S L てきポケモンが ちょくぜんにくりだしたわざに いちゃもんをつけて いまのフロアでは だせないようにしてしまう MD GtI It seals the move the enemy last used and prevents the Pokémon from using it. The seal will be removed when it arrives on the next floor. S MD It has the move the enemy last used Sealed, which prevents the Pokémon from using it. The seal will be removed when you go to the next floor."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move is the only variation of Disable that does not end after a certain number of turns, instead ending only when the affected Pokémon is switched out."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Torment",
+    "Torment (move)"
+  ],
+  "updatedAt": 1773328015
+}

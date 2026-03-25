@@ -1,0 +1,29 @@
+{
+  "answerKey": "TRANSISTOR",
+  "answerDisplay": "TRANSISTOR",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Transistor (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Transistor_(Ability)",
+  "pageId": 252170,
+  "pageRevisionId": 4481526,
+  "leadText": "Transistor (Japanese: トランジスタ Transistor) is an Ability introduced during Generation VIII, in The Crown Tundra. It is the signature Ability of Regieleki.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation VIII 1.1.2 Generation IX 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation VIII [ edit | edit source ] If an Electric-type move is used by a Pokémon with this Ability, its Attack or Special Attack stat is multiplied by 1.5 during damage calculation, effectively increasing damage dealt by 50%. Generation IX [ edit | edit source ] The attacking stat multiplier has now been reduced to ~1.3 (5325/4096). Outside of battle [ edit | edit source ] Transistor has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generation VIII [ edit | edit source ] If an Electric-type move is used by a Pokémon with this Ability, its Attack or Special Attack stat is multiplied by 1.5 during damage calculation, effectively increasing damage dealt by 50%. Generation IX [ edit | edit source ] The attacking stat multiplier has now been reduced to ~1.3 (5325/4096)."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Transistor",
+    "Transistor (Ability)"
+  ],
+  "updatedAt": 1773329289
+}

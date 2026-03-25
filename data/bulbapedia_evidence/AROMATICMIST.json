@@ -1,0 +1,34 @@
+{
+  "answerKey": "AROMATICMIST",
+  "answerDisplay": "AROMATIC MIST",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Aromatic Mist (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Aromatic_Mist_(move)",
+  "pageId": 185080,
+  "pageRevisionId": 4403430,
+  "leadText": "Aromatic Mist (Japanese: アロマミスト Aroma Mist) is a non-damaging Fairy-type move introduced in Generation VI. Prior to Generation VII, it was the signature move of Aromatisse.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Aromatic Mist raises the Special Defense stat of a target ally Pokémon by one stage. In a Battle Royal , where there are no allies, it can successfully be used targeting any opposing Pokémon. It will fail if used in a Single Battle or Horde Encounter (even if used by one of the five opposing Pokémon). It will hit the target even if it has used Protect , Detect , or Spiky Shield , but will fail if the target is protected by Crafty Shield or in the semi-invulnerable turn of a move like Fly or Dig . If powered up by a Fairium Z into Z-Aromatic Mist, the user's Special Defense stat is raised by two stages."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh BD SP LA The user raises the Sp. Def stat of an ally Pokémon by using a mysterious aroma. S V The user boosts the Sp. Def stat of an ally Pokémon by using a mysterious aroma."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It boosts your teammates' Sp. Def. * It boosts the Sp. Def of your teammates in the same room. The stat returns to normal when you go to the next floor or step on a Wonder Tile. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Aromatic-Mist",
+    "Aromatic Mist",
+    "Aromatic-Mist (move)"
+  ],
+  "updatedAt": 1773320897
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "LASERFOCUS",
+  "answerDisplay": "LASER FOCUS",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Laser Focus (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Laser_Focus_(move)",
+  "pageId": 218345,
+  "pageRevisionId": 4407206,
+  "leadText": "Laser Focus (Japanese: とぎすます Hone) is a non-damaging Normal-type move introduced in Generation VII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Laser Focus causes the user's move to result in a critical hit until the end of the next turn, unless that move's target has Battle Armor , Shell Armor , or is under the effect of Lucky Chant . The effect of Laser Focus can be copied by Psych Up or Transform . If powered up by a Normalium Z into Z-Laser Focus, the user's Attack stat rises by one stage. Generation IX [ edit | edit source ] Laser Focus cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh BD SP LA The user concentrates intensely. The attack on the next turn always results in a critical hit. S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD RT DX You get the Laser Focus condition, making your moves critical hits."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Laser-Focus",
+    "Laser Focus",
+    "Laser-Focus (move)"
+  ],
+  "updatedAt": 1773324270
+}

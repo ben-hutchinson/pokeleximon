@@ -1,0 +1,33 @@
+{
+  "answerKey": "MOXIE",
+  "answerDisplay": "MOXIE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Moxie (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Moxie_(Ability)",
+  "pageId": 118584,
+  "pageRevisionId": 4263613,
+  "leadText": "Moxie (Japanese: じしんかじょう Overconfident) is an Ability introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation V 1.1.2 Generation VI onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with Moxie directly causes another Pokémon (including allies) to faint by using a damaging move, its Attack is increased by one stage. If its Attack is already at +6 stages, Moxie will not activate. Moxie activates after the Pokémon gains Attack from Fell Stinger . If a Pokémon with Moxie defeats a Pokémon with Mummy using a contact move, the Pokémon's Ability will become Mummy before Moxie has the opportunity to activate. Generation V [ edit | edit source ] Moxie will activate even if the Pokémon fainting ends the battle. Generation VI onward [ edit | edit source ] If the Pokémon fainting ends the battle, Moxie will not activate. Outside of battle [ edit | edit source ] Moxie has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with Moxie directly causes another Pokémon (including allies) to faint by using a damaging move, its Attack is increased by one stage. If its Attack is already at +6 stages, Moxie will not activate. Moxie activates after the Pokémon gains Attack from Fell Stinger . If a Pokémon with Moxie defeats a Pokémon with Mummy using a contact move, the Pokémon's Ability will become Mummy before Moxie has the opportunity to activate. Generation V [ edit | edit source ] Moxie will activate even if the Pokémon fainting ends the battle. Generation VI onward [ edit | edit source ] If the Pokémon fainting ends the battle, Moxie will not activate."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Conq. Raises Attack for 1 turn after defeating an enemy. MD GtI May increase the Pokémon's Attack when it defeats a foe. * When it defeats a foe, the Pokémon's Attack may go up! * S MD When it defeats an enemy, the Pokémon's Attack may go up!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Moxie",
+    "Moxie (Ability)"
+  ],
+  "updatedAt": 1773329042
+}

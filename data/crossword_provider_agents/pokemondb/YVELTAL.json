@@ -1,0 +1,17 @@
+{
+  "answerKey": "YVELTAL",
+  "answerDisplay": "YVELTAL",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Dark / Flying type Pokémon introduced in Generation 6.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/yveltal",
+  "extract": "Yveltal is a Dark / Flying type Pokémon introduced in Generation 6 .",
+  "rankPosition": 1,
+  "updatedAt": 1774213448
+}

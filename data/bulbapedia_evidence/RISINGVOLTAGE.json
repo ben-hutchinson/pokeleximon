@@ -1,0 +1,30 @@
+{
+  "answerKey": "RISINGVOLTAGE",
+  "answerDisplay": "RISING VOLTAGE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Rising Voltage (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rising_Voltage_(move)",
+  "pageId": 252909,
+  "pageRevisionId": 4403563,
+  "leadText": "Rising Voltage (Japanese: ライジングボルト Rising Volt) is a damage-dealing Electric-type move introduced during Generation VIII, in The Isle of Armor. In Generation IX, it is one of the signature moves of Raging Bolt.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Rising Voltage deals damage. If the target is affected by Electric Terrain upon the move's execution, Rising Voltage's base power is doubled to 140. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Rising Voltage cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA The user attacks with electric voltage rising from the ground. This move's power doubles when the target is on Electric Terrain. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. S V The user attacks with electricity rising from the ground. This move's power is doubled if the target is on Electric Terrain."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Rising-Voltage",
+    "Rising Voltage",
+    "Rising-Voltage (move)"
+  ],
+  "updatedAt": 1773326440
+}

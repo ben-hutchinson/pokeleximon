@@ -1,0 +1,57 @@
+{
+  "answerKey": "EARLYBIRD",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4453244,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Early Bird (Japanese: Early Rising) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Awakens quickly from sleep. MD T D S Helps the Pokemon awaken more quickly from sleep. B S L MD GtI Unavailable S MD When the Pokemon gets the sleep, napping, yawning, or nightmare status condition, the status will be healed within fewer turns. MD RT DX When the Pokemon gets the Sleep, Napping, Yawning, or Nightmare status condition, the condition will be healed within fewer turns.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Early Bird halves the sleep duration. When the Pokemon is put to sleep, the number of turns it will remain asleep is preset ( the range depends on the generation ). This number of turns is halved for a Pokemon with Early Bird, rounded down if it is odd. So if only 1 turn is preset, it is rounded down to 0, causing the Pokemon to wake up the next time it moves. This also applies to the self-induced sleep from Rest , reducing its length from 2 turns to 1 turn asleep (not counting the turn in which Rest is used). Outside of battle [ edit | edit source ] Early Bird has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Early Bird halves the sleep duration. When the Pokemon is put to sleep, the number of turns it will remain asleep is preset ( the range depends on the generation ). This number of turns is halved for a Pokemon with Early Bird, rounded down if it is odd. So if only 1 turn is preset, it is rounded down to 0, causing the Pokemon to wake up the next time it moves. This also applies to the self-induced sleep from Rest , reducing its length from 2 turns to 1 turn asleep (not counting the turn in which Rest is used).",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Makes sleep pass twice as quickly.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257942
+}

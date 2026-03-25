@@ -1,0 +1,17 @@
+{
+  "answerKey": "CORVISQUIRE",
+  "answerDisplay": "CORVISQUIRE",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Flying type Pokémon introduced in Generation 8.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/corvisquire",
+  "extract": "Corvisquire is a Flying type Pokémon introduced in Generation 8 .",
+  "rankPosition": 1,
+  "updatedAt": 1774210912
+}

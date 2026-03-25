@@ -1,0 +1,38 @@
+{
+  "answerKey": "POISONPOINT",
+  "answerDisplay": "POISON POINT",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Poison Point (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Poison_Point_(Ability)",
+  "pageId": 4114,
+  "pageRevisionId": 4407647,
+  "leadText": "Poison Point (Japanese: どくのトゲ Poison Thorns) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokémon with this Ability is hit by a move that makes contact , there is a 1/3 chance that the attacking Pokémon will become poisoned . This Ability cannot poison Poison-type or Steel-type Pokémon. If a Pokémon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), each hit has an independent chance to activate this Ability. Generation IV onward [ edit | edit source ] The chance for Poison Point to poison is lowered to 30%. Outside of battle [ edit | edit source ] Poison Point has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokémon with this Ability is hit by a move that makes contact , there is a 1/3 chance that the attacking Pokémon will become poisoned . This Ability cannot poison Poison-type or Steel-type Pokémon. If a Pokémon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), each hit has an independent chance to activate this Ability. Generation IV onward [ edit | edit source ] The chance for Poison Point to poison is lowered to 30%."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Poisons attackers. MD T D S Poisons an attacker who lands a direct-contact attack. B S L こうげきしてきた ポケモンを どくじょうたいに してしまう Conq. Contact with the Pokémon may poison the attacker. MD GtI May inflict the Poisoned status on the attacker who hits it with a direct attack. * When the Pokémon is hit with a direct attack like Tackle or Scratch, the attacker is sometimes afflicted with the Poisoned status condition! * S MD When the Pokémon is hit with a contact move like Tackle or Scratch, the attacker sometimes gets poisoned! MD RT DX When the Pokémon is hit with a contact move, like Tackle or Scratch, the attacker sometimes gets poisoned."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The Ability Poison Touch introduced in Generation V can be thought of as having Poison Point's inverse effect. Prior to becoming an Ability, Poison Point appeared as a TCG Attack . Seadra is the only Pokémon that may have the Poison Point Ability without being a Poison-type itself."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Poison-Point",
+    "Poison Point",
+    "Poison-Point (Ability)"
+  ],
+  "updatedAt": 1773325886
+}

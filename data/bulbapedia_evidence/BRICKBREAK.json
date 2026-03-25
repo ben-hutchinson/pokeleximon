@@ -1,0 +1,38 @@
+{
+  "answerKey": "BRICKBREAK",
+  "answerDisplay": "BRICK BREAK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Brick Break (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Brick_Break_(move)",
+  "pageId": 3891,
+  "pageRevisionId": 4484004,
+  "leadText": "Brick Break (Japanese: かわらわり Tile Break) is a damage-dealing Fighting-type move introduced in Generation III. It is: TM31 from Generation III to Pokémon Ultra Sun and Ultra Moon, as well as in Pokémon Brilliant Diamond and Shining Pearl. TM13 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TM43 in Pokémon Sword and Shield. TM058 in Pokémon Scarlet and Violet. TM010 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III 1.2 Generation IV 1.3 Generation V onwards 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation III [ edit | edit source ] Brick Break removes Light Screen and Reflect from the opponent's side of the field (even if it targets an ally), then inflicts damage. It will remove Light Screen and Reflect even if the target is immune to Brick Break (i.e. a Ghost-type Pokémon). It will not remove Light Screen or Reflect if Brick Break misses or the target is protected from Brick Break. Due to an oversight, the trainer AI does not check for Light Screen when determining to use Brick Break. Brick Break can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Focus Energy was used in the previous turn. Generation IV [ edit | edit source ] Brick Break now removes Light Screen and Reflect from the target's side of the field, even if the target is an ally. Generation V onwards [ edit | edit source ] Brick Break no longer removes Light Screen and Reflect if the target is immune to Brick Break. Brick Break can also remove Aurora Veil . Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 75 90 Cooldown 7s Move wind-up time 10 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Destroys barriers such as Reflect and causes damage. (move) Destroys barriers like Light Screen and causes damage. (TM) FR LG An attack that also breaks any barrier like Light Screen and Reflect . D P Pt HG SS PBR The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect. B W B2 W2 The user attacks with a swift chop. It can also break any barrier such as Light Screen and Reflect. X Y OR AS S M US UM P E Sw Sh BD SP LA The user attacks with a swift chop. It can also break barriers, such as Light Screen and Reflect. S V The user attacks with a swift chop. This move can also break barriers, such as Light Screen and Reflect. ZA The user attacks with a swift chop. This move can also break barriers such as Light Screen and Reflect."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Shatters the target's Reflect or Light Screen to inflict damage. MD T D S Shatters the target's Reflect or Light Screen and inflicts damage. B S L リフレクターじょうたいや ひかりのかべじょうたいを うちやぶり てきポケモンに ダメージをあたえる MD GtI It shatters the enemy's Reflect or Light Screen status condition and causes damage. S MD It damages an enemy. It also shatters the enemy's Reflect and Light Screen conditions."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In a Pokémon Super Contest , because there is no target Pokémon, Brick Break destroys a small glass wall instead. Bonsly and Pupitar can learn Brick Break, despite not having any hands. However, their evolved forms do have hands, and in Pupitar's case, its pre-Evolution Larvitar does as well."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Brick-Break",
+    "Brick Break",
+    "Brick-Break (move)"
+  ],
+  "updatedAt": 1773321341
+}

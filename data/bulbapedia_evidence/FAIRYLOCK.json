@@ -1,0 +1,34 @@
+{
+  "answerKey": "FAIRYLOCK",
+  "answerDisplay": "FAIRY LOCK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Fairy Lock (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fairy_Lock_(move)",
+  "pageId": 185074,
+  "pageRevisionId": 4500866,
+  "leadText": "Fairy Lock (Japanese: フェアリーロック Fairy Lock) is a non-damaging Fairy-type move introduced in Generation VI. It is the signature move of Klefki.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Other effects Effect [ edit | edit source ] Fairy Lock prevents all Pokémon (except Ghost types) on the field from switching out or fleeing during their next turn. Fairy Lock does not prevent the effects of moves or items that force the target to switch, such as Dragon Tail , Whirlwind , Eject Button , or Red Card . If a Pokémon that's on the field when Fairy Lock is used goes on to faint later in the same turn, the Pokémon that replaces it will still be unable to switch out in the following turn. If powered up by a Fairium Z into Z-Fairy Lock, the user's Defense stat rises by one stage. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Fairy Lock cannot be selected in a battle. Other effects [ edit | edit source ] In version 1.1.0 of Pokémon Sword and Shield only, using Fairy Lock while animations were enabled caused the game to crash . In multiplayer battles, where animations are mandatory, both players' consoles crashed. This bug did not occur in earlier versions and was fixed in version 1.1.1."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh LA S V By locking down the battlefield, the user keeps all Pokémon from fleeing during the next turn. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It makes enemies unable to move for a while. * It makes nearby enemies get stuck. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fairy-Lock",
+    "Fairy Lock",
+    "Fairy-Lock (move)"
+  ],
+  "updatedAt": 1773322694
+}

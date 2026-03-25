@@ -1,0 +1,86 @@
+{
+  "answerKey": "BEASTBOOST",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4259065,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Beast Boost (Japanese: Beast Boost) is an Ability introduced in Generation VII. It is the signature Ability of the Ultra Beasts.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Beast Boost directly causes another Pokemon (including allies) to faint by using a damaging move, its highest stat (other than HP ) is increased by one stage for each Pokemon knocked out by that move execution. If this stat is already at +6 stages, Beast Boost will not activate (not even in the case of a tie of two or more stats). For determining the highest stat, Beast Boost does not take into account stat stages, held items, or reductions due to status conditions ; however, it does consider the effects of Power Split , Guard Split , Power Trick , Wonder Room , and Speed Swap . In the case of a tie between multiple stats, it increases one stat, prioritized in this order: Attack , Defense , Special Attack , Special Defense , and Speed . If the Pokemon fainting ends the battle, Beast Boost will not activate. Beast Boost activates after the Pokemon gains Attack from Fell Stinger . If a Pokemon with Beast Boost defeats a Pokemon with Mummy using a contact move, the Pokemon's Ability will become Mummy before Beast Boost has the opportunity to activate. Outside of battle [ edit | edit source ] Beast Boost has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with Beast Boost directly causes another Pokemon (including allies) to faint by using a damaging move, its highest stat (other than HP ) is increased by one stage for each Pokemon knocked out by that move execution. If this stat is already at +6 stages, Beast Boost will not activate (not even in the case of a tie of two or more stats). For determining the highest stat, Beast Boost does not take into account stat stages, held items, or reductions due to status conditions ; however, it does consider the effects of Power Split , Guard Split , Power Trick , Wonder Room , and Speed Swap . In the case of a tie between multiple stats, it increases one stat, prioritized in this order: Attack , Defense , Special Attack , Special Defense , and Speed . If the Pokemon fainting ends the battle, Beast Boost will not activate. Beast Boost activates after the Pokemon gains Attack from Fell Stinger . If a Pokemon with Beast Boost defeats a Pokemon with Mummy using a contact move, the Pokemon's Ability will become Mummy before Beast Boost has the opportunity to activate.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Raises this Pokemon's highest stat by one stage when it faints another Pokemon.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Raises its highest stat after a knockout",
+        "evidence_ref": "lead",
+        "specificity": 0.9
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "boosting trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Raises its highest stat after a knockout",
+        "evidence_ref": "lead",
+        "mystery_score": 0.78,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "KO-triggered top-stat boost",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Knockout snowball trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.8,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "boosting trait",
+      "ko stat boost",
+      "snowball trait"
+    ],
+    "connections_descriptors": [
+      "Boosting abilities",
+      "Knockout-boosting abilities",
+      "Gen VII abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257929
+}

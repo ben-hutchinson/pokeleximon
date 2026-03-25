@@ -1,0 +1,30 @@
+{
+  "answerKey": "MAMOSWINEROAD",
+  "answerDisplay": "MAMOSWINE ROAD",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Kalos Route 17",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Kalos_Route_17",
+  "pageId": 184599,
+  "pageRevisionId": 4227943,
+  "leadText": "Route 17 (Japanese: １７番道路 Route 17) is a route in northeast Kalos, connecting Dendemille Town and Anistar City. The route is also known as Mamoswine Road (Japanese: マンムーロード Mammoo Road).",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] Due to constant snowstorms in the area, most of this route is covered in snow so thick that it is completely inaccessible by foot. Any person who wishes to travel through the route must ride a rental Mamoswine in order to do so. With the massive Pokémon, not only can the player plow through the snow with ease, but they can also be used to crush big boulders blocking certain parts of the route. In these certain parts, narrow paths have been plowed into the snow, allowing them to be accessed without the need of riding a Mamoswine."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Timer Ball North of the northern two sets of breakable rocks , following the path west and then all the way north (hidden) X Y Icicle Plate North of the northern two sets of breakable rocks, following the path west and then when it branches east X Y Calcium South of the middle set of breakable rocks, following the west path X Y Paralyze Heal In the corner by the tree on the north side of the Anistar City Gate (hidden) X Y Rare Candy North of the Anistar City Gate X Y Natural objects [ edit | edit source ] Item Location Games Oran Berry Randomly found by using Air Cutter , Blizzard , or Twister on a blue Berry tree during a battle X Y Passho Berry Randomly found by using Air Cutter , Blizzard , or Twister on a blue Berry tree during a battle X Y Yache Berry Randomly found by using Air Cutter , Blizzard , or Twister on a blue Berry tree during a battle X Y Coba Berry Randomly found by using Air Cutter , Blizzard , or Twister on a blue Berry tree during a battle X Y Snowball Found by using Hyper Voice or Rock Slide on a snow pile during a battle X Y Never-Melt Ice Found by using Hyper Voice or Rock Slide on an iceberg during a battle X Y"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mamoswine-Road",
+    "Mamoswine Road",
+    "Mamoswine-Road (location)"
+  ],
+  "updatedAt": 1774214474
+}

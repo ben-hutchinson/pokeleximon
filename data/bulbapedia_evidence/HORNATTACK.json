@@ -1,0 +1,38 @@
+{
+  "answerKey": "HORNATTACK",
+  "answerDisplay": "HORN ATTACK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Horn Attack (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Horn_Attack_(move)",
+  "pageId": 3638,
+  "pageRevisionId": 4505198,
+  "leadText": "Horn Attack (Japanese: つのでつく Horn Thrust) is a damage-dealing Normal-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Horn Attack deals damage and has no secondary effect. Horn Attack can be used as the first move of a Pokémon Contest combination , causing Fury Attack and Horn Drill to score double the normal appeal if used in the next turn. It can also be used to finish a combination, with the user gaining 4 bonus appeal points if Leer was used in the previous turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A Normal -type attack. A sharp horn is driven hard into the target to inflict damage. G S C An attack using a horn to jab. R S E Jabs the foe with sharp horns. Colo XD Jabs the target with sharp horns. FR LG D P Pt HG SS PBR The foe is jabbed with a sharply pointed horn to inflict damage. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The target is jabbed with a sharply pointed horn to inflict damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. B S L てきポケモンに ダメージをあたえる MD GtI UNUSED S MD MD RT DX It damages an enemy."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Horn Attack was the first move that was shown to be used in the animated series . It was used by a Nidorino in the first episode . Omanyte can learn this move in Generation I , despite having no visible horn or tusks. This is likely because its evolved form, Omastar , has spikes on its shell."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Horn-Attack",
+    "Horn Attack",
+    "Horn-Attack (move)"
+  ],
+  "updatedAt": 1773323698
+}

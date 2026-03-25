@@ -1,0 +1,17 @@
+{
+  "answerKey": "RAGINGBOLT",
+  "answerDisplay": "RAGING BOLT",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is an Electric / Dragon type Pokémon introduced in Generation 9.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/raging-bolt",
+  "extract": "Bolt is an Electric / Dragon type Pokémon introduced in Generation 9 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212535
+}

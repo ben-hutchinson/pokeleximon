@@ -1,0 +1,38 @@
+{
+  "answerKey": "MISTYTERRAIN",
+  "answerDisplay": "MISTY TERRAIN",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Misty Terrain (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Misty_Terrain_(move)",
+  "pageId": 185021,
+  "pageRevisionId": 4482385,
+  "leadText": "Misty Terrain (Japanese: ミストフィールド Mist Field) is a non-damaging Fairy-type move introduced in Generation VI. It is TM89 in Pokémon Sword and Shield, and is TM139 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VI 1.2 Generation VII 1.3 Generation VIII onwards Effect [ edit | edit source ] Generation VI [ edit | edit source ] Misty Terrain creates terrain that envelops the field and replaces the background environment and any other terrain that is already in effect. The terrain fades after five turns. This terrain has the following effects on Pokémon that are on the ground and not in the semi-invulnerable turn of a move. It halves the power of Dragon-type moves used against affected Pokémon (regardless of whether the user of the move is affected by Misty Terrain). It prevents affected Pokémon from being afflicted by non-volatile status conditions (but does not cure Pokémon already afflicted with one). If an affected Pokémon is drowsy due to Yawn , it is prevented from falling asleep. Rest will fail if used by an affected Pokémon. Nature Power becomes Moonblast . Secret Power uses the animation of Fairy Wind and may lower its target's Special Attack . Camouflage causes the user to become Fairy-type . Natural objects disappear and cannot be destroyed while Misty Terrain is in effect. Misty Terrain does not prevent Pokémon from being confused . Generation VII [ edit | edit source ] Pokémon affected by Misty Terrain can no longer become confused . When a Pokémon with the Ability Misty Surge enters battle, Misty Terrain is automatically created. If a Pokémon is holding a Misty Seed while the field is Misty Terrain, it consumes the Misty Seed and its Special Defense is increased by one stage (even if it is not otherwise affected by the terrain). If a Terrain Extender is held when Misty Terrain is used, the terrain will last 8 turns instead of 5. If powered up by a Fairium Z into Z-Misty Terrain, the user's Special Defense stat rises by one stage. Generation VIII onwards [ edit | edit source ] Misty Terrain now: Increases Misty Explosion 's base power by 1.5×. Changes Terrain Pulse 's type to Fairy and its base power doubles from 50 to 100. Changes a Pokémon's type to Fairy if it has the Ability Mimicry . Prevents an affected Pokémon who has become drowsy from the effect of G-Max Snooze from falling asleep. Misty Terrain is automatically created when Max Starfall is used. Defog , G-Max Wind Rage , Steel Roller and Ice Spinner remove Misty Terrain and any other terrain upon being used. Steel Roller also fails if Misty Terrain or other terrains are absent."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS The user covers the ground under everyone's feet with mist for five turns. This protects Pokémon on the ground from status conditions. S M US UM P E Sw Sh BD SP LA S V This protects Pokémon on the ground from status conditions and halves damage from Dragon-type moves for five turns."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It reduces damage from Dragon-type moves. It also protects from bad status conditions. * It changes the floor to the Misty Terrain condition. In the Misty Terrain condition, damage caused by Dragon-type moves will be reduced. It also prevents bad status conditions, but it has no effect on Pokémon in the air. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Misty Terrain is the only terrain that does not boost the power of moves of its own type . It instead reduces the power of Dragon-type moves used against grounded Pokémon."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Misty-Terrain",
+    "Misty Terrain",
+    "Misty-Terrain (move)"
+  ],
+  "updatedAt": 1773325125
+}

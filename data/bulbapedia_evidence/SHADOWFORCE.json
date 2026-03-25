@@ -1,0 +1,38 @@
+{
+  "answerKey": "SHADOWFORCE",
+  "answerDisplay": "SHADOW FORCE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Force (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Force_(move)",
+  "pageId": 18905,
+  "pageRevisionId": 4500956,
+  "leadText": "Not to be confused with Phantom Force. Shadow Force (Japanese: シャドーダイブ Shadow Dive) is a Ghost-type move introduced in Generation IV. It is the signature move of Giratina.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations IV and V 1.2 Generation VI 1.3 Generation VII 1.4 Generation VIII 1.4.1 Pokémon Legends: Arceus Effect [ edit | edit source ] Generations IV and V [ edit | edit source ] Shadow Force causes the user to \"vanish instantly\" on the turn it is selected, rendering it semi-invulnerable, and then reappear the next turn to cause damage. Shadow Force hits the target even if it is protected by a protection move , and removes the effects of protection moves from the target for the remainder of the turn; if it hits an opponent that is protected by protection move that affects its whole side of the field, it removes the protection move from the opponent's entire side of the field (even if the protection move would not affect Shadow Force, such as Wide Guard ). Shadow Force cannot remove the effects of protecting moves if it does not affect the target (such as if the target is Normal-type ). If the user falls asleep due to Yawn during the semi-invulnerable turn, the move will be cancelled before it hits. In addition, a foe who has just used Lock-On or Mind Reader can still strike through Shadow Force, as well as if the Ability No Guard is possessed by the foe or the user of Shadow Force. Wild Pokémon cannot be caught during the semi-invulnerable stage of Shadow Force. If a Power Herb is held by the user, Shadow Force can be executed in one turn. Generation VI [ edit | edit source ] If the target has used Minimize , Shadow Force now deals double its regular damage and bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . If Shadow Force hits a target that is protected by protection move that affects its whole side of the field, it removes the protection move from that entire side of the field (even if the protection move does not affect Shadow Force, such as Wide Guard ), regardless of whether the target is an opponent or an ally. If Shadow Force hits a Pokémon protected by a move with a negative effect (such as Spiky Shield ), the user will not suffer the negative effect of the protection move. Generation VII [ edit | edit source ] Shadow Force no longer bypasses accuracy checks nor deals double its regular damage if the target has used Minimize . Generation VIII [ edit | edit source ] In Versions 1.0 to 1.2.1 of Pokémon Sword and Shield , Shadow Force could not be selected in a battle. Starting with Version 1.3.0, it is usable and functions the same as it did in the previous generation. Shadow Force cannot bypass Max Guard nor lift its effects. Pokémon Legends: Arceus [ edit | edit source ] In Pokémon Legends: Arceus , Shadow Force is now used in a single turn. It lowers the user's action speed and obscures the user. If used by Origin Forme Giratina, Shadow Force's animation, base power, and accuracy are changed. If the Origin Forme Giratina is Shiny , the game will crash during the move animation. [ 1 ] Altered Forme Pokémon Legends: Arceus Category Physical PP 5 Agile Strong Power 100 80 120 Accuracy 100% 100% 100% Action speed modifier Self +3 +1 +5 Target 0 +3 0 Additional effect Turns 3 2 4 ? ? ? ? Obscures the user Lowers the user's action speed Origin Forme Pokémon Legends: Arceus Category Physical PP 5 Agile Strong Power 120 100 150 Accuracy 80% 80% 90% Action speed modifier Self +5 +2 +8 Target 0 +3 0 Additional effect Turns 3 2 4 ? ? ? ? Obscures the user Lowers the user's action speed ↑ https://twitter.com/Sibuna_Switch/status/1526984498730176512"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt PBR The user disappears, then strikes the foe on the second turn. It hits even if the foe used Protect . HG SS The user disappears, then strikes the foe on the second turn. It hits even if the foe protects itself. B W B2 W2 The user disappears, then strikes the target on the second turn. It hits even if the target protects itself. X Y OR AS S M US UM P E Sw Sh BD SP The user disappears, then strikes the target on the next turn. This move hits even if the target protects itself. LA The user cloaks itself in darkness as it attacks. Incoming moves also become more likely to miss. S V The user disappears on the first turn, then attacks on the next turn. This move hits even if the target protects itself."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Gives the user a Shadow Force status, which causes the Pokémon to charge power for 1 turn, then try a powerful attack on the next. An enemy's Protect status will not block the attack. You can't link this move. B S L シャドーダイブじょうたいになり ちからをため つぎのこうどうで いりょくのたかい こうげきを くりだす まもりじょうたいを うちやぶり てきポケモンに ダメージをあたえる このわざは ポケモンタワーでは くりだせない MD GtI UNUSED S MD You'll get the Shadow Force status condition, which lets you charge power to try a powerful attack on the next turn. It breaks through the enemies' Protect, Wide Guard, or Quick Guard to damage them."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Shadow Force has the highest power of all moves with a semi-invulnerable turn . Shadow Force is the last Generation IV move in index number order. Shadow Force is the only non- Dragon-type signature move of the Pokémon of myth , as well as the only one that is not Special. In his rematch in Pokémon Brilliant Diamond and Shining Pearl , Psychic Corbin uses a Banette that knows Shadow Force, which Banette cannot legally learn . It was likely intended to be Phantom Force , a similar move which Banette can know. During Arceus 's boss battle in Pokémon Legends: Arceus, it can use Shadow Force."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Force",
+    "Shadow Force",
+    "Shadow-Force (move)"
+  ],
+  "updatedAt": 1773326838
+}

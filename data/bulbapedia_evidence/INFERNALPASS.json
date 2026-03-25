@@ -1,0 +1,30 @@
+{
+  "answerKey": "INFERNALPASS",
+  "answerDisplay": "INFERNAL PASS",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Infernal Pass",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Infernal_Pass",
+  "pageId": 296146,
+  "pageRevisionId": 4419735,
+  "leadText": "The Infernal Pass (Japanese: 地獄谷 Hell Valley) is an ashy mountian trail located on Oni Mountain in Kitakami. It is one of the Six Wonders of Kitakami.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ]"
+    },
+    {
+      "title": "Places of interest",
+      "text": "Places of interest [ edit | edit source ]"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Infernal-Pass",
+    "Infernal Pass",
+    "Infernal-Pass (location)"
+  ],
+  "updatedAt": 1773328952
+}

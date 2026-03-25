@@ -1,0 +1,156 @@
+{
+  "answerKey": "RAGECANDYBAR",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4504969,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VI item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "gameplay",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen VI gameplay",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "HS: Traded for TM64. Gen II & Gen V: Acts as a Potion.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Restores 20 HP",
+        "evidence_ref": "lead",
+        "specificity": 0.88
+      },
+      {
+        "text": "Unlocks a Hidden Ability",
+        "evidence_ref": "In the core series games",
+        "specificity": 0.94
+      },
+      {
+        "text": "Adventure utility item",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      },
+      {
+        "text": "Restores HP in a pinch",
+        "evidence_ref": "Description",
+        "specificity": 0.84
+      },
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "lead",
+        "specificity": 0.74
+      },
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "specificity": 0.8
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Unlocks a hidden trait",
+        "evidence_ref": "In the core series games",
+        "mystery_score": 0.78,
+        "specificity_score": 0.94,
+        "style": "effect"
+      },
+      {
+        "text": "Turns a standard trait rare",
+        "evidence_ref": "In the core series games",
+        "mystery_score": 0.76,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Pinch-healing berry",
+        "evidence_ref": "Description",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Half-HP recovery berry",
+        "evidence_ref": "Description",
+        "mystery_score": 0.7,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.66,
+        "specificity_score": 0.8,
+        "style": "family"
+      },
+      {
+        "text": "Exchangeable collectible",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.78,
+        "style": "family"
+      },
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Progress-gating key item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Restores 20 HP",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "20-HP restorative",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Adventure utility item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.4,
+        "specificity_score": 0.58,
+        "style": "utility"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "hidden-trait changer",
+      "trait-altering item",
+      "healing berry",
+      "exchange item"
+    ],
+    "connections_descriptors": [
+      "Hidden Ability items",
+      "Ability-changing items",
+      "Gen VI items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257999
+}

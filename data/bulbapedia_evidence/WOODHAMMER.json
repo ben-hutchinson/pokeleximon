@@ -1,0 +1,34 @@
+{
+  "answerKey": "WOODHAMMER",
+  "answerDisplay": "WOOD HAMMER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Wood Hammer (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Wood_Hammer_(move)",
+  "pageId": 16168,
+  "pageRevisionId": 4483803,
+  "leadText": "Wood Hammer (Japanese: ウッドハンマー Wood Hammer) is a damage-dealing Grass-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Wood Hammer inflicts damage, and the user receives recoil damage equal to 33% of the damage done to the target. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Wood Hammer's PP has been reduced to 5, and its power has been lowered to 100. Pokémon Legends: Arceus Category Physical PP 5 Agile Strong Power 100 80 120 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Recoil 33% 33% 50% ? ? ? ? User receives damage equal to a percentage of damage dealt Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 120 144 Cooldown 10s Move wind-up time 15 frames Effect duration —s Additional effect Recoil 33% — — Damages the user by a percentage of damage dealt."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user slams its rugged body into the foe to attack. The user also sustains serious damage. B W B2 W2 The user slams its rugged body into the target to attack. The user also sustains serious damage. X Y OR AS S M US UM P E Sw Sh BD SP S V The user slams its rugged body into the target to attack. This also damages the user quite a lot. LA The user slams its rugged body into the target to attack. This also damages the user. ZA The user attacks by slamming into targets with its rugged body. The user will also take some damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. But it also hurts the user. B S L てきポケモンに ダメージをあたえるが じぶんも ダメージをうけてしまう MD GtI UNUSED S MD MD RT DX It damages an enemy, but you'll receive recoil damage, too."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Wood-Hammer",
+    "Wood Hammer",
+    "Wood-Hammer (move)"
+  ],
+  "updatedAt": 1773328565
+}

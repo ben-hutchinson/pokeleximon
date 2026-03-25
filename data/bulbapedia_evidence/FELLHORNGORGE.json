@@ -1,0 +1,30 @@
+{
+  "answerKey": "FELLHORNGORGE",
+  "answerDisplay": "FELLHORN GORGE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Fellhorn Gorge",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fellhorn_Gorge",
+  "pageId": 295841,
+  "pageRevisionId": 4419724,
+  "leadText": "Fellhorn Gorge (Japanese: 鬼角峡谷 Oni Horn Gorge) is a gorge located in Kitakami.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ]"
+    },
+    {
+      "title": "Places of interest",
+      "text": "Places of interest [ edit | edit source ]"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fellhorn-Gorge",
+    "Fellhorn Gorge",
+    "Fellhorn-Gorge (location)"
+  ],
+  "updatedAt": 1773328868
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "REFLECTTYPE",
+  "answerDisplay": "REFLECT TYPE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Reflect Type (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Reflect_Type_(move)",
+  "pageId": 117489,
+  "pageRevisionId": 4403388,
+  "leadText": "Reflect Type (Japanese: ミラータイプ Mirror Type) is a non-damaging Normal-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Reflect Type changes the user's type to match the type or types of the target. If the target has had a type added by Forest's Curse or Trick-or-Treat , Reflect Type will also copy the added Grass or Ghost type respectively. Reflect Type successfully copies the target's type even if it is disguised by Illusion . It bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . Reflect Type will fail if the target has no type (e.g. it was a pure Fire-type Pokémon that has lost its Fire type due to Burn Up ) or the user is Terastallized ; if such a target has additionally been affected by Forest's Curse or Trick-or-Treat, however, Reflect Type will cause the user to become a Normal type with an added Grass or Ghost type respectively. If the target is Terastallized, the user's type changes to the target's Tera Type. If the target Terastallized into the Stellar type, it will become its original type. Reflect Type can be used as part of a Contest Spectacular combination , causing Synchronoise to give an extra three appeal points if used in the next turn. If powered up by a Normalium Z into Z-Reflect Type, the user's Special Attack stat is raised by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E The user reflects the target's type, making it the same type as the target. Sw Sh BD SP LA The user reflects the target's type, making the user the same type as the target. S V The user reflects the target's type to become the same type as the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI UNUSED S MD MD RT DX It makes your type the same as that of the Pokémon in front of you. You regain your usual type when you go to the next floor."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Reflect Type's effect is that of Conversion in Generation I . From Generation II onward, however, Conversion has instead changed the user's type to that of one of its moves (aside from Curse , when the move was ???-type )."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Reflect-Type",
+    "Reflect Type",
+    "Reflect-Type (move)"
+  ],
+  "updatedAt": 1773326320
+}

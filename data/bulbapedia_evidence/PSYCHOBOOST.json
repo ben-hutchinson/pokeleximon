@@ -1,0 +1,38 @@
+{
+  "answerKey": "PSYCHOBOOST",
+  "answerDisplay": "PSYCHO BOOST",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Psycho Boost (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Psycho_Boost_(move)",
+  "pageId": 3965,
+  "pageRevisionId": 4500930,
+  "leadText": "Psycho Boost (Japanese: サイコブースト Psycho Boost) is a damage-dealing Psychic-type move introduced in Generation III. It is the signature move of Deoxys.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Sword and Shield 1.2 Generation IX Effect [ edit | edit source ] Psycho Boost inflicts damage and lowers the user's Special Attack stat by two stages. Psycho Boost can be used as the second move of a Pokémon Contest combination , with the user gaining 6 bonus appeal points if Calm Mind was used in the previous turn. Generation VIII [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] Psycho Boost cannot be selected in a battle. Generation IX [ edit | edit source ] In Versions 1.0 to 2.0.2 of Pokémon Scarlet and Violet , Psycho Boost could not be selected in a battle. Starting with Version 3.0.0, it is usable and functions the same as it did in previous generations."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Allows a full-power attack, but sharply lowers Sp. Atk . FR LG An intense attack that also sharply reduces the user's Sp. Atk stat. D P Pt HG SS PBR The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat. B W B2 W2 The user attacks the target at full power. The attack's recoil harshly reduces the user's Sp. Atk stat. X Y OR AS S M US UM Sw Sh * BD SP LA The user attacks the target at full power. The attack's recoil harshly lowers the user's Sp. Atk stat. Sw Sh * S V * This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V * The user attacks the target with all its might. The recoil from this move harshly lowers the user's Sp. Atk stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. However, it also lowers the user's Special Attack by two levels. MD T D S Inflicts damage on the target. But it also reduces the user's Special Attack by 2 levels. B S L てきポケモンに ダメージをあたえる ただし じぶんのとくこうが ２だんかい さがってしまう MD GtI UNUSED S MD It damages a Pokémon, even one far away. But it also sharply lowers your Sp. Atk. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Psycho Boost has the same description texts as Overheat . This move is the last Generation III move in index number order. Unlike other similar moves, the power of Psycho Boost was not lowered to 130 in Generation VI . As Deoxys is unobtainable in Pokémon Sword and Shield , the only Pokémon that can legally know the move in those games is a purified Lugia transferred from Pokémon XD: Gale of Darkness . However, the move cannot be selected in battle, making the move unusable in Generation VIII until the release of Pokémon Brilliant Diamond and Shining Pearl , where the only Pokémon that can legally know the move is Deoxys as a result of movesets being altered in Pokémon HOME . A Shattered Psyche based on Psycho Boost or Prismatic Laser has the highest base power of all Psychic-type moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Psycho-Boost",
+    "Psycho Boost",
+    "Psycho-Boost (move)"
+  ],
+  "updatedAt": 1773326088
+}

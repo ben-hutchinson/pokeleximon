@@ -1,0 +1,37 @@
+{
+  "answerKey": "SKETCH",
+  "answerDisplay": "SKETCH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sketch (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sketch_(move)",
+  "pageId": 3775,
+  "pageRevisionId": 4503109,
+  "leadText": "Not to be confused with Doodle (move). Sketch (Japanese: スケッチ Sketch) is a non-damaging Normal-type move introduced in Generation II. It is the signature move of Smeargle.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III 1.3 Generation IV to VII 1.4 Generation VIII 1.4.1 Pokémon Sword and Shield 1.5 Generation IX Effect [ edit | edit source ] This move effect may be in need of research. Reason: Does the sketched move start with full PP in all generations? Does copying Mimic/Transform after it fails due to sleep/paralysis/confusion/etc. work in games besides Ruby/Sapphire? You can discuss this on the talk page. Sketch allows the user to learn the target's last move permanently, replacing Sketch in the process. It bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . Sketch is not affected by Protect , Detect , or Spiky Shield . Sketch will fail if used against a target protected by Crafty Shield . Although they can be sketched, Aura Wheel , Hyperspace Fury , and Dark Void (starting in Generation VII) cannot be used in battle. These moves can only be used by Morpeko , Hoopa Unbound, or Darkrai respectively, or by a Pokémon that has transformed into them. These moves cannot be sketched: Chatter , Struggle , Sketch itself, Shadow moves , Z-Moves , and others depending on the generation. Generation II [ edit | edit source ] Sketch cannot be used to copy Transform or Mimic , and if used on Metronome , Mirror Move , or Sleep Talk it will copy the move called by those moves. Because the move fails if there is no target on the field (or the turn immediately ends in certain generations, such as Generation IV ), Selfdestruct and Explosion also cannot be sketched. Sketch will fail if: The move tries to copy a move the user already knows. The battle does not allow experience points to be earned (such as link battles or battle facility battles). The target is transformed. If used by a transformed Pokémon, Sketch will allow the Pokémon to permanently learn the sketched move; this is known as the Sketch glitch . Generation III [ edit | edit source ] Sketch no longer copies the move called by another move: It now copies Mirror Move , Sleep Talk , and Metronome (instead of the move called by them). Selfdestruct and Explosion can now be copied if their execution was unsuccessful due to a Pokémon with the Damp Ability on the field. In Pokémon Ruby and Sapphire only, Sketch can copy a move a Pokémon attempted to use, but failed to due to sleep or other status conditions . This allows the moves Mimic and Transform to be copied (which otherwise cannot be). If the battle does not allow experience points to be earned (such as link battles or Battle Tower battles), any moveset changes caused by Sketch will be reverted at the end of the battle. Sketch will fail if: Used by a transformed Pokémon. A Pokémon somehow uses it without having Sketch in its current moveset. Generation IV to VII [ edit | edit source ] Sketch can now be used to copy Mimic and Transform like any other move (without the need for the move to fail). If powered up by a Normalium Z into Z-Sketch, the user's Attack , Defense , Special Attack , Special Defense , and Speed are raised by one stage each. Generation VIII [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] Sketch cannot be selected in a battle. Generation IX [ edit | edit source ] In Versions 1.0 to 2.0.2 of Pokémon Scarlet and Violet , Sketch could not be selected in a battle. Starting with Version 3.0.0, Sketch is once again usable. Sketch can no longer copy Dark Void or Hyperspace Fury , nor can it copy the newly introduced moves Revival Blessing , Tera Starstorm , or the Starmobiles ' signature moves. Despite being both inaccessible and unusable, Breakneck Blitz is also specified as a move that cannot be copied by Sketch."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A move that allows the user to copy a move used by an opponent and learn that move. G S C Copies the foe's move permanently. R S E Copies the foe's last move permanently. FR LG This move copies the move last used by the foe, then disappears. Colo XD Copies the target's last move permanently. D P Pt It enables the user to learn a move used by the foe. Once used, the move Sketch disappears. PBR It enables the user to learn a move used by the foe. HG SS It enables the user to permanently learn the move last used by the foe. Once used, Sketch disappears. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears. S V This move enables the user to permanently learn the move last used by the target. Once used, Sketch disappears."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Copies the move last used by the target and makes it the user's. Sketch disappears after it copies a move. MD T D S Copies the move last used by the target and adds it to the user's set of moves. The new move replaces the user's Sketch move. You can't link the Sketch move. B S L てきポケモンの さいごにつかったわざを うつしとり じぶんが つかえるようにする うつしとると わざ『スケッチ』は きえてしまう このわざは ポケモンタワーでは くりだせない MD GtI UNUSED S MD You learn the last move of a target. Once you learn the move, you'll forget Sketch. * You can learn the target's last move. But there are some moves that you can't sketch, so be careful! *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Sketch is the first Generation II move in index number order. Sketch holds the record for being learned the most times via leveling up by a single Pokémon, being learned ten times by Smeargle. It is also the only move that can be learned more than four times via leveling up. Sketch is one of two moves (excluding Struggle and Shadow moves ), whose base PP is not a multiple of 5, the other being Revival Blessing ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sketch",
+    "Sketch (move)"
+  ],
+  "updatedAt": 1773327067
+}

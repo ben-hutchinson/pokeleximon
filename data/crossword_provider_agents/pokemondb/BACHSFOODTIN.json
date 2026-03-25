@@ -1,0 +1,17 @@
+{
+  "answerKey": "BACHSFOODTIN",
+  "answerDisplay": "BACHS FOOD TIN",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "Details for the Pokémon item Bach.",
+  "score": 57.88,
+  "approved": false,
+  "qualityFlags": [
+    "near_verbatim_source"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/item/bachs-food-tin",
+  "extract": "Details for the Pokémon item Bach",
+  "rankPosition": 1,
+  "updatedAt": 1774210638
+}

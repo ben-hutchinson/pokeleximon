@@ -1,0 +1,30 @@
+{
+  "answerKey": "ICEPEAKCAVERN",
+  "answerDisplay": "ICEPEAK CAVERN",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Icepeak Cavern",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Icepeak_Cavern",
+  "pageId": 272749,
+  "pageRevisionId": 4410315,
+  "leadText": "Icepeak Cavern (Japanese: 氷山の地下道 Iceberg Underpass) is a vast cave system located underneath the Alabaster Icelands of Hisui. It is accessible at various points across the central region of the Alabaster Icelands. It has two sections, one underneath Bonechill Wastes and a separate one underneath Arena's Approach. The Ice Rock is located in the section underneath Bonechill Wastes, which allows the player to evolve their Eevee into Glaceon.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] The Icepeak Cavern is divided into segments underneath the surface of the icelands that are isolated from each other. The entrances to segments are clean-cut circular openings that are horizontal to the ground. The snow has grown thick around the rim of the openings. The walls of the interior curve toward both the floor and the ceiling, giving the spaces a rounded appearance. The entirety of the interior of the caverns are composed of pure ice, from the floor to the ceiling. At the entrances to the caverns, a climbable vertical wall lined with snow allows easy access into and out of the cavern. The cavern below Bonechill Wastes is a long passage that goes across the entire length of the region form east to west. An entrance lies on either end of the cave. Four ice columns are found in the central hub of the cavern, two of which are thicker than the other two. In the middle of the passage, a circular cavern branches off, where Hisuian Zorua can be found. The Ice Rock is found on the western part of the cavern at the end of a branched pathway, with the other path leading to the surface. The section of cavern below Arena's Approach is the smallest of the three sections. Its singular entrance is located at the base of the elevated pathway leading to the Snowfall Hot Spring , directly to the southeast of the spring itself. A short corridor from the entrance leads into a rounded dome area. A few ore deposits are in this room."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] This section is incomplete. Please feel free to edit this section to add missing information and complete it. Item Location Games Old Verse 12 At the end of the cavern southeast of the Snowfall Hot Spring ( hidden , requires Ursaluna ) LA"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Icepeak-Cavern",
+    "Icepeak Cavern",
+    "Icepeak-Cavern (location)"
+  ],
+  "updatedAt": 1774214215
+}

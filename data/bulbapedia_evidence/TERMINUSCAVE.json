@@ -1,0 +1,26 @@
+{
+  "answerKey": "TERMINUSCAVE",
+  "answerDisplay": "TERMINUS CAVE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Terminus Cave",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Terminus_Cave",
+  "pageId": 185093,
+  "pageRevisionId": 4425546,
+  "leadText": "Terminus Cave (Japanese: 終の洞窟 Terminus Cave) is a cave in eastern Kalos on Route 18. It is the location of the Legendary Pokémon Zygarde in Pokémon X and Y. Although the player can enter the cave as soon as they reach Route 18, they are not allowed to enter Zygarde's chamber until after entering the Hall of Fame, due to an Ace Trainer who is blocking the way.",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Alola , the layout of Resolution Cave 's B1F is identical to Zygarde's chamber's layout in Terminus Cave. In addition, four orb-like items can be found in both caves, with one of them being a hidden Big Nugget . A possible translation for Terminus Cave's Japanese name is \"End Cave\", Resolution Cave's Japanese name. The official Pokémon X and Y guidebook marks the rooms as going downwards (1F, B1F, B2F), but the postgame guide marks the same rooms as going upwards (1F, 2F, 3F)."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Terminus-Cave",
+    "Terminus Cave",
+    "Terminus-Cave (location)"
+  ],
+  "updatedAt": 1773327894
+}

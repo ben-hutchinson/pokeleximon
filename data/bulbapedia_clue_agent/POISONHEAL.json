@@ -1,0 +1,69 @@
+{
+  "answerKey": "POISONHEAL",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4028079,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Poison Heal (Japanese: Poison Heal) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Shroomish and Breloom.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD T D S Enables the Pokemon to recover HP when poisoned rather than taking damage. B S L MD GtI Unavailable S MD The Pokemon takes no damage when it's poisoned or badly poisoned. It also naturally recovers more easily than usual! MD RT DX The Pokemon absorbs the damage it would usually take from being Poisoned or Badly Poisoned, instead restoring its own HP.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If the Pokemon is poisoned or badly poisoned , it will gain 1/8 of its maximum HP at the end of each turn instead of taking damage. When a Pokemon with Poison Heal is badly poisoned, this has no effect on the Pokemon's HP recovery. However, the bad poison counter still increases each turn even if the Pokemon has Poison Heal; as such, if Gastro Acid is used on the Pokemon with Poison Heal after being badly poisoned for five turns, it will incur poison damage starting at 5/16 (instead of 1/16). If a poisoned Pokemon with Poison Heal is affected by Heal Block , it will be neither healed nor damaged by the poison. Outside of battle [ edit | edit source ] Poison Heal has no effect outside of battle, so in Generation IV, poison will still hurt a Pokemon outside of battle even if it has this Ability.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] If the Pokemon is poisoned or badly poisoned , it will gain 1/8 of its maximum HP at the end of each turn instead of taking damage. When a Pokemon with Poison Heal is badly poisoned, this has no effect on the Pokemon's HP recovery. However, the bad poison counter still increases each turn even if the Pokemon has Poison Heal; as such, if Gastro Acid is used on the Pokemon with Poison Heal after being badly poisoned for five turns, it will incur poison damage starting at 5/16 (instead of 1/16). If a poisoned Pokemon with Poison Heal is affected by Heal Block , it will be neither healed nor damaged by the poison.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Heals for 1/8 max HP after each turn when poisoned in place of damage.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "poisoning trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "poisoning trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "poisoning trait"
+    ],
+    "connections_descriptors": [
+      "Poisoning abilities",
+      "Gen IV abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257993
+}

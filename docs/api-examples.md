@@ -203,67 +203,6 @@ POST /api/v1/admin/cryptic/generate?limit=2&topK=2
 }
 ```
 
-## Admin Cryptic Train Ranker
-### Request
-```
-POST /api/v1/admin/cryptic/train-ranker?promote=true
-```
-
-### Response
-```json
-{
-  "jobId": "job_cryptic_ranker_train_abc123def4",
-  "model": {
-    "id": 1,
-    "modelVersion": "cryptic-ranker-20260211162000-abc123",
-    "modelType": "ranker",
-    "isActive": true,
-    "activatedAt": "2026-02-11T16:20:00+00:00",
-    "trainedAt": "2026-02-11T16:20:00+00:00",
-    "createdAt": "2026-02-11T16:20:00+00:00",
-    "config": {},
-    "metrics": {}
-  }
-}
-```
-
-## Admin Cryptic Models
-### Request
-```
-GET /api/v1/admin/cryptic/models?limit=10
-```
-
-### Response
-```json
-{
-  "items": [
-    {
-      "id": 1,
-      "modelVersion": "cryptic-ranker-20260211162000-abc123",
-      "modelType": "ranker",
-      "isActive": true
-    }
-  ]
-}
-```
-
-## Admin Activate Cryptic Model
-### Request
-```
-POST /api/v1/admin/cryptic/models/cryptic-ranker-20260211162000-abc123/activate
-```
-
-### Response
-```json
-{
-  "item": {
-    "id": 1,
-    "modelVersion": "cryptic-ranker-20260211162000-abc123",
-    "isActive": true
-  }
-}
-```
-
 ## Cryptic Telemetry
 ### Request
 ```

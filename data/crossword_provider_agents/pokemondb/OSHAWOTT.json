@@ -1,0 +1,17 @@
+{
+  "answerKey": "OSHAWOTT",
+  "answerDisplay": "OSHAWOTT",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Water type Pokémon introduced in Generation 5.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/oshawott",
+  "extract": "Oshawott is a Water type Pokémon introduced in Generation 5 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212253
+}

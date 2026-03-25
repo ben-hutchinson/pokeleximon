@@ -1,0 +1,34 @@
+{
+  "answerKey": "AFTERYOU",
+  "answerDisplay": "AFTER YOU",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "After You (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/After_You_(move)",
+  "pageId": 117608,
+  "pageRevisionId": 4407043,
+  "leadText": "After You (Japanese: おさきにどうぞ After You) is a non-damaging Normal-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] The target will move next on the current turn, ignoring priority . After You bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . It fails if the target has already moved on the same turn. After You ignores the effects of Quash . If powered up by a Normalium Z into Z-After You, the user's Speed stat is raised by one stage. Generations V to VII [ edit | edit source ] After You fails if the order remains the same after using After You. Generation VIII onwards [ edit | edit source ] After You no longer fails if the turn order remains the same after using After You."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user helps the target and makes it use its move right after the user."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI After switching positions with your teammate, it boosts your teammate's Attack, Defense, Special Attack, Special Defense, accuracy, or evasiveness. (The stat change returns to normal when it goes to the next floor or steps on a Wonder Tile.) S MD After switching your position with your teammate, it boosts your teammate's Attack, Defense, Sp. Atk, Sp. Def, accuracy, or evasiveness. The stat returns to normal when the Pokémon goes to the next floor or steps on a Wonder Tile."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "After-You",
+    "After You",
+    "After-You (move)"
+  ],
+  "updatedAt": 1773320701
+}

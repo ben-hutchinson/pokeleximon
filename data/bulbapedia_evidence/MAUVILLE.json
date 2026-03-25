@@ -1,0 +1,31 @@
+{
+  "answerKey": "MAUVILLE",
+  "answerDisplay": "MAUVILLE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Mauville City",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mauville_City",
+  "pageId": 3458,
+  "pageRevisionId": 4509369,
+  "leadText": "Mauville City (Japanese: キンセツシティ Kinsetsu City) is located in central Hoenn and serves as the hub for travelers throughout the Hoenn region.",
+  "sections": [
+    {
+      "title": "Slogan",
+      "text": "Slogan [ edit | edit source ] The bright and shiny city of fun! (Japanese: 明るく 輝く 楽しい 街 The bright and shiny city of fun. )"
+    },
+    {
+      "title": "Demographics",
+      "text": "Demographics [ edit | edit source ] Pokémon Ruby, Sapphire, and Emerald [ edit | edit source ] In Pokémon Ruby and Sapphire and Pokémon Emerald , the population of Mauville City is 39. This number means it is a medium-sized Hoenn city. Pokémon Omega Ruby and Alpha Sapphire [ edit | edit source ] In Omega Ruby and Alpha Sapphire , including the Trainers in the Food Court, Mauville City has a total population of 148, making it the largest city in Hoenn and the fifth-largest city in the Pokémon world , following Mesagoza , Lumiose , Wyndon , and Nimbasa , and preceding Castelia ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mauville-City",
+    "Mauville City",
+    "Mauville",
+    "Mauville-City (location)"
+  ],
+  "updatedAt": 1774214487
+}

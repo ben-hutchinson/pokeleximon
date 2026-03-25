@@ -1,0 +1,38 @@
+{
+  "answerKey": "FLAMEBURST",
+  "answerDisplay": "FLAME BURST",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Flame Burst (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Flame_Burst_(move)",
+  "pageId": 114927,
+  "pageRevisionId": 4452189,
+  "leadText": "Flame Burst (Japanese: はじけるほのお Flame Burst) is a damage-dealing Fire-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation V to VII [ edit | edit source ] Flame Burst deals damage to the target, then inflicts damage to up to two Pokémon adjacent to that target (including the user if targeting an ally) equal to 1/16 of their respective maximum HP. Except in Battle Royals , the extra damage is dealt to the up to two Pokémon that are both allied with and adjacent to the target; in Battle Royals, the extra damage is dealt to the other two opposing Pokémon. The extra damage is not inflicted if the target was not affected by Flame Burst (such as due to Flame Burst missing, Flash Fire , or being protected ). The extra damage is effect damage, so it does not interact with Abilities such as Flash Fire or Color Change on the damaged Pokémon, and is not affected by protection moves and Endure , the Focus Sash or Focus Band , Wonder Guard , Substitute , Destiny Bond , or Telepathy . However, due to being effect damage, it is prevented by Magic Guard . This damage cannot miss. Generation VIII onwards [ edit | edit source ] Flame Burst cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E The user attacks the target with a bursting flame. The bursting flame damages Pokémon next to the target as well. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Conq. The user attacks the target with a bursting flame. MD GtI It damages even a faraway Pokémon. It also damages Pokémon around the Pokémon. S MD It even damages a faraway Pokémon. It also damages Pokémon around the enemy. MD RT DX It even damages a faraway Pokémon. It also damages Pokémon around the target."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Pokémon Conquest , the AI is remarkably flawed in its usage of Flame Burst, effectively ignoring the difference between the move's main damage and effect damage. Excluding signature moves and Z-Moves , Flame Burst is the only Fire-type move to not be usable in Pokémon Sword and Shield ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Flame-Burst",
+    "Flame Burst",
+    "Flame-Burst (move)"
+  ],
+  "updatedAt": 1773322840
+}

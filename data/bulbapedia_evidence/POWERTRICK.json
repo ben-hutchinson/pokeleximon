@@ -1,0 +1,34 @@
+{
+  "answerKey": "POWERTRICK",
+  "answerDisplay": "POWER TRICK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Power Trick (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Power_Trick_(move)",
+  "pageId": 18877,
+  "pageRevisionId": 4472610,
+  "leadText": "Power Trick (Japanese: パワートリック Power Trick) is a non-damaging Psychic-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation IV [ edit | edit source ] Power Trick switches the user's raw Attack stat with its raw Defense stat. Stat modifiers are not swapped. The effect of Power Trick may be Baton Passed to swap the recipient's stats. Using Power Trick again will swap the user's stats again, but will not prevent Baton Pass from passing the effect. Because Power Trick swaps the user's raw stats, a Pokémon that Transforms into another Pokémon that has swapped its stats will copy the target's swapped stats instead of its original stats. If a Pokémon uses Power Trick and then uses Transform , the swapped stats are overwritten and Power Trick's effect can no longer be Baton Passed . Similarly to transforming, if a Pokémon uses Power Trick and then levels up or undergoes a form change, the swapped stats are overwritten (even if the new form has identical base stats to the previous form). However, unlike with transforming, Power Trick's effect can still be Baton Passed as usual. Generation V onwards [ edit | edit source ] Power Trick can now be stolen by Snatch . If a Pokémon uses Power Trick and then undergoes Mega Evolution , the swapped stats are overwritten. However, Power Trick's effect can still be Baton Passed as usual. If powered up by a Psychium Z into Z-Power Trick, the user's Attack stat rises one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR B W B2 W2 X Y OR AS The user employs its psychic power to switch its Attack with its Defense stat. S M US UM P E Sw Sh BD SP LA S V The user employs its psychic power to switch its Attack stat with its Defense stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S The user swaps all modified levels and rates of its Attack with those of its Defense. B S L じぶんの こうげきと ぼうぎょの だんかいと ばいりつを いれかえてしまう MD GtI UNUSED S MD It switches any changes of your Attack and Defense. The stat changes return to normal when you go to the next floor or step on a Wonder Tile."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Power-Trick",
+    "Power Trick",
+    "Power-Trick (move)"
+  ],
+  "updatedAt": 1773326015
+}

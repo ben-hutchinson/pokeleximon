@@ -1,0 +1,38 @@
+{
+  "answerKey": "DAWNSTONE",
+  "answerDisplay": "DAWN STONE",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Dawn Stone",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dawn_Stone",
+  "pageId": 19291,
+  "pageRevisionId": 4504980,
+  "leadText": "The Dawn Stone (Japanese: めざめいし Awakening Stone) is a type of Evolution stone introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Can be used to evolve one of several Pokémon. This consumes the Dawn Stone. Causes male Kirlia to evolve into Gallade Causes female Snorunt to evolve into Froslass"
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If the player offers a Dawn Stone at Luminous Spring , male Kirlia and female Snorunt can be evolved into Gallade and Froslass , respectively. This consumes the Dawn Stone. If thrown, it will deal 1 damage (2 if sticky ). Using this item in a dungeon will consume it, with no effect."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] The Dawn Stone is required to evolve certain Pokémon in Pokémon Sleep. It is consumed upon use. Male Kirlia requires 80 Ralts Candy and a Dawn Stone to evolve into Gallade ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 A peculiar stone that makes certain species of Pokémon evolve. It sparkles like eyes. X Y OR AS S M US UM P E Sw Sh BD SP LA S V ZA A peculiar stone that can make certain species of Pokémon evolve. It sparkles like a glittering eye."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Dawn-Stone",
+    "Dawn Stone",
+    "Dawn-Stone (item)"
+  ],
+  "updatedAt": 1773322047
+}

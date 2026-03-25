@@ -1,0 +1,38 @@
+{
+  "answerKey": "FOULPLAY",
+  "answerDisplay": "FOUL PLAY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Foul Play (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Foul_Play_(move)",
+  "pageId": 117616,
+  "pageRevisionId": 4482747,
+  "leadText": "Foul Play (Japanese: イカサマ Foul Play) is a damage-dealing Dark-type move introduced in Generation V. It is: TM21 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR81 in Pokémon Sword and Shield. TM062 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Foul Play inflicts damage. It uses the target's Attack stat to calculate damage instead of the user's. The target's Attack stat stage-modifiers are applied (rather than the user's), but otherwise the user's Attack modifiers are used (including held item , Ability , and burn ). For example, the user's Huge Power or held Choice Band will increase the stat used in calculation, whereas the target's will not."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user turns the target's power against it. The higher the target's Attack stat, the greater the damage. X Y OR AS S M US UM The user turns the target's power against it. The higher the target's Attack stat, the greater the move's power. P E Sw Sh BD SP LA The user turns the target's power against it. The higher the target's Attack stat, the greater the damage it deals. S V The user turns the target's strength against it. The higher the target's Attack stat, the greater the damage this move inflicts."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Conq. The user turns the target's power against it. The higher the target's Attack stat, the greater the damage. MD GtI It damages an enemy. But the enemy's Attack stat determines damage instead of your Attack stat. S MD It damages an enemy. But the damage is determined by the enemy's Attack stat instead of your Attack stat. MD RT DX It damages an enemy. But the damage is determined by the enemy's Attack stat instead of the user's Attack stat."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] While Foul Play is not usable in Pokémon Legends: Z-A , it is mentioned during Side Mission 175: \"Romance avec Purrloin\" as \"the move that Purrloin surprisingly can't learn on its own\"."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Foul-Play",
+    "Foul Play",
+    "Foul-Play (move)"
+  ],
+  "updatedAt": 1773322981
+}

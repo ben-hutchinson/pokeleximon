@@ -1,0 +1,34 @@
+{
+  "answerKey": "ODORSLEUTH",
+  "answerDisplay": "ODOR SLEUTH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Odor Sleuth (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Odor_Sleuth_(move)",
+  "pageId": 3927,
+  "pageRevisionId": 4500981,
+  "leadText": "Odor Sleuth (Japanese: かぎわける Find Scent) is a non-damaging Normal-type move introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III 1.2 Generation IV 1.3 Generation V to VII 1.4 Generation VIII onwards Effect [ edit | edit source ] Generation III [ edit | edit source ] Odor Sleuth causes all accuracy checks against the target to ignore any changes to the target's evasion stat stages. If Odor Sleuth's target is a Ghost-type Pokémon, it also removes the target's immunity to Fighting-type and Normal-type moves. Odor Sleuth's effect ends when the target switches out. Odor Sleuth has an accuracy of 100%. Generation IV [ edit | edit source ] Odor Sleuth now only causes accuracy checks against the target to ignore changes to its evasion stat stages if its evasion stat stage is greater than 0. Odor Sleuth now also bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . Generation V to VII [ edit | edit source ] Odor Sleuth can now be reflected with Magic Coat . Odor Sleuth will now fail if used against a Pokémon already under its effect. If powered up by a Normalium Z into Z-Odor Sleuth, the user's Attack rises one stage. Generation VIII onwards [ edit | edit source ] Odor Sleuth cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Negates the foe's efforts to heighten evasiveness. FR LG Completely negates the foe's efforts to heighten its ability to evade. Colo XD Foils the target's efforts to heighten evasiveness. D P Pt HG SS PBR Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe. B W B2 W2 Enables a Ghost-type target to be hit with Normal- and Fighting-type attacks. It also enables an evasive target to be hit. X Y OR AS S M US UM P E Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Resets the boosted Evasion of foes in the same room. Ghost-type foes are exposed. MD T D S Resets any boosted evasiveness of all enemies in the room. Afflicts all Ghost-type enemies in the room with an Exposed status condition. B S L おなじへやの てきポケモンの あがっている かいひを もとにもどす てきポケモンが ゴーストタイプのばあいは みやぶりじょうたいにかえる MD GtI It resets any boosted evasiveness of all enemies in the same room. It causes the Exposed status condition to Ghost-type enemies in the same room. It removes their resistance to Normal- and Fighting-type attacks. S MD It resets any boosts to evasiveness in all enemies in the same room. It makes Ghost-type enemies exposed, which allows Normal- and Fighting-type attacks to hit them."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Odor-Sleuth",
+    "Odor Sleuth",
+    "Odor-Sleuth (move)"
+  ],
+  "updatedAt": 1773325468
+}

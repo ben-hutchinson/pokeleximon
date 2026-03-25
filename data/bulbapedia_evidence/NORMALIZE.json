@@ -1,0 +1,33 @@
+{
+  "answerKey": "NORMALIZE",
+  "answerDisplay": "NORMALIZE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Normalize (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Normalize_(Ability)",
+  "pageId": 15665,
+  "pageRevisionId": 4483503,
+  "leadText": "Normalize (Japanese: ノーマルスキン Normal Skin) is an Ability introduced in Generation IV. It is the signature Ability of Skitty and Delcatty.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generations V and VI 1.1.3 Generation VII onwards 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Normalize makes all moves (including status moves ) used by the Pokémon with this Ability become Normal-type instead of their usual type . If Normalize makes Thunder Wave a Normal-type move, Thunder Wave can affect Ground-type Pokémon; Thunder Wave can only affect Ghost-type Pokémon that are either holding a Ring Target or affected by Foresight or Odor Sleuth . If the move Flying Press is affected by Normalize, it deals Normal / Flying -type damage. If the move Freeze-Dry is affected by Normalize, it will still do super effective damage against Water-type Pokémon. If a Pokémon with Normalize is under the effect of Electrify or Ion Deluge , all of its moves become Electric-type rather than Normal-type. Generation IV [ edit | edit source ] Hidden Power , Weather Ball , Natural Gift , and Judgment are affected by Normalize. Generations V and VI [ edit | edit source ] Hidden Power , Weather Ball , Natural Gift , and Judgment are no longer affected by Normalize. Similarly, Techno Blast is unaffected by Normalize. Generation VII onwards [ edit | edit source ] Normal-type moves used by the Pokémon with this Ability now receive a 20% power boost (precisely, a factor of 4915/4096), except moves that cannot be affected by Normalize. This boost applies to both moves that are originally Normal-type and moves that become Normal-type due to Normalize. Multi-Attack , Terrain Pulse , and damaging Z-Moves are unaffected by Normalize. Outside of battle [ edit | edit source ] Normalize has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "Contents 1 In battle 1.1 Generation IV 1.2 Generations V and VI 1.3 Generation VII onwards In battle [ edit | edit source ] Normalize makes all moves (including status moves ) used by the Pokémon with this Ability become Normal-type instead of their usual type . If Normalize makes Thunder Wave a Normal-type move, Thunder Wave can affect Ground-type Pokémon; Thunder Wave can only affect Ghost-type Pokémon that are either holding a Ring Target or affected by Foresight or Odor Sleuth . If the move Flying Press is affected by Normalize, it deals Normal / Flying -type damage. If the move Freeze-Dry is affected by Normalize, it will still do super effective damage against Water-type Pokémon. If a Pokémon with Normalize is under the effect of Electrify or Ion Deluge , all of its moves become Electric-type rather than Normal-type. Generation IV [ edit | edit source ] Hidden Power , Weather Ball , Natural Gift , and Judgment are affected by Normalize. Generations V and VI [ edit | edit source ] Hidden Power , Weather Ball , Natural Gift , and Judgment are no longer affected by Normalize. Similarly, Techno Blast is unaffected by Normalize. Generation VII onwards [ edit | edit source ] Normal-type moves used by the Pokémon with this Ability now receive a 20% power boost (precisely, a factor of 4915/4096), except moves that cannot be affected by Normalize. This boost applies to both moves that are originally Normal-type and moves that become Normal-type due to Normalize. Multi-Attack , Terrain Pulse , and damaging Z-Moves are unaffected by Normalize."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Enables the Pokémon to use all of its moves as if they were Normal-type moves. B S L くりだすわざが すべて ノーマルタイプになる MD GtI Unavailable S MD All moves the Pokémon uses will be Normal type! MD RT DX All moves used by the Pokémon become Normal-type and deal more damage."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Normalize",
+    "Normalize (Ability)"
+  ],
+  "updatedAt": 1773325409
+}

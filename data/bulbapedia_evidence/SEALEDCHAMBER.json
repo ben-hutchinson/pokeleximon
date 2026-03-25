@@ -1,0 +1,26 @@
+{
+  "answerKey": "SEALEDCHAMBER",
+  "answerDisplay": "SEALED CHAMBER",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sealed Chamber",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sealed_Chamber",
+  "pageId": 8368,
+  "pageRevisionId": 4504693,
+  "leadText": "The Sealed Chamber (Japanese: おふれの石室 Stone Chamber of the Proclamation) is a location in Hoenn. It can be reached by diving on Route 134. It is not a common place to visit, as it is well hidden under the water and through the currents on Route 134. Legends are told about the Sealed Chamber, but only few people from Pacifidlog Town know its true existence. It must be visited to unlock the caves that hold the legendary giants.",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation III , the rumble that is heard immediately before the legendary giants are unsealed is identical to the sound of the moving truck heard at the start of the player 's adventure."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sealed-Chamber",
+    "Sealed Chamber",
+    "Sealed-Chamber (location)"
+  ],
+  "updatedAt": 1773326747
+}

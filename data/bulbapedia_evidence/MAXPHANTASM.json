@@ -1,0 +1,30 @@
+{
+  "answerKey": "MAXPHANTASM",
+  "answerDisplay": "MAX PHANTASM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Max Phantasm (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Phantasm_(move)",
+  "pageId": 244390,
+  "pageRevisionId": 4406151,
+  "leadText": "Max Phantasm (Japanese: ダイホロウ Dai Hollow) is a damage-dealing Ghost-type Max Move introduced in Generation VIII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Max Phantasm inflicts damage and lowers the target's and its ally's Defense by one stage. Its power and whether it is a special or physical move depends on the move it is based on. Base move Pwr. Cat. Astonish 90 Physical Astral Barrage 140 Special Hex 120 Special Lick 90 Physical Moongeist Beam 130 Special Night Shade 100 Special Phantom Force 130 Physical Poltergeist 140 Physical Shadow Ball 130 Special Shadow Bone 130 Physical Shadow Claw 120 Physical Shadow Force 140 Physical Shadow Punch 110 Physical Shadow Sneak 90 Physical Spectral Thief 130 Physical Spirit Shackle 130 Physical Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Max Phantasm cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V This is a Ghost-type attack Dynamax Pokémon use. This lowers the target's Defense stat. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Max-Phantasm",
+    "Max Phantasm",
+    "Max-Phantasm (move)"
+  ],
+  "updatedAt": 1773324836
+}

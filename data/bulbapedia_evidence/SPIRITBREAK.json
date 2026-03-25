@@ -1,0 +1,30 @@
+{
+  "answerKey": "SPIRITBREAK",
+  "answerDisplay": "SPIRIT BREAK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Spirit Break (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Spirit_Break_(move)",
+  "pageId": 244340,
+  "pageRevisionId": 4403550,
+  "leadText": "Spirit Break (Japanese: ソウルクラッシュ Soul Crash) is a damage-dealing Fairy-type move introduced in Generation VIII. Prior to Generation IX, it was one of the signature moves of Grimmsnarl.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Spirit Break inflicts damage and lowers the target's Special Attack stat by one stage. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Spirit Break cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V The user attacks the target with so much force that it could break the target's spirit. This also lowers the target's Sp. Atk stat. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Spirit-Break",
+    "Spirit Break",
+    "Spirit-Break (move)"
+  ],
+  "updatedAt": 1773327451
+}

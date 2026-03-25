@@ -1,0 +1,31 @@
+{
+  "answerKey": "DERNIREWAY",
+  "answerDisplay": "DERNIRE WAY",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Kalos Route 21",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Kalos_Route_21",
+  "pageId": 184651,
+  "pageRevisionId": 4227934,
+  "leadText": "Route 21 (Japanese: ２１番道路 Route 21) is a route in eastern Kalos, connecting Snowbelle City and Victory Road. The route is also known as Dernière Way (Japanese: デルニエ通り Dernière Way).",
+  "sections": [
+    {
+      "title": "Route description",
+      "text": "Route description [ edit | edit source ] This is the final route to go through before Victory Road via Snowbelle City. While its main trail is short and easy to navigate, there are several worthy items that lie off the beaten path, so it pays to explore. The Move Tutor capable of teaching one of the player 's Pokémon the ultimate Dragon-type move, Draco Meteor , can be found in a house on this route."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Insect Plate North of the Snowbelle City Gate, up the northern leg of the stream (requires Surf ) X Y Guard Spec. On the small rock beyond the red flowers east of Ace Duo Elina & Sean (hidden) X Y PP Up In the far southwest of the route, on the small rock just northeast of Veteran Trisha (hidden) X Y Elixir ×2 In the far northwest of the route, on the rock face northwest of the Figy Berry tree (requires Cut , Strength , and Surf ) (hidden) In the southwestern-most corner of the route, by Veteran Trisha (requires Cut ) X Y Rare Candy On the south side of the southern leg of the stream (requires Cut , Strength , and Surf ) X Y TM22 ( Solar Beam ) In the area between the ledge due west of the Snowbelle City Gate and the first Strength depression south of the Victory Road Gate (requires Cut , Strength , and Surf ) X Y Pearl String In the far north of the route, in the bare area among the purple flowers (requires Strength ) (hidden) X Y Repeat Ball In the far northwest of the route, across the pond (requires Strength and Surf ) X Y Figy Berry In front of the Berry tree in the far northwest of the route, across the pond (requires Cut , Strength , and Surf ) (regenerates after 7 days) X Y"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Dernière-Way",
+    "Dernière Way",
+    "Dernire Way",
+    "Dernière-Way (location)"
+  ],
+  "updatedAt": 1774213882
+}

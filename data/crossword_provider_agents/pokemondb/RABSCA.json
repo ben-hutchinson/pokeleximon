@@ -1,0 +1,17 @@
+{
+  "answerKey": "RABSCA",
+  "answerDisplay": "RABSCA",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Bug / Psychic type Pokémon introduced in Generation 9.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/rabsca",
+  "extract": "Rabsca is a Bug / Psychic type Pokémon introduced in Generation 9 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212532
+}

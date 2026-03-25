@@ -1,0 +1,38 @@
+{
+  "answerKey": "SHINYSTONE",
+  "answerDisplay": "SHINY STONE",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shiny Stone",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shiny_Stone",
+  "pageId": 19292,
+  "pageRevisionId": 4504904,
+  "leadText": "The Shiny Stone (Japanese: ひかりのいし Light Stone) is a type of Evolution stone introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Can be used to evolve one of several Pokémon. This consumes the Shiny Stone. Causes Togetic to evolve into Togekiss Causes Roselia to evolve into Roserade Causes Minccino to evolve into Cinccino Causes Floette to evolve into Florges"
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Can be used to evolve one of several Pokémon by offering it at the Luminous Spring T D S or by using it in a dungeon GtI . This consumes the Shiny Stone. Causes Togetic to evolve into Togekiss Causes Roselia to evolve into Roserade Causes Minccino to evolve into Cinccino If thrown, it will deal 1 T D S /2 GtI damage (2 if sticky ). In Explorers of Time, Explorers of Darkness, and Explorers of Sky, using this item in a dungeon will consume it, with no effect."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] The Shiny Stone is required to evolve certain Pokémon in Pokémon Sleep. It is consumed upon use. Togetic requires 80 Togepi Candy and a Shiny Stone to evolve into Togekiss ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 A peculiar stone that makes certain species of Pokémon evolve. It shines with a dazzling light. X Y OR AS S M US UM P E Sw Sh BD SP LA S V ZA A peculiar stone that can make certain species of Pokémon evolve. It shines with a dazzling light."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shiny-Stone",
+    "Shiny Stone",
+    "Shiny-Stone (item)"
+  ],
+  "updatedAt": 1773326940
+}

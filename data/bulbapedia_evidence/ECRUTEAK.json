@@ -1,0 +1,31 @@
+{
+  "answerKey": "ECRUTEAK",
+  "answerDisplay": "ECRUTEAK",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Ecruteak City",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ecruteak_City",
+  "pageId": 1553,
+  "pageRevisionId": 4512783,
+  "leadText": "Ecruteak City (Japanese: エンジュシティ Enju City) is an old-fashioned city located in northern Johto, situated in the woods between tall Mt. Mortar and the open fields near Johto's western shores. As with many of the larger cities in the Pokémon world, Ecruteak has a Pokémon Gym, led by Morty, who specializes in Ghost-type Pokémon and hands out the Fog Badge to those who defeat him. Ecruteak is known as a historical and mythical city; fittingly, its buildings all feature traditional Japanese architecture. The tallest building in the city, and perhaps all of Johto, is the ten-story Bell Tower in the city's northeast corner, built nearly a millennium before the events of the games. The city is known as being a centerpoint of the Legendary Pokémon native to the Johto region, with the great Ho-Oh once being said to have roosted atop the Bell Tower, and having created three Legendary beasts of the Pokémon who perished when the Brass Tower burned down.",
+  "sections": [
+    {
+      "title": "Slogan",
+      "text": "Slogan [ edit | edit source ] Generation II [ edit | edit source ] A Historical City Where the Past Meets the Present (Japanese: むかしと いまが どうじに ながれる れきしの まち The city where present and past concurrently flow in history. ) Generation IV [ edit | edit source ] A Historical City (Japanese: れきしが ながれる まち The city where history flows. )"
+    },
+    {
+      "title": "Generation II",
+      "text": "Generation II [ edit | edit source ] A Historical City Where the Past Meets the Present (Japanese: むかしと いまが どうじに ながれる れきしの まち The city where present and past concurrently flow in history. )"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ecruteak-City",
+    "Ecruteak City",
+    "Ecruteak",
+    "Ecruteak-City (location)"
+  ],
+  "updatedAt": 1774213935
+}

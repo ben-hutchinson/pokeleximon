@@ -1,0 +1,38 @@
+{
+  "answerKey": "ROCKTHROW",
+  "answerDisplay": "ROCK THROW",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Rock Throw (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rock_Throw_(move)",
+  "pageId": 3697,
+  "pageRevisionId": 4468904,
+  "leadText": "Rock Throw (Japanese: いわおとし Rock Drop) is a damage-dealing Rock-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II onwards 1.3 Generation IX 1.3.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I [ edit | edit source ] Rock Throw deals damage and has no secondary effect. It has an accuracy of 65%. Generation II onwards [ edit | edit source ] Rock Throw now has an accuracy of 90%. Rock Throw can be used as the first move of a Pokémon Contest combination , causing Rock Slide and Rock Tomb to score double the normal appeal if used in the next turn. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 50 60 Cooldown 6s Move wind-up time 20 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A Rock -type attack. As the name implies, a huge boulder is dropped on the target. G S C Drops rocks on the enemy. R S E Throws small rocks to strike the foe. FR LG The foe is attacked with a shower of small, easily thrown rocks. Colo XD Throws small rocks to strike the target. D P Pt HG SS PBR The user picks up and throws a small rock at the foe to attack. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user picks up and throws a small rock at the target to attack. S V The user picks up and throws a small rock at the target to inflict damage. ZA The user attacks by picking up a small rock and throwing it at targets."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. B S L てきポケモンに ダメージをあたえる MD GtI S MD MD RT DX It damages an enemy."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation III, Secret Power has the animation of Rock Throw if used on a rocky surface. From Generation IV onwards, Secret Power additionally has the animation of Rock Throw if used in a cave ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Rock-Throw",
+    "Rock Throw",
+    "Rock-Throw (move)"
+  ],
+  "updatedAt": 1773326479
+}

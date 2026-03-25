@@ -1,0 +1,17 @@
+{
+  "answerKey": "POIPOLE",
+  "answerDisplay": "POIPOLE",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Poison type Pokémon introduced in Generation 7.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/poipole",
+  "extract": "Poipole is a Poison type Pokémon introduced in Generation 7 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212375
+}

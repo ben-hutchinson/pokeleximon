@@ -1,0 +1,34 @@
+{
+  "answerKey": "GLAIVERUSH",
+  "answerDisplay": "GLAIVE RUSH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Glaive Rush (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Glaive_Rush_(move)",
+  "pageId": 277763,
+  "pageRevisionId": 4483801,
+  "leadText": "Glaive Rush (Japanese: きょけんとつげき Giant Sword Assault) is a damage-dealing Dragon-type move introduced in Generation IX. It is the signature move of Baxcalibur.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Glaive Rush inflicts damage. If the move hits, until the next time the user acts, any attacks directed at the user (including OHKO moves ) deal double the damage (not applicable to moves that deal direct damage ) and bypass accuracy and evasion checks to always hit. The effect ends if a different move is used."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user throws its entire body into a reckless charge. Attacks from opposing Pokémon during the next turn cannot miss and will inflict double damage. * The user throws its entire body into a reckless charge. After this move is used, attacks on the user cannot miss and will inflict double damage until the user's next turn. * ZA The user attacks by throwing its entire body into a reckless charge. However, the user is left wide open and unable to move for a short time."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move is likely a reference to the Godzilla film Godzilla vs. Hedorah , which features Godzilla propelling himself in a similar using his atomic breath , [ 1 ] while the scene was invented as a presumed reference to Gamera by the director Yoshimitsu Banno who later launched a scrapped Gamera project, which was subsequently redeveloped into the 2014 film Godzilla . [ 2 ] ↑ https://www.youtube.com/watch?v=kKFxf8p77MI ↑ Shuntarō Ono, December 28, 2018, ガメラの精神史: 昭和から平成へ, p.121, Takanashi Shobou"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Glaive-Rush",
+    "Glaive Rush",
+    "Glaive-Rush (move)"
+  ],
+  "updatedAt": 1773323204
+}

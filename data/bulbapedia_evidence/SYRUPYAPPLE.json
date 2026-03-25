@@ -1,0 +1,38 @@
+{
+  "answerKey": "SYRUPYAPPLE",
+  "answerDisplay": "SYRUPY APPLE",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Syrupy Apple",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Syrupy_Apple",
+  "pageId": 295849,
+  "pageRevisionId": 4501212,
+  "leadText": "The Syrupy Apple (Japanese: みついりりんご Honeycore Apple) is a type of item introduced in Generation IX.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Causes Applin to evolve into Dipplin upon use. This consumes the Syrupy Apple."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Syrupy Apples are required to evolve certain Pokémon in Pokémon GO. They are consumed upon use. Applin requires 200 and 20 Syrupy Apples to evolve into Dipplin ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally syrupy."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description GO A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally syrupy."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Syrupy-Apple",
+    "Syrupy Apple",
+    "Syrupy-Apple (item)"
+  ],
+  "updatedAt": 1773327767
+}

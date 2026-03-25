@@ -1,0 +1,16 @@
+{
+  "answerKey": "POWERSPOT",
+  "answerDisplay": "POWER SPOT",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen VIII ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Power_Spot_(Ability)",
+  "extract": "If you were looking for the places where Dynamaxing is possible, see Dynamax. Power Spot (Japanese: パワースポット Power Spot) is an Ability introduced in Generation VIII. It is the signature Ability of Stonjourner.",
+  "updatedAt": 1774258445
+}

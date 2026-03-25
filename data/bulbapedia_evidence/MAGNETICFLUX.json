@@ -1,0 +1,34 @@
+{
+  "answerKey": "MAGNETICFLUX",
+  "answerDisplay": "MAGNETIC FLUX",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Magnetic Flux (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Magnetic_Flux_(move)",
+  "pageId": 185077,
+  "pageRevisionId": 4500854,
+  "leadText": "Magnetic Flux (Japanese: じばそうさ Magnetic Field Manipulation) is a non-damaging Electric-type move introduced in Generation VI.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Magnetic Flux raises the Defense and Special Defense stats of allied Pokémon (including the user) with the Ability Plus or Minus by one stage each. If powered up by an Electrium Z into Z-Magnetic Flux, the user's Special Defense is raised by one stage (in addition to the raise caused by the move, if applicable)."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh BD SP LA The user manipulates magnetic fields, which raises the Defense and Sp. Def stats of ally Pokémon with the Plus or Minus Ability. S V The user manipulates magnetic fields, which boosts the Defense and Sp. Def stats of ally Pokémon with the Plus Ability or the Minus Ability."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It sharply boosts the Defense and Sp. Def of Pokémon with the Plus or Minus Ability in your party in the same room. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Magnetic-Flux",
+    "Magnetic Flux",
+    "Magnetic-Flux (move)"
+  ],
+  "updatedAt": 1773324678
+}

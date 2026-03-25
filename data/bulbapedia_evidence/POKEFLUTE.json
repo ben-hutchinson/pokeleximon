@@ -1,0 +1,38 @@
+{
+  "answerKey": "POKEFLUTE",
+  "answerDisplay": "POKE FLUTE",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Poké Flute",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Flute",
+  "pageId": 9603,
+  "pageRevisionId": 4492316,
+  "leadText": "The Poké Flute (Japanese: ポケモンのふえ Pokémon Flute) is a Key Item introduced in Generation I. It has the appearance of a yellow recorder with a Poké Ball near the bottom.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] The Poké Flute being used in Pokémon FireRed and LeafGreen Outside of battle [ edit | edit source ] In Pokémon Red, Blue , Yellow , FireRed, LeafGreen , Let's Go, Pikachu!, and Let's Go, Eevee! , the Poké Flute is usable twice outside of battle. It can awaken and start a battle with either of the wild Snorlax who block the player's way by sleeping on Route 12 and Route 16 . How the Poké Flute is used to awake Snorlax: In Generation I , this requires using the item from the Bag . In Generation III , this item is available either from the Bag or by interacting with Snorlax. In Generation VII , the player can only use this item by interacting with Snorlax. After each battle ends, the player will be able to pass through the previously blocked spot. In Generations I and III, if the player uses the Poké Flute anywhere else outside of battle, it will have no effect except displaying the message: \"Now, that's a catchy tune!\" In Pokémon Yellow , the Poké Flute cannot be used to wake the partner Pikachu up if Jigglypuff causes it to fall asleep at the Pewter City Pokémon Center . The player can instead wake it up by interacting with it or leaving the Pokémon Center. In Pokémon Gold, Silver , Crystal , HeartGold, and SoulSilver , the Poké Flute is not available as an item but instead as a radio station in the Pokégear if the player has both the Radio Card and EXPN Card . Specifically, his is the radio station 20 in Generation II , or the station represented by the cursor at the top of the radio screen in Generation IV . Like other radio stations, it can be used to replace the overworld background music themes with the Poké Flute music. It also awakens and starts a battle with the wild Snorlax who blocks the east entrance to Diglett's Cave if the player interacts with it while the music is playing. In Pokémon X and Y , the player has to deliver the Poké Flute from the Parfum Palace to its owner, a Black Belt , who uses it to wake up a Snorlax that is blocking Route 7 . The player does not get to keep the Poké Flute after they deliver it. In battle [ edit | edit source ] In Pokémon Red, Blue , Yellow , FireRed, and LeafGreen , the Poké Flute is a reusable item that cures all Pokémon in the battle of sleep , including the opponent's Pokémon. If no Pokémon are asleep, it will have no effect on the battle, but still counts as the player's turn. Pokémon with Soundproof cannot be woken up by the Poké Flute. In Pokémon X and Y and Pokémon: Let's Go, Pikachu! and Let's Go, Eevee! , the Poké Flute cannot be used in battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] In Pokémon Red, Blue , Yellow , FireRed, and LeafGreen , the Poké Flute is a reusable item that cures all Pokémon in the battle of sleep , including the opponent's Pokémon. If no Pokémon are asleep, it will have no effect on the battle, but still counts as the player's turn. Pokémon with Soundproof cannot be woken up by the Poké Flute. In Pokémon X and Y and Pokémon: Let's Go, Pikachu! and Let's Go, Eevee! , the Poké Flute cannot be used in battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Plays a pleasant melody that rouses Pok é mon from sleep. FR LG A flute that is said to instantly awaken any Pok é mon . It has a lovely tone. E A sweet-sounding flute that awakens Pok é mon . X Y OR AS A flute which can play with such a beautiful tone that even sleeping Pokémon find themselves roused. S M US UM A flute that can play with such a beautiful tone that even sleeping Pokémon find themselves roused. P E Sw Sh BD SP LA S V A flute that can play with such a beautiful tone that even sleeping Pokémon find themselves woken up."
+    },
+    {
+      "title": "Pokédex entries",
+      "text": "Pokédex entries [ edit | edit source ] Episode Subject Source Entry EP041 Poké Flute Ash's Pokédex The Poké Flute is used to wake sleeping Pokémon. Snorlax will only awaken to this flute."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Poke-Flute",
+    "Poke Flute",
+    "Poke-Flute (item)"
+  ],
+  "updatedAt": 1773325900
+}

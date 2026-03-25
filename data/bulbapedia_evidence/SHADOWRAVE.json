@@ -1,0 +1,30 @@
+{
+  "answerKey": "SHADOWRAVE",
+  "answerDisplay": "SHADOW RAVE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Rave (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Rave_(move)",
+  "pageId": 9595,
+  "pageRevisionId": 4309719,
+  "leadText": "Shadow Rave (Japanese: ダークレイブ Dark Rave) is one of several Shadow moves available only in Pokémon XD: Gale of Darkness. Like other Shadow moves, it is forgotten and replaced with another move once the Pokémon is purified.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Shadow Rave deals damage to both opponents. As Shadow Pokémon cannot be traded, and since Pokémon Contests do not exist in Pokémon XD: Gale of Darkness, Shadow Rave cannot be used in Contests."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description XD A shadowy aura in the ground is used to launch spikes."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Rave",
+    "Shadow Rave",
+    "Shadow-Rave (move)"
+  ],
+  "updatedAt": 1773326849
+}

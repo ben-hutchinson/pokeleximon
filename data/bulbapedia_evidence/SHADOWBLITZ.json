@@ -1,0 +1,30 @@
+{
+  "answerKey": "SHADOWBLITZ",
+  "answerDisplay": "SHADOW BLITZ",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Blitz (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Blitz_(move)",
+  "pageId": 9583,
+  "pageRevisionId": 4309710,
+  "leadText": "Shadow Blitz (Japanese: ダークアタック Dark Attack) is one of several Shadow moves available only in Pokémon XD: Gale of Darkness. Like other Shadow moves, it is forgotten and replaced with another move once the Pokémon is purified.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Shadow Blitz is a Shadow equivalent of the basic damage moves Pokémon often know at Level 1, such as Pound , Scratch , and Tackle . Shadow Blitz inflicts damage and has no secondary effect. As Shadow Pokémon cannot be traded, and since Pokémon Contests do not exist in Pokémon XD: Gale of Darkness, Shadow Blitz cannot be used in Contests."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description XD A Pokémon throws this tackle while casting a shadowy aura."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Blitz",
+    "Shadow Blitz",
+    "Shadow-Blitz (move)"
+  ],
+  "updatedAt": 1773326824
+}

@@ -1,0 +1,30 @@
+{
+  "answerKey": "FIERYWRATH",
+  "answerDisplay": "FIERY WRATH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Fiery Wrath (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fiery_Wrath_(move)",
+  "pageId": 252181,
+  "pageRevisionId": 4403583,
+  "leadText": "Fiery Wrath (Japanese: もえあがるいかり Fiery Wrath) is a damage-dealing Dark-type move introduced during Generation VIII, in The Crown Tundra. It is the signature move of Galarian Moltres.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Fiery Wrath damages all opponents. It has a 20% chance to cause each target to flinch . Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Fiery Wrath cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V The user transforms its wrath into a fire-like aura to attack. This may also make opposing Pokémon flinch. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fiery-Wrath",
+    "Fiery Wrath",
+    "Fiery-Wrath (move)"
+  ],
+  "updatedAt": 1773322776
+}

@@ -1,0 +1,17 @@
+{
+  "answerKey": "CHIKORITA",
+  "answerDisplay": "CHIKORITA",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Grass type Pokémon introduced in Generation 2.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/chikorita",
+  "extract": "Chikorita is a Grass type Pokémon introduced in Generation 2 .",
+  "rankPosition": 1,
+  "updatedAt": 1774210846
+}

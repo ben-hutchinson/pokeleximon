@@ -1,0 +1,68 @@
+{
+  "answerKey": "SYMBIOSIS",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4432763,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VI ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Symbiosis (Japanese: Symbiosis) is an Ability introduced in Generation VI. Prior to Generation VII, it was one of the signature Abilities of Flabb's evolutionary line. In Generation VIII, it was the signature Ability of Oranguru.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation VI 1.1.2 Generation VII 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: What about Rusted Sword / Shield with Zacian or Zamazenta ? Does Symbiosis activate during a Max Raid Battle ? You can discuss this on the talk page. If a Pokemon with Symbiosis has a held item, immediately after an ally's item is consumed, the Pokemon with Symbiosis will pass its item to that ally. Symbiosis may pass an item to a non-adjacent ally in a Triple Battle. Symbiosis triggers any time an ally Pokemon consumes its item, whether directly or through the use of Fling or Natural Gift . If a Pokemon eats another Pokemon's Berry with Bug Bite or Pluck and is not holding an item, its ally's Symbiosis will be triggered and give an item to the Pokemon that used that move. An Air Balloon popping will trigger Symbiosis. If multiple Pokemon on the same side of a Triple Battle or Horde Encounter have Symbiosis, then Symbiosis will trigger on the faster Pokemon (even while Trick Room is in effect). Symbiosis will not trigger if an ally's item is moved to a different Pokemon (such as due to Thief or Symbiosis itself), destroyed by Incinerate , or knocked off by Knock Off . If a damage-reducing Berry is consumed in response to an attack, Symbiosis will not activate until after the damage is received. If an item is consumed using Fling or Natural Gift, Symbiosis will not activate until after the move deals damage. Symbiosis cannot transfer a Z-Crystal . It cannot transfer a Griseous Orb if either Pokemon is Giratina , a Plate if either Pokemon is Arceus , a memory if either Pokemon is Silvally , a Drive if either Pokemon is Genesect , a Mega Stone if either Pokemon can Mega Evolve using it, a Blue Orb if either Pokemon is Kyogre , a Red Orb if either Pokemon is Groudon , a Booster Energy if either Pokemon is a Paradox Pokemon (except Koraidon , Miraidon , Gouging Fire , Raging Bolt , Iron Boulder and Iron Crown ), or a Mask ( Cornerstone Mask , Hearthflame Mask or Wellspring Mask ) if either Pokemon is Ogerpon . Generation VI [ edit | edit source ] If the ally of a Pokemon with Symbiosis consumes a Gem by using a move, Symbiosis activates immediately. If the item would normally affect the power of the triggering move, then the new item's effect will be applied immediately; if a consumable item (except another Gem) is received that can currently be activated, it will immediately do so. However, if a Plate or Drive is given to a Pokemon using Judgment or Techno Blast after it has consumed a Gem, the move's type will not change; likewise, if the Pokemon receives another Gem via Symbiosis due to consuming a Gem, it will not also consume the new Gem. In Generation VI , if an ally's Eject Button is consumed, Symbiosis will activate and transfer an item to that ally after it switches out but before its replacement is sent out. When this Pokemon has switched in again, the Pokemon's item will be affected by the Symbiosis Eject Button glitch , which causes certain items to apply their effect twice. Generation VII [ edit | edit source ] If the ally of a Pokemon with Symbiosis consumes a Gem by using a move, Symbiosis does not activate until after the move is executed. The Eject Button activating does not trigger Symbiosis. Outside of battle [ edit | edit source ] Symbiosis has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: What about Rusted Sword / Shield with Zacian or Zamazenta ? Does Symbiosis activate during a Max Raid Battle ? You can discuss this on the talk page. If a Pokemon with Symbiosis has a held item, immediately after an ally's item is consumed, the Pokemon with Symbiosis will pass its item to that ally. Symbiosis may pass an item to a non-adjacent ally in a Triple Battle. Symbiosis triggers any time an ally Pokemon consumes its item, whether directly or through the use of Fling or Natural Gift . If a Pokemon eats another Pokemon's Berry with Bug Bite or Pluck and is not holding an item, its ally's Symbiosis will be triggered and give an item to the Pokemon that used that move. An Air Balloon popping will trigger Symbiosis. If multiple Pokemon on the same side of a Triple Battle or Horde Encounter have Symbiosis, then Symbiosis will trigger on the faster Pokemon (even while Trick Room is in effect). Symbiosis will not trigger if an ally's item is moved to a different Pokemon (such as due to Thief or Symbiosis itself), destroyed by Incinerate , or knocked off by Knock Off . If a damage-reducing Berry is consumed in response to an attack, Symbiosis will not activate until after the damage is received. If an item is consumed using Fling or Natural Gift, Symbiosis will not activate until after the move deals damage. Symbiosis cannot transfer a Z-Crystal . It cannot transfer a Griseous Orb if either Pokemon is Giratina , a Plate if either Pokemon is Arceus , a memory if either Pokemon is Silvally , a Drive if either Pokemon is Genesect , a Mega Stone if either Pokemon can Mega Evolve using it, a Blue Orb if either Pokemon is Kyogre , a Red Orb if either Pokemon is Groudon , a Booster Energy if either Pokemon is a Paradox Pokemon (except Koraidon , Miraidon , Gouging Fire , Raging Bolt , Iron Boulder and Iron Crown ), or a Mask ( Cornerstone Mask , Hearthflame Mask or Wellspring Mask ) if either Pokemon is Ogerpon . Generation VI [ edit | edit source ] If the ally of a Pokemon with Symbiosis consumes a Gem by using a move, Symbiosis activates immediately. If the item would normally affect the power of the triggering move, then the new item's effect will be applied immediately; if a consumable item (except another Gem) is received that can currently be activated, it will immediately do so. However, if a Plate or Drive is given to a Pokemon using Judgment or Techno Blast after it has consumed a Gem, the move's type will not change; likewise, if the Pokemon receives another Gem via Symbiosis due to consuming a Gem, it will not also consume the new Gem. In Generation VI , if an ally's Eject Button is consumed, Symbiosis will activate and transfer an item to that ally after it switches out but before its replacement is sent out. When this Pokemon has switched in again, the Pokemon's item will be affected by the Symbiosis Eject Button glitch , which causes certain items to apply their effect twice. Generation VII [ edit | edit source ] If the ally of a Pokemon with Symbiosis consumes a Gem by using a move, Symbiosis does not activate until after the move is executed. The Eject Button activating does not trigger Symbiosis.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Passes the bearer's held item to an ally when the ally uses up its item.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "switching ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "switching ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen VI ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Switching abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258022
+}

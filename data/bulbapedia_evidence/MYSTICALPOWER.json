@@ -1,0 +1,30 @@
+{
+  "answerKey": "MYSTICALPOWER",
+  "answerDisplay": "MYSTICAL POWER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Mystical Power (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mystical_Power_(move)",
+  "pageId": 268726,
+  "pageRevisionId": 4403593,
+  "leadText": "Mystical Power (Japanese: しんぴのちから Mysterious Power) is a damage-dealing Psychic-type move introduced during Generation VIII, in Pokémon Legends: Arceus. It is the signature move of the lake guardians.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Mystical Power inflicts damage. If the sum of the user's current Attack and Sp. Atk stats is greater than or equal to the sum of its Defense and Sp. Def stats, the user's offensive stats will be raised after the move hits. Otherwise, its defensive stats will be raised. Pokémon Legends: Arceus Category Special PP 10 Agile Strong Power 70 55 85 Accuracy 90% 90% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Turns 3 2 4 ? ? ? ? Raises the higher of the user's offensive or defensive stats (ties count for the offensive stats) Generation IX [ edit | edit source ] Mystical Power inflicts damage and raises the user's Special Attack by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA The user strengthens itself with a mysterious power. If it excels in offense, its offensive stats are raised. If it excels in defense, its defensive stats are raised. S V The user attacks by emitting a mysterious power. This also boosts the user’s Sp. Atk stat."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mystical-Power",
+    "Mystical Power",
+    "Mystical-Power (move)"
+  ],
+  "updatedAt": 1773325268
+}

@@ -1,0 +1,16 @@
+{
+  "answerKey": "MISTYSURGE",
+  "answerDisplay": "MISTY SURGE",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen VII ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Misty_Surge_(Ability)",
+  "extract": "Misty Surge (Japanese: ミストメイカー Mist Maker) is an Ability introduced in Generation VII. Prior to Generation VIII, it was the signature Ability of Tapu Fini. In Generation IX, it is the signature Ability of Galarian Weezing.",
+  "updatedAt": 1774258444
+}

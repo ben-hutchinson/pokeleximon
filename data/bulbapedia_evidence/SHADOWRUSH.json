@@ -1,0 +1,34 @@
+{
+  "answerKey": "SHADOWRUSH",
+  "answerDisplay": "SHADOW RUSH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Rush (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Rush_(move)",
+  "pageId": 5002,
+  "pageRevisionId": 4309715,
+  "leadText": "Shadow Rush (Japanese: ダークラッシュ Dark Rush) is a move usable only in Pokémon Colosseum and Pokémon XD: Gale of Darkness. In Pokémon Colosseum, Shadow Rush is the only Shadow move in the game and all Shadow Pokémon know it when captured, while in Pokémon XD, it is one of several Shadow moves. Like all Shadow moves, it is forgotten and replaced with another move once the Pokémon is purified.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Pokémon Colosseum [ edit | edit source ] Shadow Rush does damage, with a power of 90, and the Pokémon takes recoil damage equal to ¹⁄₁₆ of the user's maximum HP , rounded down, either directly as the calculated result, or one more or less than it, chosen at random. [ 1 ] The recoil damage from this move is not prevented by Rock Head . This move has a 90.625% chance to get a critical hit if the Shadow Pokémon using it is in Hyper Mode . More specifically, it adds a 90% chance that Shadow Rush will land a critical hit, similar to an additional effect . Failing that, it has the usual 6.25% chance to land a critical hit regardless. Despite Shadow moves not being super effective against any type in Colosseum, it will still deal damage to a Pokémon with Wonder Guard . As Shadow Pokémon cannot be traded, and since Pokémon Contests do not exist in Colosseum or XD, Shadow Rush cannot be used in Contests. In the Pokémon summary screen, the game still displays a Contest description for this move, with Appeal and Jam scores of 0 each and a blank space where the Contest condition would be. Pokémon XD: Gale of Darkness [ edit | edit source ] Shadow Rush's base power drops to 55, but it no longer has recoil damage. Hyper Mode no longer exists, and its counterpart, Reverse Mode , does not increase the critical hit ratio. The game no longer displays a Contest description for any moves. ↑ The Bizarre Mechanics Behind Shadow Pokemon in Colosseum | Sparkle on YouTube"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Colo An attack that is so harsh, it also hurts the attacker. * A move only for battles. It is no good for Contests . * XD A Pokémon executes a tackle while exuding a shadowy aura."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Pokémon Colosseum , a glitch allows Shadow Rush to hit the opponent when in the semi-invulnerable turn of Fly , Bounce , Dig , and Dive . However, the Shadow Pokémon must be in Hyper Mode , and must first attempt to use Thunder , Surf , Earthquake , or Magnitude accordingly."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Rush",
+    "Shadow Rush",
+    "Shadow-Rush (move)"
+  ],
+  "updatedAt": 1773326850
+}

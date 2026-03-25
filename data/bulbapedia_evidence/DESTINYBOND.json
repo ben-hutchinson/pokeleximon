@@ -1,0 +1,38 @@
+{
+  "answerKey": "DESTINYBOND",
+  "answerDisplay": "DESTINY BOND",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Destiny Bond (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Destiny_Bond_(move)",
+  "pageId": 3805,
+  "pageRevisionId": 4500991,
+  "leadText": "Destiny Bond (Japanese: みちづれ Take Along With) is a non-damaging Ghost-type move introduced in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations II to IV 1.2 Generations V and VI 1.3 Generation VII 1.4 Generation VIII 1.5 Generation IX Effect [ edit | edit source ] When Destiny Bond is used, until the user moves again, if the user faints as the direct result of an attack the attacking Pokémon also faints. If the user takes another turn (including \"inactive\" turns such as those spent sleeping or flinching ), the effect disappears. Destiny Bond does not activate from indirect damage such as weather damage, damage from Leech Seed , and Future Sight . Destiny Bond also bypasses Focus Sash , Sturdy , and Magic Guard . Destiny Bond can affect non-adjacent foes. Destiny Bond has no effect if an ally causes the user to faint. Generations II to IV [ edit | edit source ] A Pokémon defeated by this move will faint before the Pokémon that used Destiny Bond. Destiny Bond can be used as the second move of a Pokémon Contest combination , with the user gaining 8 bonus appeal points if Curse , Endure , or Mean Look was used in the previous turn. Generations V and VI [ edit | edit source ] A Pokémon defeated by this move will now faint after the Pokémon that used Destiny Bond, meaning that if Destiny Bond is used by the last Pokémon on a player's team, and the last Pokémon on the opposing team makes it faint, the opposing player will win. Destiny Bond can also be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if any of the moves Encore , Taunt or Torment was used in the prior turn. Generation VII [ edit | edit source ] Destiny Bond will always fail if it was successfully executed on the previous turn. If powered up by a Ghostium Z into Z-Destiny Bond, the user becomes the center of attention , forcing all of the opponent's moves to target the user for the turn, if possible. Generation VIII [ edit | edit source ] If used in a Max Raid Battle , Destiny Bond will fail with the message \"The move was blocked by the power of Dynamax!\" Generation IX [ edit | edit source ] In pre-1.2.0 Versions of Pokémon Scarlet and Violet , if the user Terastallizes the turn after using Destiny Bond, it would fail to make the attacker faint."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A move that causes the opponent to faint if the user faints after using this move. G S C The foe faints if the user does. R S E Colo XD If the user faints, the foe is also made to faint. FR LG If the user faints, the foe delivering the final hit also faints. D P Pt HG SS PBR When this move is used, if the user faints, the foe that landed the knockout hit also faints. B W B2 W2 X Y OR AS When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints. S M US UM P E Sw Sh BD SP LA After using this move, if the user faints, the Pokémon that landed the knockout hit also faints. Its chance of failing rises if it is used in succession. S V If the user is knocked out after using this move, the Pokémon that knocked it out will also faint. This move's chance of failing rises if it is used in succession."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user and the target gain the Destiny Bond status. The target sustains the same damage as the user in this state. MD T D Gives the user and the target Destiny Bond status, which links the the [ sic ] health of the user to the target. If the user takes damage, the target sustains the same amount of damage. MD S Gives the user and the target a Destiny Bond status, which links the health of the user to the target. If the user takes damage, the target sustains the same amount of damage. B S L てきポケモンと リンクして みちづれじょうたいになる リンクした てきポケモンは じぶんが うけたのと おなじダメージを うけるようになる MD GtI It causes the Destiny Bond status condition. The enemy sustains the same amount of damage that you take. S MD It causes the Destiny Bond status condition. The enemy will sustain the same amount of damage that you take. MD RT DX It causes the Destiny Bond status condition. The enemy will sustain the same amount of damage that you take. But be careful, its chance of failing rises if used repeatedly."
+    },
+    {
+      "title": "Pokédex entries",
+      "text": "Pokédex entries [ edit | edit source ] Episode Subject Source Entry SM003 Destiny Bond Rotom Pokédex Destiny Bond, a Ghost-type move. When a Pokémon faints after using this move, the opponent that landed the knockout blow also faints."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Destiny-Bond",
+    "Destiny Bond",
+    "Destiny-Bond (move)"
+  ],
+  "updatedAt": 1773322113
+}

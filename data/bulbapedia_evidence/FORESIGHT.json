@@ -1,0 +1,33 @@
+{
+  "answerKey": "FORESIGHT",
+  "answerDisplay": "FORESIGHT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Foresight (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Foresight_(move)",
+  "pageId": 3804,
+  "pageRevisionId": 4500906,
+  "leadText": "Foresight (Japanese: みやぶる See Through) is a non-damaging Normal-type move introduced in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III 1.3 Generation IV 1.4 Generations V to VII 1.5 Generation VIII onwards Effect [ edit | edit source ] Generation II [ edit | edit source ] When Foresight is used, if the user's accuracy stat stage is less than the target's evasion stat stage, both stat stages will be treated as zero during accuracy checks against the target. This effect remains until the target switches out, but the effect may be passed via Baton Pass . Foresight also removes the Ghost type's immunity to Fighting-type and Normal-type moves for any moves used against the target. Foresight has an accuracy of 100%. Foresight will fail if it is used on a Pokémon already under its effect. In Pokémon Stadium 2 , Foresight's accuracy can be lowered by Bright Powder , Flash , Kinesis , Mud-Slap , Sand Attack and Smokescreen , but not by Double Team , nor Minimize . Generation III [ edit | edit source ] Foresight now causes all accuracy checks against the target to ignore any changes to the target's evasion stat stages. This effect can no longer be Baton Passed . Foresight can also now successfully be used on Pokémon that are already under its effect. Generation IV [ edit | edit source ] Foresight now only causes accuracy checks against the target to ignore changes to its evasion stat stages if its evasion stat stage is greater than 0. Foresight now also bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . Generations V to VII [ edit | edit source ] Foresight can now be reflected with Magic Coat . Foresight will once again fail if used against a Pokémon already under its effect. If powered up by a Normalium Z into Z-Foresight, the user's critical hit ratio increases by two stages. Generation VIII onwards [ edit | edit source ] Foresight cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 Neutralizes the foe's evasive-ness. Also makes the Ghost type vulnerable to physical attacks. G S C Negates accuracy reduction moves. R S E Negates the foe's efforts to heighten evasiveness. FR LG Completely negates the foe's efforts to heighten its ability to evade. Colo XD Foils the target's efforts to heighten evasiveness. D P Pt HG SS PBR Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe. B W B2 W2 Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. It also enables an evasive target to be hit. X Y OR AS S M US UM P E Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Resets the boosted Evasion of the target. Ghost-type foes become exposed. MD T D S Resets any boosted evasiveness of the targeted enemy. It also afflicts a targeted Ghost-type Pokémon with an Exposed status condition. B S L てきポケモンの あがっている かいひを もとにもどす てきポケモンが ゴーストタイプの ばあいは みやぶりじょうたいにかえる MD GtI UNUSED S MD It resets an enemy's boosted evasiveness. If the enemy is a Ghost type, it also makes the enemy exposed, which enables Normal- and Fighting-type moves to hit the enemy."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Foresight",
+    "Foresight (move)"
+  ],
+  "updatedAt": 1773322971
+}

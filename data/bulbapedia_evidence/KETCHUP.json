@@ -1,0 +1,33 @@
+{
+  "answerKey": "KETCHUP",
+  "answerDisplay": "KETCHUP",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Ketchup",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ketchup",
+  "pageId": 279875,
+  "pageRevisionId": 4266449,
+  "leadText": "Ketchup (Japanese: ケチャップ Ketchup) is a type of ingredient introduced in Generation IX.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] It can be used as an ingredient in making a sandwich . It adds the following modifiers to a sandwich it is used on: 8 Sweet Taste 16 Salty Taste 16 Sour Taste -3 Egg Power 12 Exp. Power 21 Raid Power 2 Flying Type Power 2 Poison Type Power"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V A condiment with very salty and tart flavor. While a number of other ingredients go into its signature flavor, the noble tomato is its heart and soul."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price S V $ 110 $ 27 Effect [ edit | edit source ] It can be used as an ingredient in making a sandwich . It adds the following modifiers to a sandwich it is used on: 8 Sweet Taste 16 Salty Taste 16 Sour Taste -3 Egg Power 12 Exp. Power 21 Raid Power 2 Flying Type Power 2 Poison Type Power Description [ edit | edit source ] Games Description S V A condiment with very salty and tart flavor. While a number of other ingredients go into its signature flavor, the noble tomato is its heart and soul. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods S V South Province (Area Three) , West Province (Area Two) Artisan Bakery , Aquiesta Supermarket S V TM Peachy's S V ID Vending machines ( Terarium )"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ketchup",
+    "Ketchup (item)"
+  ],
+  "updatedAt": 1773324117
+}

@@ -1,0 +1,17 @@
+{
+  "answerKey": "SWIRLIX",
+  "answerDisplay": "SWIRLIX",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Fairy type Pokémon introduced in Generation 6.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/swirlix",
+  "extract": "Swirlix is a Fairy type Pokémon introduced in Generation 6 .",
+  "rankPosition": 1,
+  "updatedAt": 1774213110
+}

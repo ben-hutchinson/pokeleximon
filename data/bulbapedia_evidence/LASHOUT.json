@@ -1,0 +1,30 @@
+{
+  "answerKey": "LASHOUT",
+  "answerDisplay": "LASH OUT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Lash Out (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Lash_Out_(move)",
+  "pageId": 252912,
+  "pageRevisionId": 4415757,
+  "leadText": "Lash Out (Japanese: うっぷんばらし Vent Anger) is a damage-dealing Dark-type move introduced during Generation VIII, in The Isle of Armor. It is TM199 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Lash Out deals damage. If any of the user's stats were lowered during the turn this move is used, its base power is doubled to 150. Lash Out does not power up if stat stages are modified directly due to an effect such as Haze , Clear Smog , or Topsy-Turvy . Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Lash Out cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA The user lashes out to vent its frustration toward the target. If its stats were lowered during the turn, the power of this move is doubled. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user lashes out to vent its frustration toward the target. This move's power is doubled if the user's stats were lowered during this turn."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Lash-Out",
+    "Lash Out",
+    "Lash-Out (move)"
+  ],
+  "updatedAt": 1773324271
+}

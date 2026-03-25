@@ -1,0 +1,38 @@
+{
+  "answerKey": "LAVAPLUME",
+  "answerDisplay": "LAVA PLUME",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Lava Plume (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Lava_Plume_(move)",
+  "pageId": 18891,
+  "pageRevisionId": 4493867,
+  "leadText": "Lava Plume (Japanese: ふんえん Volcanic Plume) is a damage-dealing Fire-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Lava Plume damages all adjacent Pokémon in Double and Triple Battles . It also has a 30% chance of burning each of them. Lava Plume will destroy round rocks found in the background of battles . Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 80 96 Cooldown 8s Move wind-up time 12 frames Effect duration —s Additional effect Chance 30% — — May burn the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR An inferno of scarlet flames washes over all Pokémon in battle. It may also inflict burns. B W B2 W2 An inferno of scarlet flames torches everything around the user. It may leave targets with a burn. X Y OR AS The user torches everything around it with an inferno of scarlet flames. This may also leave those hit with a burn. S M US UM P E Sw Sh BD SP LA S V The user torches everything around it in an inferno of scarlet flames. This may also leave those it hits with a burn. ZA The user attacks by unleashing an inferno of scarlet flames across a wide area. This may also leave those hit with a burn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on all enemies within a 1-tile range. It may also afflict the enemies within a 1-tile range with a Burn status condition. It thaws out frozen Pokémon. B S L まわりの てきポケモンに ダメージをあたえる しかも いっていのかくりつで やけどじょうたいにかえる こおっていたポケモンは こおりがとける MD GtI It damages nearby enemies. It could also cause the Burn status condition. With the Burn status, they keep taking damage, and their Attack also goes down slightly. S MD It could leave enemies with a burn and keep damaging them. * It damages nearby enemies. It could also leave them with a burn. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Since Generation VI , Lava Plume has the same description text as Searing Shot ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Lava-Plume",
+    "Lava Plume",
+    "Lava-Plume (move)"
+  ],
+  "updatedAt": 1773324293
+}

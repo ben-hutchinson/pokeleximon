@@ -1,0 +1,17 @@
+{
+  "answerKey": "CHESNAUGHT",
+  "answerDisplay": "CHESNAUGHT",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Grass / Fighting type Pokémon introduced in Generation 6.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/chesnaught",
+  "extract": "Chesnaught is a Grass / Fighting type Pokémon introduced in Generation 6 .",
+  "rankPosition": 1,
+  "updatedAt": 1774210843
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "SHADOWSTORM",
+  "answerDisplay": "SHADOW STORM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Storm (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Storm_(move)",
+  "pageId": 9598,
+  "pageRevisionId": 4430051,
+  "leadText": "Shadow Storm (Japanese: ダークストーム Dark Storm) is one of several Shadow moves available only in Pokémon XD: Gale of Darkness. Like other Shadow moves, it is forgotten and replaced with another move once the Pokémon is purified.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Shadow Storm deals damage to both opponents. As Shadow Pokémon cannot be traded, and since Pokémon Contests do not exist in Pokémon XD: Gale of Darkness, Shadow Storm cannot be used in Contests."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description XD A shadowy aura is used to whip up a vicious tornado."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Shadow Storm has the same power , accuracy , and targeting as Surf in Pokémon XD (the only game this move appears in)."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Storm",
+    "Shadow Storm",
+    "Shadow-Storm (move)"
+  ],
+  "updatedAt": 1773326857
+}

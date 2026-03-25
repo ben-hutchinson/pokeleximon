@@ -1,0 +1,30 @@
+{
+  "answerKey": "MYCELIUMMIGHT",
+  "answerDisplay": "MYCELIUM MIGHT",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Mycelium Might (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mycelium_Might_(Ability)",
+  "pageId": 277824,
+  "pageRevisionId": 3830105,
+  "leadText": "Mycelium Might (Japanese: きんしのちから Hyphal Power) is an Ability introduced in Generation IX. It is the signature Ability of Toedscool and Toedscruel.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with Mycelium Might uses a status move , it always moves last within its priority bracket, and the effects of all Pokémon's ignorable Abilities are ignored for the execution of that move. (Ignorable Abilities are most Abilities that could potentially negatively affect the success, damage, or effects of a move if possessed by the target of a move or its allies.) For example, a Pokémon with Mycelium Might that uses Screech will move last in its priority bracket, but can affect opponents that have Big Pecks , Clear Body , or Soundproof . Outside of battle [ edit | edit source ] Mycelium Might has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with Mycelium Might uses a status move , it always moves last within its priority bracket, and the effects of all Pokémon's ignorable Abilities are ignored for the execution of that move. (Ignorable Abilities are most Abilities that could potentially negatively affect the success, damage, or effects of a move if possessed by the target of a move or its allies.) For example, a Pokémon with Mycelium Might that uses Screech will move last in its priority bracket, but can affect opponents that have Big Pecks , Clear Body , or Soundproof ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mycelium-Might",
+    "Mycelium Might",
+    "Mycelium-Might (Ability)"
+  ],
+  "updatedAt": 1773329047
+}

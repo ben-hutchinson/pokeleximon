@@ -1,0 +1,34 @@
+{
+  "answerKey": "FLASHCANNON",
+  "answerDisplay": "FLASH CANNON",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Flash Cannon (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Flash_Cannon_(move)",
+  "pageId": 15291,
+  "pageRevisionId": 4505284,
+  "leadText": "Flash Cannon (Japanese: ラスターカノン Luster Cannon) is a damage-dealing Steel-type move introduced in Generation IV. It is: TM91 from Generation IV to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TM54 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR70 in Pokémon Sword and Shield. TM093 in Pokémon Scarlet and Violet. TM084 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Flash Cannon does damage and has a 10% chance of lowering the target's Special Defense by one stage. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Flash Cannon has a 20% chance of lowering the target's defensive stats for three turns. Pokémon Legends: Arceus Category Special PP 10 Agile Strong Power 80 60 100 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 20% 20% 40% Turns 3 2 4 ? ? May lower the target's defensive stats Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 80 96 Cooldown 8s Move wind-up time 20 frames Effect duration —s Additional effect Chance 10% Duration 15s 18s — May lower the target's Special Defense."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat. (move) The user gathers all its light energy and releases it in one shot. It may also lower the foe's Sp. Def stat. (TM) PBR The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat. B W B2 W2 The user gathers all its light energy and releases it at once. It may also lower the target's Sp. Def stat. X Y OR AS S V The user gathers all its light energy and releases it at once. This may also lower the target's Sp. Def stat. S M US UM P E Sw Sh BD SP The user gathers all its light energy and releases it all at once. This may also lower the target's Sp. Def stat. LA The user gathers all its light energy and releases it at once. This may also lower the target’s defensive stats. ZA The user attacks by gathering its internal light energy and releasing it all at once. This may also lower the targets' Sp. Def stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. It may also reduce the target's Special Defense by 1 level. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで とくぼうを １だんかいさげる Conq. The user gathers all its light energy and releases it at once. It may also lower the target's Defense. MD GtI It damages an enemy. It could also lower the enemy's Special Defense. S MD It damages an enemy. It could lower the enemy's Sp. Def. * It damages an enemy. It could also lower the enemy's Sp. Def. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Flash-Cannon",
+    "Flash Cannon",
+    "Flash-Cannon (move)"
+  ],
+  "updatedAt": 1773322871
+}

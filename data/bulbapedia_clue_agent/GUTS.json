@@ -1,0 +1,96 @@
+{
+  "answerKey": "GUTS",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4407442,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Guts (Japanese: Guts) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Boosts Attack if the Pokemon has any status problems. MD T D S Boosts the Pokemon's Attack when it has any status problems. B S L Conq. Raises Attack when suffering from a status ailment. MD GtI When the Pokemon is affected by a bad status condition, the power of its physical moves rises. * When the Pokemon is affected by a bad status condition, the power of its physical moves goes up! * S MD When the Pokemon is affected by a bad status condition, the power of its physical moves goes up! MD RT DX When the Pokemon is affected by a bad status condition, like poison or a burn, the power of its physical moves goes up.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] While a Pokemon with this Ability has a status condition (non-volatile status), its Attack is increased by 50%. Additionally, a Pokemon with this Ability does not lose Attack due to burn . The Attack boost from Guts does not activate if a Pokemon is frozen and uses a move that thaws it out, such as Flame Wheel or Flare Blitz . Outside of battle [ edit | edit source ] Guts has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] While a Pokemon with this Ability has a status condition (non-volatile status), its Attack is increased by 50%. Additionally, a Pokemon with this Ability does not lose Attack due to burn . The Attack boost from Guts does not activate if a Pokemon is frozen and uses a move that thaws it out, such as Flame Wheel or Flare Blitz .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Increases Attack to 1.5 with a major status ailment.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "burning ability",
+        "evidence_ref": "Description",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "poisoning ability",
+        "evidence_ref": "Description",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "boosting ability",
+        "evidence_ref": "Description",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "burning ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "burning ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Burning abilities",
+      "Poisoning abilities",
+      "Boosting abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257953
+}

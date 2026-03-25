@@ -1,0 +1,33 @@
+{
+  "answerKey": "DAMP",
+  "answerDisplay": "DAMP",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Damp (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Damp_(Ability)",
+  "pageId": 4083,
+  "pageRevisionId": 4499448,
+  "leadText": "Moisture redirects here. For information about Berries, see Berry → Generation IV. Damp (Japanese: しめりけ Moisture) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Damp prevents all Pokémon from using Self-Destruct , Explosion , Mind Blown , and Misty Explosion ; if a Pokémon attempts to use one of these moves, it will fail and the user will not faint or take damage. Additionally, Damp prevents the Ability Aftermath from doing damage when the Pokémon with Aftermath faints. Damp affects non-adjacent Pokémon in Triple Battles . Outside of battle [ edit | edit source ] Damp has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Damp prevents all Pokémon from using Self-Destruct , Explosion , Mind Blown , and Misty Explosion ; if a Pokémon attempts to use one of these moves, it will fail and the user will not faint or take damage. Additionally, Damp prevents the Ability Aftermath from doing damage when the Pokémon with Aftermath faints. Damp affects non-adjacent Pokémon in Triple Battles ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Prevents any explosions on the dungeon floor. MD T D S Prevents explosions on the dungeon floor. B S L しめりけのポケモンが いるフロアでは ばくはつが おこらなくなる MD GtI Blasts from things like the move Explosion, Blast Trap, or Big Blast Trap will not go off. * No moves like Explosion or traps like Blast Trap and Big Blast Trap will work while the Pokémon is on the floor! * S MD No moves like Explosion or traps like Blast Trap and Big Blast Trap will work while the Pokémon is on the floor! MD RT DX No moves, traps, or items that cause explosions will work on the floor this Pokémon is on."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Damp",
+    "Damp (Ability)"
+  ],
+  "updatedAt": 1773328823
+}

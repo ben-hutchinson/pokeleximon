@@ -1,0 +1,37 @@
+{
+  "answerKey": "SNORE",
+  "answerDisplay": "SNORE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Snore (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Snore_(move)",
+  "pageId": 3783,
+  "pageRevisionId": 4426929,
+  "leadText": "Snore (Japanese: いびき Snore) is a damage-dealing Normal-type move introduced in Generation II. It was TM13 in Generation II and TM24 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III 1.3 Generation IV 1.4 Generation V 1.5 Generation VI onwards Effect [ edit | edit source ] Snore can only be used if the user is currently asleep ; otherwise, it will fail. Snore inflicts damage and has a 30% chance of causing the target to flinch . A Pokémon with the Ability Comatose is also treated as an asleep Pokémon, and can successfully use Snore (or Sleep Talk ) without having the sleep status condition. Snore is a sound-based move . Generation II [ edit | edit source ] Snore has a base power of 40. Snore is affected by King's Rock . If used on a Pokémon behind a substitute , it hits that Pokémon's substitute. Generation III [ edit | edit source ] If Sleep Talk or Snore is used at least once consecutively in the turns right before switching out, the Pokémon will sleep for the same amount of turns as were remaining prior to the usage of those two moves when switched back in. Snore can be used as the second move of a Pokémon Contest combination , with the user gaining 4 bonus appeal points if Rest was used in the previous turn. Generation IV [ edit | edit source ] Turns where Snore is used are always counted towards waking the Pokémon. Generation V [ edit | edit source ] Snore is no longer affected by King's Rock . Generation VI onwards [ edit | edit source ] Snore's power changed from 40 to 50. Snore can now hit Pokémon even if they are behind a substitute. Snore can also be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if Rest was used in the prior turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 Has a one-in-three chance of making the target flinch. Can be used only by a sleeping Pok é mon . G S C An attack useable only while asleep. R S E Colo XD A loud attack that can be used only while asleep. FR LG An attack that can be used only while asleep. It may cause flinching. D P Pt HG SS PBR An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch. B W B2 W2 An attack that can be used only if the user is asleep. The harsh noise may make the target flinch. X Y OR AS An attack that can be used only if the user is asleep. The harsh noise may also make the target flinch. S M US UM P E Sw Sh BD SP LA S V This attack can be used only if the user is asleep. The harsh noise may also make the target flinch."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B If the user is attacked while asleep, it counterattacks. It may also cause the target to cringe, making it incapable of action. MD T D S Lets the user counterattack if hit while sleeping. The counterattack may also afflict the opposing enemy with a Cringe status condition, which makes actions fail. This move has no effect if the Pokémon is awake. B S L ねむっているときに こうげきされると はんげきで ダメージをあたえ しかもいっていの かくりつで ひるみじょうたいに してしまう ふだんは くりだしても なにもおきないが ポケモンタワーで ねむったときには……？ MD GtI UNUSED S MD If you're sleeping, it will be used automatically and will damage enemies around you. It could also make them flinch. Keep in mind that nothing will happen if you use it while you're wide awake."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] All Pokémon with Insomnia or Vital Spirit that were previously able to learn Snore via Move Tutor in Pokémon Emerald were unable to do so from Pokémon Platinum until Pokémon Omega Ruby and Alpha Sapphire ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Snore",
+    "Snore (move)"
+  ],
+  "updatedAt": 1773327316
+}

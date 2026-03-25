@@ -1,0 +1,17 @@
+{
+  "answerKey": "MIGHTYENA",
+  "answerDisplay": "MIGHTYENA",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Dark type Pokémon introduced in Generation 3.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/mightyena",
+  "extract": "Mightyena is a Dark type Pokémon introduced in Generation 3 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212083
+}

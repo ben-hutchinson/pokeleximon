@@ -1,0 +1,30 @@
+{
+  "answerKey": "FLAREBOOST",
+  "answerDisplay": "FLARE BOOST",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Flare Boost (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Flare_Boost_(Ability)",
+  "pageId": 118106,
+  "pageRevisionId": 4407522,
+  "leadText": "Flare Boost (Japanese: ねつぼうそう Thermal Runaway) is an Ability introduced in Generation V. It is the signature Ability of Drifloon and Drifblim.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] While the Pokémon with this Ability is burned , the power of its special moves is increased by 50%. Outside of battle [ edit | edit source ] Flare Boost has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] While the Pokémon with this Ability is burned , the power of its special moves is increased by 50%."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Flare-Boost",
+    "Flare Boost",
+    "Flare-Boost (Ability)"
+  ],
+  "updatedAt": 1773328873
+}

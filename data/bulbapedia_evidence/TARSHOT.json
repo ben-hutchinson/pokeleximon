@@ -1,0 +1,30 @@
+{
+  "answerKey": "TARSHOT",
+  "answerDisplay": "TAR SHOT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Tar Shot (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tar_Shot_(move)",
+  "pageId": 244321,
+  "pageRevisionId": 4403529,
+  "leadText": "Tar Shot (Japanese: タールショット Tar Shot) is a non-damaging Rock-type move introduced in Generation VIII. It is the signature move of Coalossal.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Tar Shot lowers the target's Speed stat by one stage and doubles the effectiveness of Fire-type moves used on the target. Tar Shot will not double the effectiveness of Fire-type moves used on a target that is already under the effect of Tar Shot (but may still lower its Speed). The increased vulnerability to Fire-type attacks does not affect a Pokémon that is Terastallized , however if a Pokémon already affected by the increased vulnerability Terastallizes, the effect will remain. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Tar Shot cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V The user pours sticky tar over the target, lowering the target's Speed stat. The target becomes weaker to Fire-type moves. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Tar-Shot",
+    "Tar Shot",
+    "Tar-Shot (move)"
+  ],
+  "updatedAt": 1773327827
+}

@@ -1,0 +1,33 @@
+{
+  "answerKey": "CHLOROPHYLL",
+  "answerDisplay": "CHLOROPHYLL",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Chlorophyll (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Chlorophyll_(Ability)",
+  "pageId": 4110,
+  "pageRevisionId": 4259051,
+  "leadText": "Chlorophyll (Japanese: ようりょくそ Chlorophyll) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] During harsh sunlight , the Speed stat of Pokémon with this Ability is doubled. Outside of battle [ edit | edit source ] Chlorophyll has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] During harsh sunlight , the Speed stat of Pokémon with this Ability is doubled."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts attack frequency if the weather is sunny. MD T D S Raises the number of moves the Pokémon attempts per turn when it is sunny. B S L ひざしがつよい てんきだと こうげきかいすうが あがる MD GtI In sunny weather, it can use a move 2 times at once for only 1 PP. * When the Pokémon uses a move in the Sunny weather condition, it uses it 2 times at once but only consumes PP for 1 use! * S MD When the Pokémon uses a move when it's sunny, it uses the move 2 times at once but only consumes PP for 1 use! MD RT DX When the Pokémon uses a move during Sunny weather or in Extremely Harsh Sunlight, it uses the move 2 times at once but only consumes PP for 1 use."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Chlorophyll",
+    "Chlorophyll (Ability)"
+  ],
+  "updatedAt": 1774213770
+}

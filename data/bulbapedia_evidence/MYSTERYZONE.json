@@ -1,0 +1,30 @@
+{
+  "answerKey": "MYSTERYZONE",
+  "answerDisplay": "MYSTERY ZONE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Mystery Zone",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mystery_Zone",
+  "pageId": 19823,
+  "pageRevisionId": 4426440,
+  "leadText": "This article is about the header. For the card of the same name from the Skyridge expansion, see Mystery Zone (Skyridge 137). The Mystery Zone (Japanese: なぞの場所 Mystery Place) is a location header that is programmed into every core series game since Generation IV.",
+  "sections": [
+    {
+      "title": "Generation IV",
+      "text": "Contents 1 Generation IV 1.1 Access 1.2 Music 1.3 Behaviors Generation IV [ edit | edit source ] In the Generation IV games, location ID 0x0000 \"Mystery Zone\" is usually seen in some of the areas found in the void but it is also used for certain unused locations as well as the Underground . The Japanese versions of Pokémon Platinum , HeartGold and SoulSilver identify the undefined areas as －－－－ ; however, they still identify a Pokémon 's caught location set to the Mystery Zone as なぞのばしょ . This is because the two are different location IDs that share the name \"Mystery Zone\" in English games; whereas 0x0000 －－－－ is used for map IDs, 0x07DC なぞのばしょ is used for caught Pokémon. Access [ edit | edit source ] The Mystery Zone is normally inaccessible, but can be entered by means of tweaking . In earlier copies of the Japanese versions of Pokémon Diamond and Pearl , the Surf glitch is an alternative method. It can also be accessed with the use of cheating devices. Music [ edit | edit source ] In Pokémon Diamond, Pearl , and Platinum , the background music theme is usually the unused copy of Route 206 (Day) , which is identified internally as SEQ_DUMMY . By 7GamerMinutes: Video Game Music In Pokémon HeartGold and SoulSilver , the background music theme is also SEQ_DUMMY but it is a copy of Route 29 instead. It is not affected by the GB Sounds . Behaviors [ edit | edit source ] Pre-release screenshot of Route 219 , depicting the unused tileset. Route 219 in Diamond and Pearl Left: regular tileset Right: Mystery Zone/unused tileset Upon entering a map ID 0 \"Mystery Zone\" and accessing a location with a different map ID, the tilesets will not be updated even if the new area is programmed to use a different tileset. Simply refreshing the graphics will solve this. Sinnoh 's Mystery Zone has its own tileset which can be seen by entering it from the overworld, refreshing the graphics there, and then returning to the overworld. This tileset is actually a slightly distorted depiction of the tileset shown in a pre-release screenshot of Pokémon Diamond and Pearl , indicating that it is a leftover from the development period . It also remains within the internal data of Pokémon HeartGold and SoulSilver . On the 1.0 release of the Japanese versions of Diamond and Pearl, both the menu and the Explorer Kit are usable in a Mystery Zone. On later releases, the localizations, and Pokémon Platinum , neither the menu or the Explorer Kit can be opened (in Pokémon HeartGold and SoulSilver, the touchscreen menu is locked), although a registered Key Item like the Town Map can still be used to refresh the graphics in the area at any time."
+    },
+    {
+      "title": "Access",
+      "text": "Access [ edit | edit source ] The Mystery Zone is normally inaccessible, but can be entered by means of tweaking . In earlier copies of the Japanese versions of Pokémon Diamond and Pearl , the Surf glitch is an alternative method. It can also be accessed with the use of cheating devices."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mystery-Zone",
+    "Mystery Zone",
+    "Mystery-Zone (location)"
+  ],
+  "updatedAt": 1773329048
+}

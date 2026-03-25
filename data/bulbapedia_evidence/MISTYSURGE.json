@@ -1,0 +1,30 @@
+{
+  "answerKey": "MISTYSURGE",
+  "answerDisplay": "MISTY SURGE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Misty Surge (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Misty_Surge_(Ability)",
+  "pageId": 216830,
+  "pageRevisionId": 4259130,
+  "leadText": "Misty Surge (Japanese: ミストメイカー Mist Maker) is an Ability introduced in Generation VII. Prior to Generation VIII, it was the signature Ability of Tapu Fini. In Generation IX, it is the signature Ability of Galarian Weezing.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with Misty Surge enters the battle, it creates the effect of the move Misty Terrain on the battlefield. Outside of battle [ edit | edit source ] Misty Surge has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with Misty Surge enters the battle, it creates the effect of the move Misty Terrain on the battlefield."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Misty-Surge",
+    "Misty Surge",
+    "Misty-Surge (Ability)"
+  ],
+  "updatedAt": 1773329034
+}

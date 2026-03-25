@@ -1,0 +1,82 @@
+{
+  "answerKey": "IRONBARBS",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4514028,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Iron Barbs (Japanese: Iron Thorns) is an Ability introduced in Generation V. Prior to Generation VII, it was the signature Ability of Ferroseed and Ferrothorn.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD GtI Unavailable S MD When the Pokemon is hit with a contact move like Tackle or Scratch, the attacker is damaged a little!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with this Ability is hit by a move that makes contact , the attacking Pokemon takes damage equal to 1/8 of its own maximum HP . If Iron Barbs causes both the Pokemon with this Ability and the attacking Pokemon to faint, then the attacking Pokemon will faint first. If a Pokemon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), each hit will activate this Ability. Outside of battle [ edit | edit source ] Iron Barbs has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with this Ability is hit by a move that makes contact , the attacking Pokemon takes damage equal to 1/8 of its own maximum HP . If Iron Barbs causes both the Pokemon with this Ability and the attacking Pokemon to faint, then the attacking Pokemon will faint first. If a Pokemon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), each hit will activate this Ability.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Damages attacking Pokemon for 1/8 their max HP on contact.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "Description",
+        "specificity": 0.86
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "Description",
+        "mystery_score": 0.76,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Damages foes on contact KO",
+        "evidence_ref": "Description",
+        "mystery_score": 0.7,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Contact-backlash trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "contact backlash",
+      "contact punisher"
+    ],
+    "connections_descriptors": [
+      "Contact-punishing abilities",
+      "Gen V abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257957
+}

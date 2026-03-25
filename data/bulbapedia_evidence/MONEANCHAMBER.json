@@ -1,0 +1,30 @@
+{
+  "answerKey": "MONEANCHAMBER",
+  "answerDisplay": "MONEAN CHAMBER",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Tanoby Chambers",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tanoby_Chambers",
+  "pageId": 12951,
+  "pageRevisionId": 4487355,
+  "leadText": "The Tanoby Chambers (Japanese: アスカナのせきしつ Asukana Stone Chambers) are a strange and surreal place, ruins whose purpose has long since been forgotten. However, once the Tanoby Key in Sevault Canyon is completed, Trainers will find the true purpose of these chambers: a home for Unown. From east to west, they are named Monean, Liptoo, Weepth, Dilford, Scufib, Rixy, and Viapois. The top band of each of the chambers is a different color—the colors being, from east to west, black, gray, brown, blue, yellow, green, and purple. The chambers are named after plants.",
+  "sections": [
+    {
+      "title": "Pokémon",
+      "text": "Pokémon [ edit | edit source ] In order of Chamber from east to west: Pokémon Games Location Levels Rate Monean Chamber Unown FR LG Cave 25 99% Unown FR LG Cave 25 1% Liptoo Chamber Unown FR LG Cave 25 50% Unown FR LG Cave 25 30% Unown FR LG Cave 25 14% Unown FR LG Cave 25 5% Unown FR LG Cave 25 1% Weepth Chamber Unown FR LG Cave 25 60% Unown FR LG Cave 25 30% Unown FR LG Cave 25 8% Unown FR LG Cave 25 2% Dilford Chamber Unown FR LG Cave 25 40% Unown FR LG Cave 25 20% Unown FR LG Cave 25 20% Unown FR LG Cave 25 14% Unown FR LG Cave 25 6% Scufib Chamber Unown FR LG Cave 25 40% Unown FR LG Cave 25 25% Unown FR LG Cave 25 20% Unown FR LG Cave 25 13% Unown FR LG Cave 25 2% Rixy Chamber Unown FR LG Cave 25 50% Unown FR LG Cave 25 30% Unown FR LG Cave 25 10% Unown FR LG Cave 25 8% Unown FR LG Cave 25 2% Viapois Chamber Unown FR LG Cave 25 99% Unown FR LG Cave 25 1% A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here."
+    },
+    {
+      "title": "Layout",
+      "text": "Layout [ edit | edit source ] Version Monean Chamber Liptoo Chamber Weepth Chamber Dilford Chamber Scufib Chamber Rixy Chamber Viapois Chamber FireRed LeafGreen"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Monean-Chamber",
+    "Monean Chamber",
+    "Monean-Chamber (location)"
+  ],
+  "updatedAt": 1773329036
+}

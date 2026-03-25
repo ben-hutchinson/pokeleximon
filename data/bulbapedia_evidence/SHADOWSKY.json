@@ -1,0 +1,30 @@
+{
+  "answerKey": "SHADOWSKY",
+  "answerDisplay": "SHADOW SKY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Sky (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Sky_(move)",
+  "pageId": 9597,
+  "pageRevisionId": 4483170,
+  "leadText": "Shadow Sky (Japanese: ダークウェザー Dark Weather) is one of several Shadow moves available only in Pokémon XD: Gale of Darkness. Like other Shadow moves, it is forgotten and replaced with another move once the Pokémon is purified.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Shadow Sky covers the field in a shadowy aura that lasts for five turns. While in effect, all non-Shadow Pokémon (except those in the semi-invulnerable turn of Dig or Dive) are damaged at the end of each turn by 1/16 of their maximum HP, Shadow moves have their power boosted by 50% (although this part is not mentioned in game), and Weather Ball changes to become typeless and has its power doubled."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description XD Darkness hurts all but Shadow Pokémon for 5 turns."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Sky",
+    "Shadow Sky",
+    "Shadow-Sky (move)"
+  ],
+  "updatedAt": 1773326854
+}

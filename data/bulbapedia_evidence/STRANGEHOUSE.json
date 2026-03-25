@@ -1,0 +1,30 @@
+{
+  "answerKey": "STRANGEHOUSE",
+  "answerDisplay": "STRANGE HOUSE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Strange House",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Strange_House",
+  "pageId": 163797,
+  "pageRevisionId": 4309026,
+  "leadText": "Not to be confused with Shady House. The Strange House (Japanese: ストレンジャーハウス Stranger House) is a lone house at the base of Reversal Mountain. The Strange House is actively haunted by the ghost of a young girl, the same one who appeared on Marvelous Bridge in Pokémon Black and White. This ghost intentionally arranges furniture to force the player to enter various rooms. The player is able to leave the house at any time, though. At the end, the player will find the Lunar Wing.",
+  "sections": [
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Spell Tag Library (basement), between the rows of bookshelves B2 W2 Full Heal First floor, in the western room B2 W2 Dusk Stone Library (basement), northwest of the eastern stairs B2 W2 Lunar Wing Second floor, in the middle room B2 W2 Rare Candy Second floor, in the eastern room B2 W2"
+    },
+    {
+      "title": "Pokémon",
+      "text": "Pokémon [ edit | edit source ] Pokémon Games Location Levels Rate Raticate B2 W2 Inside 32-34 15% Golbat B2 W2 Inside 32-33 15% Banette B2 W2 Inside 32-34 15% Gothita B2 W2 Inside 31 20% Gothorita B2 W2 Inside 33-34 5% Solosis B2 W2 Inside 31 20% Duosion B2 W2 Inside 34 5% Litwick B2 W2 Inside 31-33 30% A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Strange-House",
+    "Strange House",
+    "Strange-House (location)"
+  ],
+  "updatedAt": 1773329245
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "TANGLEDFEET",
+  "answerDisplay": "TANGLED FEET",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Tangled Feet (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tangled_Feet_(Ability)",
+  "pageId": 12231,
+  "pageRevisionId": 4465206,
+  "leadText": "Tangled Feet (Japanese: ちどりあし Tottering Steps) is an Ability introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] While a Pokémon with this Ability is confused , moves targeting it have their accuracy halved. Outside of battle [ edit | edit source ] Tangled Feet has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] While a Pokémon with this Ability is confused , moves targeting it have their accuracy halved."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the Pokémon's evasiveness when it is confused or cross-eyed. B S L こんらんしているか まどわしじょうたいに なると かいひしやすくなる MD GtI Unavailable S MD When the Pokémon is confused, its evasiveness goes up sharply! MD RT DX When the Pokémon is Confused, its evasiveness goes up sharply."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Tangled-Feet",
+    "Tangled Feet",
+    "Tangled-Feet (Ability)"
+  ],
+  "updatedAt": 1773329266
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "TROPKICK",
+  "answerDisplay": "TROP KICK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Trop Kick (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Trop_Kick_(move)",
+  "pageId": 216511,
+  "pageRevisionId": 4403477,
+  "leadText": "Trop Kick (Japanese: トロピカルキック Tropical Kick) is a damage-dealing Grass-type move introduced in Generation VII. It is the signature move of Tsareena.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Trop Kick deals damage and lowers the target's Attack by one stage. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Trop Kick cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA S V The user lands an intense kick of tropical origins on the target. This also lowers the target's Attack stat. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move's name may be a pun on the phrase \"drop kick,\" an attack that involves the user jumping and kicking the opponent with both feet as they fall."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Trop-Kick",
+    "Trop Kick",
+    "Trop-Kick (move)"
+  ],
+  "updatedAt": 1773328114
+}

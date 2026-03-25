@@ -1,0 +1,30 @@
+{
+  "answerKey": "SPEEDSWAP",
+  "answerDisplay": "SPEED SWAP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Speed Swap (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Speed_Swap_(move)",
+  "pageId": 218361,
+  "pageRevisionId": 4412570,
+  "leadText": "Speed Swap (Japanese: スピードスワップ Speed Swap) is a non-damaging Psychic-type move introduced in Generation VII. It was TM62 in Pokémon Sword and Shield. In Generation IX, it is the signature move of Rabsca.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Speed Swap exchanges the Speed stats of the user and the target. This move does not swap in-battle speed modifiers, such as Abilities and stat stages. Speed Swap bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . If powered up by a Psychium Z into Z-Speed Swap, the user's Speed stat is raised by one stage. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Speed Swap cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA S V The user exchanges Speed stats with the target. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Speed-Swap",
+    "Speed Swap",
+    "Speed-Swap (move)"
+  ],
+  "updatedAt": 1773327417
+}

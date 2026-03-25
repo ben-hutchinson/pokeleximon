@@ -1,0 +1,16 @@
+{
+  "answerKey": "FAIRYAURA",
+  "answerDisplay": "FAIRY AURA",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen VI ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Fairy_Aura_(Ability)",
+  "extract": "Fairy Aura (Japanese: フェアリーオーラ Fairy Aura) is an Ability introduced in Generation VI. It is the signature Ability of Xerneas.",
+  "updatedAt": 1774258442
+}

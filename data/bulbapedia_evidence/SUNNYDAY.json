@@ -1,0 +1,38 @@
+{
+  "answerKey": "SUNNYDAY",
+  "answerDisplay": "SUNNY DAY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sunny Day (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sunny_Day_(move)",
+  "pageId": 3852,
+  "pageRevisionId": 4452368,
+  "leadText": "Sunny Day (Japanese: にほんばれ Clear Sky) is a non-damaging Fire-type move introduced in Generation II. It is: TM11 from Generation II to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TM34 in Pokémon Sword and Shield. TM049 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generations III and IV 1.3 Generation V to VIII 1.4 Generation IX Effect [ edit | edit source ] Generation II [ edit | edit source ] When this move is used, the sunlight will brighten the field. This effect will last for 5 turns, during which Pokémon cannot be frozen (though this does not affect when an already-frozen Pokémon thaws). This clears any other type of weather and is usable even when it's already sunny. While Sunny Day is in effect, the base power of Fire-type moves will be increased by 50%, and the base power of Water-type moves will be decreased by 50%. In addition to this, the moves Synthesis , Morning Sun , and Moonlight will recover twice as much HP as under clear conditions, Solar Beam will not require a turn to charge, and the accuracy of Thunder is lowered to 50%. Generations III and IV [ edit | edit source ] This move now fails when the weather is sunny. Synthesis , Morning Sun , and Moonlight will now instead recover ⅔ of the user's HP in harsh sunlight. Additionally, Castform (due to its Ability , Forecast ) and Weather Ball become Fire-type. If a Heat Rock is held when Sunny Day is used, the duration of sunlight lengthens from 5 to 8 turns. Additionally, the following Abilities will have the effects listed while the sun is shining: Pokémon with the Chlorophyll Ability will have their Speed doubled. Pokémon with the Dry Skin Ability will lose ⅛ of their maximum HP at the end of each turn. Pokémon with the Flower Gift Ability will raise the team's Attack and Special Defense by 50%. Cherrim will transform into its Sunshine Form , though this is not tied to Flower Gift itself in Generation IV. Pokémon with the Solar Power Ability will have their Special Attack raised by 50% and lose ⅛ of their HP each turn. Pokémon with the Leaf Guard Ability will be immune to being inflicted with non-volatile status conditions . Sunny Day can be used as the first move of a Pokémon Contest combination , causing Blast Burn , Blaze Kick , Ember , Eruption , Fire Blast , Fire Punch , Fire Spin , Flame Wheel , Flamethrower , Heat Wave , Moonlight , Morning Sun , Overheat , Sacred Fire , SolarBeam , Synthesis , Weather Ball , and Will-O-Wisp to score double the normal appeal if used in the next turn. Generation V to VIII [ edit | edit source ] Growth now raises the user's Attack and Special Attack by two stages instead of just one. Hurricane 's accuracy will be lowered, similarly to Thunder . Harvest will never fail to restore a Berry. If heavy rain , extremely harsh sunlight , or strong winds are present, Sunny Day will fail. While Sunny Day is in effect, Solar Blade will not require a turn to charge. Sunny Day can also be used as part of a Contest Spectacular combination , causing certain moves ( Growth , Moonlight , Morning Sun , Solar Beam , Synthesis , and Weather Ball ) to give an extra three appeal points if used in the next turn. If powered up by a Firium Z into Z-Sunny Day, the user's Speed stat is raised by one stage. Generation IX [ edit | edit source ] Sunny Day can no longer override weather in the overworld."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 Makes the weather sunny for five turns. When sunny, Fire -type moves are more powerful. G S C Boosts fire-type moves for 5 turns. R S E Colo XD Boosts the power of Fire -type moves for 5 turns. (move) Raises the power of Fire -type moves for 5 turns. (TM) FR LG The sun blazes for five turns, powering up Fire -type moves. D P Pt HG SS PBR B W B2 W2 X Y OR AS The user intensifies the sun for five turns, powering up Fire-type moves. S M US UM P E Sw Sh BD SP LA The user intensifies the sun for five turns, powering up Fire-type moves. It lowers the power of Water-type moves. S V The user intensifies the sun for five turns, powering up Fire-type attacks. The sunlight also lowers the power of Water-type attacks."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Changes the dungeon floor's weather to Sunny over several turns. MD T D S Changes the floor's weather to a Sunny condition. B S L フロアの てんきを 『ひざしがつよい』にかえる MD GtI It changes the floor's weather to a Sunny condition. Under a Sunny condition, the power of Fire-type moves goes up, and the power of Water-type moves goes down. S MD It changes the floor's weather to sunny. When it's sunny, the power of Fire-type moves goes up and the power of Water-type moves goes down."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Pokémon Sun and Moon , Morelull can learn Sunny Day via TM, but Shiinotic can't. This was fixed in Pokémon Ultra Sun and Ultra Moon ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sunny-Day",
+    "Sunny Day",
+    "Sunny-Day (move)"
+  ],
+  "updatedAt": 1773327667
+}

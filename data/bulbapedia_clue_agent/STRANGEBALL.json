@@ -1,0 +1,67 @@
+{
+  "answerKey": "STRANGEBALL",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4467764,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "event items",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Contents 1 Effect 1.1 Manual activation 1.1.1 Legends: Arceus 1.1.2 Scarlet and Violet 1.2 As a Pokemon's Pok Ball Effect [ edit | edit source ] Manual activation [ edit | edit source ] Legends: Arceus [ edit | edit source ] The Strange Ball cannot be legitimately obtained as an item, so it cannot normally be used. If it were to be obtained by hacking , when used from the satchel in a wild encounter, it would attempt to catch the wild Pokemon with the same catch rate as a typical Hisuian Pok Ball (0.75). Unlike other Pok Balls in Legends: Arceus, the Strange Ball cannot be thrown by the player in the overworld, as it only appears in the satchel menu, but not in the throwable item menu in the lower-right of the screen. It is only usable if selected from the satchel menu during a battle. Scarlet and Violet [ edit | edit source ] The Strange Ball cannot be legitimately obtained as an item, so it cannot normally be used. If it were to be obtained by hacking , when used against a wild encounter, it would attempt to catch the wild Pokemon with the same catch rate as a typical Pok Ball (1). As a Pokemon's Pok Ball [ edit | edit source ] From Generation VI onward, bred Pokemon inherit their Pok Ball from their parents. However, any offspring that would inherit a Strange Ball, Master Ball , or Cherish Ball will instead be contained in a standard Pok Ball .",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Special Poke Ball",
+        "evidence_ref": "lead",
+        "specificity": 0.68
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Event-only key item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.78,
+        "style": "family"
+      },
+      {
+        "text": "Mythic event item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.74,
+        "style": "family"
+      },
+      {
+        "text": "Special Poke Ball",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.68,
+        "style": "family"
+      },
+      {
+        "text": "Special capture ball",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.66,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "special ball"
+    ],
+    "connections_descriptors": [
+      "Special Poke Balls"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774258408
+}

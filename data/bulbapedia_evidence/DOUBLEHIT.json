@@ -1,0 +1,38 @@
+{
+  "answerKey": "DOUBLEHIT",
+  "answerDisplay": "DOUBLE HIT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Double Hit (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Double_Hit_(move)",
+  "pageId": 17432,
+  "pageRevisionId": 4500966,
+  "leadText": "Double Hit (Japanese: ダブルアタック Double Attack) is a damage-dealing Normal-type multistrike move introduced in Generation IV. It is TM132 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation V onwards 1.2.1 Pokémon Legends: Arceus 1.3 Other effects Effect [ edit | edit source ] Generation IV [ edit | edit source ] Double Hit inflicts damage, hitting twice per use. Each strike has an equal chance to be a critical hit . Double Hit will hit again if the first strike breaks a substitute. Bide and Counter will only acknowledge the second strike of this move. If the target has an Ability that activates upon contact , each strike counts individually, enabling the Ability to activate twice. If the user is holding a King's Rock or Razor Fang , each consecutive hit has an equal chance to cause the opponent to flinch . Generation V onwards [ edit | edit source ] If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokémon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokémon has a maximum HP of 1. If the target has Weak Armor or Stamina , each strike will activate it. If the target is holding a Rocky Helmet , the user is damaged for each strike. Pokémon Legends: Arceus [ edit | edit source ] Double Hit is now a status move with 10 PP that causes the user to become Primed, causing its attack moves to deal 50% more damage. It also increases the user's action speed. Pokémon Legends: Arceus Category Status PP 10 Agile Strong Power — — — Accuracy —% —% —% Action speed modifier Self -3 -4 +5 Target 0 0 0 Additional effect Turns 5 4 7 ? ? ? ? User becomes Primed Other effects [ edit | edit source ] An Aipom that knows this move will evolve into Ambipom when leveled up."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt PBR The user slams the foe with a tail, etc. The target is hit twice in a row. HG SS The user slams the foe with a long tail, vines, etc. The target is hit twice in a row. B W B2 W2 The user slams the target with a long tail, vines, or tentacle. The target is hit twice in a row. X Y OR AS S M US UM P E Sw Sh BD SP The user slams the target with a long tail, vines, or a tentacle. The target is hit twice in a row. LA The user adapts a hard-hitting stance to increase the damage dealt by its moves by 50 percent. S V The user slams the target with a tail or the like. The target is hit twice in a row. ZA The user attacks with two strikes dealt with a tail or the like, one after the other."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target using 2 attacks in a single turn. B S L てきポケモンに ２かいれんぞくで ダメージを あたえる MD GtI S MD MD RT DX It damages an enemy 2 times in a row."
+    },
+    {
+      "title": "Pokédex entries",
+      "text": "Pokédex entries [ edit | edit source ] Episode Subject Source Entry DP060 Double Hit Dawn's Pokédex Double Hit, a single attack that causes damage twice."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Double-Hit",
+    "Double Hit",
+    "Double-Hit (move)"
+  ],
+  "updatedAt": 1773322220
+}

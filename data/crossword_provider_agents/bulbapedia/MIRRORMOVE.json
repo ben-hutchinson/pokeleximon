@@ -1,0 +1,16 @@
+{
+  "answerKey": "MIRRORMOVE",
+  "answerDisplay": "MIRROR MOVE",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Copies the foe's last move",
+  "score": 102.44,
+  "approved": true,
+  "qualityFlags": [
+    "answer_fragment_leak"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Mirror_Move_(move)",
+  "extract": "Mirror Move (Japanese: オウムがえし Parrot Mimicry) is a non-damaging Flying-type move introduced in Generation I.",
+  "updatedAt": 1774258385
+}

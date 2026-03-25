@@ -1,0 +1,37 @@
+{
+  "answerKey": "AROMATHERAPY",
+  "answerDisplay": "AROMATHERAPY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Aromatherapy (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Aromatherapy_(move)",
+  "pageId": 3923,
+  "pageRevisionId": 4500987,
+  "leadText": "Aromatherapy (Japanese: アロマセラピー Aromatherapy) is a non-damaging Grass-type move introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations III and IV 1.2 Generation V 1.3 Generation VI-VIII 1.4 Generation IX Effect [ edit | edit source ] Aromatherapy cures the user, all Pokémon in the user's party, and the user's allies, of all status conditions ( sleep , poison , paralysis , freeze , and burn ). Generations III and IV [ edit | edit source ] Aromatherapy affects Pokémon even if they are behind a substitute . Generation V [ edit | edit source ] Aromatherapy now lists Pokémon that are healed. Aromatherapy does not activate Sap Sipper . Generation VI-VIII [ edit | edit source ] Aromatherapy will now trigger Sap Sipper on an ally. Aromatherapy cannot affect allies behind a substitute, but still affects the user even if it is behind a substitute. If powered up by a Grassium Z it turns into Z-Aromatherapy, which fully restores the user's HP. Generation IX [ edit | edit source ] Aromatherapy cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Heals all status problems with a soothing scent. FR LG A soothing scent is released to heal all status problems in the user's party. D P Pt HG SS PBR B W B2 W2 The user releases a soothing scent that heals all status problems affecting the user's party. X Y OR AS S M US UM P E Sw Sh BD SP LA The user releases a soothing scent that heals all status conditions affecting the user's party. S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Heals all status problems of the user and team members in the room. B S L おなじへやの なかまポケモンと じぶんの わるいじょうたいを すべてかいふくする MD GtI It heals all the bad status conditions of you and your teammates in the same room. S MD MD RT DX If you and your teammates in the same room have any bad status conditions, all of the bad status conditions will be removed."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Prior to Version 1.2.0, despite Aromatherapy being unavailable in Scarlet and Violet , it was accidentally not removed from Ice Rider Calyrex 's level-up moveset. In the 1.2.0 update, it was replaced with Psychic Terrain , matching what Calyrex's other forms learned at that level."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Aromatherapy",
+    "Aromatherapy (move)"
+  ],
+  "updatedAt": 1773320895
+}

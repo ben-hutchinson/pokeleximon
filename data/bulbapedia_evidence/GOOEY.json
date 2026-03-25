@@ -1,0 +1,29 @@
+{
+  "answerKey": "GOOEY",
+  "answerDisplay": "GOOEY",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Gooey (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Gooey_(Ability)",
+  "pageId": 185061,
+  "pageRevisionId": 4259101,
+  "leadText": "Gooey (Japanese: ぬめぬめ Gooey) is an Ability introduced in Generation VI. Prior to Generation IX, it was the signature Ability of Goomy's evolutionary line.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with this Ability is hit by a move that makes contact , the Speed of the attacking Pokémon is decreased by one stage. If a Pokémon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), each hit activates this Ability. Outside of battle [ edit | edit source ] Gooey has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with this Ability is hit by a move that makes contact , the Speed of the attacking Pokémon is decreased by one stage. If a Pokémon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), each hit activates this Ability."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Gooey",
+    "Gooey (Ability)"
+  ],
+  "updatedAt": 1773328903
+}

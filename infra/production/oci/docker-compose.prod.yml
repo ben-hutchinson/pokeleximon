@@ -48,6 +48,7 @@ services:
       ARTIFACT_STORAGE_BACKEND: local
       ARTIFACT_STORAGE_DIR: /var/lib/pokeleximon/artifacts
       RATE_LIMIT_TRUST_X_FORWARDED_FOR: "true"
+      RATE_LIMIT_TRUST_X_FORWARDED_FOR_HOPS: "1"
       CROSSWORD_CSV_PATH: /app/data/wordlist_crossword_answer_clue.csv
     depends_on:
       db:
@@ -62,7 +63,7 @@ services:
         - CMD
         - python
         - -c
-        - import urllib.request; urllib.request.urlopen("http://127.0.0.1:8000/health", timeout=5)
+        - import urllib.request; urllib.request.urlopen("http://127.0.0.1:8000/health/ready", timeout=5)
       interval: 30s
       timeout: 5s
       retries: 5

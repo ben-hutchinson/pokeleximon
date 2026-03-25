@@ -1,0 +1,30 @@
+{
+  "answerKey": "DYNAMAXCANNON",
+  "answerDisplay": "DYNAMAX CANNON",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Dynamax Cannon (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dynamax_Cannon_(move)",
+  "pageId": 244316,
+  "pageRevisionId": 4447970,
+  "leadText": "Dynamax Cannon (Japanese: ダイマックスほう Daimax Cannon) is a damage-dealing Dragon-type move introduced in Generation VIII. It is one of the signature moves of Eternatus.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] Dynamax Cannon deals damage. If the target is Dynamaxed or Gigantamaxed , its damage is doubled. The bonus does not apply to Eternamax Eternatus , despite its similarities to a Gigantamaxed Pokémon. Encore fails if the target's last move was Dynamax Cannon. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Dynamax Cannon cannot be selected in a battle. Generation IX [ edit | edit source ] As there is no Dynamax mechanic in Generation IX , Dynamax Cannon now deals damage with no secondary effect."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA The user unleashes a strong beam from its core. This move deals twice the damage if the target is Dynamaxed. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. S V The user condenses energy within its body and unleashes that energy from its core to inflict damage."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Dynamax-Cannon",
+    "Dynamax Cannon",
+    "Dynamax-Cannon (move)"
+  ],
+  "updatedAt": 1773322437
+}

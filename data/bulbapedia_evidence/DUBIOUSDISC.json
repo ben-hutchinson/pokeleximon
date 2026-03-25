@@ -1,0 +1,38 @@
+{
+  "answerKey": "DUBIOUSDISC",
+  "answerDisplay": "DUBIOUS DISC",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Dubious Disc",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dubious_Disc",
+  "pageId": 19811,
+  "pageRevisionId": 4504924,
+  "leadText": "The Dubious Disc (Japanese: あやしいパッチ Dubious Patch) is a type of held item introduced in Generation IV. It allows Porygon2 to evolve into Porygon-Z.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Causes Porygon2 to evolve into Porygon-Z when traded while holding it. This consumes the Dubious Disc. In Pokémon Legends: Arceus , due to the absence of held items, the Dubious Disc simply needs to be used on Porygon2 to trigger the Evolution, which consumes the item."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If the player offers both a Link Cable and Dubious Disc at Luminous Spring , Porygon2 can be evolved into Porygon-Z . This consumes the Link Cable and Dubious Disc. If thrown, it will deal 1 damage (2 if sticky ). Using this item in a dungeon will consume it, with no effect."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP A transparent device overflowing with dubious data. Its producer is unknown. LA S V ZA A transparent device overflowing with dubious data. It's loved by a certain Pokémon."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S An enigmatic disc that overflows with dubious data. It allows a certain kind of Pokémon to evolve."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Dubious-Disc",
+    "Dubious Disc",
+    "Dubious-Disc (item)"
+  ],
+  "updatedAt": 1773322378
+}

@@ -1,0 +1,117 @@
+{
+  "answerKey": "RAINBOWPASS",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4266849,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "plot advancement",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen III plot advancement",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Grants access to all of the Sevii Islands.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Story or event key item",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "specificity": 0.8
+      },
+      {
+        "text": "Event-only distribution item",
+        "evidence_ref": "lead",
+        "specificity": 0.82
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Story or event key item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "family"
+      },
+      {
+        "text": "Unlocking key item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "family"
+      },
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Progress-gating key item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Event-only distribution item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.7,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Limited event key item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Story-progress key item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.74,
+        "style": "family"
+      },
+      {
+        "text": "Plot-critical key",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "unlocking item",
+      "event item"
+    ],
+    "connections_descriptors": [
+      "Key items",
+      "Gen III items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257999
+}

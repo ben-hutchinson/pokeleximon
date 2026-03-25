@@ -1,0 +1,37 @@
+{
+  "answerKey": "MEMENTO",
+  "answerDisplay": "MEMENTO",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Memento (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Memento_(move)",
+  "pageId": 3873,
+  "pageRevisionId": 4463023,
+  "leadText": "Memento (Japanese: おきみやげ Memento) is a non-damaging Dark-type move introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III 1.2 Generation IV 1.3 Generation V onward Effect [ edit | edit source ] Generation III [ edit | edit source ] Memento causes the user to faint and in return lowers the Attack and Special Attack stat of the target by two stages each. Memento bypasses accuracy checks to always hit, even if the target is in the semi-invulnerable turn of a move. The user will always faint even if it is blocked by a protection move . The user will also faint even if Memento fails (such as if it is blocked by a substitute ) or if it is unable to affect the target's stats (such as due to Clear Body or Mist ), but the user will not faint if Memento is unable to affect the target's stats due to both stats already being at -6. Generation IV [ edit | edit source ] Memento no longer bypasses accuracy checks, and has an accuracy of 100. The user will now faint even if Memento is unable to affect the target's stats due to both stats already being at -6 or if the move misses. Generation V onward [ edit | edit source ] The user will not faint if Memento fails (such as if it has no target, the move misses, or is blocked by a substitute ), if the target is immune from being a Dark-type and Memento's priority is boosted by the user's Prankster (from Generation VII onward), or if it is blocked by a protection move . However, the user will faint if Memento is unable to affect the target's stats but still hits (such as due to Clear Body or if both stats are already at -6). Memento can also be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if any of the moves Block , Mean Look or Spider Web was used in the prior turn. If powered up by a Darkinium Z into Z-Memento, if a Pokémon is switched in to replace the user the same turn, that Pokémon has its HP fully restored (even if Z-Memento was not used successfully after gaining its Z-Power effect). Due to a glitch , this effect is not applied in version 1.0 of Sun and Moon. If used in a Max Raid Battle or Tera Raid Battle , Memento fails, and the user does not faint."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E The user faints and lowers the foe's abilities. FR LG The user faints, but sharply lowers the foe's Attack and Sp. Atk . Colo XD The user faints. Sharply lowers the target's stats. D P Pt HG SS PBR B W B2 W2 The user faints when using this move. In return, it harshly lowers the target's Attack and Sp. Atk. X Y OR AS S M US UM P E Sw Sh BD SP LA The user faints when using this move. In return, this harshly lowers the target's Attack and Sp. Atk stats. S V The user faints. In return, the target's Attack and Sp. Atk stats are harshly lowered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Sharply reduces the Attack and Special Attack of all foes in the room. It also cuts the user's HP to one and warps the user to a different place on the floor. MD T D Greatly reduces the Attack and Special Attack of all enemies in the room by 2 levels. It also cuts the user's HP to 1, then warps the user to a different tile on the floor. MD S Greatly reduces the Attack and Special Attack of all enemies in the room. It also cuts the user's HP to 1, then warps the user to a different tile on the floor. B S L おなじへやの てきポケモンの こうげきと とくこうを おおきくさげるが じぶんの ＨＰが １になって ワープしてしまう MD GtI It sharply lowers the Attack and Special Attack of enemies in the same room, but it drops your HP to 1 and warps you somewhere. S MD It sharply lowers enemies' Attack and Sp. Atk. But it drops your HP to 1 and warps you. * It sharply lowers the Attack and Sp. Atk of enemies in the same room, but it drops your HP to 1 and warps you to somewhere else. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation III , the status screen erroneously states that the move has 100% accuracy, even though it ignores accuracy and evasion checks. Memento is the only stat lowering status move that is not reflected by Magic Bounce . This move's name (particularly its German name) is a reference to the Latin phrase memento mori , meaning \"remember that you will die\". A glitch in Generation VII 's Battle Spot caused battles to crash when Memento was used as a Z-Move . The same problem occurred with Parting Shot . As a result, both moves were temporarily banned from Battle Spot battles starting in November 2016. The glitch was fixed in the version 1.1 update."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Memento",
+    "Memento (move)"
+  ],
+  "updatedAt": 1773324931
+}

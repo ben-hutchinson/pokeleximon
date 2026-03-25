@@ -1,0 +1,34 @@
+{
+  "answerKey": "BEAKBLAST",
+  "answerDisplay": "BEAK BLAST",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Beak Blast (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Beak_Blast_(move)",
+  "pageId": 218254,
+  "pageRevisionId": 4482609,
+  "leadText": "Beak Blast (Japanese: くちばしキャノン Beak Cannon) is a damage-dealing Flying-type move introduced in Generation VII. It is the signature move of Toucannon.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] Beak Blast is a decreased priority move. The user charges up at the beginning of the turn and executes Beak Blast at -3 priority. All who make contact with the user during the charging phase are burned . Its charging message is displayed before any other moves. The charging phase occurs whether or not the user's status would prevent it from executing Beak Blast. For example, if the user is confused, the confusion check is performed before the strike, not the initial charge. Pokémon with Bulletproof are immune to Beak Blast, but are not immune to the burn. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Beak Blast cannot be selected in a battle. Generation IX [ edit | edit source ] In Versions 1.0 to 2.0.2 of Pokémon Scarlet and Violet , Beak Blast could not be selected in a battle. Starting with Version 3.0.0, it is usable and functions the same as it did in previous generations."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA The user first heats up its beak, and then it attacks the target. Making direct contact with the Pokémon while it's heating up its beak results in a burn. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user first heats up its beak, and then it attacks the target. Making direct contact with the user while it's heating up its beak results in a burn."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Beak Blast is the only Flying-type move that is able to burn a target. This move mimics a toucan's ability to regulate its body heat by using its beak as a heat sink. [ 1 ] ↑ https://onlinelibrary.wiley.com/doi/10.1111/brv.12299"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Beak-Blast",
+    "Beak Blast",
+    "Beak-Blast (move)"
+  ],
+  "updatedAt": 1773321078
+}

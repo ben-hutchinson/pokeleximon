@@ -1,0 +1,17 @@
+{
+  "answerKey": "DOLLIV",
+  "answerDisplay": "DOLLIV",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Grass / Normal type Pokémon introduced in Generation 9.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/dolliv",
+  "extract": "Dolliv is a Grass / Normal type Pokémon introduced in Generation 9 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211031
+}

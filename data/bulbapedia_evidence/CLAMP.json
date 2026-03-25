@@ -1,0 +1,33 @@
+{
+  "answerKey": "CLAMP",
+  "answerDisplay": "CLAMP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Clamp (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Clamp_(move)",
+  "pageId": 3737,
+  "pageRevisionId": 4483158,
+  "leadText": "Clamp (Japanese: からではさむ Shell Squeeze) is a damage-dealing Water-type move introduced in Generation I. Prior to Generation III, it was the signature move of Shellder and Cloyster.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generations III and IV 1.4 Generation V 1.5 Generations VI and VII 1.6 Generation VIII onwards Effect [ edit | edit source ] Generation I [ edit | edit source ] Clamp has an accuracy of 75% and 10 base PP. Clamp inflicts damage for 2-5 turns. There is a 37.5% chance that it will attack for 2 turns, a 37.5% chance that it will attack for 3 turns, a 12.5% chance that it will attack for 4 turns, and a 12.5% chance that it will attack for 5 turns. Although only the first hit can be a critical hit , each consecutive turn will deal the same amount of damage. Whilst the target is trapped, it will be unable to attack, and if the user of Clamp strikes before the target, when used, the target will also be unable to attack during the same turn. Clamp will prevent the target from attacking even if it hits a substitute . While Clamp is ongoing, neither the user nor the target will be able to select moves (selecting \"Fight\" will cause the user to continue to deal damage and the target to do nothing), but both the user and target can switch out. No message is given on the last turn, so players will not know whether Clamp has ended unless they select \"Fight\" to open the move list. Damage inflicted by Clamp's continuing duration is done after recurrent damage. If the user switches out before the turn duration ends, the target will be unable to attack during that turn. If the target switches out before the turn duration ends, Clamp will automatically be used against the incoming Pokémon, deducting an additional PP from the move. If at such a time Clamp has 0 PP, Clamp will still be used, and the current PP of Clamp will roll over to 63 , applying full PP Ups . Even if Clamp misses, it will negate the recharge turn normally required for Hyper Beam . Additionally, if the user of Clamp attacks before the user of Hyper Beam during a recharge turn and the use of Clamp misses, the user of Hyper Beam will automatically use Hyper Beam during that turn. If at such a time Hyper Beam has 0 PP, Hyper Beam will still be used, and afterwards its current PP will roll over to 63, applying full PP Ups. In Pokémon Stadium , the player can select a move during each turn of Clamp's duration. If the target switches out before the duration ends, the incoming Pokémon will not be automatically attacked; instead, the user's turn is skipped. Clamp will negate the recharge turn of Hyper Beam only if successful. Generation II [ edit | edit source ] The target is now able to attack during Clamp's duration, and can act normally. Instead, it inflicts 1/16 of the target's maximum HP as damage for two to five turns upon use, in addition to the damage dealt when it is used. There is now an equal 25% chance that it will attack for 2, 3, 4 or 5 turns. \" was CLAMPED by !\" will appear. It also traps the target, preventing switching and escape . If the user switches out, the target will be freed. If a trapped Pokémon uses Rapid Spin , it will be freed. Generations III and IV [ edit | edit source ] The effects of Clamp are the same as in Generation II, but if a wild Pokémon uses Clamp on the player's Pokémon, the player may escape if the affected Pokémon has Run Away or is holding a Smoke Ball . However, these do not allow the player to switch the Pokémon out. The text also changes to \" CLAMPED !\" If the user of Clamp is holding a Grip Claw , the duration will always be five turns. Also, if an affected Pokémon is holding a Shed Shell , it can switch out. Clamp can be used as the second move of a Pokémon Contest combination , with the user gaining 3 bonus appeal points if Rain Dance was used in the previous turn. Clamp is now affected by King's Rock . Generation V [ edit | edit source ] Clamp's accuracy is increased to 85, its PP is increased to 15, and it lasts four to five turns. If a Binding Band is held by the user, the damage done at the end of each turn will increase from 1/16 of the target's maximum HP to 1/8. If the user of Clamp is holding a Grip Claw , the duration will be 7 turns. Generations VI and VII [ edit | edit source ] The end turn damage of Clamp is increased from 1/16 to 1/8 of the target's maximum HP. If the user is holding a Binding Band , the end turn damage of Clamp will increase to 1/6 of the target's maximum HP. Ghost-type Pokémon cannot be trapped by Clamp. Generation VIII onwards [ edit | edit source ] Clamp cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad The target is gripped in the attacker's shell for two to five turns. It can't move while under the attack. Stad2 Grips the target in the attacker's shell for two to five turns. G S C Traps the foe for 2-5 turns. R S E Traps and squeezes the foe for 2 to 5 turns. FR LG The foe is clamped and squeezed by the user's shell for two to five turns. Colo XD Traps and squeezes the target for 2 to 5 turns. D P Pt HG SS PBR The foe is clamped and squeezed by the user's very thick and sturdy shell for two to five turns. B W B2 W2 X Y OR AS S M US UM P E The target is clamped and squeezed by the user's very thick and sturdy shell for four to five turns. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also cause constriction, making the foe incapable of movement. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Constriction status condition, making it incapable of movement. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで しめつけじょうたいにして いどうできなくする MD GtI UNUSED S MD It damages an enemy. It could also cause the Clamp status condition."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Clamp",
+    "Clamp (move)"
+  ],
+  "updatedAt": 1773321701
+}

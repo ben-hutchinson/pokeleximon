@@ -1,0 +1,34 @@
+{
+  "answerKey": "COTTONGUARD",
+  "answerDisplay": "COTTON GUARD",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Cotton Guard (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Cotton_Guard_(move)",
+  "pageId": 117312,
+  "pageRevisionId": 4436421,
+  "leadText": "Cotton Guard (Japanese: コットンガード Cotton Guard) is a non-damaging Grass-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Cotton Guard raises the user's Defense stat by three stages. Cotton Guard can also be used as part of a Contest Spectacular combination , causing Baton Pass and Stored Power to give the user an extra three appeal points if they are used in the next turn. If powered up by a Grassium Z into Z-Cotton Guard, all of the user's lowered stats are reset. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 10s Move wind-up time 1 frame Effect duration 40s 45s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user protects itself by wrapping its body in soft cotton, drastically raising the user's Defense stat. X Y OR AS S M US UM P E Sw Sh BD SP LA The user protects itself by wrapping its body in soft cotton, which drastically raises the user's Defense stat. S V The user protects itself by wrapping its body in soft cotton, drastically boosting its Defense stat. ZA The user boosts its Defense stat for a long while by wrapping its body in soft cotton."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It significantly boosts your Defense. (The stat change returns to normal when you go to the next floor or step on a Wonder Tile.) S MD It significantly boosts your Defense. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Cotton-Guard",
+    "Cotton Guard",
+    "Cotton-Guard (move)"
+  ],
+  "updatedAt": 1773321876
+}

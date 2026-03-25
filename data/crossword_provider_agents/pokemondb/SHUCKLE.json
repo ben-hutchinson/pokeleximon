@@ -1,0 +1,17 @@
+{
+  "answerKey": "SHUCKLE",
+  "answerDisplay": "SHUCKLE",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Bug / Rock type Pokémon introduced in Generation 2.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/shuckle",
+  "extract": "Shuckle is a Bug / Rock type Pokémon introduced in Generation 2 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212848
+}

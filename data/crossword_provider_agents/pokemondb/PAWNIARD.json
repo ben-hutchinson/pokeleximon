@@ -1,0 +1,17 @@
+{
+  "answerKey": "PAWNIARD",
+  "answerDisplay": "PAWNIARD",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Dark / Steel type Pokémon introduced in Generation 5.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/pawniard",
+  "extract": "Pawniard is a Dark / Steel type Pokémon introduced in Generation 5 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212302
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "SPIRITSHACKLE",
+  "answerDisplay": "SPIRIT SHACKLE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Spirit Shackle (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Spirit_Shackle_(move)",
+  "pageId": 216846,
+  "pageRevisionId": 4483827,
+  "leadText": "Spirit Shackle (Japanese: かげぬい Shadow Stitching) is a damage-dealing Ghost-type move introduced in Generation VII. It is the signature move of Decidueye. It can be upgraded to the special Z-Move Sinister Arrow Raid by Decidueye holding Decidium Z.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Spirit Shackle inflicts damage and prevents the target from fleeing or switching out as long as the user remains in battle. Wimp Out , Emergency Exit , the Red Card , the Shed Shell , and the Eject Button can bypass this effect. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Spirit Shackle cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA The user attacks while simultaneously stitching the target's shadow to the ground to prevent the target from escaping. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. S V The user attacks while simultaneously stitching the target's shadow to the ground to prevent the target from fleeing."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as a TCG attack . The move's Japanese name, kagenui (\"shadow stitching\"), refers to a fabled ninja technique that restrains a target's movements by pinning their shadow with a kunai or shuriken."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Spirit-Shackle",
+    "Spirit Shackle",
+    "Spirit-Shackle (move)"
+  ],
+  "updatedAt": 1773327456
+}

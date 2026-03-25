@@ -1,0 +1,34 @@
+{
+  "answerKey": "HUGEPOWER",
+  "answerDisplay": "HUGE POWER",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Huge Power (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Huge_Power_(Ability)",
+  "pageId": 4113,
+  "pageRevisionId": 4302367,
+  "leadText": "Huge Power (Japanese: ちからもち Muscleman) is an Ability introduced in Generation III. Prior to Generation VI, it was the signature Ability of Marill's evolutionary line.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Huge Power doubles the Attack stat of the Pokémon with this Ability. Because it is an Attack modifier and not a stat stage change, it will double the user's effective Attack stat when using Foul Play or Body Press . Generation IV [ edit | edit source ] Huge Power also affects self-inflicted confusion damage. Generation V onward [ edit | edit source ] Huge Power no longer affects confusion damage. Outside of battle [ edit | edit source ] Huge Power has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Huge Power doubles the Attack stat of the Pokémon with this Ability. Because it is an Attack modifier and not a stat stage change, it will double the user's effective Attack stat when using Foul Play or Body Press . Generation IV [ edit | edit source ] Huge Power also affects self-inflicted confusion damage. Generation V onward [ edit | edit source ] Huge Power no longer affects confusion damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Occasionally boosts Attack. MD T D S Occasionally boosts the Pokémon's Attack. B S L ときどき こうげきが あがる MD GtI Sometimes increases the power of physical moves. * Sometimes the power of the Pokémon's physical moves will go up! * S MD Sometimes the power of the Pokémon's physical moves goes up! MD RT DX Sometimes the power of the Pokémon's physical moves goes up."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Huge-Power",
+    "Huge Power",
+    "Huge-Power (Ability)"
+  ],
+  "updatedAt": 1773328934
+}

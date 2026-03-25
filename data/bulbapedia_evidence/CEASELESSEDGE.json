@@ -1,0 +1,30 @@
+{
+  "answerKey": "CEASELESSEDGE",
+  "answerDisplay": "CEASELESS EDGE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Ceaseless Edge (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ceaseless_Edge_(move)",
+  "pageId": 268709,
+  "pageRevisionId": 4407238,
+  "leadText": "Ceaseless Edge (Japanese: ひけん・ちえなみ Secret Sword - Thousand Waves) is a damage-dealing Dark-type move introduced during Generation VIII, in Pokémon Legends: Arceus. It is the signature move of Hisuian Samurott.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Ceaseless Edge inflicts damage and has an increased critical-hit ratio. It also leaves the target with splinters for 4 turns ( Strong Style ), 2 turns ( Agile Style ), or 3 turns (otherwise). Pokémon Legends: Arceus Category Physical PP 15 Agile Strong Power 65 50 80 Accuracy 90% 90% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Turns 3 2 4 Crit. stage +1 +1 +2 ? ? Leaves splinters on the target High critical hit ratio Generation IX [ edit | edit source ] Ceaseless Edge inflicts damage and sets up one layer of Spikes on the opposing side of the field. If used by a Pokémon with Sharpness , its power is increased by 50%. It does not have an increased critical-hit ratio."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA The user slashes its shell blade at the target, aiming to land a critical hit. Shell splinters left behind by this attack will continue to damage the target for several turns. S V The user slashes its shell blade at the target, aiming to land a critical hit. Shell splinters left behind by this attack remain scattered under the target as spikes. * The user slashes its shell blade at the target. Shell splinters left behind by this attack remain scattered under the target as spikes. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ceaseless-Edge",
+    "Ceaseless Edge",
+    "Ceaseless-Edge (move)"
+  ],
+  "updatedAt": 1773321528
+}

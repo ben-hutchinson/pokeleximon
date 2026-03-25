@@ -1,0 +1,30 @@
+{
+  "answerKey": "LUNARBLESSING",
+  "answerDisplay": "LUNAR BLESSING",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Lunar Blessing (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Lunar_Blessing_(move)",
+  "pageId": 268368,
+  "pageRevisionId": 4403625,
+  "leadText": "Lunar Blessing (Japanese: みかづきのいのり Crescent Prayer) is a non-damaging Psychic-type move introduced during Generation VIII, in Pokémon Legends: Arceus. It is one of the signature moves of Cresselia.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Lunar Blessing heals the user of any status conditions and restores a variable quantity of the user's maximum HP. It also obscures the user, making attacks more likely to miss. Pokémon Legends: Arceus Category Status PP 10 Agile Strong Power — — — Accuracy —% —% —% Action speed modifier Self 0 -3 +5 Target ? ? ? Additional effect Heal 50% 30% 70% Turns 4 3 5 ? ? Heals the user by a percentage of its maximum HP Obscures the user Cures the user of status conditions Generation IX [ edit | edit source ] Lunar Blessing's PP was reduced to 5. Lunar Blessing restores the HP of the user and its allies by 25% of their maximum HP, and heals any non-volatile status conditions they may have."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA The user heals its own status conditions and restores its HP. Incoming moves also become more likely to miss. S V The user receives a blessing from the crescent moon, restoring HP and curing status conditions for itself and its ally Pokémon currently in the battle."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Lunar-Blessing",
+    "Lunar Blessing",
+    "Lunar-Blessing (move)"
+  ],
+  "updatedAt": 1773324550
+}

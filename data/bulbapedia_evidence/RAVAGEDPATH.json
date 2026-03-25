@@ -1,0 +1,30 @@
+{
+  "answerKey": "RAVAGEDPATH",
+  "answerDisplay": "RAVAGED PATH",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Ravaged Path",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ravaged_Path",
+  "pageId": 19398,
+  "pageRevisionId": 4255760,
+  "leadText": "The Ravaged Path (Japanese: 荒れた抜け道 Barren Path) is a small cave that is located on Route 204, separating Jubilife City from Floaroma Town. It is a small path that can only be crossed using Rock Smash, and there are items to the north that can only be reached by using Surf. After climbing the steps and smashing the rocks to the right, the player can exit the cave and enter the upper part of Route 204.",
+  "sections": [
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Antidote Just northeast of the stairs D P BD SP Potion Just northeast of the stairs Pt TM39 ( Rock Tomb ) Amongst the rocks just northwest of the stairs (requires Rock Smash ) D P Pt BD SP Luck Incense In the north end of the cave (requires Surf and Rock Smash ) D P Pt BD SP TM03 ( Water Pulse ) In the northeast end of the cave (requires Surf and Rock Smash ) D P Pt BD SP"
+    },
+    {
+      "title": "Pokémon",
+      "text": "Pokémon [ edit | edit source ] Generation IV [ edit | edit source ] Pokémon Games Location Levels Rate Zubat D P Pt Cave 4-6 78% Zubat D P Pt Cave 3-6 65% Psyduck D P Pt Cave 5 2% Psyduck D P Pt Cave 4-6 35% Geodude D P Pt Cave 5 20% Surfing Zubat D P Pt Surfing 20-30 60% Zubat D P Pt Surfing 20-30 30% Golbat D P Pt Surfing 20-40 5% Psyduck D P Pt Surfing 20-30 30% Psyduck D P Pt Surfing 20-30 60% Golduck D P Pt Surfing 20-40 5% Fishing Magikarp D P Pt Fishing Old Rod 3-10 100% Magikarp D P Pt Fishing Old Rod 3-15 100% Magikarp D P Pt Fishing Good Rod 10-25 55% Barboach D P Pt Fishing Good Rod 10-25 45% Gyarados D P Pt Fishing Super Rod 30-55 55% Whiscash D P Pt Fishing Super Rod 20-50 45% Whiscash D P Pt Fishing Super Rod 30-55 45% A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here. Generation VIII [ edit | edit source ] Pokémon Games Location Levels Rate Zubat BD SP Cave 4 40% Zubat BD SP Cave 5 20% Zubat BD SP Cave 6 18% Psyduck BD SP Cave 5 2% Geodude BD SP Cave 5 20% Surfing Zubat BD SP Surfing 20-30 60% Golbat BD SP Surfing 20-40 5% Psyduck BD SP Surfing 20-30 30% Golduck BD SP Surfing 20-40 5% Fishing Magikarp BD SP Fishing Old Rod 4-6 60% Magikarp BD SP Fishing Old Rod 3-7 30% Magikarp BD SP Fishing Old Rod 5-10 10% Magikarp BD SP Fishing Good Rod 15-20 40% Magikarp BD SP Fishing Good Rod 10-25 15% Barboach BD SP Fishing Good Rod 15-20 40% Barboach BD SP Fishing Good Rod 10-25 5% Gyarados BD SP Fishing Super Rod 30-40 40% Gyarados BD SP Fishing Super Rod 40-55 15% Whiscash BD SP Fishing Super Rod 30-40 40% Whiscash BD SP Fishing Super Rod 20-50 5% A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ravaged-Path",
+    "Ravaged Path",
+    "Ravaged-Path (location)"
+  ],
+  "updatedAt": 1773326266
+}

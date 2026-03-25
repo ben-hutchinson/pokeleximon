@@ -253,6 +253,7 @@ const playerProfile = {
   displayName: "Ash",
   publicSlug: "ash-ketchum",
   leaderboardVisible: true,
+  avatarPreset: "plum",
   hasAccount: false,
 };
 
@@ -261,6 +262,7 @@ const publicPlayerStats = {
     displayName: "Ash",
     publicSlug: "ash-ketchum",
     leaderboardVisible: true,
+    avatarPreset: "plum",
     hasAccount: true,
     createdAt: "2026-03-10T09:00:00Z",
     updatedAt: "2026-03-10T09:00:00Z",
@@ -296,29 +298,6 @@ const joinedChallengeDetail = {
   joined: true,
 };
 
-const textOnlyExport = {
-  id: crosswordPuzzle.id,
-  date: crosswordPuzzle.date,
-  gameType: "crossword",
-  title: "Smoke Test Crossword Text Export",
-  timezone: "Europe/London",
-  metadata: {
-    difficulty: "easy",
-    themeTags: ["pokemon", "smoke"],
-    contestMode: false,
-  },
-  grid: {
-    width: 3,
-    height: 3,
-    rows: ["...", "...", "..."],
-  },
-  entries: [
-    { id: "a1", number: 1, direction: "across", clue: "Starter pet", length: 3, enumeration: "3", cells: [[0, 0], [1, 0], [2, 0]] },
-    { id: "d1", number: 1, direction: "down", clue: "Feline", length: 3, enumeration: "3", cells: [[0, 0], [0, 1], [0, 2]] },
-  ],
-  redactedAnswers: true,
-};
-
 async function fulfillJson(route: Route, body: unknown, status = 200) {
   await route.fulfill({
     status,
@@ -328,6 +307,8 @@ async function fulfillJson(route: Route, body: unknown, status = 200) {
 }
 
 async function mockApi(page: Page) {
+  let currentPlayerProfile = { ...playerProfile };
+
   await page.addInitScript(() => {
     window.localStorage.setItem("crossword:session-id", "sess_crossword_smoke");
     window.localStorage.setItem("cryptic:session-id", "sess_cryptic_smoke");
@@ -364,11 +345,19 @@ async function mockApi(page: Page) {
     }
 
     if (pathname === "/api/v1/puzzles/profile" && request.method() === "GET") {
-      return fulfillJson(route, { data: playerProfile });
+      return fulfillJson(route, { data: currentPlayerProfile });
     }
 
     if (pathname === "/api/v1/puzzles/profile" && request.method() === "PUT") {
-      return fulfillJson(route, { data: playerProfile });
+      const payload = request.postDataJSON() as Record<string, unknown>;
+      currentPlayerProfile = {
+        ...currentPlayerProfile,
+        displayName: typeof payload.displayName === "string" ? payload.displayName : currentPlayerProfile.displayName,
+        leaderboardVisible:
+          typeof payload.leaderboardVisible === "boolean" ? payload.leaderboardVisible : currentPlayerProfile.leaderboardVisible,
+        avatarPreset: typeof payload.avatarPreset === "string" ? payload.avatarPreset : null,
+      };
+      return fulfillJson(route, { data: currentPlayerProfile });
     }
 
     if (pathname === "/api/v1/puzzles/leaderboard" && request.method() === "GET") {
@@ -376,11 +365,16 @@ async function mockApi(page: Page) {
     }
 
     if (pathname === "/api/v1/puzzles/players/ash-ketchum" && request.method() === "GET") {
-      return fulfillJson(route, { data: publicPlayerStats });
-    }
-
-    if (pathname === "/api/v1/puzzles/export/text" && request.method() === "GET") {
-      return fulfillJson(route, { data: textOnlyExport });
+      return fulfillJson(route, {
+        data: {
+          ...publicPlayerStats,
+          profile: {
+            ...publicPlayerStats.profile,
+            displayName: currentPlayerProfile.displayName,
+            avatarPreset: currentPlayerProfile.avatarPreset,
+          },
+        },
+      });
     }
 
     if (pathname === "/api/v1/puzzles/progress" && request.method() === "GET") {
@@ -456,23 +450,31 @@ test.beforeEach(async ({ page }) => {
 
 test("main navigation routes render and core interactions work", async ({ page }) => {
   await page.goto("/");
+  const homeGameNav = page.locator(".home-dashboard__game-nav");
 
-  await expect(page.getByRole("link", { name: "Daily Crossword" })).toBeVisible();
-  await page.getByRole("link", { name: "Daily Crossword" }).click();
+  await expect(homeGameNav.getByRole("link", { name: "Crossword" })).toBeVisible();
+  await expect(page.getByRole("heading", { name: "News / Dev Activity" })).toBeVisible();
+  await expect(page.getByRole("heading", { name: "Leaderboard" })).toBeVisible();
+  await expect(page.getByRole("link", { name: "Buy me a coffee" })).toBeVisible();
+  await homeGameNav.getByRole("link", { name: "Crossword" }).click();
   await expect(page).toHaveURL(/\/daily$/);
+  await expect(page.getByRole("heading", { name: "Daily Crossword" })).toBeVisible();
   await expect(page.getByRole("button", { name: "Check Entry" })).toBeVisible();
+  await expect(page.getByRole("link", { name: "Crossword Archive" })).toBeVisible();
 
-  await page.goto("/");
-  await page.getByRole("link", { name: "Cryptic Clue" }).click();
+  await page.getByRole("link", { name: "Back to home" }).click();
+  await homeGameNav.getByRole("link", { name: "Cryptic" }).click();
   await expect(page).toHaveURL(/\/cryptic$/);
   await expect(page.getByRole("heading", { name: "Cryptic Clue" })).toBeVisible();
+  await expect(page.getByRole("link", { name: "Cryptic Archive" })).toBeVisible();
   await page.getByRole("button", { name: "Hint 1" }).click();
   await expect(page.getByText("Hint 1 shown.")).toBeVisible();
 
-  await page.goto("/");
-  await page.getByRole("link", { name: "Daily Connections" }).click();
+  await page.getByRole("link", { name: "Back to home" }).click();
+  await homeGameNav.getByRole("link", { name: "Connections" }).click();
   await expect(page).toHaveURL(/\/connections$/);
   await expect(page.getByRole("heading", { name: "Daily Connections" })).toBeVisible();
+  await expect(page.getByRole("link", { name: "Connections Archive" }).first()).toBeVisible();
   await page.getByRole("button", { name: "Bulbasaur" }).click();
   await page.getByRole("button", { name: "Charmander" }).click();
   await page.getByRole("button", { name: "Squirtle" }).click();
@@ -487,20 +489,32 @@ test("secondary routes render with mocked data", async ({ page }) => {
   await expect(page.getByText("Smoke Test Crossword")).toBeVisible();
 
   await page.goto("/stats");
-  await expect(page.getByRole("heading", { name: "Your Stats" })).toBeVisible();
+  await expect(page).toHaveURL(/\/profile$/);
+  await expect(page.getByRole("heading", { name: "Profile", exact: true })).toBeVisible();
   await expect(page.getByText("Completion Rate")).toBeVisible();
 
   await page.goto("/leaderboard");
   await expect(page.getByRole("heading", { name: "Leaderboard" })).toBeVisible();
-  await expect(page.getByText("Your Account")).toBeVisible();
+  await expect(page.getByText("Your Profile")).toBeVisible();
   await expect(page.getByRole("cell", { name: "Ash" })).toBeVisible();
 
   await page.goto("/account");
-  await expect(page.getByRole("heading", { name: "Account", exact: true })).toBeVisible();
+  await expect(page).toHaveURL(/\/profile$/);
+  await expect(page.getByRole("heading", { name: "Profile", exact: true })).toBeVisible();
   await expect(page.getByText("This will claim the guest progress currently stored on this device.")).toBeVisible();
 
+  await page.getByLabel("Display Name").fill("Ash Prime");
+  await page.getByRole("button", { name: "Sky" }).click();
+  await page.getByRole("button", { name: "Save Profile" }).click();
+  await expect(page.getByText("Profile updated.")).toBeVisible();
+  await page.getByRole("link", { name: "View Public Page" }).click();
+  await expect(page.getByRole("heading", { name: "Ash Prime" })).toBeVisible();
+
+  await page.goto("/");
+  await expect(page.getByRole("heading", { name: "About" })).toBeVisible();
+
   await page.goto("/players/ash-ketchum");
-  await expect(page.getByRole("heading", { name: "Ash" })).toBeVisible();
+  await expect(page.getByRole("heading", { name: "Ash Prime" })).toBeVisible();
   await expect(page.getByText("Public stats page for @ash-ketchum.")).toBeVisible();
 
   await page.goto("/admin");
@@ -508,15 +522,10 @@ test("secondary routes render with mocked data", async ({ page }) => {
   await expect(page.getByText("Enter and save the admin token to load console data and run admin actions.")).toBeVisible();
 });
 
-test("direct routes for challenge and text-only render", async ({ page }) => {
+test("direct challenge route renders", async ({ page }) => {
   await page.goto("/challenge/SMOKE1");
   await expect(page.getByRole("heading", { name: "Challenge" })).toBeVisible();
   await expect(page.getByText("Code: SMOKE1")).toBeVisible();
   await page.getByRole("button", { name: "Join Challenge" }).click();
   await expect(page.getByText("You joined this challenge.")).toBeVisible();
-
-  await page.goto("/text-only?gameType=crossword&date=2026-03-10");
-  await expect(page.getByRole("heading", { name: "Text-Only Puzzle View" })).toBeVisible();
-  await expect(page.getByText("Smoke Test Crossword Text Export")).toBeVisible();
-  await expect(page.getByText("Grid Structure")).toBeVisible();
 });

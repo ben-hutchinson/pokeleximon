@@ -1,0 +1,30 @@
+{
+  "answerKey": "MAXQUAKE",
+  "answerDisplay": "MAX QUAKE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Max Quake (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Quake_(move)",
+  "pageId": 244378,
+  "pageRevisionId": 4433860,
+  "leadText": "Max Quake (Japanese: ダイアース Dai Earth) is a damage-dealing Ground-type Max Move introduced in Generation VIII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Max Quake inflicts damage and raises the user's and its ally's Special Defense by one stage. Its power and whether it is a special or physical move depends on the move it is based on. Base move Power Cat. Bone Rush 130 Physical Bonemerang 130 Physical Bulldoze 110 Physical Dig 130 Physical Drill Run 130 Physical Earth Power 130 Special Earthquake 130 Physical Fissure 130 Physical High Horsepower 130 Physical Land's Wrath 130 Physical Mud Shot 110 Special Mud-Slap 90 Special Precipice Blades 140 Physical Sand Tomb 90 Physical Scorching Sands 120 Special Stomping Tantrum 130 Physical Thousand Arrows 130 Physical Thousand Waves 130 Physical Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Max Quake cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA This is a Ground-type attack Dynamax Pokémon use. This raises ally Pokémon's Sp. Def stats. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. S V This is a Ground-type attack Dynamax Pokémon use. This boosts ally Pokémon's Sp. Def stats."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Max-Quake",
+    "Max Quake",
+    "Max-Quake (move)"
+  ],
+  "updatedAt": 1773324840
+}

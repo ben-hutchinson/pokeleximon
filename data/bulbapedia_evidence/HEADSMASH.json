@@ -1,0 +1,38 @@
+{
+  "answerKey": "HEADSMASH",
+  "answerDisplay": "HEAD SMASH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Head Smash (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Head_Smash_(move)",
+  "pageId": 18899,
+  "pageRevisionId": 4484678,
+  "leadText": "Head Smash (Japanese: もろはのずつき Double-Edged Headbutt) is a damage-dealing Rock-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Head Smash inflicts damage, and the user receives recoil damage equal to ½ of the damage done to the target. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Physical PP 5 Agile Strong Power 120 100 150 Accuracy 80% 80% 90% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Recoil 50% 50% 75% ? ? ? ? User is damaged by a percentage of damage dealt Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 150 180 Cooldown 10s Move wind-up time 15 frames Effect duration —s Additional effect Recoil 50% — — Damages the user by a percentage of damage dealt."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt PBR The user delivers a life-endangering head butt at full power. The user also takes terrible damage. HG SS The user delivers a life-endangering attack at full power. The user also takes terrible damage. B W B2 W2 The user attacks the target with a hazardous, full-power headbutt. The user also takes terrible damage. X Y OR AS S M US UM P E Sw Sh BD SP The user attacks the target with a hazardous, full-power headbutt. This also damages the user terribly. LA The user attacks the target with a hazardous, full-power headbutt. This also damages the user. S V The user attacks the target with a hazardous full-power headbutt. This also damages the user terribly. ZA The user attacks by slamming into targets with a reckless, full-power headbutt. The user will also take some damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. But it also hurts the user. B S L てきポケモンに ダメージをあたえるが じぶんも ダメージをうけてしまう MD GtI It damages an enemy, but you receive recoil damage, too. S MD MD RT DX It damages an enemy, but you'll receive recoil damage, too."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In HeartGold and SoulSilver 's game data, Nosepass can learn Head Smash via breeding , but no Pokémon that could learn it at the time were in Nosepass's Egg Group , Mineral , making it impossible to pass down the move without the use of the Rage glitch . This learnset data was then removed in Generation V , but brought back in Generation IX where it can also learn the move from Sudowoodo , which could learn the move since Generation VII . Head Smash is tied with Rock Wrecker for the highest base power of all Rock-type moves, excluding Z-Moves , Max Moves , and G-Max Moves . A Continental Crush based on either of them has the highest base power of all Rock-type moves. Head Smash is the only Rock-type move that causes recoil damage. It also has the highest base power of all recoil moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Head-Smash",
+    "Head Smash",
+    "Head-Smash (move)"
+  ],
+  "updatedAt": 1773323555
+}

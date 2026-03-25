@@ -1,0 +1,37 @@
+{
+  "answerKey": "SPARK",
+  "answerDisplay": "SPARK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Spark (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Spark_(move)",
+  "pageId": 3820,
+  "pageRevisionId": 4479361,
+  "leadText": "Spark redirects here. For the leader of Team Instinct in Pokémon GO, see Spark (GO). Spark (Japanese: スパーク Spark) is a damage dealing Electric-type move introduced in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Spark inflicts damage and has a 30% chance of paralyzing the target. Spark can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Charge was used in the previous turn. It is also part of a Contest Spectacular combination, with the user gaining an extra three appeal points if Charge was used in the prior turn. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Physical PP 20 Agile Strong Power 65 50 80 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 30% 30% 50% Turns 3 2 4 ? ? May inflict the target with paralysis Cures the user's drowsiness Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 65 78 Cooldown 6s Move wind-up time 15 frames Effect duration —s Additional effect Chance 30% — — May paralyze the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 An Electric -type attack. Has a one-in-three chance of paralyzing the target. G S C An attack that may cause paralysis. R S E An electrified tackle that may paralyze the foe. FR LG An electrically charged tackle that may also paralyze the foe. Colo XD An electrified tackle that may paralyze the target. D P Pt HG SS PBR The user throws an electrically charged tackle at the foe. It may also leave the target paralyzed. B W B2 W2 The user throws an electrically charged tackle at the target. It may also leave the target with paralysis. X Y OR AS S M US UM P E Sw Sh BD SP The user throws an electrically charged tackle at the target. This may also leave the target with paralysis. LA The user throws an electrically charged tackle at the target to deal damage. This may also leave the target with paralysis. S V The user attacks the target with an electrically charged tackle. This may also leave the target with paralysis. ZA The user attacks by charging into targets while cloaked in electricity. This may also leave targets paralyzed."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also cause paralysis and prevent any attacks or moves. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Paralysis status condition. A Pokémon with the Paralysis status has slowed movement and is incapable of action. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで まひじょうたいにかえる まひじょうたいの ポケモンは わざがだせない Conq. Charge the target while shrouded in electricity, with a potential to inflict paralysis. The user is weakened for 1 turn. MD GtI It damages an enemy. It could also cause the Paralysis status condition. With the Paralysis status, the enemy's Travel Speed goes down and it can't attack or use moves. S MD It damages an enemy. It could also cause paralysis."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Spark is the only variation of Psybeam to have been introduced after Generation I . It is also the only one that is a physical move . This move originated as a TCG attack ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Spark",
+    "Spark (move)"
+  ],
+  "updatedAt": 1773327400
+}

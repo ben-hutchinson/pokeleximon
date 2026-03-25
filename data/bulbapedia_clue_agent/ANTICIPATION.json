@@ -1,0 +1,95 @@
+{
+  "answerKey": "ANTICIPATION",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4236375,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Anticipation (Japanese: Danger Premonition) is an Ability introduced in Generation IV.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD T D S Shows if the foe has supereffective moves upon hitting it with a regular attack. B S L MD GtI It's easier for the Pokemon to dodge supereffective moves and one-hit KO moves. * It makes it easier for the Pokemon to dodge moves that are super effective against it, as well as one-hit KO moves, such as Fissure! * S MD It makes it easier for the Pokemon to dodge moves that are super effective against it, as well as one-hit KO moves, such as Fissure! MD RT DX Sometimes the Pokemon is able to dodge moves that are super effective against it, as well as one-hit KO moves, such as Fissure.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generation V 1.1.3 Generation VI onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation IV [ edit | edit source ] When a Pokemon with Anticipation enters the battle or a Pokemon gains the Ability Anticipation, it causes the Pokemon to \"shudder\" if an opponent has a damaging move that is super effective against the Pokemon with Anticipation, a one-hit knockout move , or Self-Destruct or Explosion . Shuddering has no actual effect, except that the presence of the Ability message is meant to provide information about possible moves the opponent might have. Hidden Power , Judgment , Weather Ball , and Natural Gift are treated as Normal-type moves. If the opponent has Scrappy or Normalize , or if Gravity is in effect, Anticipation will take those effects into account when determining if an opponent's move is in fact super effective. Counter , Metal Burst , and Mirror Coat do not trigger Anticipation. Generation V [ edit | edit source ] The moves Selfdestruct and Explosion are now treated like all other Normal-type moves and thus no longer trigger Anticipation. Counter , Metal Burst , and Mirror Coat are counted as attacking moves of their types, so can trigger Anticipation. Techno Blast is treated as a Normal-type move. Synchronoise is treated as an ordinary Psychic-type move. Anticipation no longer factors in the effects of Scrappy, Normalize, or Gravity on type matchups when determining if it should display a trigger message. Generation VI onward [ edit | edit source ] Hidden Power is now treated as its effective type rather than Normal-type . Revelation Dance and Multi-Attack are treated as Normal-type moves. Freeze-Dry is treated as an ordinary Ice-type move. Flying Press is treated as an ordinary Fighting-type move. Aura Wheel is treated as an Electric-type move. Anticipation takes into account the modified type chart of Inverse Battles and thus can be triggered by Normal-type moves (including Self-Destruct and Explosion). Anticipation does not factor in the effect of strong winds on type matchups, nor the effect of opponents' abilities such as Aerilate on changing the type of their moves. Outside of battle [ edit | edit source ] Anticipation has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "Contents 1 In battle 1.1 Generation IV 1.2 Generation V 1.3 Generation VI onward In battle [ edit | edit source ] Generation IV [ edit | edit source ] When a Pokemon with Anticipation enters the battle or a Pokemon gains the Ability Anticipation, it causes the Pokemon to \"shudder\" if an opponent has a damaging move that is super effective against the Pokemon with Anticipation, a one-hit knockout move , or Self-Destruct or Explosion . Shuddering has no actual effect, except that the presence of the Ability message is meant to provide information about possible moves the opponent might have. Hidden Power , Judgment , Weather Ball , and Natural Gift are treated as Normal-type moves. If the opponent has Scrappy or Normalize , or if Gravity is in effect, Anticipation will take those effects into account when determining if an opponent's move is in fact super effective. Counter , Metal Burst , and Mirror Coat do not trigger Anticipation. Generation V [ edit | edit source ] The moves Selfdestruct and Explosion are now treated like all other Normal-type moves and thus no longer trigger Anticipation. Counter , Metal Burst , and Mirror Coat are counted as attacking moves of their types, so can trigger Anticipation. Techno Blast is treated as a Normal-type move. Synchronoise is treated as an ordinary Psychic-type move. Anticipation no longer factors in the effects of Scrappy, Normalize, or Gravity on type matchups when determining if it should display a trigger message. Generation VI onward [ edit | edit source ] Hidden Power is now treated as its effective type rather than Normal-type . Revelation Dance and Multi-Attack are treated as Normal-type moves. Freeze-Dry is treated as an ordinary Ice-type move. Flying Press is treated as an ordinary Fighting-type move. Aura Wheel is treated as an Electric-type move. Anticipation takes into account the modified type chart of Inverse Battles and thus can be triggered by Normal-type moves (including Self-Destruct and Explosion). Anticipation does not factor in the effect of strong winds on type matchups, nor the effect of opponents' abilities such as Aerilate on changing the type of their moves.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "Warns of dangerous moves",
+        "evidence_ref": "Description",
+        "specificity": 0.82
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Warns of dangerous moves",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Move-sensing trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.62,
+        "specificity_score": 0.72,
+        "style": "effect"
+      },
+      {
+        "text": "Alerts you to lethal threats",
+        "evidence_ref": "Description",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "weather trait",
+      "danger sensor"
+    ],
+    "connections_descriptors": [
+      "Weather abilities",
+      "Predictive abilities",
+      "Gen IV abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257926
+}

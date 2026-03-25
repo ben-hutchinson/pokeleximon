@@ -1,0 +1,17 @@
+{
+  "answerKey": "WEEDLE",
+  "answerDisplay": "WEEDLE",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Bug / Poison type Pokémon introduced in Generation 1.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/weedle",
+  "extract": "Weedle is a Bug / Poison type Pokémon introduced in Generation 1 .",
+  "rankPosition": 1,
+  "updatedAt": 1774213373
+}

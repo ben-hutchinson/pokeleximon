@@ -1,0 +1,33 @@
+{
+  "answerKey": "LIQUIDATION",
+  "answerDisplay": "LIQUIDATION",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Liquidation (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Liquidation_(move)",
+  "pageId": 218417,
+  "pageRevisionId": 4470609,
+  "leadText": "Liquidation (Japanese: アクアブレイク Aqua Break) is a damage-dealing Water-type move introduced in Generation VII. It is: TR98 in Pokémon Sword and Shield. TM110 in Pokémon Scarlet and Violet. TM076 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Liquidation does damage and has a 20% chance of lowering the target's Defense stat by one stage. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 80 60 100 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 20% 20% 40% Turns 3 2 4 ? ? May lower the target's defensive stats Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 85 102 Cooldown 8s Move wind-up time 10 frames Effect duration —s Additional effect Chance 20% Duration 15s 18s — May lower the target's Defense."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh BD SP S V The user slams into the target using a full-force blast of water. This may also lower the target's Defense stat. LA The user slams into the target using a full-force blast of water. This may also lower the target’s defensive stats. ZA The user attacks by slamming into targets using a full- force blast of water. This may also lower targets' Defense stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD RT DX It damages an enemy. It could also lower the target's Defense."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Liquidation",
+    "Liquidation (move)"
+  ],
+  "updatedAt": 1773324423
+}

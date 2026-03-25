@@ -1,0 +1,114 @@
+{
+  "answerKey": "LANSATBERRY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4509784,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "specificity": 0.7
+      },
+      {
+        "text": "in a pinch",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen III in a pinch",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Held: Consumed at 1/4 max HP to boost critical hit ratio by two stages.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Poor catch rate on most targets",
+        "evidence_ref": "Description",
+        "specificity": 0.82
+      },
+      {
+        "text": "Used for berry recipes or blending",
+        "evidence_ref": "Effect",
+        "specificity": 0.82
+      },
+      {
+        "text": "Activates at low HP",
+        "evidence_ref": "Description",
+        "specificity": 0.78
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "PokBlock and Poffin berry",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.76,
+        "specificity_score": 0.88,
+        "style": "family"
+      },
+      {
+        "text": "Berry-blending ingredient",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "family"
+      },
+      {
+        "text": "Low-HP trigger berry",
+        "evidence_ref": "Description",
+        "mystery_score": 0.66,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Low-HP held berry",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "family"
+      },
+      {
+        "text": "Pinch-activated berry",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.74,
+        "style": "family"
+      },
+      {
+        "text": "Poor on most other targets",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "restriction"
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.46,
+        "specificity_score": 0.68,
+        "style": "category"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "berry ingredient"
+    ],
+    "connections_descriptors": [
+      "Held battle items",
+      "Gen III items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257960
+}

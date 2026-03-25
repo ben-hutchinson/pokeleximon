@@ -1,0 +1,33 @@
+{
+  "answerKey": "STATIC",
+  "answerDisplay": "STATIC",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Static (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Static_(Ability)",
+  "pageId": 4086,
+  "pageRevisionId": 4499426,
+  "leadText": "Static (Japanese: せいでんき Static Electricity) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV onward 1.2 Outside of battle 1.2.1 Generation VIII 1.2.2 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokémon with this Ability is hit by a move that makes contact , there is a 1/3 chance that the attacking Pokémon will become paralyzed . This can affect Ground-type Pokémon. If a Pokémon with this Ability is hit by a multistrike move that makes contact, each hit has an independent chance to activate this Ability. Generation IV onward [ edit | edit source ] The chance for Static to paralyze is lowered to 30%. Outside of battle [ edit | edit source ] From Pokémon Emerald onward, if a Pokémon with Static is in the first place in the party (even if fainted ), then there is a 50% chance the game will force an encounter with an Electric-type Pokémon, if one is possible. As of Pokémon Sword and Shield , it shares this effect with Lightning Rod . Generation VIII [ edit | edit source ] In Pokémon Sword and Shield only, this chance is 51% instead. Generation IX [ edit | edit source ] In Pokémon Scarlet and Violet , this Ability has no effect outside of battle, with its former field function effectively being replaced by Meal Powers ."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokémon with this Ability is hit by a move that makes contact , there is a 1/3 chance that the attacking Pokémon will become paralyzed . This can affect Ground-type Pokémon. If a Pokémon with this Ability is hit by a multistrike move that makes contact, each hit has an independent chance to activate this Ability. Generation IV onward [ edit | edit source ] The chance for Static to paralyze is lowered to 30%."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Paralyzes attackers. MD T D S Paralyzes an attacker who lands a direct-contact attack. B S L こうげきしてきた ポケモンを まひじょうたいに してしまう Conq. Shock the target, with a potential to inflict paralysis. MD GtI May inflict the Paralysis status condition on an attacker when the Pokémon is hit by a direct attack. * When the Pokémon is hit with a direct attack like Tackle or Scratch, the attacker is sometimes afflicted with the Paralysis status condition! * S MD When the Pokémon is hit with a contact move like Tackle or Scratch, the attacker sometimes gets paralysis! MD RT DX When the Pokémon is hit with a contact move, like Tackle or Scratch, the attacker is sometimes afflicted with Paralysis."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Static",
+    "Static (Ability)"
+  ],
+  "updatedAt": 1773327543
+}

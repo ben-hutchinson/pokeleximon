@@ -1,0 +1,34 @@
+{
+  "answerKey": "PSYCHUP",
+  "answerDisplay": "PSYCH UP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Psych Up (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Psych_Up_(move)",
+  "pageId": 3855,
+  "pageRevisionId": 4500993,
+  "leadText": "Psych Up (Japanese: じこあんじ Self-suggest) is a non-damaging Normal-type move introduced in Generation II. It is: TM09 in Generation II. TM77 from Generation IV to Pokémon Ultra Sun and Ultra Moon as well as in Pokémon Brilliant Diamond and Shining Pearl. TM203 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generations III and IV 1.3 Generation V 1.4 Generation VI onwards Effect [ edit | edit source ] Generation II [ edit | edit source ] Psych Up resets the user's stat changes and copies all of the target's stat stages onto the user ( Attack , Defense , Special Attack , Special Defense , Speed , accuracy , and evasion ). Psych Up will fail if all of the target's stat stages are 0. Psych Up bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . It is not affected by Protect or Detect . Generations III and IV [ edit | edit source ] Psych Up no longer fails if all of the target's stat stages are 0. Psych Up can be stolen by Snatch , in which case Psych Up will be targeted at the (most recent) Pokémon it was stolen from. Generation V [ edit | edit source ] Psych Up can no longer be stolen by Snatch. Generation VI onwards [ edit | edit source ] Psych Up now also copies the target's critical hit ratio. (e.g. If the target has the effect of Focus Energy , the user also gains that effect; if the user has the effect of Focus Energy but the target does not, the user loses that effect.) Psych Up is not affected by Spiky Shield or Baneful Bunker , but will fail if the target is protected by Crafty Shield . If powered up by a Normalium Z into Z-Psych Up, the user regains all of its HP."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 Self-hypnosis move that copies the foe's stats changes, then applies them to the user. G S C Copies the foe's stat changes. R S E Copies the foe's effect(s) and gives to the user. Colo XD Copies the target's effect(s) to the user. FR LG D P Pt HG SS PBR The user hypnotizes itself into copying any stat change made by the foe. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user hypnotizes itself into copying any stat change made by the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Copies the target's levels for stats such as Attack and Defense. MD T D Copies any boosts and reductions to the target's Attack, Special Attack, Defense, Special Defense, and Movement Speed to the user's own stats. MD S The user copies the boosts and reductions of the Attack, Special Attack, Defense, Special Defense, accuracy, and evasiveness of the Pokémon it's facing. B S L しょうめんのポケモンの こうげき ぼうぎょ とくこう とくぼう めいちゅう かいひのだんかいと ばいりつを じぶんにコピーする MD GtI You copy the stat changes of the target's Attack, Defense, Special Attack, Special Defense, accuracy, and evasiveness. S MD You copy the target's changes in Attack, Defense, Sp. Atk, Sp. Def, accuracy, and evasiveness. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Psych-Up",
+    "Psych Up",
+    "Psych-Up (move)"
+  ],
+  "updatedAt": 1773326094
+}

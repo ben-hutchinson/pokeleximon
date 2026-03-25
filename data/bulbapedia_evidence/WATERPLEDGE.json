@@ -1,0 +1,38 @@
+{
+  "answerKey": "WATERPLEDGE",
+  "answerDisplay": "WATER PLEDGE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Water Pledge (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Water_Pledge_(move)",
+  "pageId": 117619,
+  "pageRevisionId": 4475817,
+  "leadText": "Water Pledge (Japanese: みずのちかい Water Oath) is a damage-dealing Water-type move introduced in Generation V. It is TM145 in Pokémon Scarlet and Violet. Along with Fire Pledge and Grass Pledge, Water Pledge is one of the battle-combo moves. All Water-type first partner Pokémon and their Evolutions can learn this move.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation V 1.2 Generation VI onwards 1.3 Generation VIII 1.3.1 Pokémon Brilliant Diamond and Shining Pearl 1.4 Generation IX Effect [ edit | edit source ] Water Pledge inflicts damage . When two allies attempt to use Water Pledge and either Fire Pledge or Grass Pledge on the same turn, the ally moving first will not itself use a move, but instead the ally moving second will use a combined attack with a power of 150 and an additional effect immediately after it: If Water Pledge and Fire Pledge are used in the same turn, the ally moving second will use Water Pledge with a power of 150, and create a rainbow on the user's side of the field for four turns. The rainbow doubles the probability of additional effects taking place for moves used by that side of the field (including the chance of flinching caused by King's Rock and Razor Fang , but not including Secret Power ); this effect is cumulative with Serene Grace for chances to cause a stat change or inflict a status, but not for chances to cause flinching. Due to the way certain secondary effects are handled, this can lead to an overflow glitch . If Water Pledge and Grass Pledge are used in the same turn, the ally moving second will use Grass Pledge with a power of 150, and create a swamp on the target's side of the field for four turns. This swamp quarters the Speed of all Pokémon on that side of the field. If a Pokémon uses one Pledge move and a partner has selected another Pledge move, but none of its partners are able to use their selected Pledge move that turn (e.g. paralysis , Sky Drop , etc.), no move will be executed. Water Pledge is unaffected by a held Water Gem (and will not consume it). If a combined move is used, it will always receive the same-type attack bonus no matter which Pokémon is the one executing it, or what type the combined move is. Water Pledge does not work in Sky Battles . Generation V [ edit | edit source ] It has a regular power of 50. Generation VI onwards [ edit | edit source ] Water Pledge's regular power changed from 50 to 80. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Water Pledge cannot be selected in a battle. Generation IX [ edit | edit source ] Water Pledge can be used again, but its effects do not take effect in Tera Raid battles."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS A column of water strikes the target. When combined with its fire equivalent, the damage increases and a rainbow appears. S M US UM P E A column of water strikes the target. When combined with its fire equivalent, its power increases and a rainbow appears. Sw Sh LA A column of water hits the target. When used with its fire equivalent, its power increases and a rainbow appears. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V A column of water hits the target. When used with its fire counterpart, this move's power is boosted and a rainbow appears."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI UNUSED S MD It damages an enemy. If it's used with Fire Pledge in an Alliance, you and your teammates will get the rainbow condition, and if it's used with Grass Pledge, the enemies in the same room will get the swamp condition. MD RT DX It damages an enemy. If your teammate is in a position from which it can use Fire Pledge, the PP of Fire Pledge will be used, but its power increases, and your teammates in the same room as you will get the Rainbow condition."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Pokémon Ultra Sun and Ultra Moon and in Pokémon Sword and Shield , Silvally is programmed to be able to be taught Water Pledge. However, the Move Tutor will only ever offer to teach it Grass Pledge , making Water Pledge and Fire Pledge unable to be learned legitimately."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Water-Pledge",
+    "Water Pledge",
+    "Water-Pledge (move)"
+  ],
+  "updatedAt": 1773328417
+}

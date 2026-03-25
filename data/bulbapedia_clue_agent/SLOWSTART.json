@@ -1,0 +1,73 @@
+{
+  "answerKey": "SLOWSTART",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4499425,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Slow Start (Japanese: Slow Start) is an Ability introduced in Generation IV. Prior to Generation IX, it was the signature Ability of Regigigas.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD T D S Limits the Pokemon's Movement Speed at the start. B S L MD GtI Unavailable S MD When the Pokemon goes to a different floor, its Travel Speed goes down! It returns to normal after a certain number of turns pass.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Pokemon Legends: Arceus 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Slow Start halves the user's Attack and Speed stats during the first five turns in battle. This counter is reset if the Pokemon is switched out. Replacing or suppresing Slow Start (such as from Skill Swap or Worry Seed ) removes its Attack and Speed modifiers. Because Slow Start is not a stat stage change, it halves the effective Attack stat of Foul Play and Body Press done by the user despite the moves using another stat instead of the user's Attack. If the user holds a typed Z-Crystal and uses a Z-Move based on a special move , Slow Start will also reduce the Special Attack stat for the duration of that move only. Generation IV [ edit | edit source ] This Ability effect may be in need of research. Reason: How the Ability functions in link battles between Japanese DP and other Generation IV games, effect in Pokemon Battle Revolution You can discuss this on the talk page. In the Japanese version of Pokemon Diamond and Pearl , removing Slow Start does not undo the Attack and Speed drop; it must still wait five turns. This was changed in localized versions as well as in Pokemon Platinum . Pokemon Legends: Arceus [ edit | edit source ] In Pokemon Legends: Arceus , Abilities do not occur in normal gameplay. However, Slow Start has been reworked into a status condition exclusive to Regigigas . Regigigas will gain the Slow Start status condition upon entering battle for its first five turns, halving its Attack and Speed stats. Due to the different way damage is calculated in this game, Slow Start's effect on Attack is much less impactful on damage output than in other games. Outside of battle [ edit | edit source ] Slow Start has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Slow Start halves the user's Attack and Speed stats during the first five turns in battle. This counter is reset if the Pokemon is switched out. Replacing or suppresing Slow Start (such as from Skill Swap or Worry Seed ) removes its Attack and Speed modifiers. Because Slow Start is not a stat stage change, it halves the effective Attack stat of Foul Play and Body Press done by the user despite the moves using another stat instead of the user's Attack. If the user holds a typed Z-Crystal and uses a Z-Move based on a special move , Slow Start will also reduce the Special Attack stat for the duration of that move only. Generation IV [ edit | edit source ] This Ability effect may be in need of research. Reason: How the Ability functions in link battles between Japanese DP and other Generation IV games, effect in Pokemon Battle Revolution You can discuss this on the talk page. In the Japanese version of Pokemon Diamond and Pearl , removing Slow Start does not undo the Attack and Speed drop; it must still wait five turns. This was changed in localized versions as well as in Pokemon Platinum . Pokemon Legends: Arceus [ edit | edit source ] In Pokemon Legends: Arceus , Abilities do not occur in normal gameplay. However, Slow Start has been reworked into a status condition exclusive to Regigigas . Regigigas will gain the Slow Start status condition upon entering battle for its first five turns, halving its Attack and Speed stats. Due to the different way damage is calculated in this game, Slow Start's effect on Attack is much less impactful on damage output than in other games.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Halves Attack and Speed for five turns upon entering battle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "switching ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "switching ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Switching abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258014
+}

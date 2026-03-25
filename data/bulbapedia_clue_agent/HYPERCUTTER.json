@@ -1,0 +1,62 @@
+{
+  "answerKey": "HYPERCUTTER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4259057,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Hyper Cutter (Japanese: Superpowerful Claws) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Prevents Attack from being lowered. MD T D S Prevents the Pokemon's Attack from being reduced. B S L MD GtI Unavailable S MD The Pokemon's Attack won't be lowered! MD RT DX The Pokemon's Attack won't be lowered.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.2 Outside of battle 1.2.1 Generation III 1.2.2 Generation IV onward Effect [ edit | edit source ] In battle [ edit | edit source ] Hyper Cutter prevents other Pokemon from lowering the Attack stat stage of the Pokemon with this Ability. It does not prevent the Pokemon with this Ability from lowering its own Attack, such as by using Superpower . It does not prevent Spectral Thief from stealing (i.e., resetting) positive stat changes. Effects that decrease Attack without using stat stages, such as Power Swap , Heart Swap , and Power Split , are unaffected by Hyper Cutter. This Ability can be ignored with Mold Breaker , Teravolt , and Turboblaze . Outside of battle [ edit | edit source ] Generation III [ edit | edit source ] In Pokemon Emerald , if a Pokemon with Hyper Cutter uses Cut in the overworld, it will cut down all tall grass within a two-square radius of the player's position, as opposed to a one-square radius without this Ability. Generation IV onward [ edit | edit source ] Hyper Cutter has no effect outside of battle due to the removal of the ability to cut tall grass.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Hyper Cutter prevents other Pokemon from lowering the Attack stat stage of the Pokemon with this Ability. It does not prevent the Pokemon with this Ability from lowering its own Attack, such as by using Superpower . It does not prevent Spectral Thief from stealing (i.e., resetting) positive stat changes. Effects that decrease Attack without using stat stages, such as Power Swap , Heart Swap , and Power Split , are unaffected by Hyper Cutter. This Ability can be ignored with Mold Breaker , Teravolt , and Turboblaze .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Prevents Attack from being lowered by other Pokemon.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "debuffing trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "debuffing trait"
+    ],
+    "connections_descriptors": [
+      "Debuffing abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257956
+}

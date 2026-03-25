@@ -1,0 +1,38 @@
+{
+  "answerKey": "FREEZESHOCK",
+  "answerDisplay": "FREEZE SHOCK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Freeze Shock (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Freeze_Shock_(move)",
+  "pageId": 117722,
+  "pageRevisionId": 4405822,
+  "leadText": "Freeze Shock (Japanese: フリーズボルト Freeze Bolt) is a damage-dealing Ice-type move introduced in Generation V. It is one of the signature moves of Black Kyurem.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Freeze Shock deals damage and has a 30% chance of paralyzing the target. Freeze Shock does nothing on the turn it is selected, other than state that the user is being cloaked in a freezing light. This charge turn can be skipped using a Power Herb . On the following turn, Freeze Shock will deal damage, PP will be deducted from it, and it will count as the last move used. Once Freeze Shock is selected, the user will not be able to switch out until it is disrupted or fully executed. If Freeze Shock is not fully executed, PP will not be deducted from it, and it will not count as the last move used. If the target uses Mirror Move during the turn that the user is charging, Mirror Move will copy the move that the user executed immediately before using Freeze Shock (or fail if it cannot). Sleep , freeze , and flinching will pause but not disrupt the duration of Freeze Shock. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Freeze Shock cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 On the second turn, the user hits the target with electrically charged ice. It may leave the target with paralysis. X Y OR AS S M US UM P E Sw Sh LA On the second turn, the user hits the target with electrically charged ice. This may also leave the target with paralysis. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The turn after using this move, the user hits the target with electrically charged ice to inflict damage. This may also leave the target with paralysis."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It damages even a faraway Pokémon. It could also cause the Paralysis status condition. With the Paralysis status, the Pokémon's Travel Speed goes down and it can't attack or use moves. It damages even faraway Pokémon. It could also cause the Paralysis status condition. With the Paralysis status, their Travel Speed goes down and they can't attack or use moves. * S MD You'll get the Freeze Shock status condition, which lets you charge power to try a powerful attack on the next turn. It could also cause paralysis."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move seems to draw reference to both Zekrom and Kyurem , as it is Ice-type and its name and side-effect are related to the Electric type. Furthermore, in Pokémon Black and White , the animation for the actual attacking part resembles that of Bolt Strike , one of Zekrom's signature moves. Ice Burn , a move variation of Freeze Shock, likewise references Kyurem and Reshiram. Freeze Shock is tied with Ice Burn for the highest base power of all Ice-type moves, excluding Z-Moves , Max Moves , and G-Max Moves . A Subzero Slammer based on either of them has the highest base power of all Ice-type moves. Freeze Shock is the only Ice-type move able to cause paralysis (excluding Body Slam , Tri Attack , and Secret Power under the effect of Refrigerate ). Freeze Shock and Ice Burn are programmed into Pokémon Black and White, but were not legitimately usable prior to the release of Black 2 and White 2, in which a Smeargle that has Sketched the moves can be traded back to Black and White."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Freeze-Shock",
+    "Freeze Shock",
+    "Freeze-Shock (move)"
+  ],
+  "updatedAt": 1773322990
+}

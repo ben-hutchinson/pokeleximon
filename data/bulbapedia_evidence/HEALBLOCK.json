@@ -1,0 +1,38 @@
+{
+  "answerKey": "HEALBLOCK",
+  "answerDisplay": "HEAL BLOCK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Heal Block (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Heal_Block_(move)",
+  "pageId": 16955,
+  "pageRevisionId": 4482369,
+  "leadText": "Heal Block (Japanese: かいふくふうじ Recovery Block) is a non-damaging Psychic-type move introduced in Generation IV. It is TM097 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation V 1.3 Generations VI to VII 1.4 Generation VIII 1.5 Generation IX 1.5.1 Pokémon Scarlet and Violet 1.5.2 Pokémon Legends: ZA Effect [ edit | edit source ] Heal Block restricts the targets from healing in certain ways for five turns. Affected Pokémon are unable to use status moves that heal the user immediately , HP-draining moves , Wish , Lunar Dance , Healing Wish , Heal Pulse , Floral Healing , or to target an ally with Pollen Puff . These Pokémon are also unable to be targeted by Heal Pulse, Floral Healing, or an ally's Pollen Puff, or healed by Wish (even if Wish was used successfully before the Heal Block). They can still use Present , Ingrain , Aqua Ring , and Grassy Terrain , but cannot be healed by the effects of these moves. If a Pokémon had already selected one of the blocked moves to use before being affected by Heal Block, it is prevented from using it and PP will not be deducted. If a Pokémon cannot use any moves when selecting a move to use due to Heal Block (e.g., due to knowing no other moves that have PP, Choice Band , etc.), it will use Struggle . Restricted moves can still be called by moves that call other moves (such as Metronome ), but they are prevented from being used. A Pokémon affected by Heal Block is still able to use Leech Seed , causing the target to become seeded . However, Sappy Seed and Heal Block do not interact because they are not available in the same core series games. The seeded Pokémon still takes damage every turn as usual, regardless of the seeder being affected by Heal Block. As long as the user of Leech Seed (or the Pokémon who replaced it in the same spot) is affected by Heal Block, no HP will be restored, but it will still take damage if the seeded Pokémon has Liquid Ooze . Heal Block can be reflected by Magic Bounce . Heal Block's effect can be transferred via Baton Pass . Generation IV [ edit | edit source ] All Abilities and items which restore HP during battle work as usual. In this generation only, Heal Block cannot be reflected by Magic Bounce. If an affected Pokémon uses HP-draining moves , they still inflict damage but are unable to restore HP . The user still takes damage if the target has Liquid Ooze . Generation V [ edit | edit source ] Affected Pokémon can no longer be healed by Black Sludge , Leftovers , or Shell Bell . Affected Pokémon will no longer consume held HP-restoring Berries or Berry Juice . If an affected Pokémon consumes an HP-restoring Berry via Fling , Bug Bite , or Pluck , it will not have its HP restored. Affected Pokémon with the Ability Dry Skin or Water Absorb will take no damage from Water-type moves, but will not be healed by them either. Affected Pokémon with the Ability Volt Absorb will take no damage from Electric-type moves, but will not be healed by them either. Affected Pokémon with the Ability Dry Skin or Rain Dish are prevented from healing during rain . Affected Pokémon with the Ability Ice Body are prevented from healing during hail , but are not damaged by it either. Affected Pokémon with the ability Poison Heal will not be healed or damaged if they are poisoned . Affected Pokémon with the Ability Cheek Pouch will not be healed after eating a Berry . Heal Block will not prevent Pokémon with the Ability Regenerator from having their HP restored upon switching out. Generations VI to VII [ edit | edit source ] Affected Pokémon can no longer use HP-draining moves. Affected Pokémon can still restore HP using the Z-Power effects of status Z-Moves . Heal Block cannot prevent a Pokémon from using or being healed by any Z-Move, including moves like Z- Soft-Boiled and Z- Heal Pulse . If powered up by a Psychium Z into Z-Heal Block, the user's Special Attack stat rises by two stages. Generation VIII [ edit | edit source ] Heal Block cannot be selected in a battle. Generation IX [ edit | edit source ] Pokémon Scarlet and Violet [ edit | edit source ] Heal Block cannot be selected in a battle. Pokémon Legends: ZA [ edit | edit source ] Heal Block can be selected again. Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 12s Move wind-up time 15 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user prevents the foe from using any HP-recovery moves for five turns. B W B2 W2 X Y OR AS S M US UM P E For five turns, the user prevents the opposing team from using any moves, Abilities, or held items that recover HP. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. ZA The user prevents targets from recovering HP through moves or items for a while."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Changes the status of all enemies in the room with the user to Heal Block. In that state, Pokémon are incapable of restoring HP. B S L おなじへやの てきポケモンを かいふくふうじじょうたいにかえる MD GtI It causes the Heal Block status condition to all enemies in the same room, which makes them unable to restore their HP. S MD It prevents enemies from restoring HP for a while. * It gives the Heal Block status to all enemies in the same room, making them unable to restore their HP. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Heal Block ending in Battle Revolution. Heal Block displays animation when it ends in Pokémon Battle Revolution . Although this move is unusable in Generation VIII and Pokémon Scarlet and Violet , The Indigo Disk introduced the move Psychic Noise , which not only prevents healing but also deals damage."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Heal-Block",
+    "Heal Block",
+    "Heal-Block (move)"
+  ],
+  "updatedAt": 1773323563
+}

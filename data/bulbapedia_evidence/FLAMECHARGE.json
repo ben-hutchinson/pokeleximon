@@ -1,0 +1,34 @@
+{
+  "answerKey": "FLAMECHARGE",
+  "answerDisplay": "FLAME CHARGE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Flame Charge (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Flame_Charge_(move)",
+  "pageId": 113895,
+  "pageRevisionId": 4462230,
+  "leadText": "Flame Charge (Japanese: ニトロチャージ Nitro Charge) is a damage-dealing Fire-type move introduced in Generation V. It is: TM43 from Generation V to Pokémon Ultra Sun and Ultra Moon. TM038 in Pokémon Scarlet and Violet. TM114 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Flame Charge inflicts damage and raises the user's Speed by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user cloaks itself with flame and attacks. Building up more power, it raises the user's Speed stat. X Y OR AS S M US UM P E Cloaking itself in flame, the user attacks. Then, building up more power, the user raises its Speed stat. Sw Sh BD SP LA Cloaking itself in flame, the user attacks the target. Then, building up more power, the user raises its Speed stat. S V Cloaking itself in flame, the user attacks the target. Then, building up momentum, the user boosts its Speed stat. ZA The user attacks after cloaking itself in flame. This also increases the user's movement speed for a short time."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI S MD MD RT DX It damages an enemy. It could also boost your Travel Speed."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Flame-Charge",
+    "Flame Charge",
+    "Flame-Charge (move)"
+  ],
+  "updatedAt": 1773322841
+}

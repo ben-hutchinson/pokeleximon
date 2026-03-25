@@ -1,0 +1,53 @@
+{
+  "answerKey": "TEATIME",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4403533,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII Normal move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Normal status move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Effect [ edit | edit source ] Teatime causes all Pokemon on the field to eat their held Berry . This move bypasses substitutes . If a Pokemon has eaten its Berry, Teatime fails to work on that Pokemon. The Berry is eaten even if it would not have any effect, such as eating a Mago Berry at full health. If no Pokemon on the field has a held Berry, Teatime fails with the message \"But nothing happened!\". Teatime causes Pokemon to eat their Berries even in the presence of Unnerve or Magic Room . This move does not affect Pokemon under the effect of Max Guard . Pokemon in the semi-invulnerable turn of a move are not affected by Teatime. If Teatime has its type changed by Electrify or Plasma Fists , Pokemon with Volt Absorb , Lightning Rod , or Motor Drive will not use up their Berries but will instead gain the benefit of the Ability regardless of whether they are holding a Berry or not. Generation VIII [ edit | edit source ] Pokemon Brilliant Diamond and Shining Pearl [ edit | edit source ] Teatime cannot be selected in a battle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Normal status move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen VIII Normal move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "normal status move"
+    ],
+    "connections_descriptors": [
+      "Normal Status moves"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258023
+}

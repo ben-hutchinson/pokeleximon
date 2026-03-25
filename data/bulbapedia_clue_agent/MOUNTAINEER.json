@@ -1,0 +1,37 @@
+{
+  "answerKey": "MOUNTAINEER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4474060,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "A Hiker (Japanese: Mountaineer and Mountain Girl) is a type of Pokemon Trainer that debuted in the Generation I games. They typically appear as large, usually bearded men carrying a walking stick and wearing hiking gear. In the following generations, they also carry a large backpack. In Generation IX, female Hikers were introduced. They specialize in a combination of Fighting-, Ground-, and Rock-type Pokemon that are common in mountains and caves, such as Onix, Machop, and Geodude, although not all of them exclusively train those types. In Let's Go, Pikachu! and Let's Go, Eevee!, aside from Master Trainers, Hikers will award three Pok Balls along with prize money upon being defeated.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257978
+}

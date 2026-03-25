@@ -1,0 +1,38 @@
+{
+  "answerKey": "STRINGSHOT",
+  "answerDisplay": "STRING SHOT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "String Shot (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/String_Shot_(move)",
+  "pageId": 3690,
+  "pageRevisionId": 4500885,
+  "leadText": "String Shot (Japanese: いとをはく Spit Thread) is a non-damaging Bug-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations I to II 1.2 Generations III to V 1.3 Generation VI onwards 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generations I to II [ edit | edit source ] String Shot decreases the targets' Speed stat by one stage. In the Generation I and II core series games, when an in-game opponent outside of the Battle Tower uses String Shot, the move has a 25% chance to fail in addition to its normal chance to miss. Generations III to V [ edit | edit source ] In battles with multiple opponents, String Shot targets all adjacent foes. String Shot can be used as the first move of a Pokémon Contest combination , causing Spider Web to score double the normal appeal if used in the next turn. Generation VI onwards [ edit | edit source ] String Shot now decreases the targets' Speed stat by two stages. String Shot can also be used as part of a Contest Spectacular combination , causing any of the moves Electroweb , Spider Web and Sticky Web to give an extra three appeal points if used in the next turn. If powered up by a Buginium Z into Z-String Shot, the user's Speed stat is raised by one stage. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 9s Move wind-up time 20 frames Effect duration 15s 18s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 Strings are sprayed out and wrapped around the target to reduces its Speed . G S C A move that lowers the foe's Speed . R S E Colo XD Binds the foe with string to reduce its Speed . FR LG The foe is bound with strings shot from the mouth to reduce its Speed . D P Pt HG SS PBR The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat. B W B2 W2 The targets are bound with silk blown from the user's mouth. This silk reduces the targets' Speed stat. X Y OR AS S M US UM P E The opposing Pokémon are bound with silk blown from the user's mouth that harshly lowers the Speed stat. Sw Sh BD SP LA Opposing Pokémon are bound with silk blown from the user's mouth that harshly lowers the Speed stat. S V The user blows silk from its mouth that binds opposing Pokémon and harshly lowers their Speed stats. ZA The user spits out strings of silk, which wrap around targets and make them move more slowly for a short time."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Reduces the target's Movement Speed by one level, even at a distance. MD T D S Reduces the target's Movement Speed by 1 level, even at a distance. B S L はなれたポケモンの いどうそくどを １だんかいさげる MD GtI It reduces even a faraway Pokémon's Travel Speed. S MD MD RT DX It reduces the Travel Speed of a Pokémon, even one far away."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] String Shot is the only Bug-type status move that has an accuracy less than 100%."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "String-Shot",
+    "String Shot",
+    "String-Shot (move)"
+  ],
+  "updatedAt": 1773327612
+}

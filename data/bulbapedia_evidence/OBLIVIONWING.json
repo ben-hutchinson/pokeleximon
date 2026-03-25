@@ -1,0 +1,38 @@
+{
+  "answerKey": "OBLIVIONWING",
+  "answerDisplay": "OBLIVION WING",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Oblivion Wing (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Oblivion_Wing_(move)",
+  "pageId": 180345,
+  "pageRevisionId": 4480940,
+  "leadText": "Oblivion Wing (Japanese: デスウイング Death Wing) is a damage-dealing Flying-type move introduced in Generation VI. It is the signature move of Yveltal.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Sword and Shield 1.1.2 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX 1.2.1 Pokémon Scarlet and Violet 1.2.2 Pokémon Legends: Z-A Effect [ edit | edit source ] Oblivion Wing inflicts damage on the target and restores the user's HP by 75% of the damage dealt. It can hit non-adjacent opponents in Triple Battles . If the user is holding a Big Root , the HP restored is increased by 30% (making the restored HP 97.5% of the damage dealt). Big Root does not increase the damage dealt. If the target has the Ability Liquid Ooze , the user will lose the amount of HP it would have gained instead. Oblivion Wing cannot be used if the user is under the effects of Heal Block . Generation VIII [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] In Versions 1.0 to 1.2.1 of Pokémon Sword and Shield , Oblivion Wing could not be selected in a battle. Starting with Version 1.3.0, it is usable and functions the same as it did in previous generations. Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Oblivion Wing cannot be selected in a battle. Generation IX [ edit | edit source ] Pokémon Scarlet and Violet [ edit | edit source ] Oblivion Wing cannot be selected in a battle. Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 80 96 Cooldown 12s Move wind-up time 30 frames Effect duration —s Additional effect Heal 75% — — Restores the user's HP by a percentage of damage dealt."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh LA The user absorbs its target's HP. The user's HP is restored by over half of the damage taken by the target. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user absorbs the target's HP. The user's HP is restored by over half the damage taken by the target. ZA The user unleashes a wave of destruction to absorb HP from targets and restore the user's own HP."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It damages enemies and absorbs their HP. * It damages Pokémon, even those far away. It also restores your HP. The more damage it causes, the more damage it restores. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Oblivion Wing is the most efficient HP-draining move, recovering 75% of damage dealt with 80 base power (effectively recovering 60 base power's worth of damage). Oblivion Wing is the only Flying-type HP-draining move ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Oblivion-Wing",
+    "Oblivion Wing",
+    "Oblivion-Wing (move)"
+  ],
+  "updatedAt": 1773325436
+}

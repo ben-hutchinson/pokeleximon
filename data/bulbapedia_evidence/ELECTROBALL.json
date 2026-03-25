@@ -1,0 +1,38 @@
+{
+  "answerKey": "ELECTROBALL",
+  "answerDisplay": "ELECTRO BALL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Electro Ball (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Electro_Ball_(move)",
+  "pageId": 114997,
+  "pageRevisionId": 4505283,
+  "leadText": "Electro Ball (Japanese: エレキボール Elecball) is a damage-dealing Electric-type move introduced in Generation V. It was TR80 in Pokémon Sword and Shield, and is TM072 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Electro Ball inflicts more damage the faster the user is compared to the target. Electro Ball's power is calculated as follows: Target's Speed Power More than 100%, or exactly 0 40 50.01% - 100% 60 33.34% - 50% 80 25.01% - 33.33% 120 0.01% - 25% 150 The Speed values used take all modifiers into account (including stat stages, paralysis , held items such as the Iron Ball , and Abilities such as Slush Rush ). Electro Ball has no effect on Pokémon with Bulletproof . Electro Ball can also be used as part of a Contest Spectacular combination , with the user gaining extra three appeal points if a certain move ( Agility , Autotomize , Calm Mind , Charge , Rock Polish , or Shell Smash ) was used in the prior turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user hurls an electric orb at the target. The faster the user is than the target, the greater the damage. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user hurls an electric orb at the target. The faster the user is than the target, the greater the move's power."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Conq. The user hurls an electric orb at the target. The faster the user is than the target, the greater the damage. MD GtI It damages an enemy. The faster your Travel Speed than that of the enemy, the greater the damage it causes. S MD It damages an enemy. The faster your Speed compared to that of the enemy, the greater the damage caused. MD RT DX It damages an enemy. The higher your Speed compared to that of the enemy, the greater the damage caused."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Electro Ball can have the highest base power of any Electric-type move (150), excluding Z-Moves ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Electro-Ball",
+    "Electro Ball",
+    "Electro-Ball (move)"
+  ],
+  "updatedAt": 1773322524
+}

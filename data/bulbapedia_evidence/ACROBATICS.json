@@ -1,0 +1,33 @@
+{
+  "answerKey": "ACROBATICS",
+  "answerDisplay": "ACROBATICS",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Acrobatics (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Acrobatics_(move)",
+  "pageId": 112983,
+  "pageRevisionId": 4468090,
+  "leadText": "This article is about the move introduced in Generation V. For the Ability whose Japanese name translates as \"Acrobatics\", see Unburden (Ability). Acrobatics (Japanese: アクロバット Acrobat) is a damage-dealing Flying-type move introduced in Generation V. It is: TM62 from Generations V through Pokémon Ultra Sun and Ultra Moon. TM78 in Pokémon Sword and Shield. TM014 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Acrobatics deals damage and its power is doubled to 110 if the user has no held item. Acrobatics can hit non-adjacent opponents in Triple Battles . If the user is holding a Flying Gem , the item is consumed before this move checks whether the Pokémon has an item or not; therefore, the power is still doubled."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage. S V The user nimbly strikes the target. This attack does massive damage if the user isn't holding an item."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI S MD MD RT DX It damages an enemy. If you are not holding an item, the damage goes up."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Acrobatics",
+    "Acrobatics (move)"
+  ],
+  "updatedAt": 1773320670
+}

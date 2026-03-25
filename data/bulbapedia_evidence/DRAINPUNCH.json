@@ -1,0 +1,38 @@
+{
+  "answerKey": "DRAINPUNCH",
+  "answerDisplay": "DRAIN PUNCH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Drain Punch (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Drain_Punch_(move)",
+  "pageId": 17451,
+  "pageRevisionId": 4494236,
+  "leadText": "Drain Punch (Japanese: ドレインパンチ Drain Punch) is a damage-dealing Fighting-type move introduced in Generation IV. It is: TM60 in Generation IV and Pokémon Brilliant Diamond and Shining Pearl. TM63 in Pokémon Sword and Shield. TM073 in Pokémon Scarlet and Violet. TM131 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation V 1.3 Generation VI onwards 1.4 Generation VIII 1.4.1 Pokémon Legends: Arceus Effect [ edit | edit source ] Generation IV [ edit | edit source ] Drain Punch inflicts damage, and up to 50% of the damage dealt to the target is restored to the user as HP . If this attack deals 1 HP of damage, 1 HP will be restored to the user. If HP is restored to the user when its current HP is greater than its maximum HP, its current HP will be set equal to its maximum HP. If the target has the Ability Liquid Ooze , the user will lose the amount of HP it would have gained instead. If the user is holding a Big Root , the HP restored is increased by 30% (making the restored HP 65% of the damage dealt). Big Root does not increase the damage dealt. Drain Punch has 5 PP and a base power of 60 in this generation Generation V [ edit | edit source ] Drain Punch's base PP is raised to 10 and the power is increased from 60 to 75. Generation VI onwards [ edit | edit source ] Drain Punch cannot be used if the user is under the effects of Heal Block or Psychic Noise . Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 75 60 90 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Heal 50% 50% 75% ? ? ? ? Restores the user's HP by a percentage of damage dealt"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP An energy-draining punch. The user's HP is restored by half the damage taken by the target. LA The user attacks with an energy-draining punch that restores the user’s HP. S V The user attacks with an energy-draining punch. The user's HP is restored by up to half the damage taken by the target. ZA The user attacks with an energy-draining punch. The user's HP will be restored by a portion of the damage dealt."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target, then restores the user's HP based on the damage inflicted. B S L てきポケモンに ダメージをあたえる あたえたダメージに おうじて じぶんの ＨＰが かいふくする MD GtI It damages an enemy. It also restores your HP. The greater the damage it causes, the more HP it restores. S MD MD RT DX It damages an enemy. It also restores your HP. The greater the damage caused, the more HP it restores."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Shroomish and Togekiss are able to learn Drain Punch despite not having any hands, although their evolutionary relatives do. Drain Punch is the only Fighting-type HP-draining move ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Drain-Punch",
+    "Drain Punch",
+    "Drain-Punch (move)"
+  ],
+  "updatedAt": 1773322300
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "SCARYFACE",
+  "answerDisplay": "SCARY FACE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Scary Face (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Scary_Face_(move)",
+  "pageId": 3794,
+  "pageRevisionId": 4469866,
+  "leadText": "Scary Face (Japanese: こわいかお Scary Face) is a non-damaging Normal-type move introduced in Generation II. It was TM26 in Pokémon Sword and Shield, and is TM006 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generations III to IV 1.3 Generation V onwards 1.4 Outside of battle Effect [ edit | edit source ] Generation II [ edit | edit source ] Scary Face lowers the target's Speed stat by two stages. Scary Face's accuracy is 90%. In the Generation II core series games, when an in-game opponent outside of the Battle Tower uses Scary Face, the move has a 25% chance to fail in addition to its normal chance to miss. Generations III to IV [ edit | edit source ] Scary Face can be used as the first move of a Pokémon Contest combination , causing Bite , Crunch , Leer , and Super Fang to score double the normal appeal if used in the next turn. It can also be used to finish a combination, with the user gaining 2 bonus appeal points if Leer or Rage was used in the previous turn. Generation V onwards [ edit | edit source ] Scary Face's accuracy was changed from 90% to 100%. If powered up by a Normalium Z into Z-Scary Face, the user's Speed stat is raised by one stage. Outside of battle [ edit | edit source ] If a Kyurem that knows Scary Face fuses with either Reshiram or Zekrom via the DNA Splicers , the move will be replaced by Fusion Flare or Fusion Bolt . Reversing the fusion will perform the inverse of these move transformations. Since Generation VIII, due to Scary Face being taught by TM, Kyurem can learn Scary Face even if fused. If a fused Kyurem that knows Scary Face is separated, it will forget Scary Face before Fusion Flare or Fusion Bolt is replaced."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A horrific look that scares the victim, sharply reducing the target's Speed . G S C Sharply reduces the foe's Speed . R S E Colo XD Frightens with a scary face to sharply reduce Speed . FR LG Frightens the foe with a scary face to sharply reduce its Speed . D P Pt HG SS PBR The user frightens the foe with a scary face to sharply reduce its Speed stat. B W B2 W2 The user frightens the target with a scary face to harshly reduce its Speed stat. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user frightens the target with a scary face to harshly lower its Speed stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Lowers the target's Movement Speed by one level. MD T D S Reduces the target's Movement Speed by 1 level. B S L てきポケモンの いどうそくどを １だんかいさげる MD GtI S MD MD RT DX It reduces the enemy's Travel Speed."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Scary-Face",
+    "Scary Face",
+    "Scary-Face (move)"
+  ],
+  "updatedAt": 1773326685
+}

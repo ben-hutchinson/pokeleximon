@@ -1,0 +1,38 @@
+{
+  "answerKey": "ARMORFOSSIL",
+  "answerDisplay": "ARMOR FOSSIL",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Armor Fossil",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Armor_Fossil",
+  "pageId": 15100,
+  "pageRevisionId": 4504963,
+  "leadText": "The Armor Fossil (Japanese: たてのカセキ Shield Fossil) is a fossil introduced in Generation IV that can be regenerated into Shieldon. It is the counterpart of the Skull Fossil.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Passive effect [ edit | edit source ] If brought to the one of the following locations, the Armor Fossil can be regenerated into a Shieldon . Games Location D P Pt BD SP Oreburgh Mining Museum HG SS Pewter Museum of Science B W B2 W2 Nacrene Museum X Y Ambrette Town Fossil Lab OR AS Devon Corporation in Rustboro City S M US UM Fossil Restoration Center on Route 8"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Underground P Pt Underground (if the last digit on the player's Trainer ID is an even number) HG SS Trade B W Twist Mountain (after obtaining the National Pokédex ) B2 W2 Twist Mountain Join Avenue ( Antique Shop ) Funfest Mission ( What is the Real Price? ) W2 X Y Rock Smash ( Glittering Cave , after entering the Hall of Fame ) OR AS Rock Smash ( Mirage spots ) OR S M US UM Konikoni City ( Olivia's jewelry shop ) M UM Poké Pelago (Isle Aphun: Rare-Treasure Hunting, Interesting-Item Hunting) US UM BD SP Grand Underground SP"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a collar. X Y OR AS S M US UM P E Sw Sh BD SP LA S V A fossil from a prehistoric Pokémon that once lived on the land. It looks to be from some kind of protective collar."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.2.1 Passive effect 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price D P Pt HG SS B W B2 W2 X Y OR AS BD SP N/A $ 500 S US N/A $ 3,500 M UM $ 7,000 $ 3,500 Effect [ edit | edit source ] Passive effect [ edit | edit source ] If brought to the one of the following locations, the Armor Fossil can be regenerated into a Shieldon . Games Location D P Pt BD SP Oreburgh Mining Museum HG SS Pewter Museum of Science B W B2 W2 Nacrene Museum X Y Ambrette Town Fossil Lab OR AS Devon Corporation in Rustboro City S M US UM Fossil Restoration Center on Route 8 Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a collar. X Y OR AS S M US UM P E Sw Sh BD SP LA S V A fossil from a prehistoric Pokémon that once lived on the land. It looks to be from some kind of protective collar. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Underground P Pt Underground (if the last digit on the player's Trainer ID is an even number) HG SS Trade B W Twist Mountain (after obtaining the National Pokédex ) B2 W2 Twist Mountain Join Avenue ( Antique Shop ) Funfest Mission ( What is the Real Price? ) W2 X Y Rock Smash ( Glittering Cave , after entering the Hall of Fame ) OR AS Rock Smash ( Mirage spots ) OR S M US UM Konikoni City ( Olivia's jewelry shop ) M UM Poké Pelago (Isle Aphun: Rare-Treasure Hunting, Interesting-Item Hunting) US UM BD SP Grand Underground SP"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Armor-Fossil",
+    "Armor Fossil",
+    "Armor-Fossil (item)"
+  ],
+  "updatedAt": 1773328755
+}

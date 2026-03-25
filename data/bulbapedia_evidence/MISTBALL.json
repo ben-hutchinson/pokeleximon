@@ -1,0 +1,34 @@
+{
+  "answerKey": "MISTBALL",
+  "answerDisplay": "MIST BALL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Mist Ball (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mist_Ball_(move)",
+  "pageId": 3907,
+  "pageRevisionId": 4500963,
+  "leadText": "Mist Ball (Japanese: ミストボール Mist Ball) is a damage-dealing Psychic-type move introduced in Generation III. It is the signature move of Latias.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations III to VIII 1.2 Generation VIII 1.2.1 Pokémon Sword and Shield 1.3 Generation IX Effect [ edit | edit source ] Mist Ball inflicts damage and has a 50% chance of lowering the target's Special Attack stat by one stage. It does not affect targets with Bulletproof . Mist Ball can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Calm Mind was used in the previous turn. Generations III to VIII [ edit | edit source ] Mist Ball has a base power of 70. Generation VIII [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] In Versions 1.0 to 1.2.1 of Pokémon Sword and Shield , Mist Ball could not be selected in a battle. Starting with Version 1.3.0, it is usable and functions the same as it did in previous generations. Generation IX [ edit | edit source ] In Versions 1.0 to 2.0.2 of Pokémon Scarlet and Violet , Mist Ball could not be selected in a battle. Starting with Version 3.0.0, it is usable and functions the same as it did in previous generations. Furthermore, Mist Ball's base power has been increased to 95."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Attacks with a flurry of down. May lower Sp. Atk . FR LG A flurry of down hits the foe. It may also lower the foe's Sp. Atk . D P Pt HG SS PBR A mistlike flurry of down envelops and damages the foe. It may also lower the target's Sp. Atk. B W B2 W2 A mistlike flurry of down envelops and damages the target. It may also lower the target's Sp. Atk. X Y OR AS S M US UM P E Sw Sh BD SP LA S V A mist-like flurry of down envelops and damages the target. This may also lower the target's Sp. Atk stat. ZA The user attacks with a ball packed with mist-like down. This may also lower targets' Sp. Atk stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may lower the target's Special Attack by one level. MD T D S Inflicts damage on the target. It may also reduce the target's Special Attack by 1 level. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで とくこうを １だんかいさげる MD GtI UNUSED S MD MD RT DX It damages a Pokémon, even one far away. It could also lower the enemy's Sp. Atk."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mist-Ball",
+    "Mist Ball",
+    "Mist-Ball (move)"
+  ],
+  "updatedAt": 1773325120
+}

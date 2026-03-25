@@ -1,0 +1,33 @@
+{
+  "answerKey": "ABSORB",
+  "answerDisplay": "ABSORB",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Absorb (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Absorb_(move)",
+  "pageId": 6003,
+  "pageRevisionId": 4500986,
+  "leadText": "If you were looking for the skill in Pokémon Shuffle, see Skill (Shuffle) → Absorb. Absorb (Japanese: すいとる Absorb) is a damage-dealing Grass-type move introduced in Generation I. It is the first in a line of three Grass-type HP-draining attacks, the other two being Mega Drain and Giga Drain.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations I and II 1.2 Generation III 1.3 Generation IV 1.4 Generation V 1.5 Generation VI 1.6 Generation VII 1.7 Generation VIII onwards 1.7.1 Pokémon Legends: Arceus 1.8 Generation IX 1.8.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generations I and II [ edit | edit source ] Absorb inflicts damage, and up to 50% of the damage dealt to the target is restored to the user as HP (but not less than 1 HP), restoring up to the Pokémon's maximum HP. Absorb has 20 PP. In the localized versions of the Generation I games, if Absorb breaks a substitute , no HP will be restored to the user. In the Japanese version of Generation I games, and all versions of the Pokémon Stadium series and Generation II games, Absorb will always miss if the target has a substitute. Generation III [ edit | edit source ] Absorb will now properly heal the user when damaging a substitute, even if it was broken. When used on a Pokémon with the Liquid Ooze Ability, the user will lose the amount of HP it would have gained instead. Absorb can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Growth was used in the previous turn. Absorb is no longer affected by King's Rock. Generation IV [ edit | edit source ] Absorb's PP is increased to 25. If the user is holding a Big Root , the HP restored is increased by 30% (making the restored HP 65% of the damage dealt). Big Root does not increase the damage dealt. Generation V [ edit | edit source ] Absorb is now affected by King's Rock. Generation VI [ edit | edit source ] Absorb cannot be used if the user is under the effects of Heal Block . Generation VII [ edit | edit source ] In Pokémon: Let's Go, Pikachu! and Let's Go, Eevee! , Absorb's power was changed from 20 to 40, while its PP was reduced to 15. Generation VIII onwards [ edit | edit source ] Absorb's power was changed back to 20, and its PP back to 25. Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Special PP 20 Agile Strong Power 30 20 40 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Heal 50% 50% 75% ? ? ? ? Restores the user's HP by a percentage of damage dealt Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 20 24 Cooldown 7s Move wind-up time 10 frames Effect duration —s Additional effect Heal 50% — — Restores the user's HP by a percentage of damage dealt."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A Grass -type attack. It adds half the HP it drained from the target to the attacker's HP. G S C Steals 1/2 of the damage inflicted. R S E Colo XD An attack that absorbs half the damage inflicted. FR LG An attack that absorbs half the damage it inflicted to restore HP. D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP A nutrient-draining attack. The user's HP is restored by half the damage taken by the target. LA The user attacks by draining the target’s nutrients. Some of the damage dealt to the target is absorbed by the user to restore their own HP. S V A nutrient-draining attack. The user's HP is restored by up to half the damage taken by the target. ZA The user attacks by draining targets of their nutrients. The user's HP will be restored by a portion of the damage dealt."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It also restores the user's HP based on the damage it inflicted. MD T D S Inflicts damage on the target, then restores the user's HP based on the damage inflicted. B S L てきポケモンに ダメージをあたえる あたえたダメージに おうじて じぶんの ＨＰが かいふくする Conq. A nutrient-draining attack. The user's HP is restored by half the damage taken by the target. MD GtI S MD MD RT DX It damages an enemy. It also restores your HP. The greater the damage it causes, the more HP it restores."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Absorb",
+    "Absorb (move)"
+  ],
+  "updatedAt": 1773320648
+}

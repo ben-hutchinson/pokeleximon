@@ -1,0 +1,30 @@
+{
+  "answerKey": "CLIFFEDGEGATE",
+  "answerDisplay": "CLIFF EDGE GATE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Cliff Edge Gate",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Cliff_Edge_Gate",
+  "pageId": 85509,
+  "pageRevisionId": 4380498,
+  "leadText": "Cliff Edge Gate (Japanese: がけっぷちゲート Ragged Cliff Gate) is a small cavern on Cianwood island that leads between the small island town and Route 47. It is blocked when the player first arrives on the island in Pokémon HeartGold and SoulSilver; however, after Amphy has been healed in Olivine City, it is no longer under construction, and the player can pass through to Route 47. It serves only as a passageway until after the player has obtained HM08 (Rock Climb) and can use it outside of battle, at which point Pokémon are available in the small pond in the middle, along with a Big Pearl.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] The small cavern is the gateway to the newly-constructed Safari Zone , just west of Cianwood. After entering the cave from Cianwood City , the information desk for the Safari Zone can be found, alongside a giant poster promoting the Safari Zone. Behind the desk is a lady who is eager to participate in the Safari Zone games, and won't stop complaining until it opens. The Cianwood locals enjoy her rhythmical, talkative nature, even the Town Channel note her as the number one attraction in Cianwood City. Further along the path, the cave climbs a steep incline up toward the exit to Route 47 , however, along the way there is a set of rocks that can be scaled down to a small pond, which is riddled with wild Pokémon, and a separated shoreline which contains a Big Pearl concealed inside a rock."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Big Pearl In the rock on the north side of the pond (requires Rock Climb and Surf ) (hidden) HG SS"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Cliff-Edge-Gate",
+    "Cliff Edge Gate",
+    "Cliff-Edge-Gate (location)"
+  ],
+  "updatedAt": 1774213790
+}

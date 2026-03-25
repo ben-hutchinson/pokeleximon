@@ -1,0 +1,30 @@
+{
+  "answerKey": "TERASTARSTORM",
+  "answerDisplay": "TERA STARSTORM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Tera Starstorm (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tera_Starstorm_(move)",
+  "pageId": 300825,
+  "pageRevisionId": 4496920,
+  "leadText": "Tera Starstorm (Japanese: テラクラスター Tera Cluster) is a damage-dealing move introduced during Generation IX, in The Indigo Disk. It is the signature move of Terapagos.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Tera Starstorm inflicts damage. When used by Terapagos in its Stellar Form, Tera Starstorm becomes Stellar-type and targets both opponents in a Double Battle . If the user's Attack stat is higher than its Special Attack stat, Tera Starstorm becomes a physical move when Terastallized ; otherwise, it remains a special move . For determining which stat is higher, stat stage-modifiers are taken into account, but other effects (e.g. held items such as a Choice Band , Abilities such as Huge Power , etc.) are not. This move can't be copied by Sketch ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V With the power of its crystals, the user bombards and eliminates the target. When used by Terapagos in its Stellar Form, this move damages all opposing Pokémon."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Tera-Starstorm",
+    "Tera Starstorm",
+    "Tera-Starstorm (move)"
+  ],
+  "updatedAt": 1773327892
+}

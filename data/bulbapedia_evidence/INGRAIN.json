@@ -1,0 +1,37 @@
+{
+  "answerKey": "INGRAIN",
+  "answerDisplay": "INGRAIN",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Ingrain (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ingrain_(move)",
+  "pageId": 3886,
+  "pageRevisionId": 4500929,
+  "leadText": "Ingrain (Japanese: ねをはる Extend Roots) is a non-damaging Grass-type move introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III 1.2 Generations IV and V 1.3 Generation VI onwards Effect [ edit | edit source ] The user plants roots in the ground, allowing it to restore 1/16th of its maximum HP at the end of every turn. This roots the user firmly in place, preventing it from escaping or switching out . If a rooted Pokémon is holding a Big Root , the amount of HP restored is increased by 30%. Red Card and moves that switch the target out (such as Roar and Whirlwind ) cannot force a rooted Pokémon to switch out. A rooted Pokémon can still switch when: it uses one of the moves that switch the user out (such as Baton Pass or U-turn ) it holds a Shed Shell or Smoke Ball the effect of the held Eject Button is activated its Trainer uses an escape item A Pokémon affected by Heal Block can still use Ingrain (rooting itself to the ground as usual), but this Pokémon will not be healed by Ingrain as long as Heal Block is still in effect. The effects of Ingrain can be passed by Baton Pass . Generation III [ edit | edit source ] Ghost-type Pokémon are treated as any other type, being unable to switch out. A rooted Pokémon cannot switch when the opponent's Pokémon fainted with the battle style set to “shift” Generations IV and V [ edit | edit source ] Ingrain causes the affected Pokémon to become grounded : the Pokémon is therefore susceptible to Ground-type moves; Spikes , Toxic Spikes , and Sticky Web (only relevant when a Pokémon is switched in via Baton Pass and obtains Ingrain); and terrain —regardless of whether it is Flying-type , has Levitate , holds an Air Balloon , or is under the effect of Magnet Rise or Telekinesis . Magnet Rise fails if used by a Pokémon under the effect of Ingrain; the move Telekinesis cannot affect a Pokémon under the effect of Ingrain. A rooted Pokémon can now switch when the opponent's Pokémon fainted with the battle style set to “shift”. Generation VI onwards [ edit | edit source ] Ghost-type Pokémon under the effects of Ingrain are now able to switch out. However, they still cannot be forced to switch by moves that switch the target out. If powered up by a Grassium Z into Z-Ingrain, the user's Special Defense stat is raised by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Lays roots that restore HP. The user can't switch out. FR LG The user lays roots that restore HP on every turn. It can't switch out. D P Pt HG SS PBR The user lays roots that restore HP on every turn. Because it is rooted, it can't switch out. B W B2 W2 X Y OR AS The user lays roots that restore its HP on every turn. Because it is rooted, it can't switch out. S M US UM P E Sw Sh BD SP LA The user lays roots that restore its HP on every turn. Because it's rooted, it can't switch out. S V The user lays roots that restore its own HP every turn. Because the user is now rooted, it can't switch out."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Ingrain status. The user becomes incapable of moving, but regains HP over several turns. MD T D S Gives the user an Ingrain status. A Pokémon with the Ingrain status is incapable of moving but regains HP every few turns. B S L じぶんを ねをはりじょうたいにかえる ねをはりじょうたいの ポケモンは いどうできないが いっていターンごとに ＨＰが かいふくする このわざは ポケモンタワーでは いちばんしたでしか ねをはれない MD GtI You'll get the Ingrain status. With the Ingrain status, you can't move but keep restoring HP. S MD You'll get the Ingrain status. In the Ingrain status condition, you're unable to move but your HP keeps restoring. MD RT DX You'll get the Ingrain condition. In the Ingrain condition, you're unable to move but your HP keeps restoring."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation III , the status screen erroneously states that the move has 100% accuracy, even though it targets the user (thus it ignores accuracy and evasion checks)."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ingrain",
+    "Ingrain (move)"
+  ],
+  "updatedAt": 1773323903
+}

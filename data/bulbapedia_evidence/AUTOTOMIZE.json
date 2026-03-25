@@ -1,0 +1,37 @@
+{
+  "answerKey": "AUTOTOMIZE",
+  "answerDisplay": "AUTOTOMIZE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Autotomize (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Autotomize_(move)",
+  "pageId": 117506,
+  "pageRevisionId": 4375355,
+  "leadText": "Autotomize (Japanese: ボディパージ Body Purge) is a non-damaging Steel-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Autotomize raises the user's Speed stat by two stages and (if the user successfully changes its Speed) decreases its weight by 220 lbs. (100 kg). If the user successfully changes its weight, the message \" became nimble!\" is displayed. Autotomize cannot decrease the user's weight below the minimum 0.2 lbs (0.1 kg); if the user's weight would drop below the minimum, it becomes the minimum instead. Weight loss from Autotomize stacks, so using it multiple times will continue to decrease the user's weight accordingly until it reaches the minimum weight. Autotomize's weight reduction cannot be transferred by Baton Pass or removed by Haze . A Pokémon's weight is reset if it changes form (from Generation VI onward), switches out or faints , or the battle ends. Autotomize can also be used as part of a Contest Spectacular combination and using it will cause Baton Pass and Electro Ball to give extra three appeal points if used in the next turn. If powered up by a Steelium Z into Z-Autotomize, all of the user's lowered stats are reset. Generation IX [ edit | edit source ] Autotomize cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user sheds part of its body to make itself lighter and sharply raise its Speed stat. S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It sharply boosts your Travel Speed, and you'll get the Autotomize status. With the Autotomize status, you get lighter. S MD It sharply boosts your Travel Speed and also makes you lighter. * It sharply boosts your Travel Speed, and you'll get the Autotomize status condition. In the Autotomize status condition, you'll become noticeably lighter on your feet! *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Autotomize refers to autotomy , the ability of certain animals to deliberately shed parts of their own body, usually to escape from a predator. It is common amongst reptiles and salamanders, as well as various invertebrates."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Autotomize",
+    "Autotomize (move)"
+  ],
+  "updatedAt": 1773320949
+}

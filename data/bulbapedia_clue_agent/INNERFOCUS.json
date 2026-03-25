@@ -1,0 +1,62 @@
+{
+  "answerKey": "INNERFOCUS",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4407408,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Inner Focus (Japanese: Force of Will) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Prevents cringing. MD T D S Protects the Pokemon from cringing. B S L Conq. The Pokemon is protected from flinching. MD GtI Prevents the Cringe status condition. * It protects the Pokemon from the Cringe status condition! It won't ever Cringe! * S MD It protects the Pokemon from the flinch status condition! MD RT DX This Ability protects the Pokemon from the Flinch status condition.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations III to VII 1.1.2 Generation VIII onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations III to VII [ edit | edit source ] Inner Focus prevents the Pokemon from flinching . However, Pokemon with this Ability can still flinch to a Pokemon with Mold Breaker , Teravolt , or Turboblaze . While some descriptions state that the user flinches, Focus Punch failing due to taking damage is not flinching, so the move is unaffected by Inner Focus. If the Pokemon is hit by a move that always causes flinching, the message \" 's Inner Focus prevents flinching! \" ( Generation III ) or \" won't flinch because of its Inner Focus! \" ( Generation IV ) will appear. No message is displayed in later generations. Generation VIII onward [ edit | edit source ] Inner Focus now also blocks Intimidate . Outside of battle [ edit | edit source ] Inner Focus has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Generations III to VII [ edit | edit source ] Inner Focus prevents the Pokemon from flinching . However, Pokemon with this Ability can still flinch to a Pokemon with Mold Breaker , Teravolt , or Turboblaze . While some descriptions state that the user flinches, Focus Punch failing due to taking damage is not flinching, so the move is unaffected by Inner Focus. If the Pokemon is hit by a move that always causes flinching, the message \" 's Inner Focus prevents flinching! \" ( Generation III ) or \" won't flinch because of its Inner Focus! \" ( Generation IV ) will appear. No message is displayed in later generations. Generation VIII onward [ edit | edit source ] Inner Focus now also blocks Intimidate .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Prevents flinching.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "flinch-causing trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "flinch-causing trait"
+    ],
+    "connections_descriptors": [
+      "Flinch-Causing abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257957
+}

@@ -1,0 +1,76 @@
+{
+  "answerKey": "OVERCOAT",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4273617,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Overcoat (Japanese: Dustproof) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD GtI Protects the Pokemon from weather that would damage it. * The Hail and Sandstorm weather conditions won't damage the Pokemon! * S MD Hail or a sandstorm won't damage the Pokemon! It also prevents the effects of the Effect Spore Ability and moves such as Poison Powder and Powder .",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation V 1.1.2 Generation VI onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation V [ edit | edit source ] A Pokemon with Overcoat does not take damage from the weather conditions sandstorm and hailstorm . Generation VI onward [ edit | edit source ] Overcoat now also protects from powder and spore moves , as well as Effect Spore . Outside of battle [ edit | edit source ] Overcoat has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Generation V [ edit | edit source ] A Pokemon with Overcoat does not take damage from the weather conditions sandstorm and hailstorm . Generation VI onward [ edit | edit source ] Overcoat now also protects from powder and spore moves , as well as Effect Spore .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Protects against damage from weather.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "protective trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "protective trait",
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Protective abilities",
+      "Weather abilities",
+      "Gen V abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257988
+}

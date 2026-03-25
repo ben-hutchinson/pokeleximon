@@ -1,0 +1,62 @@
+{
+  "answerKey": "SNIPER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4407492,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Sniper (Japanese: Sniper) is an Ability introduced in Generation IV.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the damage the Pokemon inflicts with critical hits. B S L Conq. Powers up moves if they become critical hits. MD GtI Unavailable S MD Damage when an attack results in a critical hit goes up! MD RT DX This Ability increases the damage of moves that result in critical hits.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generation V 1.1.3 Generation VI onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Sniper increases critical-hit damage by 50%. Generation IV [ edit | edit source ] Critical hits will do 3 damage instead of 2 damage. Sniper cannot be activated by Beat Up . Generation V [ edit | edit source ] Sniper can now be activated by Beat Up. Additionally, rather than changing the critical hit multiplier directly, Sniper now multiplies by 1.5 the damage dealt by a move that deals a critical hit, applied last to damage as part of the \"final\" modifiers that get applied to the damage, resulting in virtually the same effect. Generation VI onward [ edit | edit source ] Critical hits will now effectively do only 2.25 damage, as a result of the critical hit multiplier being lowered to 1.5. Outside of battle [ edit | edit source ] Sniper has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "Contents 1 In battle 1.1 Generation IV 1.2 Generation V 1.3 Generation VI onward In battle [ edit | edit source ] Sniper increases critical-hit damage by 50%. Generation IV [ edit | edit source ] Critical hits will do 3 damage instead of 2 damage. Sniper cannot be activated by Beat Up . Generation V [ edit | edit source ] Sniper can now be activated by Beat Up. Additionally, rather than changing the critical hit multiplier directly, Sniper now multiplies by 1.5 the damage dealt by a move that deals a critical hit, applied last to damage as part of the \"final\" modifiers that get applied to the damage, resulting in virtually the same effect. Generation VI onward [ edit | edit source ] Critical hits will now effectively do only 2.25 damage, as a result of the critical hit multiplier being lowered to 1.5.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Strengthens critical hits to inflict 3 damage rather than 2.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "critical-hit trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "critical-hit trait"
+    ],
+    "connections_descriptors": [
+      "Critical-Hit abilities",
+      "Gen IV abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258015
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "RAINBOWPASS",
+  "answerDisplay": "RAINBOW PASS",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Rainbow Pass",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rainbow_Pass",
+  "pageId": 24972,
+  "pageRevisionId": 4266849,
+  "leadText": "The Rainbow Pass (Japanese: レインボーパス Rainbow Pass) is a Key Item introduced in Generation III. It is one of the Sevii Island passes.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Pokémon FireRed and LeafGreen [ edit | edit source ] The Rainbow Pass allows the player to travel via the Seagallop ferries between Vermilion City 's port and the Sevii Islands . The player must have previously obtained the Tri-Pass , which grants access to One Island , Two Island , and Three Island . Once the Rainbow Pass is obtained as well, the player will also have access to Four Island , Five Island , Six Island , and Seven Island . The player is required to own the Rainbow Pass in order to use the event-only AuroraTicket or MysticTicket , to travel to the Birth Island and Navel Rock , respectively."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description FR LG A pass for ferries between Vermilion and the Sevii Islands . It features a drawing of a rainbow. E For ferries serving Vermilion and the Sevii Islands ."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.2.1 Pokémon FireRed and LeafGreen 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price FR LG E N/A N/A Effect [ edit | edit source ] Pokémon FireRed and LeafGreen [ edit | edit source ] The Rainbow Pass allows the player to travel via the Seagallop ferries between Vermilion City 's port and the Sevii Islands . The player must have previously obtained the Tri-Pass , which grants access to One Island , Two Island , and Three Island . Once the Rainbow Pass is obtained as well, the player will also have access to Four Island , Five Island , Six Island , and Seven Island . The player is required to own the Rainbow Pass in order to use the event-only AuroraTicket or MysticTicket , to travel to the Birth Island and Navel Rock , respectively. Description [ edit | edit source ] Games Description FR LG A pass for ferries between Vermilion and the Sevii Islands . It features a drawing of a rainbow. E For ferries serving Vermilion and the Sevii Islands . Acquisition [ edit | edit source ] Games Method FR LG Pokémon Network Center (given by Celio after obtaining the Ruby )"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Rainbow-Pass",
+    "Rainbow Pass",
+    "Rainbow-Pass (item)"
+  ],
+  "updatedAt": 1773326227
+}

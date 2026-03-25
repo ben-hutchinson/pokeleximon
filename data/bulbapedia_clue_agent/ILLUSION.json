@@ -1,0 +1,95 @@
+{
+  "answerKey": "ILLUSION",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4471389,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Illusion (Japanese: Illusion) is an Ability introduced in Generation V. It is the signature Ability of Zorua, Zoroark, and their Hisuian forms.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description Conq. Appears disguised as an allied Pokemon. MD GtI Appears disguised as a different foe. This Ability has no effect for the Pokemon or a teammate. * The Pokemon appears disguised as a different foe! This Ability doesn't do anything when * S MD The Pokemon appears disguised as a strong enemy and actually becomes a little bit stronger! If an enemy Pokemon uses it, it disguises itself as another enemy Pokemon!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation V 1.1.2 Generation VI 1.1.3 Generation VIII 1.1.4 Generation IX 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] When a Trainer's Pokemon with Illusion enters battle, Illusion changes the appearance of the Pokemon to that of the last conscious, non- Egg Pokemon in its Trainer's party . If the Pokemon with Illusion was the last conscious non-Egg Pokemon in the party before being switched in, Illusion does not change its appearance. Illusion replicates the appearance (including species, form , and Shininess ), nickname (or species name if none), Pok Ball , and gender of the Pokemon it is masquerading as; however, it does not replicate the level of the masqueraded Pokemon. The effect is only aestheticeffects such as Attract still use the Pokemon's actual gender. On the user interface, an opponent's Pokemon disguised by Illusion will appear to be the type of the Pokemon it is disguised as (even if it is affected by a move such as Soak ). The illusion disappears if the Pokemon has its Ability changed or suppressed or if it takes damage from a damaging move. Indirect damage (such as from a Life Orb , weather , status conditions , recoil , etc.) will not break the illusion. If the Pokemon with Illusion is hit by a multistrike move , the illusion will be broken after the first hit. If a Pokemon with Illusion uses a Z-Move , the illusion wears off immediately before using the Z-Move. Role Play fails if the target has the Ability Illusion. Skill Swap fails if either Pokemon has Illusion. Illusion cannot be copied by Trace , Power of Alchemy , or Receiver . If a Pokemon obtains this Ability with Imposter or Transform , it will not disguise itself. Pokemon cannot transform if disguised by Illusion, nor can it transform into a Pokemon that is disguised by Illusion. Additionally, wild Pokemon can disguise themselves with Illusion under certain circumstances. In Pokemon Black and White , in the special event encounter with a wild Zoroark in Lostlorn Forest , the wild Zoroark will be disguised as Entei , Raikou , or Suicune (depending on the Pokemon that triggered the event). If a wild Pokemon with Illusion successfully calls an ally for help in an SOS Battle , it will disguise itself as the summoned ally. Generation V [ edit | edit source ] If Illusion would disguise the Pokemon as another Pokemon of the same species, it fails to disguise the Pokemon at all. Generation VI [ edit | edit source ] Illusion can now disguise itself as another Pokemon with Illusion of the same species. Generation VIII [ edit | edit source ] If the Pokemon Dynamaxes while disguised as a Pokemon with the Gigantamax Factor , it will Dynamax into the standard form of the Pokemon, not the Gigantamax form. If disguised as Zacian , Zamazenta , or Eternatus , the Pokemon will not be able to Dynamax. Generation IX [ edit | edit source ] In most circumstances, if the Pokemon Terastallizes while disguised, it will not lose its illusion. However, it will Terastallize into its Tera Type rather than the disguised Pokemon's Tera Type. If disguised as Ogerpon or Terapagos , the Pokemon's illusion will fade before it Terastallizes. When disguising as a Pokemon that has already Terastallized, the illusion will not appear to be Terastallized itself. If the last conscious non-Egg Pokemon in the party is a Terastallized Ogerpon or Terapagos, Illusion will not activate when the Pokemon is switched in. Illusion will also not activate if the Pokemon with Illusion is Terastallized and the last Pokemon in the party is Ogerpon or Terapagos. If the Pokemon is out of its Pok Ball and the player starts a battle with a wild Pokemon, Illusion will not activate at the beginning of the match. Illusion will now always be used by Wild Zorua and Zoroark to disguise themselves as another Wild Pokemon in the area, unless the game is reloaded when one has already been spawned. However, it wears off as soon as the battle starts, with the standard Ability activation message popping up. Outside of battle [ edit | edit source ] Illusion has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "Contents 1 In battle 1.1 Generation V 1.2 Generation VI 1.3 Generation VIII 1.4 Generation IX In battle [ edit | edit source ] When a Trainer's Pokemon with Illusion enters battle, Illusion changes the appearance of the Pokemon to that of the last conscious, non- Egg Pokemon in its Trainer's party . If the Pokemon with Illusion was the last conscious non-Egg Pokemon in the party before being switched in, Illusion does not change its appearance. Illusion replicates the appearance (including species, form , and Shininess ), nickname (or species name if none), Pok Ball , and gender of the Pokemon it is masquerading as; however, it does not replicate the level of the masqueraded Pokemon. The effect is only aestheticeffects such as Attract still use the Pokemon's actual gender. On the user interface, an opponent's Pokemon disguised by Illusion will appear to be the type of the Pokemon it is disguised as (even if it is affected by a move such as Soak ). The illusion disappears if the Pokemon has its Ability changed or suppressed or if it takes damage from a damaging move. Indirect damage (such as from a Life Orb , weather , status conditions , recoil , etc.) will not break the illusion. If the Pokemon with Illusion is hit by a multistrike move , the illusion will be broken after the first hit. If a Pokemon with Illusion uses a Z-Move , the illusion wears off immediately before using the Z-Move. Role Play fails if the target has the Ability Illusion. Skill Swap fails if either Pokemon has Illusion. Illusion cannot be copied by Trace , Power of Alchemy , or Receiver . If a Pokemon obtains this Ability with Imposter or Transform , it will not disguise itself. Pokemon cannot transform if disguised by Illusion, nor can it transform into a Pokemon that is disguised by Illusion. Additionally, wild Pokemon can disguise themselves with Illusion under certain circumstances. In Pokemon Black and White , in the special event encounter with a wild Zoroark in Lostlorn Forest , the wild Zoroark will be disguised as Entei , Raikou , or Suicune (depending on the Pokemon that triggered the event). If a wild Pokemon with Illusion successfully calls an ally for help in an SOS Battle , it will disguise itself as the summoned ally. Generation V [ edit | edit source ] If Illusion would disguise the Pokemon as another Pokemon of the same species, it fails to disguise the Pokemon at all. Generation VI [ edit | edit source ] Illusion can now disguise itself as another Pokemon with Illusion of the same species. Generation VIII [ edit | edit source ] If the Pokemon Dynamaxes while disguised as a Pokemon with the Gigantamax Factor , it will Dynamax into the standard form of the Pokemon, not the Gigantamax form. If disguised as Zacian , Zamazenta , or Eternatus , the Pokemon will not be able to Dynamax. Generation IX [ edit | edit source ] In most circumstances, if the Pokemon Terastallizes while disguised, it will not lose its illusion. However, it will Terastallize into its Tera Type rather than the disguised Pokemon's Tera Type. If disguised as Ogerpon or Terapagos , the Pokemon's illusion will fade before it Terastallizes. When disguising as a Pokemon that has already Terastallized, the illusion will not appear to be Terastallized itself. If the last conscious non-Egg Pokemon in the party is a Terastallized Ogerpon or Terapagos, Illusion will not activate when the Pokemon is switched in. Illusion will also not activate if the Pokemon with Illusion is Terastallized and the last Pokemon in the party is Ogerpon or Terapagos. If the Pokemon is out of its Pok Ball and the player starts a battle with a wild Pokemon, Illusion will not activate at the beginning of the match. Illusion will now always be used by Wild Zorua and Zoroark to disguise themselves as another Wild Pokemon in the area, unless the game is reloaded when one has already been spawned. However, it wears off as soon as the battle starts, with the standard Ability activation message popping up.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Takes the appearance of the last conscious party Pokemon upon being sent out until hit by a damaging move.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.78,
+        "style": "effect"
+      },
+      {
+        "text": "Prevents major status ailments",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "effect"
+      },
+      {
+        "text": "Ailment-proof trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "effect"
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "status immunity",
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Status-blocking abilities",
+      "Weather abilities",
+      "Gen V abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257956
+}

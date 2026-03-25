@@ -1,0 +1,82 @@
+{
+  "answerKey": "CUTECHARM",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4513813,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Cute Charm (Japanese: Mad Love Body) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Causes attackers to become infatuated. MD T D Makes an attacker who lands a direct-contact attack become infatuated. MD S Makes an attacker of the opposite gender who lands a direct attack infatuated. B S L MD GtI May inflict the Infatuated status condition on the attacker who hits it with a direct attack. * When the Pokemon is hit with a direct attack like Tackle or Scratch, the attacker is sometimes afflicted with the Infatuated status condition! * S MD When the Pokemon is hit with a contact move like Tackle or Scratch, the attacker sometimes gets infatuated! MD RT DX When the Pokemon is hit with a contact move, like Tackle or Scratch, the attacker sometimes gets Infatuated.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV onward 1.1.3 Generation IX 1.2 Outside of battle 1.2.1 Generation IV 1.2.1.1 Effects on personality value 1.2.2 Generation VIII 1.2.3 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokemon with this Ability is hit by a move that makes contact from a Pokemon of the opposite gender , there is a 1/3 chance that the attacking Pokemon will become infatuated . If either Pokemon is a gender-unknown Pokemon (such as Magnemite ), this Ability will not activate. If a Pokemon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), each hit has an independent chance to activate this Ability. Generation IV onward [ edit | edit source ] The chance for Cute Charm to infatuate is lowered to 30%. Generation IX [ edit | edit source ] Unlike in Max Raid Battles from Generation VIII, Cute Charm does not affect opponents in Tera Raid Battles regardless of their gender, since Tera Raid Battle opponents are immune to infatuation . Outside of battle [ edit | edit source ] From Pokemon Emerald onwards, if a Pokemon with Cute Charm is in the first place in the party (even if fainted ), there is a 66.7% chance that the game will force an encountered Pokemon to be the opposite gender to the Pokemon with Cute Charm if it can be that gender. This does not affect a swarming Pokemon species (except in Generation IV ) or Pokemon found in Hidden Grottoes . Generation IV [ edit | edit source ] Effects on personality value [ edit | edit source ] In Generation IV only, when Cute Charm forces a Pokemon to be a specific gender, it does so by setting its personality value to one out of 25 possible values that correspond to the forced gender (one value per nature ). The set of possible values depends on the gender of the Pokemon with Cute Charm, and, if the Pokemon with Cute Charm is female, the wild Pokemon's gender ratio . This has significant consequences for properties determined by personality value. As a result, when the encountered species can be affected by Cute Charm (i.e., when it is not a male-only, female-only, or gender-unknown species), the chances of encountering a Shiny Pokemon differ from the usual 1/8192, depending on how many of the 25 possible values forced by Cute Charm result in a Shiny Pokemon (in conjunction with the Trainer ID number and secret ID number ): they may be as low as 1/24576 (if none of the 25 values forced by Cute Charm result in Shiny Pokemon, so the Pokemon can only be Shiny if Cute Charm fails), or as high as 21.34% (if 8 out of the 25 values forced by Cute Charm result in Shiny Pokemon). Also, the lower the difference between the Trainer ID number and secret ID number, the higher the Shiny encounter chances. Additionally, Spinda whose gender has been forced by Cute Charm in Generation IV only have one of 50 patterns (25 for male, 25 for female). Generation VIII [ edit | edit source ] In Pokemon Sword and Shield , the chance is 66% instead. Generation IX [ edit | edit source ] In Pokemon Scarlet and Violet , this Ability has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "Contents 1 In battle 1.1 Generation III 1.2 Generation IV onward 1.3 Generation IX In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokemon with this Ability is hit by a move that makes contact from a Pokemon of the opposite gender , there is a 1/3 chance that the attacking Pokemon will become infatuated . If either Pokemon is a gender-unknown Pokemon (such as Magnemite ), this Ability will not activate. If a Pokemon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), each hit has an independent chance to activate this Ability. Generation IV onward [ edit | edit source ] The chance for Cute Charm to infatuate is lowered to 30%. Generation IX [ edit | edit source ] Unlike in Max Raid Battles from Generation VIII, Cute Charm does not affect opponents in Tera Raid Battles regardless of their gender, since Tera Raid Battle opponents are immune to infatuation .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Has a 30% chance of infatuating attacking Pokemon on contact.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "Description",
+        "specificity": 0.86
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "Description",
+        "mystery_score": 0.76,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Damages foes on contact KO",
+        "evidence_ref": "Description",
+        "mystery_score": 0.7,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Contact-backlash trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "contact backlash",
+      "contact punisher"
+    ],
+    "connections_descriptors": [
+      "Contact-punishing abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257938
+}

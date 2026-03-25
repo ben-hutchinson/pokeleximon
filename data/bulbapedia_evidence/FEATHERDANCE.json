@@ -1,0 +1,34 @@
+{
+  "answerKey": "FEATHERDANCE",
+  "answerDisplay": "FEATHER DANCE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Feather Dance (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Feather_Dance_(move)",
+  "pageId": 3908,
+  "pageRevisionId": 4483746,
+  "leadText": "Feather Dance (Japanese: フェザーダンス Feather Dance), formatted as FeatherDance prior to Pokémon X and Y, is a non-damaging Flying-type move introduced in Generation III. Prior to Generation IV, it was the signature move of Pidgey's evolutionary line, but other Pokémon could still inherit it via breeding. It is TM216 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Feather Dance lowers the target's Attack stat by two stages. If powered up by a Flyinium Z into Z-Feather Dance, the user's Defense stat rises by one stage. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 10s Move wind-up time 1 frame Effect duration 30s 33s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Envelops the foe with feathers to sharply reduce Attack . FR LG The foe is covered with a mass of down that sharply cuts the Attack stat. Colo XD Envelops target with down to sharply reduce Attack . D P Pt HG SS PBR The user covers the foe with a mass of down that sharply lowers the Attack stat. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user covers the target's body with a mass of down that harshly lowers its Attack stat. ZA The user buries targets in a mass of down, which lowers targets' Attack stats for a while."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Lowers the target's Attack by two levels. MD T D S Reduces the target's Attack by 2 levels. B S L てきポケモンの こうげきを ２だんかいさげる MD GtI S MD MD RT DX It sharply lowers the enemy's Attack."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Feather-Dance",
+    "Feather Dance",
+    "Feather-Dance (move)"
+  ],
+  "updatedAt": 1773322739
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "TOXICTHREAD",
+  "answerDisplay": "TOXIC THREAD",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Toxic Thread (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Toxic_Thread_(move)",
+  "pageId": 218343,
+  "pageRevisionId": 4403453,
+  "leadText": "Toxic Thread (Japanese: どくのいと Toxic Thread) is a non-damaging Poison-type move introduced in Generation VII. It is the signature move of Spinarak and Ariados.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Toxic Thread poisons the target and lowers its Speed stat by one stage. Both effects are independent from each other; the target's Speed is still lowered even if it cannot be poisoned (such as if it is a Steel-type or it already has a status condition ), and the target is still poisoned even if its Speed cannot be lowered (due to Clear Body or if the stat is already at -6 stages). If powered up by a Poisonium Z into Z-Toxic Thread, the user's Speed stat is raised by one stage. Generation VIII [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] Toxic Thread cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh BD SP LA S V The user shoots poisonous threads to poison the target and lower the target's Speed stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD RT DX It makes a faraway Pokémon Poisoned and reduces their Travel Speed."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Excluding Z-Moves , Toxic Thread is the only Poison-type move to not be usable in Pokémon Sword and Shield ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Toxic-Thread",
+    "Toxic Thread",
+    "Toxic-Thread (move)"
+  ],
+  "updatedAt": 1773328066
+}

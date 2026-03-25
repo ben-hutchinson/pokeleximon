@@ -1,0 +1,16 @@
+{
+  "answerKey": "DANCER",
+  "answerDisplay": "DANCER",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen VII ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Dancer",
+  "extract": "Dancer has several referrals: For the Ability introduced in Generation VII, see Dancer (Ability) For the Trainer class, see Dancer (Trainer class)",
+  "updatedAt": 1774258442
+}

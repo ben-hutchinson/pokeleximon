@@ -1,0 +1,30 @@
+{
+  "answerKey": "FLEURCANNON",
+  "answerDisplay": "FLEUR CANNON",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Fleur Cannon (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fleur_Cannon_(move)",
+  "pageId": 213865,
+  "pageRevisionId": 4472034,
+  "leadText": "Fleur Cannon (Japanese: フルールカノン Fleur Cannon) is a damage-dealing Fairy-type move introduced in Generation VII. It is the signature move of Magearna.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VII 1.2 Generation VIII onwards 1.2.1 Pokémon Sword and Shield 1.2.2 Pokémon Brilliant Diamond and Shining Pearl Effect [ edit | edit source ] Generation VII [ edit | edit source ] Fleur Cannon deals damage and lowers the user's Special Attack by two stages. Generation VIII onwards [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] In Versions 1.0 to 1.1.1 of Pokémon Sword and Shield , Fleur Cannon could not be selected in a battle. Starting with Version 1.2.0, it can be selected and functions as it did in the previous generation. Due to a bug, Original Color Magearna's unique animation for Fleur Cannon was not used in Versions 1.2.0 to 1.2.1 of Pokémon Sword and Shield . This was fixed in Version 1.3.0. Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Fleur Cannon cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA The user unleashes a strong beam. The attack's recoil harshly lowers the user's Sp. Atk stat. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user unleashes a strong beam. The recoil from this move harshly lowers the user's Sp. Atk stat. ZA The user attacks by unleashing a strong beam. The recoil will lower the user's Sp. Atk stat for a while."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fleur-Cannon",
+    "Fleur Cannon",
+    "Fleur-Cannon (move)"
+  ],
+  "updatedAt": 1773322882
+}

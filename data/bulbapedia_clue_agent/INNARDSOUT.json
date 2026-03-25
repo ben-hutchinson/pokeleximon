@@ -1,0 +1,77 @@
+{
+  "answerKey": "INNARDSOUT",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4505070,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Innards Out (Japanese: Flying Innards) is an Ability introduced in Generation VII. It is the signature Ability of Pyukumuku.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with this Ability is knocked out by an opponent's attack, it deals damage to that opponent equal to the amount of HP it had left before last being hit. If a Pokemon with this Ability faints through Future Sight or Doom Desire , Innards Out will only activate if the user of the move is still on the field. If a Pokemon with this Ability moves first and is then knocked out by Core Enforcer , Innards Out will not activate. If Innards Out causes two opposing Pokemon to faint at the same time, and neither party has any remaining Pokemon, then the Pokemon that activated Innards Out loses. If a Pokemon with this ability is knocked out by a multistrike move (including a move that becomes multistrike due to Parental Bond ), the total HP dealt by all strikes will be added together and countered back all at once. Outside of battle [ edit | edit source ] Innards Out has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with this Ability is knocked out by an opponent's attack, it deals damage to that opponent equal to the amount of HP it had left before last being hit. If a Pokemon with this Ability faints through Future Sight or Doom Desire , Innards Out will only activate if the user of the move is still on the field. If a Pokemon with this Ability moves first and is then knocked out by Core Enforcer , Innards Out will not activate. If Innards Out causes two opposing Pokemon to faint at the same time, and neither party has any remaining Pokemon, then the Pokemon that activated Innards Out loses. If a Pokemon with this ability is knocked out by a multistrike move (including a move that becomes multistrike due to Parental Bond ), the total HP dealt by all strikes will be added together and countered back all at once.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "When this Pokemon faints from an opponent's move, that opponent takes damage equal to the HP this Pokemon had remaining.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Punishes a knockout blow",
+        "evidence_ref": "lead",
+        "specificity": 0.88
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Punishes a knockout blow",
+        "evidence_ref": "lead",
+        "mystery_score": 0.78,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Retaliates when knocked out",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Fainting backlash trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.8,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "ko backlash",
+      "retaliatory trait"
+    ],
+    "connections_descriptors": [
+      "Fainting-retaliation abilities",
+      "Gen VII abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257957
+}

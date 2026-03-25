@@ -1,0 +1,30 @@
+{
+  "answerKey": "PSYCHICFANGS",
+  "answerDisplay": "PSYCHIC FANGS",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Psychic Fangs (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Psychic_Fangs_(move)",
+  "pageId": 218384,
+  "pageRevisionId": 4462249,
+  "leadText": "Psychic Fangs (Japanese: サイコファング Psycho Fang) is a damage-dealing Psychic-type move introduced in Generation VII. Prior to Generation VIII, it was the signature move of Bruxish, but other Pokémon could still inherit it via breeding. It is: TR97 in Pokémon Sword and Shield. TM063 in Pokémon Scarlet and Violet. TM124 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Psychic Fangs removes Light Screen , Reflect , and Aurora Veil from the target's side of the field, then inflicts damage. It will not remove Light Screen, Reflect, or Aurora Veil if Psychic Fangs misses or the target is immune to or protected from Psychic Fangs."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. S V The user attacks by biting the target with its psychic capabilities. This move can also break barriers, such as Light Screen and Reflect. ZA The user attacks by biting targets using psychic power. This move can also break barriers such as Light Screen and Reflect."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Psychic-Fangs",
+    "Psychic Fangs",
+    "Psychic-Fangs (move)"
+  ],
+  "updatedAt": 1773326077
+}

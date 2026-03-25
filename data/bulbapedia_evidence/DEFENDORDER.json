@@ -1,0 +1,34 @@
+{
+  "answerKey": "DEFENDORDER",
+  "answerDisplay": "DEFEND ORDER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Defend Order (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Defend_Order_(move)",
+  "pageId": 18897,
+  "pageRevisionId": 4501001,
+  "leadText": "Defend Order (Japanese: ぼうぎょしれい Defense Order) is a non-damaging Bug-type move introduced in Generation IV. It is one of the signature moves of Vespiquen, alongside Attack Order and Heal Order.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Defend Order increases the user's Defense and Special Defense stats by one stage each. If powered up by a Buginium Z into Z-Defend Order, the user's Defense stat rises by another stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P PBR The user calls out its underlings to make a living shield, raising its Defense and Sp. Def stats. Pt HG SS B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user calls out its underlings to shield its body, raising its Defense and Sp. Def stats. S V The user calls out its underlings to shield its body, boosting its Defense and Sp. Def stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the user's Defense and Special Defense by 1 level. B S L じぶんの ぼうぎょ とくぼうを １だんかいあげる MD GtI UNUSED S MD It boosts your Defense and Sp. Def. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Defend-Order",
+    "Defend Order",
+    "Defend-Order (move)"
+  ],
+  "updatedAt": 1773322076
+}

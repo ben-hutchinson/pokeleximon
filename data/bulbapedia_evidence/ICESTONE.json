@@ -1,0 +1,38 @@
+{
+  "answerKey": "ICESTONE",
+  "answerDisplay": "ICE STONE",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Ice Stone",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ice_Stone",
+  "pageId": 218620,
+  "pageRevisionId": 4499016,
+  "leadText": "Not to be confused with Ice Rock or Icy Rock. The Ice Stone (Japanese: こおりのいし Ice Stone) is a type of Evolution stone introduced in Generation VII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Can be used to evolve one of several Pokémon. This consumes the Ice Stone. Causes Alolan Sandshrew to evolve into Alolan Sandslash Causes Alolan Vulpix to evolve into Alolan Ninetales Causes Eevee to evolve into Glaceon ( Generation VIII +) The Ice Stone cannot be used to evolve Eevee with the Gigantamax Factor into Glaceon. Causes Galarian Darumaka to evolve into Galarian Darmanitan Causes Crabrawler to evolve into Crabominable ( Generation IX +) Causes Cetoddle to evolve into Cetitan"
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] The Ice Stone is required to evolve certain Pokémon in Pokémon Sleep. It is consumed upon use. Alolan Vulpix requires 80 Vulpix Candy and an Ice Stone to evolve into Alolan Ninetales . Eevee requires 80 Eevee Candy and an Ice Stone to evolve into Glaceon ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh BD SP A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable snowflake pattern. LA S V ZA A peculiar stone that can make certain species of Pokémon evolve. It has a snowflake pattern in it."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sleep A peculiar stone that can make certain species of Pokémon evolve. It has a snowflake pattern in it."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ice-Stone",
+    "Ice Stone",
+    "Ice-Stone (item)"
+  ],
+  "updatedAt": 1773323815
+}

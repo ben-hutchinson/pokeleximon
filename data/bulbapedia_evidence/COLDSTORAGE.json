@@ -1,0 +1,30 @@
+{
+  "answerKey": "COLDSTORAGE",
+  "answerDisplay": "COLD STORAGE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Cold Storage",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Cold_Storage",
+  "pageId": 119724,
+  "pageRevisionId": 4341061,
+  "leadText": "The Cold Storage (Japanese: 冷凍コンテナ Freezing Container) is a building in Pokémon Black and White found inside of an area of warehouses to the south of Driftveil City. After defeating Ghetsis, Zinzolin of the Seven Sages can be found and arrested here. During the two-year gap between Black and White and Black 2 and White 2, the facility was demolished to make room for the Pokémon World Tournament.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] Despite being a series of buildings, only the southwestern Cold Storage warehouse can be entered. Inside this warehouse, some of the floors are frozen over , resulting in ice skating puzzles. There are multiple Workers inside the warehouse who will battle the player . In the back of the warehouse is a container, where Zinzolin is encountered for the first time and later during the post-game. Outside the warehouses, there are additional Trainers who can be battled, as well as some tall grass and a vending machine . Vending machine Fresh Water $ 200 Soda Pop $ 300 Lemonade $ 350"
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Exterior [ edit | edit source ] Item Location Games Hyper Potion In the northeast area (hidden) B W Rocky Helmet Gift from a Worker down an alleyway B W PP Up In the trash can east of the vending machine (hidden) B W Ether East of the main warehouse, along the water B W Dive Ball In the southwest corner of the dark grass (hidden) B W Protein In the northeast part of the dark grass B W Heart Scale On the west side of the main warehouse B W Storage Building [ edit | edit source ] Item Location Games Net Ball Near the entrance, up the stairs B W TM55 ( Scald ) Near the entrance, in the southeast corner of the first field of ice B W Ice Heal In the southeast corner, near Worker Patton B W Hyper Potion In the northeast corner, next to Worker Ryan B W NeverMeltIce In the container with Team Plasma , accessible after defeating them B W TM01 ( Hone Claws ) In the container, given by Zinzolin (post-game) B W"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Cold-Storage",
+    "Cold Storage",
+    "Cold-Storage (location)"
+  ],
+  "updatedAt": 1774213807
+}

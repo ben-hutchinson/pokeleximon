@@ -1,0 +1,30 @@
+{
+  "answerKey": "POCOPATH",
+  "answerDisplay": "POCO PATH",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Poco Path",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Poco_Path",
+  "pageId": 277739,
+  "pageRevisionId": 4501945,
+  "leadText": "Poco Path (Japanese: コサジの小道 Kosaji Path) is a short path in the south of the Paldea region. It connects to Cabo Poco to the south and South Province (Area One) to the north. Inlet Grotto is also located here.",
+  "sections": [
+    {
+      "title": "Route description",
+      "text": "Route description [ edit | edit source ] The Poco Path Lighthouse is located at the north end of the route. Arven grew up in the lighthouse laboratory at the end of the Route as a child."
+    },
+    {
+      "title": "Places of interest",
+      "text": "Places of interest [ edit | edit source ] Poco Path Lighthouse [ edit | edit source ] Poco Path's Lighthouse is where Arven lived with his Maschiff , his mother Sada S /father Turo V , and Koraidon S / Miraidon V . Inside is the professor's secondary laboratory ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Poco-Path",
+    "Poco Path",
+    "Poco-Path (location)"
+  ],
+  "updatedAt": 1773329087
+}

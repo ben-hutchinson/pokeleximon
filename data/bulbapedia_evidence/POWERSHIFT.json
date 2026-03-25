@@ -1,0 +1,34 @@
+{
+  "answerKey": "POWERSHIFT",
+  "answerDisplay": "POWER SHIFT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Power Shift (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Power_Shift_(move)",
+  "pageId": 268033,
+  "pageRevisionId": 4364884,
+  "leadText": "Power Shift (Japanese: パワーシフト Power Shift) is a non-damaging Normal-type move introduced during Generation VIII, in Pokémon Legends: Arceus.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Power Shift switches the user's Attack and Special Attack stats with its Defense and Special Defense stats, respectively. Pokémon Legends: Arceus Category Status PP 10 Agile Strong Power — — — Accuracy —% —% —% Action speed modifier Self -3 -4 +5 Target ? ? ? Additional effect Turns 5 4 7 ? ? ? ? Swaps the user's offensive and defensive stats Raises the user's action speed Generation IX [ edit | edit source ] Power Shift switches the user's raw Attack stat with its raw Defense stat. Stat modifiers are not swapped."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA The user swaps its offensive and defensive stats. S V The user swaps its Attack and Defense stats."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Although Power Shift can be used in Pokémon Scarlet and Violet , no Pokémon that can know the move naturally are in those games, and Metronome does not select this move. This makes it the only move that is legally usable in only a singular game."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Power-Shift",
+    "Power Shift",
+    "Power-Shift (move)"
+  ],
+  "updatedAt": 1773326010
+}

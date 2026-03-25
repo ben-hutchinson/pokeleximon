@@ -1,0 +1,30 @@
+{
+  "answerKey": "BEASTBOOST",
+  "answerDisplay": "BEAST BOOST",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Beast Boost (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Beast_Boost_(Ability)",
+  "pageId": 218223,
+  "pageRevisionId": 4259065,
+  "leadText": "Beast Boost (Japanese: ビーストブースト Beast Boost) is an Ability introduced in Generation VII. It is the signature Ability of the Ultra Beasts.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with Beast Boost directly causes another Pokémon (including allies) to faint by using a damaging move, its highest stat (other than HP ) is increased by one stage for each Pokémon knocked out by that move execution. If this stat is already at +6 stages, Beast Boost will not activate (not even in the case of a tie of two or more stats). For determining the highest stat, Beast Boost does not take into account stat stages, held items, or reductions due to status conditions ; however, it does consider the effects of Power Split , Guard Split , Power Trick , Wonder Room , and Speed Swap . In the case of a tie between multiple stats, it increases one stat, prioritized in this order: Attack , Defense , Special Attack , Special Defense , and Speed . If the Pokémon fainting ends the battle, Beast Boost will not activate. Beast Boost activates after the Pokémon gains Attack from Fell Stinger . If a Pokémon with Beast Boost defeats a Pokémon with Mummy using a contact move, the Pokémon's Ability will become Mummy before Beast Boost has the opportunity to activate. Outside of battle [ edit | edit source ] Beast Boost has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with Beast Boost directly causes another Pokémon (including allies) to faint by using a damaging move, its highest stat (other than HP ) is increased by one stage for each Pokémon knocked out by that move execution. If this stat is already at +6 stages, Beast Boost will not activate (not even in the case of a tie of two or more stats). For determining the highest stat, Beast Boost does not take into account stat stages, held items, or reductions due to status conditions ; however, it does consider the effects of Power Split , Guard Split , Power Trick , Wonder Room , and Speed Swap . In the case of a tie between multiple stats, it increases one stat, prioritized in this order: Attack , Defense , Special Attack , Special Defense , and Speed . If the Pokémon fainting ends the battle, Beast Boost will not activate. Beast Boost activates after the Pokémon gains Attack from Fell Stinger . If a Pokémon with Beast Boost defeats a Pokémon with Mummy using a contact move, the Pokémon's Ability will become Mummy before Beast Boost has the opportunity to activate."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Beast-Boost",
+    "Beast Boost",
+    "Beast-Boost (Ability)"
+  ],
+  "updatedAt": 1774213642
+}

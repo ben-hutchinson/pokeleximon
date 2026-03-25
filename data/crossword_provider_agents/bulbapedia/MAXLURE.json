@@ -1,0 +1,16 @@
+{
+  "answerKey": "MAXLURE",
+  "answerDisplay": "MAX LURE",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "spelunking",
+  "score": 95.1,
+  "approved": true,
+  "qualityFlags": [
+    "too_short"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Lure",
+  "extract": "The Max Lure (Japanese: ゴールドコロン Gold Cologne) is a type of item introduced in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. The Lure and Super Lure are weaker versions of this item.",
+  "updatedAt": 1774258383
+}

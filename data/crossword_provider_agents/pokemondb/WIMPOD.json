@@ -1,0 +1,17 @@
+{
+  "answerKey": "WIMPOD",
+  "answerDisplay": "WIMPOD",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Bug / Water type Pokémon introduced in Generation 7.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/wimpod",
+  "extract": "Wimpod is a Bug / Water type Pokémon introduced in Generation 7 .",
+  "rankPosition": 1,
+  "updatedAt": 1774213401
+}

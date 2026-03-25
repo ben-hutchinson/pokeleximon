@@ -1,0 +1,30 @@
+{
+  "answerKey": "MIRRORARMOR",
+  "answerDisplay": "MIRROR ARMOR",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Mirror Armor (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mirror_Armor_(Ability)",
+  "pageId": 240320,
+  "pageRevisionId": 3830059,
+  "leadText": "Mirror Armor (Japanese: ミラーアーマー Mirror Armor) is an Ability introduced in Generation VIII. It is the signature Ability of Corviknight.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Mirror Armor reflects the stat-lowering effects of moves and Abilities back to the user. Mirror Armor cannot reflect the stat-lowering effect of Octolock or an effect that was just reflected by an opponent's Mirror Armor. Stat-lowering effects of moves reflected by Magic Bounce are still reflected back. If multiple Pokémon, including the Pokémon with this Ability, would have their stats lowered by the same effect, only the stat drop that would have applied to the Pokémon with this Ability is reflected. If the Pokémon with this Ability is affected by Sticky Web , the effect is reflected back to the Pokémon which set it up. If Pokémon which set up Sticky Web is not on the field, no Pokémon have their Speed lowered. Outside of battle [ edit | edit source ] Mirror Armor has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Mirror Armor reflects the stat-lowering effects of moves and Abilities back to the user. Mirror Armor cannot reflect the stat-lowering effect of Octolock or an effect that was just reflected by an opponent's Mirror Armor. Stat-lowering effects of moves reflected by Magic Bounce are still reflected back. If multiple Pokémon, including the Pokémon with this Ability, would have their stats lowered by the same effect, only the stat drop that would have applied to the Pokémon with this Ability is reflected. If the Pokémon with this Ability is affected by Sticky Web , the effect is reflected back to the Pokémon which set it up. If Pokémon which set up Sticky Web is not on the field, no Pokémon have their Speed lowered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mirror-Armor",
+    "Mirror Armor",
+    "Mirror-Armor (Ability)"
+  ],
+  "updatedAt": 1773329033
+}

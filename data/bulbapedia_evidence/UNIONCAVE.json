@@ -1,0 +1,30 @@
+{
+  "answerKey": "UNIONCAVE",
+  "answerDisplay": "UNION CAVE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Union Cave",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Union_Cave",
+  "pageId": 8402,
+  "pageRevisionId": 4399369,
+  "leadText": "Union Cave (Japanese: つながりのどうくつ Linking Cave) is a cave located in the Johto region. The main cave divides Route 32 from Route 33, though two other exits in the basement levels of the cave lead to the Ruins of Alph.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] Union Cave is a simple cave, with many pools of water. The main floor has two different entrances to lower floor in the southern area G S C /opposite ends of the cave HG SS . The upper one leads to B1F, which, after crossing the pond, will lead to the Ruins of Alph. The lower one leads to a small hallway, which also has a pond, and another entrance to B2F. The lowest level of the cave has several ponds, the southern-most containing, on Fridays, a Lapras ."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Potion 1F, northwest corner G S X Attack 1F, northwest corner C HG SS Great Ball 1F, southeast of Firebreather Bill G S C HG SS X Attack 1F, west of Firebreather Bill G S Potion 1F, west of Firebreather Bill C HG SS Awakening 1F, west of the Route 33 exit G S C HG SS Great Ball 1F, in the wall between two rocks southeast of Hiker Russel (hidden) HG SS Big Pearl 1F, in a stalagmite on an islet, north-west of Poké Maniac Larry (requires Surf ) (hidden) HG SS Parlyz Heal 1F, on a stalagmite northeast of Poké Maniac Larry (hidden) HG SS TM39 ( Swift ) B1F, west of the ladder from 1F G S C X Defend B1F, east of the ladder from 1F G S C X Defend B1F, north of the stairs from 1F HG SS X Speed B1F, on a rock west of the stairs from 1F (hidden) HG SS TM39 ( Rock Tomb ) B1F, west of the stairs from 1F HG SS Revive B1F, northeast of Hiker Leonard (requires Surf ) (hidden) HG SS Hyper Potion B2F, northwest of Ace Trainer Nick G S C HG SS Elixir B2F, northeast corner G S C HG SS Ultra Ball B2F, on stalagmite northwest of Ace Trainer Emma (hidden) HG SS Calcium B2F, northwest of Ace Trainer Gwen (hidden) HG SS"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Union-Cave",
+    "Union Cave",
+    "Union-Cave (location)"
+  ],
+  "updatedAt": 1773328190
+}

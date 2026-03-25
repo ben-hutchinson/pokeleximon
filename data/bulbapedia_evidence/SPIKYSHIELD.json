@@ -1,0 +1,34 @@
+{
+  "answerKey": "SPIKYSHIELD",
+  "answerDisplay": "SPIKY SHIELD",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Spiky Shield (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Spiky_Shield_(move)",
+  "pageId": 184463,
+  "pageRevisionId": 4462288,
+  "leadText": "Spiky Shield (Japanese: ニードルガード Needle Guard) is a non-damaging Grass-type move introduced in Generation VI.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Main article: Protection Spiky Shield protects the user from all effects of moves that target it during the turn it is used, including damage. (This does not include damage at the end of a turn such as from weather or a status condition .) If Spiky Shield blocks an attack that would make contact with the user, the attacker suffers damage equal to 1/8 of its maximum HP . If a contact multistrike move is blocked by Spiky Shield, the resulting damage will only apply once. Moves that are blocked do not activate other effects that require making contact, like Rocky Helmet or Rough Skin . If the user goes last in the turn, the move will fail. The chance that Spiky Shield will succeed also drops each time the user successfully and consecutively uses Endure , any protection move that only affects the user , Quick Guard , or Wide Guard . Each time, the chance of success is divided by 3. Some moves will do damage through Spiky Shield . Most damaging Z-Moves and Max Moves will only do 25% of their original damage, except G-Max One Blow and G-Max Rapid Flow which do full damage. Moves that break protection , like Feint , will do their full damage and remove the effects of Spiky Shield. The Ability Unseen Fist allows contact moves to bypass Spiky Shield. Status moves that are unaffected by Spiky Shield are listed here . Generally, moves that target the user , moves that target the user and all allies , moves that target all Pokémon , and entry hazard moves cannot be blocked by Spiky Shield. Spiky Shield is an increased- priority move that will go before most attacks in a turn. If powered up by a Grassium Z into Z-Spiky Shield, the user's Defense stat rises by one stage. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 15s 12s Move wind-up time 0 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E In addition to protecting the user from attacks, this move also damages any attacker who makes direct contact. Sw Sh BD SP LA S V In addition to protecting the user from attacks, this move also damages any attacker that makes direct contact. ZA The user prevents incoming attacks from landing while also dealing damage to any attackers that make direct contact."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD You'll get the Spiky Shield, which protects you from enemies' attacks and move effects. You counterattack when you're attacked by a contact move. This move's chance of failure rises if you use it after you use a move that evades enemies' attacks. MD RT DX You'll get the Spiky Shield status, which protects you from enemies' moves. You counterattack when you're attacked by a contact move. This move's chance of failure rises if you use it after you've already used a move that blocks enemies' attacks."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Spiky-Shield",
+    "Spiky Shield",
+    "Spiky-Shield (move)"
+  ],
+  "updatedAt": 1773327442
+}

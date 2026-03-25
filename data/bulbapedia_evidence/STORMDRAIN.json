@@ -1,0 +1,34 @@
+{
+  "answerKey": "STORMDRAIN",
+  "answerDisplay": "STORM DRAIN",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Storm Drain (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Storm_Drain_(Ability)",
+  "pageId": 16167,
+  "pageRevisionId": 4219679,
+  "leadText": "Storm Drain (Japanese: よびみず Pump Priming) is an Ability introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generation V onward 1.2 Outside of battle 1.2.1 Generation VIII 1.2.2 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] Storm Drain forces all single-target Water-type moves used by other Pokémon (including allies) to target the Pokémon with this Ability, if possible. Water-type moves will never miss the Pokémon with this Ability, unless it is in the semi-invulnerable turn of a move (such as Dive or Fly ), although Surf will never miss a Pokémon in the semi-invulnerable turn of Dive . Storm Drain can only redirect Dive on the turn Dive deals damage. If another Pokémon becomes the center of attention , Water-type moves will be directed to it instead of the Pokémon with Storm Drain. If a Pokémon with Storm Drain is targeted by a Water-type move while holding an Absorb Bulb or Luminous Moss , Storm Drain absorbs the move so the item's effect is not triggered. Moves (e.g. G-Max Hydrosnipe ) and Abilities that ignore Abilities ignore Storm Drain and hit the intended target. In Triple Battles , Storm Drain cannot redirect Water-type moves if the Pokémon is out of range. Generation IV [ edit | edit source ] Storm Drain cannot redirect Water-type Judgment or Natural Gift . Generation V onward [ edit | edit source ] Along with its previous effects, Storm Drain also gives the Pokémon immunity to all Water-type moves, and it raises the Pokémon's Special Attack by one stage whenever it is hit by one. Water-type multistrike moves (such as Water Shuriken or Water-type moves affected by Parental Bond ) will only activate this effect once. This effect will not activate if the Pokémon is protected from the Water-type move. Storm Drain can now redirect Water-type Judgment and Natural Gift . The Abilities Propeller Tail and Stalwart and the move Snipe Shot bypass the targeting effect of Storm Drain, but not the Water-type immunity. Outside of battle [ edit | edit source ] Generation VIII [ edit | edit source ] In Pokémon Sword and Shield , if a Pokémon with Storm Drain is in the first place in the party (even if fainted ), there is a 51% chance the game will force an encounter with a Water-type Pokémon, if one is possible. In Pokémon Brilliant Diamond and Shining Pearl , the chance is 50%. Generation IX [ edit | edit source ] In Pokémon Scarlet and Violet , this Ability has no effect outside of battle, with its former field function effectively being replaced by Meal Powers ."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Storm Drain forces all single-target Water-type moves used by other Pokémon (including allies) to target the Pokémon with this Ability, if possible. Water-type moves will never miss the Pokémon with this Ability, unless it is in the semi-invulnerable turn of a move (such as Dive or Fly ), although Surf will never miss a Pokémon in the semi-invulnerable turn of Dive . Storm Drain can only redirect Dive on the turn Dive deals damage. If another Pokémon becomes the center of attention , Water-type moves will be directed to it instead of the Pokémon with Storm Drain. If a Pokémon with Storm Drain is targeted by a Water-type move while holding an Absorb Bulb or Luminous Moss , Storm Drain absorbs the move so the item's effect is not triggered. Moves (e.g. G-Max Hydrosnipe ) and Abilities that ignore Abilities ignore Storm Drain and hit the intended target. In Triple Battles , Storm Drain cannot redirect Water-type moves if the Pokémon is out of range. Generation IV [ edit | edit source ] Storm Drain cannot redirect Water-type Judgment or Natural Gift . Generation V onward [ edit | edit source ] Along with its previous effects, Storm Drain also gives the Pokémon immunity to all Water-type moves, and it raises the Pokémon's Special Attack by one stage whenever it is hit by one. Water-type multistrike moves (such as Water Shuriken or Water-type moves affected by Parental Bond ) will only activate this effect once. This effect will not activate if the Pokémon is protected from the Water-type move. Storm Drain can now redirect Water-type Judgment and Natural Gift . The Abilities Propeller Tail and Stalwart and the move Snipe Shot bypass the targeting effect of Storm Drain, but not the Water-type immunity."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Draws Water-type moves to the Pokémon and absorbs them without harm. B S L みずタイプの わざを あつめて そのわざの こうかをうけない MD GtI Unavailable S MD The Water-type moves of enemies in the same room are drawn to the Pokémon and absorbed. When the Pokémon absorbs Water-type moves, its Sp. Atk goes up!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Storm-Drain",
+    "Storm Drain",
+    "Storm-Drain (Ability)"
+  ],
+  "updatedAt": 1773329243
+}

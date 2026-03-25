@@ -1,0 +1,38 @@
+{
+  "answerKey": "DEEPSEATOOTH",
+  "answerDisplay": "DEEP SEA TOOTH",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Deep Sea Tooth",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Deep_Sea_Tooth",
+  "pageId": 61037,
+  "pageRevisionId": 4504955,
+  "leadText": "The Deep Sea Tooth (Japanese: しんかいのキバ Deep-Sea Fang), formatted DeepSeaTooth prior to Generation VI and Deepseatooth in the Pokémon Mystery Dungeon series, is a type of held item introduced in Generation III. It allows Clamperl to evolve into Huntail, and also boosts the Special Attack of a Clamperl that holds it.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If held by Clamperl , doubles its Special Attack . Outside of battle [ edit | edit source ] Causes Clamperl to evolve into Huntail when traded while holding it. This consumes the Deep Sea Tooth."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If the player offers both a Link Cable and Deepseatooth at Luminous Cave or Luminous Spring , Clamperl can be evolved into Huntail . This consumes the Link Cable and Deepseatooth. If thrown, it will deal 1 damage (2 if sticky ). Using this item in a dungeon will consume it, with no effect."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] If held by Clamperl , doubles its Special Attack ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD A hold item that raises the Sp. Atk of Clamperl . FR LG An item to be held by a Pok é mon . A fang that gleams a sharp silver. It raises the Sp. Atk stat. D P Pt HG SS An item to be held by Clamperl . A fang that gleams a sharp silver, it raises the Sp. Atk stat. B W B2 W2 An item to be held by Clamperl. A fang that gleams a sharp silver, it raises the Sp. Atk stat. X Y OR AS S M US UM P E Sw Sh BD SP LA An item to be held by Clamperl. This fang gleams a sharp silver and raises the holder's Sp. Atk stat. S V An item to be held by Clamperl. This fang gleams a sharp silver and boosts Clamperl's Sp. Atk stat."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Deep-Sea-Tooth",
+    "Deep Sea Tooth",
+    "Deep-Sea-Tooth (item)"
+  ],
+  "updatedAt": 1773322066
+}

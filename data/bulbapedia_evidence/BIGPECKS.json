@@ -1,0 +1,34 @@
+{
+  "answerKey": "BIGPECKS",
+  "answerDisplay": "BIG PECKS",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Big Pecks (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Big_Pecks_(Ability)",
+  "pageId": 111842,
+  "pageRevisionId": 4471315,
+  "leadText": "Big Pecks (Japanese: はとむね Pigeon Breast) is an Ability introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Big Pecks prevents other Pokémon from lowering the Defense stat stage of the Pokémon with this Ability. It does not prevent the Pokémon with this Ability from lowering its own Defense, such as by using Shell Smash . It does not prevent Spectral Thief from stealing (i.e., resetting) positive stat changes. Effects that decrease Defense without using stat stages, such as Guard Swap , Heart Swap , or Guard Split , are unaffected by Big Pecks. This Ability can be ignored by Pokémon with Mold Breaker , Teravolt , and Turboblaze . Outside of battle [ edit | edit source ] Big Pecks has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Big Pecks prevents other Pokémon from lowering the Defense stat stage of the Pokémon with this Ability. It does not prevent the Pokémon with this Ability from lowering its own Defense, such as by using Shell Smash . It does not prevent Spectral Thief from stealing (i.e., resetting) positive stat changes. Effects that decrease Defense without using stat stages, such as Guard Swap , Heart Swap , or Guard Split , are unaffected by Big Pecks. This Ability can be ignored by Pokémon with Mold Breaker , Teravolt , and Turboblaze ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI Prevents Defense from being lowered. * The Pokémon's Defense won't be lowered! * S MD The Pokémon's Defense won't be lowered!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Big-Pecks",
+    "Big Pecks",
+    "Big-Pecks (Ability)"
+  ],
+  "updatedAt": 1774213665
+}

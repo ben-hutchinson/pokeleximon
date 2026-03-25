@@ -1,0 +1,30 @@
+{
+  "answerKey": "DRAGONENERGY",
+  "answerDisplay": "DRAGON ENERGY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Dragon Energy (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Energy_(move)",
+  "pageId": 252166,
+  "pageRevisionId": 4406219,
+  "leadText": "Dragon Energy (Japanese: ドラゴンエナジー Dragon Energy) is a damage-dealing Dragon-type move introduced during Generation VIII, in The Crown Tundra. It is the signature move of Regidrago.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Dragon Energy deals damage. It has 150 base power at maximum HP, but its base power decreases proportionally to the user's remaining HP. Specifically, its base power is equal to ⌊ 1 5 0 × H P c u r r e n t H P m a x ⌋ . However, if this formula produces a value less than 1, the move's base power becomes 1 instead. In a battle with multiple opponents, Dragon Energy will target all adjacent opponents. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Dragon Energy cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V Converting its life-force into power, the user attacks opposing Pokémon. The lower the user's HP, the lower the move's power. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Dragon-Energy",
+    "Dragon Energy",
+    "Dragon-Energy (move)"
+  ],
+  "updatedAt": 1773322269
+}

@@ -1,0 +1,16 @@
+{
+  "answerKey": "SPORTBALL",
+  "answerDisplay": "SPORT BALL",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Bug-Catching Contest ball",
+  "score": 103.04,
+  "approved": true,
+  "qualityFlags": [
+    "answer_fragment_leak"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Sport_Ball",
+  "extract": "The Sport Ball (Japanese: コンペボール Competition Ball), referred to as the Park Ball (Japanese: パークボール Park Ball) in Generation II and formatted as ParkBall in its battle menu entry, is a type of Poké Ball introduced in Generation II. It can be used to catch wild Pokémon during a Bug-Catching Contest at the National Park. This Poké Ball's name was changed due to the introduction of a different Poké Ball called a Park Ball in Generation IV.",
+  "updatedAt": 1774258407
+}

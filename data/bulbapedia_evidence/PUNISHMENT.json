@@ -1,0 +1,37 @@
+{
+  "answerKey": "PUNISHMENT",
+  "answerDisplay": "PUNISHMENT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Punishment (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Punishment_(move)",
+  "pageId": 17055,
+  "pageRevisionId": 4500941,
+  "leadText": "Punishment (Japanese: おしおき Punishment) is a damage-dealing Dark-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation IV to VII [ edit | edit source ] Punishment deals damage. It normally has a base power of 60, but gains 20 power for every increased stat stage the target has, up to a maximum of 200 base power in total (i.e. capping at 7 positive stat stages). Stats decreased below normal do not affect this move's power. For example, if the target has used Shell Smash once (which increases Attack, Special Attack, and Speed by two stages each; but decreases Defense and Special Defense by one stage each), it has a total of 6 increased stat stages, which causes Punishment to have a base power of 180. (The fact that Defense and Special Defense are lowered below normal has no effect on the base power.) Generation VIII onwards [ edit | edit source ] Punishment cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR This attack's power increases the more the foe has powered up with stat changes. B W B2 W2 This attack's power increases the more the target has powered up with stat changes. X Y OR AS S M US UM P E The more the target has powered up with stat changes, the greater the move's power. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. Its power is boosted if any of the target's Attack, Defense, Special Attack, and Special Defense stats are elevated. B S L てきポケモンに ダメージをあたえる あいての こうげき ぼうぎょ とくこう とくぼうが あがっていると いりょくが あがる MD GtI It damages an enemy. The more the enemy has powered up with stat changes, the more powerful the move will be. S MD MD RT DX It damages an enemy. The more the enemy has powered up with stat changes, the more powerful the move becomes."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Pokémon Ultra Sun and Ultra Moon , Murkrow is programmed to be able to learn Punishment through breeding , but no other Pokémon in the Flying Group can pass down Punishment as an Egg Move in those games. Vullaby and Mandibuzz are the only Flying Egg Group Pokémon that can learn Punishment, but they cannot pass down the move due to being female-only species."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Punishment",
+    "Punishment (move)"
+  ],
+  "updatedAt": 1773326115
+}

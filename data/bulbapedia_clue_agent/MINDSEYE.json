@@ -1,0 +1,52 @@
+{
+  "answerKey": "MINDSEYE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4188131,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Mind's Eye (Japanese: Accuracy Reduction Resistance) is a skill in Pokemon Masters EX.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] When the user's accuracy is lowered to a negative stat value, the effects of the negative stat value on accuracy are reduced. The skill can range from Mind's Eye 1 to Mind's Eye 9, with higher numbered skills resulting in a greater mitigation in the effects of a stat reduction in accuracy. Skill rank Reduction in the effect of negative accuracy stat values Mind's Eye 1 10% Mind's Eye 2 20% Mind's Eye 3 30% Mind's Eye 4 40% Mind's Eye 5 50% Mind's Eye 6 60% Mind's Eye 7 70% Mind's Eye 8 80% Mind's Eye 9 90%",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "The Pokemon ignores changes to opponents' evasiveness, its accuracy can't be lowered, and it can hit Ghost types with Normal- and Fighting-type moves.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "debuffing trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "debuffing trait"
+    ],
+    "connections_descriptors": [
+      "Debuffing abilities",
+      "Gen IX abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257976
+}

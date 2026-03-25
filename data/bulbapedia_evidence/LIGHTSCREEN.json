@@ -1,0 +1,38 @@
+{
+  "answerKey": "LIGHTSCREEN",
+  "answerDisplay": "LIGHT SCREEN",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Light Screen (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Light_Screen_(move)",
+  "pageId": 3722,
+  "pageRevisionId": 4503858,
+  "leadText": "Light Screen (Japanese: ひかりのかべ Light Wall) is a non-damaging Psychic-type move introduced in Generation I. It is: TM16 from Generation III to Pokémon Ultra Sun and Ultra Moon, in Pokémon Brilliant Diamond and Shining Pearl, as well as in Pokémon Legends: Z-A. TM06 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TM17 in Pokémon Sword and Shield. TM075 in Pokémon Scarlet and Violet. It is the special counterpart to Reflect.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generation III 1.4 Generation IV 1.5 Generation V onwards 1.6 Generation IX 1.6.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I [ edit | edit source ] Light Screen doubles the user's Special when the opponent damages the user with a special move . Light Screen will fail if the user is already under its effect. The effect of Light Screen is ignored by critical hits . If Light Screen causes the user's special to reach 1024 or higher at any time during battle calculations, it will be reduced mod 1024. The effects of Light Screen can be lifted by Haze . Generation II [ edit | edit source ] Light Screen now remains in effect for 5 turns and will double the Special Defense of any Pokémon on the user's side of the field instead. Haze can no longer lift the effects of Light Screen. Generation III [ edit | edit source ] Instead of doubling the Special Defense of affected Pokémon, Light Screen now technically halves the damage done to them by special moves ; it still does not reduce damage done by moves that deal direct damage . If multiple Pokémon are present on the user's side of the field, all of them are protected by Light Screen, but special damage is only reduced by a third rather than half. Light Screen is removed from a Pokémon's side of the field if an opponent uses Brick Break or Shadow Shed on it (even if it is immune to Brick Break due to being Ghost-type ), unless it is protected from the move or the move misses. Light Screen can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Calm Mind was used in the previous turn. Generation IV [ edit | edit source ] Light Screen is removed from a Pokémon's side of the field if a Pokémon uses Brick Break or Defog on its ally (even if it is immune to Brick Break due to being Ghost-type ), unless it is protected from the move or the move misses. If Light Clay is held when Light Screen is used, it will extend the duration of Light Screen from 5 to 8 turns. Generation V onwards [ edit | edit source ] Light Screen is removed from a Pokémon's side of the field if it is hit by Brick Break , Defog , Psychic Fangs , or Raging Bull , or if a Pokémon with Screen Cleaner is sent out. Light Screen is not removed if the target is immune to the move (e.g. a Ghost-type Pokémon targeted by Brick Break). Pokémon with the Ability Infiltrator ignore the effects of Light Screen when attacking. Unlike Generations III and IV, Light Screen now always reduces damage by (roughly) a third rather than a half (specifically, with a multiplier of 2703/4096 in Generation V , or 2732/4096 in Generation VI onward) in Double Battles and Triple Battles , regardless of how many Pokémon on a given side are being protected by it. In Generation VII , Battle Royals also use this multiplier. In Pokémon Legends: Z-A , Light Screen will always reduce damage by (roughly) a third, specifically, applying a multiplier of 0.66. If powered up by a Psychium Z into Z-Light Screen, the user's Special Defense stat rises by one stage. Using Glitzy Glow will set up Light Screen on the user's side of the field. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 12s Move wind-up time 40 frames 30 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Reduces damage from special attacks by about half. A special Psychic -type technique. Stad2 Reduces damage from special attacks by about half. A special Psychic -type move. G S C Ups Spcl.Def with a wall of light. R S E Colo XD Creates a wall of light that lowers Sp. Atk damage. FR LG A wall of light cuts damage from Sp. Atk attacks for five turns. D P Pt HG SS PBR B W B2 W2 A wondrous wall of light is put up to suppress damage from special attacks for five turns. X Y OR AS S M US UM P E Sw Sh BD SP LA A wondrous wall of light is put up to reduce damage from special attacks for five turns. S V A wondrous wall of light is put up to reduce damage from special moves for five turns. ZA The user constructs a wondrous wall of light that will reduce damage taken from special moves for a while. This effect continues even if the user is switched out."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Light Screen status. It halves the damage from Special Attack moves. MD T D S Gives the Pokémon that uses this move the Light Screen status, which halves the damage from Special Attack moves. B S L じぶんを ひかりのかべじょうたいにかえる とくしゅこうげきの わざからの ダメージを はんげんする MD GtI You and your teammates will get the Light Screen status, which reduces the damage taken from special moves. You'll get the Light Screen status, which lowers the damage from special moves. * S MD You and your teammates get the Light Screen status condition, which reduces the damage taken from special moves. MD RT DX You and your teammates in the same roomget the Light Screen status condition, which reduces the damage taken from special moves."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Light Screen ending in Battle Revolution. Light Screen displays animation when it ends on its own in Pokémon Battle Revolution . Despite having distinct effects in the games, Reflect , Light Screen, Barrier , Protect , and Safeguard are often depicted in the animated series seemingly sharing the same effect that Protect has in the games (protecting the user from most the effect of moves)."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Light-Screen",
+    "Light Screen",
+    "Light-Screen (move)"
+  ],
+  "updatedAt": 1773324398
+}

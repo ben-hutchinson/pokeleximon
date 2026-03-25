@@ -1,0 +1,34 @@
+{
+  "answerKey": "BADDREAMS",
+  "answerDisplay": "BAD DREAMS",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Bad Dreams (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bad_Dreams_(Ability)",
+  "pageId": 17633,
+  "pageRevisionId": 4514149,
+  "leadText": "Bad Dreams (Japanese: ナイトメア Nightmare) is an Ability introduced in Generation IV. It is the signature Ability of Darkrai.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Pokémon Legends: Z-A 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] At the end of each turn, each adjacent sleeping opponent takes damage equal to 1/8 of its maximum HP. Bad Dreams inflicts damage after a Pokémon that is drowsy due to Yawn falls asleep (and thus inflicts damage to a Pokémon the same turn it falls asleep due to drowsiness). Bad Dreams applies after a Pokémon has the opportunity to be woken up by Hydration , Shed Skin , or Healer . Spoiler warning: this article may contain major plot or ending details. Pokémon Legends: Z-A [ edit | edit source ] In Pokémon Legends: Z-A , Abilities do not occur in normal gameplay. However, during the Rogue Mega Evolution battle against Darkrai, drowsy Pokémon will take damage equal to 1/25 of their maximum HP every second. When Darkrai Rogue Mega Evolves in the second phase of the fight, the damage increases to 1/16 of maximum HP and occurs more frequently. Darkrai does not retain this effect when caught. Spoilers end here. Outside of battle [ edit | edit source ] Bad Dreams has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] At the end of each turn, each adjacent sleeping opponent takes damage equal to 1/8 of its maximum HP. Bad Dreams inflicts damage after a Pokémon that is drowsy due to Yawn falls asleep (and thus inflicts damage to a Pokémon the same turn it falls asleep due to drowsiness). Bad Dreams applies after a Pokémon has the opportunity to be woken up by Hydration , Shed Skin , or Healer . Spoiler warning: this article may contain major plot or ending details. Pokémon Legends: Z-A [ edit | edit source ] In Pokémon Legends: Z-A , Abilities do not occur in normal gameplay. However, during the Rogue Mega Evolution battle against Darkrai, drowsy Pokémon will take damage equal to 1/25 of their maximum HP every second. When Darkrai Rogue Mega Evolves in the second phase of the fight, the damage increases to 1/16 of maximum HP and occurs more frequently. Darkrai does not retain this effect when caught. Spoilers end here."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Enables Pokémon to inflict damage on sleeping foes in the same room. B S L おなじへやで ねている てきポケモンに ダメージを あたえる MD GtI Unavailable S MD The Pokémon damages enemy Pokémon in the same room and makes them have bad dreams!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Bad-Dreams",
+    "Bad Dreams",
+    "Bad-Dreams (Ability)"
+  ],
+  "updatedAt": 1774213602
+}

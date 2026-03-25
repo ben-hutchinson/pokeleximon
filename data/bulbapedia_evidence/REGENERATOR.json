@@ -1,0 +1,33 @@
+{
+  "answerKey": "REGENERATOR",
+  "answerDisplay": "REGENERATOR",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Regenerator (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Regenerator_(Ability)",
+  "pageId": 117333,
+  "pageRevisionId": 4076759,
+  "leadText": "Regenerator (Japanese: さいせいりょく Regenerative Power) is an Ability introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Regenerator restores 33% of the Pokémon's maximum HP upon switching out. This includes through the use of moves that switch the user out , such as Baton Pass and Volt Switch , and moves used by opposing Pokémon that force it to switch , such as Whirlwind and Dragon Tail . This effect will occur if Regenerator is the Pokémon's Ability in battle when it switches out and is not suppressed; a Pokémon that obtained the Ability with Trace or Role Play will restore HP when it switches out, whereas a Pokémon which has Regenerator but has been affected by Gastro Acid will not. Heal Block does not prevent Regenerator from restoring HP. Outside of battle [ edit | edit source ] Regenerator has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Regenerator restores 33% of the Pokémon's maximum HP upon switching out. This includes through the use of moves that switch the user out , such as Baton Pass and Volt Switch , and moves used by opposing Pokémon that force it to switch , such as Whirlwind and Dragon Tail . This effect will occur if Regenerator is the Pokémon's Ability in battle when it switches out and is not suppressed; a Pokémon that obtained the Ability with Trace or Role Play will restore HP when it switches out, whereas a Pokémon which has Regenerator but has been affected by Gastro Acid will not. Heal Block does not prevent Regenerator from restoring HP."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI Restores some HP when the Pokémon goes to a different floor. * When the Pokémon goes to a different floor, some of its HP is restored! * S MD When the Pokémon goes to a different floor, some of its HP is restored!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Regenerator",
+    "Regenerator (Ability)"
+  ],
+  "updatedAt": 1773329146
+}

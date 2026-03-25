@@ -1,0 +1,62 @@
+{
+  "answerKey": "FLASHFIRE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4499423,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Flash Fire redirects here. For the TCG expansion, see Flashfire (TCG). Flash Fire (Japanese: Catching on Fire) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Zeroes damage from Fire-type move hits, and boosts own Fire moves. MD T D S Lets Pokemon avoid damage of Fire-type attacks, then boosts its own Fire-type attacks. B S L Conq. Raises Attack if hit by a Fire-type move. MD GtI Fire-type moves boost the power of the Pokemon's Fire-type moves instead of damaging it. * Not only will Fire-type moves not work on the Pokemon, they boost the power of its own Fire-type moves! * S MD Not only will Fire-type moves fail to work on the Pokemon, they will boost the power of its own Fire-type moves! MD RT DX The Pokemon will absorb Fire-type moves that are used on it, boosting the power of its own Fire-type moves.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV 1.1.3 Generation V onwards 1.2 Outside of battle 1.2.1 Generation VIII 1.2.2 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] Generation III [ edit | edit source ] Flash Fire makes the Pokemon immune to Fire-type moves and will activate when hit by one. When activated, the power of the Pokemon's Fire-type moves is increased by 50%. While subsequent hits by Fire-type moves will not provide further increases in power, the Pokemon remains immune to the moves. Flash Fire will not activate if the Pokemon is protected from the Fire-type move. Flash Fire will not work while the user is frozen . Flash Fire's boost is not passed with Baton Pass . Generation IV [ edit | edit source ] Instead of boosting Fire-type moves' power, Flash Fire now technically boosts the Pokemon's Attack or Special Attack by 50% during damage calculation if a Fire-type move is being used, resulting in effectively the same effect. Flash Fire can be activated by Will-O-Wisp . Generation V onwards [ edit | edit source ] Flash Fire is now functional even if the user is frozen . The Pokemon will not be thawed out, however. Outside of battle [ edit | edit source ] Generation VIII [ edit | edit source ] In Pokemon Sword and Shield , if a Pokemon with Flash Fire is in the first place in the party (even if fainted ), there is a 51% chance the game will force an encounter with a Fire-type Pokemon, if one is possible. In Pokemon Brilliant Diamond and Shining Pearl , the chance is 50%. Generation IX [ edit | edit source ] In Pokemon Scarlet and Violet , this Ability has no effect outside of battle, with its former field function effectively being replaced by Meal Powers .",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "Contents 1 In battle 1.1 Generation III 1.2 Generation IV 1.3 Generation V onwards In battle [ edit | edit source ] Generation III [ edit | edit source ] Flash Fire makes the Pokemon immune to Fire-type moves and will activate when hit by one. When activated, the power of the Pokemon's Fire-type moves is increased by 50%. While subsequent hits by Fire-type moves will not provide further increases in power, the Pokemon remains immune to the moves. Flash Fire will not activate if the Pokemon is protected from the Fire-type move. Flash Fire will not work while the user is frozen . Flash Fire's boost is not passed with Baton Pass . Generation IV [ edit | edit source ] Instead of boosting Fire-type moves' power, Flash Fire now technically boosts the Pokemon's Attack or Special Attack by 50% during damage calculation if a Fire-type move is being used, resulting in effectively the same effect. Flash Fire can be activated by Will-O-Wisp . Generation V onwards [ edit | edit source ] Flash Fire is now functional even if the user is frozen . The Pokemon will not be thawed out, however.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Protects against fire moves. Once one has been blocked, the Pokemon's own Fire moves inflict 1.5 damage until it leaves battle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "protective trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "protective trait"
+    ],
+    "connections_descriptors": [
+      "Protective abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257946
+}

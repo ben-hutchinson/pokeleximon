@@ -1,0 +1,86 @@
+{
+  "answerKey": "PERISHBODY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4345492,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Perish Body (Japanese: Perish Body) is an Ability introduced in Generation VIII. It is the signature Ability of Cursola. It is the Ability equivalent of Perish Song.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: How does Perish Body behave when struck by a move that forces a switch, such as U-Turn (user) or Dragon Tail (target)? You can discuss this on the talk page. When the Pokemon with Perish Body is hit with a contact move, both the attacker and the Pokemon with Perish Body will faint in three turns. If the attacker already has a perish count or is wearing Protective Pads or has Long Reach , the Ability does not affect anyone. Outside of battle [ edit | edit source ] Perish Body has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: How does Perish Body behave when struck by a move that forces a switch, such as U-Turn (user) or Dragon Tail (target)? You can discuss this on the talk page. When the Pokemon with Perish Body is hit with a contact move, both the attacker and the Pokemon with Perish Body will faint in three turns. If the attacker already has a perish count or is wearing Protective Pads or has Long Reach , the Ability does not affect anyone.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "When hit by a move that makes direct contact, the Pokemon and the attacker will faint after three turns unless they switch out of battle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "lead",
+        "specificity": 0.86
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "switching trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "lead",
+        "mystery_score": 0.76,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Damages foes on contact KO",
+        "evidence_ref": "lead",
+        "mystery_score": 0.7,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Contact-backlash trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "switching trait",
+      "contact backlash",
+      "contact punisher"
+    ],
+    "connections_descriptors": [
+      "Switching abilities",
+      "Contact-punishing abilities",
+      "Gen VIII abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257991
+}

@@ -1,0 +1,37 @@
+{
+  "answerKey": "SPITE",
+  "answerDisplay": "SPITE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Spite (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Spite_(move)",
+  "pageId": 3790,
+  "pageRevisionId": 4426849,
+  "leadText": "Spite (Japanese: うらみ Spite) is a non-damaging Ghost-type move introduced in Generation II. It is TM177 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III 1.3 Generation IV 1.4 Generation V onwards Effect [ edit | edit source ] This move effect may be in need of research. Reason: What happens if the target recently took confusion damage? You can discuss this on the talk page. Spite decreases the PP of the last move the target used. Spite fails if that move has no PP remaining. Generation II [ edit | edit source ] Spite decreases the move's PP by 2 to 5 (selected at random). If the amount that would be lost is greater than the amount remaining, the move loses all of its PP. If the Pokémon's most recent move is Metronome , it's considered to be the move Metronome turned into; as Metronome is incapable of calling moves the user already knows in this generation, Spite will always fail against Metronome. Generation III [ edit | edit source ] Spite fails if that move has exactly 1 PP remaining. If the Pokémon's most recent move is Metronome or another move that calls other moves, Spite will now correctly deduct PP from the base move instead of failing. Spite can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Curse was used in the previous turn. Generation IV [ edit | edit source ] Spite decreases the move's PP by exactly 4 (unless the move has fewer than 4 PP remaining, in which case the number left to deduct is correctly shown). Spite no longer fails if the targeted move has exactly 1 PP remaining. Generation V onwards [ edit | edit source ] Spite can now be reflected with Magic Coat . Spite can also be used as part of a Contest Spectacular combination , with the user gaining extra three appeal points if any of the moves Encore , Taunt or Torment was used in the prior turn. If powered up by a Ghostium Z into Z-Spite, the user regains all of its HP."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A vengeful move that slightly reduces the PP of the opponent's last move. G S C Cuts the PP of the foe's last move. R S E Spitefully cuts the PP of the foe's last move. FR LG A move that cuts 2 to 5 PP from the move last used by the foe. Colo XD Spitefully cuts the PP of the target's last move. D P Pt HG SS PBR The user looses its grudge on the move last used by the foe by cutting 4 PP from it. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user unleashes its grudge on the move last used by the target by cutting 4 PP from it."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Zeroes the PP of the move last used by the target, making it unusable. MD T D S Zeroes the PP of the move last used by the target. B S L てきポケモンが さいごにくりだしたわざの ＰＰを ０にして つかえなくしてしまう MD GtI It sharply lowers the PP of the move last used by the enemy. S MD MD RT DX It sharply lowers the PP of the move last used by the enemy. It fails if the enemy had not used a move or if the enemy's PP is already 0."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move features the same demon character as Lovely Kiss in its Generation II animation."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Spite",
+    "Spite (move)"
+  ],
+  "updatedAt": 1773327458
+}

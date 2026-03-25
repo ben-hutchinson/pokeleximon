@@ -1,0 +1,29 @@
+{
+  "answerKey": "SNOWSCAPE",
+  "answerDisplay": "SNOWSCAPE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Snowscape (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Snowscape_(move)",
+  "pageId": 277791,
+  "pageRevisionId": 4414762,
+  "leadText": "Snowscape (Japanese: ゆきげしき Snowscape) is a non-damaging Ice-type move introduced in Generation IX, replacing Hail from earlier generations. It is TM052 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] When Snowscape is used, a snowstorm will begin on the field. This effect will last for 5 turns. This clears any other type of weather , but will fail if there is already a snowstorm. However, it cannot override weather that occurs in the overworld. All Ice-type Pokémon have their Defense raised by 50% for the duration of the snowstorm. Pokémon with the Ice Body Ability recover 1⁄16 of their maximum HP each round. Pokémon with the Snow Cloak Ability increase their evasiveness by 20%. Pokémon with the Slush Rush Ability have their Speed doubled. If an Icy Rock is held by the Pokémon using Snowscape at the time of use, the duration of Snowscape will increase from 5 to 8 turns. The snowstorm allows Aurora Veil to be used. While Snowscape is in effect, Synthesis , Morning Sun , and Moonlight will recover only ¼ of the user's maximum HP. Additionally, the move Weather Ball becomes Ice-type."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user summons a snowstorm lasting five turns. This boosts the Defense stats of Ice types."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Snowscape",
+    "Snowscape (move)"
+  ],
+  "updatedAt": 1773327343
+}

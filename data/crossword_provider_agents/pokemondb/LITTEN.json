@@ -1,0 +1,17 @@
+{
+  "answerKey": "LITTEN",
+  "answerDisplay": "LITTEN",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Fire type Pokémon introduced in Generation 7.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/litten",
+  "extract": "Litten is a Fire type Pokémon introduced in Generation 7 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211893
+}

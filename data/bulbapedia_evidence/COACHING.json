@@ -1,0 +1,29 @@
+{
+  "answerKey": "COACHING",
+  "answerDisplay": "COACHING",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Coaching (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Coaching_(move)",
+  "pageId": 252915,
+  "pageRevisionId": 4415772,
+  "leadText": "Coaching (Japanese: コーチング Coaching) is a non-damaging Fighting-type move introduced during Generation VIII, in The Isle of Armor. It is TM213 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Coaching boosts the Attack and Defense of all allies (but not the user or allies in the semi-invulnerable turn of a move) by one stage each. It bypasses all forms of protection to affect the allies, including Crafty Shield . If used in a Single Battle or when no ally is present, Coaching will fail. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Coaching cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V The user properly coaches its ally Pokémon, boosting their Attack and Defense stats. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Coaching",
+    "Coaching (move)"
+  ],
+  "updatedAt": 1773321770
+}

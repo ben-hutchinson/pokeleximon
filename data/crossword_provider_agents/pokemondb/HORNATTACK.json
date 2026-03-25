@@ -1,0 +1,17 @@
+{
+  "answerKey": "HORNATTACK",
+  "answerDisplay": "HORN ATTACK",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "Details and added effects for the Pokémon this move.",
+  "score": 107.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/move/horn-attack",
+  "extract": "Details and added effects for the Pokémon attack",
+  "rankPosition": 1,
+  "updatedAt": 1774211620
+}

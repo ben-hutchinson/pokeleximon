@@ -1,0 +1,38 @@
+{
+  "answerKey": "KARATECHOP",
+  "answerDisplay": "KARATE CHOP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Karate Chop (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Karate_Chop_(move)",
+  "pageId": 3610,
+  "pageRevisionId": 4503543,
+  "leadText": "Karate Chop (Japanese: からてチョップ Karate Chop) is a damage-dealing Fighting-type move introduced in Generation I. Prior to Generation II, it was a Normal-type move.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II to VII 1.3 Generation VIII onwards Effect [ edit | edit source ] Karate Chop deals damage and has an increased critical-hit ratio. Karate Chop can be used as the second move of a Pokémon Contest combination , with the user gaining 3 bonus appeal points if Focus Energy was used in the previous turn. It can also be used as part of a Contest Spectacular combination and gives an extra three appeal points if the move Focus Energy was used in the prior turn. Generation I [ edit | edit source ] Karate Chop is Normal-type in this generation. Generation II to VII [ edit | edit source ] Karate Chop is now a Fighting-type move. Generation VIII onwards [ edit | edit source ] Karate Chop cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A Normal -type attack. Often turns into a critical hit and inflicts double the damage. Stad2 A Fighting -type attack. Often turns into a critical hit and inflicts double the damage. G S C Has a high critical hit ratio. R S E Colo XD A chopping attack with a high critical-hit ratio. FR LG D P Pt HG SS PBR The foe is attacked with a sharp chop. It has a high critical-hit ratio. B W B2 W2 X Y OR AS S M US UM P E The target is attacked with a sharp chop. Critical hits land more easily. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. It has a high critical-hit rate. B S L てきポケモンに ダメージをあたえる きゅうしょに あたりやすい Conq. The target is attacked with a sharp chop. Critical hits land more easily. MD GtI UNUSED S MD MD RT DX It damages an enemy. It has a high critical-hit rate."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Karate Chop is one of four moves to have its type changed in Generation II ; the others are Gust , Bite , and Sand Attack . They were all Normal-type moves in Generation I ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Karate-Chop",
+    "Karate Chop",
+    "Karate-Chop (move)"
+  ],
+  "updatedAt": 1773324092
+}

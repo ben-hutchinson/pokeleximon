@@ -1,0 +1,34 @@
+{
+  "answerKey": "GIGATONHAMMER",
+  "answerDisplay": "GIGATON HAMMER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Gigaton Hammer (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Gigaton_Hammer_(move)",
+  "pageId": 277799,
+  "pageRevisionId": 4483101,
+  "leadText": "Gigaton Hammer (Japanese: デカハンマー Huge Hammer) is a damage-dealing Steel-type move introduced in Generation IX. It is the signature move of Tinkaton.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Gigaton Hammer inflicts damage. The user cannot select Gigaton Hammer in succession unless the move failed. If the player attempts to use Gigaton Hammer twice in a row, they will be prevented from doing so, and will be allowed to select another move. Once another move is used, Gigaton Hammer can be used again. If the user cannot select another move (due to Choice items or having no other usable moves), it will use Struggle every other turn. Instruct and Sleep Talk allow Gigaton Hammer to be used twice in a row. Encore allows Gigaton Hammer to be used twice in a row, but on subsequent turns of the Encore the user will be forced to Struggle. Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 160 192 Cooldown 30s Move wind-up time 15 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user swings its whole body around to attack with its huge hammer. This move can't be used twice in a row. ZA The user attacks by swinging its whole body around to attack with its huge hammer. This move cannot be used again for a short time after the blow is dealt."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Gigaton Hammer when used by a Pokémon other than Tinkaton Gigaton Hammer has the highest base power of all Steel-type moves, excluding Z-Moves . Gigaton Hammer has a different animation when used by a Pokémon other than Tinkaton . In this case, its animation is similar to those of Ice Hammer and Dragon Hammer , but with a silver hammer instead of blue or purple, respectively."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Gigaton-Hammer",
+    "Gigaton Hammer",
+    "Gigaton-Hammer (move)"
+  ],
+  "updatedAt": 1773323182
+}

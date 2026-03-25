@@ -1,0 +1,116 @@
+{
+  "answerKey": "GOLDTEETH",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4505449,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen I item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "plot advancement",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen I plot advancement",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "The Safari Zone Wardens dentures. Trade for HM04 (Strength).",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Safari-zone capture tool",
+        "evidence_ref": "lead",
+        "specificity": 0.88
+      },
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "lead",
+        "specificity": 0.74
+      },
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "specificity": 0.8
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.66,
+        "specificity_score": 0.8,
+        "style": "family"
+      },
+      {
+        "text": "Exchangeable collectible",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.78,
+        "style": "family"
+      },
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Progress-gating key item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Story-progress key item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.74,
+        "style": "family"
+      },
+      {
+        "text": "Plot-critical key",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "family"
+      },
+      {
+        "text": "Safari Zone catcher",
+        "evidence_ref": "lead",
+        "mystery_score": 0.76,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Great Marsh capture tool",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.86,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "exchange item",
+      "unlocking item"
+    ],
+    "connections_descriptors": [
+      "Gen I items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257951
+}

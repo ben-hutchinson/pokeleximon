@@ -1,0 +1,37 @@
+{
+  "answerKey": "TORRENT",
+  "answerDisplay": "TORRENT",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Torrent (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Torrent_(Ability)",
+  "pageId": 4143,
+  "pageRevisionId": 4494952,
+  "leadText": "Torrent (Japanese: げきりゅう Raging Rapids) is an Ability introduced in Generation III. All Water-type first partner Pokémon have this Ability.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations III and IV 1.1.2 Generations V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations III and IV [ edit | edit source ] When a Pokémon with Torrent uses a Water-type move , the move's power will be increased by 50% if the user has less than or equal to ⅓ of its maximum HP remaining. Generations V onward [ edit | edit source ] Instead of boosting Water-type moves' power, Torrent now technically boosts the Pokémon's Attack or Special Attack by 50% during damage calculation if a Water-type move is being used, resulting in effectively the same effect. Outside of battle [ edit | edit source ] Torrent has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generations III and IV [ edit | edit source ] When a Pokémon with Torrent uses a Water-type move , the move's power will be increased by 50% if the user has less than or equal to ⅓ of its maximum HP remaining. Generations V onward [ edit | edit source ] Instead of boosting Water-type moves' power, Torrent now technically boosts the Pokémon's Attack or Special Attack by 50% during damage calculation if a Water-type move is being used, resulting in effectively the same effect."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts the power of Water-type moves when HP is low. MD T D S Boosts the power of the Pokémon's Water-type moves when its HP is low. B S L ＨＰがへって ピンチになると みずタイプの わざが つよくなる Conq. Raises Attack when HP is low. MD GtI When the Pokémon's HP is low, the power of its Water-type moves goes up. * When the Pokémon's HP is low, the power of Water-type moves goes up! * S MD When the Pokémon's HP is low, the power of Water-type moves goes up! MD RT DX When the Pokémon's HP is low, the power of Water-type moves goes up."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Torrent is the only variation of the Overgrow Ability that none of Ash's Pokémon have activated in Pokémon the Series . It is also the only variation of Overgrow that has not been activated by a main character's Pokémon."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Torrent",
+    "Torrent (Ability)"
+  ],
+  "updatedAt": 1773328023
+}

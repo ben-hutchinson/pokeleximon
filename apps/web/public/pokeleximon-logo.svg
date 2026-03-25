@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Pokeleximon logo">
+  <defs>
+    <linearGradient id="blueMain" x1="265" y1="140" x2="688" y2="903" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5f91a7"/>
+      <stop offset="1" stop-color="#29556c"/>
+    </linearGradient>
+    <linearGradient id="blueLight" x1="609" y1="171" x2="766" y2="542" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9fc2d0"/>
+      <stop offset="1" stop-color="#77abc0"/>
+    </linearGradient>
+    <linearGradient id="pinkLeft" x1="215" y1="122" x2="396" y2="506" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#efbcc8"/>
+      <stop offset="1" stop-color="#d99bab"/>
+    </linearGradient>
+    <linearGradient id="pinkRight" x1="648" y1="624" x2="848" y2="908" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8b2c0"/>
+      <stop offset="1" stop-color="#cf95a7"/>
+    </linearGradient>
+    <linearGradient id="creamBand" x1="291" y1="515" x2="736" y2="796" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f3dbc0"/>
+      <stop offset="1" stop-color="#f8e7d2"/>
+    </linearGradient>
+    <linearGradient id="creamBase" x1="210" y1="754" x2="504" y2="920" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#efd7bf"/>
+      <stop offset="1" stop-color="#f7e4cf"/>
+    </linearGradient>
+    <linearGradient id="plumLeft" x1="154" y1="623" x2="332" y2="921" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9c6772"/>
+      <stop offset="1" stop-color="#6f4854"/>
+    </linearGradient>
+    <linearGradient id="plumRight" x1="712" y1="707" x2="916" y2="926" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#815762"/>
+      <stop offset="1" stop-color="#5a3d48"/>
+    </linearGradient>
+    <filter id="softGrain" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="7" result="noise"/>
+      <feColorMatrix in="noise" type="saturate" values="0" result="monoNoise"/>
+      <feComponentTransfer in="monoNoise" result="grain">
+        <feFuncA type="table" tableValues="0 0.03"/>
+      </feComponentTransfer>
+      <feBlend in="SourceGraphic" in2="grain" mode="multiply"/>
+    </filter>
+    <clipPath id="logoClip">
+      <path d="M215 880C155 786 129 672 160 573C184 497 232 431 296 381L212 458L204 354L343 123L545 424L690 173L823 455L811 572L728 455C788 504 832 569 850 652C872 749 843 827 783 880H215Z"/>
+    </clipPath>
+  </defs>
+
+  <g filter="url(#softGrain)">
+    <path d="M213 457L362 92L407 287L213 457Z" fill="url(#pinkLeft)"/>
+    <path d="M362 92L545 424L407 287Z" fill="#2f556b" opacity="0.95"/>
+    <path d="M689 171L815 455L546 423L689 171Z" fill="url(#blueLight)"/>
+    <path d="M213 457C271 389 360 337 478 284C587 235 679 251 753 321C812 377 830 459 803 536L750 735C720 847 641 902 518 902C350 902 241 826 193 680C172 616 179 541 213 457Z" fill="url(#blueMain)"/>
+    <path d="M274 542C333 491 417 475 529 487C624 497 707 528 748 575C732 660 684 716 601 743C520 770 429 763 328 721C284 703 245 669 214 622C228 592 249 566 274 542Z" fill="url(#creamBand)"/>
+    <path d="M146 613C197 533 279 540 347 616C420 698 449 798 438 904H232C171 832 144 735 146 613Z" fill="url(#plumLeft)" opacity="0.82"/>
+    <path d="M205 704C286 722 369 792 434 904H306C250 883 215 818 205 704Z" fill="url(#creamBase)" opacity="0.98"/>
+    <path d="M703 583C765 564 825 598 894 677C897 772 860 848 784 904H617C623 804 655 698 703 583Z" fill="url(#pinkRight)"/>
+    <path d="M820 685C850 733 872 807 835 904H650C709 823 766 754 820 685Z" fill="url(#plumRight)" opacity="0.94"/>
+
+    <g clip-path="url(#logoClip)" opacity="0.14">
+      <path d="M170 426C323 364 434 352 593 396C747 439 827 573 857 734" fill="none" stroke="#ffffff" stroke-width="28" stroke-linecap="round"/>
+      <path d="M112 581C287 618 409 682 545 804C602 855 659 888 732 922" fill="none" stroke="#ffffff" stroke-width="18" stroke-linecap="round"/>
+      <path d="M334 165C413 276 451 390 449 505" fill="none" stroke="#ffffff" stroke-width="18" stroke-linecap="round"/>
+      <path d="M674 212C733 311 761 416 750 530" fill="none" stroke="#ffffff" stroke-width="16" stroke-linecap="round"/>
+      <path d="M251 484C333 587 429 645 540 658" fill="none" stroke="#142a36" stroke-width="20" stroke-linecap="round"/>
+      <path d="M657 471C614 603 566 712 522 904" fill="none" stroke="#142a36" stroke-width="16" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,60 @@
+{
+  "answerKey": "ROTOBOOST",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4468639,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "unused",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Effect [ edit | edit source ] Bag item [ edit | edit source ] When used from the Bag during battle, it raises the Attack , Defense , Special Attack , Special Defense and Speed of the Pokemon currently in battle by one stage each.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Boosts Your Battling Pokemon's stats",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Your Battling Pokemon All Stats boost item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Power item for Your Battling Pokemon",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Your Battling Pokemon-only held item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "your battling pokemon item"
+    ],
+    "connections_descriptors": [
+      "Battle items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774258003
+}

@@ -1,0 +1,30 @@
+{
+  "answerKey": "GRASSPELT",
+  "answerDisplay": "GRASS PELT",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Grass Pelt (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Grass_Pelt_(Ability)",
+  "pageId": 185059,
+  "pageRevisionId": 4470582,
+  "leadText": "Grass Pelt (Japanese: くさのけがわ Grass Pelt) is an Ability introduced in Generation VI. It is the signature Ability of Skiddo and Gogoat.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] While Grassy Terrain is active, the Defense of the Pokémon with this Ability is increased by 50%. It does not affect self-inflicted confusion damage. Outside of battle [ edit | edit source ] Grass Pelt has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] While Grassy Terrain is active, the Defense of the Pokémon with this Ability is increased by 50%. It does not affect self-inflicted confusion damage."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Grass-Pelt",
+    "Grass Pelt",
+    "Grass-Pelt (Ability)"
+  ],
+  "updatedAt": 1773328906
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "LIQUIDOOZE",
+  "answerDisplay": "LIQUID OOZE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Liquid Ooze (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Liquid_Ooze_(Ability)",
+  "pageId": 4140,
+  "pageRevisionId": 4514163,
+  "leadText": "Liquid Ooze (Japanese: ヘドロえき Oozing Liquid) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Draining moves 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Liquid Ooze causes HP-draining moves used on the Pokémon with this Ability to damage their user instead of healing them. If a Pokémon with Liquid Ooze is hit by a draining move such as Giga Drain or Leech Life (including the status move Strength Sap ), or takes damage from the effect of Leech Seed , the amount of HP that would be recovered by the opponent is dealt as damage instead (after applying the effect of Big Root ). The damage dealt by the move is not affected. Prior to Generation V , Liquid Ooze did not affect Dream Eater . Even if the user of the HP-draining move cannot heal from its effect due to having full HP or the effect of Heal Block , it will still take damage. If the user of an HP-draining move were to faint due to Liquid Ooze on the same turn as the victim of the move, then the user faints before the victim. This means that the user's team loses the battle if both teams had their final Pokémon sent out. If the recipient of Leech Seed's effect were to faint due to Liquid Ooze on the same turn as the victim of Leech Seed, then the victim faints before the recipient. This means that the victim's team loses the battle if both teams had their final Pokémon sent out. Draining moves [ edit | edit source ] The Ability affects the following moves: Move Type Cat. III IV V VI VII+ Absorb Grass Special ✔ ✔ ✔ ✔ ✔ Bitter Blade Fire Physical ✔ Drain Punch Fighting Physical ✔ ✔ ✔ ✔ Draining Kiss Fairy Special ✔ ✔ Dream Eater Psychic Special ✘ ✘ ✔ ✔ ✔ Giga Drain Grass Special ✔ ✔ ✔ ✔ ✔ Horn Leech Grass Physical ✔ ✔ ✔ Leech Life Bug Physical ✔ ✔ ✔ ✔ ✔ Mega Drain Grass Special ✔ ✔ ✔ ✔ ✔ Oblivion Wing Flying Special ✔ ✔ Parabolic Charge Electric Special ✔ ✔ Strength Sap Grass Status ✔ It also affects the seeded status condition. Outside of battle [ edit | edit source ] Liquid Ooze has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Liquid Ooze causes HP-draining moves used on the Pokémon with this Ability to damage their user instead of healing them. If a Pokémon with Liquid Ooze is hit by a draining move such as Giga Drain or Leech Life (including the status move Strength Sap ), or takes damage from the effect of Leech Seed , the amount of HP that would be recovered by the opponent is dealt as damage instead (after applying the effect of Big Root ). The damage dealt by the move is not affected. Prior to Generation V , Liquid Ooze did not affect Dream Eater . Even if the user of the HP-draining move cannot heal from its effect due to having full HP or the effect of Heal Block , it will still take damage. If the user of an HP-draining move were to faint due to Liquid Ooze on the same turn as the victim of the move, then the user faints before the victim. This means that the user's team loses the battle if both teams had their final Pokémon sent out. If the recipient of Leech Seed's effect were to faint due to Liquid Ooze on the same turn as the victim of Leech Seed, then the victim faints before the recipient. This means that the victim's team loses the battle if both teams had their final Pokémon sent out. Draining moves [ edit | edit source ] The Ability affects the following moves: Move Type Cat. III IV V VI VII+ Absorb Grass Special ✔ ✔ ✔ ✔ ✔ Bitter Blade Fire Physical ✔ Drain Punch Fighting Physical ✔ ✔ ✔ ✔ Draining Kiss Fairy Special ✔ ✔ Dream Eater Psychic Special ✘ ✘ ✔ ✔ ✔ Giga Drain Grass Special ✔ ✔ ✔ ✔ ✔ Horn Leech Grass Physical ✔ ✔ ✔ Leech Life Bug Physical ✔ ✔ ✔ ✔ ✔ Mega Drain Grass Special ✔ ✔ ✔ ✔ ✔ Oblivion Wing Flying Special ✔ ✔ Parabolic Charge Electric Special ✔ ✔ Strength Sap Grass Status ✔ It also affects the seeded status condition."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the foe if hit by a move that drains HP. MD T D S Inflicts damage on a foe that tries to drain the Pokémon's HP with an attack. B S L ＨＰを すいとるわざを うけたときに ぎゃくに ダメージを あたえる MD GtI Unavailable S MD When the Pokémon is attacked by an HP-absorbing move, the enemy takes damage without the Pokémon's HP being absorbed! MD RT DX When the Pokémon is hit by an HP-absorbing move, the Pokémon's HP is not absorbed and the enemy is damaged instead."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Liquid-Ooze",
+    "Liquid Ooze",
+    "Liquid-Ooze (Ability)"
+  ],
+  "updatedAt": 1774214405
+}

@@ -1,0 +1,86 @@
+{
+  "answerKey": "AROMAVEIL",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4514101,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VI ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Aroma Veil (Japanese: Aroma Veil) is an Ability introduced in Generation VI. Prior to Generation VIII, it was the signature Ability of Spritzee and Aromatisse.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Aroma Veil prevents the Pokemon with this Ability and its allies (including non-adjacent allies) from being afflicted by Taunt , Torment , Encore , Disable , Cursed Body , Heal Block and Psychic Noise , and infatuation . Despite being a move that also prevents the use of moves, Imprison is not affected by this Ability. Psychic Noise will only inflict damage; its secondary effect will not activate against Pokemon with this Ability. Outside of battle [ edit | edit source ] Aroma Veil has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Aroma Veil prevents the Pokemon with this Ability and its allies (including non-adjacent allies) from being afflicted by Taunt , Torment , Encore , Disable , Cursed Body , Heal Block and Psychic Noise , and infatuation . Despite being a move that also prevents the use of moves, Imprison is not affected by this Ability. Psychic Noise will only inflict damage; its secondary effect will not activate against Pokemon with this Ability.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Protects allies against moves that affect their mental state.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Protects allies from mental moves",
+        "evidence_ref": "lead",
+        "specificity": 0.84
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "protective trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Protects allies from mental moves",
+        "evidence_ref": "lead",
+        "mystery_score": 0.76,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Ally mind-shield trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.7,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Guards teammates from mental disruption",
+        "evidence_ref": "lead",
+        "mystery_score": 0.66,
+        "specificity_score": 0.82,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "protective trait",
+      "ally mind guard",
+      "mental shield"
+    ],
+    "connections_descriptors": [
+      "Protective abilities",
+      "Ally-protecting abilities",
+      "Gen VI abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257926
+}

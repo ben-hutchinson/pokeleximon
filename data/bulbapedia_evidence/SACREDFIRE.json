@@ -1,0 +1,34 @@
+{
+  "answerKey": "SACREDFIRE",
+  "answerDisplay": "SACRED FIRE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sacred Fire (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sacred_Fire_(move)",
+  "pageId": 3832,
+  "pageRevisionId": 4502776,
+  "leadText": "Sacred Fire (Japanese: せいなるほのお Sacred Flame) is a damage-dealing Fire-type move introduced in Generation II. Prior to Generation VI, it was the signature move of Ho-Oh.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Sacred Fire inflicts damage, with a 50% chance of burning the target. If the user is frozen , using Sacred Fire will thaw out the user and deal damage to the target in the same turn. Sacred Fire can be used as the second move of a Pokémon Contest combination , with the user gaining 4 bonus appeal points if Sunny Day was used in the previous turn. Generation VIII [ edit | edit source ] In Versions 1.0 to 1.2.1 of Pokémon Sword and Shield , Sacred Fire could not be selected in a battle. Starting with Version 1.3.0, it is usable and functions the same as it did in previous generations."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A Fire -type attack. Has a one-in-two chance of leaving the target with a burn. G S C An attack that may inflict a burn. R S E Colo XD A mystical fire attack that may inflict a burn. FR LG A mystical and powerful fire attack that may inflict a burn. D P Pt HG SS PBR The foe is razed with a mystical fire of great intensity. It may also leave the target with a burn. B W B2 W2 The target is razed with a mystical fire of great intensity. It may also leave the target with a burn. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The target is razed with a mystical fire of great intensity. This may also leave the target with a burn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also cause a burn. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Burn status condition. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで やけどじょうたいにかえる MD GtI It damages even a faraway Pokémon. It could also cause the Burn status condition. With the Burn status, the Pokémon keeps taking damage, and its Attack also goes down slightly. It damages enemies in the same room. It could also cause the Burn status condition. With the Burn status, they keep taking damage, and their Attack also goes down slightly. * S MD It could leave enemies with a burn and keep damaging them. * It damages enemies in the same room. It could also leave them with a burn. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sacred-Fire",
+    "Sacred Fire",
+    "Sacred-Fire (move)"
+  ],
+  "updatedAt": 1773326586
+}

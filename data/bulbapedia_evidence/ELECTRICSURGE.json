@@ -1,0 +1,30 @@
+{
+  "answerKey": "ELECTRICSURGE",
+  "answerDisplay": "ELECTRIC SURGE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Electric Surge (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Electric_Surge_(Ability)",
+  "pageId": 214112,
+  "pageRevisionId": 4259078,
+  "leadText": "Electric Surge (Japanese: エレキメイカー Electric Maker) is an Ability introduced in Generation VII. Prior to Generation VIII, it was the signature Ability of Tapu Koko. In Generation IX, it is the signature Ability of Pincurchin.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with Electric Surge enters the battle, it creates the effect of the move Electric Terrain on the battlefield. Outside of battle [ edit | edit source ] Electric Surge has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with Electric Surge enters the battle, it creates the effect of the move Electric Terrain on the battlefield."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Electric-Surge",
+    "Electric Surge",
+    "Electric-Surge (Ability)"
+  ],
+  "updatedAt": 1773328852
+}

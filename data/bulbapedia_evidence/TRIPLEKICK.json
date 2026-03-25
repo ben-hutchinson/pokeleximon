@@ -1,0 +1,38 @@
+{
+  "answerKey": "TRIPLEKICK",
+  "answerDisplay": "TRIPLE KICK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Triple Kick (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Triple_Kick_(move)",
+  "pageId": 3776,
+  "pageRevisionId": 4483923,
+  "leadText": "Triple Kick (Japanese: トリプルキック Triple Kick) is a damage-dealing Fighting-type multistrike move introduced in Generation II. Prior to Generation VII and in Generation IX, it was the signature move of Hitmontop.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generations III and IV 1.3 Generation V onwards Effect [ edit | edit source ] Generation II [ edit | edit source ] Triple Kick inflicts damage, hitting the target up to three times per use. Its base power is 10. The damage will be multiplied by 2 on the second hit, and by 3 on the third hit. Bide and Counter will only acknowledge the last strike of this move. If the user is holding a King's Rock , the final successful strike has a chance to cause the opponent to flinch . The accuracy of the move is 90%. However, if the attack doesn't miss, the chance of the move hitting 1, 2 or 3 times is always 33.33% regardless. Generations III and IV [ edit | edit source ] Instead of multiplying damage, the base power is incremented by 10 on each hit. This means that Triple Kick's second hit has a base power of 20, and the third hit has a base power of 30. Each of Triple Kick's strikes now has a separate accuracy check. If any strike fails, the move ends. Since each strike has 90% base accuracy, there is a: 72.9% chance that it will hit 3 times (for cumulative 60 base power), 8.1% chance that it will hit twice (for cumulative 30 base power), 9% chance that it will hit once (for 10 base power), 10% chance that it will miss outright. With all three accuracy checks and base powers taken into account, the move's effective power is 47.07. If the target has an Ability that activates upon contact , each strike counts individually, enabling the Ability to activate multiple times. If the user is holding a King's Rock or Razor Fang , each consecutive hit has an equal chance to cause the opponent to flinch . Triple Kick can be used as the second move of a Pokémon Contest combination , with the user gaining 4 bonus appeal points if Focus Energy was used in the previous turn. Generation V onwards [ edit | edit source ] If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokémon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokémon has a maximum HP of 1. If the target has Weak Armor or Stamina , each strike will activate it. If the target is holding a Rocky Helmet , the user is damaged for each strike. If the user has the Ability Skill Link or is holding Loaded Dice , the move will have only one accuracy check."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A three-kick attack that inflicts increasing damage. When one kick misses, the move ends. G S C Hits three times with rising power. R S E Kicks the foe 3 times in a row with rising intensity. FR LG A 3-kick attack that becomes more powerful with each successive hit. Colo XD Kicks 1 to 3 times in a row with rising intensity. D P Pt HG SS PBR B W B2 W2 X Y OR AS S M A consecutive three-kick attack that becomes more powerful with each successive hit. US UM P E Sw Sh BD SP LA S V A consecutive three-kick attack that becomes more powerful with each successful hit."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Kicks the target three times. Its power rises with every kick. MD T D S Inflicts damage on the target using 3 kicks in a single turn. The attack's power rises with every kick. B S L てきポケモンに ３かいれんぞくで ダメージを あたえる こうげきするたびに ダメージがあがる MD GtI UNUSED S MD MD RT DX It damages an enemy 3 times in a row."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Along with Triple Axel and Population Bomb , it is one of only three multistrike moves whose chance to miss for successive hits are independent of the first hit. Triple Kick has the same description text as Triple Axel. Triple Kick is tied with Constrict for the move with the lowest base power (10) out of all damage-dealing moves, although this only applies to the first hit."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Triple-Kick",
+    "Triple Kick",
+    "Triple-Kick (move)"
+  ],
+  "updatedAt": 1773328105
+}

@@ -1,0 +1,72 @@
+{
+  "answerKey": "LAGREATBALL",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "standard balls",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Pokemon item from the main series games.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Hisui capture tool",
+        "evidence_ref": "title",
+        "specificity": 0.74
+      },
+      {
+        "text": "Special Poke Ball",
+        "evidence_ref": "lead",
+        "specificity": 0.68
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Special Poke Ball",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.68,
+        "style": "family"
+      },
+      {
+        "text": "Special capture ball",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.66,
+        "style": "family"
+      },
+      {
+        "text": "Hisui capture tool",
+        "evidence_ref": "title",
+        "mystery_score": 0.68,
+        "specificity_score": 0.76,
+        "style": "family"
+      },
+      {
+        "text": "Legends Arceus catcher",
+        "evidence_ref": "title",
+        "mystery_score": 0.66,
+        "specificity_score": 0.74,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "special ball"
+    ],
+    "connections_descriptors": [
+      "Special Poke Balls"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257960
+}

@@ -1,0 +1,31 @@
+{
+  "answerKey": "ANVILLE",
+  "answerDisplay": "ANVILLE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Anville Town",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Anville_Town",
+  "pageId": 118114,
+  "pageRevisionId": 4509746,
+  "leadText": "Anville Town (Japanese: カナワタウン Kanawa Town) is situated in the northwestern part of the Unova region. It is accessed by riding the Battle Subway's Anville line (shown brown on the subway map) from Gear Station in Nimbasa City; no battles are required to be able to go to this town. On the weekends, some Trainers come to this town to exchange items.",
+  "sections": [
+    {
+      "title": "Slogan",
+      "text": "Slogan [ edit | edit source ] Rolling Out the Steel Rails (Japanese: カナワとは 交差する 鉄の輪 Kanawa refers to intersecting iron rings. )"
+    },
+    {
+      "title": "Lost Pansage",
+      "text": "Lost Pansage [ edit | edit source ] In Black 2 and White 2, the School Kid standing near the entrance has lost her Pansage . Her Pansage is being kept by a Depot Agent in front of the Musical Theater in Nimbasa City . If the player talks to the Depot Agent after finding out about the lost Pansage, he will return it. When the player returns to Anville Town and talks to the girl, who now has her Pokémon back, she will give the player a BrightPowder and say that a green-haired guy (implied to be N ) told her that her Pansage's dream is to become a railroad conductor."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Anville-Town",
+    "Anville Town",
+    "Anville",
+    "Anville-Town (location)"
+  ],
+  "updatedAt": 1774213547
+}

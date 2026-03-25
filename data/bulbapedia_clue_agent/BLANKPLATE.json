@@ -1,0 +1,72 @@
+{
+  "answerKey": "BLANKPLATE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4514307,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "plates",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Effect [ edit | edit source ] When used from the satchel on Arceus , the Blank Plate changes it to the Normal type . The Blank Plate can be read, and has the following engraving: \"Three beings whose power can hold both time and space fixed.\"",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Species-linked power item",
+        "evidence_ref": "lead",
+        "specificity": 0.68
+      },
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "specificity": 0.8
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Species-linked power item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.6,
+        "specificity_score": 0.74,
+        "style": "family"
+      },
+      {
+        "text": "Signature battle item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "family"
+      },
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Progress-gating key item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "unlocking item"
+    ],
+    "connections_descriptors": [
+      "Species-linked items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257930
+}

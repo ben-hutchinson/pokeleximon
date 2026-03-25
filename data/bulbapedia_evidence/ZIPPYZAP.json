@@ -1,0 +1,34 @@
+{
+  "answerKey": "ZIPPYZAP",
+  "answerDisplay": "ZIPPY ZAP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Zippy Zap (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Zippy_Zap_(move)",
+  "pageId": 233637,
+  "pageRevisionId": 4269630,
+  "leadText": "Zippy Zap (Japanese: ばちばちアクセル Crackling Accel) is a damage-dealing Electric-type move introduced during Generation VII, in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. It is one of the signature moves of the partner Pikachu.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VII [ edit | edit source ] Zippy Zap inflicts damage and will always result in a critical hit . It has a priority of +2, so it is used before all moves that do not have increased priority. Generation VIII onwards [ edit | edit source ] Zippy Zap cannot be selected in a battle. However, it has been modified: its PP was changed to 10 while its power was changed to 80. Additionally, its secondary effect is raising evasion by one stage, instead of a guaranteed critical hit."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description P E The user attacks the target with bursts of electricity at high speed. This move always goes first and results in a critical hit. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Zippy Zap is currently the last move in alphabetical order."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Zippy-Zap",
+    "Zippy Zap",
+    "Zippy-Zap (move)"
+  ],
+  "updatedAt": 1773328704
+}

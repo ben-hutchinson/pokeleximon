@@ -1,0 +1,38 @@
+{
+  "answerKey": "METALBURST",
+  "answerDisplay": "METAL BURST",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Metal Burst (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Metal_Burst_(move)",
+  "pageId": 14458,
+  "pageRevisionId": 4473331,
+  "leadText": "Metal Burst (Japanese: メタルバースト Metal Burst) is a damage-dealing Steel-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Metal Burst returns 1.5 times the damage dealt by the foe's last attack. Only the last damage taken will be counted, if the user is hit by a multi-hit move, only the damage from the final hit will be counted. Unlike Counter or Mirror Coat , Metal Burst does not require specifically physical or special damage sources and Metal Burst does not have decreased priority ; if the user acts before it is hit by an opponent's damaging move, Metal Burst will fail. The move also fails if the user's substitute is hit instead. In battles involving multiple Pokémon, Metal Burst will hit the last opponent that dealt damage to the user, even if that opponent is not adjacent to the user. However, if the last Pokémon to hit the user faints before the user moves, the remaining enemy Pokémon will be hit instead, like with a regular single-target damaging move (using the damage taken from the move of the now-fainted Pokémon that had hit the user). Metal Burst cannot affect allied Pokémon. Metal Burst can also be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if any of the moves Encore , Taunt , or Torment was used in the prior turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user retaliates against the foe that last inflicted damage on it with much greater power. B W B2 W2 X Y The user retaliates with much greater power against the target that last inflicted damage on it. OR AS The user retaliates with much greater power against the opponent that last inflicted damage on it. S M US UM P E Sw Sh BD SP LA S V The user retaliates with much greater force against the opponent that last inflicted damage on it."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Gives the Pokémon that uses this move the Metal Burst status, which enables the Pokémon to counter damage from moves and regular attacks, inflicting half the damage on all surrounding enemies. B S L じぶんを メタルバーストじょうたいにかえる てきからうけた わざや こうげきの はんぶんのダメージを まわりの てきポケモンに あたえる MD GtI You'll get the Metal Burst status, which enables you to counter when you take damage. S MD You'll get the Metal Burst status condition, which enables you to counter when you take damage from moves. MD RT DX You'll get the Metal Burst condition, which enables you to counter when you take damage from moves."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Metal Burst has the same description text as Comeuppance . Zamazenta (in its Hero of Many Battles form) is the only Pokémon to learn Metal Burst who is not Steel-type or associated with minerals such as rocks ( Rhyhorn ) or gems ( Sableye ). While its Crowned Shield form is Steel-type, Zamazenta does not need to be in that form to use Metal Burst."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Metal-Burst",
+    "Metal Burst",
+    "Metal-Burst (move)"
+  ],
+  "updatedAt": 1773324967
+}

@@ -6,11 +6,9 @@ import Layout from "../components/Layout";
 import PuzzleGrid from "../components/PuzzleGrid";
 import ClueList from "../components/ClueList";
 import {
-  createChallenge,
   getDailyPuzzle,
   getPuzzleProgress,
   postCrosswordTelemetry,
-  submitLeaderboardResult,
   putPuzzleProgress,
   sendCrosswordTelemetryBeacon,
   type CrosswordTelemetryEventType,
@@ -285,8 +283,6 @@ export default function Daily() {
   const [bestStreak, setBestStreak] = useState(0);
   const [completionRecord, setCompletionRecord] = useState<CrosswordCompletionRecord | null>(null);
   const [shareStatus, setShareStatus] = useState<string | null>(null);
-  const [challengeStatus, setChallengeStatus] = useState<string | null>(null);
-  const [creatingChallenge, setCreatingChallenge] = useState(false);
   const [progressRefreshKey, setProgressRefreshKey] = useState(0);
   const gameTypeParam = searchParams.get("gameType");
   const selectedGameType: GameType = gameTypeParam === "cryptic" ? "cryptic" : "crossword";
@@ -301,7 +297,6 @@ export default function Daily() {
   const latestCheckedCount = useRef(0);
   const celebrationTimeoutRef = useRef<number | null>(null);
   const shareStatusTimeoutRef = useRef<number | null>(null);
-  const challengeStatusTimeoutRef = useRef<number | null>(null);
 
   const contestModeEnabled = Boolean(puzzle?.metadata.contestMode);
 
@@ -471,9 +466,6 @@ export default function Daily() {
       if (shareStatusTimeoutRef.current !== null) {
         window.clearTimeout(shareStatusTimeoutRef.current);
       }
-      if (challengeStatusTimeoutRef.current !== null) {
-        window.clearTimeout(challengeStatusTimeoutRef.current);
-      }
     };
   }, []);
 
@@ -503,7 +495,6 @@ export default function Daily() {
     setClearAllCount(0);
     setCompletionRecord(null);
     setShareStatus(null);
-    setChallengeStatus(null);
     trackedPuzzleId.current = null;
     trackedClueIds.current = new Set();
     hasSentCompleted.current = false;
@@ -677,80 +668,6 @@ export default function Daily() {
     setAutoCheckEnabled(false);
   }, [contestModeEnabled]);
 
-  const submitCrosswordLeaderboard = useCallback(
-    async (params: { completed: boolean; solveMs: number | null; usedAssists: boolean; usedReveals: boolean }) => {
-      if (!puzzle || puzzle.gameType !== "crossword") return;
-      const token = playerToken.trim();
-      if (!token) return;
-      try {
-        await submitLeaderboardResult({
-          playerToken: token,
-          gameType: "crossword",
-          puzzleId: puzzle.id,
-          puzzleDate: puzzle.date,
-          completed: params.completed,
-          solveTimeMs: params.solveMs ?? undefined,
-          usedAssists: params.usedAssists,
-          usedReveals: params.usedReveals,
-          sessionId,
-        });
-      } catch {
-        // Do not interrupt the solve flow when leaderboard sync fails.
-      }
-    },
-    [playerToken, puzzle, sessionId],
-  );
-
-  const createCrosswordChallenge = useCallback(async () => {
-    if (!puzzle || puzzle.gameType !== "crossword" || creatingChallenge) return;
-    const token = playerToken.trim();
-    if (!token) {
-      setChallengeStatus("Missing player token. Reload and try again.");
-      return;
-    }
-
-    setCreatingChallenge(true);
-    try {
-      const item = await createChallenge({
-        playerToken: token,
-        gameType: "crossword",
-        puzzleId: puzzle.id,
-      });
-      const shareUrl = `${window.location.origin}/challenge/${item.code}`;
-      let copied = false;
-      if (navigator.clipboard?.writeText) {
-        try {
-          await navigator.clipboard.writeText(shareUrl);
-          copied = true;
-        } catch {
-          copied = false;
-        }
-      }
-      if (!copied) {
-        const el = document.createElement("textarea");
-        el.value = shareUrl;
-        el.setAttribute("readonly", "true");
-        el.style.position = "absolute";
-        el.style.left = "-9999px";
-        document.body.appendChild(el);
-        el.select();
-        copied = document.execCommand("copy");
-        document.body.removeChild(el);
-      }
-      setChallengeStatus(copied ? `Challenge created: ${item.code}. Link copied.` : `Challenge created: ${shareUrl}`);
-    } catch {
-      setChallengeStatus("Challenge creation failed. Please try again.");
-    } finally {
-      setCreatingChallenge(false);
-      if (challengeStatusTimeoutRef.current !== null) {
-        window.clearTimeout(challengeStatusTimeoutRef.current);
-      }
-      challengeStatusTimeoutRef.current = window.setTimeout(() => {
-        setChallengeStatus(null);
-      }, 3200);
-    }
-  }, [creatingChallenge, playerToken, puzzle]);
-
   const copyShareText = useCallback(async () => {
     if (!puzzle || puzzle.gameType !== "crossword" || !completionRecord) return;
 
@@ -812,17 +729,21 @@ export default function Daily() {
   const puzzleNotes = puzzle?.metadata.notes?.trim() ?? "";
   const puzzleBylineLabel = puzzleByline || (puzzleConstructor ? `By ${puzzleConstructor}` : "");
   const hasPuzzleEditorial = Boolean(puzzleBylineLabel || puzzleEditor || puzzleNotes);
-  const exportParams = new URLSearchParams({ gameType: "crossword" });
-  if (puzzle?.date) exportParams.set("date", puzzle.date);
-  const pdfExportHref = `/api/v1/puzzles/export/pdf?${exportParams.toString()}`;
-  const textOnlyHref = `/text-only?${exportParams.toString()}`;
 
   return (
     <Layout>
       <section className="page-section" aria-labelledby="daily-puzzle-heading" aria-busy={!puzzle}>
-        <h2 id="daily-puzzle-heading" className="sr-only">
-          Daily crossword puzzle
-        </h2>
+        <div className="section-header section-header--with-actions">
+          <div>
+            <h2 id="daily-puzzle-heading">Daily Crossword</h2>
+            <p>Play today&apos;s crossword and jump directly to the crossword archive when you want an older grid.</p>
+          </div>
+          <div className="section-header__actions">
+            <Link className="button ghost" to="/archive?gameType=crossword">
+              Crossword Archive
+            </Link>
+          </div>
+        </div>
         {error ? (
           <div className="error" role="alert">
             {error}
@@ -917,28 +838,6 @@ export default function Daily() {
                   Contest mode: check and reveal assists are locked for this puzzle.
                 </div>
               ) : null}
-              <div className="export-tools no-print" aria-label="Puzzle export controls">
-                <button className="button secondary" type="button" onClick={() => window.print()}>
-                  Print Puzzle
-                </button>
-                <a className="button secondary" href={pdfExportHref}>
-                  Download PDF
-                </a>
-                <a className="button ghost" href={textOnlyHref}>
-                  Text-Only View
-                </a>
-                <button className="button ghost" type="button" onClick={() => void createCrosswordChallenge()} disabled={creatingChallenge}>
-                  {creatingChallenge ? "Creating..." : "Create Challenge"}
-                </button>
-                <Link className="button ghost" to="/leaderboard">
-                  Leaderboard
-                </Link>
-              </div>
-              {challengeStatus ? (
-                <div className="panel__meta" role="status" aria-live="polite">
-                  {challengeStatus}
-                </div>
-              ) : null}
               <PuzzleGrid
                 puzzle={puzzle}
                 onDirectionChange={setDirection}
@@ -978,12 +877,6 @@ export default function Daily() {
                   setStartedAtMs(null);
                   setIsTimerRunning(false);
                   setIsSolved(true);
-                  void submitCrosswordLeaderboard({
-                    completed: true,
-                    solveMs,
-                    usedAssists: checkEntryCount + checkSquareCount + checkAllCount > 0,
-                    usedReveals: revealWordCount + revealSquareCount + revealAllCount > 0,
-                  });
                   void track("completed", {
                     solveMs,
                     checkedEntries: latestCheckedCount.current,

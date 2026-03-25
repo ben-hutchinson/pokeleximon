@@ -1,0 +1,33 @@
+{
+  "answerKey": "DAZZLING",
+  "answerDisplay": "DAZZLING",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Dazzling (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dazzling_(Ability)",
+  "pageId": 214117,
+  "pageRevisionId": 4512576,
+  "leadText": "Dazzling (Japanese: ビビッドボディ Vivid Body) is an Ability introduced in Generation VII. It is the signature Ability of Bruxish.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If an opponent uses a move with increased priority (including moves boosted by Prankster , Gale Wings , or Triage ) that targets the Pokémon with Dazzling or its allies, Dazzling prevents the Pokémon from executing that move, after PP is deducted from it. As such, the opponent can only use a move with decreased priority or a move without any to target the Pokémon with Dazzling or its allies. Moves that target all Pokémon (except Perish Song , Flower Shield , and Rototiller ) and moves that target the opponent's side of the field cannot be blocked by Dazzling even if they become moves with increased priority. Dazzling has no effect on allies' moves with increased priority. Status Z-Moves with increased priority will have their Z-Power effect activate. For example, if a Pokémon uses Z- Baby-Doll Eyes on a Pokémon under the effect of Dazzling, the user will still gain Defense; it will not lower the target's Attack, however. Mold Breaker , Turboblaze , and Teravolt will ignore this Ability. Moves with increased priority that are called using Instruct retain their original priority and are blocked by Dazzling. Moves with decreased priority and moves without any—both which are called using Instruct with increased priority (i.e.: the user with Prankster)—similarly retain their original priority and cannot be blocked. Moves with increased priority that are called using any moves that call other moves cannot be blocked by Dazzling. If a move that calls other moves is used with increased priority, Dazzling will block the called move regardless of its original priority. Outside of battle [ edit | edit source ] Dazzling has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] If an opponent uses a move with increased priority (including moves boosted by Prankster , Gale Wings , or Triage ) that targets the Pokémon with Dazzling or its allies, Dazzling prevents the Pokémon from executing that move, after PP is deducted from it. As such, the opponent can only use a move with decreased priority or a move without any to target the Pokémon with Dazzling or its allies. Moves that target all Pokémon (except Perish Song , Flower Shield , and Rototiller ) and moves that target the opponent's side of the field cannot be blocked by Dazzling even if they become moves with increased priority. Dazzling has no effect on allies' moves with increased priority. Status Z-Moves with increased priority will have their Z-Power effect activate. For example, if a Pokémon uses Z- Baby-Doll Eyes on a Pokémon under the effect of Dazzling, the user will still gain Defense; it will not lower the target's Attack, however. Mold Breaker , Turboblaze , and Teravolt will ignore this Ability. Moves with increased priority that are called using Instruct retain their original priority and are blocked by Dazzling. Moves with decreased priority and moves without any—both which are called using Instruct with increased priority (i.e.: the user with Prankster)—similarly retain their original priority and cannot be blocked. Moves with increased priority that are called using any moves that call other moves cannot be blocked by Dazzling. If a move that calls other moves is used with increased priority, Dazzling will block the called move regardless of its original priority."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Event Gen VII Gen VIII Gen IX Dazzling activated \" (The wild/The opposing/Totem) cannot use !\" \" (The wild/opposing/ 's) cannot use !\" \" (The wild/opposing) cannot use !\""
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Dazzling",
+    "Dazzling (Ability)"
+  ],
+  "updatedAt": 1774213870
+}

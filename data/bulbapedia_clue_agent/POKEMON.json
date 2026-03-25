@@ -1,0 +1,29 @@
+{
+  "answerKey": "POKEMON",
+  "status": "no_candidates",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4336556,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "village landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "villa landmark",
+        "evidence_ref": "title",
+        "specificity": 0.68
+      }
+    ],
+    "crossword_candidates": [],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.25
+  },
+  "updatedAt": 1774257994
+}

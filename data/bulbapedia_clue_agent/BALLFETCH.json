@@ -1,0 +1,77 @@
+{
+  "answerKey": "BALLFETCH",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4512508,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Ball Fetch (Japanese: Ball Fetch) is an Ability introduced in Generation VIII. It is the signature Ability of Yamper.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] At any time after the first Pok Ball is thrown and fails to catch a Pokemon, at the end of a turn, if a Pokemon with Ball Fetch is on the field and not holding another item, it will pick up the same type of ball as the first one thrown. This can only occur once in a battle. Ball Fetch does not work in Max Raid Battles . Outside of battle [ edit | edit source ] Ball Fetch has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] At any time after the first Pok Ball is thrown and fails to catch a Pokemon, at the end of a turn, if a Pokemon with Ball Fetch is on the field and not holding another item, it will pick up the same type of ball as the first one thrown. This can only occur once in a battle. Ball Fetch does not work in Max Raid Battles .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "If the Pokemon is not holding an item, it will fetch the Pok Ball from the first failed throw of the battle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Retrieves the first failed Poke Ball",
+        "evidence_ref": "Effect",
+        "specificity": 0.88
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Retrieves the first failed Poke Ball",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.76,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Fetches a failed throw",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.7,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Ball-returning trait",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.66,
+        "specificity_score": 0.8,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "ball retriever",
+      "failed-throw fetch"
+    ],
+    "connections_descriptors": [
+      "Ball-retrieving abilities",
+      "Gen VIII abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257928
+}

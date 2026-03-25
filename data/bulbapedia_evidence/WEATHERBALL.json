@@ -1,0 +1,38 @@
+{
+  "answerKey": "WEATHERBALL",
+  "answerDisplay": "WEATHER BALL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Weather Ball (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Weather_Ball_(move)",
+  "pageId": 3922,
+  "pageRevisionId": 4500965,
+  "leadText": "Weather Ball (Japanese: ウェザーボール Weather Ball) is a damage-dealing Normal-type move introduced in Generation III. Prior to Generation IV, it was the signature move of Castform. It was TM46 in Pokémon Sword and Shield, and is TM193 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III 1.2 Generation IV 1.3 Generation V onwards Effect [ edit | edit source ] Weather Ball deals damage. When the weather is clear, Weather Ball is a Normal-type move. During any type of weather except strong winds , Weather Ball's power doubles to 100. (Type-based power boosts from weather apply as normal, in addition to Weather Ball's effect.) Weather Ball's type changes depending on the weather at the time it is used. Normal-type if there is no weather, it is foggy , or there are strong winds . Fire-type if it is sunny . Water-type if it is raining . Ice-type if it is hailing or snowing . Rock-type if there is a sandstorm . Weather Ball can be used as the second move of a Pokémon Contest combination , with the user gaining 4 bonus appeal points if Hail , Rain Dance , Sandstorm , or Sunny Day was used in the previous turn. It is also part of a Contest Spectacular combination, giving the user three extra appeal points if a weather summoning move was used in the prior turn. Generation III [ edit | edit source ] Because damage category depends on the type of the move in Generation III, Weather Ball's category depends on its type. Unlike Hidden Power where Counter always activates while Mirror Coat never does, Weather Ball will activate Mirror Coat if it is a special move. In Pokémon XD: Gale of Darkness , when used during a shadowy aura , Weather Ball's power doubles to 100, and the move becomes a typeless physical move ; as a typeless move, it bypasses Wonder Guard , deals regular damage against all Pokémon regardless of types, and the user does not receive STAB . If a Pokémon with Color Change is hit by typeless Weather Ball, it becomes Normal-type . Generation IV [ edit | edit source ] Weather Ball is affected by Normalize . It is now always a special move, so it is affected by Mirror Coat but not Counter . Generation V onwards [ edit | edit source ] Weather Ball is unaffected by Normalize , Pixilate , Refrigerate , Aerilate , and Galvanize . However, it is affected by Ion Deluge (if the move would be Normal-type) and Electrify . Weather Ball has no effect on targets with Bulletproof . When used as a Z-Move with Normalium Z , Weather Ball will be turned into Breakneck Blitz , but then Breakneck Blitz will turn into the Z-Move of the type corresponding to the type Weather Ball would be in that weather. This does not occur if Weather Ball is turned into a Z-Move via another move like Sleep Talk . The same effect happens when Weather Ball is used as a Max Move , displaying as Max Strike but changing into the appropriate Max Move or G-Max Move corresponding to the type Weather Ball would be in the current weather."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD The move's type and power change with the weather. FR LG An attack that varies in power and type depending on the weather. D P Pt HG SS PBR B W B2 W2 X Y OR AS An attack move that varies in power and type depending on the weather. S M US UM P E Sw Sh BD SP LA This attack move varies in power and type depending on the weather. S V This move's type and power change depending on the weather at the time the move is used."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target, even at a distance, using the weather's power. MD T D S Inflicts damage on the target, even at a distance. The move's type and power changes with the weather. B S L はなれたポケモンに ダメージをあたえる げんざいの てんきによって タイプや いりょくが へんかする MD GtI UNUSED S MD The weather determines its type and power. * It damages a Pokémon, even one far away. The move's type varies, depending on the weather. The power goes up except when the weather is clear. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Despite Weather Ball becoming a Rock-type move in a sandstorm , Castform itself will not change form under these conditions. Prior to Generation IV, Weather Ball was one of the only two moves (along with Hidden Power ) which could be either physical or special, due to the damage category being determined by the type."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Weather-Ball",
+    "Weather Ball",
+    "Weather-Ball (move)"
+  ],
+  "updatedAt": 1773328441
+}

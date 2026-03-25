@@ -1,0 +1,34 @@
+{
+  "answerKey": "HOLDBACK",
+  "answerDisplay": "HOLD BACK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Hold Back (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Hold_Back_(move)",
+  "pageId": 188124,
+  "pageRevisionId": 4270206,
+  "leadText": "Hold Back (Japanese: てかげん Go Easy) is a damage-dealing Normal-type event-exclusive move introduced in Generation VI.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Hold Back inflicts damage, but will leave the target with 1 HP if it would otherwise cause it to faint. If the target has 1 HP remaining, Hold Back will hit and leave the target at 1 HP. Hold Back does not reduce its damage when hitting a substitute . Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Hold Back cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS The user holds back when it attacks and the target is left with at least 1 HP. S M US UM P E Sw Sh LA S V The user holds back when it attacks, and the target is left with at least 1 HP. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Hold Back was first revealed on the December 18, 2013 episode of Nintendo Direct ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Hold-Back",
+    "Hold Back",
+    "Hold-Back (move)"
+  ],
+  "updatedAt": 1773323656
+}

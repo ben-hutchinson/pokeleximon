@@ -1,0 +1,37 @@
+{
+  "answerKey": "GLACIATE",
+  "answerDisplay": "GLACIATE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Glaciate (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Glaciate_(move)",
+  "pageId": 117526,
+  "pageRevisionId": 4471212,
+  "leadText": "Glaciate (Japanese: こごえるせかい Frozen World) is a damage-dealing Ice-type move introduced in Generation V. It is one of the signature moves of Kyurem.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Glaciate inflicts damage and lowers the target's Speed stat by one stage. Glaciate hits all opponents in Double Battles and all adjacent opponents in Triple Battles . Glaciate can also be used as part of a Contest Spectacular combination , with the user gaining extra three appeal points if the move Hail was used in the prior turn. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Glaciate cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user attacks by blowing freezing cold air at opposing Pokémon. This attack reduces the targets' Speed stat. X Y OR AS S M US UM P E The user attacks by blowing freezing cold air at opposing Pokémon. This lowers their Speed stat. Sw Sh LA The user attacks by blowing freezing cold air at opposing Pokémon. This lowers their Speed stats. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. S V The user attacks by blowing freezing cold air at opposing Pokémon. This also lowers their Speed stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI S MD It damages enemies in the same room. It also lowers their Travel Speed."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Glaciate has the lowest base power of all Legendary Pokémon 's signature moves . If a Kyurem that knows Glaciate fuses with either Reshiram or Zekrom via the DNA Splicers , the move will be replaced by Ice Burn or Freeze Shock , respectively. When the two Pokémon are separated, Ice Burn and Freeze Shock both revert into Glaciate."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Glaciate",
+    "Glaciate (move)"
+  ],
+  "updatedAt": 1773323201
+}

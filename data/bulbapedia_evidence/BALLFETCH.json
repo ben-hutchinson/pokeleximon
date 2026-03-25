@@ -1,0 +1,30 @@
+{
+  "answerKey": "BALLFETCH",
+  "answerDisplay": "BALL FETCH",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Ball Fetch (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ball_Fetch_(Ability)",
+  "pageId": 238914,
+  "pageRevisionId": 4512508,
+  "leadText": "Ball Fetch (Japanese: たまひろい Ball Fetch) is an Ability introduced in Generation VIII. It is the signature Ability of Yamper.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] At any time after the first Poké Ball is thrown and fails to catch a Pokémon, at the end of a turn, if a Pokémon with Ball Fetch is on the field and not holding another item, it will pick up the same type of ball as the first one thrown. This can only occur once in a battle. Ball Fetch does not work in Max Raid Battles . Outside of battle [ edit | edit source ] Ball Fetch has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] At any time after the first Poké Ball is thrown and fails to catch a Pokémon, at the end of a turn, if a Pokémon with Ball Fetch is on the field and not holding another item, it will pick up the same type of ball as the first one thrown. This can only occur once in a battle. Ball Fetch does not work in Max Raid Battles ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ball-Fetch",
+    "Ball Fetch",
+    "Ball-Fetch (Ability)"
+  ],
+  "updatedAt": 1774213604
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "SHEDTAIL",
+  "answerDisplay": "SHED TAIL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shed Tail (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shed_Tail_(move)",
+  "pageId": 273855,
+  "pageRevisionId": 4462330,
+  "leadText": "Shed Tail (Japanese: しっぽきり Tail Shedding) is a non-damaging Normal-type move introduced in Generation IX.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Main article: Substitute doll → Effect Shed Tail creates a substitute at the cost of half of the user's maximum HP (rounded up), then switches the user out . The created substitute has 1/4 of the user's maximum HP. The Pokémon that switches in will then have the substitute. If the user is holding a Berry that would trigger in response to Shed Tail (such as a Sitrus Berry ), it eats its held Berry before switching out. Shed Tail fails (and will not switch the user out) if the user already has a substitute, if the user has no teammates to switch to, or if the user's HP is less than or equal to 50% of its maximum HP. The substitute will not protect the sent out Pokémon against entry hazards ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user creates a substitute for itself using its own HP before switching places with a party Pokémon in waiting. ZA The user creates a substitute for itself using its own HP before rushing back to its Trainer. This also increases the user's movement speed for a while."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The Japanese name of this move, しっぽきり Shippokiri , comes from the idiomatic expression 蜥蜴の尻尾切り tokage no shippo kiri (lit. cutting lizard's tail ), which means to shift one's work or responsibility onto a subordinate."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shed-Tail",
+    "Shed Tail",
+    "Shed-Tail (move)"
+  ],
+  "updatedAt": 1773326886
+}

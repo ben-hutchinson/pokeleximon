@@ -1,0 +1,17 @@
+{
+  "answerKey": "CORVIKNIGHT",
+  "answerDisplay": "CORVIKNIGHT",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Flying / Steel type Pokémon introduced in Generation 8.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/corviknight",
+  "extract": "Corviknight is a Flying / Steel type Pokémon introduced in Generation 8 .",
+  "rankPosition": 1,
+  "updatedAt": 1774210912
+}

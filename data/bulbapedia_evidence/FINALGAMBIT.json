@@ -1,0 +1,34 @@
+{
+  "answerKey": "FINALGAMBIT",
+  "answerDisplay": "FINAL GAMBIT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Final Gambit (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Final_Gambit_(move)",
+  "pageId": 117459,
+  "pageRevisionId": 4485601,
+  "leadText": "Final Gambit (Japanese: いのちがけ Life Risk) is a damage-dealing Fighting-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Final Gambit causes the user to faint, and the target receives damage equal to the user's remaining HP before using Final Gambit. If Final Gambit doesn't hit the opponent due to missing, type immunity, or protection , then Final Gambit will fail, and the user will not faint. The move's side effect is not considered as inflicting damage to the user, and so if the user is holding a Focus Band , Focus Sash , or has Sturdy , it will not activate and the user will still faint. However, the move inflicts damage to the target, and so the target's Focus Band, Focus Sash, Sturdy, and/or Endure can still trigger if applicable, so that the target will be left with 1 HP. If Final Gambit causes the target to faint, the user will faint before the target. If used in a Max or Tera Raid Battle , Final Gambit fails, and the user does not faint."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user risks everything to attack its target. The user faints but does damage equal to the user's HP. X Y OR AS S M US UM P E Sw Sh BD SP LA The user risks everything to attack its target. The user faints but does damage equal to its HP. S V The user risks everything to attack the target. The user faints but inflicts damage equal to its own HP."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI S MD It lowers your HP to 1, and damages an enemy equal to your reduced HP. MD RT DX It lowers your HP to 1 and damages an enemy by an amount equal to your reduced HP."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Final-Gambit",
+    "Final Gambit",
+    "Final-Gambit (move)"
+  ],
+  "updatedAt": 1773322787
+}

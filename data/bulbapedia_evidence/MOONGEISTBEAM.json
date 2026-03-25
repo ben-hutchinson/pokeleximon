@@ -1,0 +1,30 @@
+{
+  "answerKey": "MOONGEISTBEAM",
+  "answerDisplay": "MOONGEIST BEAM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Moongeist Beam (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Moongeist_Beam_(move)",
+  "pageId": 213484,
+  "pageRevisionId": 4406124,
+  "leadText": "Moongeist Beam (Japanese: シャドーレイ Shadow Ray) is a damage-dealing Ghost-type move introduced in Generation VII. It is the signature move of Lunala and Dawn Wings Necrozma. In Pokémon Ultra Sun and Ultra Moon, it can be upgraded to the exclusive Z-Move Menacing Moonraze Maelstrom by Lunala or Dawn Wings Necrozma holding Lunalium Z.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] Main article: Ignoring Abilities Moongeist Beam inflicts damage, ignoring all ignorable Abilities during the execution of that move. (Ignorable Abilities are most Abilities that could potentially negatively affect the success, damage, or effects of a move if possessed by the target of a move or its allies—such as Multiscale and Friend Guard .) However, it does not ignore Abilities if it is called by another move rather than directly used. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Moongeist Beam cannot be selected in a battle. Generation IX [ edit | edit source ] In Versions 1.0 to 2.0.2 of Pokémon Scarlet and Violet , Moongeist Beam could not be selected in a battle. Starting with Version 3.0.0, it is usable and functions the same as it did in previous generations."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA The user emits a sinister ray to attack the target. This move can be used on the target regardless of its Abilities. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user emits a sinister ray to attack the target. This move can be used on the target regardless of its Ability."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Moongeist-Beam",
+    "Moongeist Beam",
+    "Moongeist-Beam (move)"
+  ],
+  "updatedAt": 1773325155
+}

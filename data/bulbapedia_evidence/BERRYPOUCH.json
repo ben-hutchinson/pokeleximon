@@ -1,0 +1,38 @@
+{
+  "answerKey": "BERRYPOUCH",
+  "answerDisplay": "BERRY POUCH",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Berry Pouch",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Berry_Pouch",
+  "pageId": 24971,
+  "pageRevisionId": 4266240,
+  "leadText": "The Berry Pouch (Japanese: きのみぶくろ Berry Sack) is a Key Item introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] The Berry Pouch holds the Berries the player collects in place of the Berries pocket introduced in Pokémon Ruby and Sapphire . In Generation V , the bag pockets are referred to as \"cases\", and are depicted in-game as a series of different containers, one of which includes a separate pouch for Berries, perhaps alluding to the Berry Pouch from Pokémon FireRed and LeafGreen ."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Method FR LG Automatically obtained when the player obtains their first Berry, the earliest without trading being Route 3 ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description FR LG A pouch for carrying Berries . It is attached to the Bag 's compartment for important items. E A convenient container that holds Berries ."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price FR LG E N/A N/A Effect [ edit | edit source ] The Berry Pouch holds the Berries the player collects in place of the Berries pocket introduced in Pokémon Ruby and Sapphire . In Generation V , the bag pockets are referred to as \"cases\", and are depicted in-game as a series of different containers, one of which includes a separate pouch for Berries, perhaps alluding to the Berry Pouch from Pokémon FireRed and LeafGreen . Description [ edit | edit source ] Games Description FR LG A pouch for carrying Berries . It is attached to the Bag 's compartment for important items. E A convenient container that holds Berries . Acquisition [ edit | edit source ] Games Method FR LG Automatically obtained when the player obtains their first Berry, the earliest without trading being Route 3 ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Berry-Pouch",
+    "Berry Pouch",
+    "Berry-Pouch (item)"
+  ],
+  "updatedAt": 1774213655
+}

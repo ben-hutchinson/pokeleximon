@@ -1,0 +1,17 @@
+{
+  "answerKey": "NACLI",
+  "answerDisplay": "NACLI",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Rock type Pokémon introduced in Generation 9.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/nacli",
+  "extract": "Nacli is a Rock type Pokémon introduced in Generation 9 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212164
+}

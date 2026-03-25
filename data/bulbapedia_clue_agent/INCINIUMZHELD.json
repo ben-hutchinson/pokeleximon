@@ -1,0 +1,67 @@
+{
+  "answerKey": "INCINIUMZHELD",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "z crystals",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Held: Allows Incineroar to upgrade Darkest Lariat into Malicious Moonsault.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Z-Move crystal",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      },
+      {
+        "text": "Upgrades Darkest Lariat into Malicious Moonsault for Incineroar",
+        "evidence_ref": "lead",
+        "specificity": 0.94
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Incineroar-exclusive Z crystal",
+        "evidence_ref": "lead",
+        "mystery_score": 0.8,
+        "specificity_score": 0.92,
+        "style": "effect"
+      },
+      {
+        "text": "Darkest Lariat upgrade crystal",
+        "evidence_ref": "lead",
+        "mystery_score": 0.76,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Crystal for Malicious Moonsault",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.88,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "signature z crystal",
+      "incineroar crystal"
+    ],
+    "connections_descriptors": [
+      "Signature Z crystals",
+      "Species-specific Z crystals"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257956
+}

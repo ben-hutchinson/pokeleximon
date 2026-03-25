@@ -1,0 +1,30 @@
+{
+  "answerKey": "MOONVIEWARENA",
+  "answerDisplay": "MOONVIEW ARENA",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Moonview Arena",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Moonview_Arena",
+  "pageId": 269566,
+  "pageRevisionId": 4410290,
+  "leadText": "Moonview Arena (Japanese: 迎月の戦場 Moon-Welcoming Battlefield) is an area located in the western region of the Coronet Highlands of Hisui. It is located west of the Sacred Plaza. It is the place where the noble Electrode, Lord of the Hollow (Japanese: 洞窟キング King of the Cave), resides. Electrode is fought here as part of Mission 11: \"Scaling Perilous Heights\" to calm him of his frenzy. The Summit Camp is established between the entrance of the arena and the Sacred Plaza during Mission 17: \"Atop Mount Coronet\". Warden Melli of the Diamond Clan tends to Electrode here. The player can find the Legendary Pokémon Cresselia here as part of Request 23: \"The Plate of Moonview Arena\".",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] Moonview Arena is a formed out of a crater-like section of the mountain range. Its entrance from the Sacred Plaza is a short tunnel that bores through the mountain. Stone pillars of varying degrees of disrepair are arranged in a circular fashion around the inner perimeter of the arena. A single tree stands at the edge of the arena, where Hisuian Voltorb and the noble Electrode supposedly nestle."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Mountain Balm Obtained prior to battling Electrode LA Zap Plate Given by Electrode for quelling its frenzy during Mission 11: \"Scaling Perilous Heights\" LA Exp. Candy M ×4 Given by Melli after defeating Electrode in a rematch LA Grit Pebble Given by Melli after defeating Electrode in a rematch without taking damage LA Dread Plate Reward for catching Cresselia during Mission 23: \"The Plate of Moonview Arena\" LA"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Moonview-Arena",
+    "Moonview Arena",
+    "Moonview-Arena (location)"
+  ],
+  "updatedAt": 1774214566
+}

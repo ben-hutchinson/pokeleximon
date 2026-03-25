@@ -1,0 +1,29 @@
+{
+  "answerKey": "MIMICRY",
+  "answerDisplay": "MIMICRY",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Mimicry (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mimicry_(Ability)",
+  "pageId": 244406,
+  "pageRevisionId": 4259043,
+  "leadText": "Mimicry (Japanese: ぎたい Mimicry) is an Ability introduced in Generation VIII. It is the signature Ability of Galarian Stunfisk.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Depending on the terrain , Mimicry will change the type of a Pokémon with this Ability. Its type changes as follows: During Electric Terrain , it will become a pure Electric type. During Grassy Terrain , it will become a pure Grass type. During Misty Terrain , it will become a pure Fairy type. During Psychic Terrain , it will become a pure Psychic type. When the terrain disappears, the Pokémon reverts to its original typing. ( Transformed Pokémon with Mimicry revert to their own original typing before transforming, not the typing of the Pokémon it transformed into.) Mimicry activates after the Pokémon with Mimicry is switched in while terrain is present, or whenever there is a change in terrain; changing the Pokémon's type by other means (such as via Soak ) overrides the type caused by Mimicry. Mimicry will activate regardless of whether the Pokémon with Mimicry is grounded or not. If the Pokémon with Mimicry has an additional type due to Forest's Curse or Trick-or-Treat , when terrain triggers Mimicry, it will normally only change its regular types and not affect the additional types. However, if the Pokémon is already Grass-type due to Forest's Curse when it becomes Grass-type due to Grassy Terrain, the effect of Forest's Curse disappears. Outside of battle [ edit | edit source ] Mimicry has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Depending on the terrain , Mimicry will change the type of a Pokémon with this Ability. Its type changes as follows: During Electric Terrain , it will become a pure Electric type. During Grassy Terrain , it will become a pure Grass type. During Misty Terrain , it will become a pure Fairy type. During Psychic Terrain , it will become a pure Psychic type. When the terrain disappears, the Pokémon reverts to its original typing. ( Transformed Pokémon with Mimicry revert to their own original typing before transforming, not the typing of the Pokémon it transformed into.) Mimicry activates after the Pokémon with Mimicry is switched in while terrain is present, or whenever there is a change in terrain; changing the Pokémon's type by other means (such as via Soak ) overrides the type caused by Mimicry. Mimicry will activate regardless of whether the Pokémon with Mimicry is grounded or not. If the Pokémon with Mimicry has an additional type due to Forest's Curse or Trick-or-Treat , when terrain triggers Mimicry, it will normally only change its regular types and not affect the additional types. However, if the Pokémon is already Grass-type due to Forest's Curse when it becomes Grass-type due to Grassy Terrain, the effect of Forest's Curse disappears."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mimicry",
+    "Mimicry (Ability)"
+  ],
+  "updatedAt": 1773329030
+}

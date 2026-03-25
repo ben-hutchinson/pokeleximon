@@ -1,0 +1,38 @@
+{
+  "answerKey": "DEEPSEASCALE",
+  "answerDisplay": "DEEP SEA SCALE",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Deep Sea Scale",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Deep_Sea_Scale",
+  "pageId": 61036,
+  "pageRevisionId": 4504960,
+  "leadText": "The Deep Sea Scale (Japanese: しんかいのウロコ Deep-Sea Scale), formatted DeepSeaScale prior to Generation VI and Deepseascale in the Pokémon Mystery Dungeon series, is a type of held item introduced in Generation III. It allows Clamperl to evolve into Gorebyss, and also boosts the Special Defense of a Clamperl that holds it.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If held by Clamperl , doubles its Special Defense . Outside of battle [ edit | edit source ] Causes Clamperl to evolve into Gorebyss when traded while holding it. This consumes the Deep Sea Scale."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If the player offers both a Link Cable and Deepseascale at Luminous Cave or Luminous Spring , Clamperl can be evolved into Gorebyss . This consumes the Link Cable and Deepseascale. If thrown, it will deal 1 damage (2 if sticky ). Using this item in a dungeon will consume it, with no effect."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] If held by Clamperl , doubles its Special Defense ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD A hold item that raises the Sp. Def of Clamperl . FR LG An item to be held by a Pok é mon . A scale that shines a faint pink. It raises the Sp. Def stat. D P Pt HG SS An item to be held by Clamperl . A scale that shines a faint pink, it raises the Sp. Def stat. B W B2 W2 An item to be held by Clamperl. A scale that shines a faint pink, it raises the Sp. Def stat. X Y OR AS S M US UM P E Sw Sh BD SP LA An item to be held by Clamperl. This scale shines with a faint pink and raises the holder's Sp. Def stat. S V An item to be held by Clamperl. This scale shines with a faint pink and boosts Clamperl's Sp. Def stat."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Deep-Sea-Scale",
+    "Deep Sea Scale",
+    "Deep-Sea-Scale (item)"
+  ],
+  "updatedAt": 1773322064
+}

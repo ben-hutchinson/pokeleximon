@@ -1,0 +1,33 @@
+{
+  "answerKey": "ENTRAINMENT",
+  "answerDisplay": "ENTRAINMENT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Entrainment (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Entrainment_(move)",
+  "pageId": 117472,
+  "pageRevisionId": 4426865,
+  "leadText": "Entrainment (Japanese: なかまづくり Befriend) is a non-damaging Normal-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Entrainment changes the target's Ability to match the user's. If a Pokémon affected by Entrainment is switched out, it regains its original Ability. If both Pokémon have the same Ability, Entrainment will fail. Entrainment fails if the target's Ability is Truant , Multitype , Stance Change , Schooling , Comatose , Shields Down , Disguise , RKS System , Battle Bond , Power Construct , Ice Face , Gulp Missile , As One , Zero to Hero , Commander , Orichalcum Pulse , or Hadron Engine . Entrainment fails if the user's Ability is Trace , Forecast , Flower Gift , Zen Mode , Illusion , Imposter , Power of Alchemy , Receiver , Disguise , Power Construct , Ice Face , Hunger Switch , Gulp Missile , Neutralizing Gas , As One , Zero to Hero , or Commander . If powered up by a Normalium Z into Z-Entrainment, the user's Special Defense stat is raised by one stage. Entrainment can be used as a part of a Contest Spectacular combination , causing certain moves ( Circle Throw , Seismic Toss , Sky Drop , Smack Down , Storm Throw , and Vital Throw ) to give an extra three appeal points if any of them is used in the next turn. Entrainment fails if used on Dynamax or Gigantamax Pokémon."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user dances with an odd rhythm that compels the target to mimic it, making the target's Ability the same as the user's."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It makes the Ability of the Pokémon in front of you same as yours. S MD It makes a target's Ability the same as yours. * It makes the Ability of the Pokémon in front of you the same as yours. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Entrainment",
+    "Entrainment (move)"
+  ],
+  "updatedAt": 1773322594
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "ENERGYBALL",
+  "answerDisplay": "ENERGY BALL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Energy Ball (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Energy_Ball_(move)",
+  "pageId": 14237,
+  "pageRevisionId": 4493849,
+  "leadText": "Energy Ball (Japanese: エナジーボール Energy Ball) is a damage-dealing Grass-type move introduced in Generation IV. It is: TM53 in Generations IV through Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TR65 in Pokémon Sword and Shield. TM119 in Pokémon Scarlet and Violet. TM026 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations IV and V 1.2 Generation VI onwards 1.3 Generation VIII 1.3.1 Pokémon Legends: Arceus 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generations IV and V [ edit | edit source ] Energy Ball damages the opponent and has a 10% chance of lowering the target's Special Defense by one stage. Generation VI onwards [ edit | edit source ] Energy Ball's power was increased from 80 to 90. Additionally, it does not affect targets with Bulletproof . Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Energy Ball's base power has been lowered back to 80. It also has a 20% chance of lowering the target's defensive stats for three turns. Pokémon Legends: Arceus Category Special PP 10 Agile Strong Power 80 60 100 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 20% 20% 40% Turns 3 2 4 ? ? May lower the target's defensive stats Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 90 108 Cooldown 8s Move wind-up time 20 frames Effect duration —s Additional effect Chance 10% Duration 15s 18s — May lower the target's Special Defense."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def. B W B2 W2 The user draws power from nature and fires it at the target. It may also lower the target's Sp. Def. X Y OR AS The user draws power from nature and fires it at the target. This may also lower the target's Sp. Def. S M US UM P E Sw Sh BD SP S V The user draws power from nature and fires it at the target. This may also lower the target's Sp. Def stat. LA The user draws power from nature and fires it at the target. This may also lower the target’s defensive stats. ZA The user attacks by drawing power from nature and firing it at targets. This may also lower targets' Sp. Def stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target, even at a distance. It may also reduce the target's Special Defense by 1 level. B S L はなれたポケモンに ダメージをあたえる しかも いっていのかくりつで とくぼうを １だんかいさげる MD GtI It damages even a faraway Pokémon. It could also lower its Special Defense. S MD MD RT DX It damages a Pokémon, even one far away. It could also lower the enemy's Sp. Def."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In the animated series , Energy Ball's appearance is strikingly similar to Zap Cannon , Hidden Power , and Electro Ball ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Energy-Ball",
+    "Energy Ball",
+    "Energy-Ball (move)"
+  ],
+  "updatedAt": 1773322580
+}

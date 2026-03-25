@@ -1,0 +1,87 @@
+{
+  "answerKey": "PARASCANDY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4471031,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "species candies",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "A candy that is packed with energy. When given to certain Pokemon, it will increase all their stats at once.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Raises all stats at once for a specific species",
+        "evidence_ref": "lead",
+        "specificity": 0.86
+      },
+      {
+        "text": "Species candy item",
+        "evidence_ref": "lead",
+        "specificity": 0.68
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Species candy item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.68,
+        "style": "family"
+      },
+      {
+        "text": "Pokemon candy",
+        "evidence_ref": "lead",
+        "mystery_score": 0.48,
+        "specificity_score": 0.66,
+        "style": "family"
+      },
+      {
+        "text": "Candy named for a species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.46,
+        "specificity_score": 0.66,
+        "style": "family"
+      },
+      {
+        "text": "Packed-energy stat booster",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "All-stats boosting sweet",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Specific-species stat treat",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.8,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "species candy",
+      "pokemon candy"
+    ],
+    "connections_descriptors": [
+      "Species candies"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257989
+}

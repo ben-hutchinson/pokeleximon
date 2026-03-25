@@ -1,0 +1,16 @@
+{
+  "answerKey": "SURGESURFER",
+  "answerDisplay": "SURGE SURFER",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen VII ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Surge_Surfer_(Ability)",
+  "extract": "Surge Surfer (Japanese: サーフテール Surf Tail) is an Ability introduced in Generation VII. It is the signature Ability of Alolan Raichu.",
+  "updatedAt": 1774258447
+}

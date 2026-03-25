@@ -1,0 +1,62 @@
+{
+  "answerKey": "TERAFORMZERO",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4297831,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Teraform Zero (Japanese: Zero-Forming) is an Ability introduced during Generation IX, in The Indigo Disk. It is one of the signature Abilities of Terapagos.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] As soon as Terapagos assumes its Stellar Form, it will immediately neutralize weather and terrain effects. Moves or Abilities like Gastro Acid and Neutralizing Gas that suppress Abilities will suppress Teraform Zero. Teraform Zero can also be replaced by other Abilities through Entrainment , Worry Seed , or Doodle . Making contact with a target that has Mummy , Wandering Spirit , or Lingering Aroma as their Ability will change Teraform Zero to that Ability. It cannot be copied with Trace or Role Play , nor obtained with Skill Swap , Power of Alchemy , or Receiver . Due to how overworld weather works in Generation IX , Teraform Zero will fail to protect from its effects. Outside of battle [ edit | edit source ] Teraform Zero has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] As soon as Terapagos assumes its Stellar Form, it will immediately neutralize weather and terrain effects. Moves or Abilities like Gastro Acid and Neutralizing Gas that suppress Abilities will suppress Teraform Zero. Teraform Zero can also be replaced by other Abilities through Entrainment , Worry Seed , or Doodle . Making contact with a target that has Mummy , Wandering Spirit , or Lingering Aroma as their Ability will change Teraform Zero to that Ability. It cannot be copied with Trace or Role Play , nor obtained with Skill Swap , Power of Alchemy , or Receiver . Due to how overworld weather works in Generation IX , Teraform Zero will fail to protect from its effects.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "As soon as Terapagos assumes its Stellar Form, it will immediately neutralize weather and terrain effects.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Weather abilities",
+      "Gen IX abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258023
+}

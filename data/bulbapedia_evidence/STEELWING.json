@@ -1,0 +1,38 @@
+{
+  "answerKey": "STEELWING",
+  "answerDisplay": "STEEL WING",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Steel Wing (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Steel_Wing_(move)",
+  "pageId": 3822,
+  "pageRevisionId": 4452092,
+  "leadText": "Steel Wing (Japanese: はがねのつばさ Steel Wing) is a damage-dealing Steel-type move introduced in Generation II. It is: TM47 from Generation II to Generation IV, and in Pokémon Brilliant Diamond and Shining Pearl. TM51 from Generation VI to Pokémon Ultra Sun and Ultra Moon. TM30 in Pokémon Sword and Shield. It is the signature move of Skarmory in Generation V, but other Pokémon could still inherit it via breeding.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III onwards 1.3 Generation IX 1.3.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Steel Wing inflicts damage and has a 10% chance of raising the user's Defense by one stage. Generation II [ edit | edit source ] Steel Wing is not affected by King's Rock . Generation III onwards [ edit | edit source ] Steel Wing is now affected by King's Rock . Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 70 84 Cooldown 7s Move wind-up time 10 frames Effect duration —s Additional effect Chance 10% Duration 15s 18s — May raise the user's Defense."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 Strikes the target with stiff wings. Has a one-in-ten chance of raising the user's Defense . G S C Stiff wings strike the foe. R S E Strikes the foe with hard wings spread wide. (move) Spreads hard-edged wings and slams into the foe. (TM) FR LG The foe is hit with wings of steel. It may also raise the user's Defense . Colo XD Strikes target with wings. May raise Defense . (move) Spreads hard-edged wings and slams into the target. (TM) D P Pt HG SS PBR The foe is hit with wings of steel. It may also raise the user's Defense stat. B W B2 W2 The target is hit with wings of steel. It may also raise the user's Defense stat. X Y OR AS S M US UM P E Sw Sh BD SP LA The target is hit with wings of steel. This may also raise the user's Defense stat. S V The target is hit with wings of steel. This may also boost the user's Defense stat. ZA The user attacks by bashing targets with hard wings. This may also boost the user's Defense stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also raise the user's Defense by one level. MD T D S Inflicts damage on the target. It may also boost the user's Defense by 1 level. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで じぶんの ぼうぎょを １だんかいあげる MD GtI UNUSED S MD It damages an enemy. It could also boost your Defense. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Doduo , Dodrio , Leavanny , Elgyem , Beheeyem , Drakloak , and Dragapult can learn this move despite not having any visible wings. Mew can also learn this move, despite not having any visible wings, but it can be explained by the fact that Mew can learn every TM move. Steel Wing is Steven Stone 's favorite move."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Steel-Wing",
+    "Steel Wing",
+    "Steel-Wing (move)"
+  ],
+  "updatedAt": 1773327569
+}

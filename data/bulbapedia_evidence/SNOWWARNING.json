@@ -1,0 +1,34 @@
+{
+  "answerKey": "SNOWWARNING",
+  "answerDisplay": "SNOW WARNING",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Snow Warning (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Snow_Warning_(Ability)",
+  "pageId": 13615,
+  "pageRevisionId": 4471217,
+  "leadText": "Snowfall redirects here. For the location in Pokémon Channel, see Mt. Snowfall. Snow Warning (Japanese: ゆきふらし Snowfall) is an Ability introduced in Generation IV. Prior to Generation VI, it was the signature Ability of Snover and Abomasnow.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations IV and V 1.1.2 Generation VI to VIII 1.1.3 Generation IX 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations IV and V [ edit | edit source ] Snow Warning summons a hailstorm in battle as soon as a Pokémon with Snow Warning enters the battle. Its effects are the same as Hail , but instead of lasting for five turns, it lasts for the whole battle until replaced. If a Pokémon with Snow Warning is sent out in the same turn as another Pokémon whose Ability affects the weather , the slower Pokémon's Ability will override the faster Ability. Generation VI to VIII [ edit | edit source ] The hail will last only for five turns. This can be extended to eight turns if the Pokémon is holding an Icy Rock . If heavy rain , extremely harsh sunlight , or strong winds are present, Snow Warning will fail to activate. Generation IX [ edit | edit source ] Snow Warning now summons a snowstorm instead of hail. Outside of battle [ edit | edit source ] Snow Warning has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "Contents 1 In battle 1.1 Generations IV and V 1.2 Generation VI to VIII 1.3 Generation IX In battle [ edit | edit source ] Generations IV and V [ edit | edit source ] Snow Warning summons a hailstorm in battle as soon as a Pokémon with Snow Warning enters the battle. Its effects are the same as Hail , but instead of lasting for five turns, it lasts for the whole battle until replaced. If a Pokémon with Snow Warning is sent out in the same turn as another Pokémon whose Ability affects the weather , the slower Pokémon's Ability will override the faster Ability. Generation VI to VIII [ edit | edit source ] The hail will last only for five turns. This can be extended to eight turns if the Pokémon is holding an Icy Rock . If heavy rain , extremely harsh sunlight , or strong winds are present, Snow Warning will fail to activate. Generation IX [ edit | edit source ] Snow Warning now summons a snowstorm instead of hail."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Changes the weather to a hail condition. B S L てんきを あられに してしまう MD GtI Unavailable S MD The weather on the floor will be hail!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Snow-Warning",
+    "Snow Warning",
+    "Snow-Warning (Ability)"
+  ],
+  "updatedAt": 1773329218
+}

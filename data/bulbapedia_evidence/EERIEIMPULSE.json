@@ -1,0 +1,38 @@
+{
+  "answerKey": "EERIEIMPULSE",
+  "answerDisplay": "EERIE IMPULSE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Eerie Impulse (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Eerie_Impulse_(move)",
+  "pageId": 185075,
+  "pageRevisionId": 4500861,
+  "leadText": "Eerie Impulse (Japanese: かいでんぱ Mysterious Radio Wave) is a non-damaging Electric-type move introduced in Generation VI. It was TM93 in Pokémon Sword and Shield, and is TM096 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Eerie Impulse lowers the target's Special Attack stat by two stages. If powered up by an Electrium Z into Z-Eerie Impulse, the user's Special Defense stat rises by one stage. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 10s Move wind-up time 1 frame Effect duration 30s 33s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user's body generates an eerie impulse. Exposing the target to it harshly lowers the target's Sp. Atk stat. ZA The user generates an eerie impulse from its body, which lowers targets' Sp. Atk stats for a while."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD MD RT DX It sharply lowers the enemy's Sp. Atk."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Eerie Impulse is the only variation of Charm that has never been used in the animated series ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Eerie-Impulse",
+    "Eerie Impulse",
+    "Eerie-Impulse (move)"
+  ],
+  "updatedAt": 1773322468
+}

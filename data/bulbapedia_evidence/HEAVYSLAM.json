@@ -1,0 +1,38 @@
+{
+  "answerKey": "HEAVYSLAM",
+  "answerDisplay": "HEAVY SLAM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Heavy Slam (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Heavy_Slam_(move)",
+  "pageId": 117597,
+  "pageRevisionId": 4484449,
+  "leadText": "Heavy Slam (Japanese: ヘビーボンバー Heavy Bomber) is a damage-dealing Steel-type move introduced in Generation V. It was TR79 in Pokémon Sword and Shield, and is TM121 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations V and VI 1.2 Generation VII onwards 1.3 Generation IX 1.3.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generations V and VI [ edit | edit source ] Heavy Slam deals damage. Its power depends on the weight of both the user and the target; the lighter the target is in comparison to the user, the greater the power: Target's relative weight Power More than 50% 40 33.35% - 50% 60 25.01% - 33.34% 80 20.01% - 25% 100 20% or less 120 Generation VII onwards [ edit | edit source ] If the target has used Minimize , Heavy Slam now deals double its regular damage and bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . Heavy Slam will fail against a Dynamax target. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Heavy Slam behaves similarly to Heat Crash , Fly and Bounce , causing the user to leap high up into the air (briefly avoiding moves that pass through their position), before crashing back down on the target. If used against the Hyperrogue Ange Floette flowers, Heavy Slam will always have a base power of 120. Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 1 1 Cooldown 10s Move wind-up time 25 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user slams into the target with its heavy body. The more the user outweighs the target, the greater its damage. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move's power. ZA The user attacks by slamming its heavy body into targets. The more the user outweighs the target, the greater this move's power."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It damages an enemy. The heavier you are than the enemy, the greater the damage the move causes. S MD MD RT DX It damages an enemy. The heavier you are compared to the enemy, the greater the damage caused."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The heaviest Pokémon capable of learning Heavy Slam is a Copperajah with the Heavy Metal Ability , giving it an effective weight of 2866 lbs. , followed by Celesteela , which weighs 2204.4 lbs. . With a weight of 2.2 lbs. , Flapple is the lightest Pokémon that can have this move."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Heavy-Slam",
+    "Heavy Slam",
+    "Heavy-Slam (move)"
+  ],
+  "updatedAt": 1773323603
+}

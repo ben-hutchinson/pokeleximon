@@ -1,0 +1,33 @@
+{
+  "answerKey": "OVERCOAT",
+  "answerDisplay": "OVERCOAT",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Overcoat (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Overcoat_(Ability)",
+  "pageId": 111644,
+  "pageRevisionId": 4273617,
+  "leadText": "Overcoat (Japanese: ぼうじん Dustproof) is an Ability introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation V 1.1.2 Generation VI onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation V [ edit | edit source ] A Pokémon with Overcoat does not take damage from the weather conditions sandstorm and hailstorm . Generation VI onward [ edit | edit source ] Overcoat now also protects from powder and spore moves , as well as Effect Spore . Outside of battle [ edit | edit source ] Overcoat has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generation V [ edit | edit source ] A Pokémon with Overcoat does not take damage from the weather conditions sandstorm and hailstorm . Generation VI onward [ edit | edit source ] Overcoat now also protects from powder and spore moves , as well as Effect Spore ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI Protects the Pokémon from weather that would damage it. * The Hail and Sandstorm weather conditions won't damage the Pokémon! * S MD Hail or a sandstorm won't damage the Pokémon! It also prevents the effects of the Effect Spore Ability and moves such as Poison Powder and Powder ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Overcoat",
+    "Overcoat (Ability)"
+  ],
+  "updatedAt": 1773329066
+}

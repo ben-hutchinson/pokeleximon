@@ -1,0 +1,216 @@
+name: pokeleximon-aws-prod
+
+services:
+  proxy:
+    image: caddy:2.8-alpine
+    restart: unless-stopped
+    depends_on:
+      api:
+        condition: service_healthy
+      web:
+        condition: service_started
+    env_file:
+      - ${POKELEXIMON_SECRETS_DIR:-/opt/pokeleximon/secrets}/proxy.env
+    environment:
+      SITE_HOST: ${SITE_HOST:-localhost}
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - ${POKELEXIMON_DATA_DIR:-/opt/pokeleximon/data}/caddy/data:/data
+      - ${POKELEXIMON_DATA_DIR:-/opt/pokeleximon/data}/caddy/config:/config
+
+  web:
+    build:
+      context: ${POKELEXIMON_APP_ROOT:-/opt/pokeleximon/app/current}/apps/web
+      dockerfile: Dockerfile
+      args:
+        WEB_SENTRY_ENVIRONMENT: ${WEB_SENTRY_ENVIRONMENT:-production}
+        WEB_SENTRY_RELEASE: ${WEB_SENTRY_RELEASE:-unknown}
+        WEB_SENTRY_TRACES_SAMPLE_RATE: ${WEB_SENTRY_TRACES_SAMPLE_RATE:-0}
+        WEB_FEATURE_CONNECTIONS_ENABLED: ${WEB_FEATURE_CONNECTIONS_ENABLED:-false}
+    restart: unless-stopped
+
+  api:
+    build:
+      context: ${POKELEXIMON_APP_ROOT:-/opt/pokeleximon/app/current}/services/api
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    env_file:
+      - ${POKELEXIMON_SECRETS_DIR:-/opt/pokeleximon/secrets}/api.env
+    environment:
+      APP_ENV: production
+      RATE_LIMIT_TRUST_X_FORWARDED_FOR: "true"
+      RATE_LIMIT_TRUST_X_FORWARDED_FOR_HOPS: "1"
+      CROSSWORD_CSV_PATH: /app/data/wordlist_crossword_answer_clue.csv
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    volumes:
+      - ${POKELEXIMON_APP_ROOT:-/opt/pokeleximon/app/current}/data:/app/data:ro
+      - ${POKELEXIMON_ARTIFACTS_DIR:-/opt/pokeleximon/data/artifacts}:/var/lib/pokeleximon/artifacts
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - import urllib.request; urllib.request.urlopen("http://127.0.0.1:8000/health/ready", timeout=5)
+      interval: 30s
+      timeout: 5s
+      retries: 5
+      start_period: 20s
+
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    env_file:
+      - ${POKELEXIMON_SECRETS_DIR:-/opt/pokeleximon/secrets}/api.env
+    volumes:
+      - ${POKELEXIMON_DATA_DIR:-/opt/pokeleximon/data}/postgres:/var/lib/postgresql/data
+    healthcheck:
+      test:
+        - CMD-SHELL
+        - pg_isready -U "$$POSTGRES_USER" -d "$$POSTGRES_DB"
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    command: ["redis-server", "--appendonly", "yes", "--save", "60", "1000"]
+    volumes:
+      - ${POKELEXIMON_DATA_DIR:-/opt/pokeleximon/data}/redis:/data
+    healthcheck:
+      test:
+        - CMD
+        - redis-cli
+        - ping
+      interval: 10s
+      timeout: 3s
+      retries: 10
+
+  node-exporter:
+    image: prom/node-exporter:v1.8.1
+    restart: unless-stopped
+    command:
+      - --path.rootfs=/host
+      - --collector.filesystem.mount-points-exclude=^/(dev|proc|sys|var/lib/docker/.+|run/docker/.+|var/lib/containers/storage/.+)($|/)
+    pid: host
+    volumes:
+      - /:/host:ro,rslave
+
+  postgres-exporter:
+    image: quay.io/prometheuscommunity/postgres-exporter:v0.15.0
+    restart: unless-stopped
+    env_file:
+      - ${POKELEXIMON_SECRETS_DIR:-/opt/pokeleximon/secrets}/api.env
+    entrypoint:
+      - /bin/sh
+      - -ec
+    command:
+      - |
+        export DATA_SOURCE_URI="db:5432/$${POSTGRES_DB}?sslmode=disable"
+        export DATA_SOURCE_USER="$${POSTGRES_USER}"
+        export DATA_SOURCE_PASS="$${POSTGRES_PASSWORD}"
+        exec postgres_exporter
+    depends_on:
+      db:
+        condition: service_healthy
+
+  redis-exporter:
+    image: oliver006/redis_exporter:v1.61.0
+    restart: unless-stopped
+    environment:
+      REDIS_ADDR: redis://redis:6379
+    depends_on:
+      redis:
+        condition: service_healthy
+
+  prometheus:
+    image: prom/prometheus:v2.52.0
+    restart: unless-stopped
+    command:
+      - --config.file=/etc/prometheus/prometheus.yml
+      - --storage.tsdb.path=/prometheus
+      - --storage.tsdb.retention.time=7d
+      - --storage.tsdb.retention.size=1GB
+    ports:
+      - "127.0.0.1:9090:9090"
+    volumes:
+      - ${POKELEXIMON_APP_ROOT:-/opt/pokeleximon/app/current}/infra/production/aws-ec2/monitoring/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - ${POKELEXIMON_APP_ROOT:-/opt/pokeleximon/app/current}/infra/production/aws-ec2/monitoring/prometheus/alerts.yml:/etc/prometheus/alerts.yml:ro
+      - prometheus-data:/prometheus
+    depends_on:
+      api:
+        condition: service_healthy
+      alertmanager:
+        condition: service_started
+      node-exporter:
+        condition: service_started
+      postgres-exporter:
+        condition: service_started
+      redis-exporter:
+        condition: service_started
+
+  alertmanager:
+    image: prom/alertmanager:v0.27.0
+    restart: unless-stopped
+    env_file:
+      - ${POKELEXIMON_SECRETS_DIR:-/opt/pokeleximon/secrets}/monitoring.env
+    command:
+      - /bin/sh
+      - -ec
+      - |
+        receiver_name="null"
+        webhook_block=""
+        if [ -n "$${ALERTMANAGER_WEBHOOK_URL:-}" ]; then
+          receiver_name="webhook"
+          webhook_block="  - name: webhook\n    webhook_configs:\n      - url: $${ALERTMANAGER_WEBHOOK_URL}\n        send_resolved: $${ALERTMANAGER_WEBHOOK_SEND_RESOLVED:-true}\n"
+        fi
+        cat > /tmp/alertmanager.yml <<EOF
+        global:
+          resolve_timeout: 5m
+        route:
+          receiver: $${receiver_name}
+          group_by: ['alertname', 'severity', 'job', 'game_type']
+          group_wait: 30s
+          group_interval: 10m
+          repeat_interval: 4h
+        receivers:
+          - name: null
+        EOF
+        if [ -n "$${webhook_block}" ]; then
+          printf "%b" "$${webhook_block}" >> /tmp/alertmanager.yml
+        fi
+        exec /bin/alertmanager --config.file=/tmp/alertmanager.yml --storage.path=/alertmanager
+    ports:
+      - "127.0.0.1:9093:9093"
+    volumes:
+      - alertmanager-data:/alertmanager
+
+  grafana:
+    image: grafana/grafana:11.0.0
+    restart: unless-stopped
+    env_file:
+      - ${POKELEXIMON_SECRETS_DIR:-/opt/pokeleximon/secrets}/monitoring.env
+    environment:
+      GF_USERS_ALLOW_SIGN_UP: "false"
+      GF_AUTH_ANONYMOUS_ENABLED: "false"
+    ports:
+      - "127.0.0.1:3000:3000"
+    depends_on:
+      prometheus:
+        condition: service_started
+    volumes:
+      - ${POKELEXIMON_APP_ROOT:-/opt/pokeleximon/app/current}/infra/production/aws-ec2/monitoring/grafana/provisioning:/etc/grafana/provisioning:ro
+      - ${POKELEXIMON_APP_ROOT:-/opt/pokeleximon/app/current}/infra/production/aws-ec2/monitoring/grafana/dashboards:/etc/grafana/provisioning/dashboards/pokeleximon:ro
+      - grafana-data:/var/lib/grafana
+
+volumes:
+  prometheus-data:
+  grafana-data:
+  alertmanager-data:

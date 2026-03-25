@@ -1,0 +1,34 @@
+{
+  "answerKey": "MINDBLOWN",
+  "answerDisplay": "MIND BLOWN",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Mind Blown (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mind_Blown_(move)",
+  "pageId": 226073,
+  "pageRevisionId": 4463882,
+  "leadText": "Mind Blown (Japanese: ビックリヘッド Surprised Head) is a damage-dealing Fire-type move introduced during Generation VII, in Pokémon Ultra Sun and Ultra Moon. It is the signature move of Blacephalon.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Sword and Shield 1.1.2 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX 1.3 Other effects Effect [ edit | edit source ] Mind Blown inflicts damage, and the user takes damage equal to half of its maximum HP rounded up (unless it has Magic Guard ). Mind Blown cannot be used when a Pokémon with the Ability Damp is on the field. The user of Mind Blown will take damage even if the target is protected from it, if it hits a substitute , if the move misses, or if the target has Flash Fire . If Mind Blown fails due to there being no targets (i.e. if all Pokémon in range fainted before the move was used), the user does not take damage. Rock Head and Reckless do not affect Mind Blown. If the user has Parental Bond in a Single Battle, the HP loss occurs after the first hit, and the second hit will only occur if neither Pokémon has fainted as a result. There is no additional HP loss for the second hit in that case. The user loses if all of the last Pokémon faint in the same turn as the result of using Mind Blown. Generation VIII [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] In Versions 1.0 to 1.2.1 of Pokémon Sword and Shield , Mind Blown could not be selected in a battle. Starting with Version 1.3.0, it is usable and functions the same as it did in the previous generation. Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Mind Blown cannot be selected in a battle. Generation IX [ edit | edit source ] Mind Blown cannot be selected in a battle. Other effects [ edit | edit source ] Mind Blown does not exist in the game data of Pokémon Sun and Moon . As a result, a Pokémon knowing Mind Blown cannot be traded from Pokémon Ultra Sun and Ultra Moon to Sun and Moon, and if a Pokémon in Pokémon Bank knows the move it cannot be withdrawn in Pokémon Sun and Moon. In order to be transferred to Pokémon Sun and Moon, the Pokémon must forget Mind Blown."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description US UM P E Sw Sh LA S V The user attacks everything around it by causing its own head to explode. This also damages the user. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] If a Shiny Pokémon uses Mind Blown, the move's animation is different, appearing to use a Shiny Blacephalon's blue head rather than the normal white one. [ 1 ] It shares this distinction with Dragon Darts and Syrup Bomb . This does not happen in Pokémon GO ; the head will always be white regardless if the user is shiny. ↑ What Do Shiny Pokemon Look Like Using Blacephalon's Mind Blown In Pokemon Ultra Sun and Moon?"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mind-Blown",
+    "Mind Blown",
+    "Mind-Blown (move)"
+  ],
+  "updatedAt": 1773325064
+}

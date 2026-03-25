@@ -1,0 +1,30 @@
+{
+  "answerKey": "SONOROUSPATH",
+  "answerDisplay": "SONOROUS PATH",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Sonorous Path",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sonorous_Path",
+  "pageId": 272612,
+  "pageRevisionId": 4428798,
+  "leadText": "Sonorous Path (Japanese: 巡礼者の道 Pilgrims' Path) is an area located in the southern region of the Coronet Highlands of Hisui. It stretches between the Ancient Quarry to the west and the Lonely Spring to the east. The Mountain Camp is permanently established here as part of Request 65: \"Setting Up the Mountain Camp\".",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] From the entrance at the Ancient Quarry, Sonorous Path is a lightly-forested trail that runs between the elevated Celestica Trail to the north and a thin mountain wall to the south, which prevents access to Wayward Wood below without the help of Ride Sneasler . The opposite end of the trail stops at a little plain next to the river that originates from the Lonely Spring."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] This section is incomplete. Please feel free to edit this section to add missing information and complete it."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sonorous-Path",
+    "Sonorous Path",
+    "Sonorous-Path (location)"
+  ],
+  "updatedAt": 1773329222
+}

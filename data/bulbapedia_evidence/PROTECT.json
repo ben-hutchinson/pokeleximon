@@ -1,0 +1,37 @@
+{
+  "answerKey": "PROTECT",
+  "answerDisplay": "PROTECT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Protect (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Protect_(move)",
+  "pageId": 3438,
+  "pageRevisionId": 4504362,
+  "leadText": "Protect (Japanese: まもる Protect) is a non-damaging Normal-type move introduced in Generation II. It is: TM17 from Generation II to Pokémon Ultra Sun and Ultra Moon, in Pokémon Brilliant Diamond and Shining Pearl, as well as in Pokémon Legends: Z-A. TM07 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TM25 in Pokémon Sword and Shield. TM007 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III 1.3 Generation IV 1.4 Generation V onwards 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Main article: Protection Protect protects the user from all effects of moves that target it during the turn it is used, including damage. This does not include damage at the end of a turn such as from weather or a status condition . Protect is an increased priority move that will go before most attacks in a turn. If the user goes last in the turn, the move will fail. The chance that Protect will succeed also drops each time the user successfully and consecutively uses Endure , any protection move that only affects the user , Quick Guard , or Wide Guard . Gen II Gen III Gen IV Gen V Gen VI Gen VII Gen VIII Gen IX Success rate Times ½ after each use ✔ ✔ Times ½ after each use (lowest: 1/8) ✔ bug ✔ Times 1 / 3 after each use ✔ ✔ ✔ ✔ Priority +3 ✔ ✔ ✔ +4 ✔ ✔ ✔ ✔ ✔ Some moves will do damage through Protect . Most damaging Z-Moves and Max Moves will only do 25% of their original damage, except G-Max One Blow and G-Max Rapid Flow which do full damage. Moves that break protection , like Feint , will do their full damage and remove the effects of Protect. The Ability Unseen Fist allows contact moves to bypass Protect. Status moves that are unaffected by Protect are listed here . Generally, moves that target the user , moves that target the user and all allies , moves that target all Pokémon (except Shadow Shed and Shadow Half ), and entry hazard moves cannot be blocked by Protect. Generation II [ edit | edit source ] In this generation only, Protect will fail if the user is behind a substitute . Protect's chance of working successfully the first 8 times is x/255 where x starts at 255 and is halved per sucessive use, rounded down. After 8 successive uses of Protect, the following Protect will always fail. Generation III [ edit | edit source ] In this generation only, the success rate is meant to have a lower bound of 1/8, but a bug causes it to become erratic afterwards instead. Protect can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Harden was used in the previous turn. Generation IV [ edit | edit source ] In Diamond and Pearl only, due to a bug , if an attack is given perfect accuracy through the effect of a move ( Lock-On / Mind Reader ), the weather ( Thunder in rain or Blizzard in hail ), or an Ability ( No Guard ), it ignores protection with inverted accuracy. OHKO moves are unaffected and will not hit through protection. This bug was fixed in Platinum. Generation V onwards [ edit | edit source ] If powered up by a Normalium Z into Z-Protect, all of the user's lowered stats are reset. Pokémon Legends: Z-A [ edit | edit source ] Protect protects the user against incoming moves for 45 frames (1.5 seconds). Damaging Plus Moves do 25% of their damage through Protect. Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 15s 12s Move wind-up time 0 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 Completely foils an opponent's attack. If used consecutively, its success rate decreases. G S C Foils attack that turn. It may fail. R S E Colo XD Evades attack, but may fail if used in succession. (move) Negates all damage, but may fail if used in succession. (TM) FR LG Enables the user to evade all attacks. It may fail if used in succession. D P Pt HG SS PBR B W B2 W2 It enables the user to evade all attacks. Its chance of failing rises if it is used in succession. X Y OR AS S M US UM Enables the user to evade all attacks. Its chance of failing rises if it is used in succession. P E Enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession. Sw Sh BD SP LA S V This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession. ZA The user takes on a protective stance that prevents incoming attacks from landing."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Protect status, preventing damage from enemy attacks and moves. MD T D Gives the user a Protect status. A Pokémon with the Protect status doesn't take damage from enemy attacks and moves, and is also protected from the effects of moves. MD S Gives the user a Protect status. A Pokémon with the Protect status doesn't take damage from enemy attacks and moves and is also protected from the effects of moves. B S L じぶんを まもりじょうたいにかえる まもりじょうたいになると てきのこうげきや わざのこうかを うけない MD GtI You'll get the Protect status, which enables you to evade enemies' attacks and move effects. Its chance of failing rises if you use it multiple times in a row. S MD You'll protect yourself and evade enemies' attacks and move effects. But its chance of failure rises if you use it after you use a move that evades enemies' attacks."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation II , after the \"[Pokémon]'s PROTECTING itself!\" message appears, there is another message saying that the opponent's move missed. This is caused by Protect's effect internally leading moves with an accuracy check to miss, and was changed in Generation III to omit the second message. Protect is the most common move among the movesets of Video Game World Championships team's winners. Despite having distinct effects in the games, Reflect , Light Screen , Barrier , Protect, and Safeguard are often depicted in the animated series seemingly sharing the same effect that Protect has in the games (protecting the user from most the effect of moves). Although Protect is not present as an move in Pokémon GO , it appears to have inspired the Protect Shield used in Trainer Battles . The Protect Shield even has a hexagon tiling pattern, similar to Protect's animation in Generation VII , during which Trainer Battles were introduced."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Protect",
+    "Protect (move)"
+  ],
+  "updatedAt": 1773326069
+}

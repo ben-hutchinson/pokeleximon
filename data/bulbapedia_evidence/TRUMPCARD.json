@@ -1,0 +1,38 @@
+{
+  "answerKey": "TRUMPCARD",
+  "answerDisplay": "TRUMP CARD",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Trump Card (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Trump_Card_(move)",
+  "pageId": 17430,
+  "pageRevisionId": 4465092,
+  "leadText": "Trump Card redirects here. For the Supporter card that appeared in the TCG, see Lysandre's Trump Card (Phantom Forces 99). Trump Card (Japanese: きりふだ Trump Card) is a damage-dealing Normal-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Trump Card inflicts damage and bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . Trump Card's power depends on the move's remaining PP after use, powering up when its PP is lower. Trump Card's power is calculated as follows: Remaining PP after use Power 4+ 40 3 50 2 60 1 80 0 200 Trump Card takes into account the PP lost from Spite and Pressure . However, Trump Card does not interact with Eerie Spell and G-Max Depletion (which are not available in the same games). Trump Card will always consider the current PP at the time of execution of the move, even in cases where PP is restored by Lunar Dance or a held Leppa Berry . When Trump Card is called by another move such as Metronome or Assist , it will instead use the PP of that move with the same chart applying. Generation VIII onwards [ edit | edit source ] Trump Card cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The fewer PP this move has, the more power it has for attack. B W B2 W2 The fewer PP this move has, the greater its attack power. X Y OR AS S M US UM P E The fewer PP this move has, the greater its power. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. It never misses. The lower the PP left for this move, the greater its damage. B S L てきポケモンに ダメージをあたえる かならず めいちゅうする ＰＰが すくないほど ダメージが おおきくなる MD GtI It damages an enemy. It never misses. The lower the PP of the move is, the greater the damage the move causes. S MD The lower this move's PP, the more powerful it gets. * It damages an enemy. It never misses. The lower the PP of the move, the greater the damage it causes. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Most of Trump Card's animations depict it as slicing the opponent. This may be because its Japanese name, read in kanji, contains 切り kiri , meaning \"cut\"."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Trump-Card",
+    "Trump Card",
+    "Trump-Card (move)"
+  ],
+  "updatedAt": 1773328122
+}

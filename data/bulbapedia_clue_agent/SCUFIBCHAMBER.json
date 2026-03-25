@@ -1,0 +1,49 @@
+{
+  "answerKey": "SCUFIBCHAMBER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4487355,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Kanto location",
+        "evidence_ref": "lead",
+        "specificity": 0.5
+      },
+      {
+        "text": "ancient ruins",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Ancient regional ruins",
+        "evidence_ref": "lead",
+        "mystery_score": 0.64,
+        "specificity_score": 0.72,
+        "style": "theme"
+      },
+      {
+        "text": "Kanto landmark",
+        "evidence_ref": "lead",
+        "mystery_score": 0.38,
+        "specificity_score": 0.5,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "ancient ruins"
+    ],
+    "connections_descriptors": [
+      "Ruins",
+      "Kanto landmarks"
+    ],
+    "risk_flags": [],
+    "confidence": 0.77
+  },
+  "updatedAt": 1774258007
+}

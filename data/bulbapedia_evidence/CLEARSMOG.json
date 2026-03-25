@@ -1,0 +1,34 @@
+{
+  "answerKey": "CLEARSMOG",
+  "answerDisplay": "CLEAR SMOG",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Clear Smog (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Clear_Smog_(move)",
+  "pageId": 117503,
+  "pageRevisionId": 4486291,
+  "leadText": "Clear Smog (Japanese: クリアスモッグ Clear Smog) is a damage-dealing Poison-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Clear Smog inflicts damage and resets all stat levels of the target to 0; unlike Haze , this move only hits one target, rather than affecting every Pokémon on the field. This effect does not work if the target is unaffected by the attack because of type immunity, protection , or is behind a substitute . However, it does work against the boss of a Max Raid Battle even if it has a shield up. Clear Smog bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . Holding a Covert Cloak does not prevent a target from having its stat changes eliminated."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user attacks by throwing a clump of special mud. All status changes are returned to normal. X Y OR AS S M US UM P E The user attacks by throwing a clump of special mud. All stat changes are returned to normal. Sw Sh BD SP LA The user attacks the target by throwing a clump of special mud. All stat changes are returned to normal. S V The user attacks the target by throwing a clump of special mud. All stat changes are eliminated."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It damages an enemy. It also resets the Attack, Defense, and all other stats of the enemy. (It resets all, whether boosted or reduced.) S MD It damages an enemy. It never misses! It also resets the enemy's Attack, Defense, and all other stats, regardless of whether they were boosted or reduced. MD RT DX It damages an enemy. It never misses. It also resets the enemy's Attack, Defense, and all other stats, regardless of whether they were boosted or reduced."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Clear-Smog",
+    "Clear Smog",
+    "Clear-Smog (move)"
+  ],
+  "updatedAt": 1773321729
+}

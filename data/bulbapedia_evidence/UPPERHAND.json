@@ -1,0 +1,34 @@
+{
+  "answerKey": "UPPERHAND",
+  "answerDisplay": "UPPER HAND",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Upper Hand (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Upper_Hand_(move)",
+  "pageId": 294638,
+  "pageRevisionId": 4478326,
+  "leadText": "Upper Hand (Japanese: はやてがえし Quick Hand Reversal) is a damage-dealing Fighting-type move introduced during Generation IX, in The Indigo Disk. It is TM229 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Upper Hand has a priority of +3. If the target has selected a physical or special move with increased priority from +1 to +3 (including Upper Hand itself) and has not yet had a chance to execute its move, Upper Hand will strike first and cause the target to flinch ; otherwise, Upper Hand will fail. It also works on Abilities that give priority to moves, such as Gale Wings ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user reacts to the target's movement and strikes with the heel of its palm, making the target flinch. This move fails if the target is not readying a priority move."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Samurott , Cobalion , Terrakion , Virizion , Keldeo , Talonflame , Falinks , and Flamigo can learn Upper Hand despite lacking hands."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Upper-Hand",
+    "Upper Hand",
+    "Upper-Hand (move)"
+  ],
+  "updatedAt": 1773328202
+}

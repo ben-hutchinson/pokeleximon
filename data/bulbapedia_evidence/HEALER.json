@@ -1,0 +1,33 @@
+{
+  "answerKey": "HEALER",
+  "answerDisplay": "HEALER",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Healer (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Healer_(Ability)",
+  "pageId": 117669,
+  "pageRevisionId": 4514003,
+  "leadText": "If you were looking for the Special Ability in Pokémon Battle Trozei, see List of Special Abilities in Pokémon Battle Trozei. Healer (Japanese: いやしのこころ Healing Heart) is an Ability introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] At the end of each turn, Healer has a 30% chance of curing an adjacent ally's status condition . If the Pokémon has multiple adjacent allies with status conditions, it has an independent 30% chance of curing each one, and can cure more than one in the same turn. If it cures a status condition, it does so before burn or poison damage is dealt on that turn. Outside of battle [ edit | edit source ] Healer has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] At the end of each turn, Healer has a 30% chance of curing an adjacent ally's status condition . If the Pokémon has multiple adjacent allies with status conditions, it has an independent 30% chance of curing each one, and can cure more than one in the same turn. If it cures a status condition, it does so before burn or poison damage is dealt on that turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Conq. The Pokémon may heal an adjacent ally's status ailments. MD GtI Sometimes heals bad status conditions of allies standing next to the Pokémon. * Sometimes it heals the bad status conditions of allies next to the Pokémon! * S MD Sometimes it heals the bad status conditions of teammates next to the Pokémon!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Healer",
+    "Healer (Ability)"
+  ],
+  "updatedAt": 1774214160
+}

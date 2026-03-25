@@ -1,0 +1,30 @@
+{
+  "answerKey": "BRANCHPOKE",
+  "answerDisplay": "BRANCH POKE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Branch Poke (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Branch_Poke_(move)",
+  "pageId": 238896,
+  "pageRevisionId": 4407225,
+  "leadText": "Branch Poke (Japanese: えだづき Branch Poke) is a damage-dealing Grass-type move introduced in Generation VIII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Branch Poke deals damage and has no secondary effect. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Branch Poke cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V The user attacks the target by poking it with a sharply pointed branch. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Branch-Poke",
+    "Branch Poke",
+    "Branch-Poke (move)"
+  ],
+  "updatedAt": 1773321325
+}

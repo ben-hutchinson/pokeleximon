@@ -1,0 +1,33 @@
+{
+  "answerKey": "STEADFAST",
+  "answerDisplay": "STEADFAST",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Steadfast (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Steadfast_(Ability)",
+  "pageId": 12230,
+  "pageRevisionId": 4446776,
+  "leadText": "Steadfast (Japanese: ふくつのこころ Indomitable Heart) is an Ability introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Steadfast increases the Pokémon's Speed stat by one stage whenever it flinches . The Speed boost will only apply if the flinching message is displayed. Outside of battle [ edit | edit source ] Steadfast has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Steadfast increases the Pokémon's Speed stat by one stage whenever it flinches . The Speed boost will only apply if the flinching message is displayed."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the Pokémon's Movement Speed when it is cross-eyed or cringing. B S L まどわしか ひるみじょうたいに なると いどうそくどが あがる MD GtI Unavailable S MD When the Pokémon gets the flinch status condition, its Travel Speed goes up! MD RT DX When the Pokémon gets the Flinch condition, its Travel Speed goes up."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Steadfast",
+    "Steadfast (Ability)"
+  ],
+  "updatedAt": 1773329236
+}

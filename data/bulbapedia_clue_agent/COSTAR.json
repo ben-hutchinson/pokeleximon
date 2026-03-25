@@ -1,0 +1,77 @@
+{
+  "answerKey": "COSTAR",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4399040,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Costar (Japanese: Costarring) is an Ability introduced in Generation IX. It is the signature Ability of Flamigo.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Costar enters the battle, it copies an ally's stat stages for itself. This includes the ally's critical-hit ratio. Outside of battle [ edit | edit source ] Costar has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with Costar enters the battle, it copies an ally's stat stages for itself. This includes the ally's critical-hit ratio.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Copies ally's stat changes on entering battle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Copies an ally's stat changes on entry",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Copies an ally's stat changes",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.78,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Inherits teammate stat boosts",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Ally stat-copying trait",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.8,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "ally stat copier",
+      "teammate mimic"
+    ],
+    "connections_descriptors": [
+      "Stat-copying abilities",
+      "Gen IX abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257937
+}

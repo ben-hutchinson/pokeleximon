@@ -1,0 +1,34 @@
+{
+  "answerKey": "ICEHAMMER",
+  "answerDisplay": "ICE HAMMER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Ice Hammer (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ice_Hammer_(move)",
+  "pageId": 218335,
+  "pageRevisionId": 4462171,
+  "leadText": "Ice Hammer (Japanese: アイスハンマー Ice Hammer) is a damage-dealing Ice-type move introduced in Generation VII. Prior to Generation IX, it was the signature move of Crabominable.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Ice Hammer inflicts damage and lowers the user's Speed by one stage . Generation VIII [ edit | edit source ] Ice Hammer cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA The user swings and hits with its strong, heavy fist. It lowers the user's Speed, however. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user swings its strong, heavy fist at the target to inflict damage. This also lowers the user's Speed stat. ZA The user attacks by swinging its strong, heavy fist at targets to inflict damage. This also lowers the user's movement speed for a short time."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Ice Hammer has the same description text as Hammer Arm . In Generation VII , its animation is similar to that of Hammer Arm, but with a blue arm instead of orange. In Generation IX , it is instead similar to Dragon Hammer and Gigaton Hammer when not used by Tinkaton , only with a blue hammer instead of purple or silver, respectively."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ice-Hammer",
+    "Ice Hammer",
+    "Ice-Hammer (move)"
+  ],
+  "updatedAt": 1773323793
+}

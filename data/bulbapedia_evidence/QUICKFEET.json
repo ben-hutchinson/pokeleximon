@@ -1,0 +1,38 @@
+{
+  "answerKey": "QUICKFEET",
+  "answerDisplay": "QUICK FEET",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Quick Feet (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Quick_Feet_(Ability)",
+  "pageId": 14251,
+  "pageRevisionId": 4273605,
+  "leadText": "Quick Feet (Japanese: はやあし Quick Feet) is an Ability introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.2 Outside of battle 1.2.1 Generation VIII 1.2.2 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] While a Pokémon with this Ability has a status condition , its Speed is increased by 50%. Additionally, a Pokémon with this Ability does not lose Speed due to paralysis . Outside of battle [ edit | edit source ] If a Pokémon with Quick Feet is in the first place in the party (even if fainted ), the chance of encountering a wild Pokémon is decreased by 50%. It shares this effect with Stench , White Smoke and Infiltrator (since Generation VIII ). Generation VIII [ edit | edit source ] In Pokémon Sword and Shield only, this Ability instead decreases the chance of hidden encounters by 87.5%. Generation IX [ edit | edit source ] In Pokémon Scarlet and Violet this Ability has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] While a Pokémon with this Ability has a status condition , its Speed is increased by 50%. Additionally, a Pokémon with this Ability does not lose Speed due to paralysis ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the Pokémon's Movement Speed when it has any status problems. B S L わるいじょうたいに なると いどうそくどが あがる MD GtI Unavailable S MD When the Pokémon gets a bad status condition, its Travel Speed goes up! MD RT DX When the Pokémon gets a bad status condition, like poison or paralysis, its Travel Speed goes up for a while."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Although the Ability was introduced in Generation IV , no Generation IV Pokémon can have Quick Feet. This Ability originated as a TCG Poké-BODY ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Quick-Feet",
+    "Quick Feet",
+    "Quick-Feet (Ability)"
+  ],
+  "updatedAt": 1773326176
+}

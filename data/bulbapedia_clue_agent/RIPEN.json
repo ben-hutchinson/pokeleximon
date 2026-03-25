@@ -1,0 +1,113 @@
+{
+  "answerKey": "RIPEN",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4340902,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Ripen (Japanese: Ripen) is an Ability introduced in Generation VIII. It is the signature Ability of Applin, Flapple, and Appletun.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Ripen doubles the effects from held Berries when eaten in battle, including when a Pokemon with Ripen is targeted by a flung Berry. This affects Berries that restore HP or PP (such as Figy Berry and Leppa Berry ), Berries that reduce damage (such as Occa Berry ), Berries that raise stats (except for Lansat Berry ), and Berries that deal damage to Pokemon attacking the holder (such as Rowap Berry ). Ripen does not affect the status condition -healing Berries (e.g. Persim Berry or Lum Berry ), the Lansat Berry (i.e. Ripen will not make it increase the critical hit stage by 4), the Micle Berry , or the Custap Berry (although it will still show the message). Due to a glitch, when a Pokemon with Ripen uses certain non-Berry items or is targeted by a flung item that inflicts a secondary effect, Ripen displays a message and plays its animation, but has no other effect. The items affected are as below: Sprite Item Notes Absorb Bulb Adrenaline Orb Berry Juice Blunder Policy Cell Battery Eject Button Eject Pack Electric Seed Focus Band Flame Orb Flung only Grassy Seed King's Rock Flung only Leftovers Light Ball Flung only Luminous Moss Mental Herb Mirror Herb Misty Seed Poison Barb Flung only Power Herb Psychic Seed Quick Claw Razor Fang Flung only Room Service Snowball Throat Spray Toxic Orb Flung only Weakness Policy White Herb Outside of battle [ edit | edit source ] Ripen has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Ripen doubles the effects from held Berries when eaten in battle, including when a Pokemon with Ripen is targeted by a flung Berry. This affects Berries that restore HP or PP (such as Figy Berry and Leppa Berry ), Berries that reduce damage (such as Occa Berry ), Berries that raise stats (except for Lansat Berry ), and Berries that deal damage to Pokemon attacking the holder (such as Rowap Berry ). Ripen does not affect the status condition -healing Berries (e.g. Persim Berry or Lum Berry ), the Lansat Berry (i.e. Ripen will not make it increase the critical hit stage by 4), the Micle Berry , or the Custap Berry (although it will still show the message). Due to a glitch, when a Pokemon with Ripen uses certain non-Berry items or is targeted by a flung item that inflicts a secondary effect, Ripen displays a message and plays its animation, but has no other effect. The items affected are as below: Sprite Item Notes Absorb Bulb Adrenaline Orb Berry Juice Blunder Policy Cell Battery Eject Button Eject Pack Electric Seed Focus Band Flame Orb Flung only Grassy Seed King's Rock Flung only Leftovers Light Ball Flung only Luminous Moss Mental Herb Mirror Herb Misty Seed Poison Barb Flung only Power Herb Psychic Seed Quick Claw Razor Fang Flung only Room Service Snowball Throat Spray Toxic Orb Flung only Weakness Policy White Herb",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Doubles the effect of berries.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "critical-hit ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "healing ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "poisoning ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "boosting ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "critical-hit ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "healing ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "poisoning ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "boosting ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen VIII ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Critical-Hit abilities",
+      "Healing abilities",
+      "Poisoning abilities",
+      "Boosting abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258002
+}

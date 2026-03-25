@@ -1,0 +1,34 @@
+{
+  "answerKey": "CAMPINGGEAR",
+  "answerDisplay": "CAMPING GEAR",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Camping Gear",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Camping_Gear",
+  "pageId": 244507,
+  "pageRevisionId": 4466416,
+  "leadText": "The Camping Gear (Japanese: キャンプセット Camp Set) is a Key Item introduced in Generation VIII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] The Camping Gear allows the player to set up a Pokémon Camp . It cannot be used on water, in buildings, or while challenging a Gym , the Champion Cup tournament , or the Galarian Star Tournament ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh BD SP LA S V Everything you need to set up a tent and get cooking in a Wild Area or at a camping spot."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price Sw Sh N/A N/A Effect [ edit | edit source ] The Camping Gear allows the player to set up a Pokémon Camp . It cannot be used on water, in buildings, or while challenging a Gym , the Champion Cup tournament , or the Galarian Star Tournament . Description [ edit | edit source ] Games Description Sw Sh BD SP LA S V Everything you need to set up a tent and get cooking in a Wild Area or at a camping spot. Acquisition [ edit | edit source ] Games Method Sw Sh Wedgehurst (from Mum at Wedgehurst Station , before departing on a train for the first time)"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Camping-Gear",
+    "Camping Gear",
+    "Camping-Gear (item)"
+  ],
+  "updatedAt": 1773321467
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "ICESPINNER",
+  "answerDisplay": "ICE SPINNER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Ice Spinner (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ice_Spinner_(move)",
+  "pageId": 277762,
+  "pageRevisionId": 4414761,
+  "leadText": "Ice Spinner (Japanese: アイススピナー Ice Spinner) is a damage-dealing Ice-type move introduced in Generation IX. It is TM124 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Ice Spinner inflicts damage and removes any terrain present on the battlefield. However, if the user faints due to its held Life Orb , the target's held Rocky Helmet , or the target having the Ability Rough Skin or Iron Barbs , or the user is forced to switch out due to the target's Red Card , the terrain is not removed."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user covers its feet in thin ice and twirls around, slamming into the target. This move's spinning motion also destroys the terrain."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The evolutionary lines of Seel , Shellder , Pineco , Dunsparce , Bronzor , Popplio , and Mareanie , plus Glalie , Froslass , Cryogonal , Hisuian Sliggoo , and Frosmoth , can all learn this move — in which the user \"covers its feet in thin ice\" — despite not having feet."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ice-Spinner",
+    "Ice Spinner",
+    "Ice-Spinner (move)"
+  ],
+  "updatedAt": 1773323812
+}

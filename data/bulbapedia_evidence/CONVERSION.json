@@ -1,0 +1,37 @@
+{
+  "answerKey": "CONVERSION",
+  "answerDisplay": "CONVERSION",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Conversion (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Conversion_(move)",
+  "pageId": 3769,
+  "pageRevisionId": 4462211,
+  "leadText": "Conversion (Japanese: テクスチャー Texture) is a non-damaging Normal-type move introduced in Generation I. Prior to Generation IX, it was one of the signature moves of Porygon's evolutionary line.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generations II to IV 1.3 Generation V 1.4 Generations VI and VII 1.5 Generation VIII Effect [ edit | edit source ] Generation I [ edit | edit source ] Conversion changes the user's type to the target's current type(s). The user's original type(s) are restored once it is switched out , faints , or the current battle ends. This move can be used repeatedly even if the user and target already have the same type(s). In the summary screen, the user is shown with its original type(s), unaffected by Conversion. Generations II to IV [ edit | edit source ] Conversion changes the user's type to match the type of one of the user's moves (including Conversion itself). Conversion is unable to copy the type of a move that matches any of the Pokémon's current types. If all moves match any of the Pokémon's current types, Conversion will fail. Conversion cannot be used on Curse in order to turn into a ???-type Pokémon. If the user's only other moves are Shadow moves and the user is currently a Normal type, Conversion will fail. Generation V [ edit | edit source ] Conversion can now be stolen by Snatch . Conversion can now be used on Curse , which is now a Ghost-type move. Generations VI and VII [ edit | edit source ] Conversion now changes the user's current type to match the type of the move the user has in its first move slot (even if that move cannot be selected in battle). If powered up by a Normalium Z into Z-Conversion, the user's Attack , Defense , Special Attack , Special Defense , and Speed are raised by one stage each. Generation VIII [ edit | edit source ] In Versions 1.0 to 1.1.1 of Pokémon Sword and Shield , Conversion could not be selected in a battle. Starting with Version 1.2.0, it can be selected and functions as it did in the preceding two generations."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A special move that switches the user's elemental type to that of the target. Stad2 A special move that switches the user's elemental type into one of the user's attack types. G S C Change user's type to a move's type. R S Changes the user's type into an own move's type. E Changes the user's type into a known move's type. FR LG The user changes its type to match the type of one of its moves. Colo XD Changes the user's type into its own move's type. D P Pt HG SS PBR B W B2 W2 The user changes its type to become the same type as one of its moves. X Y OR AS S M US UM P E Sw Sh BD SP LA S V ZA The user changes its type to become the same type as the move at the top of the list of moves it knows."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Changes the user's type into the same type as one of its moves. B S L じぶんのタイプを じぶんが もっているわざの どれかと おなじタイプにかえる MD GtI UNUSED S MD It changes your type to the same type as the move at the top of the list of moves you know. The type returns to normal when you go to the next floor or faint. MD RT DX It changes your type to the same type as the move at the top of the list of moves you know. You return to your original type when you go to the next floor or faint."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The move Reflect Type , introduced in Generation V , has the same effect Conversion has in Generation I . In Pokémon Ruby and Sapphire , Conversion's move description erroneously says an own move's type instead of a known move's type . This error was fixed in Pokémon Emerald . Conversion is one of three moves that have been used in a completed series of the animated series , but not been seen in the English dub . The other two are Minimize and Ion Deluge ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Conversion",
+    "Conversion (move)"
+  ],
+  "updatedAt": 1773321837
+}

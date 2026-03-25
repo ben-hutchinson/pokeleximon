@@ -1,0 +1,30 @@
+{
+  "answerKey": "ANCHORSHOT",
+  "answerDisplay": "ANCHOR SHOT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Anchor Shot (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Anchor_Shot_(move)",
+  "pageId": 218204,
+  "pageRevisionId": 4269731,
+  "leadText": "Anchor Shot (Japanese: アンカーショット Anchor Shot) is a damage-dealing Steel-type move introduced in Generation VII. It is the signature move of Dhelmise.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] Anchor Shot inflicts damage and prevents foes from fleeing or switching out as long as the user remains in battle. Wimp Out , Emergency Exit , the Red Card , the Shed Shell , and the Eject Button can bypass this effect. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Anchor Shot cannot be selected in a battle. Generation IX [ edit | edit source ] Anchor Shot cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA S V The user entangles the target with its anchor chain while attacking. The target becomes unable to flee. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Anchor-Shot",
+    "Anchor Shot",
+    "Anchor-Shot (move)"
+  ],
+  "updatedAt": 1773320787
+}

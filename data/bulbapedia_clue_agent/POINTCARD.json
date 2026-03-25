@@ -1,0 +1,95 @@
+{
+  "answerKey": "POINTCARD",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4491201,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "gameplay",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen IV gameplay",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Keeps count of Battle Points earned.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Story or event key item",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "Adventure utility item",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      },
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "specificity": 0.8
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Story or event key item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "family"
+      },
+      {
+        "text": "Unlocking key item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "family"
+      },
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Progress-gating key item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Adventure utility item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.4,
+        "specificity_score": 0.58,
+        "style": "utility"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "unlocking item"
+    ],
+    "connections_descriptors": [
+      "Key items",
+      "Gen IV items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257993
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "SEISMICTOSS",
+  "answerDisplay": "SEISMIC TOSS",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Seismic Toss (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Seismic_Toss_(move)",
+  "pageId": 3678,
+  "pageRevisionId": 4406327,
+  "leadText": "Seismic Toss (Japanese: ちきゅうなげ Earth Throw) is a damage-dealing Fighting-type move introduced in Generation I. It was TM19 in Generation I and TM15 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Seismic Toss inflicts damage equal to the user's level . Generation I [ edit | edit source ] Although Seismic Toss is a Fighting-type move, its type does not alter the amount of damage it inflicts. Seismic Toss is not affected by type immunities, so it can hit Ghost-type Pokémon. Generation II onwards [ edit | edit source ] Seismic Toss is now affected by type immunities; therefore, it cannot usually affect Ghost-type Pokémon. Seismic Toss can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Fake Out was used in the previous turn. It can also form part of a Contest Spectacular combination, with the user gaining an extra three appeal points if any of the moves Entrainment , Hold Hands , or Play Nice was used in the prior turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A Fighting -type attack. Throws the target with enough force to flip the world upside down. Stad2 A Fighting -type attack. Throws the target with enough force to flip the world. G S C The user's level equals damage HP. R S E Colo XD Inflicts damage identical to the user's level. FR LG A gravity-fed throw that causes damage matching the user's level. D P Pt HG SS PBR The foe is thrown using the power of gravity. It inflicts damage equal to the user's level. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The target is thrown using the power of gravity. It inflicts damage equal to the user's level."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. The amount of damage depends on the user's level. MD T D S Inflicts damage on the target. The amount of damage is equal to the user's level. B S L てきポケモンに じぶんの レベルと おなじだけの ダメージを あたえる MD GtI UNUSED S MD MD RT DX You'll throw your teammate or an enemy in front of you at another Pokémon or at a trap."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The globe in Battle Revolution's animation. In the animated series , while using Seismic Toss, Pokémon using the move are commonly depicted circling the globe, and, in the Generation II , Pokémon Battle Revolution, Generation VI , VII , VIII , and IX games, a globe is shown as part of the animation. This is due to the Japanese name of the move being Earth Throw . In the first few seasons of the Dutch dub, Seismic Toss was called aardbeving , which is actually Dutch for Earthquake . Similarly, in the Pokémon BW: Rival Destinies season of Latin America dub, Seismic Toss was called Tiro Vital , which is actually the Spanish name for Vital Throw ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Seismic-Toss",
+    "Seismic Toss",
+    "Seismic-Toss (move)"
+  ],
+  "updatedAt": 1773326787
+}

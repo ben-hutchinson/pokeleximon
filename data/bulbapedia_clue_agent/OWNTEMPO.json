@@ -1,0 +1,81 @@
+{
+  "answerKey": "OWNTEMPO",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4493486,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Own Tempo (Japanese: My Pace) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Prevents confusion. MD T D S Protects the Pokemon from confusion. B S L Conq. Prevents the Pokemon from becoming confused. MD GtI Protects against the Confusion status condition. * It protects the Pokemon from the Confusion status condition! * S MD It protects the Pokemon from getting confused! MD RT DX This Ability protects the Pokemon from getting Confused.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV 1.1.3 Generation V to VII 1.1.4 Generation VIII onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Own Tempo prevents the Pokemon from being afflicted by confusion , even if it is self-inflicted (such as from moves like Thrash or items like the Iapapa Berry ). A Pokemon with this Ability will be cured of confusion if it is confused while in battle (such as if it gains the Ability by an effect like Skill Swap , or is confused by a Pokemon with an Ability like Mold Breaker ). Generation III [ edit | edit source ] If a Pokemon with Own Tempo is confused due to obtaining it from Baton Pass , it will be cured of confusion as soon as it switches in. If a Pokemon with Trace is sent into battle via Baton Pass and is confused as a result, if it gains Own Tempo via Trace it will not be cured of confusion until after a Pokemon takes its turn (uses a move, switches out, etc.). If the Pokemon with this Ability is confused and is holding a Persim , Lum , or Touga Berry , Own Tempo will cure the Pokemon of confusion before the Berry has a chance to be consumed. Generation IV [ edit | edit source ] If a Pokemon with Trace is sent into battle via Baton Pass and is confused as a result, if it gains Own Tempo via Trace it will be cured of confusion immediately. In Generation IV only, if a Pokemon is confused and has a status condition , if its confusion is cured by Own Tempo, the status condition icon will disappear from the HP bar while it is in battle. The status condition will continue to take effect, however. Generation V to VII [ edit | edit source ] If a Pokemon with Own Tempo is confused due to obtaining it from Baton Pass , it will not be cured of confusion until after a Pokemon takes its turn (uses a move, switches out, etc.). If the Pokemon with this Ability is confused and is holding a Persim or Lum Berry , the Berry will be eaten before Own Tempo cures the Pokemon of confusion. Generation VIII onward [ edit | edit source ] Own Tempo now also blocks Intimidate . Outside of battle [ edit | edit source ] Rockruff with Own Tempo is treated as a separate form, which is only capable of evolving into Dusk Form Lycanroc . The Ability Capsule and Ability Patch are unable to change Rockruff's Ability from or to Own Tempo. Rockruff with Own Tempo cannot be traded to Pokemon Sun and Moon or Wonder Traded . Due to the form inheritance rules when breeding, if a Rockruff with Own Tempo or a Dusk Form Lycanroc is the mother or is bred with Ditto , it will produce more Rockruff with Own Tempo.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "Contents 1 In battle 1.1 Generation III 1.2 Generation IV 1.3 Generation V to VII 1.4 Generation VIII onward In battle [ edit | edit source ] Own Tempo prevents the Pokemon from being afflicted by confusion , even if it is self-inflicted (such as from moves like Thrash or items like the Iapapa Berry ). A Pokemon with this Ability will be cured of confusion if it is confused while in battle (such as if it gains the Ability by an effect like Skill Swap , or is confused by a Pokemon with an Ability like Mold Breaker ). Generation III [ edit | edit source ] If a Pokemon with Own Tempo is confused due to obtaining it from Baton Pass , it will be cured of confusion as soon as it switches in. If a Pokemon with Trace is sent into battle via Baton Pass and is confused as a result, if it gains Own Tempo via Trace it will not be cured of confusion until after a Pokemon takes its turn (uses a move, switches out, etc.). If the Pokemon with this Ability is confused and is holding a Persim , Lum , or Touga Berry , Own Tempo will cure the Pokemon of confusion before the Berry has a chance to be consumed. Generation IV [ edit | edit source ] If a Pokemon with Trace is sent into battle via Baton Pass and is confused as a result, if it gains Own Tempo via Trace it will be cured of confusion immediately. In Generation IV only, if a Pokemon is confused and has a status condition , if its confusion is cured by Own Tempo, the status condition icon will disappear from the HP bar while it is in battle. The status condition will continue to take effect, however. Generation V to VII [ edit | edit source ] If a Pokemon with Own Tempo is confused due to obtaining it from Baton Pass , it will not be cured of confusion until after a Pokemon takes its turn (uses a move, switches out, etc.). If the Pokemon with this Ability is confused and is holding a Persim or Lum Berry , the Berry will be eaten before Own Tempo cures the Pokemon of confusion. Generation VIII onward [ edit | edit source ] Own Tempo now also blocks Intimidate .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Prevents confusion.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.78,
+        "style": "effect"
+      },
+      {
+        "text": "Prevents major status ailments",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "effect"
+      },
+      {
+        "text": "Ailment-proof trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "status immunity"
+    ],
+    "connections_descriptors": [
+      "Status-blocking abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257988
+}

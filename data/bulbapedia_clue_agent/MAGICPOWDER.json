@@ -1,0 +1,53 @@
+{
+  "answerKey": "MAGICPOWDER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4407221,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII Psychic move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Psychic status move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Effect [ edit | edit source ] Magic Powder changes the target's type to pure Psychic . The effect lasts as long as the target remains in battle; however, changing form , transforming or Terastallizing overrides the effect. Magic Powder fails if the target has a substitute , is already a pure Psychic type, is Terastallized, or its Ability is RKS System . Being a powder move, it fails on Grass-type Pokemon, Pokemon with the Ability Overcoat , or holding Safety Goggles . Generation VIII [ edit | edit source ] Pokemon Brilliant Diamond and Shining Pearl [ edit | edit source ] Magic Powder cannot be selected in a battle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Psychic status move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen VIII Psychic move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "psychic status move"
+    ],
+    "connections_descriptors": [
+      "Psychic Status moves"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257968
+}

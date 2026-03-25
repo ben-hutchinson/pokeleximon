@@ -1,0 +1,34 @@
+{
+  "answerKey": "COTTONSPORE",
+  "answerDisplay": "COTTON SPORE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Cotton Spore (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Cotton_Spore_(move)",
+  "pageId": 3788,
+  "pageRevisionId": 4406596,
+  "leadText": "Cotton Spore (Japanese: わたほうし Cotton Spore) is a non-damaging Grass-type move introduced in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generations III to IV 1.3 Generation V 1.4 Generation VI onwards Effect [ edit | edit source ] Generation II [ edit | edit source ] Cotton Spore lowers the target's Speed stat by two stages and has an accuracy of 85. In the Generation II core series games, when an in-game opponent outside of the Battle Tower uses Cotton Spore, the move has a 25% chance to fail in addition to its normal chance to miss. Generations III to IV [ edit | edit source ] In Double Battles , Cotton Spore may target any single foe or ally. Generation V [ edit | edit source ] The accuracy of Cotton Spore is increased to 100. Generation VI onwards [ edit | edit source ] Grass-type Pokémon, Pokémon with Overcoat , and Pokémon holding the Safety Goggles are now immune to Cotton Spore. In Double and Triple Battles , Cotton Spore now targets all adjacent foes. If powered up by a Grassium Z into Z-Cotton Spore, all of the user's lowered stats are reset."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 Spores that cling to the target, sharply reducing the opponent's Speed . G S C Sharply reduces the foe's Speed . R S E Spores cling to the foe, sharply reducing Speed . FR LG Cotton-like spores cling to the foe, sharply reducing its Speed stat. Colo XD Spores cling to the target, sharply reducing Speed . D P Pt HG SS PBR The user releases cottonlike spores that cling to the foe, sharply reducing its Speed stat. B W B2 W2 The user releases cotton-like spores that cling to the target, harshly reducing its Speed stat. X Y OR AS The user releases cotton-like spores that cling to the opposing Pokémon, which harshly lowers their Speed stats. S M US UM P E The user releases cotton-like spores that cling to the opposing Pokémon, which harshly lowers their Speed stat. Sw Sh BD SP LA The user releases cotton-like spores that cling to opposing Pokémon, which harshly lowers their Speed stats. S V The user releases cotton-like spores that cling to opposing Pokémon. This harshly lowers their Speed stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Lowers the target's Movement Speed by one level. MD T D S Reduces the target's Movement Speed by 1 level. B S L てきポケモンの いどうそくどを １だんかいさげる MD GtI It reduces the enemy's Travel Speed. S MD MD RT DX It reduces the enemy's Travel Speed, but it has no effect on Grass-type Pokémon."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Cotton-Spore",
+    "Cotton Spore",
+    "Cotton-Spore (move)"
+  ],
+  "updatedAt": 1773321878
+}

@@ -1,0 +1,57 @@
+{
+  "answerKey": "HOSPITALITY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4297821,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Hospitality (Japanese: Hospitality) is an Ability introduced during Generation IX, in The Teal Mask. It is the signature Ability of Poltchageist and Sinistcha.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Hospitality enters a battle, it restores HP for an ally by 25%. This Ability has no effect in Tera Raid Battles . Outside of battle [ edit | edit source ] Hospitality has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with Hospitality enters a battle, it restores HP for an ally by 25%. This Ability has no effect in Tera Raid Battles .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "When a Pokemon with Hospitality enters a battle, it restores HP for an ally by 25%.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "healing trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "healing trait"
+    ],
+    "connections_descriptors": [
+      "Healing abilities",
+      "Gen IX abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257955
+}

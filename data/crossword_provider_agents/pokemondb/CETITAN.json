@@ -1,0 +1,17 @@
+{
+  "answerKey": "CETITAN",
+  "answerDisplay": "CETITAN",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is an Ice type Pokémon introduced in Generation 9.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/cetitan",
+  "extract": "Cetitan is an Ice type Pokémon introduced in Generation 9 .",
+  "rankPosition": 1,
+  "updatedAt": 1774210826
+}

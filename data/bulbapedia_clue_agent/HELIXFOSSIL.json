@@ -1,0 +1,102 @@
+{
+  "answerKey": "HELIXFOSSIL",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4504961,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen I item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "dex completion",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen I dex completion",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Can be revived into an Omanyte.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Prehistoric revival item",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      },
+      {
+        "text": "Revives into Omanyte",
+        "evidence_ref": "Description",
+        "specificity": 0.88
+      },
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "specificity": 0.8
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Progress-gating key item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Revives into Omanyte",
+        "evidence_ref": "Description",
+        "mystery_score": 0.76,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Fossil revival item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "family"
+      },
+      {
+        "text": "Prehistoric revival item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.64,
+        "specificity_score": 0.78,
+        "style": "family"
+      },
+      {
+        "text": "Gen I relic for Omanyte",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.86,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "unlocking item",
+      "fossil item"
+    ],
+    "connections_descriptors": [
+      "Gen I items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257954
+}

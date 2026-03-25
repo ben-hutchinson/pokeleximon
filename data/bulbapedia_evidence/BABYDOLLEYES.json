@@ -1,0 +1,38 @@
+{
+  "answerKey": "BABYDOLLEYES",
+  "answerDisplay": "BABY DOLL EYES",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Baby-Doll Eyes (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Baby-Doll_Eyes_(move)",
+  "pageId": 182760,
+  "pageRevisionId": 4403432,
+  "leadText": "Baby-Doll Eyes (Japanese: つぶらなひとみ Round Eyes) is a non-damaging Fairy-type move introduced in Generation VI.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Baby-Doll Eyes lowers the target's Attack stat by one stage. It has a priority of +1, so is used before all moves that do not have increased priority. If powered up by a Fairium Z into Z-Baby-Doll Eyes, the user's Defense stat rises by one stage. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Status PP 20 Agile Strong Power — — — Accuracy 100% 100% 100% Action speed modifier Self -3 -4 +5 Target 0 +3 0 Additional effect Turns 5 4 7 ? ? ? ? Lowers the target's offensive stats Raises the user's action speed"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E The user stares at the target with its baby-doll eyes, which lowers its Attack stat. This move always goes first. Sw Sh BD SP S V The user stares at the target with its baby-doll eyes, which lowers the target's Attack stat. This move always goes first. LA The user stares at the target with its baby-doll eyes. This lowers the target’s offensive stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It lowers an enemy's Attack. * It lowers the enemy's Attack. It reaches up to 2 tiles away. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The stock image used in the battle animation of Baby-Doll Eyes from Generation VII onwards appears to be based on Espurr 's eyes, which can't itself learn the move. This trait is shared with Tearful Look and Mean Look VII + ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Baby-Doll-Eyes",
+    "Baby Doll Eyes",
+    "Baby-Doll-Eyes (move)"
+  ],
+  "updatedAt": 1773320984
+}

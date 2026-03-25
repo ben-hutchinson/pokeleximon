@@ -1,0 +1,17 @@
+{
+  "answerKey": "CRABRAWLER",
+  "answerDisplay": "CRABRAWLER",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Fighting type Pokémon introduced in Generation 7.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/crabrawler",
+  "extract": "Crabrawler is a Fighting type Pokémon introduced in Generation 7 .",
+  "rankPosition": 1,
+  "updatedAt": 1774210927
+}

@@ -1,0 +1,30 @@
+{
+  "answerKey": "MAXLIGHTNING",
+  "answerDisplay": "MAX LIGHTNING",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Max Lightning (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Lightning_(move)",
+  "pageId": 240364,
+  "pageRevisionId": 4452074,
+  "leadText": "Max Lightning (Japanese: ダイサンダー Dai Thunder) is a damage-dealing Electric-type Max Move introduced in Generation VIII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Max Lightning inflicts damage and causes the battlefield to become Electric Terrain for 5 turns (8 if a Terrain Extender is held). Its power and whether it is a special or physical move depends on the move it is based on. Base move Pwr. Cat. Aura Wheel 140 Physical Bolt Beak 130 Physical Bolt Strike 140 Physical Charge Beam 100 Special Discharge 130 Special Electro Ball 130 Special Electroweb 110 Special Fusion Bolt 130 Physical Nuzzle 90 Physical Overdrive 130 Special Parabolic Charge 120 Special Plasma Fists 130 Physical Rising Voltage 140 Special Shock Wave 110 Special Spark 120 Physical Thunder 140 Special Thunder Cage 130 Special Thunder Fang 120 Physical Thunder Punch 130 Physical Thunder Shock 90 Special Thunderbolt 130 Special Volt Switch 120 Special Volt Tackle 140 Physical Wild Charge 130 Physical Zap Cannon 140 Special Zing Zap 130 Physical Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Max Lightning cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V This is an Electric-type attack Dynamax Pokémon use. The user turns the ground into Electric Terrain for five turns. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Max-Lightning",
+    "Max Lightning",
+    "Max-Lightning (move)"
+  ],
+  "updatedAt": 1773324827
+}

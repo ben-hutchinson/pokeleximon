@@ -1,0 +1,30 @@
+{
+  "answerKey": "RAGINGFURY",
+  "answerDisplay": "RAGING FURY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Raging Fury (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Raging_Fury_(move)",
+  "pageId": 268079,
+  "pageRevisionId": 4403595,
+  "leadText": "Raging Fury (Japanese: だいふんげき Great Infuriation) is a damage-dealing Fire-type move introduced during Generation VIII, in Pokémon Legends: Arceus.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Raging Fury inflicts damage and the user becomes fixated on using this move until the battle ends, or until another move is chosen. Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 90 60 120 Accuracy 85% 85% 95% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect ? ? ? ? ? ? The user becomes fixated Generation IX [ edit | edit source ] Raging Fury's power and accuracy were changed to 120 and 100% respectively. Raging Fury inflicts damage for 2-3 turns, then the user becomes confused due to fatigue. It is disrupted if it is not successful due to missing, sleeping , paralysis , freeze , flinching , a protected target, or immunity. If a disruption occurs on what would have been the final, confusion-inducing turn of Raging Fury, the user will still become confused."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA The user rampages and spews vicious flames to inflict damage on the target, then becomes fixated on using this move. S V The user rampages around spewing flames for two to three turns. The user then becomes confused."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Raging-Fury",
+    "Raging Fury",
+    "Raging-Fury (move)"
+  ],
+  "updatedAt": 1773326215
+}

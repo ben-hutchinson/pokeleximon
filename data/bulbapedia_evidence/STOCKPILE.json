@@ -1,0 +1,33 @@
+{
+  "answerKey": "STOCKPILE",
+  "answerDisplay": "STOCKPILE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Stockpile (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Stockpile_(move)",
+  "pageId": 3865,
+  "pageRevisionId": 4426847,
+  "leadText": "Stockpile (Japanese: たくわえる Stockpile) is a non-damaging Normal-type move introduced in Generation III. The Pokémon who are able to learn this move are also able to learn the related moves Spit Up and Swallow; except Snorlax, Munchlax, Trubbish, Garbodor, and Guzzlord, which cannot learn Spit Up, and Qwilfish, Dewpider, and Overqwil, which cannot learn Swallow. Usually, when a Pokémon tries to learn Stockpile through leveling up, it will also attempt to learn Spit Up and/or Swallow immediately after.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation III [ edit | edit source ] Stockpile stores up energy for the user and has no secondary effect. The maximum number of stockpiles the user can hold is three. If used after the third count, it will fail. The moves Spit Up and Swallow inflict damage and heal the user based on the number of stockpiles, respectively, but also reset the stockpile count. Both moves fail if the stockpile count is zero. In this generation, Stockpile's PP is 10. Stockpile can be used as the first move of a Pokémon Contest combination , causing Spit Up and Swallow to score double the normal appeal if used in the next turn. Generation IV onwards [ edit | edit source ] In addition to its previous effects, Stockpile gains a secondary effect of raising the user's Defense stat and Special Defense stat by one stage each after stockpiling. Once the user has used Spit Up or Swallow , the increases in Defense and Special Defense gained this way are lost. In addition, Stockpile's PP is raised to 20. Stockpile can be used as part of a Contest Spectacular combination , causing Spit Up and Swallow to give an extra three appeal points if used in the next turn. If powered up by a Normalium Z into Z-Stockpile, the user regains all of its HP."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Charges up power for up to 3 turns. FR LG The user charges up power for use later. It can be used three times. D P Pt HG SS PBR The user charges up power, and raises both its Defense and Sp. Def. The move can be used three times. B W B2 W2 The user charges up power and raises both its Defense and Sp. Def. The move can be used three times. X Y OR AS S M US UM P E Sw Sh BD SP LA The user charges up power and raises both its Defense and Sp. Def stats. The move can be used three times. S V The user stores power and boosts its Defense and Sp. Def stats. This move can be used up to three times."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Stockpiles power for up to three turns. The stored power boosts the performance of the moves Swallow and Spit Up. MD T D S Boosts the user's Defense and Special Defense. It also stores power that can be used to boost the power of the moves Spit Up and Swallow. You can stockpile power up to 3 times. B S L じぶんの からだのなかに ちからを たくわえる たくわえると ぼうぎょ とくぼうが あがり たくわえた かいすうだけ わざ『はきだす』 『のみこむ』の こうかが あがる ３かいまで たくわえることができる MD GtI It boosts your Defense and Special Defense and stores power by one. You can stockpile power up to 3 times. The more power you stockpile, the more effect the moves Spit Up and Swallow will have. S MD It boosts your Defense and Sp. Def and stores power by one. You can stockpile power up to 3 times. The more power you stockpile, the more effects Spit Up and Swallow will have. MD RT DX It boosts your Defense and Sp. Def and stores one unit of power. You can stockpile power up to 3 times, but if you try to stockpile any more, the move will fail! The more power you stockpile, the greater the effects of Spit Up and Swallow."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Stockpile",
+    "Stockpile (move)"
+  ],
+  "updatedAt": 1773327583
+}

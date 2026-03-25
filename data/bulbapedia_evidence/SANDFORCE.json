@@ -1,0 +1,34 @@
+{
+  "answerKey": "SANDFORCE",
+  "answerDisplay": "SAND FORCE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Sand Force (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sand_Force_(Ability)",
+  "pageId": 117962,
+  "pageRevisionId": 4446866,
+  "leadText": "Sand Force (Japanese: すなのちから Sand Force) is an Ability introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] During a sandstorm , Sand Force increases the power of Rock -, Ground -, and Steel-type moves used by the Pokémon with this Ability by 30%. A Pokémon with this Ability will take no damage from the sandstorm if it otherwise would. Outside of battle [ edit | edit source ] Sand Force has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] During a sandstorm , Sand Force increases the power of Rock -, Ground -, and Steel-type moves used by the Pokémon with this Ability by 30%. A Pokémon with this Ability will take no damage from the sandstorm if it otherwise would."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI Sandstorm weather makes the Pokémon's Rock-, Ground-, and Steel-type moves stronger. * The Pokémon isn't damaged by the Sandstorm weather condition, and the power of its Rock-, Ground-, and Steel-type moves goes up! * S MD The Pokémon isn't damaged by a sandstorm, and the power of its Rock-, Ground-, and Steel-type moves goes up while the sandstorm is in effect! MD RT DX The Pokémon isn't damaged by the Sandstorm weather condition, and the power of its Rock-, Ground-, and Steel-type moves goes up while a sandstorm is in effect."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sand-Force",
+    "Sand Force",
+    "Sand-Force (Ability)"
+  ],
+  "updatedAt": 1773329172
+}

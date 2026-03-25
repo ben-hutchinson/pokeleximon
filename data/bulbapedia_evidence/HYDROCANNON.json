@@ -1,0 +1,38 @@
+{
+  "answerKey": "HYDROCANNON",
+  "answerDisplay": "HYDRO CANNON",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Hydro Cannon (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Hydro_Cannon_(move)",
+  "pageId": 3919,
+  "pageRevisionId": 4462201,
+  "leadText": "Hydro Cannon (Japanese: ハイドロカノン Hydro Cannon) is a damage-dealing Water-type move introduced in Generation III. It is TM154 in Pokémon Scarlet and Violet and TM159 in Pokémon Legends: Z-A. Along with Blast Burn and Frenzy Plant, Hydro Cannon is one of the ultimate moves. All fully evolved Water-type first partner Pokémon can learn this move.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Hydro Cannon inflicts damage and then forces the user to recharge during the next turn. Unless this attack misses, the user will always have to recharge. Hydro Cannon can be used as the second move of a Pokémon Contest combination , with the user gaining 4 bonus appeal points if Rain Dance was used in the previous turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Powerful, but leaves the user immobile the next turn. FR LG The foe is hit with a watery cannon. The user can't move on the next turn. D P Pt HG SS PBR The foe is hit with a watery blast. The user must rest on the next turn, however. B W B2 W2 The target is hit with a watery blast. The user must rest on the next turn, however. X Y OR AS S M US UM P E Sw Sh BD SP S V The target is hit with a watery blast. The user can't move on the next turn. ZA The user attacks by hitting targets with a cannon blast of water. The recoil will leave the user unable to move for a short time."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target, even at a distance. It also inflicts the Paused status on the user, making it incapable of action. MD T D S Inflicts damage on the target, even at a distance, but it also afflicts the user with a Paused status condition. A Pokémon with the Paused status is incapable of action. B S L はなれたポケモンに ダメージをあたえる しかし じぶんが ようすみじょうたいに なってしまう ようすみじょうたいの ポケモンは こうどうできない MD GtI It damages even a faraway Pokémon. But it also causes the Recoil status condition, which prevents you from doing anything on the next turn. S MD It even damages far away Pokémon. It also makes you recoil, which prevents you from doing anything on the next turn."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Hydro Cannon is tied with Water Spout for having the highest base power of all Water-type attacks, excluding Z-Moves , Max Moves , and G-Max Moves . A Hydro Vortex based on either of them has the highest base power of all Water-type moves. Not counting the movie The Power of Us , Hydro Cannon has so far only been used in the animated series by Pokémon belonging to rivals ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Hydro-Cannon",
+    "Hydro Cannon",
+    "Hydro-Cannon (move)"
+  ],
+  "updatedAt": 1773323749
+}

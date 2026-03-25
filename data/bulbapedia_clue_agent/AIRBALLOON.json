@@ -1,0 +1,135 @@
+{
+  "answerKey": "AIRBALLOON",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4491681,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "specificity": 0.7
+      },
+      {
+        "text": "held items",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen V held items",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Held: Grants immunity to Ground-type moves, Spikes, and Toxic Spikes. Consumed when the holder takes damage from a move.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Blocks Ground-type moves",
+        "evidence_ref": "Description",
+        "specificity": 0.88
+      },
+      {
+        "text": "Makes the holder float above the ground",
+        "evidence_ref": "Description",
+        "specificity": 0.86
+      },
+      {
+        "text": "Breaks after taking move damage",
+        "evidence_ref": "Description",
+        "specificity": 0.8
+      },
+      {
+        "text": "Boosts recovery from draining effects",
+        "evidence_ref": "Description",
+        "specificity": 0.86
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Blocks Ground-type moves",
+        "evidence_ref": "Description",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Ground-immunity held item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Makes the holder float",
+        "evidence_ref": "Description",
+        "mystery_score": 0.76,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Ungrounding held item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.7,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Pops after taking a hit",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.8,
+        "style": "restriction"
+      },
+      {
+        "text": "Boosts recovery from draining moves",
+        "evidence_ref": "Description",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Drain-healing boost item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Increases Ingrain and Aqua Ring recovery",
+        "evidence_ref": "Description",
+        "mystery_score": 0.62,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.46,
+        "specificity_score": 0.68,
+        "style": "category"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "floating item",
+      "breakable held item",
+      "recovery booster"
+    ],
+    "connections_descriptors": [
+      "Held battle items",
+      "Gen V items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257925
+}

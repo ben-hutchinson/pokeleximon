@@ -1,0 +1,37 @@
+{
+  "answerKey": "CALCIUM",
+  "answerDisplay": "CALCIUM",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Calcium",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Calcium",
+  "pageId": 12837,
+  "pageRevisionId": 4403502,
+  "leadText": "The Calcium (Japanese: リゾチウム Lysozyme) is a type of vitamin introduced in Generation I. It increases the Special Attack of a Pokémon.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I to II 1.2 Generation III to VII 1.3 Generation VIII onward Effect [ edit | edit source ] Generation I to II [ edit | edit source ] When used from the Bag on a Pokémon, Calcium adds 2560 Special Stat Experience to the target Pokémon per use, until it has 25600 Special Stat Experience. In Generation II , it also increases the Pokémon's friendship a little. The Calcium is consumed upon use and cannot be used in battle. Generation III to VII [ edit | edit source ] When used from the Bag on a Pokémon, Calcium adds 10 Special Attack EVs to the target Pokémon per use, until it has 100 Special Attack EVs. It also increases the Pokémon's friendship a little. The Calcium is consumed upon use and cannot be used in battle. Generation VIII onward [ edit | edit source ] Calcium can now be used even on a Pokémon that has 100 Special Attack EVs or more, allowing the Special Attack EVs to be raised to the single-stat cap of 252 or the total cap of 510 this way. This raises the limit to a maximum of 26 on a single Pokémon."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] A consumable item that raises the Special Attack of Pokémon that ingests it by 3 and restores 5 Belly for it. If thrown, it will grant the same effect as if it was consumed by the Pokémon it hits (it cannot be caught); if it is sticky , it will also deal 2 damage. Calcium can be blended into a drink at Spinda's Juice Bar , although it has no special effects."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Increases the Special rating of the selected Pok é mon . G S C Ups Special stats of one Pok é mon . R S Colo Raises the stat Sp.Atk of one Pok é mon . E XD Raises the base Sp.Atk stat of one Pok é mon . FR LG A nutritious drink for Pok é mon . It raises the base Sp. Atk stat of one Pok é mon . D P Pt HG SS B W B2 W2 A nutritious drink for Pokémon. It raises the base Sp. Atk (Special Attack) stat of a single Pokémon. X Y OR AS S M US UM P E A nutritious drink for Pokémon. When consumed, it raises the base Sp. Atk stat of a single Pokémon. Sw Sh BD SP LA A nutritious drink for Pokémon. When consumed, it raises the Sp. Atk base points of a single Pokémon. S V A nutritious drink for Pokémon. This drink increases base points for a Pokémon's Sp. Atk stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B A drink that boosts the Pokémon's Special Attack. It also slightly fills the Pokémon's Belly. MD T D S A drink that permanently raises the Pokémon's Special Attack. It also slightly fills the Pokémon's Belly. MD GtI Drink it to raise your Special Attack. S MD Drinking it raises your Sp. Atk. The effect lasts even after this adventure. MD RT DX Drinking it raises your Sp. Atk. This effect is permanent."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Calcium",
+    "Calcium (item)"
+  ],
+  "updatedAt": 1773321449
+}

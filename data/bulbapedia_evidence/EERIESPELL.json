@@ -1,0 +1,30 @@
+{
+  "answerKey": "EERIESPELL",
+  "answerDisplay": "EERIE SPELL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Eerie Spell (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Eerie_Spell_(move)",
+  "pageId": 257116,
+  "pageRevisionId": 4403588,
+  "leadText": "Eerie Spell (Japanese: ぶきみなじゅもん Eerie Spell) is a damage-dealing Psychic-type move introduced during Generation VIII, in The Crown Tundra. It is one of the signature moves of Galarian Slowking.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] This move effect may be in need of research. Reason: Is this effect restricted to the move that the target specifically used the previous turn? For instance, if the Eerie Spell's target was loafing around the previous turn due to Truant and did not use a move, is Eerie Spell still able to reduce PP from the move used before that? If the target used a move before switching out and switching back, is PP still removed by Eerie Spell? If a Pokémon's last used move was Transform (temporarily replacing the entire moveset), is Eerie Spell able to reduce Transform's PP? If a Pokémon's last used move was Mimic (temporarily replacing this move with another move), is Eerie Spell able to reduce Mimic's PP or the new move's PP, or neither move's PP? If a Pokémon's last used move was Sketch (permanently replacing this move with another move), is Eerie Spell able to reduce the new move's PP? If a Smeargle's last used move was Sketch (replacing it with another move), and then it levels up and learns Sketch again (which is possible in a double battle), is Sketch still considered Smeargle's last used move? If a Pokémon levels up and learns a new move, replacing the last used move, does Eerie Spell remove PP from the new move? If a Pokémon levels up multiple times in the same battle (possibly multiple levels during the same turn), replaces the last used move by a new move, and then learns the old move via level-up again, does the old move still count as the last used move? You can discuss this on the talk page. Eerie Spell deals damage and causes 3 PP to be decreased from the last move the target used (if any) in the current battle. PP will not be deducted if the target faints from the move. Eerie Spell is a sound-based move . Eerie Spell can hit Pokémon even if they are behind a substitute. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Eerie Spell cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA The user attacks with its tremendous psychic power. This also removes 3 PP from the target's last move. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user attacks with its tremendous psychic power. This also drains 3 PP from the move last used by the target."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Eerie-Spell",
+    "Eerie Spell",
+    "Eerie-Spell (move)"
+  ],
+  "updatedAt": 1773322469
+}

@@ -1,0 +1,78 @@
+{
+  "answerKey": "SHALOUR",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4475895,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "city landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.68
+      },
+      {
+        "text": "town landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "cave landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "route landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "tower landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "near a regional town",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      },
+      {
+        "text": "urban landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "tower landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.74
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Town-side landmark",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "theme"
+      },
+      {
+        "text": "Urban landmark",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "theme"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "Pokemon location"
+    ],
+    "connections_descriptors": [
+      "Pokemon locations"
+    ],
+    "risk_flags": [],
+    "confidence": 0.77
+  },
+  "updatedAt": 1774258010
+}

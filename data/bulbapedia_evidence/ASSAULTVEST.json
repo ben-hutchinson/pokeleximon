@@ -1,0 +1,34 @@
+{
+  "answerKey": "ASSAULTVEST",
+  "answerDisplay": "ASSAULT VEST",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Assault Vest",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Assault_Vest",
+  "pageId": 186179,
+  "pageRevisionId": 4492020,
+  "leadText": "The Assault Vest (Japanese: とつげきチョッキ Assault Vest) is a type of held item introduced in Generation VI.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Raises the holder's Special Defense by 50%, but also prevents the holder from selecting any status moves except Me First . The Assault Vest only prevents the Pokémon from choosing status moves, not from using them; a Pokémon holding an Assault Vest can still be made to use status moves via Instruct or Dancer . If a Pokémon has selected a status move to use but obtains an Assault Vest before executing the move, such as by Trick from a Pokémon with Klutz , the move can still be executed successfully for that turn. If the holder can only select status moves (due to Encore , Torment , knowing no non-status moves that have PP , etc.), it is forced to use Struggle . Dynamax does not negate the effects of this item, so it prevents the use of Max Guard . Pokémon Legends: Z-A [ edit | edit source ] Due to the removal of Struggle as a result of moves not using PP in Pokémon Legends: Z-A, if the holder of an Assault Vest only knows status moves, they will be unable to perform any moves and can only follow their Trainer or be switched out."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh BD SP LA An item to be held by a Pokémon. This offensive vest raises Sp. Def but prevents the use of status moves. S V ZA An item to be held by a Pokémon. This offensive vest boosts the holder's Sp. Def stat but prevents the use of status moves."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.2.1 Pokémon Legends: Z-A 1.3 Description 1.4 Acquisition 1.4.1 Distribution 1.4.1.1 As a held item In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price X Y OR AS S M US UM Sw Sh N/A $ 500 S V $ 50,000 $ 12,500 ZA $ 4,980 $ 750 Effect [ edit | edit source ] Raises the holder's Special Defense by 50%, but also prevents the holder from selecting any status moves except Me First . The Assault Vest only prevents the Pokémon from choosing status moves, not from using them; a Pokémon holding an Assault Vest can still be made to use status moves via Instruct or Dancer . If a Pokémon has selected a status move to use but obtains an Assault Vest before executing the move, such as by Trick from a Pokémon with Klutz , the move can still be executed successfully for that turn. If the holder can only select status moves (due to Encore , Torment , knowing no non-status moves that have PP , etc.), it is forced to use Struggle . Dynamax does not negate the effects of this item, so it prevents the use of Max Guard . Pokémon Legends: Z-A [ edit | edit source ] Due to the removal of Struggle as a result of moves not using PP in Pokémon Legends: Z-A, if the holder of an Assault Vest only knows status moves, they will be unable to perform any moves and can only follow their Trainer or be switched out. Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh BD SP LA An item to be held by a Pokémon. This offensive vest raises Sp. Def but prevents the use of status moves. S V ZA An item to be held by a Pokémon. This offensive vest boosts the holder's Sp. Def stat but prevents the use of status moves. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods X Y OR AS Battle Maison (48 BP ) S M US UM Battle Tree (48 BP ) Sw Sh Lake of Outrage Battle Tower (25 BP ) Sw Sh IA Cram-o-matic ( Steel : 82-90 points) Sw Sh CT Giant's Bed S V Porto Marinada Delibird Presents ( Mesagoza Branch, after completing the main storyline) ZA Reward for completing Side Mission 071: The Burning Gaze of Watchog Racine Construction Distribution [ edit | edit source ] Games Event Language/Region Distribution period S V Summer training support sets Japan July 22 to September 30, 2023 As a held item [ edit | edit source ] Games Event Language/Region Distribution period OR Shigeki Morimoto's Malamar PAL August 5, 2015 to January 22, 2016 OR AS Hyadain's Landorus Japanese May 24 to June 30, 2016 Helen Volcanion PAL October 1, 2016 to January 31, 2017 Helen Volcanion American October 9, 2016 to January 31, 2017 S V Marco Silva's Iron Hands All April 5 to 8, 2024"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Assault-Vest",
+    "Assault Vest",
+    "Assault-Vest (item)"
+  ],
+  "updatedAt": 1773320919
+}

@@ -1,0 +1,75 @@
+{
+  "answerKey": "MYSTICALPOWER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4403593,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII Psychic move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Psychic special move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Mystical Power inflicts damage. If the sum of the user's current Attack and Sp. Atk stats is greater than or equal to the sum of its Defense and Sp. Def stats, the user's offensive stats will be raised after the move hits. Otherwise, its defensive stats will be raised. Pokemon Legends: Arceus Category Special PP 10 Agile Strong Power 70 55 85 Accuracy 90% 90% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Turns 3 2 4 ? ? ? ? Raises the higher of the user's offensive or defensive stats (ties count for the offensive stats) Generation IX [ edit | edit source ] Mystical Power inflicts damage and raises the user's Special Attack by one stage.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "70-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "boosting move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Psychic special move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen VIII Psychic move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "70-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "psychic special move"
+    ],
+    "connections_descriptors": [
+      "Boosting moves",
+      "Psychic Special moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257980
+}

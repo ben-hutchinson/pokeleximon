@@ -1,0 +1,34 @@
+{
+  "answerKey": "JAWLOCK",
+  "answerDisplay": "JAW LOCK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Jaw Lock (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Jaw_Lock_(move)",
+  "pageId": 244318,
+  "pageRevisionId": 4403524,
+  "leadText": "Jaw Lock (Japanese: くらいつく Seize with Teeth) is a damage-dealing Dark-type move introduced in Generation VIII. Prior to Generation IX, it was the signature move of Chewtle and Drednaw.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Jaw Lock inflicts damage. It also prevents the user and the target from fleeing or switching out (even if they are allies), unless either of them is already prevented, and until either Pokémon is removed from the field. Jaw Lock does not prevent a Pokémon from switching out with Wimp Out or Emergency Exit or due to Shed Shell , Eject Button , or Red Card . Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Jaw Lock cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V This move prevents the user and the target from switching out until either of them faints. The effect goes away if either of the Pokémon leaves the field. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as a TCG attack ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Jaw-Lock",
+    "Jaw Lock",
+    "Jaw-Lock (move)"
+  ],
+  "updatedAt": 1773324018
+}

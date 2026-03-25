@@ -1,0 +1,38 @@
+{
+  "answerKey": "DIAMONDSTORM",
+  "answerDisplay": "DIAMOND STORM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Diamond Storm (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Diamond_Storm_(move)",
+  "pageId": 190362,
+  "pageRevisionId": 4470192,
+  "leadText": "Diamond Storm (Japanese: ダイヤストーム Diamond Storm) is a damage-dealing Rock-type move introduced in Generation VI. It is the signature move of Diancie.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VI 1.2 Generation VII 1.3 Generation VIII onwards 1.3.1 Pokémon Brilliant Diamond and Shining Pearl 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation VI [ edit | edit source ] Diamond Storm deals damage. It has a 50% chance to raise the user's Defense by one stage for each Pokémon that it hits. If it increases the user's Defense stat more than once from a single use, the stat-raising animation will play only once, but a message stating that its Defense rose will appear for each increase. Generation VII [ edit | edit source ] Diamond Storm now has a 50% chance to raise the user's Defense by two stages if the move hits, rather than only one stage for each Pokémon that it hits. Generation VIII onwards [ edit | edit source ] In Versions 1.0 to 1.2.1 of Pokémon Sword and Shield , Diamond Storm could not be selected in a battle. Starting with Version 1.3.0, it is usable and functions the same as it did in the previous generation. Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Diamond Storm cannot be selected in a battle. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 100 120 Cooldown 10s Move wind-up time 20 frames Effect duration —s Additional effect Chance 50% Duration 30s 33s — May raise the user's Defense."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS The user whips up a storm of diamonds to damage opposing Pokémon. This may also raise the user's Defense stat. S M US UM P E Sw Sh LA The user whips up a storm of diamonds to damage opposing Pokémon. This may also sharply raise the user's Defense stat. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user whips up a storm of diamonds to damage opposing Pokémon. This may also sharply boost the user's Defense stat. ZA The user attacks by engulfing targets in a storm of diamonds. This may also boost the user's Defense stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It damages enemies. It could boost your Defense. * It damages nearby enemies. It could also boost your Defense. But the power goes down slightly when there are multiple enemies. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Diamond Storm is the only Rock-type move introduced in Generation VI . In Generation VI only, Diamond Storm is the only move that can raise the same stat multiple distinct times from a single use, without the user having Parental Bond ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Diamond-Storm",
+    "Diamond Storm",
+    "Diamond-Storm (move)"
+  ],
+  "updatedAt": 1773322144
+}

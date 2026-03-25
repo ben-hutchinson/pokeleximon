@@ -1,0 +1,16 @@
+{
+  "answerKey": "BODYGUARD",
+  "answerDisplay": "BODYGUARD",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Protective trait",
+  "score": 108.48,
+  "approved": true,
+  "qualityFlags": [
+    "unknown_evidence_ref"
+  ],
+  "evidenceRef": "title",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/BodyGuard_(TCG)",
+  "extract": "The BodyGuard Theme Deck from the Fossil expansion of the Pokémon Trading Card Game predominantly focuses on Grass-type and Fighting-type Pokémon. Each Theme Deck is packaged with a 60-card deck, damage counters, a custom coin, a rulebook, and a card list.",
+  "updatedAt": 1774258350
+}

@@ -1,0 +1,37 @@
+{
+  "answerKey": "BELCH",
+  "answerDisplay": "BELCH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Belch (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Belch_(move)",
+  "pageId": 185081,
+  "pageRevisionId": 4426854,
+  "leadText": "Belch (Japanese: ゲップ Belch) is a damage-dealing Poison-type move introduced in Generation VI.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Belch deals damage. It cannot be selected unless the user has previously eaten a Berry in the current battle. This includes eating another Pokémon's held Berry via Bug Bite , Pluck , or being hit by Fling , unless the Berry can never have an effect when eaten that way. Consuming a Berry through other means (such as Natural Gift , using Fling , or its Trainer giving it a Berry from the Bag ) will not enable Belch to be used. After eating a Berry, that Pokémon may use Belch for the rest of the battle, even if it has been switched out and back in, it has fainted then been revived, or the Berry is restored with Recycle , Harvest , or Pickup ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user lets out a damaging belch at the target. The user must eat a held Berry to use this move."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It damages an enemy. It will fail if you're hungry. * It damages an enemy. It will fail if your Belly is close to empty, so be careful. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Belch is tied with Gunk Shot for having the highest base power of all Poison-type moves, excluding Z-Moves . An Acid Downpour based on either of them has the highest base power of all Poison-type moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Belch",
+    "Belch (move)"
+  ],
+  "updatedAt": 1773321105
+}

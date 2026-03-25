@@ -1,0 +1,33 @@
+{
+  "answerKey": "ELECTRIFY",
+  "answerDisplay": "ELECTRIFY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Electrify (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Electrify_(move)",
+  "pageId": 185076,
+  "pageRevisionId": 4500863,
+  "leadText": "This article is about the move Electrify. For the field move, see Electrify (Field Move). Electrify (Japanese: そうでん Electrify) is a non-damaging Electric-type move introduced in Generation VI. Prior to Generation VIII, it was the signature move of Helioptile and Heliolisk.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] If the target has not yet used a move, Electrify makes the target's move Electric-type for that turn, even if it is a status move . Moves with a charging turn will only change type if the user is affected by Electrify on the turn it does damage. Electrify will not cause Conversion to change its user into the Electric-type if Conversion is the user's first move. Electrify does not affect Struggle . If the move Flying Press is affected by Electrify, it deals Electric / Flying -type damage. If the move Freeze-Dry is affected by Electrify, its ability to hit Water-type Pokémon super effectively does not stack with its Electric type (a Water-type Pokémon hit by the move will only take ×2 damage); in Inverse Battles , Freeze-Dry affected by Electrify will hit Water-type Pokémon super effectively. Electrify bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . If powered up by an Electrium Z into Z-Electrify, the user's Special Attack stat rises by one stage. Electrify can also be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if the move Parabolic Charge was used in the prior turn. If used on a Pokémon about to use a damage-dealing Max Move , it will change the move to Max Lightning regardless of the move attempted, except that Gigantamax Pikachu or Toxtricity will have it become their G-Max move instead. If a Gigantamax Rillaboom , Cinderace , or Inteleon has their attempted G-Max move altered by Electrify, the resulting Max Lightning will have only its standard power. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Electrify cannot be selected in a battle. Generation IX [ edit | edit source ] Electrify cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh LA If the target is electrified before it uses a move during that turn, the target's move becomes Electric type. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V If the target is electrified before it uses a move, the target's move becomes Electric type for that turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It changes moves that a target uses to Electric-type. * It causes the electrify status condition to a faraway Pokémon. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Electrify",
+    "Electrify (move)"
+  ],
+  "updatedAt": 1773322517
+}

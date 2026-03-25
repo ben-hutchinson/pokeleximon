@@ -1,0 +1,16 @@
+{
+  "answerKey": "FRISK",
+  "answerDisplay": "FRISK",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen IV ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Frisk_(Ability)",
+  "extract": "Frisk (Japanese: おみとおし Unobstructed Sight) is an Ability introduced in Generation IV.",
+  "updatedAt": 1774258442
+}

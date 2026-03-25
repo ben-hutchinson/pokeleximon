@@ -1,0 +1,38 @@
+{
+  "answerKey": "METALCOAT",
+  "answerDisplay": "METAL COAT",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Metal Coat",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Metal_Coat",
+  "pageId": 12283,
+  "pageRevisionId": 4505571,
+  "leadText": "The Metal Coat (Japanese: メタルコート Metal Coat) is a type of held item introduced in Generation II. It allows Onix and Scyther to evolve into Steelix and Scizor, respectively, and also increases the power of the holder's Steel-type moves.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Held item 1.1.1 In battle 1.1.1.1 Generations II and III 1.1.1.2 Generation IV onward 1.2 Outside battles Effect [ edit | edit source ] Held item [ edit | edit source ] In battle [ edit | edit source ] Generations II and III [ edit | edit source ] Increases the power of Steel-type moves used by the holder by 10%. Generation IV onward [ edit | edit source ] Increases the power of Steel-type moves used by the holder by 20%. Outside battles [ edit | edit source ] Causes Onix to evolve into Steelix and Scyther to evolve into Scizor when traded while holding it, which consumes the Metal Coat. They will not evolve if linking to a Generation I game. In Pokémon Legends: Arceus , due to the absence of held items, the Metal Coat simply needs to be used on Onix or Scyther to trigger the Evolution, though the item is still consumed."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If the player offers both a Link Cable and Metal Coat at Luminous Cave or Luminous Spring , Onix or Scyther can be evolved into Steelix or Scizor , respectively. This consumes the Link Cable and Metal Coat. If thrown, it will deal 1 damage (2 if sticky ). Using this item in a dungeon will consume it, with no effect."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] The Metal Coat is required to evolve certain Pokémon in Pokémon Sleep. It is consumed upon use. Onix requires 80 Onix Candy , a Metal Coat, and a Linking Cord to evolve into Steelix ."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generations II and III [ edit | edit source ] Increases the power of Steel-type moves used by the holder by 10%. Generation IV onward [ edit | edit source ] Increases the power of Steel-type moves used by the holder by 20%."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Metal-Coat",
+    "Metal Coat",
+    "Metal-Coat (item)"
+  ],
+  "updatedAt": 1773324971
+}

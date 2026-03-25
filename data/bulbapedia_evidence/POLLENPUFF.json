@@ -1,0 +1,30 @@
+{
+  "answerKey": "POLLENPUFF",
+  "answerDisplay": "POLLEN PUFF",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Pollen Puff (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Pollen_Puff_(move)",
+  "pageId": 218351,
+  "pageRevisionId": 4463253,
+  "leadText": "Pollen Puff (Japanese: かふんだんご Pollen Ball) is a damage-dealing Bug-type move introduced in Generation VII. Prior to Generation VIII, it was the signature move of Ribombee. It was TR96 in Pokémon Sword and Shield, and is TM131 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Pollen Puff's effect varies depending on the target. If it targets an opponent, it deals damage. If it targets an ally, it restores up to 50% of the target's maximum HP . Pokémon with Bulletproof are immune to both effects of Pollen Puff. Telepathy blocks the healing effect of Pollen Puff if used by an ally. Pokémon affected by Heal Block cannot target allies with Pollen Puff (but they can target an opponent); if a Pokémon would use Pollen Puff targeting an ally, but is affected by Heal Block when it would use Pollen Puff, it cannot use the move. If a Pokémon is affected by Heal Block, it cannot be healed by other Pokémon's Pollen Puff. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Pollen Puff cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA S V The user attacks the enemy with a pollen puff that explodes. If the target is an ally, it gives the ally a pollen puff that restores its HP instead. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Pollen-Puff",
+    "Pollen Puff",
+    "Pollen-Puff (move)"
+  ],
+  "updatedAt": 1773325941
+}

@@ -1,0 +1,30 @@
+{
+  "answerKey": "TANOBYRUINS",
+  "answerDisplay": "TANOBY RUINS",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Tanoby Ruins",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tanoby_Ruins",
+  "pageId": 7951,
+  "pageRevisionId": 4491209,
+  "leadText": "The Tanoby Ruins (Japanese: アスカナいせき Asukana Ruins) are a part of the explorable area of the seventh of the nine Sevii Islands. The area is essentially useless before completion of the Tanoby Key, but after this puzzle is finished, the Tanoby Chambers become filled with Unown. According to a Ruin Maniac, the Ruins have been around for over 1,500 years for reasons unknown.",
+  "sections": [
+    {
+      "title": "Route description",
+      "text": "Route description [ edit | edit source ] The entirety of these ruins is only seven small islets on a calm, blue sea . Within the sea, the standard Water types are catchable, but within the chambers, only one Pokémon, Unown , is available in its 28 different variations."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Heart Scale ×4 Around the exterior of the northwesternmost and center ruins on the west side, and the center and easternmost ruins on the east side (hidden recurring item ; group C) (requires Surf ) FR LG"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Tanoby-Ruins",
+    "Tanoby Ruins",
+    "Tanoby-Ruins (location)"
+  ],
+  "updatedAt": 1773327810
+}

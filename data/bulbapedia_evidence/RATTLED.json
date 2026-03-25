@@ -1,0 +1,29 @@
+{
+  "answerKey": "RATTLED",
+  "answerDisplay": "RATTLED",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Rattled (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rattled_(Ability)",
+  "pageId": 118116,
+  "pageRevisionId": 4472583,
+  "leadText": "Rattled (Japanese: びびり Jitter) is an Ability introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations V to VII 1.1.2 Generation VIII 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations V to VII [ edit | edit source ] When a Pokémon with this Ability is hit by a Bug -, Dark -, or Ghost-type damaging move, its Speed is increased by one stage. No immunity is granted to these types of moves, however. If a Pokémon with this Ability is hit by a Bug-, Dark-, or Ghost-type multistrike move , each hit activates this Ability. Generation VIII [ edit | edit source ] Rattled now also activates if a Pokémon with this Ability has its stats lowered by Intimidate . Outside of battle [ edit | edit source ] Rattled has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generations V to VII [ edit | edit source ] When a Pokémon with this Ability is hit by a Bug -, Dark -, or Ghost-type damaging move, its Speed is increased by one stage. No immunity is granted to these types of moves, however. If a Pokémon with this Ability is hit by a Bug-, Dark-, or Ghost-type multistrike move , each hit activates this Ability. Generation VIII [ edit | edit source ] Rattled now also activates if a Pokémon with this Ability has its stats lowered by Intimidate ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Rattled",
+    "Rattled (Ability)"
+  ],
+  "updatedAt": 1773329133
+}

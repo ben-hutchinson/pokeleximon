@@ -1,0 +1,17 @@
+{
+  "answerKey": "ZAPDOS",
+  "answerDisplay": "ZAPDOS",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is an Electric / Flying type Pokémon introduced in Generation 1.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/zapdos",
+  "extract": "Zapdos is an Electric / Flying type Pokémon introduced in Generation 1 .",
+  "rankPosition": 1,
+  "updatedAt": 1774213452
+}

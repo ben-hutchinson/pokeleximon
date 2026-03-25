@@ -1,0 +1,34 @@
+{
+  "answerKey": "POWERSPLIT",
+  "answerDisplay": "POWER SPLIT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Power Split (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Power_Split_(move)",
+  "pageId": 117442,
+  "pageRevisionId": 4407034,
+  "leadText": "Power Split (Japanese: パワーシェア Power Share) is a non-damaging Psychic-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Power Split averages the user's Attack and Special Attack stats with those of the target Pokémon. Power Split will ignore both the user and the target's stat changes when calculating the average. Power Split bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . If powered up by a Psychium Z into Z-Power Split, the user's Speed stat is raised by one stage. Power Split will fail if used in a Tera Raid Battle (on Boss and allies alike)."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target's. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It adds the Attack of you and the target, then shares it equally. It also shares the Special Attack equally. (The stat changes return to normal when you go to the next floor or step on a Wonder Tile.) S MD It adds together the Attack of you and the target, and then it splits the total equally. It also splits the total Sp. Atk equally. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Power-Split",
+    "Power Split",
+    "Power-Split (move)"
+  ],
+  "updatedAt": 1773326012
+}

@@ -1,0 +1,33 @@
+{
+  "answerKey": "COVET",
+  "answerDisplay": "COVET",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Covet (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Covet_(move)",
+  "pageId": 3954,
+  "pageRevisionId": 4430318,
+  "leadText": "Covet (Japanese: ほしがる Covet) is a damage-dealing Normal-type move introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III 1.2 Generation IV 1.3 Generation V 1.4 Generation VI onwards Effect [ edit | edit source ] Generation III [ edit | edit source ] This move effect may be in need of research. Reason: Can the Focus Band trigger before being stolen? What happens in wild Pokémon battles in Generation IX? You can discuss this on the talk page. Covet inflicts damage and steals the target's held item if it is holding any. If the target is not holding an item or the user is already holding an item, Covet cannot steal an item. Even if the user faints when using Covet (such as due to the target's Rough Skin ), it still steals the target's held item. Covet cannot steal an item if the target has the Sticky Hold Ability , or if it hits a Pokémon's substitute . Held e-Reader Berries and Mail cannot be stolen. Covet can permanently steal items from both wild Pokémon and Trainer's Pokémon; however, wild Pokémon cannot steal the player's Pokémon's held items. In Link Battles, battle facilities (except the Battle Pyramid ), and Secret Bases , stolen items are returned at the end of the battle (or the end of the challenge in the case of the Battle Pike ). In Pokémon Colosseum and XD , when used by opponents, Covet does not permanently steal items. In this generation, Covet does not make contact . Generation IV [ edit | edit source ] Covet now makes contact. If a Trainer's Pokémon steals an item from the player, it will be returned at the end of the battle. Items cannot be stolen from Pokémon with the Ability Multitype . A held Griseous Orb cannot be stolen. If the target's consumable held item is triggered by Covet (such as a Chilan Berry or Focus Sash ), it will be consumed before it can be stolen. Generation V [ edit | edit source ] Covet's power was changed from 40 to 60. If the user faints when using Covet (such as due to the target's Rough Skin or Rocky Helmet ), it cannot steal the target's held item. If Covet causes a Pokémon with the Sticky Hold Ability to faint, it can now steal its held item. Covet no longer steals a Trainer's Pokémon's items permanently; however, a wild Pokémon's item is still permanently stolen by the player. Covet can now steal a held Griseous Orb as long as neither the user nor the target is Giratina . Plates cannot be stolen if either the user or the target is Arceus (Multitype has no effect on Covet), and Drives cannot be stolen if either the user or the target is Genesect . Generation VI onwards [ edit | edit source ] Covet's PP was changed from 40 to 25. Covet cannot steal a Mega Stone or Orb if either the user or the target could use it to Mega Evolve or undergo Primal Reversion , a Z-Crystal from any Pokémon, a memory if either the user or the target is Silvally , the Rusted Sword if either the user or the target is Zacian , the Rusted Shield if either the user or the target is Zamazenta , or a Booster Energy if either the user or the target is a Paradox Pokémon . If Covet's type is changed to Electric or Ice and the target is holding a Cell Battery or Snowball , respectively, the target's held item will activate and be consumed after Covet deals damage. Covet can be used as a part of a Contest Spectacular combination , causing Bestow , Fling and Present to give an extra three appeal points if any of them is used in the next turn. When used in a Max Raid Battle , no matter if the target is the raid boss or one of the player's own teammates, Covet fails entirely, without dealing damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Cutely begs to obtain an item held by the foe. FR LG A cutely executed attack that also steals the foe's hold item. Colo XD Cutely begs to obtain an item held by the target. D P Pt HG SS PBR The user endearingly approaches the foe, then steals the item the foe is holding. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user endearingly approaches the target, then steals the target's held item."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It also snatches the target's hold item to make it the user's. MD T D Inflicts damage on the target. It also snatches the target's hold item and makes it the user's, but only if the user is not already holding an item. MD S Inflicts damage on the target. It also snatches the target's held item and makes it the user's, but only if the user is not already holding an item. B S L てきポケモンに ダメージをあたえる しかも あいてのどうぐを うばい じぶんの どうぐにする じぶんが どうぐを もっているときは うばえない MD GtI It damages an enemy. You also steal an item that the enemy has. If you can't have any more items, you can't steal the item. S MD It damages an enemy. You'll also steal an item that the enemy has. If you can't carry any more items, your attempt to steal it will fail. MD RT DX It damages an enemy. You'll also steal an item that the enemy has. If you can't carry any more items, your attempt to steal will fail."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Covet",
+    "Covet (move)"
+  ],
+  "updatedAt": 1773321894
+}

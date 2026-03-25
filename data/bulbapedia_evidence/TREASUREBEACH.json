@@ -1,0 +1,30 @@
+{
+  "answerKey": "TREASUREBEACH",
+  "answerDisplay": "TREASURE BEACH",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Treasure Beach",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Treasure_Beach",
+  "pageId": 12909,
+  "pageRevisionId": 4227183,
+  "leadText": "Treasure Beach (Japanese: たからのはま Treasure Beach) is a small area to the south of One Island, extending from the Seagallop Ferry dock to a small island to the south's northern beach. The actual treasure beach itself is this beach on the north coast, where Trainers can find regenerating items that have washed up on shore.",
+  "sections": [
+    {
+      "title": "Route description",
+      "text": "Route description [ edit | edit source ] This small yet useful area is located south of One Island and accessed by surfing south of the town's Seagallop Ferry dock. At the southern end of the water route is the actual Treasure Beach, so named because of the many valuable items that wash up on its shore. There is also a single person on the island, beachcombing for treasure. The actual treasure is located in a small area with scattered tall grass patches. Items can be found in random places using the Itemfinder , and they may regenerate after the player has walked a certain amount of steps."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Ultra Ball ×2 One square east of the northernmost square of regular grass (hidden recurring item ; always) In the southeast corner (hidden recurring item ; always) FR LG Pearl ×2 On the west square of the southernmost patch of sand (hidden recurring item ; group B) Two squares east and two squares north of the first Pearl (hidden recurring item ; group B) FR LG Big Pearl On the center square of the middle row of the northwestern patch of sand (hidden recurring item ; group C) FR LG Stardust ×2 Near the middle of the shore (hidden recurring item ; group B) On the west square of the southern row of the northwesternmost patch of sand (hidden recurring item ; group B) FR LG Star Piece Four squares north and one square west of the southeast corner (hidden recurring item ; group C) FR LG"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Treasure-Beach",
+    "Treasure Beach",
+    "Treasure-Beach (location)"
+  ],
+  "updatedAt": 1773328084
+}

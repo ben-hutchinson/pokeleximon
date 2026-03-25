@@ -1,0 +1,81 @@
+{
+  "answerKey": "CELLBATTERY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4491688,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "specificity": 0.7
+      },
+      {
+        "text": "held items",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen V held items",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Held: Raises the holders Attack by one stage when it takes Electric-type damage.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Boosts attack when it takes electric-type damage",
+        "evidence_ref": "Description",
+        "specificity": 0.88
+      },
+      {
+        "text": "Boosts attack when hit with an electric-type attack",
+        "evidence_ref": "Description",
+        "specificity": 0.86
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Boosts Attack after it takes electric-type damage",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Attack boost on trigger",
+        "evidence_ref": "Description",
+        "mystery_score": 0.62,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.46,
+        "specificity_score": 0.68,
+        "style": "category"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "attack booster"
+    ],
+    "connections_descriptors": [
+      "Held battle items",
+      "Gen V items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257933
+}

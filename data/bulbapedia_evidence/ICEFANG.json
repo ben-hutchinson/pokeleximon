@@ -1,0 +1,38 @@
+{
+  "answerKey": "ICEFANG",
+  "answerDisplay": "ICE FANG",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Ice Fang (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ice_Fang_(move)",
+  "pageId": 12433,
+  "pageRevisionId": 4452066,
+  "leadText": "Ice Fang (Japanese: こおりのキバ Ice Fang) is a damage-dealing Ice-type move introduced in Generation IV. It is: TM67 in Pokémon Sword and Shield. TM010 in Pokémon Scarlet and Violet. TM015 in Pokémon Legends: Z-A. It can be thought of as a counterpart to Fire Fang and Thunder Fang, having similar names and effects.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation V onwards 1.3 Generation VIII 1.3.1 Pokémon Legends: Arceus 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation IV [ edit | edit source ] Ice Fang deals damage and has a 10% chance of freezing the opponent. It also has an independent 10% chance of causing the target to flinch , if the user attacks before the target. Generation V onwards [ edit | edit source ] Ice Fang is no longer affected by King's Rock . Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Ice Fang has a 20% chance of leaving the target with frostbite. It also lowers the target's action speed. Pokémon Legends: Arceus Category Physical PP 15 Agile Strong Power 65 50 80 Accuracy 95% 95% 100% Action speed modifier Self 0 0 +5 Target +3 +5 +3 Additional effect Chance 20% 20% 40% Turns 3 2 4 ? ? May inflict the target with frostbite Lowers the target's action speed Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 65 78 Cooldown 6s Move wind-up time 10 frames Effect duration —s Additional effect Chance 10% — — May freeze the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user bites with cold-infused fangs. It may also make the foe flinch or freeze. B W B2 W2 The user bites with cold-infused fangs. It may also make the target flinch or leave it frozen. X Y OR AS S M US UM P E Sw Sh BD SP S V The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen. LA The user bites the target with cold-infused fangs to deal damage. This may also leave the target with frostbite. ZA The user attacks by biting targets with cold-infused fangs. This may also make targets flinch or leave them frozen."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Frozen status condition or a Cringe status condition. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで こおりじょうたい ひるみじょうたいに かえる MD GtI It damages an enemy. It could also cause the Frozen or Cringe status condition. S MD It damages an enemy. It could make the enemy frozen or cause it to flinch."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Ice Fang is the only Ice-type move not to be Beautiful ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ice-Fang",
+    "Ice Fang",
+    "Ice-Fang (move)"
+  ],
+  "updatedAt": 1773323788
+}

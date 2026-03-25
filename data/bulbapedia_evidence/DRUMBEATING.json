@@ -1,0 +1,30 @@
+{
+  "answerKey": "DRUMBEATING",
+  "answerDisplay": "DRUM BEATING",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Drum Beating (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Drum_Beating_(move)",
+  "pageId": 244332,
+  "pageRevisionId": 4482612,
+  "leadText": "Drum Beating (Japanese: ドラムアタック Drum Attack) is a damage-dealing Grass-type move introduced in Generation VIII. It is the signature move of Rillaboom.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Drum Beating inflicts damage and lowers the target's Speed stat by one stage. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Drum Beating cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V The user plays its drum, controlling the drum's roots to attack the target. This also lowers the target's Speed stat. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Drum-Beating",
+    "Drum Beating",
+    "Drum-Beating (move)"
+  ],
+  "updatedAt": 1773322374
+}

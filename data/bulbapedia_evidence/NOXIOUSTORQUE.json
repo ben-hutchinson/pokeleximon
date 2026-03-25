@@ -1,0 +1,30 @@
+{
+  "answerKey": "NOXIOUSTORQUE",
+  "answerDisplay": "NOXIOUS TORQUE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Noxious Torque (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Noxious_Torque_(move)",
+  "pageId": 277876,
+  "pageRevisionId": 4317600,
+  "leadText": "Noxious Torque (Japanese: ポイズンアクセル Poison Accel) is a damage-dealing Poison-type move introduced in Generation IX. It is the signature move of the Navi Starmobile.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Noxious Torque inflicts damage and has a 30% chance of poisoning the target. Encore , Instruct , Mimic , and Sketch fail if the target's last used move was Noxious Torque. Copycat fails if the last used move was Noxious Torque."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V ---"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Noxious-Torque",
+    "Noxious Torque",
+    "Noxious-Torque (move)"
+  ],
+  "updatedAt": 1773325415
+}

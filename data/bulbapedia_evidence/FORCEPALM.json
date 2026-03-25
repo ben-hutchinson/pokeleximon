@@ -1,0 +1,38 @@
+{
+  "answerKey": "FORCEPALM",
+  "answerDisplay": "FORCE PALM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Force Palm (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Force_Palm_(move)",
+  "pageId": 12429,
+  "pageRevisionId": 4462605,
+  "leadText": "Force Palm (Japanese: はっけい Force Discharge) is a damage-dealing Fighting-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Force Palm inflicts damage and has a 30% chance of paralyzing the target. Force Palm can be used as a part of a Contest Spectacular combination , causing Hex and Smelling Salts to give extra three appeal points if either of them is used in the next turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The foe is attacked with a shock wave. It may also leave the target paralyzed. B W B2 W2 The target is attacked with a shock wave. It may also leave the target with paralysis. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The target is attacked with a shock wave. This may also leave the target with paralysis."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Paralysis status condition. A Pokémon with the Paralysis status has slowed movement and is incapable of action. B S L てきポケモンに ダメージをあたえる いっていのかくりつで まひじょうたいにかえる まひじょうたいの ポケモンは わざがだせない Conq. The target is attacked with a shock wave. It may also leave the target with paralysis. MD GtI It damages an enemy. It could also cause the Paralysis status condition. With the Paralysis status, the enemy's Travel Speed goes down and it can't attack or use moves. Super Smash Bros. for Nintendo 3DS/Wii U A blast of aura energy. Will grab opponents if their close enough. * S MD It damages an enemy. It could also cause paralysis."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The Japanese name of this move is based on a term used in Chinese martial arts , especially involving internal energies and use of explosive force. In Japanese, the term fajin /hakkei often translates to \"release internal power\". Force Palm is the only Fighting-type move capable of causing paralysis that is accessible to the player, as the only other option, Combat Torque , is exclusive to the Revavroom in Team Star 's Caph Squad's Starmobile ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Force-Palm",
+    "Force Palm",
+    "Force-Palm (move)"
+  ],
+  "updatedAt": 1773322969
+}

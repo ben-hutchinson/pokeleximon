@@ -1,0 +1,34 @@
+{
+  "answerKey": "FLIPTURN",
+  "answerDisplay": "FLIP TURN",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Flip Turn (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Flip_Turn_(move)",
+  "pageId": 252916,
+  "pageRevisionId": 4447963,
+  "leadText": "Flip Turn (Japanese: クイックターン Quick Turn) is a damage-dealing Water-type move introduced during Generation VIII, in The Isle of Armor. It is TM196 in Pokémon Scarlet and Violet and TM008 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Flip Turn deals damage and then switches the user out . The user will not be switched out if the user is the only Pokémon in the party that is able to battle, if Flip Turn fails to hit the target, if Flip Turn triggers an opponent's Wimp Out or Emergency Exit , or if using Flip Turn ends the battle. Flip Turn will not switch the user out if the user is holding a Red Card or the target is holding an Eject Button . If the player's Pokémon knocks out an opposing Trainer's Pokémon by using Flip Turn, the replacement that the player sends out will not be considered to have battled for experience purposes, but if it holds an Amulet Coin or Luck Incense that item will be taken into account when calculating prize money . In switch-style battles, the player will still have the ability to switch Pokémon between opponent's Pokémon fainting. Flip Turn switches the user out even if it is under the effect of Ingrain , Arena Trap , Magnet Pull , Shadow Tag , Mean Look , or Block . Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Flip Turn cannot be selected in a battle. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 60 72 Cooldown 12s Move wind-up time 10 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V After making its attack, the user rushes back to switch places with a party Pokémon in waiting. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. ZA The user attacks by dishing out a quick blow, then rushes back to its Trainer with incredible speed."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] A flip turn, also known as a tumble turn , is a turn technique in swimming that is performed during freestyle and backstroke races. Athletes use the flip turn to quickly and smoothly turn around in the water to change direction. Flip Turn's French name is a pun on eau (water) and au revoir (goodbye). This move originated as a TCG attack ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Flip-Turn",
+    "Flip Turn",
+    "Flip-Turn (move)"
+  ],
+  "updatedAt": 1773322886
+}

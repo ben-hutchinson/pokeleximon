@@ -1,0 +1,17 @@
+{
+  "answerKey": "MINDSEYE",
+  "answerDisplay": "MINDS EYE",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "Details on the Pokémon ability, Mind.",
+  "score": 57.88,
+  "approved": false,
+  "qualityFlags": [
+    "near_verbatim_source"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/ability/minds-eye",
+  "extract": "Details on the Pokémon ability, Mind",
+  "rankPosition": 1,
+  "updatedAt": 1774212094
+}

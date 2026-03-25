@@ -1,0 +1,30 @@
+{
+  "answerKey": "INNARDSOUT",
+  "answerDisplay": "INNARDS OUT",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Innards Out (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Innards_Out_(Ability)",
+  "pageId": 215260,
+  "pageRevisionId": 4505070,
+  "leadText": "Innards Out (Japanese: とびだすなかみ Flying Innards) is an Ability introduced in Generation VII. It is the signature Ability of Pyukumuku.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with this Ability is knocked out by an opponent's attack, it deals damage to that opponent equal to the amount of HP it had left before last being hit. If a Pokémon with this Ability faints through Future Sight or Doom Desire , Innards Out will only activate if the user of the move is still on the field. If a Pokémon with this Ability moves first and is then knocked out by Core Enforcer , Innards Out will not activate. If Innards Out causes two opposing Pokémon to faint at the same time, and neither party has any remaining Pokémon, then the Pokémon that activated Innards Out loses. If a Pokémon with this ability is knocked out by a multistrike move (including a move that becomes multistrike due to Parental Bond ), the total HP dealt by all strikes will be added together and countered back all at once. Outside of battle [ edit | edit source ] Innards Out has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with this Ability is knocked out by an opponent's attack, it deals damage to that opponent equal to the amount of HP it had left before last being hit. If a Pokémon with this Ability faints through Future Sight or Doom Desire , Innards Out will only activate if the user of the move is still on the field. If a Pokémon with this Ability moves first and is then knocked out by Core Enforcer , Innards Out will not activate. If Innards Out causes two opposing Pokémon to faint at the same time, and neither party has any remaining Pokémon, then the Pokémon that activated Innards Out loses. If a Pokémon with this ability is knocked out by a multistrike move (including a move that becomes multistrike due to Parental Bond ), the total HP dealt by all strikes will be added together and countered back all at once."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Innards-Out",
+    "Innards Out",
+    "Innards-Out (Ability)"
+  ],
+  "updatedAt": 1773328954
+}

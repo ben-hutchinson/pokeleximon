@@ -1,0 +1,30 @@
+{
+  "answerKey": "SHADOWWAVE",
+  "answerDisplay": "SHADOW WAVE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Wave (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Wave_(move)",
+  "pageId": 9599,
+  "pageRevisionId": 4269520,
+  "leadText": "Shadow Wave (Japanese: ダークウェーブ Dark Wave) is one of several Shadow moves available only in Pokémon XD: Gale of Darkness. Like other Shadow moves, it is forgotten and replaced with another move once the Pokémon is purified.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Shadow Wave deals damage to both opponents. As Shadow Pokémon cannot be traded, and since Pokémon Contests do not exist in Pokémon XD: Gale of Darkness, Shadow Wave cannot be used in Contests."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description XD Shadowy aura waves are loosed to inflict damage."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Wave",
+    "Shadow Wave",
+    "Shadow-Wave (move)"
+  ],
+  "updatedAt": 1773326860
+}

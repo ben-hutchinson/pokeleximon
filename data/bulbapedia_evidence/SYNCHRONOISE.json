@@ -1,0 +1,37 @@
+{
+  "answerKey": "SYNCHRONOISE",
+  "answerDisplay": "SYNCHRONOISE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Synchronoise (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Synchronoise_(move)",
+  "pageId": 117605,
+  "pageRevisionId": 4405784,
+  "leadText": "Not to be confused with Synchronize (Ability). Synchronoise (Japanese: シンクロノイズ Synchro Noise) is a damage-dealing Psychic-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation V 1.2 Generation VI 1.3 Generation VII 1.4 Generation VIII onwards Effect [ edit | edit source ] Generation V [ edit | edit source ] Synchronoise damages all adjacent Pokémon that share at least one type with the user. If the user has multiple types, any Pokémon that has any of those types will be damaged. Generation VI [ edit | edit source ] Synchronoise's power changed from 70 to 120, and its PP changed from 15 to 10. Synchronoise can be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if Reflect Type was used in the prior turn. Generation VII [ edit | edit source ] Synchronoise will never be effective if the user has no types (i.e. if a pure Fire type uses Burn Up ), even if an adjacent Pokémon also has no types. Generation VIII onwards [ edit | edit source ] Synchronoise cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E Using an odd shock wave, the user inflicts damage on any Pokémon of the same type in the area around it. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI S MD It damages nearby enemies. But it won't be effective unless you and the enemy share the same type. MD RT DX It damages nearby enemies. But it won't be effective unless you and the enemy share at least one type. Enemies that you don't share a type with won't be damaged."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The English name of this move is a combination of the English words synchronize and noise , of which the Japanese and Korean names are transliterations. The German, Italian, Brazilian Portuguese, and Spanish names translate it instead. Due to the nature of this move and the Dark type's immunity to Psychic-type moves, pure Dark-type Pokémon (of which only Umbreon can naturally know the move) cannot use this move successfully under normal circumstances. Despite having \"noise\" in its name, Synchronoise is not a sound-based move ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Synchronoise",
+    "Synchronoise (move)"
+  ],
+  "updatedAt": 1773327762
+}

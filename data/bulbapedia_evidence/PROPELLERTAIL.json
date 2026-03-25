@@ -1,0 +1,30 @@
+{
+  "answerKey": "PROPELLERTAIL",
+  "answerDisplay": "PROPELLER TAIL",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Propeller Tail (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Propeller_Tail_(Ability)",
+  "pageId": 244398,
+  "pageRevisionId": 4283071,
+  "leadText": "Propeller Tail (Japanese: スクリューおびれ Screw Tailfin) is an Ability introduced in Generation VIII. It is the signature Ability of Arrokuda and Barraskewda.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Propeller Tail makes its user's moves ignore the target-redirecting effects of moves (e.g. Rage Powder , Follow Me , and Ally Switch ) and Abilities (e.g. Storm Drain and Lightning Rod ). Outside of battle [ edit | edit source ] Propeller Tail has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Propeller Tail makes its user's moves ignore the target-redirecting effects of moves (e.g. Rage Powder , Follow Me , and Ally Switch ) and Abilities (e.g. Storm Drain and Lightning Rod )."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Propeller-Tail",
+    "Propeller Tail",
+    "Propeller-Tail (Ability)"
+  ],
+  "updatedAt": 1773326065
+}

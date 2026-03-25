@@ -1,0 +1,17 @@
+{
+  "answerKey": "JELLICENT",
+  "answerDisplay": "JELLICENT",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Water / Ghost type Pokémon introduced in Generation 5.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/jellicent",
+  "extract": "Jellicent is a Water / Ghost type Pokémon introduced in Generation 5 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211746
+}

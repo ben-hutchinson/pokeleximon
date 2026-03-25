@@ -1,0 +1,58 @@
+{
+  "answerKey": "ROCKIUMZHELD",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "z crystals",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Held: Allows a Pokemon to use the Z-move equivalents of its Rock moves.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Z-Move crystal",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      },
+      {
+        "text": "Crystal for Rock Z-Moves",
+        "evidence_ref": "lead",
+        "specificity": 0.86
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Rock-move Z crystal",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Crystal for Rock Z-Moves",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "rock z crystal"
+    ],
+    "connections_descriptors": [
+      "Rock Z crystals"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774258003
+}

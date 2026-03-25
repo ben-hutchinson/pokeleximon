@@ -1,0 +1,16 @@
+{
+  "answerKey": "ROCKYPAYLOAD",
+  "answerDisplay": "ROCKY PAYLOAD",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen IX ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Rocky_Payload_(Ability)",
+  "extract": "Rocky Payload (Japanese: いわはこび Rock Transport) is an Ability introduced in Generation IX. It is the signature Ability of Bombirdier.",
+  "updatedAt": 1774258446
+}

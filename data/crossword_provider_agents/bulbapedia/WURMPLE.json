@@ -1,0 +1,14 @@
+{
+  "answerKey": "WURMPLE",
+  "answerDisplay": "WURMPLE",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "45 Attack, 20 Speed species",
+  "score": 120.36,
+  "approved": true,
+  "qualityFlags": [],
+  "evidenceRef": "Game data",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Wurmple_(Pok%C3%A9mon)",
+  "extract": "Wurmple (Japanese: ケムッソ Kemusso) is a Bug-type Pokémon introduced in Generation III. It evolves into either Silcoon or Cascoon starting at level 7 depending on its personality value or encryption constant. As those values cannot be influenced or seen by the player, what a given Wurmple will evolve into is essentially random. From there, the Silcoon or Cascoon will evolve again starting at level 10 into Beautifly or Dustox, respectively.",
+  "updatedAt": 1774258418
+}

@@ -1,0 +1,33 @@
+{
+  "answerKey": "HARDEN",
+  "answerDisplay": "HARDEN",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Harden (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Harden_(move)",
+  "pageId": 3715,
+  "pageRevisionId": 4441081,
+  "leadText": "Harden (Japanese: かたくなる Stiffen) is a non-damaging Normal-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Harden increases the user's Defense stat by one stage. If powered up by a Normalium Z into Z-Harden, the user's Defense rises by another stage. Harden can be used as the first move of a Pokémon Contest combination , causing Double-Edge , Protect , Rollout , Tackle , and Take Down to score double the normal appeal if used in the next turn. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 6s Move wind-up time 30 frames Effect duration 15s 18s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 Raises the user's Defense . Useful when battling physically strong Pok é mon . G S C Raises the user's Defense . R S E Colo XD Stiffens the body's muscles to raise Defense . FR LG The user stiffens all the muscles in its body to raise its Defense stat. D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user stiffens all the muscles in its body to raise its Defense stat. S V The user stiffens all the muscles in its body to boost its Defense stat. ZA The user boosts its Defense stat for a short time by tensing its muscles to stiffen its body."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts the user's Defense by one level. MD T D S Boosts the user's Defense by 1 level. B S L じぶんの ぼうぎょを １だんかいあげる MD GtI It boosts your Defense. (The stat change returns to normal when you go to the next floor or step on a Wonder Tile.) S MD It boosts your Defense. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Harden",
+    "Harden (move)"
+  ],
+  "updatedAt": 1773323510
+}

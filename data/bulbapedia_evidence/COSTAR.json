@@ -1,0 +1,29 @@
+{
+  "answerKey": "COSTAR",
+  "answerDisplay": "COSTAR",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Costar (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Costar_(Ability)",
+  "pageId": 277821,
+  "pageRevisionId": 4399040,
+  "leadText": "Costar (Japanese: きょうえん Costarring) is an Ability introduced in Generation IX. It is the signature Ability of Flamigo.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with Costar enters the battle, it copies an ally's stat stages for itself. This includes the ally's critical-hit ratio. Outside of battle [ edit | edit source ] Costar has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with Costar enters the battle, it copies an ally's stat stages for itself. This includes the ally's critical-hit ratio."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Costar",
+    "Costar (Ability)"
+  ],
+  "updatedAt": 1773321870
+}

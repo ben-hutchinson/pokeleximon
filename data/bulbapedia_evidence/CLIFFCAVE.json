@@ -1,0 +1,30 @@
+{
+  "answerKey": "CLIFFCAVE",
+  "answerDisplay": "CLIFF CAVE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Cliff Cave",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Cliff_Cave",
+  "pageId": 85513,
+  "pageRevisionId": 4482309,
+  "leadText": "Cliff Cave (Japanese: だんがいのどうくつ Cliff Cave) is a cave introduced in Pokémon HeartGold and SoulSilver. It is located on Route 47.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] Cliff Cave has three floors. The lower floor contains breakable rocks . However, they do not appear until the player has acquired the National Pokédex . Inside Cliff Cave, the player can either go up or down; each path contains its own perks. Going down and out from Cliff Cave leads the player to the sea; where the only tall grass on Route 47 can be accessed with Waterfall , and Embedded Tower can be accessed with Rock Climb . The upper path will take travelers to Route 48 and the Johto Safari Zone ."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Ultra Ball 3F, wall in the southeast corner (hidden) HG SS Rock Smash [ edit | edit source ] The breakable rocks appear in the cave after the player obtains the National Pokédex. If the rock contains an item, the game will pick one of the following: Item Location Games Max Ether Found by smashing breakable rocks (25%) HG SS Pearl Found by smashing breakable rocks (20%) HG SS Big Pearl Found by smashing breakable rocks (10%) HG SS Red Shard Found by smashing breakable rocks (10% each) HG Yellow Shard Blue Shard Found by smashing breakable rocks (10% each) SS Green Shard Claw Fossil Found by smashing breakable rocks (20%) HG Root Fossil Found by smashing breakable rocks (20%) SS Rare Bone Randomly found by smashing breakable rocks (5%) HG SS"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Cliff-Cave",
+    "Cliff Cave",
+    "Cliff-Cave (location)"
+  ],
+  "updatedAt": 1774213788
+}

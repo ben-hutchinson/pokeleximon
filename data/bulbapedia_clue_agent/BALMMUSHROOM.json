@@ -1,0 +1,70 @@
+{
+  "answerKey": "BALMMUSHROOM",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4491990,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VI item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "loot",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen VI loot",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Sell to Hungry Maid for 25000 Pokdollars.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Used for berry recipes or blending",
+        "evidence_ref": "Effect",
+        "specificity": 0.82
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Berry-blending ingredient",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "family"
+      },
+      {
+        "text": "Valuable sellable loot",
+        "evidence_ref": "lead",
+        "mystery_score": 0.64,
+        "specificity_score": 0.74,
+        "style": "family"
+      },
+      {
+        "text": "Vendor treasure",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.7,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "berry ingredient"
+    ],
+    "connections_descriptors": [
+      "Gen VI items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257928
+}

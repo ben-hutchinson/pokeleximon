@@ -1,0 +1,38 @@
+{
+  "answerKey": "MEGAKICK",
+  "answerDisplay": "MEGA KICK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Mega Kick (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mega_Kick_(move)",
+  "pageId": 3633,
+  "pageRevisionId": 4406293,
+  "leadText": "Mega Kick (Japanese: メガトンキック Megaton Kick) is a damage-dealing Normal-type move introduced in Generation I. It was TM05 in Generation I and TM01 in Pokémon Sword and Shield. In Generation II, it was the signature move of Hitmonlee. It can be thought of as a counterpart to Mega Punch, being the same type and having a similar name.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Mega Kick deals damage and has no secondary effect. Mega Kick can be used as the second move of a Pokémon Contest combination , with the user gaining 4 bonus appeal points if Focus Energy or Mind Reader was used in the previous turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A Normal -type attack. Out of all the Pok é mon kicking attacks, this is the strongest. G S C A powerful kicking attack. R S E Colo XD An extremely powerful kick with intense force. FR LG The foe is attacked by a kick fired with muscle-packed power. D P Pt HG SS PBR The foe is attacked by a kick launched with muscle-packed power. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The target is attacked by a kick launched with muscle-packed power."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. B S L てきポケモンに ダメージをあたえる MD GtI UNUSED S MD MD RT DX It damages an enemy."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Dusknoir can learn this move despite not having any visible legs. This is a holdover from its pre-Evolution, Dusclops , which does have legs."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mega-Kick",
+    "Mega Kick",
+    "Mega-Kick (move)"
+  ],
+  "updatedAt": 1773324897
+}

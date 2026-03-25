@@ -1,0 +1,30 @@
+{
+  "answerKey": "SALTCURE",
+  "answerDisplay": "SALT CURE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Salt Cure (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Salt_Cure_(move)",
+  "pageId": 277764,
+  "pageRevisionId": 4462258,
+  "leadText": "Salt Cure (Japanese: しおづけ Salting) is a damage-dealing Rock-type move introduced in Generation IX. It is the signature move of Naclstack and Garganacl.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Salt Cure inflicts 1/8 of the target's maximum HP as damage per turn in addition to the damage dealt when it is used. If a Steel and/or Water type is affected by Salt Cure, the amount of damage per turn is ¼ of its maximum HP. The effect is removed when the afflicted Pokémon is switched out . Salt Cure cannot be passed by Baton Pass . Team Star 's Starmobiles are unaffected by the secondary effects of Salt Cure."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user salt cures the target, inflicting damage every turn. Steel and Water types are more strongly affected by this move. ZA The user attacks by salt-curing targets to inflict continual damage. Water and Steel types are more strongly affected by this move."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Salt-Cure",
+    "Salt Cure",
+    "Salt-Cure (move)"
+  ],
+  "updatedAt": 1773326616
+}

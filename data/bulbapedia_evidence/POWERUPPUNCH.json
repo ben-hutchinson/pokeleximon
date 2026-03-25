@@ -1,0 +1,38 @@
+{
+  "answerKey": "POWERUPPUNCH",
+  "answerDisplay": "POWER UP PUNCH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Power-Up Punch (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Power-Up_Punch_(move)",
+  "pageId": 181991,
+  "pageRevisionId": 4504750,
+  "leadText": "Power-Up Punch (Japanese: グロウパンチ Grow Punch) is a damage-dealing Fighting-type move introduced in Generation VI. It is TM98 in Generation VI and TM018 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IX 1.1.1 Pokémon Scarlet and Violet 1.1.2 Pokémon Legends: Z-A Effect [ edit | edit source ] Power-Up Punch inflicts damage and raises the user's Attack by one stage. Generation IX [ edit | edit source ] Pokémon Scarlet and Violet [ edit | edit source ] Power-Up Punch cannot be selected in a battle. Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 40 48 Cooldown 10s Move wind-up time 15 frames Effect duration 4.5s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh BD SP LA Striking opponents over and over makes the user's fists harder. Hitting a target raises the Attack stat. S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. ZA The user attacks targets with a punch that will make its own fist tougher. This boosts the user's Attack stat for a short time."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It damages an enemy. It could also boost your Attack. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Wooper , Pupitar , and Fennekin are all able learn Power-Up Punch despite not having arms. In the case of Pupitar, this can be explained by the fact that it evolves from a Pokémon that already has arms ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Power-Up-Punch",
+    "Power Up Punch",
+    "Power-Up-Punch (move)"
+  ],
+  "updatedAt": 1773326021
+}

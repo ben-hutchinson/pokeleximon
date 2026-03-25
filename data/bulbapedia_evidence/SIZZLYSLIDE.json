@@ -1,0 +1,34 @@
+{
+  "answerKey": "SIZZLYSLIDE",
+  "answerDisplay": "SIZZLY SLIDE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sizzly Slide (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sizzly_Slide_(move)",
+  "pageId": 232102,
+  "pageRevisionId": 4278754,
+  "leadText": "Sizzly Slide (Japanese: めらめらバーン Blazing Burn) is a damage-dealing Fire-type move introduced during Generation VII, in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. It is one of the signature moves of the partner Eevee.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VII [ edit | edit source ] Sizzly Slide deals damage and burns its target when it hits. Generation VIII onwards [ edit | edit source ] Sizzly Slide cannot be selected in a battle. However, it has been modified: its PP was changed to 20 while its power was changed to 60."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description P E The user cloaks itself in fire and charges at the target. This also leaves the target with a burn. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Even though this move cannot be used in Pokémon Scarlet and Violet , one of the obtainable camera effects in the League Club Room is named after Sizzly Slide. It shares this trait with Buzzy Buzz ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sizzly-Slide",
+    "Sizzly Slide",
+    "Sizzly-Slide (move)"
+  ],
+  "updatedAt": 1773327059
+}

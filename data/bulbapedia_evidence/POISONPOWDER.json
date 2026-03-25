@@ -1,0 +1,34 @@
+{
+  "answerKey": "POISONPOWDER",
+  "answerDisplay": "POISON POWDER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Poison Powder (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Poison_Powder_(move)",
+  "pageId": 3686,
+  "pageRevisionId": 4500964,
+  "leadText": "Poisonpowder redirects here. For the Pokémon Play It! Version 2 Theme Deck, see Poisonpowder Deck (TCG). Poison Powder (Japanese: どくのこな PoisonPowder), formatted as PoisonPowder prior to Pokémon X and Y, is a non-damaging Poison-type move introduced in Generation I. It appears to be a poisoning counterpart to Sleep Powder and Stun Spore, as the accuracy, Contest group, appeal, effects, Japanese names, and animation are the same or very similar. They are also usually learned at the same level or in a similar pattern.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generations III to V 1.4 Generation VI onwards 1.5 Generation VIII 1.5.1 Pokémon Legends: Arceus 1.6 Generation IX 1.6.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I [ edit | edit source ] PoisonPowder poisons the target. Poison-type Pokémon are unaffected by PoisonPowder. Generation II [ edit | edit source ] Steel-type Pokémon are unaffected by PoisonPowder. In the Generation II core series games, when an in-game opponent outside of the Battle Tower uses PoisonPowder, the move has a 25% chance to fail in addition to its normal chance to miss. Generations III to V [ edit | edit source ] PoisonPowder does not affect targets with Immunity as their Ability. PoisonPowder can be used as the second move of a Pokémon Contest combination , with the user gaining 3 bonus appeal points if Sweet Scent was used in the previous turn. Generation VI onwards [ edit | edit source ] Grass-type Pokémon, Pokémon with Overcoat , and Pokémon holding the Safety Goggles are now immune to Poison Powder. Poison Powder can also be used as part of a Contest Spectacular combination , causing Hex , Venom Drench and Venoshock to give an extra three appeal points if used in the next turn. If powered up by a Poisonium Z into Z-Poison Powder, the user's Defense stat rises by one stage. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Status PP 20 Agile Strong Power — — — Accuracy 80% 80% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Turns 5 3 7 ? ? ? ? Inflicts the target with poison Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 10s Move wind-up time 15 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A technique that poisons the target. If poisoned, the victim loses HP steadily. Stad2 A move that poisons the target. If poisoned, the victim loses HP steadily. G S C A move that may poison the foe. R S E Scatters a toxic powder that may poison the foe. FR LG A cloud of toxic dust is scattered. It may poison the foe. Colo XD Scatters toxic powder that may poison the target. D P Pt HG SS PBR A cloud of poisonous dust is scattered on the foe. It may poison the target. B W B2 W2 The user scatters a cloud of poisonous dust on the target. It may poison the target. X Y OR AS The user scatters a cloud of poisonous dust on the target. This may also poison the target. S M US UM P E Sw Sh BD SP S V The user scatters a cloud of poisonous dust that poisons the target. LA The user scatters a cloud of toxic powder that poisons the target. ZA The user scatters a cloud of poisonous powder that leaves targets poisoned."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Poisons the target. If a Pokémon is poisoned, it sustains damage over several turns. MD T D S Afflicts the target with a Poisoned status. A Pokémon with the Poisoned status takes damage periodically. B S L てきポケモンを どくじょうたいにかえる どくじょうたいになると いっていターンごとに ダメージをうける MD GtI It causes the Poisoned status condition to an enemy. With the Poisoned status, the enemy keeps taking damage and can't restore its HP naturally. S MD It makes an enemy poisoned. But it has no effect on Grass-type Pokémon."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Poison-Powder",
+    "Poison Powder",
+    "Poison-Powder (move)"
+  ],
+  "updatedAt": 1773325887
+}

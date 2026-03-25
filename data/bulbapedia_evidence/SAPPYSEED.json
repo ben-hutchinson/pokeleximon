@@ -1,0 +1,30 @@
+{
+  "answerKey": "SAPPYSEED",
+  "answerDisplay": "SAPPY SEED",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sappy Seed (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sappy_Seed_(move)",
+  "pageId": 233654,
+  "pageRevisionId": 4469836,
+  "leadText": "Sappy Seed (Japanese: すくすくボンバー Fast-Growing Bomber) is a damage-dealing Grass-type move introduced during Generation VII, in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. It is one of the signature moves of the partner Eevee.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Main article: Seeding Sappy Seed deals damage and plants a seed on the target. Generation VII [ edit | edit source ] Sappy Seed has 90 power, 100% accuracy, and 15 PP. Generation VIII onwards [ edit | edit source ] Sappy Seed cannot be selected in a battle. However, it has been modified: it now has 100 power, 90% accuracy, and 10 PP."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description P E The user grows a gigantic stalk that scatters seeds to attack the target. The seeds drain the target's HP every turn. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sappy-Seed",
+    "Sappy Seed",
+    "Sappy-Seed (move)"
+  ],
+  "updatedAt": 1773326665
+}

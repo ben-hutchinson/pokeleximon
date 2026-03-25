@@ -1,0 +1,86 @@
+{
+  "answerKey": "ABILITYSHIELD",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4397209,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "specificity": 0.7
+      },
+      {
+        "text": "held items",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen IX held items",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Effect [ edit | edit source ] This Ability effect may be in need of research. Reason: If a Pokemon whose Ability has already been suppressed by Gastro Acid obtains an Ability Shield, is the Ability suppression removed permanently (i.e. even if the Pokemon loses the Ability Shield), temporarily (i.e. only while holding the Ability Shield), or does it remain in place? You can discuss this on the talk page. The Ability Shield prevents the holder's Ability from being changed or suppressed by any effect, even if the effect is directly caused by the holder (such as by Role Play or Trace ). It also protects the holder from effects that ignore Abilities . For instance, if a Pokemon with Clear Body or Big Pecks is holding an Ability Shield and a Pokemon with Mold Breaker uses Leer , its Defense will not be lowered. If a Pokemon with an Ability Shield transforms into another Pokemon (either by using the move Transform or using the Ability Imposter ) it will still copy the opponent's Ability. This copied Ability will then be protected.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Protects the holder's Ability",
+        "evidence_ref": "Description",
+        "specificity": 0.94
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Holder keeps its trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.82,
+        "specificity_score": 0.92,
+        "style": "effect"
+      },
+      {
+        "text": "Blocks trait tampering",
+        "evidence_ref": "Description",
+        "mystery_score": 0.8,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Suppression-proof held item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.46,
+        "specificity_score": 0.68,
+        "style": "category"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "trait guard",
+      "held protector",
+      "trait keeper"
+    ],
+    "connections_descriptors": [
+      "Ability-protecting items",
+      "Held battle items",
+      "Gen IX items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257924
+}

@@ -1,0 +1,120 @@
+{
+  "answerKey": "ASSAULTVEST",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4492020,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VI item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "specificity": 0.7
+      },
+      {
+        "text": "held items",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen VI held items",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Raises the holders Special Defense to 1.5. Prevents the holder from selecting a status move.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Raises special defense",
+        "evidence_ref": "Description",
+        "specificity": 0.84
+      },
+      {
+        "text": "Raises sp. def",
+        "evidence_ref": "Description",
+        "specificity": 0.82
+      },
+      {
+        "text": "Prevents status moves",
+        "evidence_ref": "Description",
+        "specificity": 0.88
+      },
+      {
+        "text": "Boosts Status Moves's stats",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Raises Special Defense",
+        "evidence_ref": "Description",
+        "mystery_score": 0.62,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Forbids status moves",
+        "evidence_ref": "Description",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "restriction"
+      },
+      {
+        "text": "No-status-move held item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.66,
+        "specificity_score": 0.82,
+        "style": "restriction"
+      },
+      {
+        "text": "Status Moves Special  Def But Prevents The Use boost item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Power item for Status Moves",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Status Moves-only held item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.46,
+        "specificity_score": 0.68,
+        "style": "category"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "special defense booster",
+      "status moves item"
+    ],
+    "connections_descriptors": [
+      "Held battle items",
+      "Gen VI items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257927
+}

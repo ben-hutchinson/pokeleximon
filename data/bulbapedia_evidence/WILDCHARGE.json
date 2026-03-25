@@ -1,0 +1,38 @@
+{
+  "answerKey": "WILDCHARGE",
+  "answerDisplay": "WILD CHARGE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Wild Charge (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Wild_Charge_(move)",
+  "pageId": 117467,
+  "pageRevisionId": 4496883,
+  "leadText": "Wild Charge (Japanese: ワイルドボルト Wild Volt) is a damage-dealing Electric-type move introduced in Generation V. It is: TM93 from Generation V to Pokémon Ultra Sun and Ultra Moon. TR86 in Pokémon Sword and Shield. TM147 in Pokémon Scarlet and Violet. TM086 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Wild Charge inflicts damage, and the user receives recoil damage equal to ¼ of the damage done to the target. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Wild Charge's power has been lowered to 85. Using Wild Charge will cure the user of drowsiness, and has a chance to paralyze the target. Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 85 65 105 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 20% 20% 40% Turns 3 2 4 Recoil 25% 25% 50% May inflict the target with paralysis. Damages the user by a percentage of damage dealt. Cures the user of drowsiness. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 90 108 Cooldown 8s Move wind-up time 15 frames Effect duration —s Additional effect Recoil 25% — — Damages the user by a percentage of damage dealt."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user shrouds itself in electricity and smashes into its target. It also damages the user a little. X Y OR AS S M US UM P E Sw Sh BD SP S V The user shrouds itself in electricity and smashes into its target. This also damages the user a little. LA The user shrouds itself in electricity and smashes into its target. This also damages the user and may leave the target with paralysis. ZA The user attacks by charging forward while cloaked in electricity. The user will also take some damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It damages an enemy, but you receive recoil damage, too. S MD MD RT DX It damages an enemy, but you'll receive recoil damage, too."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Wild Charge is the only Electric-type Tough move. This move's English and Japanese names are both puns, with the words bolt and charge having both running and electricity-related meanings. This explains the fact many non-Electric-type Pokémon can learn this move."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Wild-Charge",
+    "Wild Charge",
+    "Wild-Charge (move)"
+  ],
+  "updatedAt": 1773328517
+}

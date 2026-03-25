@@ -1,0 +1,38 @@
+{
+  "answerKey": "NIGHTSLASH",
+  "answerDisplay": "NIGHT SLASH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Night Slash (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Night_Slash_(move)",
+  "pageId": 15939,
+  "pageRevisionId": 4494247,
+  "leadText": "Night Slash (Japanese: つじぎり Crossroad Killing) is a damage-dealing Dark-type move introduced in Generation IV. It is TM034 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Night Slash deals damage and has an increased critical hit ratio. If used by a Pokémon with Sharpness , its power is increased by 50%. Night Slash can also be used as part of a Contest Spectacular combination , with the user gaining extra three appeal points if the move Focus Energy was used in the prior turn. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Physical PP 15 Agile Strong Power 70 55 85 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Crit. stage +1 +1 +2 ? ? ? ? Has an increased critical-hit ratio Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 70 84 Cooldown 7s Move wind-up time 10 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP The user slashes the target the instant an opportunity arises. Critical hits land more easily. LA The user slashes the target the instant the target lowers its guard. This move has a heightened chance of landing a critical hit. S V The user slashes the target the instant an opportunity arises. This move has a heightened chance of landing a critical hit. ZA The user attacks by slashing the instant an opportunity arises. This move has a heightened chance of landing a critical hit."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. It has a high critical-hit rate. B S L てきポケモンに ダメージをあたえる きゅうしょに あたりやすい Conq. Slash the target while its attention is diverted. It has a high critical-hit ratio. MD GtI S MD MD RT DX It damages an enemy. It has a high critical-hit rate."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The Japanese name 「つじぎり」 Tsujigiri (lit. \"Crossroad Killing\") refers to a way in which some samurai would test new swords in feudal Japan. This was by hiding in wait by a road (typically a crossroads, thus its literal translation) and waiting for an unsuspecting commoner (i.e. lower class, and so with far fewer rights than the samurai class) to pass by. He would then strike to kill, and in this way learn how well his new sword could cut."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Night-Slash",
+    "Night Slash",
+    "Night-Slash (move)"
+  ],
+  "updatedAt": 1773325365
+}

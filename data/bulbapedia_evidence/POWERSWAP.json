@@ -1,0 +1,34 @@
+{
+  "answerKey": "POWERSWAP",
+  "answerDisplay": "POWER SWAP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Power Swap (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Power_Swap_(move)",
+  "pageId": 18878,
+  "pageRevisionId": 4436757,
+  "leadText": "Power Swap (Japanese: パワースワップ Power Swap) is a non-damaging Psychic-type move introduced in Generation IV. It was TM60 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Power Swap switches the user's Attack stat stages and Special Attack stat stages with the target's Attack stat stages and Special Attack stat stages. Since this changes stat stages, the stat stages can be passed via Baton Pass . Power Swap bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . If powered up by a Psychium Z into Z-Power Swap, the user's Speed stat is raised by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user employs its psychic power to switch changes to its Attack and Sp. Atk with the foe. B W B2 W2 The user employs its psychic power to switch changes to its Attack and Sp. Atk with the target. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user employs its psychic power to switch changes to its Attack and Sp. Atk stats with the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Swaps any modified stat levels and rates for Attack and Special Attack with the Pokémon the user is facing. B S L しょうめんの ポケモンの こうげき とくこうの だんかいと ばいりつを じぶんと いれかえてしまう MD GtI It switches any changes to your Attack and Special Attack with the target. (The stat changes return to normal when you go to the next floor or step on a Wonder Tile.) S MD It switches existing changes to your Attack and Sp. Atk with the target. * It switches any changes to your Attack and Sp. Atk with the target's. The stats return to normal when you go to the next floor or step on a Wonder Tile. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Power-Swap",
+    "Power Swap",
+    "Power-Swap (move)"
+  ],
+  "updatedAt": 1773326014
+}

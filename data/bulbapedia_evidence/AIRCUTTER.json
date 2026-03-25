@@ -1,0 +1,38 @@
+{
+  "answerKey": "AIRCUTTER",
+  "answerDisplay": "AIR CUTTER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Air Cutter (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Air_Cutter_(move)",
+  "pageId": 3925,
+  "pageRevisionId": 4494407,
+  "leadText": "Air Cutter (Japanese: エアカッター Air Cutter) is a damage-dealing Flying-type move introduced in Generation III. It is TM040 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations III-V 1.2 Generation VI onwards 1.3 Generation VIII 1.3.1 Pokémon Legends: Arceus Effect [ edit | edit source ] Generations III-V [ edit | edit source ] Air Cutter deals damage and has an increased critical hit ratio. It hits both opponents in a Double Battle and all opposing adjacent Pokémon in Triple Battles . Air Cutter's odds of landing critical hits is calculated for each hit opponent individually. Generation VI onwards [ edit | edit source ] Air Cutter's power changed from 55 to 60. In Horde Encounters , it will target all opponents. Air Cutter will also knock down Berries growing on Berry trees found in the background of battles . If used by a Pokémon with Sharpness , its power is increased by 50%. Air Cutter is a wind move . Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Air Cutter's PP has been reduced to 15, and like all other moves in Pokémon Legends: Arceus , it can only hit one target. Pokémon Legends: Arceus Category Special PP 15 Agile Strong Power 60 45 75 Accuracy 95% 95% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Crit. stage 1 1 2 ? ? ? ? Has a high critical-hit ratio"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Hacks with razorlike wind. High critical-hit ratio. FR LG The foe is hit with razor-like wind. It has a high critical-hit ratio. D P Pt HG SS PBR The user launches razorlike wind to slash the foe. It has a high critical-hit ratio. B W B2 W2 The user launches razor-like wind to slash the opposing team. Critical hits land more easily. X Y OR AS S M US UM P E The user launches razor-like wind to slash the opposing Pokémon. Critical hits land more easily. Sw Sh BD SP The user launches razor-like wind to slash opposing Pokémon. Critical hits land more easily. LA The user launches razor-like wind to slash the target. This move has a heightened chance of landing a critical hit. S V The user launches razor-like wind to slash opposing Pokémon. This move has a heightened chance of landing a critical hit."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. It has a high critical-hit rate. B S L てきポケモンに ダメージをあたえる きゅうしょに あたりやすい MD GtI S MD MD RT DX It damages an enemy. It has a high critical-hit rate."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Air Cutter is the only damage-dealing Flying-type move that cannot hit non-adjacent foes in Triple Battles . Air Cutter is one of three moves that can be used to collect Berries from the Berry trees appearing behind foes in wild battles, the others being Twister and Blizzard ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Air-Cutter",
+    "Air Cutter",
+    "Air-Cutter (move)"
+  ],
+  "updatedAt": 1773320729
+}

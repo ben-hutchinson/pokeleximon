@@ -1,0 +1,67 @@
+{
+  "answerKey": "FORECAST",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4491726,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Forecast (Japanese: Temperamental) is an Ability introduced in Generation III. It is the signature Ability of Castform.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B The Pokemon's type changes with the weather. MD T D S Changes the Pokemon's type based on the weather. B S L MD GtI Unavailable S MD The Pokemon changes its type depending on the weather. If it's sunny, it changes to Fire type. If it's rain, it changes to Water type. If it's hail, it changes to Ice type. MD RT DX The Pokemon changes its type depending on the weather. During Sunny weather or Extremely Harsh Sunlight, it changes to Fire type. During Rain or Heavy Rain, it changes to Water type. During Hail, it changes to Ice type.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV 1.1.3 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Depending on the weather , Forecast will change Castform 's form, which also changes its type . Castform changes as follows: During harsh sunlight or extremely harsh sunlight , it will become Sunny Form, which is Fire-type . During hail , it will become Snowy Form, which is Ice-type . During rain or heavy rain , it will become Rainy Form, which is Water-type . During a sandstorm , fog , strong winds , a shadowy aura , or clear weather, it will revert to its normal form, which is Normal-type . It will also revert to its normal form if a Pokemon on the field has Cloud Nine or Air Lock . This Ability has no effect on Pokemon other than Castform. Forecast does not change Castform's form until after Stealth Rock deals damage. Generation III [ edit | edit source ] If a Pokemon transforms into Castform with Forecast, it will change forms with the weather just like Castform. If Castform or a Pokemon transformed into Castform loses Forecast, it will be stuck in its current form. When it regains Forecast, it will change to the form matching the current weather, even if it is already in the correct form (which resets its type if it had changed due to an effect like Color Change ). Forecast can be copied by Role Play and Trace . Generation IV [ edit | edit source ] If Forecast is suppressed with Gastro Acid , it will be stuck in its current form. Forecast cannot be copied by Trace . Generation V onward [ edit | edit source ] If a Pokemon transforms into Castform, the Pokemon will remain in the same form as the target Castform, regardless of the weather. If Castform loses Forecast or Forecast is suppressed with Gastro Acid , it will revert to its normal form and not be able to change form. If Castform regains Forecast, it will change form to match the current weather, unless it would be in its normal form in the current weather. Role Play fails if the target has the Ability Forecast. Entrainment fails if the user has the Ability Forecast. Forecast cannot be copied by Power of Alchemy or Receiver , nor can it be traded by Wandering Spirit . Outside of battle [ edit | edit source ] Forecast has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "Contents 1 In battle 1.1 Generation III 1.2 Generation IV 1.3 Generation V onward In battle [ edit | edit source ] Depending on the weather , Forecast will change Castform 's form, which also changes its type . Castform changes as follows: During harsh sunlight or extremely harsh sunlight , it will become Sunny Form, which is Fire-type . During hail , it will become Snowy Form, which is Ice-type . During rain or heavy rain , it will become Rainy Form, which is Water-type . During a sandstorm , fog , strong winds , a shadowy aura , or clear weather, it will revert to its normal form, which is Normal-type . It will also revert to its normal form if a Pokemon on the field has Cloud Nine or Air Lock . This Ability has no effect on Pokemon other than Castform. Forecast does not change Castform's form until after Stealth Rock deals damage. Generation III [ edit | edit source ] If a Pokemon transforms into Castform with Forecast, it will change forms with the weather just like Castform. If Castform or a Pokemon transformed into Castform loses Forecast, it will be stuck in its current form. When it regains Forecast, it will change to the form matching the current weather, even if it is already in the correct form (which resets its type if it had changed due to an effect like Color Change ). Forecast can be copied by Role Play and Trace . Generation IV [ edit | edit source ] If Forecast is suppressed with Gastro Acid , it will be stuck in its current form. Forecast cannot be copied by Trace . Generation V onward [ edit | edit source ] If a Pokemon transforms into Castform, the Pokemon will remain in the same form as the target Castform, regardless of the weather. If Castform loses Forecast or Forecast is suppressed with Gastro Acid , it will revert to its normal form and not be able to change form. If Castform regains Forecast, it will change form to match the current weather, unless it would be in its normal form in the current weather. Role Play fails if the target has the Ability Forecast. Entrainment fails if the user has the Ability Forecast. Forecast cannot be copied by Power of Alchemy or Receiver , nor can it be traded by Wandering Spirit .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Changes castform's type and form to match the weather.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Weather abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257947
+}

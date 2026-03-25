@@ -1,0 +1,71 @@
+{
+  "answerKey": "BLAZE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4514071,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Blaze redirects here. For the location in Pokemon Mystery Dungeon: Red Rescue Team and Blue Rescue Team, see Mt. Blaze. Blaze (Japanese: Raging Flames) is an Ability introduced in Generation III. All Fire-type first partner Pokemon have this Ability.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Boosts the power of Fire-type moves when HP is low. MD T D S Boosts the power of the Pokemon's Fire-type moves when its HP is low. B S L Conq. Raises Attack when HP is low. MD GtI When the Pokemon's HP is low, the power of its Fire-type moves goes up. * When the Pokemon's HP is low, the power of Fire-type moves goes up! * S MD When the Pokemon's HP is low, the power of Fire-type moves goes up! MD RT DX When the Pokemon's HP is low, the power of Fire-type moves goes up.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations III to IV 1.1.2 Generations V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations III to IV [ edit | edit source ] When a Pokemon with Blaze uses a Fire-type move , the move's power will be increased by 50% if the user has less than or equal to of its maximum HP remaining. Generations V onward [ edit | edit source ] Instead of boosting Fire-type moves' power, Blaze now technically boosts the Pokemon's Attack or Special Attack by 50% during damage calculation if a Fire-type move is being used, resulting in effectively the same potency. Outside of battle [ edit | edit source ] Blaze has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Generations III to IV [ edit | edit source ] When a Pokemon with Blaze uses a Fire-type move , the move's power will be increased by 50% if the user has less than or equal to of its maximum HP remaining. Generations V onward [ edit | edit source ] Instead of boosting Fire-type moves' power, Blaze now technically boosts the Pokemon's Attack or Special Attack by 50% during damage calculation if a Fire-type move is being used, resulting in effectively the same potency.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Boosts Fire-type moves at low HP",
+        "evidence_ref": "Description",
+        "specificity": 0.88
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Boosts Fire-type moves at low HP",
+        "evidence_ref": "Description",
+        "mystery_score": 0.76,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Low-HP Fire boost",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Fire-power when weakened",
+        "evidence_ref": "Description",
+        "mystery_score": 0.66,
+        "specificity_score": 0.8,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "fire boost",
+      "low-hp power trait"
+    ],
+    "connections_descriptors": [
+      "Low-HP Fire abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257930
+}

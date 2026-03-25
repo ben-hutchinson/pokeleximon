@@ -1,0 +1,26 @@
+{
+  "answerKey": "PLASMAFRIGATE",
+  "answerDisplay": "PLASMA FRIGATE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Plasma Frigate",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Plasma_Frigate",
+  "pageId": 163941,
+  "pageRevisionId": 4445187,
+  "leadText": "The Plasma Frigate (Japanese: プラズマフリゲート Plasma Frigate) is a flying ship that serves as Team Plasma's main means of transportation in Pokémon Black 2 and White 2. It docks at various locations throughout Unova, first appearing at Prime Pier in Castelia City, and later appearing at the Pokémon World Tournament's harbor, at Opelucid City, outside Seaside Cave in a secluded area of Route 21, and at the Giant Chasm. After the player has defeated Ghetsis, it is permanently docked at the P2 Laboratory. The sub-levels of the ship are different depending on the version played: Black 2 has a warp panel puzzle on B1F and a password puzzle on B2F, while it is the opposite in White 2, with a password puzzle on B1F and a warp panel puzzle on B2F. The ship is powered by both Kyurem and solar panels, as conventional power sources won't be usable when Unova is covered in ice. One of the female Team Plasma Grunts on B1F will add Zekrom and Reshiram's seen entries to the player's Pokédex.",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Pokémon Black 2 , while the Frigate is at the Giant Chasm, one of the Team Plasma Grunts on B2F claims to be a former member of Team Galactic . The player can use Dig and Teleport to exit the Plasma Frigate, but not Fly . The player cannot use the Xtransceiver here, as anyone on the calling list will be temporarily removed while onboard. The Plasma Frigate specifically being a frigate may be a reference to the words \"frigid\" and \"refrigerate\", referring to the ship's ability to freeze large areas."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Plasma-Frigate",
+    "Plasma Frigate",
+    "Plasma-Frigate (location)"
+  ],
+  "updatedAt": 1773325846
+}

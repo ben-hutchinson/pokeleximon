@@ -1,0 +1,38 @@
+{
+  "answerKey": "BOLTSTRIKE",
+  "answerDisplay": "BOLT STRIKE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Bolt Strike (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bolt_Strike_(move)",
+  "pageId": 117491,
+  "pageRevisionId": 4412555,
+  "leadText": "If you were looking for the Bolt Strike Pokémon, see Thundurus. Bolt Strike (Japanese: らいげき Lightning Strike) is a damage-dealing Electric-type move introduced in Generation V. It is one of the signature moves of Zekrom.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Bolt Strike inflicts damage and has a 20% chance of paralyzing the target. Bolt Strike can also be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if the move Charge was used in the prior turn. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Bolt Strike cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user charges at its target, surrounding itself with a great amount of electricity. It may leave the target with paralysis. X Y OR AS S M US UM P E Sw Sh LA The user surrounds itself with a great amount of electricity and charges its target. This may also leave the target with paralysis. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user surrounds itself with a great amount of electricity and charges the target. This may also leave the target with paralysis."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Conq. The user charges at its target, surrounding itself with a great amount of electricity. It may leave the target with paralysis. MD GtI It damages enemies. It could also cause the Paralysis status condition. With the Paralysis status, their Travel Speed goes down and they can't attack or use moves. S MD It damages even faraway Pokémon. It could also cause paralysis."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Bolt Strike is tied with Electro Shot for having the highest base power of all Electric-type moves, excluding Z-Moves , Max Moves , and G-Max Moves ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Bolt-Strike",
+    "Bolt Strike",
+    "Bolt-Strike (move)"
+  ],
+  "updatedAt": 1773321283
+}

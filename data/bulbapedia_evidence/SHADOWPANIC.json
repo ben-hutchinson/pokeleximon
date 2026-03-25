@@ -1,0 +1,34 @@
+{
+  "answerKey": "SHADOWPANIC",
+  "answerDisplay": "SHADOW PANIC",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Panic (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Panic_(move)",
+  "pageId": 9594,
+  "pageRevisionId": 4375913,
+  "leadText": "Shadow Panic (Japanese: ダークパニック Dark Panic) is one of several Shadow moves available only in Pokémon XD: Gale of Darkness. Like other Shadow moves, it is forgotten and replaced with another move once the Pokémon is purified.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Shadow Panic confuses all opponents. Shadow Panic is a sound-based move , so it cannot affect Pokémon with Soundproof . As Shadow Pokémon cannot be traded, and since Pokémon Contests do not exist in Pokémon XD: Gale of Darkness, Shadow Panic cannot be used in Contests."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description XD A shadowy aura emanates to cause a confuse condition."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Shadow Panic is the only Shadow move to be a sound-based move."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Panic",
+    "Shadow Panic",
+    "Shadow-Panic (move)"
+  ],
+  "updatedAt": 1773326846
+}

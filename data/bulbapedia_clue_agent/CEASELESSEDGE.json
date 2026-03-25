@@ -1,0 +1,75 @@
+{
+  "answerKey": "CEASELESSEDGE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4407238,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII Dark move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Dark physical move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Ceaseless Edge inflicts damage and has an increased critical-hit ratio. It also leaves the target with splinters for 4 turns ( Strong Style ), 2 turns ( Agile Style ), or 3 turns (otherwise). Pokemon Legends: Arceus Category Physical PP 15 Agile Strong Power 65 50 80 Accuracy 90% 90% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Turns 3 2 4 Crit. stage +1 +1 +2 ? ? Leaves splinters on the target High critical hit ratio Generation IX [ edit | edit source ] Ceaseless Edge inflicts damage and sets up one layer of Spikes on the opposing side of the field. If used by a Pokemon with Sharpness , its power is increased by 50%. It does not have an increased critical-hit ratio.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "65-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "critical-hit move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Dark physical move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen VIII Dark move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "65-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "dark physical move"
+    ],
+    "connections_descriptors": [
+      "Critical-Hit moves",
+      "Dark Physical moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257933
+}

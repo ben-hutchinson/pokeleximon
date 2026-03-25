@@ -1,0 +1,30 @@
+{
+  "answerKey": "RELICCASTLE",
+  "answerDisplay": "RELIC CASTLE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Relic Castle",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Relic_Castle",
+  "pageId": 118191,
+  "pageRevisionId": 4465640,
+  "leadText": "Relic Castle (Japanese: 古代の城 Ancient Castle) is a large castle and the ruins of an ancient city that is over 2,500 years old, located in the middle of the Desert Resort. It is made up of several floors and a maze.",
+  "sections": [
+    {
+      "title": "In the core series games",
+      "text": "In the core series games [ edit | edit source ] History [ edit | edit source ] Background [ edit | edit source ] At least 2500 years prior to the games, the Relic Castle was built as part of an ancient city by one of the ancient kings of Unova and his respective legendary dragon . It is said to have been the heart of a civilization for people and Pokémon in the region , but as time went by, the city was buried in the sand of the Desert Resort ."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The Team Plasma Grunt battled on the lowest floor in Black and White has the highest- level Pokémon ever used by a villainous team Grunt in the core series games , with his Krookodile being at level 64. In Volcarona 's room, Dusk Balls never have an increased catch rate modifier, even at night . The only other location to have this distinction is the Strange House ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Relic-Castle",
+    "Relic Castle",
+    "Relic-Castle (location)"
+  ],
+  "updatedAt": 1773326349
+}

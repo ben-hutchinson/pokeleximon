@@ -1,0 +1,73 @@
+{
+  "answerKey": "MULTITYPE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4481120,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Multitype (Japanese: Multitype) is an Ability introduced in Generation IV. It is the signature Ability of Arceus.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD T D S * B S L MD GtI Unavailable S MD Even when the Pokemon uses a move with a type different from its own, the move will do more damage as if it did match its type! It has the same effect on its teammates!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generations V and VI 1.1.3 Generation VII 1.1.4 Generation IX 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Multitype changes the form and type of a Pokemon with this Ability depending on the Plate attached. Gastro Acid , Worry Seed , and Simple Beam fail if the target has the Ability Multitype. Role Play , Skill Swap , Entrainment , and Doodle fail if either Pokemon has Multitype. Multitype cannot be copied by Trace , Power of Alchemy , or Receiver . Multitype cannot be replaced by Mummy or Lingering Aroma , suppressed by Core Enforcer or Neutralizing Gas , or traded by Wandering Spirit . Generation IV [ edit | edit source ] The item-removing effects of Thief , Covet , Trick , Switcheroo , and Knock Off will not work on a Pokemon with Multitype, regardless of what item it is holding. When a Pokemon transforms into Arceus, it becomes the same form and type as the target Arceus. If the transformed Pokemon is holding a Plate that is different from the target's held Plate, it then immediately changes to the form and type corresponding to that Plate; if it is not holding a Plate, it immediately changes to Normal Arceus (unless it transformed into Normal Arceus). Generations V and VI [ edit | edit source ] If a Pokemon transforms into Arceus, the Pokemon will now be in the same form as the target Arceus, regardless of its own held item. Multitype no longer has an effect on items; instead, item-manipulating effects cannot affect Arceus if they would cause it to hold a Plate or take a Plate it already holds. Generation VII [ edit | edit source ] Multitype will also change Arceus's type and form if it holds a type-specific Z-Crystal . Generation IX [ edit | edit source ] If the user Terastallizes , the effects of Multitype will be nullified. Outside of battle [ edit | edit source ] Multitype has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "Contents 1 In battle 1.1 Generation IV 1.2 Generations V and VI 1.3 Generation VII 1.4 Generation IX In battle [ edit | edit source ] Multitype changes the form and type of a Pokemon with this Ability depending on the Plate attached. Gastro Acid , Worry Seed , and Simple Beam fail if the target has the Ability Multitype. Role Play , Skill Swap , Entrainment , and Doodle fail if either Pokemon has Multitype. Multitype cannot be copied by Trace , Power of Alchemy , or Receiver . Multitype cannot be replaced by Mummy or Lingering Aroma , suppressed by Core Enforcer or Neutralizing Gas , or traded by Wandering Spirit . Generation IV [ edit | edit source ] The item-removing effects of Thief , Covet , Trick , Switcheroo , and Knock Off will not work on a Pokemon with Multitype, regardless of what item it is holding. When a Pokemon transforms into Arceus, it becomes the same form and type as the target Arceus. If the transformed Pokemon is holding a Plate that is different from the target's held Plate, it then immediately changes to the form and type corresponding to that Plate; if it is not holding a Plate, it immediately changes to Normal Arceus (unless it transformed into Normal Arceus). Generations V and VI [ edit | edit source ] If a Pokemon transforms into Arceus, the Pokemon will now be in the same form as the target Arceus, regardless of its own held item. Multitype no longer has an effect on items; instead, item-manipulating effects cannot affect Arceus if they would cause it to hold a Plate or take a Plate it already holds. Generation VII [ edit | edit source ] Multitype will also change Arceus's type and form if it holds a type-specific Z-Crystal . Generation IX [ edit | edit source ] If the user Terastallizes , the effects of Multitype will be nullified.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Changes arceus's type and form to match its held Plate.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "switching ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "switching ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Switching abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257980
+}

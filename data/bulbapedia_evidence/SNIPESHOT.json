@@ -1,0 +1,34 @@
+{
+  "answerKey": "SNIPESHOT",
+  "answerDisplay": "SNIPE SHOT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Snipe Shot (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Snipe_Shot_(move)",
+  "pageId": 244317,
+  "pageRevisionId": 4403523,
+  "leadText": "Snipe Shot (Japanese: ねらいうち Snipe Shot) is a damage-dealing Water-type move introduced in Generation VIII. It is the signature move of Inteleon.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Sword and Shield 1.1.2 Pokémon Brilliant Diamond and Shining Pearl Effect [ edit | edit source ] Snipe Shot deals damage and has an increased critical hit ratio. It is unaffected by moves and Ability effects that draw in moves, such as Follow Me and Storm Drain . Generation VIII [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] Prior to Version 1.2.0 of Sword and Shield , if Snipe Shot was selected by Metronome , the move would fail (as Metronome targets oneself when it is used). In Double Battles , due to a glitch, Snipe Shot will fail if called via Sleep Talk . Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Snipe Shot cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V The user ignores the effects of opposing Pokémon's moves and Abilities that draw in moves, allowing this move to hit the chosen target. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as a TCG attack . In Pokémon Masters EX , this has the lowest power of all attack moves that cost four move-gauge slots."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Snipe-Shot",
+    "Snipe Shot",
+    "Snipe-Shot (move)"
+  ],
+  "updatedAt": 1773327307
+}

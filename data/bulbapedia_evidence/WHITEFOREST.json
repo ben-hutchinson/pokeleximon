@@ -1,0 +1,26 @@
+{
+  "answerKey": "WHITEFOREST",
+  "answerDisplay": "WHITE FOREST",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "White Forest",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/White_Forest",
+  "pageId": 109994,
+  "pageRevisionId": 4386646,
+  "leadText": "White Forest (Japanese: ホワイトフォレスト White Forest) is a forest in eastern Unova. White Forest is exclusive to Pokémon White and Pokémon White 2. Unlike Black City, White Forest has a variety of wild Pokémon as well as characters and tasks that do not occur in Pokémon Black. It is located to the east of Route 15. The appearance of White Forest is dependent on the number of people currently residing there. When the player enters the forest for the very first time, the total number of residents is determined by the number of days it took the player to reach White Forest. The number of residents can be between 0 (low occupancy) and 10 (maximum occupancy). In addition to visual changes, some wild Pokémon will only appear with a certain resident. At maximum occupancy White Forest contains large trees, many patches of tall grass, and can have water surfaces. At low level occupancy the trees are smaller, there are fewer or no water surfaces, and patches of tall grass are sparse. The Mayor's House and Pokémon Center are present regardless of how many people reside in the forest. When using the Entralink feature to visit another player's Black City, the player can invite people who have left their Black City to come to White Forest to increase occupancy; this can enable new items and wild Pokémon to be found. In White 2, White Forest has changed from the original White version. There are no longer patches of tall grass or pools of water to find wild Pokémon in. Instead, the White Treehollow is located within the northern part of the forest.",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The Pokémon that can appear here correspond to the specific team of the NPC who generates that Pokémon in Black City. If the player invites people from either Black City or White Forest to go to their game and talks to them, they will say they met the player from the game they came from, even if that player hasn't reached that location yet. White Forest is the only forest in the Pokémon games to contain a Pokémon Center. If White Forest is visited in Pokémon White for the first time, the first patch of grass or the first water tile the player enters will always result in an encounter with a wild Pokémon. White Forest's German name, Weißer Wald, is alliterative. It shares this trait with its counterpart, Black City. In Pokémon Scarlet and Violet 's The Indigo Disk expansion, the White Forest is featured in a painting in the monochrome version of Blueberry Academy 's League Club Room ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "White-Forest",
+    "White Forest",
+    "White-Forest (location)"
+  ],
+  "updatedAt": 1773328489
+}

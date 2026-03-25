@@ -1,0 +1,33 @@
+{
+  "answerKey": "TELEKINESIS",
+  "answerDisplay": "TELEKINESIS",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Telekinesis (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Telekinesis_(move)",
+  "pageId": 117469,
+  "pageRevisionId": 4407035,
+  "leadText": "Telekinesis (Japanese: テレキネシス Telekinesis) is a non-damaging Psychic-type move introduced in Generation V. It was TM19 in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation V to VII [ edit | edit source ] Telekinesis raises its target into the air for three turns. This makes all moves used against the target (with the exception of one-hit knockout moves ) bypass accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . In addition, the target will be immune to Ground-type moves and ungrounded . If a Pokémon under the effect of Telekinesis is affected by Ingrain or holds an Iron Ball , it becomes grounded (i.e. it becomes vulnerable to Ground-type moves, etc.), but the effect to make moves targeting it ignore accuracy checks still applies. If a Pokémon under the effect of Telekinesis is hit by Smack Down or Thousand Arrows , the effect of Telekinesis disappears. If Gravity comes into effect, the effect of Telekinesis disappears from all Pokémon. The move Telekinesis cannot affect a Pokémon under the effect of Ingrain , Smack Down , or Thousand Arrows . While Gravity is in effect, Telekinesis cannot be selected. Mega Gengar , Diglett , Dugtrio , Sandygast , and Palossand cannot be affected by the move Telekinesis, but a Pokémon transformed into one of these Pokémon can be affected. If Mega Gengar is affected by Telekinesis before Mega Evolving or receives the effect via Baton Pass , the effect disappears; the other four will retain the effect if they obtain it via Baton Pass. Telekinesis itself also bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . If powered up by a Psychium Z into Z-Telekinesis, the user's Special Attack stat rises by one stage. Generation VIII onwards [ edit | edit source ] Telekinesis cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E The user makes the target float with its psychic power. The target is easier to hit for three turns. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It causes the Telekinesis status condition to the Pokémon in front of you. With the Telekinesis status, the Pokémon can't move and its evasiveness goes down, but it won't take damage from Ground-type moves. S MD It causes the Telekinesis status condition to the Pokémon in front of you. In the Telekinesis status condition, the Pokémon can't move and its evasiveness goes down, but it won't take damage from Ground-type moves. MD RT DX It gives the Telekinesis condition to the Pokémon in front of you. In the Telekinesis condition, the Pokémon can't move and its evasiveness goes down, but it won't take damage from Ground-type moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Telekinesis",
+    "Telekinesis (move)"
+  ],
+  "updatedAt": 1773327864
+}

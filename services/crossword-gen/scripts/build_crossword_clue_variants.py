@@ -176,32 +176,10 @@ def _derive_structural_fallback_variants(
     display_answer: str,
     source_type: str,
 ) -> list[str]:
-    parts = _answer_parts(display_answer)
-    word_count = max(len(parts), 1)
-    lengths = _answer_lengths_signature(display_answer)
-    initials = _answer_initials(display_answer)
-    endings = _answer_endings(display_answer)
-    letters_total = _total_letters(display_answer)
-    vowels, consonants = _vowel_consonant_counts(display_answer)
-    source_label = _safe_source_label_for_answer(source_type, display_answer)
-
-    return [
-        _as_sentence(
-            f"Core-series Pokémon {source_label}; answer uses {word_count} word{'s' if word_count != 1 else ''} with lengths {lengths}",
-        ),
-        _as_sentence(
-            f"Pokémon {source_label} clue with initials {initials} and {letters_total} total letters",
-        ),
-        _as_sentence(
-            f"Pokémon {source_label} clue: ending letters {endings}; vowels {vowels}, consonants {consonants}",
-        ),
-        _as_sentence(
-            f"Pokémon {source_label} entry with enumeration {lengths}",
-        ),
-        _as_sentence(
-            f"Pokémon {source_label} clue with {word_count} words and {letters_total} letters",
-        ),
-    ]
+    # Structural clue fallbacks produce low-quality surfaces like initials,
+    # letter counts, and vowel/consonant totals. Leave answers below the
+    # target clue count instead of backfilling with those patterns.
+    return []
 
 
 def _clue_key(clue: str) -> str:
@@ -644,7 +622,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--variant-cache-json", type=Path, default=DEFAULT_VARIANT_CACHE_JSON)
     parser.add_argument("--legacy-cache-json", type=Path, default=DEFAULT_LEGACY_CACHE_JSON)
     parser.add_argument("--min-clues-per-answer", type=int, default=3)
-    parser.add_argument("--max-clues-per-answer", type=int, default=5)
+    parser.add_argument("--max-clues-per-answer", type=int, default=3)
     parser.add_argument("--max-fetch", type=int, default=250)
     parser.add_argument("--timeout-seconds", type=float, default=6.0)
     parser.add_argument("--request-delay-seconds", type=float, default=0.2)

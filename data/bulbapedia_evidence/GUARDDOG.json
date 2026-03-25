@@ -1,0 +1,30 @@
+{
+  "answerKey": "GUARDDOG",
+  "answerDisplay": "GUARD DOG",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Guard Dog (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Guard_Dog_(Ability)",
+  "pageId": 277806,
+  "pageRevisionId": 4512532,
+  "leadText": "Guard Dog (Japanese: ばんけん Guard Dog) is an Ability introduced in Generation IX.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability prevents other Pokémon from forcing the Pokémon with this Ability to switch out or flee with a move (e.g. Roar , Circle Throw , etc.) or item ( Red Card ). Guard Dog does not affect the Pokémon switching out manually, or switching out or fleeing with its own move (e.g. Baton Pass , Teleport , etc.) or item ( Eject Button and Eject Pack ). Additionally, if a Pokémon with this ability is affected by Intimidate , its Attack stat will increase by one stage, rather than decreasing by one stage. Outside of battle [ edit | edit source ] Guard Dog has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] This Ability prevents other Pokémon from forcing the Pokémon with this Ability to switch out or flee with a move (e.g. Roar , Circle Throw , etc.) or item ( Red Card ). Guard Dog does not affect the Pokémon switching out manually, or switching out or fleeing with its own move (e.g. Baton Pass , Teleport , etc.) or item ( Eject Button and Eject Pack ). Additionally, if a Pokémon with this ability is affected by Intimidate , its Attack stat will increase by one stage, rather than decreasing by one stage."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Guard-Dog",
+    "Guard Dog",
+    "Guard-Dog (Ability)"
+  ],
+  "updatedAt": 1774214128
+}

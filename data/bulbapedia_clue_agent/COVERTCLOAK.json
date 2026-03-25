@@ -1,0 +1,57 @@
+{
+  "answerKey": "COVERTCLOAK",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4467841,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "specificity": 0.7
+      },
+      {
+        "text": "held items",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen IX held items",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Effect [ edit | edit source ] Pokemon holding a Covert Cloak are unaffected by the additional effects of other Pokemon's damaging moves, including additional effects provided by Poison Touch , Toxic Chain , Stench , King's Rock , and Razor Fang . For example, a Pokemon holding a Covert Cloak cannot be burned by Flamethrower or made to flinch by Fake Out . Covert Cloak has no effect on status moves (such as Thunder Wave or Leech Seed ). It also doesn't prevent additional effects that apply to the user, so for example a Pokemon using Flame Charge will still be able to increase its own Speed even if it hits a target that is holding a Covert Cloak. Notably, as all moves that cause freezing and flinching are attacking moves, Covert Cloak grants effective immunity to these status conditions. Covert Cloak prevents a Pokemon's burn being cured by Sparkling Aria if it is the only target of the attack (even in battles such as Double Battles , as long as there are no other targets of Sparkling Aria); however, if the attack has multiple targets, all targets will be cured on burn even if they are holding a Covert Cloak. This behavior is unique to Sparkling Ariafor example, Covert Cloak prevents a Pokemon from being paralyzed by Discharge regardless of the number of targets. Covert Cloak does not prevent the removal of stat changes by Clear Smog . Covert Cloak does not prevent itself from being removed with Knock Off .",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.46,
+        "specificity_score": 0.68,
+        "style": "category"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "battle item"
+    ],
+    "connections_descriptors": [
+      "Held battle items",
+      "Gen IX items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257937
+}

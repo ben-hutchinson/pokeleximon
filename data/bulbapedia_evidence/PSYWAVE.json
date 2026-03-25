@@ -1,0 +1,37 @@
+{
+  "answerKey": "PSYWAVE",
+  "answerDisplay": "PSYWAVE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Psywave (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Psywave_(move)",
+  "pageId": 3758,
+  "pageRevisionId": 4502781,
+  "leadText": "Psywave (Japanese: サイコウェーブ Psycho Wave) is a damage-dealing Psychic-type move introduced in Generation I. It is TM46 in Generation I. In Generation II, it was the signature move of Misdreavus, but other Pokémon could still inherit it via breeding.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generations III and IV 1.4 Generation V 1.5 Generations VI and VII 1.6 Generation VIII onwards Effect [ edit | edit source ] Generation I [ edit | edit source ] Psywave inflicts a random amount of damage, varying between 1 damage and 1.5× the user's level when used by the player, and between 0 damage and 1.5× the user's level when used by the opponent. If a 0 is generated in a link battle, it causes the games to desynchronize as the target will receive 0 damage on the opponent's game, while the user's side will keep generating pseudorandom numbers until it produces a number between 1 and 1.5× the user's level. Additionally, the game will softlock if a Level 0, 1, or 171 Pokémon uses the move, though Pokémon cannot normally be obtained at these levels without the use of glitches. In Pokémon Stadium , Psywave always deals at least 1 damage. Psywave has an accuracy of 80%. Generation II [ edit | edit source ] Psywave inflicts a random amount of damage, varying between 1 HP and 1.5× the user's level. The damage is always rounded down; however, Psywave will always deal at least 1 HP of damage. Psywave does not take weaknesses or resistances into account, but type immunity is not ignored. Generations III and IV [ edit | edit source ] Psywave inflicts damage equal to ⌊ L e v e l u s e r × ( 1 0 r + 5 0 ) 1 0 0 ⌋ , where r is a random number from 0 to 10. However, if this calculation produces a value of 0, Psywave deals 1 HP of damage instead. Psywave can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Calm Mind was used in the previous turn. Generation V [ edit | edit source ] Psywave inflicts damage equal to ⌊ L e v e l u s e r × ( r + 5 0 ) 1 0 0 ⌋ , where r is a random number from 0 to 100. However, if this calculation produces a value of 0, Psywave deals 1 HP of damage instead. Generations VI and VII [ edit | edit source ] Psywave's accuracy is now 100% instead of 80%. Generation VIII onwards [ edit | edit source ] Psywave cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A Psychic -type attack of varying intensity. It occasionally inflicts heavy damage. G S C An attack with variable power. R S E Colo XD Attacks with a psychic wave of varying intensity. FR LG The foe is attacked with an odd, hot energy wave that varies in intensity. D P Pt HG SS PBR The foe is attacked with an odd, hot energy wave. The attack varies in intensity. B W B2 W2 X Y OR AS S M US UM P E The target is attacked with an odd psychic wave. The attack varies in intensity. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target, even at a distance. The amount of damage depends on the user's level. MD T D S Inflicts damage on the target, even at a distance. The higher the user's level, the greater the damage. B S L はなれたポケモンに ダメージをあたえる じぶんの レベルがたかいほど ダメージが おおきくなりやすい MD GtI Its damage varies. The higher your level, the greater the possible damage. * It damages even a faraway Pokémon. The higher your level, the greater the damage. * S MD Its damage varies. The higher your level, the greater the possible damage. * It damages an enemy. The higher your level, the greater the damage. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation I, Psywave was responsible for two glitches , one of which could desynchronize games connected for a link battle in normal gameplay."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Psywave",
+    "Psywave (move)"
+  ],
+  "updatedAt": 1773326106
+}

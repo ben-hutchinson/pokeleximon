@@ -1,0 +1,17 @@
+{
+  "answerKey": "HEATRAN",
+  "answerDisplay": "HEATRAN",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Fire / Steel type Pokémon introduced in Generation 4.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/heatran",
+  "extract": "Heatran is a Fire / Steel type Pokémon introduced in Generation 4 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211579
+}

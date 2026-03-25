@@ -1,0 +1,16 @@
+{
+  "answerKey": "TERASHELL",
+  "answerDisplay": "TERA SHELL",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen IX ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Tera_Shell_(Ability)",
+  "extract": "Tera Shell (Japanese: テラスシェル Tera Shell) is an Ability introduced during Generation IX, in The Indigo Disk. It is one of the signature Abilities of Terapagos.",
+  "updatedAt": 1774258447
+}

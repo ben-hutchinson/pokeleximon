@@ -1,0 +1,17 @@
+{
+  "answerKey": "BRIDGEMAILT",
+  "answerDisplay": "BRIDGE MAIL T",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this item T, including added effects and where to find it.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/item/bridge-mail-t",
+  "extract": "Mail T, including added effects and where to find it.",
+  "rankPosition": 1,
+  "updatedAt": 1774210760
+}

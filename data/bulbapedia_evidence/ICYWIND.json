@@ -1,0 +1,34 @@
+{
+  "answerKey": "ICYWIND",
+  "answerDisplay": "ICY WIND",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Icy Wind (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Icy_Wind_(move)",
+  "pageId": 3807,
+  "pageRevisionId": 4445444,
+  "leadText": "Icy Wind (Japanese: こごえるかぜ Freezing Wind) is a damage-dealing Ice-type move introduced in Generation II. It is: TM16 in Generation II. TM27 in Pokémon Sword and Shield. TM034 in Pokémon Scarlet and Violet. TM049 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III onwards 1.3 Generation VIII 1.3.1 Pokémon Legends: Arceus 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation II [ edit | edit source ] Icy Wind inflicts damage and has a 255/256 (~99.6%) chance of lowering the target's Speed stat by one stage. Generation III onwards [ edit | edit source ] Icy Wind deals damage to all adjacent opponents and lowers the Speed of hit Pokémon by one stage. Icy Wind can be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if the move Hail was used in the prior turn. Icy Wind is a wind move . Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Special PP 20 Agile Strong Power 60 45 75 Accuracy 95% 95% 100% Action speed modifier Self 0 0 +5 Target +3 +5 +3 Additional effect ? ? ? ? ? ? None Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 55 66 Cooldown 7s Move wind-up time 20 frames Effect duration 8s 11s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 An Ice -type attack. It is guaranteed to reduce the target's Speed if it hits. G S C An icy attack that lowers Speed . R S E Colo XD A chilling attack that lowers the foe's Speed . FR LG A chilling wind is used to attack. It also lowers the Speed stat. D P Pt HG SS PBR The user attacks with a gust of chilled air. It also lowers the target's Speed stat. B W B2 W2 The user attacks with a gust of chilled air. It also reduces the targets' Speed stat. X Y OR AS S M US UM P E The user attacks with a gust of chilled air. This also lowers the opposing Pokémon's Speed stats. Sw Sh BD SP S V The user attacks with a gust of chilled air. This also lowers opposing Pokémon's Speed stats. LA The user attacks with a gust of chilled air. ZA The user attacks with a gust of chilled air. This also makes targets move more slowly for a short time."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target, even at a distance. It also lowers the target's Movement Speed by one level. MD T D S Inflicts damage on the target, even at a distance. It also reduces the target's Movement Speed by 1 level. B S L はなれたポケモンに ダメージをあたえる しかも いどうそくどを １だんかいさげる Conq. Blow an icy gale toward the target. May also reduce the target's Range. MD GtI It damages even a faraway Pokémon. It also lowers the Pokémon's Travel Speed. S MD It damages a Pokémon, even one far away. It also lowers the Pokémon's Travel Speed. MD RT DX It damages a Pokémon, even one far away. It also lowers the target's Travel Speed."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Icy-Wind",
+    "Icy Wind",
+    "Icy-Wind (move)"
+  ],
+  "updatedAt": 1773323831
+}

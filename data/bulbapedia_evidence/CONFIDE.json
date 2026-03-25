@@ -1,0 +1,33 @@
+{
+  "answerKey": "CONFIDE",
+  "answerDisplay": "CONFIDE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Confide (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Confide_(move)",
+  "pageId": 184642,
+  "pageRevisionId": 4403428,
+  "leadText": "Confide (Japanese: ないしょばなし Secret Talk) is a non-damaging Normal-type move introduced in Generation VI. It was TM100 from Generation VI to Pokémon Ultra Sun and Ultra Moon. In Generation IX, it is the signature move of Impidimp's evolutionary line.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Confide lowers the target's Special Attack stat by one stage and bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move (such as Dig or Fly ). Confide can hit Pokémon even if they are behind a substitute. Confide will hit the target even if it has used Protect , Detect , or Spiky Shield , but will be blocked by Crafty Shield . Confide is a sound-based move . If powered up by a Normalium Z into Z-Confide, the user's Special Defense stat rises by one stage. Throat Chop cannot prevent a Pokémon from using Z-Confide."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target's Sp. Atk stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It lowers an enemy's Sp. Atk. * It lowers the enemy's Sp. Atk. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Confide",
+    "Confide (move)"
+  ],
+  "updatedAt": 1773321821
+}

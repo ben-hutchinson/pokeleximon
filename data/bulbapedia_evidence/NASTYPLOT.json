@@ -1,0 +1,34 @@
+{
+  "answerKey": "NASTYPLOT",
+  "answerDisplay": "NASTY PLOT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Nasty Plot (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Nasty_Plot_(move)",
+  "pageId": 12450,
+  "pageRevisionId": 4445351,
+  "leadText": "Nasty Plot (Japanese: わるだくみ Wiles) is a non-damaging Dark-type move introduced in Generation IV. It is: TR68 in Pokémon Sword and Shield. TM63 in Pokémon Brilliant Diamond and Shining Pearl. TM140 in Pokémon Scarlet and Violet. TM083 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Nasty Plot raises the user's Special Attack stat by two stages. Nasty Plot is a part of Contest Spectacular combination and using it will cause Baton Pass and Stored Power to give an extra three appeal points if used in the next turn. If powered up by a Darkinium Z into Z-Nasty Plot, all of the user's lowered stats are reset. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Nasty Plot raises the user's offensive stats for five turns. It also increases the user's action speed . Pokémon Legends: Arceus Category Status PP 20 Agile Strong Power — — — Accuracy —% —% —% Action speed modifier Self -3 -4 +5 Target ? ? ? Additional effect Turns 5 4 7 ? ? ? ? Raises the user's offensive stats Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 15s Move wind-up time 25 frames Effect duration 20s 23s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR B W B2 W2 The user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk. X Y OR AS The user stimulates its brain by thinking bad thoughts. This sharply raises the user's Sp. Atk. S M US UM P E Sw Sh BD SP The user stimulates its brain by thinking bad thoughts. This sharply raises the user's Sp. Atk stat. LA The user stimulates its brain by thinking bad thoughts, raising the user's offensive stats. S V The user stimulates its brain by thinking bad thoughts. This sharply boosts the user's Sp. Atk stat. ZA The user boosts its Sp. Atk stat for a while by thinking bad thoughts to stimulate its brain."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the user's Special Attack by 2 levels. B S L じぶんの とくこうを ２だんかいあげる MD GtI It sharply boosts your Special Attack. (The stat change returns to normal when you go to the next floor or step on a Wonder Tile.) S MD It sharply boosts your Sp. Atk. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Nasty-Plot",
+    "Nasty Plot",
+    "Nasty-Plot (move)"
+  ],
+  "updatedAt": 1773325290
+}

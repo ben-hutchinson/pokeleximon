@@ -1,0 +1,30 @@
+{
+  "answerKey": "BADDYBAD",
+  "answerDisplay": "BADDY BAD",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Baddy Bad (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Baddy_Bad_(move)",
+  "pageId": 233651,
+  "pageRevisionId": 4269831,
+  "leadText": "Baddy Bad (Japanese: わるわるゾーン Bad-Bad Zone) is a damage-dealing Dark-type move introduced during Generation VII, in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. It is one of the signature moves of the partner Eevee.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VII [ edit | edit source ] Baddy Bad deals damage and sets up the effects of the move Reflect on the user's side of the field. Generation VIII onwards [ edit | edit source ] Baddy Bad cannot be selected in battle. However, it has been modified: its power was changed to 80 and its accuracy to 95%."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description P E The user acts bad and attacks the target. A wondrous wall of light is put up to weaken the power of the opposing Pokémon's physical moves. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Baddy-Bad",
+    "Baddy Bad",
+    "Baddy-Bad (move)"
+  ],
+  "updatedAt": 1773320989
+}

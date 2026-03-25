@@ -1,0 +1,116 @@
+{
+  "answerKey": "LIFEORB",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4483216,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "specificity": 0.7
+      },
+      {
+        "text": "held items",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen IV held items",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Held: Holders moves inflict 30% extra damage, but cost 10% max HP.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Species-linked power item",
+        "evidence_ref": "lead",
+        "specificity": 0.68
+      },
+      {
+        "text": "Raises the power",
+        "evidence_ref": "Description",
+        "specificity": 0.82
+      },
+      {
+        "text": "Boosts Moves's stats",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Species-linked power item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.6,
+        "specificity_score": 0.74,
+        "style": "family"
+      },
+      {
+        "text": "Signature battle item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "family"
+      },
+      {
+        "text": "Raises The Power",
+        "evidence_ref": "Description",
+        "mystery_score": 0.62,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Moves Power boost item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Power item for Moves",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Moves-only held item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.46,
+        "specificity_score": 0.68,
+        "style": "category"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "the power booster",
+      "moves item"
+    ],
+    "connections_descriptors": [
+      "Species-linked items",
+      "Held battle items",
+      "Gen IV items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257963
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "TEMPERFLARE",
+  "answerDisplay": "TEMPER FLARE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Temper Flare (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Temper_Flare_(move)",
+  "pageId": 300846,
+  "pageRevisionId": 4424043,
+  "leadText": "Temper Flare (Japanese: やけっぱち Complete Desperation) is a damage-dealing Fire-type move introduced during Generation IX, in The Indigo Disk. It is TM207 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Temper Flare is a damage-dealing move. If, on the previous turn, the user's last move missed, failed to affect each of its targets, or was prevented from being used due to an effect such as paralysis , Temper Flare's power is doubled from 75 to 150. If the user was recharging or any target of the user's last move blocked it with a protection move such as Protect on the previous turn, Temper Flare's base power is not doubled."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V Spurred by desperation, the user attacks the target. This move's power is doubled if the user's previous move failed."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as a TCG attack . Temper Flare's Fire typing is likely thanks to its Japanese name containing やけ yake , meaning 'burn'. Its English name contains a similar pun on 'flare', while its names in other languages generally opt for a portmanteau instead."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Temper-Flare",
+    "Temper Flare",
+    "Temper-Flare (move)"
+  ],
+  "updatedAt": 1773327867
+}

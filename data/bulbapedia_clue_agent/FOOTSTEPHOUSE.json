@@ -1,0 +1,126 @@
+{
+  "answerKey": "FOOTSTEPHOUSE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4509976,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Sinnoh location",
+        "evidence_ref": "lead",
+        "specificity": 0.5
+      },
+      {
+        "text": "house landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "route landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "Site on Route 213",
+        "evidence_ref": "lead",
+        "specificity": 0.86
+      },
+      {
+        "text": "Beach house",
+        "evidence_ref": "lead",
+        "specificity": 0.9
+      },
+      {
+        "text": "Home of the Footprint Ribbon",
+        "evidence_ref": "lead",
+        "specificity": 0.92
+      },
+      {
+        "text": "Ribbon for friendly Pokemon",
+        "evidence_ref": "lead",
+        "specificity": 0.82
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Route 213 beach house",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Beach house landmark",
+        "evidence_ref": "lead",
+        "mystery_score": 0.64,
+        "specificity_score": 0.82,
+        "style": "theme"
+      },
+      {
+        "text": "Home of the Footprint Ribbon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.78,
+        "specificity_score": 0.92,
+        "style": "reward"
+      },
+      {
+        "text": "Footprint Ribbon house",
+        "evidence_ref": "lead",
+        "mystery_score": 0.7,
+        "specificity_score": 0.88,
+        "style": "reward"
+      },
+      {
+        "text": "Ribbon house for friendly Pokemon",
+        "evidence_ref": "lead",
+        "mystery_score": 0.7,
+        "specificity_score": 0.84,
+        "style": "reward"
+      },
+      {
+        "text": "Sinnoh landmark",
+        "evidence_ref": "lead",
+        "mystery_score": 0.38,
+        "specificity_score": 0.5,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Sinnoh house",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.7,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Regional house",
+        "evidence_ref": "lead",
+        "mystery_score": 0.44,
+        "specificity_score": 0.62,
+        "style": "taxonomy"
+      },
+      {
+        "text": "House in Sinnoh",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.66,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "beach house",
+      "ribbon house",
+      "friendship ribbon house"
+    ],
+    "connections_descriptors": [
+      "Beach houses",
+      "Sinnoh landmarks",
+      "Sinnoh houses"
+    ],
+    "risk_flags": [],
+    "confidence": 0.77
+  },
+  "updatedAt": 1774257947
+}

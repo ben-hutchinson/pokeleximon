@@ -1,0 +1,29 @@
+{
+  "answerKey": "SCHOOLING",
+  "answerDisplay": "SCHOOLING",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Schooling (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Schooling_(Ability)",
+  "pageId": 215264,
+  "pageRevisionId": 3899574,
+  "leadText": "Schooling (Japanese: ぎょぐん Schooling) is an Ability introduced in Generation VII. It is the signature Ability of Wishiwashi.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If Wishiwashi is level 20 or higher and its HP is above 25% when it is sent out or at the end of a turn, it will change into its School Form. At the end of a turn, if its HP is equal to 25% or below, it will change back to its Solo Form. Gastro Acid , Worry Seed , and Simple Beam fail if the target has the Ability Schooling. Role Play , Skill Swap , Entrainment , and Doodle fail if either Pokémon has Schooling. Schooling cannot be copied by Trace , Power of Alchemy , or Receiver . Schooling cannot be replaced by Mummy or Lingering Aroma , or suppressed by Core Enforcer or Neutralizing Gas . If a Pokémon other than Wishiwashi obtains Schooling with Imposter or Transform , the Pokémon will not change forms. Outside of battle [ edit | edit source ] Schooling has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] If Wishiwashi is level 20 or higher and its HP is above 25% when it is sent out or at the end of a turn, it will change into its School Form. At the end of a turn, if its HP is equal to 25% or below, it will change back to its Solo Form. Gastro Acid , Worry Seed , and Simple Beam fail if the target has the Ability Schooling. Role Play , Skill Swap , Entrainment , and Doodle fail if either Pokémon has Schooling. Schooling cannot be copied by Trace , Power of Alchemy , or Receiver . Schooling cannot be replaced by Mummy or Lingering Aroma , or suppressed by Core Enforcer or Neutralizing Gas . If a Pokémon other than Wishiwashi obtains Schooling with Imposter or Transform , the Pokémon will not change forms."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Schooling",
+    "Schooling (Ability)"
+  ],
+  "updatedAt": 1773329185
+}

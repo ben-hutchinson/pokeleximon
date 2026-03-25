@@ -1,0 +1,37 @@
+{
+  "answerKey": "OUTRAGE",
+  "answerDisplay": "OUTRAGE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Outrage (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Outrage_(move)",
+  "pageId": 3811,
+  "pageRevisionId": 4493479,
+  "leadText": "Outrage (Japanese: げきりん Imperial Wrath) is a damage-dealing Dragon-type move introduced in Generation II. It is: TM39 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee! TR24 in Pokémon Sword and Shield. TM156 in Pokémon Scarlet and Violet. TM093 in Pokémon Legends: Z-A. Prior to Generation III, it was the signature move of Dratini's evolutionary line, but other Pokémon could still inherit it via breeding.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III 1.3 Generation IV 1.4 Generation V to VII 1.5 Generation VIII 1.5.1 Pokémon Legends: Arceus 1.6 Generation IX 1.6.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation II [ edit | edit source ] Outrage inflicts damage for 2-3 turns, has a base power of 90, and 15 PP . PP is deducted only on the turn Outrage is first called. While the user is using Outrage, it cannot use any other move. After Outrage is finished, the user becomes confused , due to fatigue. If the Outrage duration is disrupted (such as by full paralysis or hurting itself due to confusion ), it will immediately end. The user will only become confused if Outrage is fully executed, without its duration being disrupted. Sleep , freeze , binding , and flinching will pause but not disrupt the duration of Outrage. Generation III [ edit | edit source ] A message is now displayed when the user becomes confused due to fatigue. In battles with multiple opponents, the user selects itself as the target, but hits an adjacent opponent that is selected at random upon each use of the move. Generation IV [ edit | edit source ] The base power of Outrage has been increased to 120. Generation V to VII [ edit | edit source ] Outrage's PP is reduced to 10, and it is disrupted if it is not successful due to missing, sleeping, paralysis, freeze, flinching, or a target that is Protecting or is immune. If a disruption occurs on what would have been the final, confusion-inducing turn of Outrage, the user will always become confused. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Outrage's base power was reduced to 90, and its accuracy to 85%. It no longer continues for multiple turns and confuses the user, and instead the user becomes fixated on using Outrage. Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 90 60 120 Accuracy 85% 85% 95% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect ? ? ? ? ? ? The user becomes fixated Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Outrage inflicts damage once and confuses the user if they successfully execute the move. If the user suffers a flinch during the wind-up, Outrage will go on cooldown but the user will not be confused. Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 120 144 Cooldown 15s Move wind-up time 30 frames Effect duration —s Additional effect — — — Confuses the user after execution"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 An attack that lasts two to three turns. Afterwards, the attacker will become confused. G S C Works 2-3 turns and confuses user. R S E Colo XD A rampage of 2 to 3 turns that confuses the user. FR LG The user thrashes about for two to three turns, then becomes confused. D P Pt HG SS PBR The user rampages and attacks for two to three turns. However, it then becomes confused. B W B2 W2 X Y OR AS The user rampages and attacks for two to three turns. It then becomes confused, however. S M US UM Sw Sh BD SP S V The user rampages and attacks for two to three turns. The user then becomes confused. P E The Pokémon rampages and attacks for two to three turns. It then becomes confused. LA The user attacks by going on a rampage, then becomes fixated on using this move. ZA The user attacks in a furious rampage, then becomes confused."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Hits the target two to five times in succession. However, it also makes the user confused. MD T D S Inflicts damage on the target using 2 to 5 attacks in a single turn. But it also afflicts the user with a Confused status condition, making its movements and attacks go astray. B S L てきポケモンに ２〜５かい ダメージをあたえる しかし じぶんが こんらんじょうたいに なってしまい わざなどを へんなほうこうに くりだしてしまう Conq. The user rampages and attacks two to three times. The user is temporarily immobilized. MD GtI It damages an enemy 2 to 3 times in a row. After that, you'll get the Confused status condition. S MD It damages an enemy 2 to 3 times in a row. After that, you'll get confused."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The Japanese name げきりん (逆鱗) gekirin (\"wrath of one's superior\", literally \"reversed/inverted scale\") may refer to the idiom 逆鱗に触れる gekirin ni fureru (\"to infuriate one's superior\", literally \"to touch the reversed/inverted scale\"), originating in the philosophy written in the Han Feizi . In East Asian mythology, dragons are benevolent and tamable creatures, but possess a specific scale (some sources say, on their chins) which, if moved the opposite way, will incite the dragon's fury no matter how docile they were (to the point of instant destructive death of differing accounts). While also applicable to other creatures within the same pantheon, the philosophy is meant to be parallel to a subject earning the fury of the monarch they've angered, no matter how composed or friendly they were. The Lake of Outrage shares its name with this move in most languages. In French, the lake instead shares its name with the move Twister (Ouragan), likely because the Lake of Rage already shares its name with Outrage in French. In Italian, the lake instead shares its name with the move Dragon Rush (Dragofuria)."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Outrage",
+    "Outrage (move)"
+  ],
+  "updatedAt": 1773325555
+}

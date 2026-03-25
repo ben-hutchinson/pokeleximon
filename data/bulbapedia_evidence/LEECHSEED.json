@@ -1,0 +1,38 @@
+{
+  "answerKey": "LEECHSEED",
+  "answerDisplay": "LEECH SEED",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Leech Seed (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Leech_Seed_(move)",
+  "pageId": 3682,
+  "pageRevisionId": 4500932,
+  "leadText": "Leech Seed (Japanese: やどりぎのタネ Mistletoe Seed) is a non-damaging Grass-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Main article: Seeding Leech Seed plants a seed on the target. Leech Seed is also part of a Contest Spectacular combination , with the user gaining an extra three appeal points if Rototiller was used in the prior turn. If powered up by a Grassium Z into Z-Leech Seed, all of the user's lowered stats are reset. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 12s Move wind-up time 20 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Plants a seed on the target Pok é mon . The seed slowly drains the target's HP for the attacker. Stad2 Plants a seed on the target Pok é mon . It slowly drains the target's HP for the attacker. G S C Steals HP from the foe on every turn. R S E Plants a seed on the foe to steal HP on every turn. FR LG A seed is planted on the foe to steal some HP for the user on every turn. Colo XD Plants a seed on the target to steal HP on every turn. D P Pt HG SS PBR A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V A seed is planted on the target. It steals some HP from the target every turn. ZA The user plants seeds that will slowly but continually absorb HP from targets and restore the user's HP."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts the Leech Seed status on the target. The target's HP is leeched every several turns to restore the user's HP. MD T D S Afflicts the targeted enemy with a Leech Seed status condition. A Pokémon with the Leech Seed status loses some HP every few turns, which restores the user's HP by the same amount. B S L てきポケモンを やどりぎじょうたいにかえる やどりぎじょうたいの てきに いっていターンごとに ダメージをあたえ そのぶんの ＨＰが かいふくする MD GtI It causes the Leech Seed status condition to an enemy. It drains HP out of the enemy in the Leech Seed status condition. S MD MD RT DX It gives an enemy the Leech Seed status condition."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Though Leech Seed cannot affect Grass-type Pokémon in the games, Grass-type Pokémon have been affected in the animated series . Despite the origin of its Japanese name being a parasite that attaches itself to a host plant and absorbs nutrients, Leech Seed cannot affect Grass-type Pokémon."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Leech-Seed",
+    "Leech Seed",
+    "Leech-Seed (move)"
+  ],
+  "updatedAt": 1773324338
+}

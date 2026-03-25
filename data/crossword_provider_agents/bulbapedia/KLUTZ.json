@@ -1,0 +1,16 @@
+{
+  "answerKey": "KLUTZ",
+  "answerDisplay": "KLUTZ",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen IV ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Klutz_(Ability)",
+  "extract": "Klutz (Japanese: ぶきよう Clumsy) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Buneary and Lopunny.",
+  "updatedAt": 1774258443
+}

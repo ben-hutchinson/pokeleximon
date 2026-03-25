@@ -1,0 +1,30 @@
+{
+  "answerKey": "STONEAXE",
+  "answerDisplay": "STONE AXE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Stone Axe (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Stone_Axe_(move)",
+  "pageId": 264763,
+  "pageRevisionId": 4463018,
+  "leadText": "Stone Axe (Japanese: がんせきアックス Stone Axe) is a damage-dealing Rock-type move introduced during Generation VIII, in Pokémon Legends: Arceus. It is the signature move of Kleavor.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Stone Axe inflicts damage and has an increased critical-hit ratio. It also leaves the target with splinters for 4 turns ( Strong Style ), 2 turns ( Agile Style ), or 3 turns (otherwise). Pokémon Legends: Arceus Category Physical PP 15 Agile Strong Power 65 50 80 Accuracy 90% 90% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Turns 3 2 4 Crit. stage +1 +1 +2 ? ? Leaves splinters on the target High critical hit ratio Generation IX [ edit | edit source ] Stone Axe inflicts damage and sets up Stealth Rock on the opposing side of the field. If used by a Pokémon with Sharpness , its power is increased by 50%. It does not have an increased critical-hit ratio."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA The user swings its stone axes at the target, aiming to land a critical hit. Stone splinters left behind by this attack continue to damage the target for several turns. S V The user swings its stone axes at the target, aiming to land a critical hit. Stone splinters left behind by this attack float around the target. * The user swings its stone axes at the target. Stone splinters left behind by this attack float around the target. * ZA The user attacks by swinging its stone axes at targets. Stone splinters left behind by this attack float around the targets."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Stone-Axe",
+    "Stone Axe",
+    "Stone-Axe (move)"
+  ],
+  "updatedAt": 1773327586
+}

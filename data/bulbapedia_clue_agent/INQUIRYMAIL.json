@@ -1,0 +1,72 @@
+{
+  "answerKey": "INQUIRYMAIL",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4481878,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "all mail",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen V all mail",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Lets a Trainer write a message and send it via Pokemon trade.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Mail stationery",
+        "evidence_ref": "lead",
+        "specificity": 0.7
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Mail stationery",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.7,
+        "style": "family"
+      },
+      {
+        "text": "Message-holding stationery",
+        "evidence_ref": "lead",
+        "mystery_score": 0.54,
+        "specificity_score": 0.72,
+        "style": "family"
+      },
+      {
+        "text": "Trainer letter paper",
+        "evidence_ref": "lead",
+        "mystery_score": 0.48,
+        "specificity_score": 0.68,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "trainer mail",
+      "stationery item"
+    ],
+    "connections_descriptors": [
+      "Mail items",
+      "Gen V items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257957
+}

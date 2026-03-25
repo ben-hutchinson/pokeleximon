@@ -1,0 +1,17 @@
+{
+  "answerKey": "CACTURNE",
+  "answerDisplay": "CACTURNE",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Grass / Dark type Pokémon introduced in Generation 3.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/cacturne",
+  "extract": "Cacturne is a Grass / Dark type Pokémon introduced in Generation 3 .",
+  "rankPosition": 1,
+  "updatedAt": 1774210790
+}

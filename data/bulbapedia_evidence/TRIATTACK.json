@@ -1,0 +1,34 @@
+{
+  "answerKey": "TRIATTACK",
+  "answerDisplay": "TRI ATTACK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Tri Attack (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tri_Attack_(move)",
+  "pageId": 3770,
+  "pageRevisionId": 4503909,
+  "leadText": "Tri Attack (Japanese: トライアタック Tri Attack) is a damage-dealing Normal-type move introduced in Generation I. It is: TM49 in Generation I. TM28 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR19 in Pokémon Sword and Shield. TM147 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generation III to V 1.4 Generation VI onwards 1.5 Generation VIII 1.5.1 Pokémon Legends: Arceus Effect [ edit | edit source ] Generation I [ edit | edit source ] Tri Attack inflicts damage and has no secondary effect. Generation II [ edit | edit source ] Tri Attack does damage and has a 20% chance of either paralyzing , freezing , or burning the target. Each ailment has an equal chance of being inflicted. Tri Attack can paralyze Electric types, burn Fire types, and freeze Ice types. Tri Attack has a 1/3 chance of thawing a frozen target. Generation III to V [ edit | edit source ] Tri Attack can no longer burn Fire types or freeze Ice types. Tri Attack can no longer thaw a frozen target. Tri Attack can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Lock-On was used in the previous turn. Generation VI onwards [ edit | edit source ] Tri Attack can no longer paralyze Electric-types due to them now being immune to paralysis. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Special PP 10 Agile Strong Power 80 60 100 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 30% 30% 50% Turns 3 2 4 ? ? Inflicts the target with burn, frostbite, or paralysis"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A Normal -type attack. A triangular field of energy is created and launched at the target. Stad2 A Normal -type attack. A triangular field of energy is created and launched. G S C Fires three kinds of beams at once. R S E Fires three types of beams at the same time. FR LG A simultaneous 3-beam attack that may paralyze, burn, or freeze the foe. Colo XD Fires three beams. May cause BRN , FRZ , or PAR . D P Pt HG SS PBR The user strikes with a simultaneous three-beam attack. May also paralyze, burn, or freeze the target. B W B2 W2 X Y OR AS The user strikes with a simultaneous three-beam attack. May also burn, freeze, or leave the target with paralysis. S M US UM The user strikes with a simultaneous three-beam attack. May also burn, freeze, or paralyze the target. P E Sw Sh BD SP S V The user strikes with a simultaneous three-beam attack. This may also burn, freeze, or paralyze the target. LA The user strikes with a simultaneous three-beam attack. This may also leave the target with a burn, paralysis, or frostbite. ZA The user attacks with three beams. This may also leave targets burned, frozen, or paralyzed."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also cause a burn, paralysis, or leave the target frozen. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Paralysis status condition, a Burn condition, or a Frozen condition. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで まひじょうたい やけどじょうたい こおりじょうたいの どれかにかえる MD GtI It damages an enemy. It could also cause the Paralysis, Burn, or Frozen status condition. S MD It damages an enemy. It could also cause paralysis, cause a burn, or make an enemy frozen."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Tri-Attack",
+    "Tri Attack",
+    "Tri-Attack (move)"
+  ],
+  "updatedAt": 1773328094
+}

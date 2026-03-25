@@ -1,0 +1,30 @@
+{
+  "answerKey": "SHADOWBONE",
+  "answerDisplay": "SHADOW BONE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Bone (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Bone_(move)",
+  "pageId": 218399,
+  "pageRevisionId": 4462169,
+  "leadText": "Shadow Bone (Japanese: シャドーボーン Shadow Bone) is a damage-dealing Ghost-type move introduced in Generation VII. It is one of the signature moves of Alolan Marowak.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VII 1.2 Generation VIII 1.2.1 Pokémon Sword and Shield 1.2.2 Pokémon Brilliant Diamond and Shining Pearl 1.3 Generation IX Effect [ edit | edit source ] Generation VII [ edit | edit source ] Shadow Bone does damage and has a 20% chance of lowering the target's Defense stat by one stage. Generation VIII [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] In Versions 1.0 to 1.1.1 of Pokémon Sword and Shield , Shadow Bone could not be selected in a battle , as no Pokémon available in the game could learn it. Starting with Version 1.2.0, it is usable and functions as it did in the previous generation. Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Shadow Bone cannot be selected in a battle. Generation IX [ edit | edit source ] Shadow Bone cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA S V The user attacks by beating the target with a bone that contains a spirit. This may also lower the target's Defense stat. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. ZA The user attacks by beating targets with a bone in which a spirit resides. This may also lower targets' Defense stats."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Bone",
+    "Shadow Bone",
+    "Shadow-Bone (move)"
+  ],
+  "updatedAt": 1773326827
+}

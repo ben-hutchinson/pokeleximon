@@ -1,0 +1,37 @@
+{
+  "answerKey": "RECYCLE",
+  "answerDisplay": "RECYCLE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Recycle (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Recycle_(move)",
+  "pageId": 3889,
+  "pageRevisionId": 4500933,
+  "leadText": "This article is about the move. For the Item card or Trainer card in the TCG, see Recycle (Fossil 61). Recycle (Japanese: リサイクル Recycle) is a non-damaging Normal-type move introduced in Generation III. It is TM67 in Generation IV and Pokémon Brilliant Diamond and Shining Pearl.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Recycle allows the user to recover a held item (such as a Berry ) that has been previously consumed in battle. Items that were transferred to another Pokémon (such as via Thief ) are not consumed by that process, so cannot be recovered by Recycle simply due to being transferred. Once an item is recovered (including via other effects such as Harvest or Pickup ), it is no longer treated as a consumed item, so it cannot be restored again unless it is consumed again. Recycle cannot recover items that were knocked off . Recycle cannot restore a burst Air Balloon or an item destroyed by Incinerate . Generations III and IV [ edit | edit source ] Recycle allows the user to recover a held item that a Pokémon in its current position had previously consumed during the battle. Recycle fails if the user already has a held item. Consumed items are tracked by position on the field. A Pokémon can recycle an item that was consumed by a different Pokémon, as long as that item was consumed while it was in the user's current position. Each position only tracks one consumed item at a time; if a Pokémon consumes an item, then another Pokémon is switched into that position and consumes another item, the original consumed item is no longer tracked—it cannot be restored, even if the other item is restored. Items consumed by Fling , Natural Gift , Bug Bite , and Pluck can be recovered; they are considered to be consumed in the position of the Pokémon that was holding the item before the move was used. Recycle cannot recover items that were knocked off by Knock Off . (In these generations, knocked-off items remain visible on the summary screen and are restored at the end of the battle.) If a Pokémon has a knocked off item and uses Recycle, it can successfully recover a consumed item (but not the knocked off item), but how this functions varies between generations. In Generation III, if a Pokémon with a knocked-off item uses Recycle, it recovers the consumed item and its knocked-off item is permanently lost (it will not be restored at the end of the battle). Its new item now functions as its held item. If its original held item was Mail , this can cause corruption . In Generation IV, if a Pokémon with a knocked-off item uses Recycle, it recovers the consumed item as its current held item, but it is still listed as holding its knocked-off item on its summary screen. At the end of the battle, its knocked-off item is restored (regardless of what its held item was at the end of the battle). If a Pokémon replaces its knocked-off item in this way, it can use that held item, but Trick and Switcheroo fail if used by or targeting that Pokémon, and its held item cannot be stolen by Thief or Covet (nor can it steal items by using those moves). Bug Bite, Pluck, and Fling all function normally with the recovered item, however. Generation V onwards [ edit | edit source ] Recycle allows the user to recover a held item that the user had previously consumed during the battle. Recycle fails if the user already has a held item. Consumed items are tracked by the Pokémon that consumed them, and are not forgotten even if switched out. A Pokémon may only have one consumed item at a time; if a Pokémon consumes an item, then obtains another and consumes it, the original consumed item cannot be restored, even if the second item is restored and transferred to another Pokémon. Recycle can no longer restore items lost via Bug Bite and Pluck . Recycle can restore the user's Berry if it was consumed via Teatime . Recycle can now be stolen by Snatch . If powered up by a Normalium Z into Z-Recycle, the user's Speed stat rises by two stages, then the move itself will fail after obtaining the Z-Power since it won't be possible to restore its own Z-Crystal."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Recycles a used item for one more use. FR LG A move that recycles a used item for use once more. Colo XD Recycles a used hold item for one more use. D P Pt PBR The user recycles a single-use item that has been used in battle so it can be used again. HG SS The user recycles a held item that has been used in battle so it can be used again. (move) The user recycles a single-use item that has been used in battle so it can be used again. (TM) B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user recycles a held item that has been used in battle so it can be used again."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Repairs the item Used TM and restores it to its original, unused state. MD T D S Repairs TMs designated as a Used TM and restores them so they can be reused. Caution: you can't recycle a Used TM that taught Recycle. B S L わざマシン『しようごマシン』を つかうまえの じょうたいに もどすことが できる ただし わざマシン『リサイクル』は もとに もどせないので きをつけよう！ MD GtI It changes the Plain Seed left over after a Reviver Seed is used up to a different item. S MD It changes a Plain Seed to a different item. * It changes the Plain Seed to a different item. A Plain Seed is what remains after using a Reviver Seed or Tiny Reviver Seed to revive. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation III , the status screen erroneously states that the move has 100% accuracy, even though it targets the user (thus it ignores accuracy and evasion checks)."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Recycle",
+    "Recycle (move)"
+  ],
+  "updatedAt": 1773326293
+}

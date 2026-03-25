@@ -1,0 +1,68 @@
+{
+  "answerKey": "EMBODYASPECT",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4360891,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Embody Aspect (Japanese: Bearing Visage) is an Ability introduced during Generation IX, in The Teal Mask. It is the signature Ability of Terastallized Ogerpon, and has a different effect depending on Ogerpon's form.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Check for other moves/Abilities that can or cannot copy/replace/suppress this Ability. Usual suspects: Simple Beam , Role Play , Entrainment , Trace , Receiver / Power of Alchemy , Lingering Aroma / Mummy . You can discuss this on the talk page. Upon Terastallizing , Ogerpon's Ability will change to Embody Aspect, and one of its stats is raised by one stage, depending on the mask: Teal Mask : Speed Wellspring Mask : Sp. Def Hearthflame Mask : Attack Cornerstone Mask : Defense Outside of battle [ edit | edit source ] Embody Aspect has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Check for other moves/Abilities that can or cannot copy/replace/suppress this Ability. Usual suspects: Simple Beam , Role Play , Entrainment , Trace , Receiver / Power of Alchemy , Lingering Aroma / Mummy . You can discuss this on the talk page. Upon Terastallizing , Ogerpon's Ability will change to Embody Aspect, and one of its stats is raised by one stage, depending on the mask: Teal Mask : Speed Wellspring Mask : Sp. Def Hearthflame Mask : Attack Cornerstone Mask : Defense",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Embody Aspect boosts a particular stat, depending on the form of a Terastallized Ogerpon",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "boosting ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "boosting ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Boosting abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257943
+}

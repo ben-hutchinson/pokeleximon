@@ -1,0 +1,30 @@
+{
+  "answerKey": "WATERPATH",
+  "answerDisplay": "WATER PATH",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Water Path",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Water_Path",
+  "pageId": 20778,
+  "pageRevisionId": 4307337,
+  "leadText": "Water Path (Japanese: みずのさんぽみち Water Promenade) is a route in the Sevii Islands connecting Six Island, Green Path, and Ruin Valley.",
+  "sections": [
+    {
+      "title": "Route description",
+      "text": "Route description [ edit | edit source ] The Ultimate Horn [ edit | edit source ] In a house at the northern end of the route, there is a woman who likes big Heracross and wishes to see the \"Ultimate Horn\". If the player shows her a Heracross, she will measure its size and reward the player with a Nest Ball . After this, she will give away another Nest Ball for each Heracross the player shows her that sets a new size record. The current record is displayed on a chart on the back wall. Heracross can be caught in the nearby Pattern Bush ."
+    },
+    {
+      "title": "The Ultimate Horn",
+      "text": "The Ultimate Horn [ edit | edit source ] In a house at the northern end of the route, there is a woman who likes big Heracross and wishes to see the \"Ultimate Horn\". If the player shows her a Heracross, she will measure its size and reward the player with a Nest Ball . After this, she will give away another Nest Ball for each Heracross the player shows her that sets a new size record. The current record is displayed on a chart on the back wall. Heracross can be caught in the nearby Pattern Bush ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Water-Path",
+    "Water Path",
+    "Water-Path (location)"
+  ],
+  "updatedAt": 1773328415
+}

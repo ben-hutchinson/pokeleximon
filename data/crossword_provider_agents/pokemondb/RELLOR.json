@@ -1,0 +1,17 @@
+{
+  "answerKey": "RELLOR",
+  "answerDisplay": "RELLOR",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Bug type Pokémon introduced in Generation 9.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/rellor",
+  "extract": "Rellor is a Bug type Pokémon introduced in Generation 9 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212580
+}

@@ -1,0 +1,17 @@
+{
+  "answerKey": "OAKSLETTER",
+  "answerDisplay": "OAKS LETTER",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "Details for the Pokémon item Oak.",
+  "score": 57.88,
+  "approved": false,
+  "qualityFlags": [
+    "near_verbatim_source"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/item/oaks-letter",
+  "extract": "Details for the Pokémon item Oak",
+  "rankPosition": 1,
+  "updatedAt": 1774212217
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "SHADOWBLAST",
+  "answerDisplay": "SHADOW BLAST",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Blast (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Blast_(move)",
+  "pageId": 9580,
+  "pageRevisionId": 4431269,
+  "leadText": "Shadow Blast (Japanese: ダークブラスト Dark Blast) is one of several Shadow moves available only in Pokémon XD: Gale of Darkness. Like other Shadow moves, it is forgotten and replaced with another move once the Pokémon is purified. It is the signature move of Shadow Lugia.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Shadow Blast is a Shadow version of Aeroblast . It deals damage and has an increased critical hit ratio. As Shadow Pokémon cannot be traded, and since Pokémon Contests do not exist in Pokémon XD: Gale of Darkness, Shadow Blast cannot be used in Contests."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description XD A wicked blade of air is formed using a shadowy aura."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Despite being based on Aeroblast , Shadow Blast will turn into Psycho Boost upon Shadow Lugia's purification . Although Shadow Blast has the appearance of a special move , it is a physical move because Aeroblast was also a physical move in Generation III . This move is similar in concept to Aeroblast+ , the signature move of Apex Shadow Lugia in Pokémon GO . Both are improved variants of Aeroblast exclusive to a specific individual Shadow Pokémon specimen."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Blast",
+    "Shadow Blast",
+    "Shadow-Blast (move)"
+  ],
+  "updatedAt": 1773326823
+}

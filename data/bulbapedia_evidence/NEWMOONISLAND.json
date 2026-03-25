@@ -1,0 +1,30 @@
+{
+  "answerKey": "NEWMOONISLAND",
+  "answerDisplay": "NEWMOON ISLAND",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Newmoon Island",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Newmoon_Island",
+  "pageId": 61435,
+  "pageRevisionId": 4493222,
+  "leadText": "Newmoon Island (Japanese: 新月島 New Moon Island) is an island located in northwestern Sinnoh. It is home to the Mythical Pokémon Darkrai.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] The island shares a maritime border with Fullmoon Island to the west, and Iron Island to the south. Newmoon Island is a mostly rocky island housing a small grove. The grove contains a puddle in the shape of a circle, with darker-than-usual water, representing the new moon . No wild Pokémon other than Darkrai reside on the island. While nothing of interest remains on the island itself once Darkrai has been caught, it is one of only two entrances to the northwestern portion of the Underground , the other being Fullmoon Island."
+    },
+    {
+      "title": "Event",
+      "text": "Event [ edit | edit source ] To get to the island, the player must have received the Member Card at an event; this allows them to enter the locked inn in Canalave City . Inside, after being put to bed against their will by a mysterious NPC, the player experiences a nightmare and wakes up on Newmoon Island. The player may only leave the island by battling Darkrai in the grove. If the player is defeated, they will return to the most recently visited Pokémon Center as usual. Otherwise, they will reawaken in the inn, the mysterious NPC having disappeared. Regardless of the outcome of the player's first encounter with Darkrai, Sailor Eldritch will subsequently take the player to and from Newmoon Island whenever they like. If the player has yet to catch Darkrai, it will still await them in the grove upon each visit. Alternatively, the player may also re-enter the inn in Canalave City to repeat the nightmare event prior to having caught Darkrai. The player will not be transported back to the inn after battling Darkrai if they traveled to the island via ship."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Newmoon-Island",
+    "Newmoon Island",
+    "Newmoon-Island (location)"
+  ],
+  "updatedAt": 1773329055
+}

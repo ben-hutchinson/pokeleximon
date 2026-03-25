@@ -1,0 +1,56 @@
+{
+  "answerKey": "CONQUEROR",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "domineering trait",
+        "evidence_ref": "title",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Domineering trait",
+        "evidence_ref": "title",
+        "mystery_score": 0.68,
+        "specificity_score": 0.72,
+        "style": "title"
+      },
+      {
+        "text": "Domineering ability",
+        "evidence_ref": "title",
+        "mystery_score": 0.64,
+        "specificity_score": 0.7,
+        "style": "title"
+      },
+      {
+        "text": "Domineering power",
+        "evidence_ref": "title",
+        "mystery_score": 0.6,
+        "specificity_score": 0.68,
+        "style": "title"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "domineering trait"
+    ],
+    "connections_descriptors": [
+      "Domineering abilities",
+      "Gen V abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257936
+}

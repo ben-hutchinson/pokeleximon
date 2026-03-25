@@ -1,0 +1,81 @@
+{
+  "answerKey": "GLUTTONY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4359444,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Gluttony redirects here. For the Ultra Beast codenamed UB Gluttony in Japanese, see Guzzlord (Pokemon). Gluttony (Japanese: Glutton) is an Ability introduced in Generation IV.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD T D S Speeds up the Belly's food consumption. B S L MD GtI When the Pokemon eats or drinks an item, its HP will be restored. * When the Pokemon eats or drinks an item, some HP will be restored, too! * S MD MD RT DX When the Pokemon eats or drinks an item, some HP will be restored, too!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Affected Berries 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Gluttony causes the Pokemon to eat Berries that would normally be eaten at 25% HP or lower to be eaten at 50% HP or lower instead. It has no effect on Berries that activate at other HP thresholds (such as the Oran Berry , which is normally eaten at 50% HP or less) or Berries with non-HP-related trigger conditions (such as the Leppa Berry and Lum Berry ). Affected Berries [ edit | edit source ] In Generation VII , the Berries that may cause confusion , such as the Figy Berry and Mago Berry , are now eaten at 25% HP or less instead of being eaten at 50% HP or less, so are now affected by Gluttony. Berry Generations IV V VI VII VIII IX Figy Berry Wiki Berry Mago Berry Aguav Berry Iapapa Berry Liechi Berry Ganlon Berry Salac Berry Petaya Berry Apicot Berry Lansat Berry Starf Berry Micle Berry Custap Berry Outside of battle [ edit | edit source ] Gluttony has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Gluttony causes the Pokemon to eat Berries that would normally be eaten at 25% HP or lower to be eaten at 50% HP or lower instead. It has no effect on Berries that activate at other HP thresholds (such as the Oran Berry , which is normally eaten at 50% HP or less) or Berries with non-HP-related trigger conditions (such as the Leppa Berry and Lum Berry ). Affected Berries [ edit | edit source ] In Generation VII , the Berries that may cause confusion , such as the Figy Berry and Mago Berry , are now eaten at 25% HP or less instead of being eaten at 50% HP or less, so are now affected by Gluttony. Berry Generations IV V VI VII VIII IX Figy Berry Wiki Berry Mago Berry Aguav Berry Iapapa Berry Liechi Berry Ganlon Berry Salac Berry Petaya Berry Apicot Berry Lansat Berry Starf Berry Micle Berry Custap Berry",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Makes the Pokemon eat any held Berry triggered by low HP below 1/2 its max HP.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "healing ability",
+        "evidence_ref": "Description",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "debuffing ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "debuffing ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Healing abilities",
+      "Debuffing abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257950
+}

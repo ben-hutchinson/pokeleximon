@@ -1,0 +1,38 @@
+{
+  "answerKey": "ECHOEDVOICE",
+  "answerDisplay": "ECHOED VOICE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Echoed Voice (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Echoed_Voice_(move)",
+  "pageId": 117490,
+  "pageRevisionId": 4406108,
+  "leadText": "Echoed Voice (Japanese: エコーボイス Echo Voice) is a damage-dealing Normal-type move introduced in Generation V. It was TM49 from Generation V to Pokémon Ultra Sun and Ultra Moon.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Echoed Voice deals damage. Its base power increases by 40 each consecutive turn it is used, up to a maximum of 200. After reaching its maximum, using it consecutively simply maintains the increased power. However, the power will not increase during a round and will only increase once per round (regardless of how many Pokémon used it). Even if the move misses or fails to inflict damage (e.g. due to being protected against), the base power will still increase as long as the move is executed. The move does not have to be used by the same Pokémon every turn for the power to increase. In Tera Raid Battles , the power does not increase and is always 40 [ 1 ] . Echoed Voice is a sound-based move . Generation V [ edit | edit source ] If used on a Pokémon behind a substitute , it hits that Pokémon's substitute. Generation VI onwards [ edit | edit source ] Echoed Voice can now hit Pokémon even if they are behind a substitute. ↑ https://www.reddit.com/r/PokemonScarletViolet/comments/1kamxwg/psa_echoed_voices_power_does_not_go_up_in/"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS The user attacks the target with an echoing voice. If this move is used every turn, it does greater damage. S M US UM P E Sw Sh BD SP LA The user attacks the target with an echoing voice. If this move is used every turn, its power is increased. S V The user attacks the target with an echoing voice. If this move is used consecutively by any Pokémon, its power is boosted."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It damages enemies. It causes more damage if there is a teammate who last used this move on the same floor. S MD It damages enemies. It causes more damage if it's used in a row. The power also goes up when you and your teammates use it in a row. MD RT DX It damages enemies. It causes more damage if it's used repeatedly. The power also goes up when you use it after a teammate uses it."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Echoed Voice can reach the highest base power of all sound-based moves and the highest base power of all moves with no negative effects on the user, excluding Z-Moves . If used a sufficient amount of turns, its base power will reach 200. This can further be increased by Punk Rock , where it will reach a base power of 260."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Echoed-Voice",
+    "Echoed Voice",
+    "Echoed-Voice (move)"
+  ],
+  "updatedAt": 1773322456
+}

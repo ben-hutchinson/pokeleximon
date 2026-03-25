@@ -1,0 +1,91 @@
+{
+  "answerKey": "SHADOWTAG",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4407389,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Shadow Tag (Japanese: Stepping on Shadows) is an Ability introduced in Generation III. Prior to Generation V, it was the signature Ability of Wynaut and Wobbuffet.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Immobilizes attackers. B S L MD GtI Unavailable S MD Enemy Pokemon next to the Pokemon can't move! It has no effect on Ghost-type Pokemon and Pokemon with the Run Away or Shadow Tag Ability. MD RT DX Enemies next to the Pokemon can't walk. This Ability has no effect on Ghost-type Pokemon and Pokemon with the Run Away or Shadow Tag Ability.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV onward 1.1.2 Generation VI onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Shadow Tag prevents all adjacent opponents from fleeing (including Teleport ) or switching out while the Pokemon with this Ability is on the field. However, if a Pokemon with Shadow Tag switches in, opponents are not prevented from switching out for that turn. Using Baton Pass , U-turn , Volt Switch , Flip Turn , or Parting Shot will still cause the Pokemon to switch out. Having the Ability Run Away or holding a Smoke Ball allows the Pokemon to flee or Teleport, but not switch. If the player does not switch out a fainted Pokemon and instead attempts to flee, they will not be affected by a wild Pokemon with Shadow Tag. Shadow Tag does not affect allies. Generation IV onward [ edit | edit source ] Shadow Tag now makes the Pokemon immune to the effects of other Pokemon's Shadow Tag. Holding a Shed Shell allows the Pokemon to switch out, but not flee or Teleport. Generation VI onward [ edit | edit source ] Ghost-type Pokemon are now immune to Shadow Tag. In Pokemon X and Y , Shadow Tag will not prevent roaming Pokemon from fleeing because they will flee before the battle even starts. Outside of battle [ edit | edit source ] Shadow Tag has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Shadow Tag prevents all adjacent opponents from fleeing (including Teleport ) or switching out while the Pokemon with this Ability is on the field. However, if a Pokemon with Shadow Tag switches in, opponents are not prevented from switching out for that turn. Using Baton Pass , U-turn , Volt Switch , Flip Turn , or Parting Shot will still cause the Pokemon to switch out. Having the Ability Run Away or holding a Smoke Ball allows the Pokemon to flee or Teleport, but not switch. If the player does not switch out a fainted Pokemon and instead attempts to flee, they will not be affected by a wild Pokemon with Shadow Tag. Shadow Tag does not affect allies. Generation IV onward [ edit | edit source ] Shadow Tag now makes the Pokemon immune to the effects of other Pokemon's Shadow Tag. Holding a Shed Shell allows the Pokemon to switch out, but not flee or Teleport. Generation VI onward [ edit | edit source ] Ghost-type Pokemon are now immune to Shadow Tag. In Pokemon X and Y , Shadow Tag will not prevent roaming Pokemon from fleeing because they will flee before the battle even starts.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Prevents opponents from fleeing or switching out.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Prevents escape",
+        "evidence_ref": "Description",
+        "specificity": 0.84
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "switching trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Prevents escape",
+        "evidence_ref": "Description",
+        "mystery_score": 0.76,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Traps opposing Pokemon",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "No-escape battle trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.8,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "switching trait",
+      "battle trap",
+      "escape blocker"
+    ],
+    "connections_descriptors": [
+      "Switching abilities",
+      "Trapping abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258009
+}

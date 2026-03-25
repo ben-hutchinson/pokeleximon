@@ -1,0 +1,34 @@
+{
+  "answerKey": "GRASSYTERRAIN",
+  "answerDisplay": "GRASSY TERRAIN",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Grassy Terrain (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Grassy_Terrain_(move)",
+  "pageId": 184822,
+  "pageRevisionId": 4503307,
+  "leadText": "Grassy Terrain (Japanese: グラスフィールド Grass Field) is a non-damaging Grass-type move introduced in Generation VI. It was TM88 in Pokémon Sword and Shield, and is TM137 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generations VI to VII [ edit | edit source ] Grassy Terrain creates terrain that envelops the field and replaces the background environment and any other terrain that is already in effect. The terrain fades after five turns. This terrain has the following effects on Pokémon that are on the ground and not in the semi-invulnerable turn of a move: It boosts the power of Grass-type moves used by affected Pokémon by 50% (regardless of whether the target of the move is affected by Grassy Terrain). At the end of each turn, the terrain restores the HP of each affected Pokémon by 1/16 of its maximum HP. It causes Floral Healing to restore up to ⅔ of the target's maximum HP instead of the usual ½. The power of Bulldoze , Earthquake , and Magnitude is halved against affected targets (regardless of whether the user of the move is affected by Grassy Terrain). Nature Power becomes Energy Ball . Secret Power uses the animation of Vine Whip and has a 30% chance of causing the target to sleep . Camouflage causes the user to become Grass-type . Natural objects disappear and cannot be destroyed while Grassy Terrain is in effect. When a Pokémon with the Ability Grassy Surge enters battle, Grassy Terrain is automatically created. When a Pokémon with the Ability Grass Pelt enters battle, its Defense stat is boosted by 50%. If a Terrain Extender is held when Grassy Terrain is used, the terrain will last 8 turns instead of 5. If a Pokémon is holding a Grassy Seed while the field is Grassy Terrain, it consumes the Grassy Seed and its Defense is increased by one stage (even if it is not otherwise affected by the terrain). If powered up by a Grassium Z into Z-Grassy Terrain, the user's Defense stat rises by one stage. Generation VIII onwards [ edit | edit source ] Grassy Terrain now: boosts the power of Grass-type moves used by affected Pokémon by 30% instead of the previous 50% changes Terrain Pulse 's type to Grass and doubles its base power from 50 to 100 increases Grassy Glide 's priority by one changes a Pokémon's type to Grass if it has the Ability Mimicry Grassy Terrain is automatically created when Max Overgrowth is used or when a Pokémon with Seed Sower is hit by an attack. Defog , G-Max Wind Rage , Steel Roller and Ice Spinner remove Grassy Terrain and any other terrain upon being used. Steel Roller also fails if Grassy Terrain or other terrains are absent."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS The user turns the ground under everyone's feet to grass for five turns. This restores the HP of Pokémon on the ground a little every turn. S M US UM The user turns the ground to grass for five turns. This restores the HP of Pokémon on the ground a little every turn and powers up Grass type-moves. P E Sw Sh BD SP LA The user turns the ground to grass for five turns. This restores the HP of Pokémon on the ground a little every turn and powers up Grass-type moves. S V The user turns the ground into Grassy Terrain for five turns. This restores the HP of Pokémon on the ground a little every turn and powers up Grass-type moves."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD The power of Grass-type moves goes up. It also speeds up HP recovery. * It changes the floor to the Grassy Terrain, where Grass-type moves become more powerful and HP is naturally restored faster. It also halves damage from moves such as Earthquake, Bulldoze, and Magnitude. But it has no effect on Pokémon in the air. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Grassy-Terrain",
+    "Grassy Terrain",
+    "Grassy-Terrain (move)"
+  ],
+  "updatedAt": 1773323354
+}

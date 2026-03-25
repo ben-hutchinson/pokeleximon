@@ -1,0 +1,38 @@
+{
+  "answerKey": "STEALTHROCK",
+  "answerDisplay": "STEALTH ROCK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Stealth Rock (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Stealth_Rock_(move)",
+  "pageId": 15760,
+  "pageRevisionId": 4462282,
+  "leadText": "Stealth Rock (Japanese: ステルスロック Stealth Rock) is a non-damaging Rock-type move introduced in Generation IV. It is: TM76 in Generation IV and in Pokémon Brilliant Diamond and Shining Pearl. TM56 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR76 in Pokémon Sword and Shield. TM116 in Pokémon Scarlet and Violet. TM037 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation V 1.3 Generation VI onwards 1.4 Generation VIII 1.4.1 Pokémon Legends: Arceus 1.5 Generation IX 1.5.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation IV [ edit | edit source ] Stealth Rock sets an entry hazard around the target Pokémon. Pokémon on the target's field receive damage upon switching in. The amount of damage inflicted upon switching in is affected by the effectiveness of Rock against the target, starting at 1/8 of the target's maximum HP at normal effectiveness. Stealth Rock does not stack. It does not damage Pokémon with the Ability Magic Guard . Rapid Spin removes Stealth Rock from the user's side of the field if it affects its target; Defog removes the effect of Stealth Rock from the target's side of the field if it affects its target. The damage is taken from the victim's maximum HP , and follows: Type effectiveness Damage (Max. HP) 0.25× 3.125% 0.5× 6.25% 1× 12.5% 2× 25% 4× 50% The damage is rounded down, but if the calculation returns zero, it will do 1 HP damage. As Castform transforms after entry hazards take effect, Castform only takes 12.5% damage, regardless of the weather. Generation V [ edit | edit source ] Stealth Rock can now be reflected by Magic Coat . Generation VI onwards [ edit | edit source ] Defog now clears Stealth Rock from both sides. Stealth Rock is unaffected by strong winds . In an Inverse Battle , Stealth Rock uses the inverted weakness and resistance to Rock to calculate damage. Stealth Rock can be used as part of a Contest Spectacular combination , causing Circle Throw , Dragon Tail , Roar , and Whirlwind to give extra three appeal points if used in the next turn. Any Pokémon that appear after calling for help during SOS Battles are subject to Stealth Rock. If powered up by a Rockium Z into Z-Stealth Rock, it will raise the user's Defense stat by one stage. Using G-Max Stonesurge and Stone Axe will set up Stealth Rock on the target's side of the field. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] In Pokémon Legends: Arceus , Stealth Rock is a physical move that deals direct damage with a base power of 40. It also leaves the target with splinters for 4 turns ( Strong Style ), 2 turns ( Agile Style ), or 3 turns (otherwise). Pokémon Legends: Arceus Category Physical PP 20 Agile Strong Power 40 30 50 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Turns 3 2 4 ? ? ? ? Leaves the target with splinters Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Stealth Rock spawns floating stones in front of the user. Enemy Pokémon touching the stones take damage equal to ⌊ R o c k E f f e c t i v e n e s s × M a x H P 8 ⌋ , though not less than 1. Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 10s Move wind-up time 30 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle. B W B2 W2 The user lays a trap of levitating stones around the opponent's team. The trap hurts opponents that switch into battle. X Y OR AS S M US UM P E Sw Sh BD SP The user lays a trap of levitating stones around the opposing team. The trap hurts opposing Pokémon that switch into battle. LA The user launches countless stones at the target. Stone splinters left behind by this attack continue to damage the target for several turns. S V The user lays a trap of levitating stones around the opposing team. The trap damages opposing Pokémon that switch into battle. ZA The user lays a trap of levitating stones in front of itself. The stones will damage opposing Pokémon that touch them."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D Turns the user's tile into a Stealth Rock trap. A Stealth Rock trap inflicts damage on enemies that step on it. MD S Turns the user's tile into a Stealth Rock trap. A Stealth Rock trap is invisible when created and inflicts damage on enemies that step on it. B S L あしもとに わな『ステルスロック』を つくる わな『ステルスロック』を ふんでしまった てきポケモンは ダメージをうける MD GtI S MD It creates a Stealth Rock trap on your tile. * It turns your tile into an invisible Stealth Rock trap. A Stealth Rock trap damages enemies that step on it. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Stealth Rock is the only Rock-type Cool move."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Stealth-Rock",
+    "Stealth Rock",
+    "Stealth-Rock (move)"
+  ],
+  "updatedAt": 1773327545
+}

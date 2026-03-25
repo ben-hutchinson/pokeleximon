@@ -1,0 +1,52 @@
+{
+  "answerKey": "TRANSISTOR",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4481526,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Transistor (Japanese: Transistor) is an Ability introduced during Generation VIII, in The Crown Tundra. It is the signature Ability of Regieleki.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation VIII 1.1.2 Generation IX 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation VIII [ edit | edit source ] If an Electric-type move is used by a Pokemon with this Ability, its Attack or Special Attack stat is multiplied by 1.5 during damage calculation, effectively increasing damage dealt by 50%. Generation IX [ edit | edit source ] The attacking stat multiplier has now been reduced to ~1.3 (5325/4096). Outside of battle [ edit | edit source ] Transistor has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Generation VIII [ edit | edit source ] If an Electric-type move is used by a Pokemon with this Ability, its Attack or Special Attack stat is multiplied by 1.5 during damage calculation, effectively increasing damage dealt by 50%. Generation IX [ edit | edit source ] The attacking stat multiplier has now been reduced to ~1.3 (5325/4096).",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Powers up Electric-type moves.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen VIII ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258027
+}

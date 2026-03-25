@@ -1,0 +1,18 @@
+{
+  "answerKey": "FLYING",
+  "answerDisplay": "FLYING",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "The strengths and weaknesses of the this type type in the Pokémon games, and a list of this type type Pokémon.",
+  "score": 0.0,
+  "approved": false,
+  "qualityFlags": [
+    "long_form",
+    "too_long"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/type/flying",
+  "extract": "The strengths and weaknesses of the Flying type in the Pokémon games, and a list of Flying-type Pokémon.",
+  "rankPosition": 1,
+  "updatedAt": 1774211309
+}

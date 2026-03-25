@@ -1,0 +1,75 @@
+{
+  "answerKey": "RAGEFIST",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4475337,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX Ghost move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Ghost physical move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Effect [ edit | edit source ] This move effect may be in need of research. Reason: When does its power reset in Legends: Z-A? Does its power really stay the same in Rogue Mega Rush You can discuss this on the talk page. Rage Fist inflicts damage. Its power increases by 50 each time the user is hit during the battle by a move that causes direct damage, up to a maximum of 350 (after 6 hits). This includes moves used by either allies or opponents and includes moves that do not actually deplete HP, such as those that activate a Disguise . However, the power of Rage Fist does not increase if the user attacks itself due to confusion , nor does it increase when the user's substitute is struck. Each strike from a multistrike move counts as one hit. Switching out or fainting does not reset the hit counter. Transforming copies the target's hit counter. Other effects [ edit | edit source ] A Primeape that has used Rage Fist (and had PP deducted with each use whenever or not the move dealt damage) at least 20 times evolves into Annihilape when leveled up, or, in Pokemon Legends: Z-A , gains the option to evolve. Extra PP lost through effects such as Pressure does not count as extra uses. In Pokemon Legends: Z-A, Rage Fist does not have to hit Pokemon to evolve Primeape.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "50-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "switching move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Ghost physical move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen IX Ghost move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "50-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "ghost physical move"
+    ],
+    "connections_descriptors": [
+      "Switching moves",
+      "Ghost Physical moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257999
+}

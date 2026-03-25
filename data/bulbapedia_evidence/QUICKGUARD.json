@@ -1,0 +1,34 @@
+{
+  "answerKey": "QUICKGUARD",
+  "answerDisplay": "QUICK GUARD",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Quick Guard (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Quick_Guard_(move)",
+  "pageId": 117456,
+  "pageRevisionId": 4487533,
+  "leadText": "Quick Guard (Japanese: ファストガード Fast Guard) is a non-damaging Fighting-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Main article: Protection Quick Guard protects all Pokémon on the user's side of the field from moves that have increased priority during that turn, such as Quick Attack or Aqua Jet . If the user goes last in the turn, the move will fail. Moves that break protection will remove the effects of Quick Guard; Feint , despite being a priority move, will do full damage and remove the protection. The Ability Unseen Fist allows contact moves to bypass Quick Guard. Status moves that are unaffected by protection are listed here . This primarily applies if they are given priority by an Ability like Prankster . This move has +3 priority , so it will be executed before most other moves. Generation V [ edit | edit source ] The following effects only apply to this generation. The chance that Quick Guard will succeed drops each time the user successfully and consecutively uses Endure , any protection move that only affects the user , Quick Guard, or Wide Guard . Each time, the chance of success is multiplied by 1/2. Quick Guard does not block moves that have been given an increased priority through Prankster that would not usually have one. If a Pokémon uses Feint or Shadow Force to attack its own ally who is protected by Quick Guard, Quick Guard will not be dispelled. Generation VII onwards [ edit | edit source ] If powered up by a Fightinium Z into Z-Quick Guard, the user's Defense stat rises by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user protects itself and its allies from priority moves. If used in succession, its chance of failing rises. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user protects itself and its allies from priority moves."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI You and your teammates in the same room will get the Quick Guard status, which protects you from enemies' distant moves. Its chance of failing rises if you use it multiple times in a row. S MD You and your teammates in the same room will get the Quick Guard status condition, which protects you from faraway enemies' moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Quick-Guard",
+    "Quick Guard",
+    "Quick-Guard (move)"
+  ],
+  "updatedAt": 1773326178
+}

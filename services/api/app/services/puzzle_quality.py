@@ -20,6 +20,13 @@ DISALLOWED_CLUE_PATTERNS = (
     re.compile(r"(?i)\bpok[eé]mon term from pokeapi data\b"),
     re.compile(r"(?i)^location:\s*region\b"),
     re.compile(r"(?i)\b(type|ability|location) entry\b"),
+    re.compile(r"(?i)^core[- ]series pok[eé]mon .*answer uses \d+ word"),
+    re.compile(r"(?i)^pok[eé]mon .* clue with initials [A-Z]+ and \d+ total letters"),
+    re.compile(r"(?i)^pok[eé]mon .* clue: ending letters"),
+    re.compile(r"(?i)^pok[eé]mon .* entry with enumeration"),
+    re.compile(r"(?i)\bvowels\s+\d+\s*,\s*consonants\s+\d+\b"),
+    re.compile(r"(?i)\b\d+\s+total letters\b"),
+    re.compile(r"(?i)\bwith \d+ words? and \d+ letters\b"),
     re.compile(r"[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff]"),
 )
 

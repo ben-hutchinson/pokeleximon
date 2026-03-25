@@ -1,0 +1,34 @@
+{
+  "answerKey": "WHITESMOKE",
+  "answerDisplay": "WHITE SMOKE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "White Smoke (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/White_Smoke_(Ability)",
+  "pageId": 4148,
+  "pageRevisionId": 4469197,
+  "leadText": "White Smoke (Japanese: しろいけむり White Smoke) is an Ability introduced in Generation III. Prior to Generation V and in Generation IX, it is the signature Ability of Torkoal.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.2 Outside of battle 1.2.1 Generation VIII 1.2.2 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] White Smoke prevents stat reduction caused by other Pokémon's moves and Abilities (such as Scary Face and Intimidate ), including Sticky Web . White Smoke does not prevent self-inflicted stat reductions such as from moves like Overheat or Shell Smash . White Smoke only protects from effects that lower stat stages, so it does not prevent stat reduction from items like the Iron Ball , the status conditions paralysis or burn , or the moves Guard Split or Power Split . White Smoke does not prevent stat stages being directly modified by Heart Swap , Guard Swap , Power Swap , Baton Pass , or Topsy-Turvy . It does not prevent Spectral Thief from stealing (i.e., resetting) positive stat changes. This Ability is ignored by moves and Abilities that ignore Abilities, such as Mold Breaker . Outside of battle [ edit | edit source ] From Pokémon Emerald onwards, if a Pokémon with White Smoke is in the first place in the party (even if fainted ), the chance of encountering a wild Pokémon is decreased by 50%. It shares this effect with Quick Feet , Stench and Infiltrator (since Generation VIII ). Generation VIII [ edit | edit source ] In Pokémon Sword and Shield only, this Ability instead decreases the chance of hidden encounters by 87.5%. Generation IX [ edit | edit source ] In Pokémon Scarlet and Violet , this Ability has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] White Smoke prevents stat reduction caused by other Pokémon's moves and Abilities (such as Scary Face and Intimidate ), including Sticky Web . White Smoke does not prevent self-inflicted stat reductions such as from moves like Overheat or Shell Smash . White Smoke only protects from effects that lower stat stages, so it does not prevent stat reduction from items like the Iron Ball , the status conditions paralysis or burn , or the moves Guard Split or Power Split . White Smoke does not prevent stat stages being directly modified by Heart Swap , Guard Swap , Power Swap , Baton Pass , or Topsy-Turvy . It does not prevent Spectral Thief from stealing (i.e., resetting) positive stat changes. This Ability is ignored by moves and Abilities that ignore Abilities, such as Mold Breaker ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Prevents reduction of stats. MD T D S Protects the Pokémon from stat reduction. B S L のうりょくが さがるこうかを うけない MD GtI Unavailable S MD The Pokémon's Attack, Defense, Sp. Atk, Sp. Def, accuracy, and evasiveness won't be lowered! MD RT DX The Pokémon's Attack, Defense, Sp. Atk, Sp. Def, accuracy, and evasiveness won't be lowered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "White-Smoke",
+    "White Smoke",
+    "White-Smoke (Ability)"
+  ],
+  "updatedAt": 1773328495
+}

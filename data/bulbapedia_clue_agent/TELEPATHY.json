@@ -1,0 +1,62 @@
+{
+  "answerKey": "TELEPATHY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4463037,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Telepathy redirects here. For Pokemon who are able to talk telepathically in human language, see Talking Pokemon. Telepathy (Japanese: Telepathy) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD GtI Unavailable S MD The Pokemon reads its teammates' minds and won't take damage from its teammates' moves! For example, even if a teammate uses Earthquake , the Pokemon won't be hit by it!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] A Pokemon with Telepathy avoids damaging moves used by its allies. This includes attacks with multiple targets (such as Discharge ), attacks exclusively targeting an ally with Telepathy (such as Thunderbolt ), and attacks that could potentially heal an ally with Telepathy (such as Pollen Puff and Present ). However, it is unprotected from its allies' status moves (such as Teeter Dance or Confuse Ray ). When Telepathy prevents an attack from hitting, the message \" avoids attacks by its ally Pokemon! \" will be displayed. Outside of battle [ edit | edit source ] Telepathy has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] A Pokemon with Telepathy avoids damaging moves used by its allies. This includes attacks with multiple targets (such as Discharge ), attacks exclusively targeting an ally with Telepathy (such as Thunderbolt ), and attacks that could potentially heal an ally with Telepathy (such as Pollen Puff and Present ). However, it is unprotected from its allies' status moves (such as Teeter Dance or Confuse Ray ). When Telepathy prevents an attack from hitting, the message \" avoids attacks by its ally Pokemon! \" will be displayed.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Protects against friendly Pokemon's damaging moves.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "protective trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "protective trait"
+    ],
+    "connections_descriptors": [
+      "Protective abilities",
+      "Gen V abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258023
+}

@@ -1,0 +1,57 @@
+{
+  "answerKey": "RATTLED",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4472583,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Rattled (Japanese: Jitter) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations V to VII 1.1.2 Generation VIII 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations V to VII [ edit | edit source ] When a Pokemon with this Ability is hit by a Bug -, Dark -, or Ghost-type damaging move, its Speed is increased by one stage. No immunity is granted to these types of moves, however. If a Pokemon with this Ability is hit by a Bug-, Dark-, or Ghost-type multistrike move , each hit activates this Ability. Generation VIII [ edit | edit source ] Rattled now also activates if a Pokemon with this Ability has its stats lowered by Intimidate . Outside of battle [ edit | edit source ] Rattled has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Generations V to VII [ edit | edit source ] When a Pokemon with this Ability is hit by a Bug -, Dark -, or Ghost-type damaging move, its Speed is increased by one stage. No immunity is granted to these types of moves, however. If a Pokemon with this Ability is hit by a Bug-, Dark-, or Ghost-type multistrike move , each hit activates this Ability. Generation VIII [ edit | edit source ] Rattled now also activates if a Pokemon with this Ability has its stats lowered by Intimidate .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Raises Speed one stage upon being hit by a dark, ghost, or bug move.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "boosting trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "boosting trait"
+    ],
+    "connections_descriptors": [
+      "Boosting abilities",
+      "Gen V abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258000
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "FAKEOUT",
+  "answerDisplay": "FAKE OUT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Fake Out (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fake_Out_(move)",
+  "pageId": 3863,
+  "pageRevisionId": 4462207,
+  "leadText": "Fake Out (Japanese: ねこだまし Slap Hands) is a damage-dealing Normal-type move introduced in Generation III. It is TM141 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III 1.2 Generation IV 1.3 Generation V onwards Effect [ edit | edit source ] Generation III [ edit | edit source ] Fake Out inflicts damage and always makes the target flinch , unless it has the Ability Inner Focus or Shield Dust . It has a priority of +1, so is used before all moves that do not have increased priority. Fake Out will fail if not used on the first turn the user is out. In wild battles , it won't fail if the player 's Pokémon tries to escape , but fails to do so due to the Speed difference. Fake Out does not make contact . Fake Out can be used as the first move of a Pokémon Contest combination , causing Arm Thrust , Faint Attack , Knock Off , Seismic Toss , and Vital Throw to score double the normal appeal if used in the next turn. Generation IV [ edit | edit source ] Fake Out now makes contact. Generation V onwards [ edit | edit source ] Fake Out now has +3 priority. In a Rotation Battle , Fake Out can be used on the first turn the Pokémon is rotated in—being out of its Poké Ball but currently rotated out does not affect a Pokémon's ability to use Fake Out. Fake Out will fail if called by Instruct , even if it is the first turn the user is on the field. When used on a Dynamax or Gigantamax Pokémon successfully, Fake Out deals damage but will not make the target flinch. A Pokémon holding a Covert Cloak cannot be made to flinch by Fake Out, as the item blocks the secondary effects of moves, which, in the case of Fake Out, is flinching."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD A 1st-turn, 1st-strike move that causes flinching. FR LG An attack that hits first and causes flinching. Usable only on 1st turn. D P Pt PBR An attack that hits first and makes the target flinch. This move works only on the first turn. HG SS B W B2 W2 X Y OR AS An attack that hits first and makes the target flinch. It only works the first turn the user is in battle. S M US UM P E This attack hits first and makes the target flinch. It only works the first turn the user is in battle. Sw Sh BD SP LA This attack hits first and makes the target flinch. It only works the first turn each time the user enters battle. S V This attack hits first and makes the target flinch. It works only on the first turn each time the user enters battle. ZA The user attacks first to make targets flinch. This move only succeeds if it is used first thing upon the user entering a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also make the target cringe. It reaches up to two tiles ahead. MD T D S Inflicts damage on a target up to 2 tiles away. It may also afflict the targeted enemy with a Cringe status condition, making it incapable of attacking or using moves. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで ひるみじょうたいにかえる ２マスまで とどく MD GtI It damages an enemy. It could also cause the Cringe status, which makes the enemy unable to attack or use moves. It reaches up to 2 tiles away. S MD It damages an enemy. It reaches up to 2 tiles away. It could also make the enemy flinch."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move is the first Generation III move in index number order. The move's Japanese name, ねこだまし Nekodamashi (Slap Hands), refers to a sumo technique where a sumo wrestler, at the start of the bout, claps their hands in front of the opponent's face, causing the opponent to close their eyes. Its wide distribution among catlike Pokémon is likely a play on this name, as it literally translates to fool the cat . Fake Out is tied with Upper Hand for the highest priority of all damage -dealing moves, excluding Pursuit used against a target being switched out and an HP-draining move used by a Pokémon with Triage . Excluding Fling with a King's Rock or Razor Fang , Fake Out and Upper Hand are the only moves with a 100% chance of causing the target to flinch."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fake-Out",
+    "Fake Out",
+    "Fake-Out (move)"
+  ],
+  "updatedAt": 1773322702
+}

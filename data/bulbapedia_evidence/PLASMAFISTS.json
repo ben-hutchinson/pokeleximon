@@ -1,0 +1,30 @@
+{
+  "answerKey": "PLASMAFISTS",
+  "answerDisplay": "PLASMA FISTS",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Plasma Fists (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Plasma_Fists_(move)",
+  "pageId": 226664,
+  "pageRevisionId": 4462165,
+  "leadText": "Plasma Fists (Japanese: プラズマフィスト Plasma Fist) is a damage-dealing Electric-type move introduced during Generation VII, in Pokémon Ultra Sun and Ultra Moon. It is the signature move of Zeraora.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX 1.3 Other effects Effect [ edit | edit source ] Plasma Fists inflicts damage. In the remainder of the current turn, all Normal-type moves will become Electric-type , including status moves . This includes Max Moves , which will turn into Max Lightning (or G-Max Volt Crash or G-Max Stun Shock for Gigantamax Pikachu and Gigantamax Toxtricity , respectively). The type-changing effect is applied after move type-changing Abilities , so it cannot affect an originally Normal-type move used by a Pokémon with Pixilate but can affect an originally Fairy-type move used by a Pokémon with Normalize . Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Plasma Fists cannot be selected in a battle. Generation IX [ edit | edit source ] Plasma Fists cannot be selected in a battle. Other effects [ edit | edit source ] Plasma Fists does not exist in the game data of Pokémon Sun and Moon . As a result, a Pokémon knowing Plasma Fists cannot be traded from Pokémon Ultra Sun and Ultra Moon to Sun and Moon, and if a Pokémon in Pokémon Bank knows the move, it cannot be withdrawn in Pokémon Sun and Moon. In order to be transferred to Pokémon Sun and Moon, the Pokémon must forget Plasma Fists."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description US UM P E Sw Sh LA S V The user attacks with electrically charged fists. This move changes Normal-type moves to Electric-type moves. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. ZA The user attacks with electrically charged fists. This move has a heightened chance of landing a critical hit and may also make targets flinch."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Plasma-Fists",
+    "Plasma Fists",
+    "Plasma-Fists (move)"
+  ],
+  "updatedAt": 1773325847
+}

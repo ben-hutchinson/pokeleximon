@@ -1,0 +1,76 @@
+{
+  "answerKey": "SHIELDSDOWN",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4466072,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Shields Down (Japanese: Limit Shield) is an Ability introduced in Generation VII. It is the signature Ability of Minior.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] At the start of battle or at the end of a turn, if Minior's HP is above half, it will change into its Meteor Form. At the end of the turn, if its HP is below half, it will change back to its core form. While in Meteor Form, Minior cannot be afflicted by non-volatile status conditions or become drowsy due to Yawn . Rest will fail when used by Minior in Meteor Form. If Minior is switched in in its core form while grounded (due to Iron Ball , Gravity , or being Baton Passed Ingrain ), it will be poisoned by Toxic Spikes before Shields Down switches it to Meteor Form. If Minior gets a status condition while in its core form and later changes into Meteor Form, the status condition remains in effect. Gastro Acid , Worry Seed , and Simple Beam fail if the target has the Ability Shields Down. Role Play , Skill Swap , Entrainment , and Doodle fail if either Pokemon has Shields Down. Shields Down cannot be copied by Trace , Power of Alchemy , or Receiver . Shields Down cannot be replaced by Mummy or Lingering Aroma , suppressed by Core Enforcer or Neutralizing Gas , or traded by Wandering Spirit . If a Pokemon other than Minior obtains Shields Down with Imposter or Transform , the Pokemon will not change forms and will not be immune to status conditions (even if it transformed into Meteor Form Minior). Mold Breaker , Turboblaze , and Teravolt have no effect on Shields Down. If a Pokemon with Poison Touch uses Sunsteel Strike or its variations on a Minior in Meteor Form, it will not be poisoned . Outside of battle [ edit | edit source ] Minior is always in its core form outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] At the start of battle or at the end of a turn, if Minior's HP is above half, it will change into its Meteor Form. At the end of the turn, if its HP is below half, it will change back to its core form. While in Meteor Form, Minior cannot be afflicted by non-volatile status conditions or become drowsy due to Yawn . Rest will fail when used by Minior in Meteor Form. If Minior is switched in in its core form while grounded (due to Iron Ball , Gravity , or being Baton Passed Ingrain ), it will be poisoned by Toxic Spikes before Shields Down switches it to Meteor Form. If Minior gets a status condition while in its core form and later changes into Meteor Form, the status condition remains in effect. Gastro Acid , Worry Seed , and Simple Beam fail if the target has the Ability Shields Down. Role Play , Skill Swap , Entrainment , and Doodle fail if either Pokemon has Shields Down. Shields Down cannot be copied by Trace , Power of Alchemy , or Receiver . Shields Down cannot be replaced by Mummy or Lingering Aroma , suppressed by Core Enforcer or Neutralizing Gas , or traded by Wandering Spirit . If a Pokemon other than Minior obtains Shields Down with Imposter or Transform , the Pokemon will not change forms and will not be immune to status conditions (even if it transformed into Meteor Form Minior). Mold Breaker , Turboblaze , and Teravolt have no effect on Shields Down. If a Pokemon with Poison Touch uses Sunsteel Strike or its variations on a Minior in Meteor Form, it will not be poisoned .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Transforms this Minior between Core Form and Meteor Form. Prevents major status ailments and drowsiness while in Meteor Form.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.78,
+        "style": "effect"
+      },
+      {
+        "text": "Prevents major status ailments",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "effect"
+      },
+      {
+        "text": "Ailment-proof trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "status immunity"
+    ],
+    "connections_descriptors": [
+      "Status-blocking abilities",
+      "Gen VII abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258011
+}

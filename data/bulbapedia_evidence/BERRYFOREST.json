@@ -1,0 +1,30 @@
+{
+  "answerKey": "BERRYFOREST",
+  "answerDisplay": "BERRY FOREST",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Berry Forest",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Berry_Forest",
+  "pageId": 16526,
+  "pageRevisionId": 4504026,
+  "leadText": "If you were looking for the location in Pokémon Super Mystery Dungeon, see Berry Forest (Mystery Dungeon). Berry Forest (Japanese: きのみのもり Berry Forest) is a forest located on Three Island at the end of Bond Bridge. It is particularly notable for its regenerating hidden Berries.",
+  "sections": [
+    {
+      "title": "Lostelle",
+      "text": "Lostelle [ edit | edit source ] The player's first encounter with Berry Forest is on a mission from the owner of Two Island 's Joyful Game Corner to find his daughter, Lostelle , who had gone to the forest to pick Berries. She is at the top left corner of the maze, having been scared by a wild Hypno (which is weaker than other wild Hypno in the forest). After the Hypno has been dealt with, she is able to return home."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Locations of the Berries Berry Forest contains many spots where Berries are hidden that will regenerate after being taken. Because Pokémon FireRed and LeafGreen do not implement Pokémon Ruby and Sapphire 's Berry trees, Berry Forest's regenerating Berries make it the only location in Pokémon FireRed and LeafGreen where they may be obtained repeatedly. Because FireRed and LeafGreen do not track time, Berries may regenerate every 1500 steps. Item Location Games Razz Berry Southwest of the first cuttable tree , on a marked square (hidden recurring item ; group A) FR LG Oran Berry Northwest of the first cuttable tree , on a marked square (hidden recurring item ; groups B and C) FR LG Persim Berry Northeast of the ledge near the entrance, on a marked square (hidden recurring item ; groups B and C) FR LG Pinap Berry Northeast of the Oran Berry , on a marked square (hidden recurring item ; groups B and C) FR LG Chesto Berry Northeastern corner of the forest, on a marked square (hidden recurring item ; group A) FR LG Full Heal North of the northernmost body of water FR LG Aspear Berry Northeast of the northernmost body of water, on a marked square (hidden recurring item ; groups B and C) FR LG Rawst Berry Northwest of the Aspear Berry , on a marked square (hidden recurring item ; group A) FR LG Max Ether West of the Rawst Berry FR LG Bluk Berry Southeast of the cuttable tree southwest of the Rawst Berry , on a marked square (hidden recurring item ; groups B and C) FR LG Nanab Berry Northeast of the middle body of water, on a marked square (hidden recurring item ; group A) FR LG Cheri Berry North of the middle body of water, on a marked square (hidden recurring item ; groups B and C) FR LG Wepear Berry North of the middle body of water, on a marked square (hidden recurring item ; groups B and C) FR LG Pecha Berry North of the southernmost body of water, on a marked square (hidden recurring item ; group A) FR LG Max Elixir At the end of the dead-end path southeast of the southernmost body of water (requires Cut and Surf ) FR LG Lum Berry In the northwest area of the forest, on a marked square (hidden recurring item ; group C) FR LG Iapapa Berry Received from Lostelle after saving her FR LG"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Berry-Forest",
+    "Berry Forest",
+    "Berry-Forest (location)"
+  ],
+  "updatedAt": 1774213648
+}

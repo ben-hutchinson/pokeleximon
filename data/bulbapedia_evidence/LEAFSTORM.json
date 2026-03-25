@@ -1,0 +1,38 @@
+{
+  "answerKey": "LEAFSTORM",
+  "answerDisplay": "LEAF STORM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Leaf Storm (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Leaf_Storm_(move)",
+  "pageId": 12736,
+  "pageRevisionId": 4501643,
+  "leadText": "Leaf Storm (Japanese: リーフストーム Leaf Storm) is a damage-dealing Grass-type move introduced in Generation IV. It was TR71 in Pokémon Sword and Shield, and is TM159 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations IV and V 1.2 Generation VI onwards 1.3 Generation VIII 1.3.1 Pokémon Legends: Arceus 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generations IV and V [ edit | edit source ] Leaf Storm's base power is 140. Leaf Storm deals damage, and lowers the user's Special Attack by two stages. Generation VI onwards [ edit | edit source ] Leaf Storm's base power changed from 140 to 130. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Leaf Storm's power has been lowered to 110. It lowers the user's offensive stats for three turns. Pokémon Legends: Arceus Category Special PP 5 Agile Strong Power 110 90 130 Accuracy 90% 90% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Turns 3 3 3 ? ? ? ? Lowers the user's offensive stats Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 130 156 Cooldown 10s Move wind-up time 20 frames Effect duration 30s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat. B W B2 W2 The user whips up a storm of leaves around the target. The attack's recoil harshly reduces the user's Sp. Atk stat. X Y OR AS S M US UM P E Sw Sh BD SP The user whips up a storm of leaves around the target. The attack's recoil harshly lowers the user's Sp. Atk stat. LA The user whips up a storm of leaves around the target. The recoil from this move lowers the user’s offensive stats. S V The user whips up a storm of leaves around the target. The recoil from this move harshly lowers the user's Sp. Atk stat. ZA The user attacks by whipping up a storm of sharp leaves around targets. The recoil will lower the user's Sp. Atk stat for a while."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target, even at a distance, but it also reduces the user's Special Attack by 2 levels. B S L はなれたポケモンに ダメージをあたえるが じぶんの とくこうが ２だんかいさがる Conq. A storm of sharp leaves is whipped up. The move's recoil lowers the user's Attack. MD GtI It damages even a faraway Pokémon, but it also sharply lowers your Special Attack. (The stat change returns to normal when you go to the next floor or step on a Wonder Tile.) S MD It damages a Pokémon, even one far away, but it also sharply lowers your Sp. Atk. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Sandy Cloak Wormadam using Leaf Storm in Black and White Prior to Generation VI, Leaf Storm was the only Grass-type Cute move. In Pokémon Black and White , School Kid Ann on Route 12 has a Sandy Cloak Wormadam that knows Leaf Storm, despite it being a move that Sandy Cloak Wormadam cannot learn by any means ; it is instead learned by Plant Cloak Wormadam. Instead of Leaf Storm, the Sandy Cloak Wormadam should know Fissure ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Leaf-Storm",
+    "Leaf Storm",
+    "Leaf-Storm (move)"
+  ],
+  "updatedAt": 1773324317
+}

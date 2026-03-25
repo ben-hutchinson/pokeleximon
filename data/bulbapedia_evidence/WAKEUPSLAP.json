@@ -1,0 +1,38 @@
+{
+  "answerKey": "WAKEUPSLAP",
+  "answerDisplay": "WAKE UP SLAP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Wake-Up Slap (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Wake-Up_Slap_(move)",
+  "pageId": 13704,
+  "pageRevisionId": 4500952,
+  "leadText": "Wake-Up Slap (Japanese: めざましビンタ Awakening Slap) is a damage-dealing Fighting-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations IV and V 1.2 Generations VI and VII 1.3 Generation VIII onwards Effect [ edit | edit source ] Wake-Up Slap deals damage. If the target is sleeping , this move has double the power and causes the target to wake up. It has also double the power when used on a target with the Comatose Ability . If the target has a substitute , Wake-Up Slap only does normal damage (the power is not doubled and it does not cause the target to wake up). Generations IV and V [ edit | edit source ] The base power of Wake-Up Slap is 60. Generations VI and VII [ edit | edit source ] The base power of Wake-Up Slap increased to 70. Wake-Up Slap can be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if a sleep-inducing status move (except Psycho Shift and Rest ) was used in the prior turn. Generation VIII onwards [ edit | edit source ] Wake-Up Slap cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR This attack inflicts high damage on a sleeping foe. It also wakes the foe up, however. B W B2 W2 This attack inflicts big damage on a sleeping target. It also wakes the target up, however. X Y OR AS S M US UM P E This attack inflicts big damage on a sleeping target. This also wakes the target up, however. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. It boosts the damage if the target has a Sleep status, a Nightmare status, or a Napping status, though such targets will then be awoken. B S L てきポケモンに ダメージをあたえる あいてが すいみんじょうたい あくむじょうたい ねむるじょうたいなら ダメージが おおきくなるが おこしてしまう Conq. This attack inflicts great damage on a sleeping target. It also wakes the target up, however. MD GtI It damages an enemy. It causes more damage if the enemy is in the Sleep, Nightmare, or Napping status, but it will wake the enemy up. S MD It damages an enemy. It causes more damage if the enemy is in the sleep, nightmare, or napping status condition, but it will wake the enemy up."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Shroomish and Tangela can learn this move through breeding, despite lacking visible hands. However, they are evolutionary relatives of Pokémon who have hands."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Wake-Up-Slap",
+    "Wake Up Slap",
+    "Wake-Up-Slap (move)"
+  ],
+  "updatedAt": 1773328385
+}

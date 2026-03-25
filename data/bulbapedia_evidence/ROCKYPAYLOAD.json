@@ -1,0 +1,30 @@
+{
+  "answerKey": "ROCKYPAYLOAD",
+  "answerDisplay": "ROCKY PAYLOAD",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Rocky Payload (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rocky_Payload_(Ability)",
+  "pageId": 277627,
+  "pageRevisionId": 4259074,
+  "leadText": "Rocky Payload (Japanese: いわはこび Rock Transport) is an Ability introduced in Generation IX. It is the signature Ability of Bombirdier.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If a Rock-type move is used by a Pokémon with this Ability, its Attack or Special Attack stat is multiplied by 1.5 during damage calculation, effectively increasing damage dealt by 50%. Outside of battle [ edit | edit source ] Rocky Payload has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] If a Rock-type move is used by a Pokémon with this Ability, its Attack or Special Attack stat is multiplied by 1.5 during damage calculation, effectively increasing damage dealt by 50%."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Rocky-Payload",
+    "Rocky Payload",
+    "Rocky-Payload (Ability)"
+  ],
+  "updatedAt": 1773329159
+}

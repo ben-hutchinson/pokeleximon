@@ -1,0 +1,37 @@
+{
+  "answerKey": "BOUNCE",
+  "answerDisplay": "BOUNCE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Bounce (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bounce_(move)",
+  "pageId": 3951,
+  "pageRevisionId": 4442299,
+  "leadText": "Bounce (Japanese: とびはねる Bounce) is a damage-dealing Flying-type move introduced in Generation III. It was TM52 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III 1.2 Generation IV 1.3 Generation V 1.4 Generation VI 1.5 Generation IX 1.5.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation III [ edit | edit source ] The user bounces up high on the first turn, avoiding most moves. On the second turn, the user slams down onto the target, inflicting damage with a 30% chance of paralyzing it. The user is able to be hit by Gust , Twister , Thunder , and Sky Uppercut during the semi-invulnerable turn of Bounce, and will receive double damage from Gust and Twister. The user may also be hit during the semi-invulnerable turn if it was previously targeted by Lock-On or Mind Reader . Wild Pokémon can be caught during the semi-invulnerable stage of Bounce. Generation IV [ edit | edit source ] A Pokémon in the semi-invulnerable stage of Bounce can also be hit if it is attacked by a Pokémon with No Guard , or has No Guard itself. If the user is hit by Gust or Twister during the semi-invulnerable turn, the move's power will be doubled rather than the damage dealt (resulting in virtually the same effect). It cannot be used if Gravity is in effect. Pokémon can no longer be caught during the semi-invulnerable stage of Bounce. If a Power Herb is held by the user, Bounce can be executed in one turn. Generation V [ edit | edit source ] Bounce can hit non-adjacent opponents in Triple Battles . If the user is hit by Gust or Twister during the semi-invulnerable turn, the damage dealt will be doubled rather than the move's power (resulting in virtually the same effect). Hurricane can hit during the semi-invulnerable stage of Bounce. Smack Down can hit during the semi-invulnerable stage of bounce, and will ground the user if it connects. Generation VI [ edit | edit source ] Thousand Arrows can hit during the semi-vulnerable stage of Bounce. The user will then be knocked down in the same turn after being hit. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] The user cannot be targeted while airborne, granting full immunity to attacks until the user lands. Hurricane , Gust , Twister , and Thunder cannot hit a target that is airborne. Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 85 102 Cooldown 12s Move wind-up time 40 frames Effect duration —s Additional effect Chance 30% — — May paralyze the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Bounces up, then down the next turn. May paralyze. FR LG The user bounces on the foe on the 2nd turn. It may paralyze the foe. D P Pt HG SS PBR The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe. B W B2 W2 The user bounces up high, then drops on the target on the second turn. It may also leave the target with paralysis. X Y OR AS S M US UM P E Sw Sh BD SP LA The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis. S V The user bounces up high on the first turn, then drops onto the target on the next turn. This may also leave the target with paralysis. ZA The user attacks by bouncing up and disappearing into the sky for a short time, then dropping down onto targets. This may also leave targets paralyzed."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Bouncing status, making it attack strongly on the next turn. It may also cause paralysis. It is not possible to link this move. MD T D Gives the user a Bouncing status, which makes the user bounce up for 1 turn, then try a powerful attack on the next turn. It may also afflict the targeted enemy with a Paralysis status condition. You can't link this move. MD S Gives the user a Bouncing status, which makes the user bounce up for 1 turn, then try a powerful attack on the next turn. It may also afflict the targeted enemy with a Paralysis status condition. You can't link the Bounce move. B S L とびはねじょうたいになり ちからをため つぎのこうどうで いりょくのたかい こうげきを くりだす いっていの かくりつで まひじょうたいにかえる このわざは ポケモンタワーでは くりだせない MD GtI You soar, then strike your enemy on the second turn. You evade items or moves while you're in the air. It could also cause the Paralysis status condition to the enemy. S MD You get the bouncing status condition. You soar and then strike your enemy on the next turn. While airborne, you'll evade items and moves. It could also inflict paralysis on the enemy."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Bounce is the only Flying-type move that can cause paralysis . Despite being a Flying-type move, no Flying-type Pokémon could learn Bounce in its debut generation ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Bounce",
+    "Bounce (move)"
+  ],
+  "updatedAt": 1773321312
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "SPECTRALTHIEF",
+  "answerDisplay": "SPECTRAL THIEF",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Spectral Thief (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Spectral_Thief_(move)",
+  "pageId": 218431,
+  "pageRevisionId": 4480941,
+  "leadText": "Spectral Thief (Japanese: シャドースチール Shadow Steal) is a damage-dealing Ghost-type move introduced in Generation VII. It is the signature move of Marshadow. It can be upgraded to the special Z-Move Soul-Stealing 7-Star Strike by Marshadow holding Marshadium Z.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX 1.2.1 Pokémon Scarlet and Violet Effect [ edit | edit source ] Spectral Thief deals damage. If successful, it also steals the target's positive stat stages (if any) immediately before dealing damage. Spectral Thief bypasses substitutes , and can successfully steal stat boosts from the boss of a Max Raid Battle even if it currently has a shield up. If the target has an Ability such as Clear Body , White Smoke , or Hyper Cutter that normally prevents some or all of its stats from being lowered, Spectral Thief can still steal boosts in those stats. Spectral Thief will steal all positive stat stages; even if the sum of the user's existing stat stages and the target's stat stages exceeds +6 in a stat, as long as the target's stat stages are positive, they will be reduced to 0. If the user has the Ability Simple , then the stolen stat stages will be doubled; if the user has the Ability Contrary , then the stat boosts will become stat drops when stolen. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Spectral Thief cannot be selected in a battle. Generation IX [ edit | edit source ] Pokémon Scarlet and Violet [ edit | edit source ] Spectral Thief cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA S V The user hides in the target's shadow, steals the target's stat boosts, and then attacks. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. ZA The user attacks by hiding itself in a target's shadow, stealing any stat boosts the target has, and then striking."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] If Battle Effects are turned off, Spectral Thief will still display one if it steals any stat boosts."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Spectral-Thief",
+    "Spectral Thief",
+    "Spectral-Thief (move)"
+  ],
+  "updatedAt": 1773327412
+}

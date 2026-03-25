@@ -1,0 +1,38 @@
+{
+  "answerKey": "ROLEPLAY",
+  "answerDisplay": "ROLE PLAY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Role Play (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Role_Play_(move)",
+  "pageId": 3883,
+  "pageRevisionId": 4402652,
+  "leadText": "Role Play (Japanese: なりきり Change Appearance) is a non-damaging Psychic-type move introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Role Play replaces the user's Ability with the target's Ability. Role Play bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . It is not affected by Protect , Detect , or Spiky Shield , but will fail if the target is protected by Crafty Shield . Role Play fails if the target's Ability is Trace (Generation V onward), Wonder Guard , Forecast (Generation V onward), Flower Gift (Generation V onward), Multitype , Illusion , Zen Mode , Imposter , Stance Change , Power of Alchemy , Receiver , Schooling , Comatose , Shields Down , Disguise , RKS System , Power Construct , Battle Bond , Ice Face , Gulp Missile , Neutralizing Gas , Zero to Hero , Commander , Quark Drive , or Protosynthesis . Role Play fails if the user's Ability is Multitype , Zen Mode , Stance Change , Schooling , Comatose , Shields Down , Disguise , RKS System , Power Construct , Battle Bond , Ice Face , Gulp Missile , Zero to Hero , or Commander . If the user is under the effect of Illusion , using Role Play will cause its illusion to wear off. If the user has changed form due to Forecast , it will change back to its original form upon the successful use of the move. Generations III and IV [ edit | edit source ] If the target has the same Ability as the user, Role Play will succeed, but Abilities such as Intimidate that activate when they are gained will not activate at this time. Generation V onwards [ edit | edit source ] Role Play now displays the Ability the user had before using Role Play. Role Play now fails if the target has the same Ability as the user. If powered up by a Psychium Z into Z-Role Play, the user's Speed stat is raised by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Mimics the target and copies its special ability. FR LG The user mimics the foe completely and copies the foe's ability. D P Pt HG SS PBR The user mimics the foe completely, copying the foe's natural ability. B W B2 W2 X Y OR AS S M US UM P E The user mimics the target completely, copying the target's natural Ability. Sw Sh BD SP LA S V The user mimics the target completely, copying the target's Ability."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Copies the target's Special Ability. The user regains its own Special Ability when it leaves the floor. MD T D S Copies the target's ability. The user regains its usual ability when it leaves the floor. B S L てきポケモンの とくせいを コピーして じぶんの とくせいにする つぎのフロアにいくと もとの とくせいに もどる MD GtI S MD MD RT DX It copies the Ability of a Pokémon in front of you. You regain your usual Ability when you go to the next floor."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation III , the status screen erroneously states that the move has 100% accuracy, even though it ignores accuracy and evasion checks."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Role-Play",
+    "Role Play",
+    "Role-Play (move)"
+  ],
+  "updatedAt": 1773326492
+}

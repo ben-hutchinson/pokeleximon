@@ -1,44 +1,2087 @@
 {
   "rules": [
     {
-      "id": "species",
-      "title": "Pokemon species",
-      "sourceType": "pokemon-species",
+      "id": "gen-i-rock-ground-species",
+      "title": "Gen I Rock/Ground species",
+      "labels": [
+        "GEODUDE",
+        "GOLEM",
+        "GRAVELER",
+        "ONIX"
+      ],
       "minLength": 4,
       "maxLength": 14
     },
     {
-      "id": "moves",
-      "title": "Pokemon moves",
-      "sourceType": "move",
+      "id": "gen-ii-fire-species",
+      "title": "Gen II Fire species",
+      "labels": [
+        "CYNDAQUIL",
+        "QUILAVA",
+        "SLUGMA",
+        "TYPHLOSION"
+      ],
       "minLength": 4,
       "maxLength": 14
     },
     {
-      "id": "abilities",
-      "title": "Pokemon abilities",
-      "sourceType": "ability",
+      "id": "gen-iii-electric-species",
+      "title": "Gen III Electric species",
+      "labels": [
+        "ELECTRIKE",
+        "MANECTRIC",
+        "MINUN",
+        "PLUSLE"
+      ],
       "minLength": 4,
       "maxLength": 14
     },
     {
-      "id": "items",
-      "title": "Pokemon items",
-      "sourceType": "item",
+      "id": "gen-iii-ghost-species",
+      "title": "Gen III Ghost species",
+      "labels": [
+        "BANETTE",
+        "DUSCLOPS",
+        "DUSKULL",
+        "SHUPPET"
+      ],
       "minLength": 4,
       "maxLength": 14
     },
     {
-      "id": "locations",
-      "title": "Pokemon locations",
-      "sourceType": "location",
+      "id": "gen-iii-water-ground-species",
+      "title": "Gen III Water/Ground species",
+      "labels": [
+        "BARBOACH",
+        "MARSHTOMP",
+        "SWAMPERT",
+        "WHISCASH"
+      ],
       "minLength": 4,
       "maxLength": 14
     },
     {
-      "id": "types",
-      "title": "Pokemon types",
-      "sourceType": "type",
+      "id": "gen-iv-bug-species",
+      "title": "Gen IV Bug species",
+      "labels": [
+        "BURMY",
+        "KRICKETOT",
+        "KRICKETUNE",
+        "WORMADAM"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-iv-bug-flying-species",
+      "title": "Gen IV Bug/Flying species",
+      "labels": [
+        "COMBEE",
+        "MOTHIM",
+        "VESPIQUEN",
+        "YANMEGA"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-iv-normal-flying-species",
+      "title": "Gen IV Normal/Flying species",
+      "labels": [
+        "CHATOT",
+        "STARAPTOR",
+        "STARAVIA",
+        "STARLY"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-ix-bug-species",
+      "title": "Gen IX Bug species",
+      "labels": [
+        "NYMBLE",
+        "RELLOR",
+        "SPIDOPS",
+        "TAROUNTULA"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-ix-rock-species",
+      "title": "Gen IX Rock species",
+      "labels": [
+        "GARGANACL",
+        "KLAWF",
+        "NACLI",
+        "NACLSTACK"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-v-dark-species",
+      "title": "Gen V Dark species",
+      "labels": [
+        "LIEPARD",
+        "PURRLOIN",
+        "ZOROARK",
+        "ZORUA"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-v-dragon-species",
+      "title": "Gen V Dragon species",
+      "labels": [
+        "AXEW",
+        "DRUDDIGON",
+        "FRAXURE",
+        "HAXORUS"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-v-normal-flying-species",
+      "title": "Gen V Normal/Flying species",
+      "labels": [
+        "BRAVIARY",
+        "PIDOVE",
+        "RUFFLET",
+        "TRANQUILL"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-vi-ghost-grass-species",
+      "title": "Gen VI Ghost/Grass species",
+      "labels": [
+        "GOURGEIST",
+        "PHANTUMP",
+        "PUMPKABOO",
+        "TREVENANT"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-vi-grass-species",
+      "title": "Gen VI Grass species",
+      "labels": [
+        "CHESPIN",
+        "GOGOAT",
+        "QUILLADIN",
+        "SKIDDO"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-vi-water-species",
+      "title": "Gen VI Water species",
+      "labels": [
+        "CLAUNCHER",
+        "CLAWITZER",
+        "FROAKIE",
+        "FROGADIER"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-vii-water-species",
+      "title": "Gen VII Water species",
+      "labels": [
+        "BRIONNE",
+        "POPPLIO",
+        "PYUKUMUKU",
+        "WISHIWASHI"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-viii-fighting-species",
+      "title": "Gen VIII Fighting species",
+      "labels": [
+        "CLOBBOPUS",
+        "FALINKS",
+        "GRAPPLOCT",
+        "SIRFETCHD"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-viii-normal-species",
+      "title": "Gen VIII Normal species",
+      "labels": [
+        "DUBWOOL",
+        "GREEDENT",
+        "SKWOVET",
+        "WOOLOO"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "fairy-physical-moves",
+      "title": "Fairy Physical moves",
+      "labels": [
+        "MAGICAL TORQUE",
+        "MAX STARFALL",
+        "PLAY ROUGH",
+        "SPIRIT BREAK"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "hidden-ability-items",
+      "title": "Hidden Ability items",
+      "labels": [
+        "ABILITY PATCH",
+        "DEVON SCOPE",
+        "POKE RADAR",
+        "RAGE CANDY BAR"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "miracle-shooter-items",
+      "title": "Miracle Shooter items",
+      "labels": [
+        "ABILITY URGE",
+        "ITEM DROP",
+        "ITEM URGE",
+        "RESET URGE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "tiny-bird-pokemon",
+      "title": "Tiny Bird Pokemon",
+      "labels": [
+        "NATU",
+        "PIDGEY",
+        "ROOKIDEE",
+        "SPEAROW"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "ability-changing-items",
+      "title": "Ability-changing items",
+      "labels": [
+        "ABILITY PATCH",
+        "DEVON SCOPE",
+        "POKE RADAR",
+        "RAGE CANDY BAR"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "alola-caves",
+      "title": "Alola caves",
+      "labels": [
+        "PONI MEADOW",
+        "SANDY CAVE",
+        "SEAWARD CAVE",
+        "VERDANT CAVERN"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "alola-islands",
+      "title": "Alola islands",
+      "labels": [
+        "HANO BEACH",
+        "PONI COAST",
+        "PONI GAUNTLET",
+        "PONI GROVE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "alola-towns",
+      "title": "Alola towns",
+      "labels": [
+        "MAHALO TRAIL",
+        "PANIOLA",
+        "PANIOLA RANCH",
+        "SHADY HOUSE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "bagworm-pokemon",
+      "title": "Bagworm Pokemon",
+      "labels": [
+        "BURMY",
+        "FORRETRESS",
+        "PINECO",
+        "WORMADAM"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "bat-pokemon",
+      "title": "Bat Pokemon",
+      "labels": [
+        "CROBAT",
+        "GOLBAT",
+        "WOOBAT",
+        "ZUBAT"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "boosting-items",
+      "title": "Boosting items",
+      "labels": [
+        "GUARD SPEC",
+        "HP UP",
+        "PP MAX",
+        "PP UP"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "coal-pokemon",
+      "title": "Coal Pokemon",
+      "labels": [
+        "CARKOL",
+        "COALOSSAL",
+        "ROLYCOLY",
+        "TORKOAL"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "cocoon-pokemon",
+      "title": "Cocoon Pokemon",
+      "labels": [
+        "CASCOON",
+        "KAKUNA",
+        "METAPOD",
+        "SILCOON"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "drill-pokemon",
+      "title": "Drill Pokemon",
+      "labels": [
+        "NIDOKING",
+        "NIDOQUEEN",
+        "RHYDON",
+        "RHYPERIOR"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "flame-pokemon",
+      "title": "Flame Pokemon",
+      "labels": [
+        "CHARIZARD",
+        "CHARMELEON",
+        "FLAREON",
+        "INFERNAPE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "fruit-pokemon",
+      "title": "Fruit Pokemon",
+      "labels": [
+        "BOUNSWEET",
+        "STEENEE",
+        "TROPIUS",
+        "TSAREENA"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "hisui-caves",
+      "title": "Hisui caves",
+      "labels": [
+        "ICEPEAK CAVERN",
+        "MOONVIEW ARENA",
+        "SEASIDE HOLLOW",
+        "WAYWARD WOOD"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "hisui-islands",
+      "title": "Hisui islands",
+      "labels": [
+        "DEERTRACK PATH",
+        "MOLTEN ARENA",
+        "RAMANAS ISLAND",
+        "SEAGRASS HAVEN"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "rabbit-pokemon",
+      "title": "Rabbit Pokemon",
+      "labels": [
+        "BUNEARY",
+        "LOPUNNY",
+        "RABOOT",
+        "SCORBUNNY"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "seed-pokemon",
+      "title": "Seed Pokemon",
+      "labels": [
+        "BULBASAUR",
+        "IVYSAUR",
+        "SUNKERN",
+        "VENUSAUR"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "spelunking-items",
+      "title": "Spelunking Items",
+      "labels": [
+        "FLUFFY TAIL",
+        "MAX LURE",
+        "POKE TOY",
+        "SUPER LURE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "tadpole-pokemon",
+      "title": "Tadpole Pokemon",
+      "labels": [
+        "POLIWAG",
+        "POLIWHIRL",
+        "POLIWRATH",
+        "TYMPOLE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-i-bug-poison-species",
+      "title": "Gen I Bug/Poison species",
+      "labels": [
+        "BEEDRILL",
+        "KAKUNA",
+        "VENOMOTH",
+        "VENONAT",
+        "WEEDLE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-i-psychic-species",
+      "title": "Gen I Psychic species",
+      "labels": [
+        "ABRA",
+        "ALAKAZAM",
+        "DROWZEE",
+        "HYPNO",
+        "KADABRA"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-iii-bug-species",
+      "title": "Gen III Bug species",
+      "labels": [
+        "CASCOON",
+        "ILLUMISE",
+        "SILCOON",
+        "VOLBEAT",
+        "WURMPLE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-iv-electric-species",
+      "title": "Gen IV Electric species",
+      "labels": [
+        "ELECTIVIRE",
+        "LUXIO",
+        "LUXRAY",
+        "PACHIRISU",
+        "SHINX"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-ix-normal-species",
+      "title": "Gen IX Normal species",
+      "labels": [
+        "DUDUNSPARCE",
+        "LECHONK",
+        "MAUSHOLD",
+        "OINKOLOGNE",
+        "TANDEMAUS"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-v-electric-species",
+      "title": "Gen V Electric species",
+      "labels": [
+        "BLITZLE",
+        "EELEKTRIK",
+        "EELEKTROSS",
+        "TYNAMO",
+        "ZEBSTRIKA"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-vii-grass-species",
+      "title": "Gen VII Grass species",
+      "labels": [
+        "BOUNSWEET",
+        "FOMANTIS",
+        "LURANTIS",
+        "STEENEE",
+        "TSAREENA"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-viii-grass-species",
+      "title": "Gen VIII Grass species",
+      "labels": [
+        "ELDEGOSS",
+        "GOSSIFLEUR",
+        "GROOKEY",
+        "RILLABOOM",
+        "THWACKEY"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "fighting-special-moves",
+      "title": "Fighting Special moves",
+      "labels": [
+        "AURA SPHERE",
+        "FINAL GAMBIT",
+        "FOCUS BLAST",
+        "SECRET SWORD",
+        "VACUUM WAVE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "flying-status-moves",
+      "title": "Flying Status moves",
+      "labels": [
+        "DEFOG",
+        "FEATHER DANCE",
+        "MIRROR MOVE",
+        "ROOST",
+        "TAILWIND"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "ground-special-moves",
+      "title": "Ground Special moves",
+      "labels": [
+        "EARTH POWER",
+        "MUD BOMB",
+        "MUD SHOT",
+        "MUD SLAP",
+        "SANDSEAR STORM"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "ground-status-moves",
+      "title": "Ground Status moves",
+      "labels": [
+        "MUD SPORT",
+        "ROTOTILLER",
+        "SAND ATTACK",
+        "SHORE UP",
+        "SPIKES"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "ice-status-moves",
+      "title": "Ice Status moves",
+      "labels": [
+        "AURORA VEIL",
+        "HAIL",
+        "HAZE",
+        "MIST",
+        "SNOWSCAPE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "poison-pin-pokemon",
+      "title": "Poison Pin Pokemon",
+      "labels": [
+        "NIDORAN F",
+        "NIDORAN M",
+        "NIDORINA",
+        "NIDORINO",
+        "POIPOLE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "rock-status-moves",
+      "title": "Rock Status moves",
+      "labels": [
+        "ROCK POLISH",
+        "SANDSTORM",
+        "STEALTH ROCK",
+        "TAR SHOT",
+        "WIDE GUARD"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "shadow-physical-moves",
+      "title": "Shadow Physical moves",
+      "labels": [
+        "SHADOW BLAST",
+        "SHADOW BLITZ",
+        "SHADOW BREAK",
+        "SHADOW END",
+        "SHADOW RUSH"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "flinch-causing-abilities",
+      "title": "Flinch-Causing abilities",
+      "labels": [
+        "INNER FOCUS",
+        "PICKPOCKET",
+        "STEADFAST",
+        "STENCH",
+        "THRUST"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "fossil-pokemon",
+      "title": "Fossil Pokemon",
+      "labels": [
+        "AERODACTYL",
+        "ARCTOVISH",
+        "ARCTOZOLT",
+        "DRACOVISH",
+        "DRACOZOLT"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "healing-items",
+      "title": "Healing items",
+      "labels": [
+        "ELIXIR",
+        "MAX ELIXIR",
+        "MAX ETHER",
+        "ROTO HP RESTORE",
+        "ROTO PP RESTORE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "hoenn-caves",
+      "title": "Hoenn caves",
+      "labels": [
+        "ARTISAN CAVE",
+        "ISLAND CAVE",
+        "MARINE CAVE",
+        "MIRAGE CAVE",
+        "TERRA CAVE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "kanto-routes",
+      "title": "Kanto routes",
+      "labels": [
+        "GREEN PATH",
+        "OUTCAST ISLAND",
+        "RUIN VALLEY",
+        "SEVAULT CANYON",
+        "WATER PATH"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "mushroom-pokemon",
+      "title": "Mushroom Pokemon",
+      "labels": [
+        "BRELOOM",
+        "FOONGUS",
+        "PARAS",
+        "PARASECT",
+        "SHROOMISH"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "paldea-citys",
+      "title": "Paldea citys",
+      "labels": [
+        "ASADO DESERT",
+        "CASCARRAFA",
+        "CENTRAL PLAZA",
+        "LEVINCIA",
+        "MESAGOZA"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "puppy-pokemon",
+      "title": "Puppy Pokemon",
+      "labels": [
+        "FIDOUGH",
+        "GROWLITHE",
+        "LILLIPUP",
+        "ROCKRUFF",
+        "YAMPER"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-i-electric-species",
+      "title": "Gen I Electric species",
+      "labels": [
+        "ELECTABUZZ",
+        "ELECTRODE",
+        "JOLTEON",
+        "PIKACHU",
+        "RAICHU",
+        "VOLTORB"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-i-ground-species",
+      "title": "Gen I Ground species",
+      "labels": [
+        "CUBONE",
+        "DIGLETT",
+        "DUGTRIO",
+        "MAROWAK",
+        "SANDSHREW",
+        "SANDSLASH"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-ii-grass-species",
+      "title": "Gen II Grass species",
+      "labels": [
+        "BAYLEEF",
+        "BELLOSSOM",
+        "CHIKORITA",
+        "MEGANIUM",
+        "SUNFLORA",
+        "SUNKERN"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-ii-water-species",
+      "title": "Gen II Water species",
+      "labels": [
+        "CROCONAW",
+        "FERALIGATR",
+        "OCTILLERY",
+        "POLITOED",
+        "REMORAID",
+        "TOTODILE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-iii-grass-species",
+      "title": "Gen III Grass species",
+      "labels": [
+        "CACNEA",
+        "GROVYLE",
+        "SCEPTILE",
+        "SEEDOT",
+        "SHROOMISH",
+        "TREECKO"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-v-fire-species",
+      "title": "Gen V Fire species",
+      "labels": [
+        "DARMANITAN",
+        "DARUMAKA",
+        "HEATMOR",
+        "PANSEAR",
+        "SIMISEAR",
+        "TEPIG"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-v-ice-species",
+      "title": "Gen V Ice species",
+      "labels": [
+        "BEARTIC",
+        "CRYOGONAL",
+        "CUBCHOO",
+        "VANILLISH",
+        "VANILLITE",
+        "VANILLUXE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-viii-water-species",
+      "title": "Gen VIII Water species",
+      "labels": [
+        "ARROKUDA",
+        "BARRASKEWDA",
+        "CHEWTLE",
+        "DRIZZILE",
+        "INTELEON",
+        "SOBBLE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "bug-special-moves",
+      "title": "Bug Special moves",
+      "labels": [
+        "BUG BUZZ",
+        "INFESTATION",
+        "POLLEN PUFF",
+        "SIGNAL BEAM",
+        "SILVER WIND",
+        "STRUGGLE BUG"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "dark-special-moves",
+      "title": "Dark Special moves",
+      "labels": [
+        "BADDY BAD",
+        "DARK PULSE",
+        "FIERY WRATH",
+        "NIGHT DAZE",
+        "RUINATION",
+        "SNARL"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "ghost-special-moves",
+      "title": "Ghost Special moves",
+      "labels": [
+        "ASTRAL BARRAGE",
+        "BITTER MALICE",
+        "MOONGEIST BEAM",
+        "NIGHT SHADE",
+        "OMINOUS WIND",
+        "SHADOW BALL"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "shadow-status-moves",
+      "title": "Shadow Status moves",
+      "labels": [
+        "SHADOW DOWN",
+        "SHADOW HOLD",
+        "SHADOW MIST",
+        "SHADOW PANIC",
+        "SHADOW SHED",
+        "SHADOW SKY"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "steel-special-moves",
+      "title": "Steel Special moves",
+      "labels": [
+        "DOOM DESIRE",
+        "FLASH CANNON",
+        "MAKE IT RAIN",
+        "MIRROR SHOT",
+        "STEEL BEAM",
+        "TACHYON CUTTER"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "water-status-moves",
+      "title": "Water Status moves",
+      "labels": [
+        "AQUA RING",
+        "LIFE DEW",
+        "RAIN DANCE",
+        "SOAK",
+        "WATER SPORT",
+        "WITHDRAW"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "attack-shifting-abilities",
+      "title": "Attack-shifting abilities",
+      "labels": [
+        "FUR COAT",
+        "GRIM NEIGH",
+        "HADRON ENGINE",
+        "HUGE POWER",
+        "PURE POWER",
+        "SEED SOWER"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "draining-abilities",
+      "title": "Draining abilities",
+      "labels": [
+        "IRON FIST",
+        "LIQUID OOZE",
+        "PROPELLER TAIL",
+        "STALWART",
+        "STORM DRAIN",
+        "TOUGH CLAWS"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "galar-caves",
+      "title": "Galar caves",
+      "labels": [
+        "BALLIMERE LAKE",
+        "CHALLENGE ROAD",
+        "FRIGID SEA",
+        "LAKESIDE CAVE",
+        "LOOP LAGOON",
+        "WORKOUT SEA"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "kanto-citys",
+      "title": "Kanto citys",
+      "labels": [
+        "CELADON",
+        "CERULEAN",
+        "FUCHSIA",
+        "POWER PLANT",
+        "VERMILION",
+        "VIRIDIAN"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "species-specific",
+      "title": "Species Specific",
+      "labels": [
+        "PINK NECTAR",
+        "PURPLE NECTAR",
+        "RED NECTAR",
+        "RUSTED SHIELD",
+        "RUSTED SWORD",
+        "YELLOW NECTAR"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "trapping-abilities",
+      "title": "Trapping abilities",
+      "labels": [
+        "ARENA TRAP",
+        "GUARD DOG",
+        "MAGNET PULL",
+        "RUN AWAY",
+        "SHADOW TAG",
+        "SUCTION CUPS"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-i-fighting-species",
+      "title": "Gen I Fighting species",
+      "labels": [
+        "HITMONCHAN",
+        "HITMONLEE",
+        "MACHAMP",
+        "MACHOKE",
+        "MACHOP",
+        "MANKEY",
+        "PRIMEAPE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-iv-grass-species",
+      "title": "Gen IV Grass species",
+      "labels": [
+        "CARNIVINE",
+        "CHERRIM",
+        "CHERUBI",
+        "GROTLE",
+        "LEAFEON",
+        "TANGROWTH",
+        "TURTWIG"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-iv-water-species",
+      "title": "Gen IV Water species",
+      "labels": [
+        "BUIZEL",
+        "FINNEON",
+        "FLOATZEL",
+        "LUMINEON",
+        "PIPLUP",
+        "PRINPLUP",
+        "SHELLOS"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-ix-water-species",
+      "title": "Gen IX Water species",
+      "labels": [
+        "DONDOZO",
+        "FINIZEN",
+        "PALAFIN",
+        "QUAXLY",
+        "QUAXWELL",
+        "WIGLETT",
+        "WUGTRIO"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-v-fighting-species",
+      "title": "Gen V Fighting species",
+      "labels": [
+        "CONKELDURR",
+        "GURDURR",
+        "MIENFOO",
+        "MIENSHAO",
+        "SAWK",
+        "THROH",
+        "TIMBURR"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "electric-status-moves",
+      "title": "Electric Status moves",
+      "labels": [
+        "CHARGE",
+        "EERIE IMPULSE",
+        "ELECTRIFY",
+        "ION DELUGE",
+        "MAGNET RISE",
+        "MAGNETIC FLUX",
+        "THUNDER WAVE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "flying-special-moves",
+      "title": "Flying Special moves",
+      "labels": [
+        "AEROBLAST",
+        "AIR CUTTER",
+        "AIR SLASH",
+        "CHATTER",
+        "GUST",
+        "HURRICANE",
+        "OBLIVION WING"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "ghost-status-moves",
+      "title": "Ghost Status moves",
+      "labels": [
+        "CONFUSE RAY",
+        "CURSE",
+        "DESTINY BOND",
+        "GRUDGE",
+        "NIGHTMARE",
+        "SPITE",
+        "TRICK OR TREAT"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "psychic-physical-moves",
+      "title": "Psychic Physical moves",
+      "labels": [
+        "HEART STAMP",
+        "MAX MINDSTORM",
+        "PSYBLADE",
+        "PSYCHIC FANGS",
+        "PSYCHO CUT",
+        "PSYSHIELD BASH",
+        "ZEN HEADBUTT"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "shadow-special-moves",
+      "title": "Shadow Special moves",
+      "labels": [
+        "SHADOW BOLT",
+        "SHADOW CHILL",
+        "SHADOW FIRE",
+        "SHADOW HALF",
+        "SHADOW RAVE",
+        "SHADOW STORM",
+        "SHADOW WAVE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "signature-z-crystals",
+      "title": "Signature Z crystals",
+      "labels": [
+        "DECIDIUM Z HELD",
+        "EEVIUM Z HELD",
+        "INCINIUM Z HELD",
+        "MEWNIUM Z HELD",
+        "PIKANIUM Z HELD",
+        "SNORLIUM Z HELD",
+        "TAPUNIUM Z HELD"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "species-specific-z-crystals",
+      "title": "Species-specific Z crystals",
+      "labels": [
+        "DECIDIUM Z HELD",
+        "EEVIUM Z HELD",
+        "INCINIUM Z HELD",
+        "MEWNIUM Z HELD",
+        "PIKANIUM Z HELD",
+        "SNORLIUM Z HELD",
+        "TAPUNIUM Z HELD"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "steel-status-moves",
+      "title": "Steel Status moves",
+      "labels": [
+        "AUTOTOMIZE",
+        "GEAR UP",
+        "IRON DEFENSE",
+        "KINGS SHIELD",
+        "METAL SOUND",
+        "SHELTER",
+        "SHIFT GEAR"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "alola-citys",
+      "title": "Alola citys",
+      "labels": [
+        "HEAHEA",
+        "HEAHEA BEACH",
+        "KONIKONI",
+        "MALIE",
+        "MALIE GARDEN",
+        "MELEMELE SEA",
+        "TEN CARAT HILL"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "fox-pokemon",
+      "title": "Fox Pokemon",
+      "labels": [
+        "BRAIXEN",
+        "DELPHOX",
+        "FENNEKIN",
+        "NICKIT",
+        "NINETALES",
+        "THIEVUL",
+        "VULPIX"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "galar-towns",
+      "title": "Galar towns",
+      "labels": [
+        "BALLONLEA",
+        "CIRCHESTER",
+        "HULBURY",
+        "POSTWICK",
+        "SPIKEMUTH",
+        "TURFFIELD",
+        "WEDGEHURST"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "hoenn-routes",
+      "title": "Hoenn routes",
+      "labels": [
+        "ABANDONED SHIP",
+        "ANCIENT TOMB",
+        "DESERT RUINS",
+        "MIRAGE TOWER",
+        "SEA MAUVILLE",
+        "SECRET ISLET",
+        "SECRET SHORE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "kalos-citys",
+      "title": "Kalos citys",
+      "labels": [
+        "ANISTAR",
+        "BATTLE MAISON",
+        "FRIEND SAFARI",
+        "KILOUDE",
+        "LYSANDRE LABS",
+        "SANTALUNE",
+        "SNOWBELLE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "priority-abilities",
+      "title": "Priority abilities",
+      "labels": [
+        "ARMOR TAIL",
+        "GALE WINGS",
+        "MYCELIUM MIGHT",
+        "PRANKSTER",
+        "QUICK DRAW",
+        "STALL",
+        "TRIAGE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-i-normal-flying-species",
+      "title": "Gen I Normal/Flying species",
+      "labels": [
+        "DODRIO",
+        "DODUO",
+        "FARFETCHD",
+        "FEAROW",
+        "PIDGEOT",
+        "PIDGEOTTO",
+        "PIDGEY",
+        "SPEAROW"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-iv-normal-species",
+      "title": "Gen IV Normal species",
+      "labels": [
+        "AMBIPOM",
+        "BIDOOF",
+        "BUNEARY",
+        "GLAMEOW",
+        "LICKILICKY",
+        "LOPUNNY",
+        "PORYGON Z",
+        "PURUGLY"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-v-grass-species",
+      "title": "Gen V Grass species",
+      "labels": [
+        "LILLIGANT",
+        "MARACTUS",
+        "PANSAGE",
+        "PETILIL",
+        "SERPERIOR",
+        "SERVINE",
+        "SIMISAGE",
+        "SNIVY"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-v-water-species",
+      "title": "Gen V Water species",
+      "labels": [
+        "ALOMOMOLA",
+        "BASCULIN",
+        "DEWOTT",
+        "OSHAWOTT",
+        "PANPOUR",
+        "SAMUROTT",
+        "SIMIPOUR",
+        "TYMPOLE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-vi-fairy-species",
+      "title": "Gen VI Fairy species",
+      "labels": [
+        "AROMATISSE",
+        "FLABEBE",
+        "FLOETTE",
+        "FLORGES",
+        "SLURPUFF",
+        "SPRITZEE",
+        "SWIRLIX",
+        "SYLVEON"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "fighting-status-moves",
+      "title": "Fighting Status moves",
+      "labels": [
+        "BULK UP",
+        "COACHING",
+        "DETECT",
+        "MAT BLOCK",
+        "NO RETREAT",
+        "OCTOLOCK",
+        "QUICK GUARD",
+        "VICTORY DANCE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "critical-hit-abilities",
+      "title": "Critical-Hit abilities",
+      "labels": [
+        "ANGER POINT",
+        "BATTLE ARMOR",
+        "MERCILESS",
+        "RIPEN",
+        "SHELL ARMOR",
+        "SNIPER",
+        "SUPER LUCK",
+        "THRUST"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "kanto-islands",
+      "title": "Kanto islands",
+      "labels": [
+        "BIRTH ISLAND",
+        "KINDLE ROAD",
+        "LOST CAVE",
+        "MT EMBER",
+        "NAVEL ROCK",
+        "PATTERN BUSH",
+        "TANOBY RUINS",
+        "TREASURE BEACH"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "legendary-pokemon",
+      "title": "legendary Pokemon",
+      "labels": [
+        "BAXCALIBUR",
+        "DRAGAPULT",
+        "DRAGONITE",
+        "GARCHOMP",
+        "GOODRA",
+        "METAGROSS",
+        "SALAMENCE",
+        "TYRANITAR"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "mouse-pokemon",
+      "title": "Mouse Pokemon",
+      "labels": [
+        "PAWMI",
+        "PAWMO",
+        "PIKACHU",
+        "RAICHU",
+        "RATICATE",
+        "RATTATA",
+        "SANDSHREW",
+        "SANDSLASH"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "paralyzing-abilities",
+      "title": "Paralyzing abilities",
+      "labels": [
+        "CONTRARY",
+        "EFFECT SPORE",
+        "GULP MISSILE",
+        "LIMBER",
+        "MARVEL SCALE",
+        "QUICK FEET",
+        "STATIC",
+        "SYNCHRONIZE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "status-cures",
+      "title": "Status Cures",
+      "labels": [
+        "BIG MALASADA",
+        "BURN HEAL",
+        "CASTELIACONE",
+        "HEAL POWDER",
+        "ICE HEAL",
+        "LAVA COOKIE",
+        "OLD GATEAU",
+        "SHALOUR SABLE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-i-grass-poison-species",
+      "title": "Gen I Grass/Poison species",
+      "labels": [
+        "BELLSPROUT",
+        "BULBASAUR",
+        "GLOOM",
+        "IVYSAUR",
+        "ODDISH",
+        "VENUSAUR",
+        "VICTREEBEL",
+        "VILEPLUME",
+        "WEEPINBELL"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-i-poison-species",
+      "title": "Gen I Poison species",
+      "labels": [
+        "ARBOK",
+        "EKANS",
+        "GRIMER",
+        "KOFFING",
+        "NIDORAN F",
+        "NIDORAN M",
+        "NIDORINA",
+        "NIDORINO",
+        "WEEZING"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-v-normal-species",
+      "title": "Gen V Normal species",
+      "labels": [
+        "AUDINO",
+        "BOUFFALANT",
+        "CINCCINO",
+        "HERDIER",
+        "LILLIPUP",
+        "MINCCINO",
+        "PATRAT",
+        "STOUTLAND",
+        "WATCHOG"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "bug-status-moves",
+      "title": "Bug Status moves",
+      "labels": [
+        "DEFEND ORDER",
+        "HEAL ORDER",
+        "QUIVER DANCE",
+        "RAGE POWDER",
+        "SILK TRAP",
+        "SPIDER WEB",
+        "STICKY WEB",
+        "STRING SHOT",
+        "TAIL GLOW"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "fairy-special-moves",
+      "title": "Fairy Special moves",
+      "labels": [
+        "ALLURING VOICE",
+        "DAZZLING GLEAM",
+        "DRAINING KISS",
+        "FAIRY WIND",
+        "FLEUR CANNON",
+        "LIGHT OF RUIN",
+        "MOONBLAST",
+        "SPARKLY SWIRL",
+        "STRANGE STEAM"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-i-fire-species",
+      "title": "Gen I Fire species",
+      "labels": [
+        "ARCANINE",
+        "CHARMANDER",
+        "CHARMELEON",
+        "FLAREON",
+        "GROWLITHE",
+        "MAGMAR",
+        "NINETALES",
+        "PONYTA",
+        "RAPIDASH",
+        "VULPIX"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-ii-normal-species",
+      "title": "Gen II Normal species",
+      "labels": [
+        "AIPOM",
+        "BLISSEY",
+        "DUNSPARCE",
+        "FURRET",
+        "MILTANK",
+        "SENTRET",
+        "SMEARGLE",
+        "STANTLER",
+        "TEDDIURSA",
+        "URSARING"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-iii-water-species",
+      "title": "Gen III Water species",
+      "labels": [
+        "CLAMPERL",
+        "CORPHISH",
+        "FEEBAS",
+        "GOREBYSS",
+        "HUNTAIL",
+        "LUVDISC",
+        "MILOTIC",
+        "MUDKIP",
+        "WAILMER",
+        "WAILORD"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-v-psychic-species",
+      "title": "Gen V Psychic species",
+      "labels": [
+        "BEHEEYEM",
+        "DUOSION",
+        "ELGYEM",
+        "GOTHITA",
+        "GOTHITELLE",
+        "GOTHORITA",
+        "MUNNA",
+        "MUSHARNA",
+        "REUNICLUS",
+        "SOLOSIS"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "poison-special-moves",
+      "title": "Poison Special moves",
+      "labels": [
+        "ACID",
+        "ACID SPRAY",
+        "BELCH",
+        "CLEAR SMOG",
+        "SHELL SIDE ARM",
+        "SLUDGE",
+        "SLUDGE BOMB",
+        "SLUDGE WAVE",
+        "SMOG",
+        "VENOSHOCK"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "alola-routes",
+      "title": "Alola routes",
+      "labels": [
+        "BERRY FIELDS",
+        "BLUSH MOUNTAIN",
+        "BROOKLET HILL",
+        "HAINA DESERT",
+        "LUSH JUNGLE",
+        "MEMORIAL HILL",
+        "MOUNT HOKULANI",
+        "POKE PELAGO",
+        "ROYAL AVENUE",
+        "SECLUDED SHORE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "kalos-towns",
+      "title": "Kalos towns",
+      "labels": [
+        "AMBRETTE",
+        "AQUACORDE",
+        "CAMPHRIER",
+        "COUMARINE",
+        "COURIWAY",
+        "CYLLAGE",
+        "DENDEMILLE",
+        "GEOSENGE",
+        "LAVERRE",
+        "VANIVILLE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "ice-special-moves",
+      "title": "Ice Special moves",
+      "labels": [
+        "AURORA BEAM",
+        "BLIZZARD",
+        "FREEZE DRY",
+        "FREEZY FROST",
+        "FROST BREATH",
+        "GLACIATE",
+        "ICE BEAM",
+        "ICE BURN",
+        "ICY WIND",
+        "POWDER SNOW",
+        "SHEER COLD"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "poison-physical-moves",
+      "title": "Poison Physical moves",
+      "labels": [
+        "BARB BARRAGE",
+        "CROSS POISON",
+        "DIRE CLAW",
+        "GUNK SHOT",
+        "MAX OOZE",
+        "MORTAL SPIN",
+        "NOXIOUS TORQUE",
+        "POISON FANG",
+        "POISON JAB",
+        "POISON STING",
+        "POISON TAIL"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "draining-moves",
+      "title": "Draining moves",
+      "labels": [
+        "ABSORB",
+        "DRAIN PUNCH",
+        "DRAINING KISS",
+        "DREAM EATER",
+        "GIGA DRAIN",
+        "HORN LEECH",
+        "LEECH LIFE",
+        "LIFE DEW",
+        "MEGA DRAIN",
+        "OBLIVION WING",
+        "PSYCHIC NOISE"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "healing-moves",
+      "title": "Healing moves",
+      "labels": [
+        "AQUA RING",
+        "BITTER BLADE",
+        "HEALING WISH",
+        "LIFE DEW",
+        "LUNAR BLESSING",
+        "MATCHA GOTCHA",
+        "PSYCHIC NOISE",
+        "RECYCLE",
+        "SNOWSCAPE",
+        "SWALLOW",
+        "WISH"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "hoenn-citys",
+      "title": "Hoenn citys",
+      "labels": [
+        "CRESCENT ISLE",
+        "EVER GRANDE",
+        "FABLED CAVE",
+        "FORTREE",
+        "LILYCOVE",
+        "MAUVILLE",
+        "MOSSDEEP",
+        "NEW MAUVILLE",
+        "SCORCHED SLAB",
+        "SHOAL CAVE",
+        "SOOTOPOLIS"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "johto-towns",
+      "title": "Johto towns",
+      "labels": [
+        "AZALEA",
+        "CHERRYGROVE",
+        "CIANWOOD",
+        "CLIFF EDGE GATE",
+        "ILEX FOREST",
+        "LAKE OF RAGE",
+        "MAHOGANY",
+        "MT SILVER",
+        "NEW BARK",
+        "RADIO TOWER",
+        "SLOWPOKE WELL"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "sinnoh-towns",
+      "title": "Sinnoh towns",
+      "labels": [
+        "CELESTIC",
+        "FIGHT",
+        "FLOAROMA",
+        "LOST TOWER",
+        "MT CORONET",
+        "RAVAGED PATH",
+        "RESORT",
+        "SANDGEM",
+        "SOLACEON",
+        "SOLACEON RUINS",
+        "TWINLEAF"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "gen-i-normal-species",
+      "title": "Gen I Normal species",
+      "labels": [
+        "CHANSEY",
+        "DITTO",
+        "EEVEE",
+        "KANGASKHAN",
+        "LICKITUNG",
+        "MEOWTH",
+        "PERSIAN",
+        "PORYGON",
+        "RATICATE",
+        "RATTATA",
+        "SNORLAX",
+        "TAUROS"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "dragon-physical-moves",
+      "title": "Dragon Physical moves",
+      "labels": [
+        "BREAKING SWIPE",
+        "DRAGON CLAW",
+        "DRAGON DARTS",
+        "DRAGON HAMMER",
+        "DRAGON RUSH",
+        "DRAGON TAIL",
+        "DUAL CHOP",
+        "GLAIVE RUSH",
+        "MAX WYRMWIND",
+        "ORDER UP",
+        "OUTRAGE",
+        "SCALE SHOT"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "dragon-special-moves",
+      "title": "Dragon Special moves",
+      "labels": [
+        "CORE ENFORCER",
+        "DRACO METEOR",
+        "DRAGON BREATH",
+        "DRAGON ENERGY",
+        "DRAGON PULSE",
+        "DRAGON RAGE",
+        "DYNAMAX CANNON",
+        "ETERNABEAM",
+        "FICKLE BEAM",
+        "ROAR OF TIME",
+        "SPACIAL REND",
+        "TWISTER"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "fairy-status-moves",
+      "title": "Fairy Status moves",
+      "labels": [
+        "AROMATIC MIST",
+        "BABY DOLL EYES",
+        "CHARM",
+        "CRAFTY SHIELD",
+        "DECORATE",
+        "FAIRY LOCK",
+        "FLORAL HEALING",
+        "FLOWER SHIELD",
+        "GEOMANCY",
+        "MISTY TERRAIN",
+        "MOONLIGHT",
+        "SWEET KISS"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "poison-status-moves",
+      "title": "Poison Status moves",
+      "labels": [
+        "ACID ARMOR",
+        "BANEFUL BUNKER",
+        "COIL",
+        "CORROSIVE GAS",
+        "GASTRO ACID",
+        "POISON GAS",
+        "POISON POWDER",
+        "PURIFY",
+        "TOXIC",
+        "TOXIC SPIKES",
+        "TOXIC THREAD",
+        "VENOM DRENCH"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "burning-abilities",
+      "title": "Burning abilities",
+      "labels": [
+        "FLAME BODY",
+        "FLARE BOOST",
+        "FOREWARN",
+        "GUTS",
+        "HEALER",
+        "HEATPROOF",
+        "MAGMA ARMOR",
+        "SHED SKIN",
+        "SYNCHRONIZE",
+        "UNAWARE",
+        "WATER BUBBLE",
+        "WATER VEIL"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "johto-citys",
+      "title": "Johto citys",
+      "labels": [
+        "BELL TOWER",
+        "BLACKTHORN",
+        "BURNED TOWER",
+        "DRAGONS DEN",
+        "ECRUTEAK",
+        "GOLDENROD",
+        "ICE PATH",
+        "MT MORTAR",
+        "NATIONAL PARK",
+        "OLIVINE",
+        "SPROUT TOWER",
+        "WHIRL ISLANDS"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "kanto-towns",
+      "title": "Kanto towns",
+      "labels": [
+        "FIVE ISLAND",
+        "FOUR ISLAND",
+        "LAVENDER",
+        "ONE ISLAND",
+        "PALLET",
+        "POKEMON TOWER",
+        "ROCK TUNNEL",
+        "SAFFRON",
+        "SEVEN ISLAND",
+        "SIX ISLAND",
+        "THREE ISLAND",
+        "TWO ISLAND"
+      ],
+      "minLength": 4,
+      "maxLength": 14
+    },
+    {
+      "id": "paldea-towns",
+      "title": "Paldea towns",
+      "labels": [
+        "ALFORNADA",
+        "ARTAZON",
+        "CABO POCO",
+        "CORTONDO",
+        "KITAKAMI HALL",
+        "LOS PLATOS",
+        "LOYALTY PLAZA",
+        "MEDALI",
+        "MONTENEVERA",
+        "MOSSUI",
+        "PORTO MARINADA",
+        "ZAPAPICO"
+      ],
       "minLength": 4,
       "maxLength": 14
     }

@@ -1,0 +1,57 @@
+{
+  "answerKey": "EMERGENCYEXIT",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4324657,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Emergency Exit (Japanese: Crisis Prevention) is an Ability introduced in Generation VII. It is the signature Ability of Golisopod.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Emergency Exit takes damage that lowers its HP below half of its maximum HP, it will flee (in wild battles) or switch out (in Trainer battles). If the Pokemon's HP is already below half, Emergency Exit cannot activate (unless the Pokemon first restores HP). Emergency Exit will not activate if the Pokemon's HP falls below half due to hurting itself in confusion , but it will activate if the HP falls below half from all other damage (including Struggle recoil). It does not activate when the Pokemon's HP is lowered by a means other than damage (such as Pain Split , or cutting its own HP by using Substitute or Belly Drum or Curse ). Emergency Exit will not activate if the Pokemon's HP falls below half by a move affected by Sheer Force . It will activate only after the last hit of multistrike moves , even if the HP of the Pokemon with this Ability drops below half before the last hit. If this Ability activates due to being hit by U-turn or Volt Switch , the user of that move will not be switched out. This Ability will not activate if the Pokemon's HP falls below half while it is in the air during the semi-invulnerable turn of Sky Drop . If the Pokemon falls below half HP and immediately consumes a Berry (such as a Sitrus Berry ) to restore its HP above half, Emergency Exit does not activate; however, if it falls below half and recovers back above half from a Shell Bell , Emergency Exit will activate even after the Shell Bell recovery. Trapping moves do not prevent Emergency Exit from activating. Emergency Exit will not activate in Trainer battles if the Pokemon with this Ability is its Trainer's only Pokemon left. Emergency Exit will not activate on the player's Pokemon in wild battles during trials . If the Pokemon with Emergency Exit holds a Red Card or Eject Button , the item activates first. Dragon Tail and Circle Throw switch out Pokemon before the Ability activates. Outside of battle [ edit | edit source ] Emergency Exit has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with Emergency Exit takes damage that lowers its HP below half of its maximum HP, it will flee (in wild battles) or switch out (in Trainer battles). If the Pokemon's HP is already below half, Emergency Exit cannot activate (unless the Pokemon first restores HP). Emergency Exit will not activate if the Pokemon's HP falls below half due to hurting itself in confusion , but it will activate if the HP falls below half from all other damage (including Struggle recoil). It does not activate when the Pokemon's HP is lowered by a means other than damage (such as Pain Split , or cutting its own HP by using Substitute or Belly Drum or Curse ). Emergency Exit will not activate if the Pokemon's HP falls below half by a move affected by Sheer Force . It will activate only after the last hit of multistrike moves , even if the HP of the Pokemon with this Ability drops below half before the last hit. If this Ability activates due to being hit by U-turn or Volt Switch , the user of that move will not be switched out. This Ability will not activate if the Pokemon's HP falls below half while it is in the air during the semi-invulnerable turn of Sky Drop . If the Pokemon falls below half HP and immediately consumes a Berry (such as a Sitrus Berry ) to restore its HP above half, Emergency Exit does not activate; however, if it falls below half and recovers back above half from a Shell Bell , Emergency Exit will activate even after the Shell Bell recovery. Trapping moves do not prevent Emergency Exit from activating. Emergency Exit will not activate in Trainer battles if the Pokemon with this Ability is its Trainer's only Pokemon left. Emergency Exit will not activate on the player's Pokemon in wild battles during trials . If the Pokemon with Emergency Exit holds a Red Card or Eject Button , the item activates first. Dragon Tail and Circle Throw switch out Pokemon before the Ability activates.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "This Pokemon automatically switches out when its HP drops below half.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "switching trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "switching trait"
+    ],
+    "connections_descriptors": [
+      "Switching abilities",
+      "Gen VII abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257943
+}

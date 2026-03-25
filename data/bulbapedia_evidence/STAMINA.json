@@ -1,0 +1,29 @@
+{
+  "answerKey": "STAMINA",
+  "answerDisplay": "STAMINA",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Stamina (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Stamina_(Ability)",
+  "pageId": 214591,
+  "pageRevisionId": 4465198,
+  "leadText": "Stamina redirects here. For other uses, see Stamina (disambiguation). Stamina (Japanese: じきゅうりょく Stamina) is an Ability introduced in Generation VII. Prior to Generation IX, it was the signature Ability of Mudbray and Mudsdale.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with Stamina is hit by an attack, its Defense rises by one stage. If a Pokémon with this Ability is hit by a multistrike move (such as Fury Swipes ), each hit activates this Ability. Outside of battle [ edit | edit source ] Stamina has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with Stamina is hit by an attack, its Defense rises by one stage. If a Pokémon with this Ability is hit by a multistrike move (such as Fury Swipes ), each hit activates this Ability."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Stamina",
+    "Stamina (Ability)"
+  ],
+  "updatedAt": 1773329234
+}

@@ -1,0 +1,91 @@
+{
+  "answerKey": "ROCKHEAD",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4407454,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "If you were looking for the Rock Head Pokemon, see Bagon. Rock Head (Japanese: Rock Head) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Prevents damage from the recoil of moves such as Take Down. MD T D S Protects the Pokemon from the recoil damage of moves such as Take Down. B S L MD GtI Protects the Pokemon from recoil damage from certain moves. * Recoil damage from certain moves won't hurt the Pokemon! * S MD Recoil damage from certain moves won't hurt the Pokemon! MD RT DX The Pokemon won't be hurt when it uses moves that cause recoil damage.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Affected moves 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] A Pokemon with Rock Head will not take recoil damage, except when using Struggle , Shadow Rush Colo , or Shadow End . If a Pokemon with Rock Head uses a contact move with recoil on a target with either Lingering Aroma or Mummy , causing Rock Head to be replaced by the target's Ability , then the user will take recoil damage from this move. Rock Head does not affect other kinds of damage, such as crash damage , damage from a Life Orb , or damage from a Jaboca or Rowap Berry . Rock Head does not prevent the user from fainting from using moves that cause the user to faint . It also does not prevent the user from taking damage when using Steel Beam or Mind Blown . Affected moves [ edit | edit source ] The table below lists the moves affected by Rock Head, as well as the Pokemon that can have Rock Head and learn those moves. Move Type Cat. Pow. Acc. Learned by Double-Edge Normal Physical 120 100 * * * Flare Blitz Fire Physical 120 100 Head Smash Rock Physical 150 80 Submission Fighting Physical 80 80 * Take Down Normal Physical 90 85 * Wood Hammer Grass Physical 120 100 Wave Crash Water Physical 120 100 Wild Charge Electric Physical 90 100 Although the following moves are affected by the Ability, they currently cannot be learned by any Pokemon with Rock Head. They may, however, be called via Metronome , Mirror Move , Copycat , or Mimic , or be used by a Pokemon that gained Rock Head by an Ability like Trace or Receiver or a move such as Skill Swap or Role Play . Move Type Cat. Pow. Acc. Brave Bird Flying Physical 120 100 Chloroblast Grass Special 150 95 Head Charge Normal Physical 120 100 Light of Ruin Fairy Special 140 90 Volt Tackle Electric Physical 120 100 Outside of battle [ edit | edit source ] Rock Head has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] A Pokemon with Rock Head will not take recoil damage, except when using Struggle , Shadow Rush Colo , or Shadow End . If a Pokemon with Rock Head uses a contact move with recoil on a target with either Lingering Aroma or Mummy , causing Rock Head to be replaced by the target's Ability , then the user will take recoil damage from this move. Rock Head does not affect other kinds of damage, such as crash damage , damage from a Life Orb , or damage from a Jaboca or Rowap Berry . Rock Head does not prevent the user from fainting from using moves that cause the user to faint . It also does not prevent the user from taking damage when using Steel Beam or Mind Blown . Affected moves [ edit | edit source ] The table below lists the moves affected by Rock Head, as well as the Pokemon that can have Rock Head and learn those moves. Move Type Cat. Pow. Acc. Learned by Double-Edge Normal Physical 120 100 * * * Flare Blitz Fire Physical 120 100 Head Smash Rock Physical 150 80 Submission Fighting Physical 80 80 * Take Down Normal Physical 90 85 * Wood Hammer Grass Physical 120 100 Wave Crash Water Physical 120 100 Wild Charge Electric Physical 90 100 Although the following moves are affected by the Ability, they currently cannot be learned by any Pokemon with Rock Head. They may, however, be called via Metronome , Mirror Move , Copycat , or Mimic , or be used by a Pokemon that gained Rock Head by an Ability like Trace or Receiver or a move such as Skill Swap or Role Play . Move Type Cat. Pow. Acc. Brave Bird Flying Physical 120 100 Chloroblast Grass Special 150 95 Head Charge Normal Physical 120 100 Light of Ruin Fairy Special 140 90 Volt Tackle Electric Physical 120 100",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Protects against recoil damage.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "Description",
+        "specificity": 0.86
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "protective trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "Description",
+        "mystery_score": 0.76,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Damages foes on contact KO",
+        "evidence_ref": "Description",
+        "mystery_score": 0.7,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Contact-backlash trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "protective trait",
+      "contact backlash",
+      "contact punisher"
+    ],
+    "connections_descriptors": [
+      "Protective abilities",
+      "Contact-punishing abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258003
+}

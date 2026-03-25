@@ -1,0 +1,38 @@
+{
+  "answerKey": "MIRRORSHOT",
+  "answerDisplay": "MIRROR SHOT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Mirror Shot (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mirror_Shot_(move)",
+  "pageId": 18890,
+  "pageRevisionId": 4405678,
+  "leadText": "Mirror Shot (Japanese: ミラーショット Mirror Shot) is a damage-dealing Steel-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation IV to VII [ edit | edit source ] Mirror Shot inflicts damage and has a 30% chance to lower the target's accuracy by one stage. Generation VIII onwards [ edit | edit source ] Mirror Shot cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user looses a flash of energy from its polished body. It may also lower the target's accuracy. B W B2 W2 The user looses a flash of energy at the target from its polished body. It may also lower the target's accuracy. X Y OR AS S M US UM P E The user lets loose a flash of energy at the target from its polished body. This may also lower the target's accuracy. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. It may also reduce the target's accuracy by 1 level. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで めいちゅうを １だんかいさげる MD GtI S MD It damages an enemy. It could also lower the enemy's accuracy."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Mirror Shot is the only Steel-type Cute move."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mirror-Shot",
+    "Mirror Shot",
+    "Mirror-Shot (move)"
+  ],
+  "updatedAt": 1773325105
+}

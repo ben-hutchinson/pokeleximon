@@ -1,0 +1,30 @@
+{
+  "answerKey": "ICEFALLCAVE",
+  "answerDisplay": "ICEFALL CAVE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Icefall Cave",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Icefall_Cave",
+  "pageId": 7950,
+  "pageRevisionId": 4344734,
+  "leadText": "Icefall Cave (Japanese: いてだきのどうくつ Icefall Cave) is a cave on Four Island in the Sevii Islands.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] Icefall Cave differs from the rest of the Sevii Islands since, rather than having a tropical climate, it is frigid and filled with icy caverns. This is due to the multitude of Ice-type Pokémon living in the cave, who cool it down with their presence. When the player first arrives at the cave, the only thing to do is to explore its inner first floor. Many ice tiles are scattered around, and if a tile is stepped over twice, the player will fall through to the floor below. There is also slippery ice in the inner basement floor, which causes the player to continuously slide in the same direction they stepped in until they hit an obstacle. By navigating through the inner cave's first and basement floors, the player will find HM07 ( Waterfall ). Once the player uses Waterfall to scale the waterfall to the back inner cave, Lorelei of the Elite Four will be found confronting a group of Team Rocket Grunts . She will tell the player to help her defeat them, though the player only needs to confront one Grunt. After they are defeated, the Team Rocket Grunts will flee to their base on Five Island and Lorelei will temporarily stay in her house in Four Island . The back cave appears to be connected to the ocean and is notable for being the only place to encounter wild Lapras in all of Generation III . An old woman in Four Island states that as a child, Lorelei met and caught a Lapras in Icefall Cave, possibly the same one that she still has in her current party ."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Ultra Ball 1F, near the center of the floor FR LG HM07 ( Waterfall ) 1F, east of the southernmost ledge , accessible from the southernmost ladder on B1F FR LG NeverMeltIce B1F, east of the ice floor FR LG Full Restore B1F, southwest of the ice floor FR LG"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Icefall-Cave",
+    "Icefall Cave",
+    "Icefall-Cave (location)"
+  ],
+  "updatedAt": 1774214208
+}

@@ -1,0 +1,30 @@
+{
+  "answerKey": "LOSPLATOS",
+  "answerDisplay": "LOS PLATOS",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Los Platos",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Los_Platos",
+  "pageId": 277780,
+  "pageRevisionId": 4509982,
+  "leadText": "Los Platos (Japanese: プラトタウン Plato Town) is a small settlement in South Province (Area One) in the Paldea region.",
+  "sections": [
+    {
+      "title": "Places of interest",
+      "text": "Places of interest [ edit | edit source ] Sugar-N-Ice [ edit | edit source ] Main article: Sugar-N-Ice Sugar-N-Ice is a vending cart chain that sells ice cream cones of various flavors which provide Meal Powers . It has one location in Los Platos, by the street just west of the Pokémon Center ."
+    },
+    {
+      "title": "Sugar-N-Ice",
+      "text": "Sugar-N-Ice [ edit | edit source ] Main article: Sugar-N-Ice Sugar-N-Ice is a vending cart chain that sells ice cream cones of various flavors which provide Meal Powers . It has one location in Los Platos, by the street just west of the Pokémon Center ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Los-Platos",
+    "Los Platos",
+    "Los-Platos (location)"
+  ],
+  "updatedAt": 1774214419
+}

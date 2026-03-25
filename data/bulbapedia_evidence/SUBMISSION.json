@@ -1,0 +1,37 @@
+{
+  "answerKey": "SUBMISSION",
+  "answerDisplay": "SUBMISSION",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Submission (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Submission_(move)",
+  "pageId": 3675,
+  "pageRevisionId": 4503694,
+  "leadText": "Submission (Japanese: じごくぐるま Hell Wheel) is a damage-dealing Fighting-type move introduced in Generation I. It was TM17 in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II to V 1.3 Generation VI 1.4 Generation IX Effect [ edit | edit source ] Generation I [ edit | edit source ] Submission does damage, and the user receives recoil damage equal to 25% of the damage done to the target. If the user of Submission attacks first and faints due to recoil damage, the target will not attack or be subjected to recurrent damage during that round. However, the user will still be subject to recurrent damage even if the target faints. Self-inflicted recoil damage from Submission from the previous turn can be countered if the target does not make a move on the following turn. If Submission breaks a substitute , the user will take no recoil damage. In Stadium, no recoil damage is taken if Submission knocks out a target. Generation II to V [ edit | edit source ] The user will take recoil damage even if Submission breaks a substitute. Submission can be used as the second move of a Pokémon Contest combination , with the user gaining 6 bonus appeal points if Mind Reader was used in the previous turn. Generation VI [ edit | edit source ] Submission's PP was changed from 25 to 20. Generation IX [ edit | edit source ] Submission cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad The strongest Fighting attack. One quarter of the damage it inflicts comes back to hurt the attacker. Stad2 Strongest Fighting attack. One quarter of the damage also hurts the attacker. G S C An attack that also hurts the user. R S E Colo XD A reckless body slam that also hurts the user. FR LG A reckless, full-body throw attack that also hurts the user a little. D P Pt HG SS PBR The user grabs the foe and recklessly dives for the ground. It also hurts the user slightly. B W B2 W2 The user grabs the target and recklessly dives for the ground. It also hurts the user slightly. X Y OR AS S M US UM P E Sw Sh BD SP LA The user grabs the target and recklessly dives for the ground. This also damages the user a little. S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. However, it also damages the user. MD T D S Inflicts damage on the target, but it also hurts the user. B S L てきポケモンに ダメージをあたえるが じぶんも ダメージをうけてしまう MD GtI UNUSED S MD It damages an enemy, but you'll receive recoil damage, too. MD RT DX It damages an enemy—but you'll receive recoil damage, too."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The move's Japanese name, じごくぐるま Hell Wheel , is a reference to a manga Jūdō Icchokusen by Ikki Kajiwara . This move's English name comes from the professional wrestling term submission hold , which is executed as a variety of MMA or jujutsu -inspired holds such as an armlock , leglock , or chokehold , in the hopes the opponent will either give up or be incapacitated to the point that they can no longer fight. This does not match the move's appearance in the animated series. Submission has the highest base PP and lowest power of all recoil moves. Submission's description in Pokémon Stadium and Stadium 2 falsely states it is the strongest Fighting-type attack — in Generation I , High Jump Kick is stronger in terms of base power, with Cross Chop and Dynamic Punch holding this status in Generation II . Submission is the only Fighting-type move that causes recoil damage if it hits."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Submission",
+    "Submission (move)"
+  ],
+  "updatedAt": 1773327639
+}

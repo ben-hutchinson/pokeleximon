@@ -1,0 +1,38 @@
+{
+  "answerKey": "FIREBLAST",
+  "answerDisplay": "FIRE BLAST",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Fire Blast (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fire_Blast_(move)",
+  "pageId": 61438,
+  "pageRevisionId": 4503869,
+  "leadText": "Fire Blast (Japanese: だいもんじ Daimonji) is a damage-dealing Fire-type move introduced in Generation I. It is: TM38 from Generation I to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TM46 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR15 in Pokémon Sword and Shield. TM141 in Pokémon Scarlet and Violet. TM038 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II to V 1.3 Generation VI onwards 1.4 Generation VIII 1.4.1 Pokémon Legends: Arceus 1.5 Generation IX 1.5.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I [ edit | edit source ] Fire Blast inflicts damage and has a 30% chance of burning the target. Generation II to V [ edit | edit source ] Fire Blast now has a 10% chance to burn the target. Fire Blast can be used as the second move of a Pokémon Contest combination , with the user gaining 4 bonus appeal points if Sunny Day was used in the previous turn. Generation VI onwards [ edit | edit source ] Fire Blast's power was decreased from 120 to 110. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Special PP 5 Agile Strong Power 100 80 120 Accuracy 85% 85% 95% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 20% 20% 40% Turns 3 2 4 ? ? Inflicts the target with burn Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 85% Standard Plus Move Power 110 132 Cooldown 10s Move wind-up time 35 frames Effect duration —s Additional effect Chance 10% — — May burn the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad The strongest Fire -type attack. Has a one-in-three chance of inflicting a burn on the target. Stad2 Strongest Fire -type attack. Has a one-in-ten chance of inflicting a burn on the target. G S C An attack that may cause a burn. R S E A fiery blast that scorches all. May cause a burn. R S (move) Incinerates everything it strikes. May cause a burn. E (move) A powerful fire attack that may burn the foe. (TM) FR LG The foe is hit with an intense flame. It may leave the target with a burn. Colo XD A fiery blast that may cause a burn. (move) A powerful fire attack that may burn the target. (TM) D P Pt HG SS PBR The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn. B W B2 W2 The target is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn. ZA The user attacks with an intense blast of all-consuming fire. This may also leave targets with a burn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also cause a burn. It thaws and frees frozen Pokémon. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Burn status condition. It thaws out frozen Pokémon. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで やけどじょうたいにかえる こおっていたポケモンは こおりがとける Conq. The target is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn. MD GtI It damages an enemy. It could also cause the Burn status condition. With the Burn status, the enemy keeps taking damage, and its Attack also goes down slightly. S MD It damages an enemy. It could also leave the enemy with a burn."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation I, Fire Blast was the only Fire-type move that could be taught by TM . Its animation is based on the Daimonji of the Japanese festival Gozan no Okuribi , where a large bonfire is lit in the shape of the character 大 (meaning \"big\" or \"great\"). A glitch sometimes occurs with this move in Pokémon Black 2 and White 2 where the background fails to appear, instead showing just black. In Pokémon X and Y , when a Pokémon with a large hitbox (such as Rayquaza) uses Fire Blast in a battle in one of the back alleys of Lumiose City , when the camera pans backwards, it will clip through the building to the right side of the Pokémon, causing it to completely disappear momentarily. The decoration item Fire Blast Mat was named after this move and features the Daimonji character in its design."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fire-Blast",
+    "Fire Blast",
+    "Fire-Blast (move)"
+  ],
+  "updatedAt": 1773322799
+}

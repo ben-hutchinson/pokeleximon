@@ -1,0 +1,38 @@
+{
+  "answerKey": "DOUBLEEDGE",
+  "answerDisplay": "DOUBLE EDGE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Double-Edge (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Double-Edge_(move)",
+  "pageId": 3242,
+  "pageRevisionId": 4452298,
+  "leadText": "Double-Edge (Japanese: すてみタックル Life-Risking Tackle) is a damage-dealing Normal-type move introduced in Generation I. It is: TM10 in Generation I. TM204 in Pokémon Scarlet and Violet. TM056 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generation III onwards 1.4 Generation VIII 1.4.1 Pokémon Legends: Arceus 1.5 Generation IX 1.5.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I [ edit | edit source ] Double-Edge inflicts damage, and the user receives recoil damage equal to ¼ of the damage done to the target. If the user of Double-Edge attacks first and makes itself faint due to recoil damage, the target will not attack or be subjected to recurrent damage during that round. Self-inflicted recoil damage from Double-Edge from the previous turn can be countered if the target does not make a move on the following turn. If Double-Edge breaks a substitute , the user will take no recoil damage. Double-Edge has a base power of 100 in this generation. In Pokémon Stadium , no recoil damage is taken if Double-Edge knocks out a target. Generation II [ edit | edit source ] Double-Edge's base power is increased to 120. The user will take recoil damage even if a substitute breaks. Generation III onwards [ edit | edit source ] Recoil is increased to ⅓ of damage done, rather than ¼. Double-Edge can be used as the second move of a Pokémon Contest combination , with the user gaining 6 bonus appeal points if Focus Energy or Harden was used in the previous turn. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Double-Edge's power was reduced from 120 to 100 and its PP was reduced from 15 to 5. Pokémon Legends: Arceus Category Physical PP 5 Agile Strong Power 100 80 120 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Recoil 33% 33% 50% ? ? ? ? Recoil damage to user as a percentage of damage done Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 120 144 Cooldown 10s Move wind-up time 15 frames Effect duration —s Additional effect Recoil 33% — — Damages the user by a percentage of damage dealt."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A charging tackle attack. One quarter of the damage it inflicts comes back to hurt the attacker. Stad2 A charging tackle attack. One quarter of the damage comes back to hurt the attacker. G S C A tackle that also hurts the user. R S E Colo XD A life-risking tackle that also hurts the user. FR LG A reckless, life-risking tackle that also hurts the user a little. D P Pt HG SS PBR B W B2 W2 A reckless, life-risking tackle. It also damages the user by a fairly large amount, however. X Y OR AS S M US UM P E A reckless, life-risking tackle. This also damages the user quite a lot. Sw Sh BD SP A reckless, life-risking tackle in which the user rushes the target. This also damages the user quite a lot. LA A reckless, life-risking tackle in which the user rushes the target. This also damages the user. S V A reckless life-risking tackle in which the user rushes the target. This also damages the user quite a lot. ZA The user attacks with a reckless, all-out charge. The user will also take some damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. However, it also damages the user. MD T D S Inflicts damage on the target, but it also hurts the user. B S L てきポケモンに ダメージをあたえるが じぶんも ダメージをうけてしまう MD GtI It damages an enemy, but you receive recoil damage, too. S MD It damages an enemy, but you'll receive recoil damage, too."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move's English name refers to the idiom double-edged sword . Tyrantrum is the only Pokémon that can have Rock Head as an Ability that cannot learn Double-Edge. Double-Edge is the most powerful near-universal TM (though it was near-universal in only Generation I ), having a base power of 120."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Double-Edge",
+    "Double Edge",
+    "Double-Edge (move)"
+  ],
+  "updatedAt": 1773322218
+}

@@ -1,0 +1,37 @@
+{
+  "answerKey": "FRUSTRATION",
+  "answerDisplay": "FRUSTRATION",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Frustration (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Frustration_(move)",
+  "pageId": 3829,
+  "pageRevisionId": 4402803,
+  "leadText": "Frustration (Japanese: やつあたり Angry Outburst) is a damage-dealing Normal-type move introduced in Generation II. It was TM21 from Generation II to Pokémon Ultra Sun and Ultra Moon.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III to VII 1.3 Generation VIII onwards Effect [ edit | edit source ] Frustration inflicts damage and has no secondary effect. The base power of Frustration is dependent on the user's friendship . The lower the user's friendship is, the greater the base power of Frustration. The base power can be calculated using the following formula: P o w e r = 2 5 5 − F r i e n d s h i p 2 . 5 If the user's friendship is 128 or more, Return is stronger than Frustration. Generation II [ edit | edit source ] The power of Frustration varies between 0 (at the maximum friendship value of 255) and 102 (at the minimum friendship value of 0). Generation III to VII [ edit | edit source ] The base power of Frustration is now set to 1 if the formula outputs 0. Generation VIII onwards [ edit | edit source ] Frustration cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A Normal -type attack. The more the user dislikes its trainer, the more powerful the move. G S C An attack based on lack of loyalty. R S E An attack that is stronger if the Trainer is disliked. (move) The less the user likes you, the more powerful this move. (TM) FR LG This attack move grows more powerful the less the user likes its Trainer . Colo XD An attack that is stronger if the Trainer is disliked. D P Pt HG SS PBR B W B2 W2 X Y OR AS A full-power attack that grows more powerful the less the user likes its Trainer. S M US UM P E This full-power attack grows more powerful the less the user likes its Trainer. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. It inflicts greater damage if the user's IQ is low. B S L てきポケモンに ダメージをあたえる じぶんの かしこさが ひくいほど ダメージが おおきくなる MD GtI S MD MD RT DX It damages an enemy. The less you have opened up to your team, the more powerful this move will be."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Frustration is the weakest Charged attack in Pokémon GO , in both Gyms and Trainer Battles . In Crystal 's Battle Tower and all core series games from Generation III to Generation VII , every non-playable Trainer 's Pokémon that knows Frustration has 0 friendship ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Frustration",
+    "Frustration (move)"
+  ],
+  "updatedAt": 1773323037
+}

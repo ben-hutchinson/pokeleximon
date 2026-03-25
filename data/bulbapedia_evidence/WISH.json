@@ -1,0 +1,37 @@
+{
+  "answerKey": "WISH",
+  "answerDisplay": "WISH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Wish (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Wish_(move)",
+  "pageId": 3884,
+  "pageRevisionId": 4462273,
+  "leadText": "If you were looking for the ending theme of the Korean dub of M22, see Wish (song). Wish (Japanese: ねがいごと Wish) is a non-damaging Normal-type move introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III 1.2 Generation IV 1.3 Generation V 1.4 Generation VI onwards 1.5 Generation IX 1.5.1 Pokémon Legends: Z-A Effect [ edit | edit source ] The turn Wish is used, the user will make a wish. At the end of the next turn, the Pokémon in the user's current position will be healed by a certain amount of HP. Wish can still be used even if the user's HP is full, but it will do nothing if the Pokémon that should be healed has full HP. A Pokémon affected by Heal Block cannot use Wish. If Wish has already been used but the Pokémon that would be healed is affected by Heal Block, the move will do nothing. Wish cannot be blocked by Protect . Generation III [ edit | edit source ] Wish heals the affected Pokémon by half its own maximum HP. Wish cannot be stolen by Snatch . Generation IV [ edit | edit source ] Wish will now cast its healing effect before a Pokémon switches in for a Pokémon knocked out in that turn. Generation V [ edit | edit source ] Wish now heals for half of the user's maximum HP rather than the recipient's. Wish can now be stolen by Snatch . Generation VI onwards [ edit | edit source ] Wish can be used as a part of a Contest Spectacular combination , causing Bestow , Fling and Present to give an extra three appeal points if any of them is used in the next turn. If powered up by a Normalium Z into Z-Wish, the user's Special Defense stat is raised by one stage. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 12s Move wind-up time 60 frames 45 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD A wish that restores HP. It takes time to work. FR LG A self-healing move that restores half the full HP on the next turn. D P Pt HG SS PBR A self-healing move. The user restores its own HP by up to half of its maximum HP in the next turn. B W B2 W2 One turn after this move is used, the target's HP is restored by half the user's maximum HP. X Y OR AS One turn after this move is used, the target's HP is restored by half the user's max HP. S M US UM P E Sw Sh BD SP LA One turn after this move is used, the user's or its replacement's HP is restored by half the user's max HP. S V One turn after this move is used, the user's or its replacement's HP is restored by up to half the user's max HP. ZA A short time after this move is used, HP will be restored either to the user or to the Pokémon that was switched into battle in the user's place."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Wish status. It boosts the user's HP recovery rate. MD T D S Gives the user a Wish status. A Pokémon with the Wish status has its natural HP recovery rate boosted. B S L じぶんを ねがいごとじょうたいにかえる ねがいごとじょうたいになると ＨＰが しぜんに かいふくするのが はやくなる MD GtI UNUSED S MD You'll make a wish! When your wish comes true, your HP and your teammates' HP will be restored."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation III , the status screen erroneously states that the move has 100% accuracy, even though it targets the user (thus it ignores accuracy and evasion checks)."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Wish",
+    "Wish (move)"
+  ],
+  "updatedAt": 1773328538
+}

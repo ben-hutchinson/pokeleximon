@@ -1,0 +1,17 @@
+{
+  "answerKey": "CHEWTLE",
+  "answerDisplay": "CHEWTLE",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Water type Pokémon introduced in Generation 8.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/chewtle",
+  "extract": "Chewtle is a Water type Pokémon introduced in Generation 8 .",
+  "rankPosition": 1,
+  "updatedAt": 1774210845
+}

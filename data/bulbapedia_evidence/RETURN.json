@@ -1,0 +1,37 @@
+{
+  "answerKey": "RETURN",
+  "answerDisplay": "RETURN",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Return (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Return_(move)",
+  "pageId": 3827,
+  "pageRevisionId": 4402796,
+  "leadText": "\"Return\" may also refer to an exclamation often used in the animated series when recalling a Pokémon. Return (Japanese: おんがえし Return Favor) is a damage-dealing Normal-type move introduced in Generation II. It was TM27 from Generation II to Pokémon Ultra Sun and Ultra Moon.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III to VII 1.3 Generation VIII onwards Effect [ edit | edit source ] Return inflicts damage and has no secondary effect. The base power of Return is dependent on the friendship of the user. The greater the user's friendship, the greater the base power. The base power can be calculated using the following formula: B a s e P o w e r = F r i e n d s h i p 2 . 5 If the user's friendship is 127 or less, Frustration is stronger than Return. Generation II [ edit | edit source ] The base power of Return varies between 0 (at the minimum friendship value of 0) and 102 (at the maximum friendship value of 255). Generation III to VII [ edit | edit source ] The base power of Return is now set to 1 if the formula outputs 0. Generation VIII onwards [ edit | edit source ] Return cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A Normal -type attack. The tamer the user, the more powerful the move. G S C An attack that is based on loyalty. R S E Colo XD An attack that increases in power with friendship. (move) The more the user likes you, the more powerful this move. (TM) FR LG This attack move grows more powerful the more the user likes its Trainer . D P Pt HG SS PBR B W B2 W2 X Y OR AS A full-power attack that grows more powerful the more the user likes its Trainer. S M US UM P E This full-power attack grows more powerful the more the user likes its Trainer. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. Its power rises with the user's IQ . B S L てきポケモンに ダメージをあたえる じぶんの かしこさがたかいほど ダメージが おおきくなる MD GtI S MD MD RT DX It damages an enemy. The more you've opened up to your team, the more powerful this move will be."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In the Spanish version of the games prior to Generation VI , Return is called Retroceso , which is likely due to a direct translation of the word return . An accurate translation was given in Pokémon X and Y , where the move was renamed Retribución . A trailer for Pokémon Brilliant Diamond and Shining Pearl in a Pokémon Presents shows a Super Contest Show with a Pikachu that knows Return, despite Return being unusable in those games."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Return",
+    "Return (move)"
+  ],
+  "updatedAt": 1773326386
+}

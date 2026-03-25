@@ -1,0 +1,38 @@
+{
+  "answerKey": "ROUGHSKIN",
+  "answerDisplay": "ROUGH SKIN",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Rough Skin (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rough_Skin_(Ability)",
+  "pageId": 4101,
+  "pageRevisionId": 4407391,
+  "leadText": "Rough Skin (Japanese: さめはだ Rough Skin) is an Ability introduced in Generation III. Prior to Generation V, it was the signature Ability of Carvanha and Sharpedo. In Generation IX, it is the signature Ability of Gible's evolutionary line.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV onward 1.1.3 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokémon with this Ability is hit by a move that makes contact , the attacking Pokémon takes damage equal to 1/16 of its own maximum HP . If a Pokémon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), each hit will activate this Ability. If the contact move hitting the Pokémon with this Ability does 0 damage (for example, if the Pokémon with this Ability uses Endure at 1 HP ) this Ability will not trigger. Generation IV onward [ edit | edit source ] When a Pokémon with this Ability is hit by a move that makes contact , the attacking Pokémon now takes damage equal to 1/8 of its own maximum HP . If Rough Skin causes both the Pokémon with this Ability and the attacking Pokémon to faint, then the attacking Pokémon will faint first. Generation V onward [ edit | edit source ] When a Pokémon with this Ability is hit by a move that makes contact , the Ability will trigger even if that move deals 0 damage. Outside of battle [ edit | edit source ] Rough Skin has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "Contents 1 In battle 1.1 Generation III 1.2 Generation IV onward 1.3 Generation V onward In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokémon with this Ability is hit by a move that makes contact , the attacking Pokémon takes damage equal to 1/16 of its own maximum HP . If a Pokémon with this Ability is hit by a multistrike move that makes contact (such as Fury Swipes ), each hit will activate this Ability. If the contact move hitting the Pokémon with this Ability does 0 damage (for example, if the Pokémon with this Ability uses Endure at 1 HP ) this Ability will not trigger. Generation IV onward [ edit | edit source ] When a Pokémon with this Ability is hit by a move that makes contact , the attacking Pokémon now takes damage equal to 1/8 of its own maximum HP . If Rough Skin causes both the Pokémon with this Ability and the attacking Pokémon to faint, then the attacking Pokémon will faint first. Generation V onward [ edit | edit source ] When a Pokémon with this Ability is hit by a move that makes contact , the Ability will trigger even if that move deals 0 damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on attackers. MD T D S Inflicts damage on an attacker who lands a direct-contact attack. B S L こうげきしてきた ポケモンに ダメージを あたえる MD GtI Damages the attacker a little when the Pokémon is hit by a direct attack. * When the Pokémon is hit with a direct attack like Tackle or Scratch, the attacker is damaged a little! * S MD When the Pokémon is hit with a contact move like Tackle or Scratch, the attacker is damaged a little! MD RT DX When the Pokémon is hit with a contact move, like Tackle or Scratch, the attacker is damaged a little."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Sharpedo's Japanese name is \"サメハダー\" Samehader , which is pulled directly from the same derivation as Rough Skin's Japanese name, \"さめはだ\" Samehada , meaning 'shark skin'."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Rough-Skin",
+    "Rough Skin",
+    "Rough-Skin (Ability)"
+  ],
+  "updatedAt": 1773326547
+}

@@ -165,6 +165,7 @@ def _player_profile_payload(row: dict[str, Any] | None, *, player_token: str) ->
         "displayName": _normalize_display_name((row or {}).get("display_name"), player_token=player_token),
         "publicSlug": public_slug,
         "leaderboardVisible": bool((row or {}).get("leaderboard_visible", True)),
+        "avatarPreset": str((row or {}).get("avatar_preset") or "").strip() or None,
         "hasAccount": bool((row or {}).get("username")),
         "createdAt": row["created_at"].isoformat() if row and row.get("created_at") else None,
         "updatedAt": row["updated_at"].isoformat() if row and row.get("updated_at") else None,
@@ -1886,7 +1887,7 @@ def get_or_create_player_profile(*, player_token: str) -> dict[str, Any]:
     with get_db() as conn:
         with conn.cursor(row_factory=dict_row) as cur:
             cur.execute(
-                "SELECT player_token, display_name, public_slug, leaderboard_visible, created_at, updated_at "
+                "SELECT player_token, display_name, public_slug, leaderboard_visible, avatar_preset, created_at, updated_at "
                 "FROM player_profiles WHERE player_token = %(player_token)s LIMIT 1",
                 {"player_token": token},
             )
@@ -1894,9 +1895,9 @@ def get_or_create_player_profile(*, player_token: str) -> dict[str, Any]:
             if row is None:
                 public_slug = _unique_public_slug(cur, display_name=default_name, player_token=token)
                 cur.execute(
-                    "INSERT INTO player_profiles (player_token, display_name, public_slug, leaderboard_visible) "
-                    "VALUES (%(player_token)s, %(display_name)s, %(public_slug)s, true) "
-                    "RETURNING player_token, display_name, public_slug, leaderboard_visible, created_at, updated_at",
+                    "INSERT INTO player_profiles (player_token, display_name, public_slug, leaderboard_visible, avatar_preset) "
+                    "VALUES (%(player_token)s, %(display_name)s, %(public_slug)s, true, NULL) "
+                    "RETURNING player_token, display_name, public_slug, leaderboard_visible, avatar_preset, created_at, updated_at",
                     {
                         "player_token": token,
                         "display_name": default_name,
@@ -1923,6 +1924,7 @@ def update_player_profile(
     player_token: str,
     display_name: str | None = None,
     leaderboard_visible: bool | None = None,
+    avatar_preset: str | None = None,
 ) -> dict[str, Any]:
     token = player_token.strip()
     if not token:
@@ -1932,17 +1934,20 @@ def update_player_profile(
         _normalize_display_name(display_name, player_token=token) if display_name is not None else current["displayName"]
     )
     next_visible = bool(leaderboard_visible) if leaderboard_visible is not None else bool(current["leaderboardVisible"])
+    next_avatar_preset = str(avatar_preset or "").strip() or None if avatar_preset is not None else current.get("avatarPreset")
     with get_db() as conn:
         with conn.cursor(row_factory=dict_row) as cur:
             public_slug = current["publicSlug"]
             cur.execute(
                 "UPDATE player_profiles "
-                "SET display_name = %(display_name)s, leaderboard_visible = %(leaderboard_visible)s, updated_at = NOW() "
+                "SET display_name = %(display_name)s, leaderboard_visible = %(leaderboard_visible)s, "
+                "avatar_preset = %(avatar_preset)s, updated_at = NOW() "
                 "WHERE player_token = %(player_token)s "
-                "RETURNING player_token, display_name, public_slug, leaderboard_visible, created_at, updated_at",
+                "RETURNING player_token, display_name, public_slug, leaderboard_visible, avatar_preset, created_at, updated_at",
                 {
                     "display_name": next_display_name,
                     "leaderboard_visible": next_visible,
+                    "avatar_preset": next_avatar_preset,
                     "player_token": token,
                 },
             )
@@ -2023,7 +2028,7 @@ def _merge_guest_player_data(cur: Any, *, source_player_token: str, target_playe
         return
 
     cur.execute(
-        "SELECT display_name, leaderboard_visible FROM player_profiles WHERE player_token = %(player_token)s LIMIT 1",
+        "SELECT display_name, leaderboard_visible, avatar_preset FROM player_profiles WHERE player_token = %(player_token)s LIMIT 1",
         {"player_token": source_player_token},
     )
     source_profile = cur.fetchone()
@@ -2031,7 +2036,7 @@ def _merge_guest_player_data(cur: Any, *, source_player_token: str, target_playe
         return
 
     cur.execute(
-        "SELECT display_name, leaderboard_visible FROM player_profiles WHERE player_token = %(player_token)s LIMIT 1",
+        "SELECT display_name, leaderboard_visible, avatar_preset FROM player_profiles WHERE player_token = %(player_token)s LIMIT 1",
         {"player_token": target_player_token},
     )
     target_profile = cur.fetchone() or {}
@@ -2121,13 +2126,16 @@ def _merge_guest_player_data(cur: Any, *, source_player_token: str, target_playe
     ):
         next_display_name = source_display_name
     next_visible = bool(target_profile.get("leaderboard_visible", True)) or bool(source_profile.get("leaderboard_visible", True))
+    next_avatar_preset = str(target_profile.get("avatar_preset") or "").strip() or str(source_profile.get("avatar_preset") or "").strip() or None
     cur.execute(
         "UPDATE player_profiles "
-        "SET display_name = %(display_name)s, leaderboard_visible = %(leaderboard_visible)s, updated_at = NOW() "
+        "SET display_name = %(display_name)s, leaderboard_visible = %(leaderboard_visible)s, "
+        "avatar_preset = %(avatar_preset)s, updated_at = NOW() "
         "WHERE player_token = %(player_token)s",
         {
             "display_name": next_display_name,
             "leaderboard_visible": next_visible,
+            "avatar_preset": next_avatar_preset,
             "player_token": target_player_token,
         },
     )
@@ -2158,7 +2166,7 @@ def create_player_account(
                 if cur.fetchone() is not None:
                     raise ValueError("Guest profile already claimed")
                 cur.execute(
-                    "SELECT player_token, display_name, public_slug, leaderboard_visible, created_at, updated_at "
+                    "SELECT player_token, display_name, public_slug, leaderboard_visible, avatar_preset, created_at, updated_at "
                     "FROM player_profiles WHERE player_token = %(player_token)s LIMIT 1",
                     {"player_token": player_token},
                 )
@@ -2167,9 +2175,9 @@ def create_player_account(
                     default_name = _normalize_display_name(None, player_token=player_token)
                     public_slug = _unique_public_slug(cur, display_name=default_name, player_token=player_token)
                     cur.execute(
-                        "INSERT INTO player_profiles (player_token, display_name, public_slug, leaderboard_visible) "
-                        "VALUES (%(player_token)s, %(display_name)s, %(public_slug)s, true) "
-                        "RETURNING player_token, display_name, public_slug, leaderboard_visible, created_at, updated_at",
+                        "INSERT INTO player_profiles (player_token, display_name, public_slug, leaderboard_visible, avatar_preset) "
+                        "VALUES (%(player_token)s, %(display_name)s, %(public_slug)s, true, NULL) "
+                        "RETURNING player_token, display_name, public_slug, leaderboard_visible, avatar_preset, created_at, updated_at",
                         {
                             "player_token": player_token,
                             "display_name": default_name,
@@ -2181,9 +2189,9 @@ def create_player_account(
                 default_name = _normalize_display_name(None, player_token=player_token)
                 public_slug = _unique_public_slug(cur, display_name=default_name, player_token=player_token)
                 cur.execute(
-                    "INSERT INTO player_profiles (player_token, display_name, public_slug, leaderboard_visible) "
-                    "VALUES (%(player_token)s, %(display_name)s, %(public_slug)s, true) "
-                    "RETURNING player_token, display_name, public_slug, leaderboard_visible, created_at, updated_at",
+                    "INSERT INTO player_profiles (player_token, display_name, public_slug, leaderboard_visible, avatar_preset) "
+                    "VALUES (%(player_token)s, %(display_name)s, %(public_slug)s, true, NULL) "
+                    "RETURNING player_token, display_name, public_slug, leaderboard_visible, avatar_preset, created_at, updated_at",
                     {
                         "player_token": player_token,
                         "display_name": default_name,
@@ -2780,7 +2788,6 @@ def get_analytics_summary(*, days: int = 30, timezone: str = "Europe/London") ->
                 "  ORDER BY (event_value->>'solveMs')::double precision"
                 ") FILTER ("
                 "  WHERE event_type = 'completed' "
-                "  AND (event_value ? 'solveMs') "
                 "  AND (event_value->>'solveMs') ~ '^[0-9]+(\\.[0-9]+)?$'"
                 ") AS median_solve_ms "
                 "FROM crossword_feedback "
@@ -3187,7 +3194,8 @@ def get_public_player_profile(*, public_slug: str) -> dict[str, Any] | None:
     with get_db() as conn:
         with conn.cursor(row_factory=dict_row) as cur:
             cur.execute(
-                "SELECT p.player_token, p.display_name, p.public_slug, p.leaderboard_visible, p.created_at, p.updated_at, a.username "
+                "SELECT p.player_token, p.display_name, p.public_slug, p.leaderboard_visible, p.avatar_preset, "
+                "p.created_at, p.updated_at, a.username "
                 "FROM player_profiles p "
                 "LEFT JOIN player_accounts a ON a.player_token = p.player_token "
                 "WHERE p.public_slug = %(public_slug)s LIMIT 1",
@@ -3201,6 +3209,7 @@ def get_public_player_profile(*, public_slug: str) -> dict[str, Any] | None:
         "displayName": payload["displayName"],
         "publicSlug": payload["publicSlug"],
         "leaderboardVisible": payload["leaderboardVisible"],
+        "avatarPreset": payload["avatarPreset"],
         "hasAccount": payload["hasAccount"],
         "createdAt": payload["createdAt"],
         "updatedAt": payload["updatedAt"],
@@ -3218,6 +3227,7 @@ def get_public_player_stats(*, public_slug: str, days: int = 30, timezone: str =
             "displayName": profile["displayName"],
             "publicSlug": profile["publicSlug"],
             "leaderboardVisible": profile["leaderboardVisible"],
+            "avatarPreset": profile.get("avatarPreset"),
             "hasAccount": profile["hasAccount"],
             "createdAt": profile["createdAt"],
             "updatedAt": profile["updatedAt"],

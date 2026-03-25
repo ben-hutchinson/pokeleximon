@@ -1,0 +1,34 @@
+{
+  "answerKey": "RAINDISH",
+  "answerDisplay": "RAIN DISH",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Rain Dish (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rain_Dish_(Ability)",
+  "pageId": 4120,
+  "pageRevisionId": 4478039,
+  "leadText": "Rain Dish (Japanese: あめうけざら Rain Saucer) is an Ability introduced in Generation III. Prior to Generation V, it was the signature Ability of Lotad's evolutionary line.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] During rain , a Pokémon with Rain Dish will regain 1 / 16 of its maximum HP at the end of each turn. Outside of battle [ edit | edit source ] Rain Dish has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] During rain , a Pokémon with Rain Dish will regain 1 / 16 of its maximum HP at the end of each turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Improves HP gain if it is raining. MD T D S Boosts the Pokémon's natural HP healing when it is raining. B S L てんきが あめだと ＨＰの しぜんかいふくが はやい MD GtI Unavailable S MD It helps the Pokémon restore HP naturally when the weather is rain! MD RT DX Theis Ability helps the Pokémon restore HP naturally more quickly when the weather condition is Rain or Heavy Rain."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Rain-Dish",
+    "Rain Dish",
+    "Rain-Dish (Ability)"
+  ],
+  "updatedAt": 1773329130
+}

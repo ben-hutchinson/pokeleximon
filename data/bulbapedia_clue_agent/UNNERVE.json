@@ -1,0 +1,73 @@
+{
+  "answerKey": "UNNERVE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4372720,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Unnerve (Japanese: Tension) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD GtI Foes next to the Pokemon cannot eat or drink. * Foes next to the Pokemon become nervous and can't eat or drink! Thrown items that hit them will still have an effect. * S MD Enemy Pokemon next to the Pokemon become nervous and can't eat or drink! Thrown items that hit them will still have an effect.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation V 1.1.2 Generation VII 1.1.3 Generation VIII onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation V [ edit | edit source ] Unnerve causes opposing Pokemon to be unable to eat their own held Berries . However, it does not prevent usage of Natural Gift . When an Unnerve user switches in, the Ability displays a message. If there are entry hazards , then they activate after the message. Generation VII [ edit | edit source ] Wild Pokemon are 1.2 as likely to answer calls for help when facing a Pokemon with Unnerve. It shares this effect with Intimidate and Pressure . Generation VIII onward [ edit | edit source ] Unnerve does not prevent opposing Pokemon from eating held Berries when the move Teatime is used. Outside of battle [ edit | edit source ] Unnerve has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "Contents 1 In battle 1.1 Generation V 1.2 Generation VII 1.3 Generation VIII onward In battle [ edit | edit source ] Generation V [ edit | edit source ] Unnerve causes opposing Pokemon to be unable to eat their own held Berries . However, it does not prevent usage of Natural Gift . When an Unnerve user switches in, the Ability displays a message. If there are entry hazards , then they activate after the message. Generation VII [ edit | edit source ] Wild Pokemon are 1.2 as likely to answer calls for help when facing a Pokemon with Unnerve. It shares this effect with Intimidate and Pressure . Generation VIII onward [ edit | edit source ] Unnerve does not prevent opposing Pokemon from eating held Berries when the move Teatime is used.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Prevents opposing Pokemon from eating held Berries.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "switching ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "switching ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Switching abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258029
+}

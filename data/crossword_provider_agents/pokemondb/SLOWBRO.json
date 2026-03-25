@@ -1,0 +1,17 @@
+{
+  "answerKey": "SLOWBRO",
+  "answerDisplay": "SLOWBRO",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Water / Psychic type Pokémon introduced in Generation 1.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/slowbro",
+  "extract": "Slowbro is a Water / Psychic type Pokémon introduced in Generation 1 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212895
+}

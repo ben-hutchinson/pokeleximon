@@ -1,0 +1,75 @@
+{
+  "answerKey": "DOUBLESHOCK",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4498410,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX Electric move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Electric physical move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Effect [ edit | edit source ] If used by an Electric-type Pokemon, Double Shock will inflict damage to the target and cause the user to lose its Electric type. Double Shock fails if the user is not Electric-type, making the move always fail after the first use until the Pokemon regains its Electric type (either by switching out, or other type changing effects such as through Protean or Reflect Type ). If the user is a pure Electric-type Pokemon, it will become typeless . The Pokemon's type reverts to its default types if it is switched out. A Pokemon with Protean or Libero cannot successfully use Double Shock unless it already is Electric-type; otherwise, Double Shock will fail and Protean or Libero will not activate. A Pokemon that has Terastallized into its Electric Tera Type will not lose its Electric type (although the message \" The used up all its electricity! \" is still displayed). Therefore, a Terastallized Pokemon can use Double Shock multiple times in a row without the need to switch out.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "120-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "switching move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Electric physical move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen IX Electric move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "120-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "electric physical move"
+    ],
+    "connections_descriptors": [
+      "Switching moves",
+      "Electric Physical moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257940
+}

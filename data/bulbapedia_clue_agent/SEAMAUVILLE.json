@@ -1,0 +1,119 @@
+{
+  "answerKey": "SEAMAUVILLE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4473081,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Hoenn location",
+        "evidence_ref": "lead",
+        "specificity": 0.5
+      },
+      {
+        "text": "route landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "Site on Route 108",
+        "evidence_ref": "lead",
+        "specificity": 0.86
+      },
+      {
+        "text": "Partly reached by Dive",
+        "evidence_ref": "lead",
+        "specificity": 0.82
+      },
+      {
+        "text": "Hides the Scanner",
+        "evidence_ref": "lead",
+        "specificity": 0.84
+      },
+      {
+        "text": "Replaced by Sea Mauville",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Site on Route 108",
+        "evidence_ref": "lead",
+        "mystery_score": 0.54,
+        "specificity_score": 0.72,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Partly reached by Dive",
+        "evidence_ref": "lead",
+        "mystery_score": 0.76,
+        "specificity_score": 0.82,
+        "style": "access"
+      },
+      {
+        "text": "Dive-only landmark",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.76,
+        "style": "access"
+      },
+      {
+        "text": "Hides the Scanner",
+        "evidence_ref": "lead",
+        "mystery_score": 0.8,
+        "specificity_score": 0.84,
+        "style": "treasure"
+      },
+      {
+        "text": "Supplanted by Sea Mauville",
+        "evidence_ref": "lead",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "version"
+      },
+      {
+        "text": "Hoenn landmark",
+        "evidence_ref": "lead",
+        "mystery_score": 0.38,
+        "specificity_score": 0.5,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Hoenn route",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.7,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Regional route",
+        "evidence_ref": "lead",
+        "mystery_score": 0.44,
+        "specificity_score": 0.62,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Route in Hoenn",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.66,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "Dive-access site",
+      "scanner hideout"
+    ],
+    "connections_descriptors": [
+      "Hoenn landmarks",
+      "Hoenn routes"
+    ],
+    "risk_flags": [],
+    "confidence": 0.77
+  },
+  "updatedAt": 1774258008
+}

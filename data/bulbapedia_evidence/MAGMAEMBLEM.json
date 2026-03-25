@@ -1,0 +1,34 @@
+{
+  "answerKey": "MAGMAEMBLEM",
+  "answerDisplay": "MAGMA EMBLEM",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Magma Emblem",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Magma_Emblem",
+  "pageId": 24965,
+  "pageRevisionId": 4266285,
+  "leadText": "The Magma Emblem (Japanese: マグマのしるし Magma Symbol) is a Key Item introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] The Magma Emblem allows the player to open the hidden entrance to Team Magma's Hideout at the Jagged Pass ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description E A medal-like item in the same shape as Team Magma 's mark."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price E N/A N/A Effect [ edit | edit source ] The Magma Emblem allows the player to open the hidden entrance to Team Magma's Hideout at the Jagged Pass . Description [ edit | edit source ] Games Description E A medal-like item in the same shape as Team Magma 's mark. Acquisition [ edit | edit source ] Games Method E Mt. Pyre 's summit (from an old lady after confronting Team Aqua )"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Magma-Emblem",
+    "Magma Emblem",
+    "Magma-Emblem (item)"
+  ],
+  "updatedAt": 1773324653
+}

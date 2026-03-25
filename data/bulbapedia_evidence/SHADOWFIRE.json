@@ -1,0 +1,34 @@
+{
+  "answerKey": "SHADOWFIRE",
+  "answerDisplay": "SHADOW FIRE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Fire (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Fire_(move)",
+  "pageId": 9586,
+  "pageRevisionId": 4469688,
+  "leadText": "Shadow Fire (Japanese: ダークファイア Dark Fire) is one of several Shadow moves available only in Pokémon XD: Gale of Darkness. Like other Shadow moves, it is forgotten and replaced with another move once the Shadow Pokémon is purified. It is the signature move of Shadow Moltres.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Shadow Fire is a Shadow version of Flamethrower . It deals damage and has a 10% chance of burning the target. As Shadow Pokémon cannot be traded, and since Pokémon Contests do not exist in Pokémon XD: Gale of Darkness, Shadow Fire cannot be used in Contests."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description XD A shadowy fireball attack that may inflict a burn."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Shadow Fire is the only Shadow move that can cause burning ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Fire",
+    "Shadow Fire",
+    "Shadow-Fire (move)"
+  ],
+  "updatedAt": 1773326836
+}

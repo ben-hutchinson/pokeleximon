@@ -1,0 +1,37 @@
+{
+  "answerKey": "ACUPRESSURE",
+  "answerDisplay": "ACUPRESSURE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Acupressure (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Acupressure_(move)",
+  "pageId": 14451,
+  "pageRevisionId": 4482365,
+  "leadText": "Acupressure (Japanese: つぼをつく Pressure Point Poke) is a non-damaging Normal-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation IV [ edit | edit source ] Acupressure chooses one of the target's stats at random and raises it by two stages. It can raise either the target's Attack , Defense , Special Attack , Special Defense , Speed , accuracy , or evasion stat but will not attempt to raise a stat that is already maximized, meaning that the move will fail if all stats are maximized. Acupressure will also fail if the target has a substitute . In this generation only, Acupressure can be stolen by Snatch . The move will apply to the user of Snatch regardless of the move's original target. Generation V onwards [ edit | edit source ] Acupressure will no longer fail if the target is the user and the user is behind a substitute; it will still fail if targeting an ally behind a Substitute. Acupressure can no longer be stolen by Snatch. If a Pokémon selected Acupressure as its move, but when executing the move it is in a different position (due to shifting in a Triple Battle or Ally Switch ), Acupressure will be used on the Pokémon currently in the targeted position (even if the user targeted itself initially); however, if the user now targets itself but did not initially, Acupressure fails. If the user's side of the field is protected by Crafty Shield , Acupressure will fail if executed on an ally but succeed if executed on the user. If powered up by a Normalium Z into Z-Acupressure, the user's critical hit rate is increased by two stages."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR B W B2 W2 The user applies pressure to stress points, sharply boosting one of its stats. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user applies pressure to stress points, sharply boosting one of its or its allies' stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Boosts Attack, Defense, Special Attack, or Special Defense by 2 levels, but which gets boosted is random. Affects all team members in the room. B S L おなじへやの なかまポケモンと じぶんの こうげき ぼうぎょ とくこう とくぼうの どれかを ランダムで えらんで ２だんかいあげる MD GtI UNUSED S MD It sharply boosts the Attack, Defense, Sp. Atk, Sp. Def, evasiveness, accuracy, or Travel Speed of you and you teammates. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] No other move has the same range , the user or an adjacent ally, as Acupressure. It is the only move to have a unique range."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Acupressure",
+    "Acupressure (move)"
+  ],
+  "updatedAt": 1773320675
+}

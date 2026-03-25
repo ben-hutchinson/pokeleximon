@@ -1,0 +1,37 @@
+{
+  "answerKey": "SNARL",
+  "answerDisplay": "SNARL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Snarl (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Snarl_(move)",
+  "pageId": 117484,
+  "pageRevisionId": 4462285,
+  "leadText": "Snarl (Japanese: バークアウト Bark Out) is a damage-dealing Dark-type move introduced in Generation V. It is: TM95 from Generation V to Pokémon Ultra Sun and Ultra Moon. TM85 in Pokémon Sword and Shield. TM78 in Pokémon Brilliant Diamond and Shining Pearl. TM030 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation V 1.2 Generation VI onwards 1.3 Generation VIII 1.3.1 Pokémon Legends: Arceus 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Snarl deals damage and lowers the Special Attack of all targets hit by one stage. Snarl hits all adjacent opponents in Triple Battles . Snarl is a sound-based move . Snarl cannot be called by Metronome . Generation V [ edit | edit source ] If used on a Pokémon behind a substitute , it hits that Pokémon's substitute. Generation VI onwards [ edit | edit source ] Snarl can now hit Pokémon even if they are behind a substitute. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Snarl's power has been increased to 60, and it lowers the target's offensive stats for three turns. It can also only hit one target, like all other moves in this game. Pokémon Legends: Arceus Category Special PP 15 Agile Strong Power 60 45 75 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Turns 3 2 4 ? ? ? ? Lowers the target's offensive stats. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 55 66 Cooldown 9s Move wind-up time 10 frames Effect duration 8s 11s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user yells as if it is ranting about something, making the target's Sp. Atk stat decrease. X Y OR AS S M US UM P E The user yells as if it's ranting about something, which lowers the Sp. Atk stat of opposing Pokémon. Sw Sh BD SP S V The user yells as if it's ranting about something, which lowers the Sp. Atk stats of opposing Pokémon. LA The user attacks by crying out as if it's ranting about something. This also lowers the target's offensive stats. ZA The user snarls incessantly at targets to lower their Sp. Atk stats for a short time."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It damages nearby enemies. It also lowers their Special Attack. S MD MD RT DX It damages nearby enemies. It also lowers their Sp. Atk."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Prior to the release of Pokémon Black 2 and White 2 , this move had a very unique distribution, being simultaneously a TM and an event -exclusive move due to TM95 not being available yet. Thus the only way to give many Pokémon Snarl at the time was to receive the event Zoroark listed above, then pass down the move via breeding , chain breeding, or Sketch , taking advantage of the fact that TM moves can be passed down. Outside of Volt Tackle , this was the only case where a move that is not an Egg Move required breeding to obtain. Snarl is the only variant of Icy Wind that does not lower the target's Speed . Snarl is the only damage-dealing sound-based move with an accuracy below 100%."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Snarl",
+    "Snarl (move)"
+  ],
+  "updatedAt": 1773327211
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "SUCKERPUNCH",
+  "answerDisplay": "SUCKER PUNCH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sucker Punch (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sucker_Punch_(move)",
+  "pageId": 18880,
+  "pageRevisionId": 4500938,
+  "leadText": "Sucker Punch (Japanese: ふいうち Surprise Attack) is a damage-dealing Dark-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation V 1.3 Generation VII 1.4 Generation VIII 1.4.1 Pokémon Sword and Shield Effect [ edit | edit source ] Generation IV [ edit | edit source ] Sucker Punch has a power of 80. It has a priority of +1, so it is used before all moves that do not have increased priority. If Sucker Punch's target has selected a physical or special attack and has not yet had a chance to execute its move, Sucker Punch will damage the target; otherwise, Sucker Punch will fail. Sucker Punch only depends on the move the target has selected, and is not affected by any consideration of whether the attack can actually be executed, such as status conditions like sleep or freeze or Abilities like Truant . Generation V [ edit | edit source ] Sucker Punch will now succeed if the opponent is using Me First (despite the fact that Me First is a status move ). Generation VII [ edit | edit source ] Sucker Punch's base power is reduced to 70. Generation VIII [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] Due to a glitch , in a Double Battle where the player who didn't initiate the challenge is down to their final Pokémon, that Pokémon's Sucker Punch originally failed when used against the opponent on their right, regardless of what move that Pokémon selected for the turn. With the release of the version 1.1 update to Sword and Shield , this glitch was fixed and Sucker Punch can now correctly hit Pokémon in that position."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR This move enables the user to attack first. It fails if the foe is not readying an attack, however. B W B2 W2 This move enables the user to attack first. It fails if the target is not readying an attack, however. X Y OR AS S M US UM P E Sw Sh BD SP LA S V This move enables the user to attack first. This move fails if the target is not readying an attack."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on a target up to 2 tiles away. B S L てきポケモンに ダメージをあたえる ２マスまで とどく MD GtI S MD MD RT DX It damages an enemy. It reaches up to 2 tiles away."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Despite its name, Sucker Punch is not a punching move . It is the only move with this distinction. The term \" sucker punch \" refers to an unexpected or cheap shot at an opponent, akin to its Japanese name「ふいうち」, which translates to surprise attack . Thus, many Pokémon that do not possess arms can learn this move, and its base power is not increased by Iron Fist ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sucker-Punch",
+    "Sucker Punch",
+    "Sucker-Punch (move)"
+  ],
+  "updatedAt": 1773327642
+}

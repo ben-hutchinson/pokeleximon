@@ -1,0 +1,68 @@
+{
+  "answerKey": "INTREPIDSWORD",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4465196,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Intrepid Sword (Japanese: Unbending Sword) is an Ability introduced in Generation VIII. It is the signature Ability of Zacian.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation VIII 1.1.2 Generation IX 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation VIII [ edit | edit source ] Intrepid Sword raises the Attack stat of the Pokemon with this Ability by one stage when it enters the battle. Generation IX [ edit | edit source ] Intrepid Sword only activates once per battle. Outside of battle [ edit | edit source ] Intrepid Sword has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Generation VIII [ edit | edit source ] Intrepid Sword raises the Attack stat of the Pokemon with this Ability by one stage when it enters the battle. Generation IX [ edit | edit source ] Intrepid Sword only activates once per battle.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Boosts Attack in battle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "boosting ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "boosting ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen VIII ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Boosting abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257957
+}

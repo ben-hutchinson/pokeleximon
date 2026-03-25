@@ -1,0 +1,29 @@
+{
+  "answerKey": "TRIAGE",
+  "answerDisplay": "TRIAGE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Triage (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Triage_(Ability)",
+  "pageId": 214601,
+  "pageRevisionId": 4407545,
+  "leadText": "Triage (Japanese: ヒーリングシフト Healing Shift) is an Ability introduced in Generation VII. It is the signature Ability of Comfey.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Affected moves 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Triage increases the priority of moves that restore HP used by the Pokémon with this Ability by 3, including both damaging moves and status moves . Triage does not affect Aqua Ring , Grassy Terrain , Ingrain , Leech Seed , Pain Split , Present , Pollen Puff , or Z-Moves that only heal due to their Z-Power effect (such as Z- Conversion 2 ). Affected moves [ edit | edit source ] The table below lists the moves affected by Triage, as well as the Pokémon that can have Triage and learn those moves. Move Type Cat. Pow. Acc. Learned by Draining Kiss Fairy Special 50 100 Floral Healing Fairy Status — — Giga Drain Grass Special 75 100 Rest Psychic Status — — Synthesis Grass Status — — Although the following moves are affected by the Ability, they currently cannot be learned by any Pokémon with Triage. They may, however, be used by a Pokémon that gained Triage by Trace or a move such as Skill Swap or Role Play . Move Type Cat. Pow. Acc. Absorb Grass Special 20 100 Bitter Blade Fire Physical 90 100 Drain Punch Fighting Physical 75 100 Dream Eater Psychic Special 100 100 Heal Order Bug Status — — Heal Pulse Psychic Status — — Healing Wish Psychic Status — — Horn Leech Grass Physical 75 100 Leech Life Bug Physical 80 100 Lunar Blessing Psychic Status — — Lunar Dance Psychic Status — — Matcha Gotcha Grass Special 80 90 Mega Drain Grass Special 40 100 Milk Drink Normal Status — — Moonlight Fairy Status — — Morning Sun Normal Status — — Oblivion Wing Flying Special 80 100 Parabolic Charge Electric Special 65 100 Purify Poison Status — — Recover Normal Status — — Revival Blessing Normal Status — — Roost Flying Status — — Shore Up Ground Status — — Slack Off Normal Status — — Soft-Boiled Normal Status — — Strength Sap Grass Status — 100 Swallow Normal Status — — Wish Normal Status — — Outside of battle [ edit | edit source ] Triage has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Triage increases the priority of moves that restore HP used by the Pokémon with this Ability by 3, including both damaging moves and status moves . Triage does not affect Aqua Ring , Grassy Terrain , Ingrain , Leech Seed , Pain Split , Present , Pollen Puff , or Z-Moves that only heal due to their Z-Power effect (such as Z- Conversion 2 ). Affected moves [ edit | edit source ] The table below lists the moves affected by Triage, as well as the Pokémon that can have Triage and learn those moves. Move Type Cat. Pow. Acc. Learned by Draining Kiss Fairy Special 50 100 Floral Healing Fairy Status — — Giga Drain Grass Special 75 100 Rest Psychic Status — — Synthesis Grass Status — — Although the following moves are affected by the Ability, they currently cannot be learned by any Pokémon with Triage. They may, however, be used by a Pokémon that gained Triage by Trace or a move such as Skill Swap or Role Play . Move Type Cat. Pow. Acc. Absorb Grass Special 20 100 Bitter Blade Fire Physical 90 100 Drain Punch Fighting Physical 75 100 Dream Eater Psychic Special 100 100 Heal Order Bug Status — — Heal Pulse Psychic Status — — Healing Wish Psychic Status — — Horn Leech Grass Physical 75 100 Leech Life Bug Physical 80 100 Lunar Blessing Psychic Status — — Lunar Dance Psychic Status — — Matcha Gotcha Grass Special 80 90 Mega Drain Grass Special 40 100 Milk Drink Normal Status — — Moonlight Fairy Status — — Morning Sun Normal Status — — Oblivion Wing Flying Special 80 100 Parabolic Charge Electric Special 65 100 Purify Poison Status — — Recover Normal Status — — Revival Blessing Normal Status — — Roost Flying Status — — Shore Up Ground Status — — Slack Off Normal Status — — Soft-Boiled Normal Status — — Strength Sap Grass Status — 100 Swallow Normal Status — — Wish Normal Status — —"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Triage",
+    "Triage (Ability)"
+  ],
+  "updatedAt": 1773328091
+}

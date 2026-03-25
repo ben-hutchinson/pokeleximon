@@ -1,0 +1,62 @@
+{
+  "answerKey": "DOWNLOAD",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4469199,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Download (Japanese: Download) is an Ability introduced in Generation IV. Prior to Generation V and in Generation IX, it is the signature Ability of Porygon's evolutionary line.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the Pokemon's Attack or Special Attack when it attacks. B S L MD GtI Unavailable S MD The Pokemon's Attack or Sp. Atk sometimes goes up when the Pokemon uses a move on an enemy. If the enemy's Defense is higher than its Sp. Def, Sp. Atk goes up, and if its Sp. Def is higher, Attack goes up! MD RT DX The Pokemon's Attack or Sp. Atk sometimes goes up when the Pokemon uses a move on an enemy. Which one gets raised is based on the enemy's stats.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Download enters battle, or when a Pokemon gains Download, Download raises either the Attack stat or Special Attack stat by one stage depending on the foe's currently lowest defensive stat. It raises Attack if the foe's current Defense is lower than its current Special Defense stat; otherwise, it raises Special Attack. In case of a tie between Defense and Special Defense, Download increases Special Attack. For determining which of the foe's defensive stats is lower, Download takes into account stat stages and the effect of Power Trick ; however, it does not consider the effects of held items , Abilities such as Marvel Scale , or Wonder Room . During a battle with multiple opponents, Download calculates the average Defense and Special Defense by adding the stats of all opposing Pokemon, and determines the lowest stat between both averages. Generation IV [ edit | edit source ] Download does not take into account the defensive stats of opponents behind a substitute . If all opponents are behind a substitute, Download will not activate. Generation V onward [ edit | edit source ] Download now takes into account the defensive stats of opponents behind a substitute . Outside of battle [ edit | edit source ] Download has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with Download enters battle, or when a Pokemon gains Download, Download raises either the Attack stat or Special Attack stat by one stage depending on the foe's currently lowest defensive stat. It raises Attack if the foe's current Defense is lower than its current Special Defense stat; otherwise, it raises Special Attack. In case of a tie between Defense and Special Defense, Download increases Special Attack. For determining which of the foe's defensive stats is lower, Download takes into account stat stages and the effect of Power Trick ; however, it does not consider the effects of held items , Abilities such as Marvel Scale , or Wonder Room . During a battle with multiple opponents, Download calculates the average Defense and Special Defense by adding the stats of all opposing Pokemon, and determines the lowest stat between both averages. Generation IV [ edit | edit source ] Download does not take into account the defensive stats of opponents behind a substitute . If all opponents are behind a substitute, Download will not activate. Generation V onward [ edit | edit source ] Download now takes into account the defensive stats of opponents behind a substitute .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "boosting trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "boosting trait"
+    ],
+    "connections_descriptors": [
+      "Boosting abilities",
+      "Gen IV abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257940
+}

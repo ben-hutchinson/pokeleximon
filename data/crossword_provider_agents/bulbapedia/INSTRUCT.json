@@ -1,0 +1,14 @@
+{
+  "answerKey": "INSTRUCT",
+  "answerDisplay": "INSTRUCT",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Copies the foe's last move",
+  "score": 120.44,
+  "approved": true,
+  "qualityFlags": [],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Instruct_(move)",
+  "extract": "Instruct (Japanese: さいはい Command) is a non-damaging Psychic-type move introduced in Generation VII. It is the signature move of Oranguru.",
+  "updatedAt": 1774258375
+}

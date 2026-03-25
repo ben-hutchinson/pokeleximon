@@ -1,0 +1,53 @@
+{
+  "answerKey": "BIKEGREEN",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "unused",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "XXX new effect for bike--green",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Two-wheeled travel item",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Two-wheeled travel item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "utility"
+      },
+      {
+        "text": "Ride for quick travel",
+        "evidence_ref": "lead",
+        "mystery_score": 0.6,
+        "specificity_score": 0.74,
+        "style": "utility"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "travel gear"
+    ],
+    "connections_descriptors": [
+      "Battle items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257929
+}

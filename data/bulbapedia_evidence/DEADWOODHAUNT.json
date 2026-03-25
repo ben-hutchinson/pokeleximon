@@ -1,0 +1,30 @@
+{
+  "answerKey": "DEADWOODHAUNT",
+  "answerDisplay": "DEADWOOD HAUNT",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Deadwood Haunt",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Deadwood_Haunt",
+  "pageId": 272572,
+  "pageRevisionId": 4422201,
+  "leadText": "Deadwood Haunt (Japanese: オバケワラ Haunted Wilderness) is an area located in the southern region of the Cobalt Coastlands of Hisui. It is situated between Bathers' Lagoon and Sand's Reach.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] The middle portion of the Cobalt Coastland's southern peninsula comprises Deadwood Haunt. It is a path that runs through a forest of dead trees and small hills, with the only lush foliage across the entire strip being patches of tall grass. Along the northern shore, two shipwrecks are found washed up. One ship lies upside down in the sand, with enough space underneath the body of the ship for the player to hide in. The other ship lies right-side up, with its mast intact yet skewed. The ruined ships have crates littered at their bases."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] This section is incomplete. Please feel free to edit this section to add missing information and complete it."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Deadwood-Haunt",
+    "Deadwood Haunt",
+    "Deadwood-Haunt (location)"
+  ],
+  "updatedAt": 1773328829
+}

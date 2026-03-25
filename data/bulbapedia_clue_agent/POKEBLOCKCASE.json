@@ -1,0 +1,65 @@
+{
+  "answerKey": "POKEBLOCKCASE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "gameplay",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Holds Pokblocks.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Adventure utility item",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      },
+      {
+        "text": "Used for berry recipes or blending",
+        "evidence_ref": "lead",
+        "specificity": 0.82
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "PokBlock-making berry",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "family"
+      },
+      {
+        "text": "Berry-blending ingredient",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "family"
+      },
+      {
+        "text": "Adventure utility item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.4,
+        "specificity_score": 0.58,
+        "style": "utility"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "berry ingredient"
+    ],
+    "connections_descriptors": [
+      "Battle items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257994
+}

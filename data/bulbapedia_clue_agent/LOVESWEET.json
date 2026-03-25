@@ -1,0 +1,64 @@
+{
+  "answerKey": "LOVESWEET",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4487560,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "evolution",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen VIII evolution",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Effect [ edit | edit source ] Causes Milcery to evolve into Alcremie with a Love Sweet when the player does a spin while Milcery is holding it. This consumes the Love Sweet.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Evolution item",
+        "evidence_ref": "lead",
+        "specificity": 0.76
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Evolution item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.76,
+        "style": "family"
+      },
+      {
+        "text": "Evolution-trigger item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.54,
+        "specificity_score": 0.8,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "evolution item"
+    ],
+    "connections_descriptors": [
+      "Evolution items",
+      "Gen VIII items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257965
+}

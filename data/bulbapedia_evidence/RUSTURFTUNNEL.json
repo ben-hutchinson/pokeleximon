@@ -1,0 +1,26 @@
+{
+  "answerKey": "RUSTURFTUNNEL",
+  "answerDisplay": "RUSTURF TUNNEL",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Rusturf Tunnel",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rusturf_Tunnel",
+  "pageId": 7946,
+  "pageRevisionId": 4392618,
+  "leadText": "Rusturf Tunnel (Japanese: カナシダトンネル Kanashida Tunnel) is a tunnel between Rustboro City and Verdanturf Town, hence the name. Due to construction on the tunnel, Verdanturf Town can't be accessed through Rusturf Tunnel during the first stages of the game. Rock Smash is needed to fully travel across the Rusturf Tunnel. It is also the only way to travel to a secret area of Route 116. After obtaining the Stone Badge, the player follows the Grunt encountered earlier in the game to this tunnel. After defeating him, the player will receive the Devon Goods/Devon Parts, which can be returned to the Devon Corporation. Later in the game, the player will find two people, separated by a pair of rocks which can be smashed using Rock Smash. After the rock is smashed, the man will give the player HM04 (Strength)/an Aggronite.",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The name of the tunnel in all the localized languages are a combination of the two cities it connects (Rustboro City and Verdanturf Town, respectively, for all languages except Italian, which is in the opposite order). This naming convention is popular in Japan, as in 京葉 ( Keiyō ; named for 東 京 Tō kyō and 千 葉 Chi ba ) and 東名 ( Tōmei ; named for 東 京 Tō kyō and 名 古屋 Na goya ). When the two rocks in the tunnel are smashed, they do not reappear when the player leaves and re-enters the tunnel, unlike other breakable rocks found in various locations in the game. In Generation III, there is fog here, but it has no in-battle effect; this is because fog was not used as a game mechanic until Generation IV . In Generation VI, there is no fog. Development in Rusturf Tunnel was halted due to its inhabitants being sensitive to loud noises, despite the fact that the only Pokémon found in the area naturally have Soundproof ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Rusturf-Tunnel",
+    "Rusturf Tunnel",
+    "Rusturf-Tunnel (location)"
+  ],
+  "updatedAt": 1773326576
+}

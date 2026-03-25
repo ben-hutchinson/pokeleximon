@@ -1,0 +1,37 @@
+{
+  "answerKey": "SWITCHEROO",
+  "answerDisplay": "SWITCHEROO",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Switcheroo (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Switcheroo_(move)",
+  "pageId": 18887,
+  "pageRevisionId": 4482364,
+  "leadText": "Switcheroo redirects here. For the facility involving the Battle Agency, see Festival Plaza. Switcheroo (Japanese: すりかえ Secret Switch) is a non-damaging Dark-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] The user switches held items with the target. If only one of them is holding an item, the item is moved to the other. Switcheroo fails if: Neither Pokémon has a held item. The user is a wild Pokémon . The target is behind a substitute . The target has Sticky Hold (even if it has no held item). Either Pokémon is holding: Mail any Z-Crystal a Drive , if either Pokémon is Genesect a Mega Stone , if either Pokémon could use it to Mega Evolve a colored orb , if either Pokémon could use it to undergo Primal Reversion a Memory , if either Pokémon is Silvally a Rusted Sword , if either Pokémon is Zacian a Rusted Shield , if either Pokémon is Zamazenta a Booster Energy , if either Pokémon is a Paradox Pokémon (excluding Koraidon , Miraidon , Gouging Fire , Raging Bolt , Iron Boulder and Iron Crown ) a Wellspring Mask , Hearthflame Mask , or Cornerstone Mask , if either Pokémon is Ogerpon In Link Battles, battle facilities , Secret Bases , and the Trainer House , items stolen will be returned at the end of the battle. Generation IV [ edit | edit source ] In these generations, Switcheroo fails if either Pokémon has Multitype or either Pokémon is holding a Griseous Orb . Generation V onwards [ edit | edit source ] Switcheroo no longer switches a Trainer's Pokémon's items permanently; however, items switched in wild battles are permanently switched. Switcheroo can now exchange a Griseous Orb, but still fails if either Pokémon holds a Griseous Orb and either Pokémon is Giratina . Switcheroo can now exchange items with a Pokémon that has Multitype , but still fails if either Pokémon holds a Plate and either Pokémon is Arceus . If powered up by a Darkinium Z into Z-Switcheroo, the user's Speed is raised two stages, then the move itself fails after obtaining the Z-Power since it is not possible to exchange a Z-Crystal. Switcheroo will always fail when used in a Max Raid Battle or a Tera Raid Battle , regardless of the items or target. (It works as normal against Dynamax Pokémon in other battles.) In Pokémon Sword and Shield , due to a presumed glitch in accounting for the removal of colored orbs, Switcheroo would fail in versions 1.2.0 through 1.3.1 if it was used by or against Groudon or Kyogre and either the user or the target was not holding an item. This behavior was corrected in version 1.3.2."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user trades held items with the foe faster than the eye can follow. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user trades held items with the target faster than the eye can follow."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D Switches the user's hold item with the target's hold item. It works only if both Pokémon are holding items. MD S Switches the user's held item with the target's held item. It works only if both Pokémon are holding items. B S L てきポケモンのどうぐと じぶんの どうぐを いれかえる じぶんと てきポケモンの りょうほうが どうぐを もっていないと せいこうしない MD GtI UNUSED S MD MD RT DX It swaps your held item with a target's held item. The move succeeds even if either you or the target doesn't have an item."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation IX , Switcheroo has the same animation as Trick ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Switcheroo",
+    "Switcheroo (move)"
+  ],
+  "updatedAt": 1773327749
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "BREAKINGSWIPE",
+  "answerDisplay": "BREAKING SWIPE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Breaking Swipe (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Breaking_Swipe_(move)",
+  "pageId": 240322,
+  "pageRevisionId": 4484465,
+  "leadText": "Breaking Swipe (Japanese: ワイドブレイカー Wide Breaker) is a damage-dealing Dragon-type move introduced in Generation VIII. It was TM99 in Pokémon Sword and Shield, and is TM222 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Breaking Swipe deals damage to all opponents. It lowers the Attack of all targets by one stage. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Breaking Swipe cannot be selected in a battle. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 60 72 Cooldown 9s Move wind-up time 10 frames Effect duration 8s 11s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V The user swings its tough tail wildly and attacks opposing Pokémon. This also lowers their Attack stats. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. ZA The user attacks by wildly swinging its tough tail. This also lowers targets' Attack stats for a short time."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Breaking Swipe is the only Dragon-type move that can be taught by TM in Pokémon Sword and Shield ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Breaking-Swipe",
+    "Breaking Swipe",
+    "Breaking-Swipe (move)"
+  ],
+  "updatedAt": 1773321336
+}

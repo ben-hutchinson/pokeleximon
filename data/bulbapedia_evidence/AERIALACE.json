@@ -1,0 +1,38 @@
+{
+  "answerKey": "AERIALACE",
+  "answerDisplay": "AERIAL ACE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Aerial Ace (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Aerial_Ace_(move)",
+  "pageId": 3943,
+  "pageRevisionId": 4472563,
+  "leadText": "Aerial Ace (Japanese: つばめがえし Swallow Return) is a damage-dealing Flying-type move introduced in Generation III. It is: TM40 from Generation III to Pokémon Ultra Sun and Ultra Moon as well as in Pokémon Brilliant Diamond and Shining Pearl. TM027 in Pokémon Scarlet and Violet. TM022 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Aerial Ace inflicts damage and bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . Aerial Ace can hit non-adjacent opponents in Triple Battles . If used by a Pokémon with Sharpness , its power is increased by 50%. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Physical PP 20 Agile Strong Power 60 45 75 Accuracy —% —% —% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect ? ? ? ? ? ? Never misses Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 60 72 Cooldown 9s Move wind-up time 1 frame Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD An extremely speedy and unavoidable attack. (move) An extremely fast attack that can't be avoided. (TM) FR LG An extremely fast attack against one target. It can't be evaded. D P Pt HG SS The user confounds the foe with speed, then slashes. The attack lands without fail. (move) The user confounds the foe with speed, then strikes. The attack lands without fail. (TM) PBR The user confounds the foe with speed, then slashes. The attack lands without fail. B W B2 W2 The user confounds the target with speed, then slashes. The attack lands without fail. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user confounds the target with speed, then slashes. This attack never misses. ZA The user attacks by confounding targets with swift movements before slashing."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It never misses. (move) It inflicts damage on the target. It never misses. (TM) MD T D S Inflicts damage on the target. It never misses. B S L てきポケモンに ダメージをあたえる かならず めいちゅうする MD GtI S MD MD RT DX It damages an enemy. It never misses."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move is based on and named after Sasaki Kojirō 's \" Turning Swallow Cut \" sword technique, so named due to its resemblance to the motion of a swallow's tail in flight, and is usually construed as a quick upward slash followed by a second one down the same direction, same as the move's animation."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Aerial-Ace",
+    "Aerial Ace",
+    "Aerial-Ace (move)"
+  ],
+  "updatedAt": 1773320687
+}

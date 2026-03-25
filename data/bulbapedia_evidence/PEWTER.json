@@ -1,0 +1,31 @@
+{
+  "answerKey": "PEWTER",
+  "answerDisplay": "PEWTER",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Pewter City",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Pewter_City",
+  "pageId": 1505,
+  "pageRevisionId": 4504775,
+  "leadText": "If you were looking for the chapter in Pokémon Zensho, see PZ02. Pewter City (Japanese: ニビシティ Nibi City) is a city located in northwestern Kanto. The most notable resident of the city is Brock, a Rock-type expert and the Leader of the Pewter Gym. The city has two exits. To the east is Route 3, leading to Route 4 and Mt. Moon. To the south is Route 2, leading to Viridian City.",
+  "sections": [
+    {
+      "title": "Slogan",
+      "text": "Slogan [ edit | edit source ] Generations I-III, VII [ edit | edit source ] A Stone Gray City (Japanese: ニビは 灰色 石の 色 Nibi is the color of gray stone. ) Generation IV [ edit | edit source ] Between Rugged Mountains (Japanese: けわしき やまあいの まち The town of rugged mountains. )"
+    },
+    {
+      "title": "Generations I-III, VII",
+      "text": "Generations I-III, VII [ edit | edit source ] A Stone Gray City (Japanese: ニビは 灰色 石の 色 Nibi is the color of gray stone. )"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Pewter-City",
+    "Pewter City",
+    "Pewter",
+    "Pewter-City (location)"
+  ],
+  "updatedAt": 1773329077
+}

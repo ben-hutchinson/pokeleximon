@@ -1,0 +1,17 @@
+{
+  "answerKey": "EMBODYASPECT",
+  "answerDisplay": "EMBODY ASPECT",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this ability, and the list of Pokémon that learn it.",
+  "score": 102.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/ability/embody-aspect",
+  "extract": "Aspect, and the list of Pokémon that learn it.",
+  "rankPosition": 1,
+  "updatedAt": 1774211159
+}

@@ -1,0 +1,18 @@
+{
+  "answerKey": "GHOST",
+  "answerDisplay": "GHOST",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "The strengths and weaknesses of the this type type in the Pokémon games, and a list of this type type Pokémon.",
+  "score": 0.0,
+  "approved": false,
+  "qualityFlags": [
+    "long_form",
+    "too_long"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/type/ghost",
+  "extract": "The strengths and weaknesses of the Ghost type in the Pokémon games, and a list of Ghost-type Pokémon.",
+  "rankPosition": 1,
+  "updatedAt": 1774211400
+}

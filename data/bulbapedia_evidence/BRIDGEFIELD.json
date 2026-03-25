@@ -1,0 +1,30 @@
+{
+  "answerKey": "BRIDGEFIELD",
+  "answerDisplay": "BRIDGE FIELD",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Bridge Field",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bridge_Field",
+  "pageId": 244525,
+  "pageRevisionId": 4229537,
+  "leadText": "Bridge Field (Japanese: ハシノマ原っぱ Field Between Bridges) is a part of the Wild Area in the Galar region, located northeast of Motostoke, connecting the southern and northern portions of the Wild Area. It connects to the Motostoke Riverbank to its south and the Stony Wilderness to its north.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ]"
+    },
+    {
+      "title": "Pokémon Nursery",
+      "text": "Pokémon Nursery [ edit | edit source ] Main article: Pokémon Nursery A Pokémon Nursery is located on the northeast side of the area. It is one of the Pokémon Nurseries in the Galar region."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Bridge-Field",
+    "Bridge Field",
+    "Bridge-Field (location)"
+  ],
+  "updatedAt": 1773328782
+}

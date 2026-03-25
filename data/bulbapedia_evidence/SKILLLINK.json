@@ -1,0 +1,34 @@
+{
+  "answerKey": "SKILLLINK",
+  "answerDisplay": "SKILL LINK",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Skill Link (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Skill_Link_(Ability)",
+  "pageId": 15669,
+  "pageRevisionId": 4312312,
+  "leadText": "Skill Link (Japanese: スキルリンク Skill Link) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Shellder and Cloyster.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generation V onward 1.1.3 Affected moves 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation IV [ edit | edit source ] Skill Link enables multistrike moves with a variable number of strikes to always strike five times. Generation V onward [ edit | edit source ] If Skill Link is lost in the middle of the move (such as via Mummy ), the user will still hit the maximum number of times on the turn in progress. Skill Link affects the moves Triple Kick and Triple Axel , which can hit up to three times; and Population Bomb , which can hit up to ten times. When any of these moves are used by Pokémon with this Ability, there will be one accuracy check for all strikes instead of individual checks for each strike. Affected moves [ edit | edit source ] The table below lists the moves affected by Skill Link, as well as the Pokémon that can have Skill Link and learn those moves. Move Type Cat. Power and Boost Acc. Max. Learned by Arm Thrust Fighting Physical 15 75 100% 5 Bullet Seed Grass Physical 25 125 100% 5 Double Slap Normal Physical 15 75 85% 5 Fury Attack Normal Physical 15 75 85% 5 Fury Swipes Normal Physical 18 90 80% 5 Icicle Spear Ice Physical 25 125 100% 5 Pin Missile Bug Physical 25 125 95% 5 Rock Blast Rock Physical 25 125 90% 5 Spike Cannon Normal Physical 20 100 100% 5 Tail Slap Normal Physical 25 125 85% 5 Triple Axel Ice Physical 20 120 90% 3 Although the following moves are affected by the Ability, they currently cannot be learned by any Pokémon with Skill Link. They may, however, be called via Metronome , Mirror Move , Copycat , or Mimic , or be used by a Pokémon that gained Skill Link by an Ability like Trace or Receiver or a move such as Skill Swap or Role Play . Move Type Cat. Power and Boost Acc. Max. Barrage Normal Physical 15 75 85% 5 Bone Rush Ground Physical 25 125 90% 5 Comet Punch Normal Physical 18 90 85% 5 Population Bomb Normal Physical 20 200 90% 10 Scale Shot Dragon Physical 25 125 90% 5 Triple Kick * Fighting Physical 10 60 90% 3 Water Shuriken * Water Special 15 75 100% 5 Outside of battle [ edit | edit source ] Skill Link has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "Contents 1 In battle 1.1 Generation IV 1.2 Generation V onward 1.3 Affected moves In battle [ edit | edit source ] Generation IV [ edit | edit source ] Skill Link enables multistrike moves with a variable number of strikes to always strike five times. Generation V onward [ edit | edit source ] If Skill Link is lost in the middle of the move (such as via Mummy ), the user will still hit the maximum number of times on the turn in progress. Skill Link affects the moves Triple Kick and Triple Axel , which can hit up to three times; and Population Bomb , which can hit up to ten times. When any of these moves are used by Pokémon with this Ability, there will be one accuracy check for all strikes instead of individual checks for each strike. Affected moves [ edit | edit source ] The table below lists the moves affected by Skill Link, as well as the Pokémon that can have Skill Link and learn those moves. Move Type Cat. Power and Boost Acc. Max. Learned by Arm Thrust Fighting Physical 15 75 100% 5 Bullet Seed Grass Physical 25 125 100% 5 Double Slap Normal Physical 15 75 85% 5 Fury Attack Normal Physical 15 75 85% 5 Fury Swipes Normal Physical 18 90 80% 5 Icicle Spear Ice Physical 25 125 100% 5 Pin Missile Bug Physical 25 125 95% 5 Rock Blast Rock Physical 25 125 90% 5 Spike Cannon Normal Physical 20 100 100% 5 Tail Slap Normal Physical 25 125 85% 5 Triple Axel Ice Physical 20 120 90% 3 Although the following moves are affected by the Ability, they currently cannot be learned by any Pokémon with Skill Link. They may, however, be called via Metronome , Mirror Move , Copycat , or Mimic , or be used by a Pokémon that gained Skill Link by an Ability like Trace or Receiver or a move such as Skill Swap or Role Play . Move Type Cat. Power and Boost Acc. Max. Barrage Normal Physical 15 75 85% 5 Bone Rush Ground Physical 25 125 90% 5 Comet Punch Normal Physical 18 90 85% 5 Population Bomb Normal Physical 20 200 90% 10 Scale Shot Dragon Physical 25 125 90% 5 Triple Kick * Fighting Physical 10 60 90% 3 Water Shuriken * Water Special 15 75 100% 5"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Enables the Pokémon to always attempt the top number of hits with multistrike moves. B S L れんぞくで こうげきする わざを さいごまで だせるようになる MD GtI Unavailable S MD When the Pokémon uses a multistrike move such as Pin Missile or Fury Attack, the move always strikes the maximum times! MD RT DX When the Pokémon uses a multistrike move, such as Pin Missile or Fury Attack, the move always strikes the maximum number of times."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Skill-Link",
+    "Skill Link",
+    "Skill-Link (Ability)"
+  ],
+  "updatedAt": 1773329208
+}

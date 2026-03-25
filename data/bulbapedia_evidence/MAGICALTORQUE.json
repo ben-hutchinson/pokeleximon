@@ -1,0 +1,34 @@
+{
+  "answerKey": "MAGICALTORQUE",
+  "answerDisplay": "MAGICAL TORQUE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Magical Torque (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Magical_Torque_(move)",
+  "pageId": 277878,
+  "pageRevisionId": 4411597,
+  "leadText": "Magical Torque (Japanese: マジカルアクセル Magical Accel) is a damage-dealing Fairy-type move introduced in Generation IX. It is the signature move of the Ruchbah Starmobile.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Magical Torque inflicts damage and has a 30% chance of confusing the target. Encore , Instruct , Mimic , and Sketch fail if the target's last used move was Magical Torque. Copycat fails if the last used move was Magical Torque."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V ---"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Prior to the release of The Hidden Treasure of Area Zero expansion for Pokémon Scarlet and Violet , Magical Torque was the only Fairy-type move to have been introduced in Generation IX . Magical Torque is the only physical Fairy-type move that does not make contact , outside of Z-Moves and Max Moves , though it is not accessible in regular gameplay."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Magical-Torque",
+    "Magical Torque",
+    "Magical-Torque (move)"
+  ],
+  "updatedAt": 1773324635
+}

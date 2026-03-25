@@ -1,0 +1,16 @@
+{
+  "answerKey": "HADRONENGINE",
+  "answerDisplay": "HADRON ENGINE",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen IX ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Hadron_Engine_(Ability)",
+  "extract": "Hadron Engine (Japanese: ハドロンエンジン Hadron Engine) is an Ability introduced in Generation IX. It is the signature Ability of Miraidon.",
+  "updatedAt": 1774258443
+}

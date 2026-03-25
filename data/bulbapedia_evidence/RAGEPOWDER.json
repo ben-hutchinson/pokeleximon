@@ -1,0 +1,34 @@
+{
+  "answerKey": "RAGEPOWDER",
+  "answerDisplay": "RAGE POWDER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Rage Powder (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rage_Powder_(move)",
+  "pageId": 117183,
+  "pageRevisionId": 4469012,
+  "leadText": "Rage Powder (Japanese: いかりのこな Rage Powder) is a non-damaging Bug-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation V [ edit | edit source ] Rage Powder has a priority of +3 and makes the user the center of attention , forcing opposing Pokémon to use their moves on the user rather than the intended target (even if it was a friendly target, unless it is a move that cannot target an opponent such as Acupressure or Helping Hand ) for the rest of the turn. If a move cannot target the center of attention, it will be used on its intended target. It does not affect allies. If the center of attention faints , switches out , or is taken into the air by Sky Drop , it no longer draws moves. In Triple Battles , Rage Powder will draw the attacks of all opponents in the field, but it can only draw attacks from non-adjacent opponents if they use a long-range move . Rage Powder can draw moves with a charging turn (such as Fly and Solar Beam ) if it is used on the turn the move would hit, but it cannot draw Sky Drop . Rage Powder draws Electric - and Water-type moves even if a Pokémon with Lightning Rod or Storm Drain is on the field. If another Pokémon on the same team is already the center of attention, the first user takes priority; if the first user is outside of range or stops being the center of attention, the attack will be drawn to the next center of attention. Rage Powder has no effect on moves which hit multiple Pokémon in a battle. While it can be used in Single Battles, it has no effect. Generation VI onwards [ edit | edit source ] Rage Powder now has +2 priority. Grass-type Pokémon, Pokémon with Overcoat , Stalwart , Propeller Tail , and Pokémon holding the Safety Goggles are now immune to Rage Powder, such that their attacks are not diverted by it. Snipe Shot ignores Rage Powder and hits the intended target. If powered up by a Buginium Z into Z-Rage Powder, all of the user's lowered stats are reset."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E The user scatters a cloud of irritating powder to draw attention to itself. Opponents aim only at the user. Sw Sh BD SP LA S V The user scatters a cloud of irritating powder to draw attention to itself. Opposing Pokémon aim only at the user."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI You'll get the Decoy status, which makes you the enemies' primary target. S MD You'll be a decoy and become the enemies' primary target."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Rage-Powder",
+    "Rage Powder",
+    "Rage-Powder (move)"
+  ],
+  "updatedAt": 1773326209
+}

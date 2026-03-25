@@ -1,0 +1,18 @@
+{
+  "answerKey": "MIMEJR",
+  "answerDisplay": "MIME JR",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "is a Psychic / Fairy type Pokémon introduced in Generation 4.",
+  "score": 42.88,
+  "approved": false,
+  "qualityFlags": [
+    "long_form",
+    "near_verbatim_source"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/mime-jr",
+  "extract": "Mime Jr. is a Psychic / Fairy type Pokémon introduced in Generation 4 .",
+  "rankPosition": 2,
+  "updatedAt": 1774212086
+}

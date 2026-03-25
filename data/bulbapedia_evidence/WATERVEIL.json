@@ -1,0 +1,34 @@
+{
+  "answerKey": "WATERVEIL",
+  "answerDisplay": "WATER VEIL",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Water Veil (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Water_Veil_(Ability)",
+  "pageId": 4117,
+  "pageRevisionId": 4407414,
+  "leadText": "Water Veil (Japanese: みずのベール Water Veil) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV 1.1.3 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Water Veil prevents the Pokémon from being burned . A Pokémon with this Ability will be cured of burn if it is burned while in battle (such as if it gains the Ability outside of battle or by an effect like Skill Swap , or is burned by a Pokémon with an Ability like Mold Breaker ). Generation III [ edit | edit source ] If a burned Pokémon has Water Veil as its original Ability but not its current Ability, it will remain burned when switched out. If a burned Pokémon with Water Veil is sent into battle as one of the lead Pokémon or to replace a fainted Pokémon, or gains Water Veil due to Trace , it will not be cured of burn until after a Pokémon takes its turn (uses a move, switches out, etc.). It will be cured of burn if it is switched in to replace a switched out Pokémon (including if switched in via Baton Pass ). If the Pokémon with this Ability is burned and is holding a Rawst , Lum , or Yago Berry , Water Veil will cure the Pokémon of burn before the Berry has a chance to be consumed. Generation IV [ edit | edit source ] If a burned Pokémon has Water Veil as its original Ability but not its current Ability, then if it is one of the active Pokémon at the end of the battle or if it is switched out, it will be cured of burn (with no message). Thus, there is no way for a burned Pokémon with Water Veil to enter battle. A Pokémon entering battle with Trace that copies Water Veil will now immediately cure itself of an existing burn. Generation V onward [ edit | edit source ] If a burned Pokémon has Water Veil as its original Ability but not its current Ability, it will now once again remain burned when switched out or when battle ends. Accordingly, a burned Pokémon entering battle with Water Veil will now immediately cure itself. If the Pokémon with this Ability is burned and is holding a Rawst or Lum Berry , the Berry will be eaten and cure the Pokémon of burn before Water Veil has a chance to activate. Outside of battle [ edit | edit source ] If a burned Pokémon gains Water Veil by Evolution or the Ability Capsule , it will not be cured of burn until sent into battle. Pokémon with Water Veil will not be burned by the Gentleman 's Kirlia or Dusclops in the Battle Pike nor the Battle Arcade 's game board."
+    },
+    {
+      "title": "In battle",
+      "text": "Contents 1 In battle 1.1 Generation III 1.2 Generation IV 1.3 Generation V onward In battle [ edit | edit source ] Water Veil prevents the Pokémon from being burned . A Pokémon with this Ability will be cured of burn if it is burned while in battle (such as if it gains the Ability outside of battle or by an effect like Skill Swap , or is burned by a Pokémon with an Ability like Mold Breaker ). Generation III [ edit | edit source ] If a burned Pokémon has Water Veil as its original Ability but not its current Ability, it will remain burned when switched out. If a burned Pokémon with Water Veil is sent into battle as one of the lead Pokémon or to replace a fainted Pokémon, or gains Water Veil due to Trace , it will not be cured of burn until after a Pokémon takes its turn (uses a move, switches out, etc.). It will be cured of burn if it is switched in to replace a switched out Pokémon (including if switched in via Baton Pass ). If the Pokémon with this Ability is burned and is holding a Rawst , Lum , or Yago Berry , Water Veil will cure the Pokémon of burn before the Berry has a chance to be consumed. Generation IV [ edit | edit source ] If a burned Pokémon has Water Veil as its original Ability but not its current Ability, then if it is one of the active Pokémon at the end of the battle or if it is switched out, it will be cured of burn (with no message). Thus, there is no way for a burned Pokémon with Water Veil to enter battle. A Pokémon entering battle with Trace that copies Water Veil will now immediately cure itself of an existing burn. Generation V onward [ edit | edit source ] If a burned Pokémon has Water Veil as its original Ability but not its current Ability, it will now once again remain burned when switched out or when battle ends. Accordingly, a burned Pokémon entering battle with Water Veil will now immediately cure itself. If the Pokémon with this Ability is burned and is holding a Rawst or Lum Berry , the Berry will be eaten and cure the Pokémon of burn before Water Veil has a chance to activate."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Prevents burns. MD T D S Protects the Pokémon from burns. B S L やけどじょうたいに ならない MD GtI Unavailable S MD It protects the Pokémon from getting a burn. MD RT DX This Ability protects the Pokémon from getting a Burn."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Water-Veil",
+    "Water Veil",
+    "Water-Veil (Ability)"
+  ],
+  "updatedAt": 1773329309
+}

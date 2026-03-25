@@ -1,0 +1,38 @@
+{
+  "answerKey": "TARTAPPLE",
+  "answerDisplay": "TART APPLE",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Tart Apple",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tart_Apple",
+  "pageId": 244476,
+  "pageRevisionId": 4501218,
+  "leadText": "The Tart Apple (Japanese: すっぱいりんご Sour Apple) is a type of item introduced in Generation VIII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Causes Applin to evolve into Flapple upon use. This consumes the Tart Apple."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Tart Apples are required to evolve certain Pokémon in Pokémon GO. They are consumed upon use. Applin requires 200 Applin Candy and 20 Tart Apples to evolve into Flapple ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh BD SP LA S V A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally tart."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description GO A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally tart."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Tart-Apple",
+    "Tart Apple",
+    "Tart-Apple (item)"
+  ],
+  "updatedAt": 1773327829
+}

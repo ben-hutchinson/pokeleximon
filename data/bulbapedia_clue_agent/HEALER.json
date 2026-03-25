@@ -1,0 +1,88 @@
+{
+  "answerKey": "HEALER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4514003,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "If you were looking for the Special Ability in Pokemon Battle Trozei, see List of Special Abilities in Pokemon Battle Trozei. Healer (Japanese: Healing Heart) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description Conq. The Pokemon may heal an adjacent ally's status ailments. MD GtI Sometimes heals bad status conditions of allies standing next to the Pokemon. * Sometimes it heals the bad status conditions of allies next to the Pokemon! * S MD Sometimes it heals the bad status conditions of teammates next to the Pokemon!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] At the end of each turn, Healer has a 30% chance of curing an adjacent ally's status condition . If the Pokemon has multiple adjacent allies with status conditions, it has an independent 30% chance of curing each one, and can cure more than one in the same turn. If it cures a status condition, it does so before burn or poison damage is dealt on that turn. Outside of battle [ edit | edit source ] Healer has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] At the end of each turn, Healer has a 30% chance of curing an adjacent ally's status condition . If the Pokemon has multiple adjacent allies with status conditions, it has an independent 30% chance of curing each one, and can cure more than one in the same turn. If it cures a status condition, it does so before burn or poison damage is dealt on that turn.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "burning ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "poisoning ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "burning ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "poisoning ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Burning abilities",
+      "Poisoning abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257954
+}

@@ -1,0 +1,37 @@
+{
+  "answerKey": "BLOCK",
+  "answerDisplay": "BLOCK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Block (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Block_(move)",
+  "pageId": 3946,
+  "pageRevisionId": 4426855,
+  "leadText": "If you were looking for the Bulbapedia policy on blocking, see Bulbapedia:Blocking policy. Block (Japanese: とおせんぼう Block) is a non-damaging Normal-type move introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations III and IV 1.2 Generation V 1.3 Generation VI onward Effect [ edit | edit source ] Generations III and IV [ edit | edit source ] Block prevents the target from switching out or fleeing (including via Teleport ). It bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . The effect only applies as long as the Pokémon that used it remains in battle. It is blocked by Protect and Detect . The affected Pokémon can still switch out via Baton Pass , but in that case, the Pokémon that switches in will now be affected. Affected Pokémon can also switch out with U-turn . Conversely, the Pokémon that used Block can switch out with Baton Pass and the effects of Block will still apply. Also, if the affected Pokémon is Roared at or hit with a Whirlwind , they will still be switched out. If a wild Pokémon uses Block on the player's Pokémon, the player will be unable to escape, unless the player's Pokémon has Run Away or is holding a Smoke Ball . Generation V [ edit | edit source ] If a Pokémon traps a target with Block and then switches with Baton Pass the target will no longer be trapped. Pokémon affected by Block can switch out with Volt Switch . Also, Dragon Tail and Circle Throw will force the affected Pokémon to switch out. Generation VI onward [ edit | edit source ] Block no longer affects Ghost-type Pokémon. It will now hit the target even if it has used Protect , Detect , or Spiky Shield , but will fail if the target is protected by Crafty Shield . Pokémon affected by Block can also switch out with Parting Shot and Flip Turn . Block can be used as part of a Contest Spectacular combination , causing certain moves ( Explosion , Memento , Perish Song , and Self-Destruct ) to gain an extra three appeal points if they are used in the next turn. If powered up by Normalium Z into Z-Block, the user's Defense stat rises by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Blocks the foe's way to prevent escape. Colo XD Blocks the target's way to prevent escape. FR LG D P Pt HG SS PBR The user blocks the foe's way with arms spread wide to prevent escape. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user blocks the target's way with arms spread wide to prevent escape. S V The user blocks the target's way with arms spread wide to prevent the target from fleeing."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts the Leg Hold status on the target, making it incapable of movement. MD T D S Afflicts the targeted enemy with a Shadow Hold status condition. A Pokémon with the Shadow Hold status is incapable of movement. B S L てきポケモンを かげふみじょうたいにかえる かげふみじょうたいの ポケモンは いどうできない MD GtI It causes the Stuck status condition to an enemy. With the Stuck status, the enemy can't move. S MD MD RT DX It causes an enemy to get stuck."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation III , the status screen erroneously states that the move has 100% accuracy, even though it ignores accuracy and evasion checks."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Block",
+    "Block (move)"
+  ],
+  "updatedAt": 1773321242
+}

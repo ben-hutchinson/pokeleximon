@@ -1,0 +1,108 @@
+{
+  "answerKey": "MARANGABERRY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4509709,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VI item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "specificity": 0.7
+      },
+      {
+        "text": "other",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen VI other",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Held: When the holder is hit by a special move, increases its Special Defense by one stage.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Poor catch rate on most targets",
+        "evidence_ref": "Description",
+        "specificity": 0.82
+      },
+      {
+        "text": "Boosts special defense when hit by a special move",
+        "evidence_ref": "Description",
+        "specificity": 0.88
+      },
+      {
+        "text": "Used for berry recipes or blending",
+        "evidence_ref": "Effect",
+        "specificity": 0.82
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "PokBlock-making berry",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "family"
+      },
+      {
+        "text": "Berry-blending ingredient",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "family"
+      },
+      {
+        "text": "Boosts Special Defense after hit by a special move",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Special Defense boost on trigger",
+        "evidence_ref": "Description",
+        "mystery_score": 0.62,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Poor on most other targets",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "restriction"
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.46,
+        "specificity_score": 0.68,
+        "style": "category"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "berry ingredient",
+      "special defense booster"
+    ],
+    "connections_descriptors": [
+      "Held battle items",
+      "Gen VI items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257970
+}

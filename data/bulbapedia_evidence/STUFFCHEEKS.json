@@ -1,0 +1,30 @@
+{
+  "answerKey": "STUFFCHEEKS",
+  "answerDisplay": "STUFF CHEEKS",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Stuff Cheeks (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Stuff_Cheeks_(move)",
+  "pageId": 244319,
+  "pageRevisionId": 4403526,
+  "leadText": "Stuff Cheeks (Japanese: ほおばる Stuff Cheeks) is a non-damaging Normal-type move introduced in Generation VIII. Prior to Generation IX, it was the signature move of Skwovet and Greedent.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] The user eats its held Berry, and raises its Defense stat by two stages in addition to the effect that Berry might normally have. The user can successfully eat its Berry even in the presence of Unnerve or Magic Room . If the user is not holding a Berry, Stuff Cheeks cannot be selected from the move menu, and if the user has no other usable moves, it will be forced to use Struggle . If a Pokémon would use Stuff Cheeks, but is not holding a Berry when it would use the move (e.g. if its held Berry had been removed by Knock Off ), Stuff Cheeks fails. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Stuff Cheeks cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA The user eats its held Berry, then sharply raises its Defense stat. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user eats its held Berry, then sharply boosts its Defense stat."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Stuff-Cheeks",
+    "Stuff Cheeks",
+    "Stuff-Cheeks (move)"
+  ],
+  "updatedAt": 1773327622
+}

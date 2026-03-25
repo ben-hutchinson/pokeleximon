@@ -1,0 +1,37 @@
+{
+  "answerKey": "SLAM",
+  "answerDisplay": "SLAM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Slam (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Slam_(move)",
+  "pageId": 3629,
+  "pageRevisionId": 4493879,
+  "leadText": "Slam (Japanese: たたきつける Slam) is a damage-dealing Normal-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Slam inflicts damage and has no secondary effect. Slam can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Pound was used in the previous turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A Normal -type attack move. The attacker uses an appendage (e.g. tail) to slam the target hard. Stad2 A Normal -type attack move. The attacker uses an appendage to slam the target hard. G S C Slams the foe with a tail, vine, etc. R S E Colo XD Slams the foe with a long tail, vine, etc. FR LG The foe is struck with a long tail, vines, etc. D P Pt HG SS PBR The foe is slammed with a long tail, vines, etc., to inflict damage. B W B2 W2 The target is slammed with a long tail, vines, etc., to inflict damage. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The target is slammed with a long tail, vines, or the like to inflict damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. B S L てきポケモンに ダメージをあたえる MD GtI S MD It damages an enemy."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] If Secret Power is used on ordinary terrain in the Generation III games, it will have the animation of Slam. In the Spanish versions of the Generation I games, Slam was mistranslated as Portazo , meaning \"door slam\". This error was carried over to subsequent releases, until Generation VI in which this was corrected to Atizar ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Slam",
+    "Slam (move)"
+  ],
+  "updatedAt": 1773327127
+}

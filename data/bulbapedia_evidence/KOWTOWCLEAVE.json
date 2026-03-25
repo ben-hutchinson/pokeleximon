@@ -1,0 +1,34 @@
+{
+  "answerKey": "KOWTOWCLEAVE",
+  "answerDisplay": "KOWTOW CLEAVE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Kowtow Cleave (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Kowtow_Cleave_(move)",
+  "pageId": 277769,
+  "pageRevisionId": 4403649,
+  "leadText": "Kowtow Cleave (Japanese: ドゲザン Kowtow Slash) is a damage-dealing Dark-type move introduced in Generation IX. It is the signature move of Kingambit.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Kowtow Cleave inflicts damage and bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . If used by a Pokémon with Sharpness , its power is increased by 50%."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user slashes at the target after kowtowing to make the target let down its guard. This attack never misses."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Kowtow Cleave is based on dogeza , which is kneeling to a person of higher status. The word \" kowtow \" more accurately refers to a Chinese act that is similar to dogeza."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Kowtow-Cleave",
+    "Kowtow Cleave",
+    "Kowtow-Cleave (move)"
+  ],
+  "updatedAt": 1773324191
+}

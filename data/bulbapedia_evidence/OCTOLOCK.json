@@ -1,0 +1,29 @@
+{
+  "answerKey": "OCTOLOCK",
+  "answerDisplay": "OCTOLOCK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Octolock (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Octolock_(move)",
+  "pageId": 244325,
+  "pageRevisionId": 4470610,
+  "leadText": "Octolock (Japanese: たこがため Octopus Hold) is a non-damaging Fighting-type move introduced in Generation VIII. Prior to Generation IX, it was the signature move of Grapploct.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] Octolock prevents the target from fleeing or switching out . At the end of each turn, the target's Defense and Special Defense are lowered by one stage each. If the user switches out, the target will be freed. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Octolock cannot be selected in a battle. Generation IX [ edit | edit source ] Octolock cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V The user locks the target in and prevents it from fleeing. This move also lowers the target's Defense and Sp. Def every turn. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. ZA The user locks targets in and prevents them from fleeing. This move also continually lowers the targets' Defense and Sp. Def stats for a while."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Octolock",
+    "Octolock (move)"
+  ],
+  "updatedAt": 1773325455
+}

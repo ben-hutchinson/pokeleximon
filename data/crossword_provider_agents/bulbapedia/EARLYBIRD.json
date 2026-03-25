@@ -1,0 +1,16 @@
+{
+  "answerKey": "EARLYBIRD",
+  "answerDisplay": "EARLY BIRD",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen III ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Early_Bird_(Ability)",
+  "extract": "Early Bird (Japanese: はやおき Early Rising) is an Ability introduced in Generation III.",
+  "updatedAt": 1774258442
+}

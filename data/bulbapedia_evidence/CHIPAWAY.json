@@ -1,0 +1,34 @@
+{
+  "answerKey": "CHIPAWAY",
+  "answerDisplay": "CHIP AWAY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Chip Away (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Chip_Away_(move)",
+  "pageId": 117612,
+  "pageRevisionId": 4270439,
+  "leadText": "Chip Away (Japanese: なしくずし Little by Little) is a damage-dealing Normal-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generations V to VII [ edit | edit source ] Chip Away inflicts damage, ignoring any changes to the target's Defense and evasion stat stages - positive and negative. It does not ignore changes to stats that do not use stat stages, such as Reflect , Abilities such as Sand Veil , or items such as Eviolite . It also does not ignore changes to the user's Attack or accuracy . Generation VIII onwards [ edit | edit source ] Chip Away cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 Looking for an opening, the user strikes continually. The target's stat changes don't affect this attack's damage. X Y OR AS S M US UM P E Looking for an opening, the user strikes consistently. The target's stat changes don't affect this attack's damage. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It damages an enemy. The enemy's stat changes in Defense and evasiveness don't affect this attack's damage. (Whether they are boosted or reduced, they don't affect this attack's damage.) S MD MD RT DX It damages an enemy. The enemy's stat changes in Defense and evasiveness don't affect this attack, regardless of whether the stats were boosted or reduced."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Chip-Away",
+    "Chip Away",
+    "Chip-Away (move)"
+  ],
+  "updatedAt": 1773321671
+}

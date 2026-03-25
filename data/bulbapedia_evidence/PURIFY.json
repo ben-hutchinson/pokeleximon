@@ -1,0 +1,29 @@
+{
+  "answerKey": "PURIFY",
+  "answerDisplay": "PURIFY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Purify (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Purify_(move)",
+  "pageId": 218366,
+  "pageRevisionId": 4270092,
+  "leadText": "Purify redirects here. For the method of changing a Shadow Pokémon back into a normal Pokémon, see Purification. Purify (Japanese: じょうか Purify) is a non-damaging Poison-type move introduced in Generation VII. It is the signature move of Pyukumuku.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] If the target has a non-volatile status condition , Purify cures it and then restores the user's HP by up to 50% of its own maximum HP. It has no effect if the target does not have a non-volatile status condition (even if it has the Ability Comatose ). If powered up by a Poisonium Z into Z-Purify, the user's Attack , Defense , Special Attack , Special Defense , and Speed are raised by one stage each. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Purify cannot be selected in a battle. Generation IX [ edit | edit source ] Purify cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA The user heals the target's status condition. If the move succeeds, it also restores the user's own HP. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user cures the target's status condition. If the move succeeds, it also restores the user's own HP."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Purify",
+    "Purify (move)"
+  ],
+  "updatedAt": 1773326126
+}

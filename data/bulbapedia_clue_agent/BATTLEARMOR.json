@@ -1,0 +1,100 @@
+{
+  "answerKey": "BATTLEARMOR",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4512188,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Battle Armor (Japanese: Kabuto Armor) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Blocks critical hits. MD T D S Blocks critical hits on the Pokemon. B S L Conq. The Pokemon is protected against critical hits. MD GtI Unavailable S MD Moves don't hit the Pokemon critically! Never ever! MD RT DX Moves are never critical hits against this Pokemon.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Battle Armor prevents the Pokemon from receiving a critical hit , even from moves that normally always land one, namely Frost Breath , Storm Throw , Wicked Blow , Surging Strikes , Flower Trick , and any move boosted by Merciless (if the Pokemon is poisoned ) or Laser Focus . Outside of battle [ edit | edit source ] Battle Armor has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Battle Armor prevents the Pokemon from receiving a critical hit , even from moves that normally always land one, namely Frost Breath , Storm Throw , Wicked Blow , Surging Strikes , Flower Trick , and any move boosted by Merciless (if the Pokemon is poisoned ) or Laser Focus .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Protects against critical hits.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Blocks critical hits",
+        "evidence_ref": "Description",
+        "specificity": 0.88
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "critical-hit trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "protective trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Blocks critical hits",
+        "evidence_ref": "Description",
+        "mystery_score": 0.78,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Critical-hit proof trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "No-crit armor trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "critical-hit trait",
+      "protective trait",
+      "crit shield",
+      "crit-proof trait"
+    ],
+    "connections_descriptors": [
+      "Critical-Hit abilities",
+      "Protective abilities",
+      "Critical-hit-blocking abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257928
+}

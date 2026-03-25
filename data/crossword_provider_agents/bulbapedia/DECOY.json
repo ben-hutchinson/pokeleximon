@@ -1,0 +1,16 @@
+{
+  "answerKey": "DECOY",
+  "answerDisplay": "DECOY",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen V ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Status_condition_(Mystery_Dungeon)",
+  "extract": "Decoy redirects here. For Giovanni's imposters, see Team GO Rocket Grunt (Trainer class). Status conditions are a game mechanic in the Mystery Dungeon series that have both similarities and differences to status conditions in the core series. Whereas in the core series, a Pokémon can only be afflicted with one major status condition and a number of volatile minor status ailments, the Mystery Dungeon series allows Pokémon to be afflicted by multiple status conditions. Status conditions can be caused by a variety of ways, such as from the effects of moves (such as the Sky Attack status, which is a self-inflicted condition due to the use of Sky Attack), IQ skills (such as the Pierce status from Pierce Thrower), and items (such as Mobile from the Mobile Orb).",
+  "updatedAt": 1774258442
+}

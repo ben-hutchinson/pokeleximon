@@ -1,0 +1,38 @@
+{
+  "answerKey": "CIRCLETHROW",
+  "answerDisplay": "CIRCLE THROW",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Circle Throw (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Circle_Throw_(move)",
+  "pageId": 117448,
+  "pageRevisionId": 4491887,
+  "leadText": "Circle Throw (Japanese: ともえなげ Overhead Throw) is a damage-dealing Fighting-type move introduced in Generation V. It is TM129 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Circle Throw inflicts damage and has decreased priority . In a Trainer battle, it will switch out the target to the next Pokémon in line that has not fainted (if there is one). In a wild Pokémon battle with a single wild Pokémon, this move will cause the battle to end if the user's level is equal or greater than the target's; however, if there are multiple wild Pokémon in the battle, it works the same as in a Trainer battle. If using this move causes the user to faint (such as if the target is holding a Rocky Helmet or has the Ability Rough Skin or Iron Barbs ), the target will not be forced to switch. Circle Throw will fail to end wild Pokémon battles or switch out the opposing Trainer's Pokémon if the target has the Ability Suction Cups , is under the effects of Ingrain , or has Substitute set up. Circle Throw can also be used as part of a Contest Spectacular combination , with the user gaining extra three appeal points if a certain move ( Entrainment , Hold Hands , Play Nice , Spikes , Stealth Rock , or Toxic Spikes ) was used in the prior turn. When used on a Dynamax or Gigantamax Pokémon, Circle Throw will deal damage but not force the target to switch out."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W The user throws the target and drags out another Pokémon in its party. In the wild, the battle ends. B2 W2 The target is thrown and switched. In the wild, a battle against a single Pokémon ends. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The target is thrown, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon. ZA The user attacks by hurling targets far away from itself. This may also lower targets' Defense stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI UNUSED S MD MD RT DX It damages an enemy and blows the enemy away in a straight line. It causes more damage if the enemy crashes into a wall or a Pokémon."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In the animated series , Circle Throw is depicted as a jujutsu/judo technique called \" Tomoe nage \", in which the attacker grabs the opponent high and falls back, using the combined forces of their legs and inertia to throw the opponent over their head. This move has also similarities with a wrestling maneuver called \" the monkey flip \"."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Circle-Throw",
+    "Circle Throw",
+    "Circle-Throw (move)"
+  ],
+  "updatedAt": 1773321700
+}

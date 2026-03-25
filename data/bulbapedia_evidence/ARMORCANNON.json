@@ -1,0 +1,34 @@
+{
+  "answerKey": "ARMORCANNON",
+  "answerDisplay": "ARMOR CANNON",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Armor Cannon (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Armor_Cannon_(move)",
+  "pageId": 274256,
+  "pageRevisionId": 4486292,
+  "leadText": "Armor Cannon (Japanese: アーマーキャノン Armor Cannon) is a damage-dealing Fire-type move introduced in Generation IX. It is the signature move of Armarouge.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Armor Cannon deals damage and lowers the user's Defense and Special Defense stats by one stage each."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user shoots its own armor out as blazing projectiles. This also lowers the user's Defense and Sp. Def stats. ZA The user attacks by shooting off its own armor as blazing projectiles. This also lowers the user's Defense and Sp. Def stats for a short time."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Armor Cannon is the only variation of Superpower to be a special move ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Armor-Cannon",
+    "Armor Cannon",
+    "Armor-Cannon (move)"
+  ],
+  "updatedAt": 1773320886
+}

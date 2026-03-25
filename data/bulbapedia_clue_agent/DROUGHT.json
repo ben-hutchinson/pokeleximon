@@ -1,0 +1,67 @@
+{
+  "answerKey": "DROUGHT",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4486387,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Drought (Japanese: Drought) is an Ability introduced in Generation III. Prior to Generation V, it was the signature Ability of Groudon.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Changes the weather to sunny. MD T D S Changes the weather to a sunny condition. B S L MD GtI Unavailable S MD The weather on the floor will be sunny! MD RT DX The weather condition on the floor will be Sunny.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations III to V 1.1.2 Generation VI onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations III to V [ edit | edit source ] Drought summons harsh sunlight in battle as soon as a Pokemon with Drought enters the battle. Its effects are the same as the move Sunny Day , but instead of lasting for a limited amount of turns, it lasts for the whole battle (unless it is replaced by another weather condition). If a Pokemon with Drought is sent out in the same turn as another Pokemon whose Ability affects the weather, the slower Pokemon's Ability will override the faster Pokemon's Ability. Generation VI onward [ edit | edit source ] The sunlight now lasts only for five turns. This can be extended to eight turns if the Pokemon is holding a Heat Rock . Drought will not activate if the Pokemon with the Ability is a Groudon about to undergo Primal Reversion ; in that case, the Primal Reversion will happen instead, causing its Ability to be replaced by Desolate Land , and only that Ability will activate. Drought will also fail to activate if heavy rain , extremely harsh sunlight , or strong winds are already in effect. Outside of battle [ edit | edit source ] Drought has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Generations III to V [ edit | edit source ] Drought summons harsh sunlight in battle as soon as a Pokemon with Drought enters the battle. Its effects are the same as the move Sunny Day , but instead of lasting for a limited amount of turns, it lasts for the whole battle (unless it is replaced by another weather condition). If a Pokemon with Drought is sent out in the same turn as another Pokemon whose Ability affects the weather, the slower Pokemon's Ability will override the faster Pokemon's Ability. Generation VI onward [ edit | edit source ] The sunlight now lasts only for five turns. This can be extended to eight turns if the Pokemon is holding a Heat Rock . Drought will not activate if the Pokemon with the Ability is a Groudon about to undergo Primal Reversion ; in that case, the Primal Reversion will happen instead, causing its Ability to be replaced by Desolate Land , and only that Ability will activate. Drought will also fail to activate if heavy rain , extremely harsh sunlight , or strong winds are already in effect.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Summons strong sunlight that lasts indefinitely upon entering battle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Weather abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257941
+}

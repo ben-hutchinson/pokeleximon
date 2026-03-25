@@ -1,0 +1,81 @@
+{
+  "answerKey": "MEGALAUNCHER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4512557,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VI ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Mega Launcher (Japanese: Mega Launcher) is an Ability introduced in Generation VI. Since Generation VIII, it is the signature Ability of Clauncher and Clawitzer.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description S MD Water Pulse, Dark Pulse, Dragon Pulse, and Aura Sphere become more powerful! MD RT DX Aura Sphere and moves with \"Pulse\" in their names become more powerful.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Affected moves 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Mega Launcher boosts the strength of aura and pulse moves used by a Pokemon with this Ability. Damage-dealing moves are boosted in power by 50%, while Heal Pulse heals 75% of the target's maximum HP rather than the usual 50%, including Z-Heal Pulse. Affected moves [ edit | edit source ] The table below lists the moves affected by Mega Launcher, as well as the Pokemon that can have Mega Launcher and learn those moves. Move Type Cat. Power and Boost Learned by Aura Sphere Fighting Special 80 120 Dark Pulse Dark Special 80 120 Dragon Pulse Dragon Special 85 127.5 Heal Pulse Psychic Status Terrain Pulse Normal Special 50 75 Water Pulse Water Special 60 90 Although the following moves are affected by the Ability, they currently cannot be learned by any Pokemon with Mega Launcher. They may, however, be called via Metronome , Copycat , or Mimic , or be used by a Pokemon that gained Mega Launcher by an Ability like Trace or Receiver or a move such as Skill Swap or Role Play . Move Type Cat. Power and Boost Origin Pulse Water Special 110 165 Outside of battle [ edit | edit source ] Mega Launcher has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Mega Launcher boosts the strength of aura and pulse moves used by a Pokemon with this Ability. Damage-dealing moves are boosted in power by 50%, while Heal Pulse heals 75% of the target's maximum HP rather than the usual 50%, including Z-Heal Pulse. Affected moves [ edit | edit source ] The table below lists the moves affected by Mega Launcher, as well as the Pokemon that can have Mega Launcher and learn those moves. Move Type Cat. Power and Boost Learned by Aura Sphere Fighting Special 80 120 Dark Pulse Dark Special 80 120 Dragon Pulse Dragon Special 85 127.5 Heal Pulse Psychic Status Terrain Pulse Normal Special 50 75 Water Pulse Water Special 60 90 Although the following moves are affected by the Ability, they currently cannot be learned by any Pokemon with Mega Launcher. They may, however, be called via Metronome , Copycat , or Mimic , or be used by a Pokemon that gained Mega Launcher by an Ability like Trace or Receiver or a move such as Skill Swap or Role Play . Move Type Cat. Power and Boost Origin Pulse Water Special 110 165",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Strengthens aura and pulse moves to 1.5 their power.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.78,
+        "style": "effect"
+      },
+      {
+        "text": "Prevents major status ailments",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "effect"
+      },
+      {
+        "text": "Ailment-proof trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "status immunity"
+    ],
+    "connections_descriptors": [
+      "Status-blocking abilities",
+      "Gen VI abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257973
+}

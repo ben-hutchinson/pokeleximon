@@ -1,0 +1,95 @@
+{
+  "answerKey": "ABILITYPATCH",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4373584,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Changes a Pokemon's Ability",
+        "evidence_ref": "lead",
+        "specificity": 0.88
+      },
+      {
+        "text": "vitamins",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen VIII vitamins",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Contents 1 Effect 1.1 Bag item 1.1.1 Generation VIII 1.1.2 Generation IX 1.2 Held item Effect [ edit | edit source ] Bag item [ edit | edit source ] If used from the Bag , it changes the Ability slot of a Pokemon from one of its standard Abilities to its Hidden Ability . As a result, if the Pokemon evolves and has a different Hidden Ability than its Evolution, its Evolution will have the Hidden Ability. A Pokemon that has its Hidden Ability due to the Ability Patch can also pass down its Hidden Ability via breeding . The Ability Patch can only be used on a Pokemon that belongs to a species with a Hidden Ability. For example, it can be used to change a Rookidee 's Ability from Keen Eye or Unnerve to Big Pecks , but it cannot be used to change a Metapod 's Ability (which is always Shed Skin ). Generation VIII [ edit | edit source ] The Ability Patch cannot be used to change a Pokemon's Ability from its Hidden Ability to one of its standard Abilities. Generation IX [ edit | edit source ] The Ability Patch can now remove a Hidden Ability, setting the Ability to the Pokemon's first Ability slot. Held item [ edit | edit source ] Fling fails if the user is holding an Ability Patch.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Unlocks a Hidden Ability",
+        "evidence_ref": "In the core series games",
+        "specificity": 0.94
+      },
+      {
+        "text": "Changes a regular Ability to a rarer one",
+        "evidence_ref": "Description",
+        "specificity": 0.86
+      },
+      {
+        "text": "Works only on species with Hidden Abilities",
+        "evidence_ref": "In the core series games",
+        "specificity": 0.82
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Unlocks a hidden trait",
+        "evidence_ref": "In the core series games",
+        "mystery_score": 0.78,
+        "specificity_score": 0.94,
+        "style": "effect"
+      },
+      {
+        "text": "Turns a standard trait rare",
+        "evidence_ref": "In the core series games",
+        "mystery_score": 0.76,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Makes a regular trait rarer",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Only for species with hidden traits",
+        "evidence_ref": "In the core series games",
+        "mystery_score": 0.64,
+        "specificity_score": 0.82,
+        "style": "restriction"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "hidden-trait changer",
+      "trait-altering item"
+    ],
+    "connections_descriptors": [
+      "Hidden Ability items",
+      "Ability-changing items",
+      "Gen VIII items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257924
+}

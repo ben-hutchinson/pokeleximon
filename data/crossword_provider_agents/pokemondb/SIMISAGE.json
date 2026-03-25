@@ -1,0 +1,17 @@
+{
+  "answerKey": "SIMISAGE",
+  "answerDisplay": "SIMISAGE",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Grass type Pokémon introduced in Generation 5.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/simisage",
+  "extract": "Simisage is a Grass type Pokémon introduced in Generation 5 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212859
+}

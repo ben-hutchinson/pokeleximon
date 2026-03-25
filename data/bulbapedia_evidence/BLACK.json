@@ -1,0 +1,31 @@
+{
+  "answerKey": "BLACK",
+  "answerDisplay": "BLACK",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Black City",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Black_City",
+  "pageId": 110004,
+  "pageRevisionId": 4280046,
+  "leadText": "Black City (Japanese: ブラックシティ Black City) is a city located in the eastern part of the Unova region. Black City is exclusive to Pokémon Black and Pokémon Black 2, and features Trainers and tasks that do not appear or occur in Pokémon White and White 2. It is located to the east of Route 15, and to the south of Route 14. If the Tower Key is transferred to Pokémon White 2, both Black City and Black Tower can be accessed. In Pokémon Black, Black City's population changes with time. The appearance of Black City alters with the number of varying Trainers residing there. When the player enters the city for the very first time, the total number of varying Trainers is determined by the number of days it took the player to reach Black City, decreasing as time goes by. The number of overall residents can vary between 12 (minimum occupancy, at which residents only exist in the Pokémon Center and gates) and 45 (maximum occupancy), 12 of them being Trainers at the maximum (including the two Trainers inside the marketplace, both of whom can only be battled once). In addition to the visual changes, the city's market will sell items to the player at inflated prices, dependent on which varying Trainers are in the city. The items are rare, with most being either Evolution stones or valuable items. At maximum occupancy, Black City is a sprawling metropolis with many large buildings and skyscrapers. At low level occupancy, there are fewer buildings, which are smaller in size. The Pokémon Center is present regardless of how many people reside in the city. When using the Entralink feature to visit another player's White Forest, the player can invite people that have left to come to Black City to increase occupancy; this can enable new items to be purchased and new varying Trainers to battle. In Pokémon Black 2, the mechanic of NPC's entering and leaving Black City is no longer present, although four shopkeepers will be gradually added to the marketplace as the player progresses through the Black Tower.",
+  "sections": [
+    {
+      "title": "Demographics",
+      "text": "Demographics [ edit | edit source ] Pokémon Black [ edit | edit source ] In Pokémon Black, Black City has a total population of 12 at the lowest possible occupancy level or at the maximum occupancy level of 45. Each NPC Trainer resident has a set number of initial points (can be seen in the Trainers section below), which will change depending on certain functions that can be performed by the player. The lowest set of initial points is 20, and the highest is 80. If an NPC's points value reaches 0, then they will leave Black City. To prevent any residents from leaving and becoming unavailable, the player must reach Black City within 4 days of creating the save file. Conversely, if the player reaches Black City more than 16 days after the save file was created, no residents will appear. The factors involved in this are as follows: Function Value 1 day passes -5 points (whole city) Player enters area +3 points (whole city) Player battles character +10 points (the character battled) Even after the player has reached Black City, the factors remain in effect, which means the residents will leave if the player does not frequently re-enter the area or battle with them for multiple days afterward. Left NPCs can only be brought into Black City by inviting them from White Forest via the Entralink . NPCs that have left will be visible to other players in Entralink . If this area becomes full, no more will leave, even if their score reaches zero. Pokémon Black 2 [ edit | edit source ] In Pokémon Black 2, not counting Trainers in the Black Tower , Black City's population increases to a minimum of 23 and a maximum of 27."
+    },
+    {
+      "title": "Pokémon Black",
+      "text": "Pokémon Black [ edit | edit source ] In Pokémon Black, Black City has a total population of 12 at the lowest possible occupancy level or at the maximum occupancy level of 45. Each NPC Trainer resident has a set number of initial points (can be seen in the Trainers section below), which will change depending on certain functions that can be performed by the player. The lowest set of initial points is 20, and the highest is 80. If an NPC's points value reaches 0, then they will leave Black City. To prevent any residents from leaving and becoming unavailable, the player must reach Black City within 4 days of creating the save file. Conversely, if the player reaches Black City more than 16 days after the save file was created, no residents will appear. The factors involved in this are as follows: Function Value 1 day passes -5 points (whole city) Player enters area +3 points (whole city) Player battles character +10 points (the character battled) Even after the player has reached Black City, the factors remain in effect, which means the residents will leave if the player does not frequently re-enter the area or battle with them for multiple days afterward. Left NPCs can only be brought into Black City by inviting them from White Forest via the Entralink . NPCs that have left will be visible to other players in Entralink . If this area becomes full, no more will leave, even if their score reaches zero."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Black-City",
+    "Black City",
+    "Black",
+    "Black-City (location)"
+  ],
+  "updatedAt": 1773328773
+}

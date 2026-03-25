@@ -1,0 +1,30 @@
+{
+  "answerKey": "INLETGROTTO",
+  "answerDisplay": "INLET GROTTO",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Inlet Grotto",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Inlet_Grotto",
+  "pageId": 277737,
+  "pageRevisionId": 4501937,
+  "leadText": "The Inlet Grotto (Japanese: 入り江のほら穴 Inlet Cave) is a cave in the south of the Paldea region. The cave's entrance is located on a beach on Poco Path, with the exit being far above the cliffside.",
+  "sections": [
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Potion ×2 By a rock on the path from the cave entrance Past the first breakable rock wall, by the first rock column S V Poké Ball ×4 On a platform next to the pool of water, at the right side of the path from the cave entrance Past the first breakable rock wall, at the foot of a cliff to the left Past the first breakable rock wall, at the end of the passageway heading down to the right (×2) S V TM100 ( Dragon Dance ) Past the first breakable rock wall, at the cliff to the left, accessible by falling down the hole in an upper section of the cave S V Revive Right before the passageway covered in glowing moss, to the left of a large stone pillar S V Ultra Ball After the last passageway, on a patch of glowing moss S V Super Potion After the last passageway, by a rock column near the hole S V Dusk Ball Turning right at the highest floor, at the edge overlooking the lower floors S V TM151 ( Phantom Force ) Turning right at the highest floor, at the top of a rock column (requires Koraidon S / Miraidon V ) S V"
+    },
+    {
+      "title": "Pokémon",
+      "text": "Pokémon [ edit | edit source ] Pokémon Games Terrain Levels Probability Weight Group Rate Group Pokémon Cave Diglett S V ✔ ✘ ✘ ✘ ✘ 3-5 20 ✘ ✘ Houndour S V ✔ ✘ ✘ ✘ ✘ 3-5 60 40% Houndour Yungoos S V ✔ ✘ ✘ ✘ ✘ 3-5 60 ✘ ✘ A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here. Probability weight indicates the likelihood that a Pokémon will spawn at a certain point in this location relative to others that can spawn there. A higher probability weight generally indicates that a Pokémon is more likely to spawn. Pokémon with the highest or lowest level requirements may not spawn in every possible location within this area. A bolded level range replaces the Pokémon's non-bolded level range after the player has completed The Way Home."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Inlet-Grotto",
+    "Inlet Grotto",
+    "Inlet-Grotto (location)"
+  ],
+  "updatedAt": 1774214241
+}

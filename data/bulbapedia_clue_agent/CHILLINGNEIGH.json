@@ -1,0 +1,77 @@
+{
+  "answerKey": "CHILLINGNEIGH",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4359113,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Chilling Neigh (Japanese: White Neigh) is an Ability introduced during Generation VIII, in The Crown Tundra. It is the signature Ability of Glastrier.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Chilling Neigh directly causes another Pokemon (including allies) to faint by using a damaging move, its Attack is increased by one stage. If its Attack is already at +6 stages, Chilling Neigh will not activate. Outside of battle [ edit | edit source ] Chilling Neigh has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with Chilling Neigh directly causes another Pokemon (including allies) to faint by using a damaging move, its Attack is increased by one stage. If its Attack is already at +6 stages, Chilling Neigh will not activate.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Boosts Attack after knocking out a Pokemon.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Raises Attack after a knockout",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Raises Attack after a knockout",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.78,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "KO-triggered Attack boost",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Attack snowball trait",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.8,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "ko attack boost",
+      "attack snowball"
+    ],
+    "connections_descriptors": [
+      "Knockout-boosting abilities",
+      "Gen VIII abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257934
+}

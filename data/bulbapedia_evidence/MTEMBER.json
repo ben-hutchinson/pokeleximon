@@ -1,0 +1,30 @@
+{
+  "answerKey": "MTEMBER",
+  "answerDisplay": "MT EMBER",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Mt. Ember",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mt._Ember",
+  "pageId": 9433,
+  "pageRevisionId": 4509525,
+  "leadText": "Mt. Ember (Japanese: ともしびやま Mount Tomoshibi) is a dormant volcano on One Island in Pokémon FireRed and LeafGreen. Moltres lives high atop this behemoth mountain, which was named for the embers that are visible at night due to the legendary bird. It is also home to the Ruby.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] Mt. Ember can be traversed as soon as the player has arrived in the Sevii Islands , provided the required HMs have been taught. After Surfing north of the Ember Spa , a Move Tutor will offer to teach Explosion to a compatible Pokémon . A pair of Team Rocket Grunts are apparently standing guard nearby, talking in loud, easily overheard whispers. Further up the hill, Rock Smash and Strength allow access to a network of caves which lead to the legendary bird , Moltres . After the National Pokédex has been obtained and the player speaks with Celio , the Team Rocket Grunts will challenge the player to a battle . If victorious, they will flee, allowing access to another chasm, inside of which lies the Ruby required by Celio to enable trading with Hoenn . It is found in a room with a Braille inscription; the previous room gives a letter-by-letter translation aid. By continuing along the pathway (only one way until B3F where the path splits), the player will find that the cave is in fact circular, and they will be back at the entrance."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Dire Hit Northeast of the grass on the east side of the volcano FR LG Ultra Ball ×2 Southwest of Pokémon Ranger Logan, at the end of the dead-end path (hidden) West of summit entrance FR LG Fire Stone ×2 On a rock southeast of the second Ultra Ball (hidden) Southeast of summit entrance (requires Strength and Rock Smash ) FR LG Ruby In the cave guarded by the two Team Rocket Grunts (requires Strength ) FR LG"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mt-Ember",
+    "Mt Ember",
+    "Mt-Ember (location)"
+  ],
+  "updatedAt": 1774214599
+}

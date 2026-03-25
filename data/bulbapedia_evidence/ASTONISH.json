@@ -1,0 +1,37 @@
+{
+  "answerKey": "ASTONISH",
+  "answerDisplay": "ASTONISH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Astonish (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Astonish_(move)",
+  "pageId": 3921,
+  "pageRevisionId": 4500928,
+  "leadText": "If you were looking for the skill in Pokémon Shuffle, see Skill (Shuffle) → Astonish. Astonish (Japanese: おどろかす Astonish) is a damage-dealing Ghost-type move introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Astonish inflicts damage and has a 30% chance of causing the target to flinch . In Generation III only, Astonish will deal double the damage if its target had previously used Minimize . Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Astonish's PP has been increased to 25, and it lower's the target's action speed . Pokémon Legends: Arceus Category Physical PP 25 Agile Strong Power 30 20 40 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target +3 +5 +3 Additional effect ? ? ? ? ? ? None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E An attack that may shock the foe into flinching. FR LG An attack using a startling shout. It also may make the foe flinch. Colo XD An attack that may shock the target into flinching. D P Pt HG SS PBR The user attacks the foe while shouting in a startling fashion. It may also make the target flinch. B W B2 W2 The user attacks the target while shouting in a startling fashion. It may also make the target flinch. X Y OR AS S M US UM P E Sw Sh BD SP The user attacks the target while shouting in a startling fashion. This may also make the target flinch. LA The user attacks the target while crying out in a startling fashion. S V The user attacks the target by crying out in a startling fashion. This may also make the target flinch."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also cause the target to cringe, making it incapable of action. MD T D S Inflicts damage on the target. It may also afflict the target with a Cringe status condition, making its actions fail. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで ひるみじょうたいにして わざや こうげきを だせなくする Conq. The user attacks the target while shouting in a startling fashion. It may also make the target flinch. MD GtI It damages an enemy. It could also cause the Cringe status condition, which makes the enemy unable to attack or use moves. S MD MD RT DX It damages an enemy. It could also cause the enemy to flinch."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Astonish is the only Ghost-type move capable of making the target flinch ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Astonish",
+    "Astonish (move)"
+  ],
+  "updatedAt": 1773320922
+}

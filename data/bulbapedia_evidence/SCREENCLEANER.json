@@ -1,0 +1,30 @@
+{
+  "answerKey": "SCREENCLEANER",
+  "answerDisplay": "SCREEN CLEANER",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Screen Cleaner (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Screen_Cleaner_(Ability)",
+  "pageId": 244407,
+  "pageRevisionId": 3853860,
+  "leadText": "Screen Cleaner (Japanese: バリアフリー Barrier-Free) is an Ability introduced in Generation VIII. It is the signature Ability of Galarian Mr. Mime and Mr. Rime.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with Screen Cleaner is sent out, the effects of Light Screen , Reflect , and Aurora Veil end on both sides of the field. Outside of battle [ edit | edit source ] Screen Cleaner has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with Screen Cleaner is sent out, the effects of Light Screen , Reflect , and Aurora Veil end on both sides of the field."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Screen-Cleaner",
+    "Screen Cleaner",
+    "Screen-Cleaner (Ability)"
+  ],
+  "updatedAt": 1773329187
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "ARMORTAIL",
+  "answerDisplay": "ARMOR TAIL",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Armor Tail (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Armor_Tail_(Ability)",
+  "pageId": 276134,
+  "pageRevisionId": 4512547,
+  "leadText": "Armor Tail (Japanese: テイルアーマー Tail Armor) is an Ability introduced in Generation IX. It is the signature Ability of Farigiraf.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If an opponent uses a move with increased priority (including moves boosted by Prankster , Gale Wings , or Triage ) that targets the Pokémon with Armor Tail or its allies, Armor Tail prevents the Pokémon from executing that move, after PP is deducted from it. As such, the opponent can only use a move with decreased priority or a move without any to target the Pokémon with Armor Tail or its allies. Moves that target all Pokémon (except Perish Song ) and moves that target the opponent's side of the field cannot be blocked by Armor Tail, even if they become moves with increased priority. Armor Tail has no effect on allies' moves with increased priority. Mold Breaker , Turboblaze , and Teravolt will ignore this Ability. Moves with increased priority that are called using Instruct retain their original priority and are blocked by Armor Tail. Moves with decreased priority and moves without any—both which are called using Instruct with increased priority (i.e.: the user with Prankster)—similarly retain their original priority and cannot be blocked. Moves with increased priority that are called using any moves that call other moves cannot be blocked by Armor Tail. If a move that calls other moves is used with increased priority, Armor Tail will block the called move regardless of its original priority."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] If an opponent uses a move with increased priority (including moves boosted by Prankster , Gale Wings , or Triage ) that targets the Pokémon with Armor Tail or its allies, Armor Tail prevents the Pokémon from executing that move, after PP is deducted from it. As such, the opponent can only use a move with decreased priority or a move without any to target the Pokémon with Armor Tail or its allies. Moves that target all Pokémon (except Perish Song ) and moves that target the opponent's side of the field cannot be blocked by Armor Tail, even if they become moves with increased priority. Armor Tail has no effect on allies' moves with increased priority. Mold Breaker , Turboblaze , and Teravolt will ignore this Ability. Moves with increased priority that are called using Instruct retain their original priority and are blocked by Armor Tail. Moves with decreased priority and moves without any—both which are called using Instruct with increased priority (i.e.: the user with Prankster)—similarly retain their original priority and cannot be blocked. Moves with increased priority that are called using any moves that call other moves cannot be blocked by Armor Tail. If a move that calls other moves is used with increased priority, Armor Tail will block the called move regardless of its original priority."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Event Gen IX Armor Tail activated \" (The wild/opposing) cannot use !\""
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Armor-Tail",
+    "Armor Tail",
+    "Armor-Tail (Ability)"
+  ],
+  "updatedAt": 1774213567
+}

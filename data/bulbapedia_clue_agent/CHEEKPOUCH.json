@@ -1,0 +1,62 @@
+{
+  "answerKey": "CHEEKPOUCH",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4407537,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VI ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Cheek Pouch (Japanese: Cheek Pouch) is an Ability introduced in Generation VI.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description S MD When the Pokemon eats or drinks an item, some HP will be restored, too!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Cheek Pouch restores 33% of the Pokemon's maximum HP when it consumes a Berry , after the effect of the Berry is applied. Cheek Pouch activates even if the Pokemon eats another Pokemon's held Berry via Bug Bite , Pluck , or Fling , but only if the Berry is actually eaten for an effect (i.e. the Berry consumption animation plays). Consuming a Berry through other means (such as Natural Gift , using Fling , or its Trainer giving it a Berry from the Bag ) will not trigger Cheek Pouch. Cheek Pouch will not activate if the Pokemon is under the effect of Heal Block . Outside of battle [ edit | edit source ] Cheek Pouch has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Cheek Pouch restores 33% of the Pokemon's maximum HP when it consumes a Berry , after the effect of the Berry is applied. Cheek Pouch activates even if the Pokemon eats another Pokemon's held Berry via Bug Bite , Pluck , or Fling , but only if the Berry is actually eaten for an effect (i.e. the Berry consumption animation plays). Consuming a Berry through other means (such as Natural Gift , using Fling , or its Trainer giving it a Berry from the Bag ) will not trigger Cheek Pouch. Cheek Pouch will not activate if the Pokemon is under the effect of Heal Block .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Restores HP upon eating a Berry, in addition to the Berry's effect.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "healing trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "healing trait"
+    ],
+    "connections_descriptors": [
+      "Healing abilities",
+      "Gen VI abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257934
+}

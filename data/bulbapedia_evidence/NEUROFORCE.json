@@ -1,0 +1,29 @@
+{
+  "answerKey": "NEUROFORCE",
+  "answerDisplay": "NEUROFORCE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Neuroforce (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Neuroforce_(Ability)",
+  "pageId": 226662,
+  "pageRevisionId": 4465199,
+  "leadText": "Neuroforce (Japanese: ブレインフォース Brain Force) is an Ability introduced during Generation VII, in Pokémon Ultra Sun and Ultra Moon. It is one of the signature Abilities of Necrozma.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Pokémon with Neuroforce deal 25% more damage with supereffective moves, regardless of the effectiveness multiplier. Outside of battle [ edit | edit source ] Neuroforce has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Pokémon with Neuroforce deal 25% more damage with supereffective moves, regardless of the effectiveness multiplier."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Neuroforce",
+    "Neuroforce (Ability)"
+  ],
+  "updatedAt": 1773329055
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "SMACKDOWN",
+  "answerDisplay": "SMACK DOWN",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Smack Down (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Smack_Down_(move)",
+  "pageId": 117478,
+  "pageRevisionId": 4494222,
+  "leadText": "Smack Down (Japanese: うちおとす Knock Down) is a damage-dealing Rock-type move introduced in Generation V. It was TM23 from Generation V to Pokémon Ultra Sun and Ultra Moon, and is TM179 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Smack Down inflicts damage and grounds the target if it was ungrounded. Specifically, if the target is Flying-type , has the Ability Levitate , or is under the effect of Magnet Rise or Telekinesis , Smack Down applies its effect to that Pokémon, causing that target to become grounded (vulnerable to Ground-type moves and affected by terrain and Arena Trap ) until that target switches out. Smack Down also removes the effects of Magnet Rise and Telekinesis . The effect of Smack Down is not applied if it hits the target's substitute or if the target is in the semi-invulnerable turn of Sky Drop , holds an Iron Ball , or is under the effect of Gravity or Ingrain . Magnet Rise fails if used by a Pokémon under the effect of Smack Down; the move Telekinesis cannot affect a Pokémon under the effect of Smack Down. The Air Balloon does not apply if the Pokémon is under the effect of Smack Down. Smack Down can hit Pokémon during the semi-invulnerable turns of Fly , Bounce , and Sky Drop . If it hits a Pokémon that is using Fly or Bounce, it will knock it down, cancelling the move; if it hits a Pokémon using or affected by Sky Drop, it will not be knocked down. A Pokémon under the effect of Smack Down can still use these moves on subsequent turns. Smack Down can also be used as part of a Contest Spectacular combination with the user gaining an extra three appeal points if any of the moves Entrainment , Hold Hands or Play Nice was used in the prior turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user throws a stone or projectile to attack an opponent. A flying Pokémon will fall to the ground when it's hit. X Y OR AS S M US UM P E The user throws a stone or similar projectile to attack an opponent. A flying Pokémon will fall to the ground when it's hit. Sw Sh BD SP LA The user throws a stone or similar projectile to attack the target. A flying Pokémon will fall to the ground when it's hit. S V The user throws a stone or similar projectile to attack the target. If the target is in the air, it will be knocked down to the ground."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It damages an enemy. If the enemy is a Flying type, it causes the Grounded status condition, which makes Ground-type moves hit the Pokémon. It also hits Pokémon in the air using moves like Fly. S MD It damages an enemy. If the enemy is flying, it will be grounded, which allows Ground-type moves to hit it. This move also hits a Pokémon in the air using Fly."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The English name of this move may be an homage to former professional wrestler and actor Dwayne Johnson , who is associated with the coining of the word smackdown , and shares his ring name, The Rock , with the type of the move."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Smack-Down",
+    "Smack Down",
+    "Smack-Down (move)"
+  ],
+  "updatedAt": 1773327181
+}

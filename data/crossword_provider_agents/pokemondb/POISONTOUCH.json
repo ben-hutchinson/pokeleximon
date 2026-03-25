@@ -1,0 +1,17 @@
+{
+  "answerKey": "POISONTOUCH",
+  "answerDisplay": "POISON TOUCH",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this ability, and the list of Pokémon that learn it.",
+  "score": 102.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/ability/poison-touch",
+  "extract": "Touch, and the list of Pokémon that learn it.",
+  "rankPosition": 1,
+  "updatedAt": 1774212390
+}

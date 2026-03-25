@@ -1,0 +1,34 @@
+{
+  "answerKey": "SEEDBOMB",
+  "answerDisplay": "SEED BOMB",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Seed Bomb (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Seed_Bomb_(move)",
+  "pageId": 17431,
+  "pageRevisionId": 4500900,
+  "leadText": "Seed Bomb (Japanese: タネばくだん Seed Bomb) is a damage-dealing Grass-type move introduced in Generation IV. It is: TR59 in Pokémon Sword and Shield. TM071 in Pokémon Scarlet and Violet. TM128 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Seed Bomb inflicts damage and has no secondary effect. It does not affect targets with Bulletproof . Seed Bomb can be used as part of a Contest Spectacular combination with the user gaining an extra three appeal points if Rototiller was used in the prior turn. Pokémon Legends: Z-A [ edit | edit source ] Seed Bomb is now a multistrike move with 35 power that fires four seeds in front of the user, sweeping from left to right, that explode when they hit the ground or a target. Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 35 42 Cooldown 7s Move wind-up time 15 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user slams a barrage of hard-shelled seeds down on the foe from above. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user slams a barrage of hard-shelled seeds down on the target from above. S V The user attacks by slamming a barrage of hard-shelled seeds down on the target from above. ZA The user attacks by slamming a barrage of large, hard-shelled seeds down on targets from above."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. B S L てきポケモンに ダメージをあたえる MD GtI S MD MD RT DX It damages an enemy."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Seed-Bomb",
+    "Seed Bomb",
+    "Seed-Bomb (move)"
+  ],
+  "updatedAt": 1773326774
+}

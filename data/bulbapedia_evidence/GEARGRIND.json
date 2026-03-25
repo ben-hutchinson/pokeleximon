@@ -1,0 +1,34 @@
+{
+  "answerKey": "GEARGRIND",
+  "answerDisplay": "GEAR GRIND",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Gear Grind (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Gear_Grind_(move)",
+  "pageId": 117547,
+  "pageRevisionId": 4390915,
+  "leadText": "Gear Grind (Japanese: ギアソーサー Gear Saucer) is a damage-dealing Steel-type multistrike move introduced in Generation V. It is the signature move of Klink's evolutionary line.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] Gear Grind inflicts damage, hitting twice per use. Each strike has an equal chance to be a critical hit . Gear Grind will hit again if the first strike breaks a substitute. Bide and Counter will only acknowledge the second strike of this move. If the target has an Ability that activates upon contact , each strike counts individually, enabling the Ability to activate twice. If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokémon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokémon has a maximum HP of 1. If the target has Weak Armor or Stamina , each strike will activate it. If the target is holding a Rocky Helmet , the user is damaged for each strike. If the user is holding a King's Rock or Razor Fang , each consecutive hit has an equal chance to cause the opponent to flinch . Gear Grind can also be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if the move Shift Gear was used in the prior turn. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Gear Grind cannot be selected in a battle. Generation IX [ edit | edit source ] Gear Grind cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user attacks by throwing two steel gears at its target. X Y OR AS S M US UM P E Sw Sh LA The user attacks by throwing steel gears at its target twice. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user attacks by throwing steel gears at the target twice in a row."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI S MD It damages an enemy 2 times in a row."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Gear-Grind",
+    "Gear Grind",
+    "Gear-Grind (move)"
+  ],
+  "updatedAt": 1773323128
+}

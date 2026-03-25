@@ -1,0 +1,30 @@
+{
+  "answerKey": "WICKEDBLOW",
+  "answerDisplay": "WICKED BLOW",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Wicked Blow (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Wicked_Blow_(move)",
+  "pageId": 252177,
+  "pageRevisionId": 4403578,
+  "leadText": "Wicked Blow (Japanese: あんこくきょうだ Dark Blow) is a damage-dealing Dark-type move introduced during Generation VIII, in The Isle of Armor. It is the signature move of Single Strike Style Urshifu.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Wicked Blow inflicts damage and will always result in a critical hit unless the target has Battle Armor or Shell Armor . Wicked Blow has a base power of 80. Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Wicked Blow cannot be selected in a battle. Generation IX [ edit | edit source ] Wicked Blow's base power was reduced to 75."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA The user, having mastered the Dark style, strikes the target with a fierce blow. This attack always results in a critical hit. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. S V The user, having mastered the Dark style, strikes the target with a fierce blow. This move always lands a critical hit."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Wicked-Blow",
+    "Wicked Blow",
+    "Wicked-Blow (move)"
+  ],
+  "updatedAt": 1773328497
+}

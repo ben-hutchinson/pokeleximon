@@ -1,0 +1,67 @@
+{
+  "answerKey": "TAPUNIUMZHELD",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "z crystals",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Held: Allows the Tapus to upgrade Natures Madness into Guardian of Alola.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Z-Move crystal",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      },
+      {
+        "text": "Upgrades Natures Madness into Guardian Of Alola for The Tapus",
+        "evidence_ref": "lead",
+        "specificity": 0.94
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "The Tapus-exclusive Z crystal",
+        "evidence_ref": "lead",
+        "mystery_score": 0.8,
+        "specificity_score": 0.92,
+        "style": "effect"
+      },
+      {
+        "text": "Natures Madness upgrade crystal",
+        "evidence_ref": "lead",
+        "mystery_score": 0.76,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Crystal for Guardian Of Alola",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.88,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "signature z crystal",
+      "the tapus crystal"
+    ],
+    "connections_descriptors": [
+      "Signature Z crystals",
+      "Species-specific Z crystals"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774258023
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "POWERTRIP",
+  "answerDisplay": "POWER TRIP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Power Trip (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Power_Trip_(move)",
+  "pageId": 218357,
+  "pageRevisionId": 4407207,
+  "leadText": "Power Trip (Japanese: つけあがる Be Audacious) is a damage-dealing Dark-type move introduced in Generation VII. Prior to Generation VIII, it was the signature move of Krookodile, but other Pokémon could still inherit it via breeding.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Power Trip deals damage. It normally has a base power of 20, but gains 20 power for every increased stat stage the user has. Stats decreased below normal do not affect this move's base power. Its maximum possible base power is 860. This occurs when all seven of the user's stats (Attack, Defense, Special Attack, Special Defense, Speed, evasion, and accuracy) have been raised the maximum six stages. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Power Trip cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA The user boasts its strength and attacks the target. The more the user's stats are raised, the greater the move's power. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. S V The user boasts its strength and attacks the target. The more the user's stats are boosted, the greater the move's power."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as a TCG attack ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Power-Trip",
+    "Power Trip",
+    "Power-Trip (move)"
+  ],
+  "updatedAt": 1773326017
+}

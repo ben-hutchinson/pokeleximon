@@ -1,0 +1,38 @@
+{
+  "answerKey": "WATERSPORT",
+  "answerDisplay": "WATER SPORT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Water Sport (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Water_Sport_(move)",
+  "pageId": 3957,
+  "pageRevisionId": 4446829,
+  "leadText": "Not to be confused with Water Spout. Water Sport (Japanese: みずあそび Water Game) is a non-damaging Water-type move introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations III and IV 1.2 Generation V 1.3 Generations VI and VII 1.4 Generation VIII onwards Effect [ edit | edit source ] Generations III and IV [ edit | edit source ] Water Sport reduces the base power of Fire-type moves by 50% on both sides in battle. The effects last until the user switches out. Water Sport can be used as the first move of a Pokémon Contest combination , causing Mud Sport , Refresh , and Water Gun to score double the normal appeal if used in the next turn. It can also be used to finish a combination, with the user gaining 4 bonus appeal points if Mud Sport or Rain Dance was used in the previous turn. Generation V [ edit | edit source ] Water Sport now reduces the base power of Fire-type moves by 67% (approximated as a factor of 1352/4096) on both sides in battle. Generations VI and VII [ edit | edit source ] Water Sport is now active for five turns, even if the user switches out. Water Sport can also be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if Rain Dance was used in the prior turn. If powered up by a Waterium Z into Z-Water Sport, the user's Special Defense stat rises one stage. Generation VIII onwards [ edit | edit source ] Water Sport cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD The user becomes soaked to raise resistance to fire. FR LG Weakens Fire -type attacks while the user is in the battle. D P Pt HG SS PBR B W B2 W2 The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle. X Y OR AS The user soaks itself with water. This weakens Fire-type moves for five turns. S M US UM P E The user soaks the battlefield with water. This weakens Fire-type moves for five turns. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Changes the floor's status to Water Sport, which halves the power of Fire-type moves. MD T D S Changes the dungeon floor's status to Water Sport. A floor Under the influence of Water Sport halves the power of all Fire-type moves. B S L フロアぜんたいが みずあそびじょうたいになる みずあそびじょうたいでは ほのおタイプの わざの ダメージが はんげんする MD GtI S MD It changes the entire floor to the Water Sport condition. In the Water Sport condition, damage caused by Fire-type moves goes down. MD RT DX It changes the entire floor to the Water Sport condition. Damage caused by Fire-type moves goes down."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation III , the status screen erroneously states that the move has 100% accuracy, even though it targets the field as a whole (thus it ignores accuracy and evasion checks)."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Water-Sport",
+    "Water Sport",
+    "Water-Sport (move)"
+  ],
+  "updatedAt": 1773328422
+}

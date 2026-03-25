@@ -1,0 +1,17 @@
+{
+  "answerKey": "FLAMEBURST",
+  "answerDisplay": "FLAME BURST",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "Details and added effects for the Pokémon attack.",
+  "score": 57.88,
+  "approved": false,
+  "qualityFlags": [
+    "near_verbatim_source"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/move/flame-burst",
+  "extract": "Details and added effects for the Pokémon attack",
+  "rankPosition": 1,
+  "updatedAt": 1774211278
+}

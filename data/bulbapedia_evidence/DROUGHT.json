@@ -1,0 +1,33 @@
+{
+  "answerKey": "DROUGHT",
+  "answerDisplay": "DROUGHT",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Drought (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Drought_(Ability)",
+  "pageId": 4146,
+  "pageRevisionId": 4486387,
+  "leadText": "Drought (Japanese: ひでり Drought) is an Ability introduced in Generation III. Prior to Generation V, it was the signature Ability of Groudon.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations III to V 1.1.2 Generation VI onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations III to V [ edit | edit source ] Drought summons harsh sunlight in battle as soon as a Pokémon with Drought enters the battle. Its effects are the same as the move Sunny Day , but instead of lasting for a limited amount of turns, it lasts for the whole battle (unless it is replaced by another weather condition). If a Pokémon with Drought is sent out in the same turn as another Pokémon whose Ability affects the weather, the slower Pokémon's Ability will override the faster Pokémon's Ability. Generation VI onward [ edit | edit source ] The sunlight now lasts only for five turns. This can be extended to eight turns if the Pokémon is holding a Heat Rock . Drought will not activate if the Pokémon with the Ability is a Groudon about to undergo Primal Reversion ; in that case, the Primal Reversion will happen instead, causing its Ability to be replaced by Desolate Land , and only that Ability will activate. Drought will also fail to activate if heavy rain , extremely harsh sunlight , or strong winds are already in effect. Outside of battle [ edit | edit source ] Drought has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generations III to V [ edit | edit source ] Drought summons harsh sunlight in battle as soon as a Pokémon with Drought enters the battle. Its effects are the same as the move Sunny Day , but instead of lasting for a limited amount of turns, it lasts for the whole battle (unless it is replaced by another weather condition). If a Pokémon with Drought is sent out in the same turn as another Pokémon whose Ability affects the weather, the slower Pokémon's Ability will override the faster Pokémon's Ability. Generation VI onward [ edit | edit source ] The sunlight now lasts only for five turns. This can be extended to eight turns if the Pokémon is holding a Heat Rock . Drought will not activate if the Pokémon with the Ability is a Groudon about to undergo Primal Reversion ; in that case, the Primal Reversion will happen instead, causing its Ability to be replaced by Desolate Land , and only that Ability will activate. Drought will also fail to activate if heavy rain , extremely harsh sunlight , or strong winds are already in effect."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Changes the weather to sunny. MD T D S Changes the weather to a sunny condition. B S L てんきを ひざしがつよいに してしまう MD GtI Unavailable S MD The weather on the floor will be sunny! MD RT DX The weather condition on the floor will be Sunny."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Drought",
+    "Drought (Ability)"
+  ],
+  "updatedAt": 1773328844
+}

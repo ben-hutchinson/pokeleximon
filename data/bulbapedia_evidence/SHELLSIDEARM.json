@@ -1,0 +1,30 @@
+{
+  "answerKey": "SHELLSIDEARM",
+  "answerDisplay": "SHELL SIDE ARM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shell Side Arm (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shell_Side_Arm_(move)",
+  "pageId": 252175,
+  "pageRevisionId": 4403561,
+  "leadText": "Shell Side Arm (Japanese: シェルアームズ Shell Arms) is a damage-dealing Poison-type move introduced during Generation VIII, in The Isle of Armor. It is the signature move of Galarian Slowbro.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Shell Side Arm deals damage and has a 20% chance of poisoning the target. Shell Side Arm forecasts whether its base damage would be higher as a physical move or special move , and becomes the category that it predicts would inflict more damage (chosen randomly if they are tied). For the forecast only, stat modifiers other than stat stages are ignored, and Wonder Room is applied to stat stage modifiers but not to the original stats. Shell Side Arm has a different animation depending on whether it is a physical or a special move. If it is a physical move, it makes contact ; if it is a special move, it does not. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Shell Side Arm cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA This move inflicts physical or special damage, whichever will be more effective. This may also poison the target. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V This move is either physical or special—whichever will inflict more damage. This may also poison the target."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shell-Side-Arm",
+    "Shell Side Arm",
+    "Shell-Side-Arm (move)"
+  ],
+  "updatedAt": 1773326911
+}

@@ -1,0 +1,70 @@
+{
+  "answerKey": "BOOSTERENERGY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4474369,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "held items",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen IX held items",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Effect [ edit | edit source ] If held by a Pokemon with the Ability Protosynthesis when harsh sunlight is not active, or Quark Drive when Electric Terrain is not active, Booster Energy activates the Pokemon's Ability (being consumed in the process). Item-manipulating moves and abilities such as Fling , Trick , or Symbiosis cannot transfer Booster Energy to or from a Paradox Pokemon (except Koraidon and Miraidon ). Since Booster Energy is restored after battle when consumed (as are all non-Berry items as of Pokemon Scarlet and Violet ), it can be obtained from wild Paradox Pokemon even if it was consumed during battle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Boosts The Pokemon's stats",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "The Pokemon Strength boost item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Power item for The Pokemon",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "The Pokemon-only held item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "the pokemon item"
+    ],
+    "connections_descriptors": [
+      "Gen IX items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257931
+}

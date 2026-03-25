@@ -1,0 +1,29 @@
+{
+  "answerKey": "RUINATION",
+  "answerDisplay": "RUINATION",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Ruination (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ruination_(move)",
+  "pageId": 277778,
+  "pageRevisionId": 4403657,
+  "leadText": "Ruination (Japanese: カタストロフィ Catastrophe) is a damage-dealing Dark-type move introduced in Generation IX. It is the signature move of the treasures of ruin.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Ruination deals damage equal to 50% of the opponent's remaining HP , rounded down. It always deals at least 1 HP of damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user summons a ruinous disaster. This cuts the target’s HP in half."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ruination",
+    "Ruination (move)"
+  ],
+  "updatedAt": 1773326562
+}

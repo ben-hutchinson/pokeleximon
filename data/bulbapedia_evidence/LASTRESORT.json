@@ -1,0 +1,34 @@
+{
+  "answerKey": "LASTRESORT",
+  "answerDisplay": "LAST RESORT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Last Resort (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Last_Resort_(move)",
+  "pageId": 15946,
+  "pageRevisionId": 4405487,
+  "leadText": "The Best redirects here. For the Korean opening theme, see The Best (song). Last Resort (Japanese: とっておき The Best) is a damage-dealing Normal-type move introduced in Generation IV. It can be upgraded to the special Z-Move Extreme Evoboost by Eevee holding Eevium Z.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] This move effect may be in need of research. Reason: If a move misses or fails (such as because of accuracy/evasion, type immunity, Protect/Detect/etc. or other kinds of situations such as Fling with no held item, Substitute with not enough HP, Snore while awake, etc.), does using this move still count for Last Resort? If Last Resort is called indirectly (such as by Sleep Talk, Mirror Move, or Metronome) but the user already knows Last Resort nonetheless, will it be usable in battle? If the user has indirectly called another move that it already knows (such as by Sleep Talk, Mirror Move, or Metronome) but has not used this move normally, will Last Resort be usable? If the user learns a new move by leveling up in battle, does the old move (if any) and/or the new move need to be used before Last Resort? If the user's only known move was Last Resort at the start of battle, but then the user learns a new move by leveling up and uses it, will Last Resort be usable? If the user acquires a new move as a result of Mimic or Sketch, does the new move need to be used before Last Resort? If the user learns a move with Mimic, and then later learns a second copy of the same move by leveling up in battle, is the user required to use only one or two copies of the same move before Last Resort? If the user has acquired Last Resort as a result of Transform, is Last Resort usable? Do the old moves (if any) and/or new moves (if any) need to be used before Last Resort? If the user has acquired Last Resort as a result of Mimic, is Last Resort usable in battle? You can discuss this on the talk page. Last Resort inflicts damage and has no secondary effect. Last Resort will fail unless the Pokémon has used all of its other moves at least once while on the field. Using a move before switching out and back in does not count towards being able to use Last Resort. Last Resort will fail if it is the only move the user knows, or if the user does not know Last Resort (such as if it is called indirectly ). Generation IV [ edit | edit source ] Last Resort's power is 130. Generation V onwards [ edit | edit source ] Last Resort's power has been increased to 140."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V This move can be used only after the user has used all the other moves it knows in the battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target, but it won't hit unless the user has a move with 0 PP remaining. B S L てきポケモンに ダメージをあたえる しかし ＰＰが ０になっている わざが ないと あたらない ＰＰが ０になっているわざが いくつあるかで いりょくがかわる MD GtI It damages an enemy. But it won't hit unless you have a move with 0 PP remaining. The more moves with 0 PP, the more powerful the move becomes. S MD The more moves with 0 PP you have, the more powerful this move gets. * It damages an enemy. But it won't hit unless you have a move with 0 PP remaining. The more moves you have with 0 PP, the more powerful this move becomes. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Last-Resort",
+    "Last Resort",
+    "Last-Resort (move)"
+  ],
+  "updatedAt": 1773324274
+}

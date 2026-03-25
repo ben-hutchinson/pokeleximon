@@ -1,0 +1,34 @@
+{
+  "answerKey": "SIMPLEBEAM",
+  "answerDisplay": "SIMPLE BEAM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Simple Beam (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Simple_Beam_(move)",
+  "pageId": 117468,
+  "pageRevisionId": 4403365,
+  "leadText": "Simple Beam (Japanese: シンプルビーム Simple Beam) is a non-damaging Normal-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Simple Beam changes the target's Ability to Simple . If a Pokémon affected by Simple Beam is switched out, it regains its original Ability. Simple Beam fails if the target's Ability is Simple, Truant , Multitype , Zen Mode ( Generation VII onward), Stance Change , Schooling , Comatose , Shields Down , Disguise , RKS System , Battle Bond , Power Construct , Ice Face , Gulp Missile , or As One . With Simple as its Ability, if the Pokémon's stat stages would be increased or decreased, the amount they would change by is doubled. If powered up by a Normalium Z into Z-Simple Beam, the user's Special Attack stat rises one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user's mysterious psychic wave changes the target's Ability to Simple. S V The user emits a mysterious psychic wave that changes the target's Ability to Simple."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It changes the target's Ability to Simple. S MD It changes the target's Ability to Simple. The target regains its usual Ability when it goes to the next floor or faints."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Simple-Beam",
+    "Simple Beam",
+    "Simple-Beam (move)"
+  ],
+  "updatedAt": 1773327035
+}

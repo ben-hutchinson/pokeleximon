@@ -1,0 +1,17 @@
+{
+  "answerKey": "MUNNA",
+  "answerDisplay": "MUNNA",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Psychic type Pokémon introduced in Generation 5.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/munna",
+  "extract": "Munna is a Psychic type Pokémon introduced in Generation 5 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212155
+}

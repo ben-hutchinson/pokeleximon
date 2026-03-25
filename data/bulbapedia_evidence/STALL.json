@@ -1,0 +1,33 @@
+{
+  "answerKey": "STALL",
+  "answerDisplay": "STALL",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Stall (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Stall_(Ability)",
+  "pageId": 14208,
+  "pageRevisionId": 4028082,
+  "leadText": "Stall (Japanese: あとだし Going After) is an Ability introduced in Generation IV. It is the signature Ability of Sableye.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] The Pokémon with this Ability moves last in its priority bracket, regardless of its Speed and Trick Room . If Stall is gained, lost, or suppressed, then it will not affect turn order until the beginning of the next turn. If the Pokémon's held Quick Claw activates, Stall does not affect when that Pokémon moves. Generation IV [ edit | edit source ] If multiple Pokémon have the Ability Stall and use moves with the same priority, the Pokémon with the lower Speed will move first (regardless of Trick Room). A Pokémon with Stall moves before Pokémon holding a Lagging Tail or Full Incense . If a Pokémon with Stall also holds a Lagging Tail or Full Incense, Stall does not affect when the Pokémon moves. Generation V onward [ edit | edit source ] If multiple Pokémon with the Ability Stall or that are holding a Lagging Tail or Full Incense use moves with the same priority, the Pokémon move relatively according to Speed (the order is reversed during Trick Room). Outside of battle [ edit | edit source ] Stall has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] The Pokémon with this Ability moves last in its priority bracket, regardless of its Speed and Trick Room . If Stall is gained, lost, or suppressed, then it will not affect turn order until the beginning of the next turn. If the Pokémon's held Quick Claw activates, Stall does not affect when that Pokémon moves. Generation IV [ edit | edit source ] If multiple Pokémon have the Ability Stall and use moves with the same priority, the Pokémon with the lower Speed will move first (regardless of Trick Room). A Pokémon with Stall moves before Pokémon holding a Lagging Tail or Full Incense . If a Pokémon with Stall also holds a Lagging Tail or Full Incense, Stall does not affect when the Pokémon moves. Generation V onward [ edit | edit source ] If multiple Pokémon with the Ability Stall or that are holding a Lagging Tail or Full Incense use moves with the same priority, the Pokémon move relatively according to Speed (the order is reversed during Trick Room)."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Restricts the Pokémon to using moves on foes one tile away. Doesn't affect leaders. B S L てきが となりに いないと わざを つかわない リーダーのときは つかうぞ MD GtI Unavailable S MD The Pokémon ambushes and attacks an enemy that approaches it! MD RT DX The Pokémon ambushes and attacks enemies that approach it."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Stall",
+    "Stall (Ability)"
+  ],
+  "updatedAt": 1773329233
+}

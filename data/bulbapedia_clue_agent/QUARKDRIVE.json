@@ -1,0 +1,57 @@
+{
+  "answerKey": "QUARKDRIVE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4489808,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Quark Drive (Japanese: Quark Charge) is an Ability introduced in Generation IX. It is the signature Ability of the futuristic Paradox Pokemon with the exception of Miraidon.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Check for other moves/Abilities that can or cannot copy/replace/suppress this Ability: Mummy , Wandering Spirit . Check if Neutralizing Gas works/doesn't work and when, if ever, it changes from not working to working. You can discuss this on the talk page. When a Pokemon with Quark Drive is on the field and Electric Terrain is active, or the Pokemon is holding Booster Energy , its highest stat (other than HP and taking into account stat stages , but not held items ) is increased by 30%, or 50% if Speed is the highest stat. Upon activation, a message tells which stat is increased to all of the players. If multiple stats are tied for highest, Quark Drive breaks the tie by prioritizing Attack , Defense , Special Attack , Special Defense , and Speed, in that order. Quark Drive will activate even if the Pokemon is not grounded . Electric Terrain will activate Quark Drive before a held Booster Energy, so the Booster Energy will not be consumed if the Pokemon with Quark Drive is on Electric Terrain. If activated by terrain, the effect of Quark Drive will end when the field is no longer affected by Electric Terrain. Quark Drive's stat increase cannot be passed by Baton Pass . Skill Swap and Doodle will fail if either Pokemon has Quark Drive. Role Play will fail if the target has Quark Drive; however, Simple Beam , Worry Seed , and Entrainment will work. Quark Drive cannot be copied by Receiver , Trace , or Power of Alchemy . If a Pokemon obtains Quark Drive with Imposter or Transform , the Ability will not activate regardless of if the Pokemon is on Electric Terrain or holding a Booster Energy. Outside of battle [ edit | edit source ] Quark Drive has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Check for other moves/Abilities that can or cannot copy/replace/suppress this Ability: Mummy , Wandering Spirit . Check if Neutralizing Gas works/doesn't work and when, if ever, it changes from not working to working. You can discuss this on the talk page. When a Pokemon with Quark Drive is on the field and Electric Terrain is active, or the Pokemon is holding Booster Energy , its highest stat (other than HP and taking into account stat stages , but not held items ) is increased by 30%, or 50% if Speed is the highest stat. Upon activation, a message tells which stat is increased to all of the players. If multiple stats are tied for highest, Quark Drive breaks the tie by prioritizing Attack , Defense , Special Attack , Special Defense , and Speed, in that order. Quark Drive will activate even if the Pokemon is not grounded . Electric Terrain will activate Quark Drive before a held Booster Energy, so the Booster Energy will not be consumed if the Pokemon with Quark Drive is on Electric Terrain. If activated by terrain, the effect of Quark Drive will end when the field is no longer affected by Electric Terrain. Quark Drive's stat increase cannot be passed by Baton Pass . Skill Swap and Doodle will fail if either Pokemon has Quark Drive. Role Play will fail if the target has Quark Drive; however, Simple Beam , Worry Seed , and Entrainment will work. Quark Drive cannot be copied by Receiver , Trace , or Power of Alchemy . If a Pokemon obtains Quark Drive with Imposter or Transform , the Ability will not activate regardless of if the Pokemon is on Electric Terrain or holding a Booster Energy.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Raises highest stat on Electric Terrain, or if holding Booster Energy.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "boosting trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "boosting trait"
+    ],
+    "connections_descriptors": [
+      "Boosting abilities",
+      "Gen IX abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257998
+}

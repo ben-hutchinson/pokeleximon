@@ -1,0 +1,30 @@
+{
+  "answerKey": "FLOWERTRICK",
+  "answerDisplay": "FLOWER TRICK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Flower Trick (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Flower_Trick_(move)",
+  "pageId": 277636,
+  "pageRevisionId": 4463043,
+  "leadText": "Flower Trick (Japanese: トリックフラワー Trick Flower) is a damage-dealing Grass-type move introduced in Generation IX. It is the signature move of Meowscarada.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Flower Trick inflicts damage and bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . It will always result in a critical hit unless the target has Battle Armor or Shell Armor ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user throws a rigged bouquet of flowers at the target. This attack never misses and always lands a critical hit."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Flower-Trick",
+    "Flower Trick",
+    "Flower-Trick (move)"
+  ],
+  "updatedAt": 1773322928
+}

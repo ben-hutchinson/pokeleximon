@@ -1,0 +1,17 @@
+{
+  "answerKey": "SKILLLINK",
+  "answerDisplay": "SKILL LINK",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this ability, and the list of Pokémon that learn it.",
+  "score": 102.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/ability/skill-link",
+  "extract": "Link, and the list of Pokémon that learn it.",
+  "rankPosition": 1,
+  "updatedAt": 1774212876
+}

@@ -1,0 +1,30 @@
+{
+  "answerKey": "TRIPLEDIVE",
+  "answerDisplay": "TRIPLE DIVE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Triple Dive (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Triple_Dive_(move)",
+  "pageId": 277765,
+  "pageRevisionId": 4482917,
+  "leadText": "Triple Dive (Japanese: トリプルダイブ Triple Dive) is a damage-dealing Water-type multistrike move introduced in Generation IX. It is the signature move of Wugtrio.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Triple Dive inflicts damage, hitting the target three times per use. If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokémon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokémon has a maximum HP of 1."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user performs a perfectly timed triple dive, hitting the target with splashes of water three times in a row."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Triple-Dive",
+    "Triple Dive",
+    "Triple-Dive (move)"
+  ],
+  "updatedAt": 1773328103
+}

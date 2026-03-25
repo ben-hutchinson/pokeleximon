@@ -1,0 +1,30 @@
+{
+  "answerKey": "MIRAGETOWER",
+  "answerDisplay": "MIRAGE TOWER",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Mirage Tower",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mirage_Tower",
+  "pageId": 8540,
+  "pageRevisionId": 4367394,
+  "leadText": "Mirage Tower (Japanese: げんえいのとう Phantom Tower) is a location in Hoenn that only appears in Pokémon Emerald. It will disappear and reappear in the desert on Route 111 as the player visits and leaves the Route. The tower is four stories tall; the top floor contains a Root Fossil and a Claw Fossil. To get to the top, a Mach Bike and Rock Smash are required. Wild Sandshrew and Trapinch can be found in the tower.",
+  "sections": [
+    {
+      "title": "Obtaining the Fossil",
+      "text": "Obtaining the Fossil [ edit | edit source ] Some sections of floor inside are cracked and unstable, so a Mach Bike , which can quickly ride over the weak points before they crumble away, is required to reach the top. After one of the Fossils is taken, the tower will collapse, the remaining Fossil will sink into the sand, and the tower will never return. However, this other Fossil can later be found in the Desert Underpass , the entrance to which is located on Route 114 at the back of the Fossil Maniac 's house, though it cannot be accessed until the player completes the game and obtains the National Pokédex ."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Claw Fossil Top floor of the tower (disappears if the Root Fossil is chosen) E Root Fossil Top floor of the tower (disappears if the Claw Fossil is chosen) E"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mirage-Tower",
+    "Mirage Tower",
+    "Mirage-Tower (location)"
+  ],
+  "updatedAt": 1774214538
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "BLUEFLARE",
+  "answerDisplay": "BLUE FLARE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Blue Flare (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Blue_Flare_(move)",
+  "pageId": 117492,
+  "pageRevisionId": 4403407,
+  "leadText": "Blue Flare (Japanese: あおいほのお Blue Flame) is a damage-dealing Fire-type move introduced in Generation V. It is one of the signature moves of Reshiram.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Blue Flare inflicts damage and has a 20% chance of burning the target. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Blue Flare cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user attacks by engulfing the target in an intense, yet beautiful, blue flame. It may leave the target with a burn. X Y OR AS S M US UM P E Sw Sh LA S V The user attacks by engulfing the target in an intense, yet beautiful, blue flame. This may also leave the target with a burn. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Conq. The user attacks by engulfing the target in an intense, yet beautiful, blue flame. It may leave the target with a burn. MD GtI It damages enemies in the same room. It could also cause the Burn status condition. With the Burn status, they keep taking damage, and their Attack also goes down slightly. S MD It damages enemies in the same room. It could also leave them with a burn."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as a TCG Attack ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Blue-Flare",
+    "Blue Flare",
+    "Blue-Flare (move)"
+  ],
+  "updatedAt": 1773321256
+}

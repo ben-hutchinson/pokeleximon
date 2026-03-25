@@ -1,0 +1,17 @@
+{
+  "answerKey": "POLIWRATH",
+  "answerDisplay": "POLIWRATH",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Water / Fighting type Pokémon introduced in Generation 1.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/poliwrath",
+  "extract": "Poliwrath is a Water / Fighting type Pokémon introduced in Generation 1 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212416
+}

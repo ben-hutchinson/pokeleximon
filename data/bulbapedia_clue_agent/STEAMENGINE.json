@@ -1,0 +1,52 @@
+{
+  "answerKey": "STEAMENGINE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 3830062,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Steam Engine (Japanese: Steam Engine) is an Ability introduced in Generation VIII. It is the signature Ability of Rolycoly's evolutionary line.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Steam Engine is hit by a Fire - or Water-type move , its Speed stat is increased by six stages. This Ability activates after any stat decreases caused by the move are applied. Outside of battle [ edit | edit source ] If a Pokemon with Steam Engine is in the party (even if fainted ), the number of cycles it takes for all Pokemon Eggs in the party to hatch are halved. This effect does not stack with itself, Flame Body , or Magma Armor .",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with Steam Engine is hit by a Fire - or Water-type move , its Speed stat is increased by six stages. This Ability activates after any stat decreases caused by the move are applied.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Boosts the Speed stat drastically when the Pokemon is hit by a Fire- or Water-type move.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen VIII ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258019
+}

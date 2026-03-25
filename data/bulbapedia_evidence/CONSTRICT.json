@@ -1,0 +1,37 @@
+{
+  "answerKey": "CONSTRICT",
+  "answerDisplay": "CONSTRICT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Constrict (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Constrict_(move)",
+  "pageId": 3741,
+  "pageRevisionId": 4474286,
+  "leadText": "This article is about the move in the core games. For the Skill in Pokémon Shuffle, see Skill (Shuffle) → Constrict. Constrict (Japanese: からみつく Coil Around) is a damage-dealing Normal-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generations III and IV 1.4 Generation VIII onwards Effect [ edit | edit source ] Generation I [ edit | edit source ] Constrict inflicts damage and has a 33.2% chance of lowering the target's Speed stat by one stage. When used by an in-game opponent, there is an additional chance of 25% for the effect to fail (resulting in an effective chance of 24.9%). Generation II [ edit | edit source ] Constrict now has a 10% chance of lowering the target's Speed stat by one stage. When used by an in-game opponent, there is still an additional chance of 25% for the effect to fail (resulting in an effective chance of 7.5%). This does not apply when Lock-On or Mind Reader are in effect, nor in the Battle Tower . Generations III and IV [ edit | edit source ] Constrict's effect no longer has an additional chance to fail when used by an in-game opponent. Generation VIII onwards [ edit | edit source ] Constrict cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A Normal -type attack. Has a one-in-three chance of reducing the target's Speed . Stad2 A Normal -type attack. Has a one-in-ten chance of reducing the target's Speed . G S C An attack that may lower Speed . R S E Colo XD Constricts to inflict pain. May lower Speed . FR LG The foe is attacked with long tentacles or vines. It may lower Speed . D P Pt HG SS PBR The foe is attacked with long, creeping tentacles or vines. It may also lower the target's Speed. B W B2 W2 The target is attacked with long, creeping tentacles or vines. It may also lower the target's Speed stat. X Y OR AS The target is attacked with long, creeping tentacles or vines. This may also lower the target's Speed stat. S M US UM P E The target is attacked with long, creeping tentacles, vines, or the like. This may also lower the target's Speed stat. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also lower the target's Movement Speed by one level. MD T D S Inflicts damage on the target. It may also reduce the target's Movement Speed by 1 level. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで いどうそくどを １だんかいさげる MD GtI UNUSED S MD MD RT DX It damages an enemy. It could also lower the enemy's Travel Speed."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Constrict has the lowest consistent base power of all damage-dealing moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Constrict",
+    "Constrict (move)"
+  ],
+  "updatedAt": 1773321830
+}

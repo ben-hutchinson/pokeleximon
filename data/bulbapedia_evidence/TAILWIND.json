@@ -1,0 +1,33 @@
+{
+  "answerKey": "TAILWIND",
+  "answerDisplay": "TAILWIND",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Tailwind (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tailwind_(move)",
+  "pageId": 14450,
+  "pageRevisionId": 4500934,
+  "leadText": "Tailwind (Japanese: おいかぜ Tailwind) is a non-damaging Flying-type move introduced in Generation IV. It is TM113 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation V 1.3 Generation VI 1.4 Generation VII 1.5 Generation IX Effect [ edit | edit source ] Generation IV [ edit | edit source ] Tailwind doubles the Speed stat of the user and all other Pokémon in the user's party for three turns. Generation V [ edit | edit source ] Tailwind now lasts for four turns. Generation VI [ edit | edit source ] Tailwind's PP is changed from 30 to 15. Generation VII [ edit | edit source ] If powered up by a Flyinium Z into Z-Tailwind, the user's critical-hit rate is increased by two stages. Generation IX [ edit | edit source ] Tailwind is a wind move ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns. B W B2 W2 The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for four turns. X Y OR AS S M US UM P E The user whips up a turbulent whirlwind that ups the Speed stat of the user and its allies for four turns. Sw Sh BD SP LA The user whips up a turbulent whirlwind that ups the Speed stats of the user and its allies for four turns. S V The user whips up a turbulent whirlwind that boosts the Speed stats of itself and its allies for four turns."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the Movement Speed of the user and team members in the room by 1 level. B S L おなじへやの なかまポケモンと じぶんの いどうそくどを １だんかいあげる MD GtI It boosts the Travel Speed of you and your teammates in the same room. S MD MD RT DX It boosts Travel Speed for you and your teammates in the same room."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Tailwind",
+    "Tailwind (move)"
+  ],
+  "updatedAt": 1773327783
+}

@@ -1,0 +1,80 @@
+{
+  "answerKey": "BEEDRILLITE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4497126,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "mega stones",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Held: Allows Beedrill to Mega Evolve into Mega Beedrill.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Mega Evolution stone",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      },
+      {
+        "text": "Mega stone for Beedrill",
+        "evidence_ref": "Description",
+        "specificity": 0.9
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Mega Evolution stone",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "family"
+      },
+      {
+        "text": "Held Mega stone",
+        "evidence_ref": "lead",
+        "mystery_score": 0.66,
+        "specificity_score": 0.8,
+        "style": "family"
+      },
+      {
+        "text": "Mega trigger stone",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "family"
+      },
+      {
+        "text": "Beedrill Mega stone",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.9,
+        "style": "target"
+      },
+      {
+        "text": "Held stone for Beedrill",
+        "evidence_ref": "Description",
+        "mystery_score": 0.62,
+        "specificity_score": 0.86,
+        "style": "target"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "mega stone",
+      "beedrill stone"
+    ],
+    "connections_descriptors": [
+      "Mega Evolution stones"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257929
+}

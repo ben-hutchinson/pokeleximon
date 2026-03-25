@@ -1,0 +1,34 @@
+{
+  "answerKey": "POWERWHIP",
+  "answerDisplay": "POWER WHIP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Power Whip (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Power_Whip_(move)",
+  "pageId": 17429,
+  "pageRevisionId": 4462295,
+  "leadText": "Power Whip (Japanese: パワーウィップ Power Whip) is a damage-dealing Grass-type move introduced in Generation IV. It was TR72 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Power Whip inflicts damage and has no secondary effect. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 120 144 Cooldown 12s Move wind-up time 20 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user violently whirls its vines or tentacles to harshly lash the foe. B W B2 W2 X Y OR AS The user violently whirls its vines or tentacles to harshly lash the target. S M US UM P E Sw Sh BD SP LA The user violently whirls its vines, tentacles, or the like to harshly lash the target. S V The user violently whirls its vines, tentacles, or the like to lash the target. ZA The user attacks by violently lashing targets with vines, tentacles, or the like."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. B S L てきポケモンに ダメージをあたえる MD GtI UNUSED S MD MD RT DX It damages an enemy."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Power-Whip",
+    "Power Whip",
+    "Power-Whip (move)"
+  ],
+  "updatedAt": 1773326025
+}

@@ -1,0 +1,52 @@
+{
+  "answerKey": "PUNKROCK",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4463010,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Punk Rock (Japanese: Punk Rock) is an Ability introduced in Generation VIII. It is the signature Ability of Toxtricity.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Affected moves 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Punk Rock boosts the power of the Pokemon's sound-based moves by 30% (precisely, 5325/4096). A Pokemon with Punk Rock also takes half damage from damaging sound-based moves. Affected moves [ edit | edit source ] The table below lists the moves affected by Punk Rock, as well as the Pokemon that can have Punk Rock and learn those moves. Move Type Cat. Power and Boost Learned by Boomburst Normal Special 140 182 Hyper Voice Normal Special 90 117 Overdrive Electric Special 80 104 Psychic Noise Psychic Special 75 97.5 Round Normal Special 60 78 Snarl Dark Special 55 71.5 Snore Normal Special 50 65 Uproar Normal Special 90 117 Although the following moves are affected by the Ability, they currently cannot be learned by any Pokemon with Punk Rock. They may, however, be called via Metronome , Copycat , or Mimic , or be used by a Pokemon that gained Punk Rock by an Ability like Trace or Receiver or a move such as Skill Swap or Role Play . Move Type Cat. Power and Boost Alluring Voice Fairy Special 80 104 Bug Buzz Bug Special 90 117 Clanging Scales Dragon Special 110 143 Disarming Voice Fairy Special 40 52 Echoed Voice Normal Special 40 52 Eerie Spell Psychic Special 80 104 Relic Song Normal Special 75 97.5 Sparkling Aria Water Special 90 117 Torch Song Fire Special 80 104 Outside of battle [ edit | edit source ] Punk Rock has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Punk Rock boosts the power of the Pokemon's sound-based moves by 30% (precisely, 5325/4096). A Pokemon with Punk Rock also takes half damage from damaging sound-based moves. Affected moves [ edit | edit source ] The table below lists the moves affected by Punk Rock, as well as the Pokemon that can have Punk Rock and learn those moves. Move Type Cat. Power and Boost Learned by Boomburst Normal Special 140 182 Hyper Voice Normal Special 90 117 Overdrive Electric Special 80 104 Psychic Noise Psychic Special 75 97.5 Round Normal Special 60 78 Snarl Dark Special 55 71.5 Snore Normal Special 50 65 Uproar Normal Special 90 117 Although the following moves are affected by the Ability, they currently cannot be learned by any Pokemon with Punk Rock. They may, however, be called via Metronome , Copycat , or Mimic , or be used by a Pokemon that gained Punk Rock by an Ability like Trace or Receiver or a move such as Skill Swap or Role Play . Move Type Cat. Power and Boost Alluring Voice Fairy Special 80 104 Bug Buzz Bug Special 90 117 Clanging Scales Dragon Special 110 143 Disarming Voice Fairy Special 40 52 Echoed Voice Normal Special 40 52 Eerie Spell Psychic Special 80 104 Relic Song Normal Special 75 97.5 Sparkling Aria Water Special 90 117 Torch Song Fire Special 80 104",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Boosts sound-based moves and halves damage from the same moves.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen VIII ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257997
+}

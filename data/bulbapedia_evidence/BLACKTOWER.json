@@ -1,0 +1,26 @@
+{
+  "answerKey": "BLACKTOWER",
+  "answerDisplay": "BLACK TOWER",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Black Tower",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Black_Tower",
+  "pageId": 169528,
+  "pageRevisionId": 4381774,
+  "leadText": "Black Tower (Japanese: 黒の摩天楼 Black Skyscraper) is a training facility initially exclusive to Pokémon Black 2. Located within Black City, it is the counterpart to the White Treehollow of Pokémon White 2. The two facilities are collectively known as Unova's Challenge. It can be accessed after Black Tower is unlocked with the Unova Link's Key System. If a player of Black 2 clears Area 5 of the Black Tower, that player can send the Tower Key to White 2 players, granting them access to Black City, and consequently, the Black Tower.",
+  "sections": [
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] The lobby of the Black Tower The Black Tower was established in Black City between the events of Pokémon Black and Pokémon Black 2 . The player cannot challenge it until they have defeated Alder in Floccesy Town after entering the Hall of Fame . It comprises ten procedurally generated, progressively more complex areas, each with a number of Trainers. In each area, a randomly selected Trainer is the gate Trainer, who will unlock the door to the Boss Trainer 's room when defeated. Defeating an area's Boss Trainer allows the player to challenge the next area. Exactly one of the Trainers on each floor is a Doctor , who will never be the gate Trainer, and upon being defeated in battle, will offer to heal the player's Pokémon but can only do so once. Areas 6 and beyond, which span multiple floors, will therefore have multiple Doctors. Some rooms will provide opportunities for players to use Surf or Flash for easier navigation. Each room can contain up to two (Areas 1-6) or three (Areas 7-10) Trainers, but no Trainers will appear in the room with the elevator; and Surf or Flash rooms, as well as the boss room, will always have exactly one Trainer. Unlike true battle facilities , a battle style setting of \"Shift\" will be respected here, and the player will earn experience and money for winning battles, though they will forfeit the money earned during the challenge if they lose or retire out instead of completing the area. However, like in those facilities, encountering a Pokémon here does not cause it to register as being seen in the Pokédex . The use of Bag items is also disabled, both in-battle and out (except that the Bag can still be accessed from the Pokémon menu, for the limited purpose of giving a held item to a Pokémon). Items and menus registered to the Y button will not respond during a challenge, but all options that are normally on the X button menu still exist (other than Bag, which is replaced by a Retire option instead) and can be accessed during the challenge, as can the C-Gear . Summary of floors Area Floors Color scheme Floor size Trainers per floor 1 1 Blue 3×3 8 2 1 Blue 3×3 10 3 1 Green 3×3 12 4 1 Green 4×4 16 5 1 Green 4×4 16 6 2 (6F-7F) Yellow 3×3 12 7 3 (8F-10F) Yellow 3×3 14 8 2 (11F-12F) Yellow 4×4 24 9 3 (13F-15F) Yellow 4×4 24 10 4 (16F-19F) Red 4×4 24 During the player's first playthrough in Black 2, the beginning floors will feature scripted cutscenes with the gate Trainer going over the mechanics of Black Tower, and those floors will contain fewer trainers than usual. The trainer count on each floor is established prior to the placement of the Boss Trainer's room, and may vary slightly from the listed figure depending on how many Trainers were originally in the room before being displaced by the Boss."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Black-Tower",
+    "Black Tower",
+    "Black-Tower (location)"
+  ],
+  "updatedAt": 1774213677
+}

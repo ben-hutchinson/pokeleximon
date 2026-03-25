@@ -1,0 +1,64 @@
+{
+  "answerKey": "FIRETERASHARD",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4470989,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "tera shard",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen IX tera shard",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Effect [ edit | edit source ] 50 Fire Tera Shards can be used to change a Pokemon's Tera Type to Fire at the Treasure Eatery in Medali , except for Ogerpon and Terapagos , the former of which already has its Tera Type fixed to Fire in its Hearthflame Mask form.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Crafting or exchange material",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Crafting or exchange material",
+        "evidence_ref": "lead",
+        "mystery_score": 0.6,
+        "specificity_score": 0.74,
+        "style": "family"
+      },
+      {
+        "text": "Collectible crafting item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.7,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "battle item"
+    ],
+    "connections_descriptors": [
+      "Crafting materials",
+      "Gen IX items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257946
+}

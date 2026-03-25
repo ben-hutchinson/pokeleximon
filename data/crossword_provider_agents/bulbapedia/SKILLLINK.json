@@ -1,0 +1,16 @@
+{
+  "answerKey": "SKILLLINK",
+  "answerDisplay": "SKILL LINK",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen IV ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Skill_Link_(Ability)",
+  "extract": "Skill Link (Japanese: スキルリンク Skill Link) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Shellder and Cloyster.",
+  "updatedAt": 1774258446
+}

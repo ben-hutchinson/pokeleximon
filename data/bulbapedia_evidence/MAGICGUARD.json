@@ -1,0 +1,34 @@
+{
+  "answerKey": "MAGICGUARD",
+  "answerDisplay": "MAGIC GUARD",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Magic Guard (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Magic_Guard_(Ability)",
+  "pageId": 14337,
+  "pageRevisionId": 4320909,
+  "leadText": "Magic Guard (Japanese: マジックガード Magic Guard) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Clefairy's evolutionary line.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generation V onwards 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Magic Guard prevents the Pokémon from receiving indirect damage, but does not prevent it from becoming afflicted by statuses that would deal such damage. Additional effects, such as being trapped while bound or having its Attack reduced by burn , are not prevented even though their damage is. Magic Guard prevents damage caused by effects including weather , poison and burn , effects like Curse and Leech Seed , entry hazards , recoil (except from Struggle ), crash damage , and damage from using Mind Blown or Steel Beam . Magic Guard prevents the damage inflicted by a Life Orb , but the holder still gains the power boost. Magic Guard does not prevent confusion damage or direct modification of a Pokémon's HP through means other than damage, such as by Pain Split , Belly Drum , Substitute , or a Ghost type cutting its own HP to use Curse . Moves that cause the user to faint , Destiny Bond , and Perish Song can still cause a Pokémon with Magic Guard to faint. When a Pokémon with Magic Guard is badly poisoned , Magic Guard still prevents poison damage, but it does not prevent the counter from increasing every turn. Consequently, if the Pokémon's Magic Guard is suppressed or changed, it will begin taking poison damage proportional to the counter's current value. Magic Guard blocks damage from the Gulp Missile counterattack, but does not prevent the Defense drop or paralysis from it. If a Pokémon with Magic Guard hits a target holding a Jaboca Berry with a physical attack, or a target holding a Rowap Berry with a special attack, the Pokémon will not eat the berry and no damage will be dealt. Generation IV [ edit | edit source ] If a Pokémon with Magic Guard is paralyzed , it cannot be prevented from using a move due to paralysis, although its Speed is still reduced. A Pokémon with Magic Guard cannot be poisoned by Toxic Spikes . Generation V onwards [ edit | edit source ] Magic Guard no longer grants immunity to being fully paralyzed and no longer prevents poisoning from Toxic Spikes (but it still prevents poison damage). Outside of battle [ edit | edit source ] Magic Guard has no effect outside of battle. This means a poisoned Pokémon with Magic Guard will still take damage in the field in Generation IV (but not later generations, because poison no longer causes damage in the field starting in Generation V)."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Magic Guard prevents the Pokémon from receiving indirect damage, but does not prevent it from becoming afflicted by statuses that would deal such damage. Additional effects, such as being trapped while bound or having its Attack reduced by burn , are not prevented even though their damage is. Magic Guard prevents damage caused by effects including weather , poison and burn , effects like Curse and Leech Seed , entry hazards , recoil (except from Struggle ), crash damage , and damage from using Mind Blown or Steel Beam . Magic Guard prevents the damage inflicted by a Life Orb , but the holder still gains the power boost. Magic Guard does not prevent confusion damage or direct modification of a Pokémon's HP through means other than damage, such as by Pain Split , Belly Drum , Substitute , or a Ghost type cutting its own HP to use Curse . Moves that cause the user to faint , Destiny Bond , and Perish Song can still cause a Pokémon with Magic Guard to faint. When a Pokémon with Magic Guard is badly poisoned , Magic Guard still prevents poison damage, but it does not prevent the counter from increasing every turn. Consequently, if the Pokémon's Magic Guard is suppressed or changed, it will begin taking poison damage proportional to the counter's current value. Magic Guard blocks damage from the Gulp Missile counterattack, but does not prevent the Defense drop or paralysis from it. If a Pokémon with Magic Guard hits a target holding a Jaboca Berry with a physical attack, or a target holding a Rowap Berry with a special attack, the Pokémon will not eat the berry and no damage will be dealt. Generation IV [ edit | edit source ] If a Pokémon with Magic Guard is paralyzed , it cannot be prevented from using a move due to paralysis, although its Speed is still reduced. A Pokémon with Magic Guard cannot be poisoned by Toxic Spikes . Generation V onwards [ edit | edit source ] Magic Guard no longer grants immunity to being fully paralyzed and no longer prevents poisoning from Toxic Spikes (but it still prevents poison damage)."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Protects the Pokémon from all damage except from direct attacks. B S L わざや こうげき いがいからの ダメージを うけない MD GtI Unavailable S MD The Pokémon is protected from most indirect damage, such as damage from a sandstorm, a Blast Trap, or getting poisoned. But it takes damage from attack moves. MD RT DX The Pokémon won't take damage from things like the Sandstorm weather condition, Blast Traps, or getting Poisoned."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Magic-Guard",
+    "Magic Guard",
+    "Magic-Guard (Ability)"
+  ],
+  "updatedAt": 1774214448
+}

@@ -1,0 +1,37 @@
+{
+  "answerKey": "BOOMBURST",
+  "answerDisplay": "BOOMBURST",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Boomburst (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Boomburst_(move)",
+  "pageId": 180358,
+  "pageRevisionId": 4439391,
+  "leadText": "Boomburst (Japanese: ばくおんぱ Sound Wave Bomb) is a damage-dealing Normal-type move introduced in Generation VI.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Boomburst does damage to all adjacent Pokémon, including allies. Boomburst is a sound-based move . Boomburst can hit Pokémon even if they are behind a substitute. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 140 168 Cooldown 12s Move wind-up time 20 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh BD SP LA The user attacks everything around it with the destructive power of a terrible, explosive sound. S V The user attacks everything around it with the destructive power of a terrible explosive sound. ZA The user attacks by unleashing the destructive power of a terrible explosive sound across a wide area."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It damages all targets in the room, including your teammates, but not you. * It damages all Pokémon in the same room except for you. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Boomburst has the highest base power of all moves with no negative effects on the user, and the highest base power of all sound-based moves, excluding Echoed Voice , which can reach a base power of 200. Boomburst was the first Generation VI move to be seen in the animated series . It was used by Alexa 's Noivern in Celebrating the Hero's Comet! , prior to the release of Pokémon X and Y ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Boomburst",
+    "Boomburst (move)"
+  ],
+  "updatedAt": 1773321301
+}

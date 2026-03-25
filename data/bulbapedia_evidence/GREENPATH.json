@@ -1,0 +1,30 @@
+{
+  "answerKey": "GREENPATH",
+  "answerDisplay": "GREEN PATH",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Green Path",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Green_Path",
+  "pageId": 20777,
+  "pageRevisionId": 4227197,
+  "leadText": "Green Path (Japanese: みどりのさんぽみち Green Promenade) is a short route in the Sevii Islands connecting Water Path with Outcast Island. Pattern Bush is situated on the eastern end of this route.",
+  "sections": [
+    {
+      "title": "Route description",
+      "text": "Route description [ edit | edit source ] Green Path is a short walk. Two small islands and Pattern Bush are all that is here, as well as a sign advocating environmental friendliness . The east exit leads to the Water Path and the north exit leads to Outcast Island. Green Path Think Green, Keep Nature Clean!"
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Ultra Ball One square south and one square east of Psychic Jaclyn (hidden recurring item ; group A) FR LG"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Green-Path",
+    "Green Path",
+    "Green-Path (location)"
+  ],
+  "updatedAt": 1774214120
+}

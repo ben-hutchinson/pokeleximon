@@ -1,0 +1,34 @@
+{
+  "answerKey": "SHADOWHALF",
+  "answerDisplay": "SHADOW HALF",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Half (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Half_(move)",
+  "pageId": 9590,
+  "pageRevisionId": 4371268,
+  "leadText": "Shadow Half (Japanese: ダークハーフ Dark Half) is one of several Shadow moves available only in Pokémon XD: Gale of Darkness. Like other Shadow moves, it is forgotten and replaced with another move once the Pokémon is purified.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Shadow Half deals damage equal to 50% of each Pokémon's current HP , rounded down, to all Pokémon in battle, including the user. It cannot cause fainting . The user is forced to recharge during the next turn. Shadow Half cannot be used if the user is under the effect of Taunt . Damage dealt by Shadow Half is counted as an attack for the purpose of Bide , Mirror Coat (but not Counter ), and Focus Punch . As Shadow Pokémon cannot be traded, and since Pokémon Contests do not exist in Pokémon XD: Gale of Darkness, Shadow Half cannot be used in Contests."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description XD A shadowy aura's energy cuts everyone's HP by half."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Shadow Half is the only damaging move that targets all Pokémon on the field, including the user."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Half",
+    "Shadow Half",
+    "Shadow-Half (move)"
+  ],
+  "updatedAt": 1773326839
+}

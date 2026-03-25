@@ -1,0 +1,30 @@
+{
+  "answerKey": "SEVAULTCANYON",
+  "answerDisplay": "SEVAULT CANYON",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sevault Canyon",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sevault_Canyon",
+  "pageId": 7953,
+  "pageRevisionId": 4227193,
+  "leadText": "Sevault Canyon (Japanese: しっぽうけいこく Canyon of the Seven Treasures) is an area on Seven Island in the Sevii Islands which includes the Tanoby Key and leads south to the Tanoby Ruins. It is a particularly long route and there are many high-level Trainers to face. It is also notably the sole habitat of wild Larvitar accessible in Generation III.",
+  "sections": [
+    {
+      "title": "Route description",
+      "text": "Route description [ edit | edit source ] As a narrow valley, wedged between the sea, Sevault Canyon has a mix of grassy patches and rugged, arid land. The canyon seems to serve as a training ground for elite Trainers, while being guarded by equally skilled Pokémon Rangers . At the southern end of the canyon, there is a small house, in which an NPC will ask the player if they want to do the Chansey Dance (Japanese: ラッキーダンス Lucky Dance ), which uses the same background music as the Hoenn Pokémon Trainers' School . If the player replies affirmatively, their character will perform a short dance and, as a result, all Pokémon in the party will be healed. This facilitates exploration of the Tanoby Ruins , so that players can catch all of the Unown , before returning to the main town of Seven Island . A Black Belt looking over a cliff about halfway through the canyon tells the player that Bruno of the Elite Four used to train in Sevault Canyon with Brawly , Dewford Town 's Gym Leader ."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Nugget Southeast of the Tanoby Key entrance FR LG Max Elixir In the tall grass halfway through the area FR LG King's Rock Behind the three big rocks (requires Strength and Rock Smash ) FR LG Lucky Punch In the Chansey Dance house FR LG Cheri Berry South of the Chansey Dance house, on the marked square (hidden) FR LG"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sevault-Canyon",
+    "Sevault Canyon",
+    "Sevault-Canyon (location)"
+  ],
+  "updatedAt": 1773326809
+}

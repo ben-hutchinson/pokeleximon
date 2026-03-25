@@ -1,0 +1,17 @@
+{
+  "answerKey": "SWOOBAT",
+  "answerDisplay": "SWOOBAT",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Psychic / Flying type Pokémon introduced in Generation 5.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/swoobat",
+  "extract": "Swoobat is a Psychic / Flying type Pokémon introduced in Generation 5 .",
+  "rankPosition": 1,
+  "updatedAt": 1774213111
+}

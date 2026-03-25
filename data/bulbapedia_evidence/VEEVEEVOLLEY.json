@@ -1,0 +1,30 @@
+{
+  "answerKey": "VEEVEEVOLLEY",
+  "answerDisplay": "VEEVEE VOLLEY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Veevee Volley (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Veevee_Volley_(move)",
+  "pageId": 232104,
+  "pageRevisionId": 4394141,
+  "leadText": "Veevee Volley (Japanese: ブイブイブレイク Vuivui Break) is a damage-dealing Normal-type move introduced during Generation VII, in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. It is one of the signature moves and the partner power of the partner Eevee. It acts as a fifth move that can only be used by shaking the game controller when prompted by an animated icon of Eevee waving a Joy-Con.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Artwork of Eevee using Veevee Volley Generation VII [ edit | edit source ] Veevee Volley deals damage and bypasses accuracy checks to always hit. The base power of Veevee Volley is dependent on the friendship of the user. The greater the user's friendship, the greater the base power. P o w e r = ⌊ F r i e n d s h i p 2 . 5 ⌋ The base power of Veevee Volley varies between 1 (at the minimum friendship value of 0) and 102 (at the maximum friendship value of 255). The base power of Veevee Volley is set to 1 if the formula outputs 0. Generation VIII onwards [ edit | edit source ] Veevee Volley cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description P E The more Eevee loves its Trainer, the greater the move's power. It never misses. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Veevee-Volley",
+    "Veevee Volley",
+    "Veevee-Volley (move)"
+  ],
+  "updatedAt": 1773328249
+}

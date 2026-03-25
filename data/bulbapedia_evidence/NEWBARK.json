@@ -1,0 +1,31 @@
+{
+  "answerKey": "NEWBARK",
+  "answerDisplay": "NEW BARK",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "New Bark Town",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/New_Bark_Town",
+  "pageId": 1091,
+  "pageRevisionId": 4510694,
+  "leadText": "New Bark Town (Japanese: ワカバタウン Wakaba Town) is located in southeastern Johto and is the hometown of the Johto player character. It is home to the lab of Professor Elm, who possesses the first partner Pokémon for Johto: Chikorita, Cyndaquil, and Totodile. Other than being connected to Route 29 in the west, it is also the town that must be passed through to reach Tohjo Falls, Victory Road, and Indigo Plateau, via Route 26 and Route 27.",
+  "sections": [
+    {
+      "title": "Slogan",
+      "text": "Slogan [ edit | edit source ] Generation II [ edit | edit source ] The Town Where Winds of a New Beginning Blow (Japanese: はじまりを つげる かぜがふく まち The town where winds of a new beginning blow. ) Generation IV [ edit | edit source ] Winds of a New Beginning (Japanese: はじまり つげる かぜのまち The town of winds of a new beginning. )"
+    },
+    {
+      "title": "Generation II",
+      "text": "Generation II [ edit | edit source ] The Town Where Winds of a New Beginning Blow (Japanese: はじまりを つげる かぜがふく まち The town where winds of a new beginning blow. )"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "New-Bark-Town",
+    "New Bark Town",
+    "New Bark",
+    "New-Bark-Town (location)"
+  ],
+  "updatedAt": 1774214629
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "SNOWCLOAK",
+  "answerDisplay": "SNOW CLOAK",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Snow Cloak (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Snow_Cloak_(Ability)",
+  "pageId": 15728,
+  "pageRevisionId": 4407483,
+  "leadText": "Snow Cloak (Japanese: ゆきがくれ Hidden in the Snow) is an Ability introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.2 Outside of battle 1.2.1 Generation VIII 1.2.2 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] During hail or snow , the accuracy of any move used against a Pokémon with this Ability is modified by a factor of 4/5 (in Generation IV) or 3277/4096 (in Generation V onward). A Pokémon with this Ability will take no damage from hail if it otherwise would. Outside of battle [ edit | edit source ] If a Pokémon with Snow Cloak is in the first place in the party (even if fainted ) in an area with hail , the chance of encountering a wild Pokémon is decreased by 50%. Generation VIII [ edit | edit source ] This Ability appears to have no effect on encounter rate in Pokémon Sword and Shield . Generation IX [ edit | edit source ] This Ability appears to have no effect on encounter rate in Pokémon Scarlet and Violet ."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] During hail or snow , the accuracy of any move used against a Pokémon with this Ability is modified by a factor of 4/5 (in Generation IV) or 3277/4096 (in Generation V onward). A Pokémon with this Ability will take no damage from hail if it otherwise would."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the Pokémon's evasiveness if it is hailing or snowing. B S L てんきが あられか ゆきだと かいひが あがる MD GtI Evasion goes up in the Hail weather condition. * The Pokémon isn't damaged by the Hail weather condition, and its evasion goes up! * S MD The Pokémon isn't damaged by hail, and it causes the Pokémon's evasiveness to go up! MD RT DX The Pokémon isn't damaged by Hail, and hailstorms cause the Pokémon's evasiveness to go up."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Snow-Cloak",
+    "Snow Cloak",
+    "Snow-Cloak (Ability)"
+  ],
+  "updatedAt": 1773329217
+}

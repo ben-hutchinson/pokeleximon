@@ -1,0 +1,30 @@
+{
+  "answerKey": "HIDDENGROTTO",
+  "answerDisplay": "HIDDEN GROTTO",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Hidden Grotto",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Hidden_Grotto",
+  "pageId": 163813,
+  "pageRevisionId": 4471771,
+  "leadText": "Hidden Grotto (Japanese: 隠し穴 Hidden Hollow) is a feature in Pokémon Black 2 and White 2 that allows the player to find Pokémon with Hidden Abilities or items. The contents of the Hidden Grottoes are random, and if they are empty, for each 256 steps, they generally have a 5% chance to regenerate, usually with different content than what was inside on the previous visit; however, the chance can be increased (to 15%, 25%, 35%, or 55%) with the various levels of Grotto Pass Power. Hidden Grottoes will not regenerate unless the items are obtained or the Pokémon are caught or defeated by the player.",
+  "sections": [
+    {
+      "title": "Locations",
+      "text": "Locations [ edit | edit source ] Twenty Hidden Grottoes are located all around Unova . Some areas have two Hidden Grottoes, while others have only one. Area Locations Route 2 North of the western grass field, near the entrance to Accumula Town Route 3 In the north of the dark grass The northern portion of the pond (requires Surf ) Route 5 To the right of the trailer Route 6 In the southwest, north of the Pokémon Breeder In front of the entrance to Mistralton Cave (requires Surf ) Route 7 To the right of the house on the left Route 9 To the left of Shopping Mall Nine Route 13 Southwest of the two cuttable trees At the top of the stairs towards the entrance to Giant Chasm Route 18 To the south of the Hiker Route 22 In the northern part that is only accessible using the walkways Route 23 West side of the river on the upper level near the entrance to the Giant Chasm Pinwheel Forest Left of the body of water under the pair of bridges (interior area) (requires Surf ) Near Challenge Rock (exterior area) Giant Chasm Near the entrance to the forest Abundant Shrine Near Youngster Wes Right of the shrine, across the water Lostlorn Forest In the northeast at ground level, to the right of where TM95 is found Floccesy Ranch In the northeast corner (requires Surf )"
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Each Hidden Grotto has the same items available, with the exception of the Evolution stones . The chance that an item will be spawned when a Grotto is regenerated is normally 80% (40% for hidden items and 40% for visible items), but this decreases to 51.2% if any level of Grotto Pass Power is in effect. Items in each Hidden Grotto [ edit | edit source ] Every Grotto has a chance to spawn the following items at the following rates: Visible items Item Rate Poké Ball 12.5% Great Ball 5% Ultra Ball 2% Potion 6.25% Super Potion 2.5% Hyper Potion 1% Repel 6.25% Super Repel 2.5% Max Repel 1% Hidden items Item Rate Damp Mulch 6.25% Growth Mulch 6.25% Stable Mulch 6.25% Gooey Mulch 6.25% TinyMushroom 7.5% Big Mushroom 2.5% Red Shard 1% Green Shard 1% Yellow Shard 1% Blue Shard 1% Rare Candy 0.25% PP Up 0.5% PP Max 0.25% Items in specific Hidden Grottoes [ edit | edit source ] Item Rate Locations Fire Stone 0.25% Route 2 Route 3 (dark grass) Route 5 Route 6 (near Breeder) Route 7 Route 9 Route 13 (southwest from the two cuttable trees ) Route 18 Route 22 Route 23 Floccesy Ranch Giant Chasm Abundant Shrine (near Youngster ) Lostlorn Forest Pinwheel Forest (both) Water Stone 0.25% Thunderstone 0.25% Leaf Stone 0.25% Moon Stone 0.25% Route 6 (Mistralton Cave) Route 13 (above the stairs near the entrance to Giant Chasm) Abundant Shrine (right of the shrine) Sun Stone 0.25% Shiny Stone 0.25% Dusk Stone 0.25% Dawn Stone 1% Route 3 (near the pond)"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Hidden-Grotto",
+    "Hidden Grotto",
+    "Hidden-Grotto (location)"
+  ],
+  "updatedAt": 1773328924
+}

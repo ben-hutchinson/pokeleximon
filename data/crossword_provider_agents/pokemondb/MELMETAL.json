@@ -1,0 +1,17 @@
+{
+  "answerKey": "MELMETAL",
+  "answerDisplay": "MELMETAL",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Steel type Pokémon introduced in Generation 7.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/melmetal",
+  "extract": "Melmetal is a Steel type Pokémon introduced in Generation 7 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212051
+}

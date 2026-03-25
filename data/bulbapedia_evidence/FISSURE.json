@@ -1,0 +1,37 @@
+{
+  "answerKey": "FISSURE",
+  "answerDisplay": "FISSURE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Fissure (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fissure_(move)",
+  "pageId": 3699,
+  "pageRevisionId": 4493550,
+  "leadText": "Fissure (Japanese: じわれ Fissure) is a Ground-type one-hit knockout move introduced in Generation I. In Generation II, it was the signature move of Diglett and Dugtrio. It is TM27 in Generation I and TM154 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generation III onwards 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I [ edit | edit source ] Fissure always inflicts exactly 65535 HP damage if it hits. Its accuracy is 30%. Fissure will break a substitute if it hits. Unlike other moves that skip the damage formula, Fissure does not bypass type immunities. Fissure will not affect a target whose current Speed stat is greater than the user's current Speed stat. Generation II [ edit | edit source ] Fissure now inflicts damage equal to the target's current HP. The accuracy of Fissure is now calculated using the following formula: A c c u r a c y = ( ( L e v e l u s e r − L e v e l t a r g e t ) × 2 + 7 6 2 5 6 ) × 1 0 0 % If the user is a lower level than the target, the move always fails (Speed no longer has any impact on the success of Fissure). If the user is 90 levels or more higher than the target, Fissure's accuracy is 100% (even though the formula would produce values over 100% for a difference of 91 or more). This formula means that the accuracy starts at approximately 30% ( 7 6 2 5 6 ) when the Pokémon have the same level, and grows by approximately 0.78% ( 2 2 5 6 ) for every level higher than the target that the user is. This accuracy is affected by accuracy and evasion stats. Fissure can also now affect Pokémon during the semi-invulnerable turn of Dig . In the Generation II core series games only, Fissure can be countered by Counter for maximum damage if it misses. In Pokémon Stadium 2 , Fissure cannot be countered by Counter. Generation III onwards [ edit | edit source ] Despite having an accuracy of 30% listed, Fissure's chance of hitting a Pokémon is instead calculated using the following formula: H i t C h a n c e = ( L e v e l u s e r − L e v e l t a r g e t + 3 0 ) % This formula means that the accuracy starts at 30% when the Pokémon have the same level, and is 1% more likely to hit for every level the user is higher than the target. If the user is at least 70 levels higher than the target, Fissure will always hit. If the user is a lower level than the target, the move always fails. This chance of hitting is not an accuracy: it is not affected by accuracy and evasion stats, nor is it affected by other accuracy modifiers such as Gravity , Wide Lens , and Compound Eyes . Additionally, Fissure cannot hit a semi-invulnerable Pokémon. However, effects that guarantee moves to hit (such as No Guard and Lock-On ) still affect Fissure if the user's level isn't lower than the target's. Fissure can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Earthquake was used in the previous turn. It is also part of a Contest Spectacular combination and will give an extra three appeal points if any of the moves Lock-On , Mind Reader and Miracle Eye was used in the prior turn. When used in a Max Raid Battle against a Dynamax Pokémon while it is under the effect of a mysterious barrier, Fissure will deplete two bars of the barrier's strength. Otherwise, Fissure will always fail against Dynamax Pokémon. Tera Raid bosses are unaffected by Fissure. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] In Pokémon Legends: Z-A , Fissure doesn't instantly knock out targets, instead dealing damage normally. Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 250 300 Cooldown 20s Move wind-up time 100 frames 90 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 Causes a single-hit knockout if it hits. Useless against Flying -type Pokémon. G S C A ground-type, one-hit KO attack. R S E A one-hit KO move that drops the foe in a fissure. FR LG The foe is dropped into a fissure. The foe faints if it hits. Colo XD A one-hit KO that drops the target in a fissure. D P Pt HG SS PBR The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits. B W B2 W2 The user opens up a fissure in the ground and drops the target in. The target instantly faints if it hits. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits. ZA The user attacks by opening up a large fissure in the ground and dropping targets in. This move takes a great deal of time to carry out."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Defeats the target in one shot--if it hits. It has no effect on a flying foe. MD T D S Defeats the target in one shot if it hits successfully. It has no effect on a flying enemy. B S L てきポケモンを いちげきで たおしてしまうが めいちゅうしにくい とんでるポケモンには こうかがない MD GtI The enemy will faint instantly if this attack hits, but it's hard to land this move. It has no effect on Flying-type Pokémon and Pokémon with the Levitate Ability. S MD MD RT DX The enemy will faint instantly if this attack hits, but it's hard to land this move. It has no effect on Flying-type Pokémon or Pokémon with the Levitate Ability."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Due to the 2004 Chūetsu earthquake , this move, alongside Earthquake and Magnitude , has not been seen in the animated series since AG101 (unaired) (which has never aired anywhere in the world). After defeating Giovanni at the Viridian Gym in Pokémon Red, Blue , and Yellow , he mentions that he made the TM27 that teaches Fissure in Generation I . In Pokémon Yellow , a game highly based on the animated series, there is a Youngster on Route 9 with a Sandshrew that knows Fissure, much like A.J. 's Sandshrew in the animated series. This is the only physical one-hit knockout move that does not make contact ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fissure",
+    "Fissure (move)"
+  ],
+  "updatedAt": 1773322823
+}

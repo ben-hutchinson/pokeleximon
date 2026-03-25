@@ -1,0 +1,17 @@
+{
+  "answerKey": "BERGMITE",
+  "answerDisplay": "BERGMITE",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is an Ice type Pokémon introduced in Generation 6.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/bergmite",
+  "extract": "Bergmite is an Ice type Pokémon introduced in Generation 6 .",
+  "rankPosition": 1,
+  "updatedAt": 1774210683
+}

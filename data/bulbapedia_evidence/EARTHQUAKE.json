@@ -1,0 +1,37 @@
+{
+  "answerKey": "EARTHQUAKE",
+  "answerDisplay": "EARTHQUAKE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Earthquake (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Earthquake_(move)",
+  "pageId": 2052,
+  "pageRevisionId": 4503764,
+  "leadText": "Earthquake (Japanese: じしん Earthquake) is a damage-dealing Ground-type move introduced in Generation I. It is: TM26 from Generation I to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TM41 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR10 in Pokémon Sword and Shield. TM149 in Pokémon Scarlet and Violet. TM069 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generations III and IV 1.4 Generation V onwards 1.5 Generation IX 1.5.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I [ edit | edit source ] Earthquake inflicts damage and has no secondary effects. Generation II [ edit | edit source ] Earthquake can hit a Pokémon during the semi-invulnerable turn of Dig , and if it does, it will have its power doubled for that Pokémon. Generations III and IV [ edit | edit source ] Earthquake will hit all adjacent Pokémon, including allies. Earthquake can be used as the first move of a Pokémon Contest combination , causing Eruption and Fissure to score double the normal appeal if used in the next turn. Earthquake is now affected by King's Rock . Generation V onwards [ edit | edit source ] If Earthquake hits a Pokémon during the semi-invulnerable turn of Dig , instead of doubling power, damage is technically doubled instead now, resulting in virtually the same effect. If Grassy Terrain is in effect, Earthquake's power is halved when damaging Pokémon on the ground. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Earthquake generates its damaging area around the user, similar to Bulldoze and Sludge Wave . Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 100 120 Cooldown 10s Move wind-up time 18 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad An attack that inflicts the damage by shaking the ground. It is useless against Flying type Pok é mon . Stad2 An attack that inflicts the damage by shaking the ground. Useless against the Flying type. G S C Tough but useless vs. flying foes. R S E A powerful quake, but has no effect on flying foes. (move) Causes a quake that has no effect on flying foes. (TM) FR LG An earthquake that strikes all Pok é mon in battle excluding the user. Colo XD A strong quake, has no effect on flying targets. (move) Causes a quake that has no effects on flying targets. (TM) D P Pt HG SS PBR The user sets off an earthquake that hits all the Pokémon in the battle. B W B2 W2 The user sets off an earthquake that strikes those around it. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user sets off an earthquake that strikes every Pokémon around it. ZA The user attacks by setting off an earthquake that strikes a wide area."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Damages all Pokémon in the same room. It inflicts double damage on any digging Pokémon. MD T D S Damages all Pokémon in the room except the user. It will inflict double damage on a Digging target. B S L おなじへやの じぶんいがいの すべてのポケモンに ダメージをあたえる あなをほるじょうたいのポケモンには ２ばいのダメージを あたえる MD GtI It damages all Pokémon in the same room except you. It can also damage Pokémon in the ground using Dig. S MD MD RT DX It damages all Pokémon in the same room except for you. It can also damage Pokémon that are underground while using Dig."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Lanturn using Earthquake in Pokémon Emerald All fully evolved first partner Pokémon introduced prior to Generation V can learn Earthquake by TM26 , although Venusaur couldn’t learn it until Generation III . From Generation V onwards, only the fully evolved Fire-type first partner Pokémon from odd-numbered generations and the fully evolved Grass-type first partner Pokémon from even-numbered generations can learn it. After the 2004 Chūetsu earthquakes , a scheduled episode that would feature a Whiscash using Earthquake was banned in Japan. As a result, Earthquake, and the similar moves Fissure and Magnitude , have not been seen or used in the animated series since. Bulldoze , on the other hand, debuted nine years later in Clemont's Got a Secret! . In Pokémon Emerald , Cooltrainer Dianne in Victory Road has a Lanturn that knows Earthquake, even though it cannot legitimately learn the move in any generation . Nincada , Palpitoad , Silvally , Toedscool , and Toedscruel are the only Ground-type Pokémon that cannot learn Earthquake. If a player teaches an Aerodactyl Earthquake from a Generation II game, trades it to Generation I then uses that Aerodactyl in Pokémon Stadium , the Aerodactyl will glitch and use a unique animation, where it spins quickly in place."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Earthquake",
+    "Earthquake (move)"
+  ],
+  "updatedAt": 1773322453
+}

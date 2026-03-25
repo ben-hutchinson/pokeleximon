@@ -1,0 +1,38 @@
+{
+  "answerKey": "RUNAWAY",
+  "answerDisplay": "RUN AWAY",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Run Away (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Run_Away_(Ability)",
+  "pageId": 4126,
+  "pageRevisionId": 4479359,
+  "leadText": "Run Away (Japanese: にげあし Run Away) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] This Ability effect may be in need of research. Reason: Does it allow wild Pokémon with Teleport and roaming Pokémon to bypass trapping moves and Abilities You can discuss this on the talk page. In battle [ edit | edit source ] A Pokémon with this Ability can always flee and use Teleport successfully, regardless of trapping moves and Abilities (including Ingrain and binding moves ). This Ability has no effect on switching out . Run Away does not guarantee escape in the Battle Pyramid , but if a Pokémon with this Ability successfully flees, this escape will be credited to Run Away. In Generations III and IV, when the player's Pokémon with Run Away faints in a wild battle, if the player attempts to flee instead of sending out another Pokémon, they will escape without fail. From Generation V onward, escape is no longer guaranteed in this situation. Until Generation V, when activated, the message \" escaped using Run Away! \" will appear. From Generation V onward, a banner with \"Run Away\" displays instead. Outside of battle [ edit | edit source ] Run Away has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] A Pokémon with this Ability can always flee and use Teleport successfully, regardless of trapping moves and Abilities (including Ingrain and binding moves ). This Ability has no effect on switching out . Run Away does not guarantee escape in the Battle Pyramid , but if a Pokémon with this Ability successfully flees, this escape will be credited to Run Away. In Generations III and IV, when the player's Pokémon with Run Away faints in a wild battle, if the player attempts to flee instead of sending out another Pokémon, they will escape without fail. From Generation V onward, escape is no longer guaranteed in this situation. Until Generation V, when activated, the message \" escaped using Run Away! \" will appear. From Generation V onward, a banner with \"Run Away\" displays instead."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Becomes terrified and flees when HP gets low. Leaders will resist this urge. MD T D S Causes the Pokémon to become terrified when HP gets low. Doesn't affect leaders. B S L ＨＰがへると おびえて にげだす リーダーの ときは ぐっと がまんするぞ MD GtI When its HP gets low, the Pokémon is Terrified and cannot get the Stuck status condition. * When its HP gets low, the Pokémon gets the Terrified status condition, but it's not affected by the Stuck status condition. * S MD The Pokémon won't get stuck. The other Pokémon's Ability won't make the Pokémon get stuck, either. MD RT DX The Pokémon won't get Stuck."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Because Ghost-type Pokémon are guaranteed to flee from any wild battle regardless of Speed, Gimmighoul 's Run Away Ability is redundant unless its type is changed via a type altering move like Soak . If the Nihilego encountered at Aether Paradise has its Ability changed to Run Away, it will be able to flee on turn 5 of the battle even if it is trapped. If this happens, the text stating \"You got away safely!\" will still display, despite Nihilego being the one fleeing and not the player."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Run-Away",
+    "Run Away",
+    "Run-Away (Ability)"
+  ],
+  "updatedAt": 1773326567
+}

@@ -1,0 +1,33 @@
+{
+  "answerKey": "FILTER",
+  "answerDisplay": "FILTER",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Filter (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Filter_(Ability)",
+  "pageId": 14328,
+  "pageRevisionId": 4317593,
+  "leadText": "Filter (Japanese: フィルター Filter) is an Ability introduced in Generation IV. Prior to Generation VI, it was the signature Ability of Mime Jr. and Mr. Mime.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Filter reduces damage from supereffective moves by 25%. For example, a move that would do 2× damage will do 1.5× damage instead. Outside of battle [ edit | edit source ] Filter has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Filter reduces damage from supereffective moves by 25%. For example, a move that would do 2× damage will do 1.5× damage instead."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Reduces the damage that the Pokémon suffers from super-effective moves. B S L こうかがばつぐんの わざの ダメージを へらす MD GtI Unavailable S MD The Pokémon takes less damage from supereffective moves! MD RT DX The Pokémon takes less damage from supereffective moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Filter",
+    "Filter (Ability)"
+  ],
+  "updatedAt": 1773328869
+}

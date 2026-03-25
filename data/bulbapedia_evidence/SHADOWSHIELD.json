@@ -1,0 +1,30 @@
+{
+  "answerKey": "SHADOWSHIELD",
+  "answerDisplay": "SHADOW SHIELD",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Shield (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Shield_(Ability)",
+  "pageId": 213458,
+  "pageRevisionId": 4070540,
+  "leadText": "Shadow Shield (Japanese: ファントムガード Phantom Guard) is an Ability introduced in Generation VII. It is the signature Ability of Lunala.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Shadow Shield reduces damage taken from damage-dealing moves by half when at maximum HP . It does not reduce the amount of HP taken from moves that deal direct damage . When hit with a multistrike move at maximum HP, only the first hit will have its damage reduced. All further hits will deal full damage. Unlike Multiscale , this Ability cannot be ignored by moves or Abilities . It can still be changed or suppressed. Outside of battle [ edit | edit source ] Shadow Shield has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Shadow Shield reduces damage taken from damage-dealing moves by half when at maximum HP . It does not reduce the amount of HP taken from moves that deal direct damage . When hit with a multistrike move at maximum HP, only the first hit will have its damage reduced. All further hits will deal full damage. Unlike Multiscale , this Ability cannot be ignored by moves or Abilities . It can still be changed or suppressed."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Shield",
+    "Shadow Shield",
+    "Shadow-Shield (Ability)"
+  ],
+  "updatedAt": 1773329195
+}

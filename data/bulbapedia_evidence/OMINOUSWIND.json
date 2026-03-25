@@ -1,0 +1,38 @@
+{
+  "answerKey": "OMINOUSWIND",
+  "answerDisplay": "OMINOUS WIND",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Ominous Wind (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ominous_Wind_(move)",
+  "pageId": 18904,
+  "pageRevisionId": 4500946,
+  "leadText": "Ominous Wind (Japanese: あやしいかぜ Ominous Wind) is a damage-dealing Ghost-type move introduced in Generation IV. It is TM119 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV to VII 1.2 Generation VIII 1.2.1 Pokémon Sword and Shield 1.2.2 Pokémon Brilliant Diamond and Shining Pearl 1.2.3 Pokémon Legends: Arceus 1.3 Generation IX Effect [ edit | edit source ] Generation IV to VII [ edit | edit source ] Ominous Wind inflicts damage and has a 10% chance of raising the user's Attack , Defense , Special Attack , Special Defense , and Speed by one stage each. Generation VIII [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] Ominous Wind cannot be selected in a battle. Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Ominous Wind cannot be selected in a battle. Pokémon Legends: Arceus [ edit | edit source ] Ominous Wind's PP has been increased from 5 to 15. It has a 20% chance of raising the user's offensive and defensive stats. Pokémon Legends: Arceus Category Special PP 15 Agile Strong Power 60 45 75 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 20% 20% 40% Turns 3 2 4 ? ? May raise the user's offensive and defensive stats Generation IX [ edit | edit source ] Ominous Wind cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user creates a gust of repulsive wind. It may also raise all the user's stats at once. B W B2 W2 The user blasts the target with a gust of repulsive wind. It may also raise all the user's stats at once. X Y OR AS S M US UM P E The user blasts the target with a gust of repulsive wind. This may also raise all the user's stats at once. Sw Sh BD SP S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. LA The user blasts the target with a gust of repulsive wind. This may also raise the user’s offensive and defensive stats. ZA The user attacks with a gust of horrible wind that makes targets' skin crawl. This may also boost all the user's stats at once."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on all enemies in the room. It may also boost the user's Attack, Special Attack, Defense, Special Defense, and Movement Speed by 1 level. B S L おなじへやの てきポケモンに ダメージをあたえる いっていのかくりつで じぶんの こうげき ぼうぎょ とくこう とくぼう いどうそくどが すべて １だんかいあがる MD GtI It damages enemies in the same room. It could also boost your Attack, Defense, Special Attack, Special Defense, and Travel Speed. (The stat changes return to normal when you go to the next floor or step on a Wonder Tile.) S MD It damages enemies in the same room. It could also boost your Attack, Defense, Sp. Atk, Sp. Def, and Travel Speed. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Prior to Generation VI, this move and Heat Wave had the same in-game animation, the only difference being the color. Ominous Wind is the only Ghost-type Beautiful move."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ominous-Wind",
+    "Ominous Wind",
+    "Ominous-Wind (move)"
+  ],
+  "updatedAt": 1773325507
+}

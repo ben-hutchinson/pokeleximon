@@ -1,0 +1,34 @@
+{
+  "answerKey": "DAMPROCK",
+  "answerDisplay": "DAMP ROCK",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Damp Rock",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Damp_Rock",
+  "pageId": 23451,
+  "pageRevisionId": 4484461,
+  "leadText": "The Damp Rock (Japanese: しめったいわ Damp Rock) is a type of held item introduced in Generation IV. It extends the duration of rain.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If the Pokémon holding this item creates rain with the moves Rain Dance or Max Geyser , or the Ability Drizzle , it lasts eight turns instead of five turns. (Prior to Generation VI , it has no effect on Drizzle, which creates rain with indefinite length in those games.) In the Generation VII games, if rain has its duration extended by the Damp Rock, the turn counter on the user interface for these effects will indicate that it lasts for 8 turns for the player whose Pokémon used the move, while it will display that it lasts for 5 turns for their opponent. After 5 turns of rain have passed, the user interface will display that it lasts for 8 turns for both players."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt A Pokémon hold item that extends the duration of the move Rain Dance used by the holder. HG SS B W B2 W2 A Pokémon held item that extends the duration of the move Rain Dance used by the holder. X Y OR AS S M US UM P E Sw Sh BD SP LA An item to be held by a Pokémon. It extends the duration of the move Rain Dance when used by the holder. S V An item to be held by a Pokémon. When the holder changes the weather to rain, the rain will persist for longer than usual."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price D P Pt HG SS B W B2 W2 X Y OR AS BD SP N/A $ 100 S M US UM Sw Sh N/A $ 2,000 S V $ 8,000 $ 2,000 Effect [ edit | edit source ] If the Pokémon holding this item creates rain with the moves Rain Dance or Max Geyser , or the Ability Drizzle , it lasts eight turns instead of five turns. (Prior to Generation VI , it has no effect on Drizzle, which creates rain with indefinite length in those games.) In the Generation VII games, if rain has its duration extended by the Damp Rock, the turn counter on the user interface for these effects will indicate that it lasts for 8 turns for the player whose Pokémon used the move, while it will display that it lasts for 5 turns for their opponent. After 5 turns of rain have passed, the user interface will display that it lasts for 8 turns for both players. Description [ edit | edit source ] Games Description D P Pt A Pokémon hold item that extends the duration of the move Rain Dance used by the holder. HG SS B W B2 W2 A Pokémon held item that extends the duration of the move Rain Dance used by the holder. X Y OR AS S M US UM P E Sw Sh BD SP LA An item to be held by a Pokémon. It extends the duration of the move Rain Dance when used by the holder. S V An item to be held by a Pokémon. When the holder changes the weather to rain, the rain will persist for longer than usual. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Underground HG SS Trade PW Icy Mountain Rd. B W B2 W2 Route 8 (once per day, in the morning) DW * Icy Cave X Y Routes 14 and 19 Thin rocks OR AS Weather Institute S M US UM Malie City Battle Royal Dome (48 BP ) Sw Sh Hammerlocke Bridge Field ( Digging Duo ) Sw Sh IA Soothing Wetlands BD SP Grand Underground S V Delibird Presents ( Cascarrafa Branch, after earning 4 Gym Badges ) Sparkling overworld item ( East Province (Area Three) )"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Damp-Rock",
+    "Damp Rock",
+    "Damp-Rock (item)"
+  ],
+  "updatedAt": 1773322013
+}

@@ -1,0 +1,37 @@
+{
+  "answerKey": "FACADE",
+  "answerDisplay": "FACADE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Facade (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Facade_(move)",
+  "pageId": 3874,
+  "pageRevisionId": 4480024,
+  "leadText": "Facade (Japanese: からげんき Bravado) is a damage-dealing Normal-type move introduced in Generation III. It is: TM42 from Generation III to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TM12 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TM39 in Pokémon Sword and Shield. TM025 in Pokémon Scarlet and Violet. TM109 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Facade inflicts damage. Its base power doubles from 70 to 140 if the user is poisoned , paralyzed , or burned . Generation III to V [ edit | edit source ] When using Facade, burn 's effect of halving the damage done by physical moves is still calculated (unless the user has Guts ). Generation VI onwards [ edit | edit source ] When using Facade, Burn 's effect of halving the damage done by physical moves is now ignored."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Boosts Attack when burned, paralyzed, or poisoned. (move) Raises Attack when poisoned, burned, or paralyzed. (TM) FR LG An attack that is boosted if user is burned, poisoned, or paralyzed. D P Pt HG SS PBR An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn. B W B2 W2 X Y OR AS An attack move that doubles its power if the user is poisoned, burned, or has paralysis. S M US UM P E Sw Sh BD SP LA This attack move doubles its power if the user is poisoned, burned, or paralyzed. S V This move's power is doubled if the user is poisoned, burned, or paralyzed. ZA The user attacks with a power that is doubled if the user is poisoned, paralyzed, burned, or drowsy."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. If the user is poisoned, badly poisoned, or has a burn, its power is doubled. MD T D S Inflicts damage on the target and double damage if the user has a Burn status, a Poisoned status, or a Badly Poisoned status. B S L てきポケモンに ダメージをあたえる じぶんが やけどじょうたい どくじょうたい もうどくじょうたいの ときには ダメージが２ばいになる MD GtI It damages an enemy. The damage it causes goes up if you have a bad status condition. S MD It damages an enemy. The damage it causes goes up if you have a bad status condition. It also prevents your Attack from being lowered when you have a burn."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In the Generation IV core series games, due to a glitch , each time a Pokémon performs the animation for Facade, its sprite will be moved up one pixel. Although this move can potentially be used while asleep via Sleep Talk , the move's damage/power will not be doubled."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Facade",
+    "Facade (move)"
+  ],
+  "updatedAt": 1773322687
+}

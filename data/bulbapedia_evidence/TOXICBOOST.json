@@ -1,0 +1,30 @@
+{
+  "answerKey": "TOXICBOOST",
+  "answerDisplay": "TOXIC BOOST",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Toxic Boost (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Toxic_Boost_(Ability)",
+  "pageId": 118108,
+  "pageRevisionId": 4407521,
+  "leadText": "Toxic Boost (Japanese: どくぼうそう Poison Rampage) is an Ability introduced in Generation V. It is the signature Ability of Zangoose.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] While the Pokémon with this Ability is poisoned or badly poisoned , the power of its physical moves is increased by 50%. Outside of battle [ edit | edit source ] Toxic Boost has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] While the Pokémon with this Ability is poisoned or badly poisoned , the power of its physical moves is increased by 50%."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Toxic-Boost",
+    "Toxic Boost",
+    "Toxic-Boost (Ability)"
+  ],
+  "updatedAt": 1773329286
+}

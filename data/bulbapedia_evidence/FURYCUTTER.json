@@ -1,0 +1,38 @@
+{
+  "answerKey": "FURYCUTTER",
+  "answerDisplay": "FURY CUTTER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Fury Cutter (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fury_Cutter_(move)",
+  "pageId": 3821,
+  "pageRevisionId": 4410722,
+  "leadText": "Fury Cutter (Japanese: れんぞくぎり Consecutive Cut) is a damage-dealing Bug-type move introduced in Generation II. It was TM49 in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations II to IV 1.2 Generation V 1.3 Generation VI onwards Effect [ edit | edit source ] Generations II to IV [ edit | edit source ] Fury Cutter starts with a base power of 10. Every time Fury Cutter hits the power will double, even if other moves are used in between. The power may double up to a maximum of 160 (which could take minimum 5 turns). If Fury Cutter misses, the user is switched out, or the player uses an item, the power will reset to normal. Fury Cutter can be used as the second move of a Pokémon Contest combination , with the user gaining 3 bonus appeal points if Swords Dance was used in the previous turn. Generation V [ edit | edit source ] Fury Cutter's base power increased from 10 to 20, meaning that it takes four consecutive turns to reach the maximum power of 160. If another move is selected, its power will reset. Generation VI onwards [ edit | edit source ] Fury Cutter's base power increased even further from 20 to 40, meaning that it takes three consecutive turns to reach the maximum power of 160. If used by a Pokémon with Sharpness as its Ability , its power is increased by 50%."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A Bug -type attack that grows more powerful with every hit. Returns to normal if it misses. G S C Successive hits raise power. R S E Colo XD An attack that intensifies on each successive hit. FR LG An attack that grows stronger on each successive hit. D P Pt HG SS PBR The foe is slashed with scythes or claws. Its power increases if it hits in succession. B W B2 W2 The target is slashed with scythes or claws. Its power increases if it hits in succession. X Y OR AS S M US UM P E Sw Sh BD SP LA The target is slashed with scythes or claws. This attack becomes more powerful if it hits in succession. S V The user attacks by slashing the target with scythes, claws, or the like. This attack becomes more powerful if it hits in succession."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Attacks the target twice in succession. MD T D S Inflicts damage on the target using 2 attacks in a single turn. B S L てきポケモンに ２かいれんぞくで ダメージを あたえる Conq. The target is slashed with scythes or claws. Its power increases if it hits in succession. MD GtI It damages an enemy. Its power goes up if you use it multiple times in a row. S MD It damages an enemy. Its power goes up if you use it sequentially. MD RT DX It damages an enemy. Its power goes up if you use it twice in a row."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Fury Cutter is capable of having the highest power of all Bug-type moves with the exception of Savage Spin-Out , reaching 160 in the third consecutive turn. Bugsy claims to have discovered this technique by himself. [ 1 ] In Generation II , Fury Cutter was the only Bug-type move learnable by TM . Prior to Generation V , Shedinja is able to know Fury Cutter by leveling up if Nincada is allowed to evolve only at level 20, as Ninjask learns this move at this level. ↑ Bugsy : \" TM49 contains Fury Cutter . If you don't miss, it gets stronger every turn. The longer your battle goes, the better it gets. Isn't that great? I discovered it! \" ( Gold, Silver , and Crystal )"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fury-Cutter",
+    "Fury Cutter",
+    "Fury-Cutter (move)"
+  ],
+  "updatedAt": 1773323064
+}

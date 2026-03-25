@@ -1,0 +1,37 @@
+{
+  "answerKey": "ZINC",
+  "answerDisplay": "ZINC",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Zinc",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Zinc",
+  "pageId": 12839,
+  "pageRevisionId": 4459715,
+  "leadText": "The Zinc (Japanese: キトサン Chitosan) is a type of vitamin introduced in Generation III. It increases the Special Defense of a Pokémon.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation III to VII [ edit | edit source ] When used from the Bag on a Pokémon, adds 10 Special Defense EVs to the target Pokémon per use, until it has 100 Special Defense EVs. It also increases the Pokémon's friendship a little. Zinc is consumed upon use and cannot be used in battle. Generation VIII onward [ edit | edit source ] Zinc can now be used even on a Pokémon that has 100 Special Defense EVs or more, allowing the Special Defense EVs to be raised to the single-stat cap of 252 or the total cap of 510 this way."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] A consumable item that raises the Special Defense of Pokémon that ingests it by 3 and restores 5 Belly for it (prior to Gates to Infinity). If the Special Defense stat is at 255, it cannot be raised higher. If thrown, it will grant the same effect as if it was consumed by the Pokémon it hits (it cannot be caught); if it is sticky , it will also deal 2 damage. Zinc can be blended into a drink at Spinda's Juice Bar , although it has no special effects."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S Colo Raises the stat Sp.Def of one Pok é mon . FR LG A nutritious drink for Pok é mon . It raises the base Sp. Def stat of one Pok é mon . E XD Raises the base Sp.Def stat of one Pok é mon . D P Pt HG SS B W B2 W2 A nutritious drink for Pokémon. It raises the base Sp. Def (Special Defense) stat of a single Pokémon. X Y OR AS S M US UM P E A nutritious drink for Pokémon. When consumed, it raises the base Sp. Def stat of a single Pokémon. Sw Sh BD SP LA A nutritious drink for Pokémon. When consumed, it raises the Sp. Def base points of a single Pokémon. S V A nutritious drink for Pokémon. This drink increases base points for a Pokémon's Sp. Def stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B A drink that boosts the Pokémon's Special Defense. It also slightly fills the Pokémon's Belly. MD T D S A drink that permanently raises the Pokémon's Special Defense. It also slightly fills the Pokémon's Belly. MD GtI Drink it to raise your Special Defense. S MD Drinking it raises your Sp. Def. The effect lasts even after this adventure."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Zinc",
+    "Zinc (item)"
+  ],
+  "updatedAt": 1773328701
+}

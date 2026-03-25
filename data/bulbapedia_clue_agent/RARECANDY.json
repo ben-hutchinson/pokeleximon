@@ -1,0 +1,110 @@
+{
+  "answerKey": "RARECANDY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4504949,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen I item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "vitamins",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen I vitamins",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Causes a level-up and raises happiness.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Safari-zone capture tool",
+        "evidence_ref": "lead",
+        "specificity": 0.88
+      },
+      {
+        "text": "Special Poke Ball",
+        "evidence_ref": "lead",
+        "specificity": 0.68
+      },
+      {
+        "text": "Boosts The Selected Pok Mon By One's stats",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Special Poke Ball",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.68,
+        "style": "family"
+      },
+      {
+        "text": "Special capture ball",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.66,
+        "style": "family"
+      },
+      {
+        "text": "Safari Zone catcher",
+        "evidence_ref": "lead",
+        "mystery_score": 0.76,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Great Marsh capture tool",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "The Selected Pok Mon By One Level boost item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Power item for The Selected Pok Mon By One",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "The Selected Pok Mon By One-only held item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "special ball",
+      "the selected pok mon by one item"
+    ],
+    "connections_descriptors": [
+      "Special Poke Balls",
+      "Gen I items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257999
+}

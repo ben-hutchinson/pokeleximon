@@ -1,0 +1,34 @@
+{
+  "answerKey": "ELECTRICSEED",
+  "answerDisplay": "ELECTRIC SEED",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Electric Seed",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Electric_Seed",
+  "pageId": 218984,
+  "pageRevisionId": 4359433,
+  "leadText": "The Electric Seed (Japanese: エレキシード Electric Seed) is a type of consumable held item introduced in Generation VII. It boosts the holder's Defense in Electric Terrain.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If a Pokémon is holding an Electric Seed while the field is Electric Terrain , it consumes the Electric Seed and its Defense is increased by one stage. The Electric Seed is consumed even if the holder is not otherwise affected by the terrain (i.e. it is not grounded or in the semi-invulnerable turn of a move). It is not consumed if the holder already has +6 Defense stat stages (unless its Ability is Contrary , in which case it will not activate if the holder has -6 Defense stat stages). If the terrain is changed to Electric Terrain by Electric Surge , then immediately changed by another terrain-changing Ability , the Seed is consumed before the other Ability activates; however, if a Pokémon that holds an Electric Seed and has a terrain-changing Ability is switched in during Electric Terrain, its Ability activates before its held Seed can. Magic Room and Embargo fade before terrain does, so if Electric Terrain would dissipate on the same turn as Magic Room or Embargo, the Seed will activate before the terrain dissipates. If multiple Pokémon each hold an Electric Seed when the field becomes Electric Terrain, each Pokémon will consume the Electric Seed before Symbiosis transfers any item (including Electric Seeds). If a held Electric Seed did not activate because its holder's Defense is already at +6 (or -6 in the case of Contrary), it will not activate for its current holder until after the terrain is changed, the holder switches out, or its holder (or its holder's Substitute ) loses health. Generation IX [ edit | edit source ] In Generation IX , the Electric Seed returns to the holder after the battle if it was used. Magic Room will fade before terrain does, but the Electric Seed will not activate."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh BD SP LA An item to be held by a Pokémon. It boosts Defense on Electric Terrain. It can only be used once. S V An item to be held by a Pokémon. If the terrain becomes Electric Terrain, the holder will use this seed to boost its own Defense stat."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.2.1 Generation IX 1.3 Description 1.4 Acquisition 1.4.1 Distribution 1.4.1.1 As a held item In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price S M US UM Sw Sh N/A $ 2,000 S V $ 20,000 $ 5,000 Effect [ edit | edit source ] If a Pokémon is holding an Electric Seed while the field is Electric Terrain , it consumes the Electric Seed and its Defense is increased by one stage. The Electric Seed is consumed even if the holder is not otherwise affected by the terrain (i.e. it is not grounded or in the semi-invulnerable turn of a move). It is not consumed if the holder already has +6 Defense stat stages (unless its Ability is Contrary , in which case it will not activate if the holder has -6 Defense stat stages). If the terrain is changed to Electric Terrain by Electric Surge , then immediately changed by another terrain-changing Ability , the Seed is consumed before the other Ability activates; however, if a Pokémon that holds an Electric Seed and has a terrain-changing Ability is switched in during Electric Terrain, its Ability activates before its held Seed can. Magic Room and Embargo fade before terrain does, so if Electric Terrain would dissipate on the same turn as Magic Room or Embargo, the Seed will activate before the terrain dissipates. If multiple Pokémon each hold an Electric Seed when the field becomes Electric Terrain, each Pokémon will consume the Electric Seed before Symbiosis transfers any item (including Electric Seeds). If a held Electric Seed did not activate because its holder's Defense is already at +6 (or -6 in the case of Contrary), it will not activate for its current holder until after the terrain is changed, the holder switches out, or its holder (or its holder's Substitute ) loses health. Generation IX [ edit | edit source ] In Generation IX , the Electric Seed returns to the holder after the battle if it was used. Magic Room will fade before terrain does, but the Electric Seed will not activate. Description [ edit | edit source ] Games Description S M US UM P E Sw Sh BD SP LA An item to be held by a Pokémon. It boosts Defense on Electric Terrain. It can only be used once. S V An item to be held by a Pokémon. If the terrain becomes Electric Terrain, the holder will use this seed to boost its own Defense stat. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods S M US UM Mahalo Trail Held by wild Togedemaru (5% chance) Sw Sh Wyndon Held by wild Togedemaru (5% chance) Sw Sh IA Hidden recurring item ( Stepping-Stone Sea ) Cram-o-matic ( Electric : 2-20 points) S V Delibird Presents ( Cascarrafa Branch, after completing the main storyline) Sparkling overworld item ( West Province (Area Three) ) Distribution [ edit | edit source ] As a held item [ edit | edit source ] Games Event Language/Region Distribution period S M Japanese Melemele Island Shiny Tapu Koko Japanese March 17 to May 31, 2017 Melemele Island Tapu Koko South Korea April 8 to 9, 2017 Taiwanese Melemele Island Shiny Tapu Koko Japanese, PAL English, Taiwanese April 28 to June 30, 2017 Melemele Island Shiny Tapu Koko American, PAL July 14 to August 14, 2017 US UM Melemele Island Shiny Tapu Koko All October 18 to November 30, 2019 S V Luca Ceribelli's Farigiraf All August 15 to 22, 2025"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Electric-Seed",
+    "Electric Seed",
+    "Electric-Seed (item)"
+  ],
+  "updatedAt": 1773322515
+}

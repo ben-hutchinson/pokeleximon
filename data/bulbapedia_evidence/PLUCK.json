@@ -1,0 +1,33 @@
+{
+  "answerKey": "PLUCK",
+  "answerDisplay": "PLUCK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Pluck (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Pluck_(move)",
+  "pageId": 14449,
+  "pageRevisionId": 4406947,
+  "leadText": "Pluck (Japanese: ついばむ Pick) is a damage-dealing Flying-type move introduced in Generation IV. It was TM88 in Generation IV to Generation V, as well as in Pokémon Brilliant Diamond and Shining Pearl.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Pluck inflicts damage. If the target is holding a Berry , the user will eat the Berry and gain its effect. Pluck will not eat the target's Berry if it hits its substitute . Pluck will not consume the Berry of a target that has the Ability Sticky Hold . Berries like Liechi or Sitrus Berries will be eaten by the attacker, regardless of them meeting their consumption requirement upon taking damage from Pluck. Pluck can hit non-adjacent opponents in Triple Battles . Generation IV [ edit | edit source ] If the user has the Ability Klutz or is affected by Embargo , it will consume the target's held Berry without gaining its effect. Pluck will eat the target's Coba and Jaboca Berries before the Berry can activate. Generation V onwards [ edit | edit source ] The user will now receive the effects of the target's held Berry even if it has the Ability Klutz or is affected by Embargo . The effect of a Coba or Jaboca Berry will now activate before the Berry can be eaten. Pluck will fail when used in a Max Raid Battle ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect. S V The user attacks by pecking the target. If the target is holding a Berry, the user eats it and gains its effect."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. If the enemy has a beneficial food item, such as a Berry, the user steals and eats it, gaining its effect. B S L てきポケモンに ダメージをあたえる あいてが きのみなどを もっていれば それを じぶんに つかう MD GtI It damages an enemy. If the enemy has food, you eat it. S MD It damages an enemy. If the enemy is carrying any food, you'll pluck it from their grasp and eat it!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Pluck",
+    "Pluck (move)"
+  ],
+  "updatedAt": 1773325854
+}

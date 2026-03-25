@@ -1,0 +1,30 @@
+{
+  "answerKey": "PERISHBODY",
+  "answerDisplay": "PERISH BODY",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Perish Body (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Perish_Body_(Ability)",
+  "pageId": 244412,
+  "pageRevisionId": 4345492,
+  "leadText": "Perish Body (Japanese: ほろびのボディ Perish Body) is an Ability introduced in Generation VIII. It is the signature Ability of Cursola. It is the Ability equivalent of Perish Song.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: How does Perish Body behave when struck by a move that forces a switch, such as U-Turn (user) or Dragon Tail (target)? You can discuss this on the talk page. When the Pokémon with Perish Body is hit with a contact move, both the attacker and the Pokémon with Perish Body will faint in three turns. If the attacker already has a perish count or is wearing Protective Pads or has Long Reach , the Ability does not affect anyone. Outside of battle [ edit | edit source ] Perish Body has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: How does Perish Body behave when struck by a move that forces a switch, such as U-Turn (user) or Dragon Tail (target)? You can discuss this on the talk page. When the Pokémon with Perish Body is hit with a contact move, both the attacker and the Pokémon with Perish Body will faint in three turns. If the attacker already has a perish count or is wearing Protective Pads or has Long Reach , the Ability does not affect anyone."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Perish-Body",
+    "Perish Body",
+    "Perish-Body (Ability)"
+  ],
+  "updatedAt": 1773325700
+}

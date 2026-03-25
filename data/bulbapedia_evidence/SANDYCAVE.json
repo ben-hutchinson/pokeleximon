@@ -1,0 +1,30 @@
+{
+  "answerKey": "SANDYCAVE",
+  "answerDisplay": "SANDY CAVE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sandy Cave",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sandy_Cave",
+  "pageId": 226743,
+  "pageRevisionId": 4229035,
+  "leadText": "If you were looking for the location from Pokémon Super Mystery Dungeon, see Sandy Cave (Mystery Dungeon). Sandy Cave (Japanese: 浜辺(はまべ)の洞穴(ほらあな) Beach Cave) is a location on Melemele Island in Alola. There is an entrance to the cave on Big Wave Beach. It only appears in Pokémon Ultra Sun and Ultra Moon.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] This is a small cave to the south of Big Wave Beach . It is mostly filled with water, and contains a few items. Lapras Paddle , Sharpedo Jet , and Machamp Shove are required to fully explore the area."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Big Pearl In the center of an island in the middle of the cave (requires Lapras Surf or Sharpedo Jet ) US UM Light Clay Above the ledge on the southeastern shore (requires Sharpedo Jet ) US UM TM24 ( Thunderbolt ) Behind the boulder in the northern corner of the cave (requires Machamp Shove ) US UM"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sandy-Cave",
+    "Sandy Cave",
+    "Sandy-Cave (location)"
+  ],
+  "updatedAt": 1773326656
+}

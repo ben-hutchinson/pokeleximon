@@ -1,0 +1,34 @@
+{
+  "answerKey": "TERABLAST",
+  "answerDisplay": "TERA BLAST",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Tera Blast (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tera_Blast_(move)",
+  "pageId": 273858,
+  "pageRevisionId": 4498679,
+  "leadText": "Tera Blast (Japanese: テラバースト Tera Burst) is a damage-dealing Normal-type move introduced in Generation IX. It is TM171 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Tera Blast deals damage. If the user's Attack stat is higher than its Special Attack stat, Tera Blast becomes a physical move when Terastallized ; otherwise, it remains a special move . For determining which stat is higher, stat stage-modifiers are taken into account, but other effects (e.g. held items such as a Choice Band , Abilities such as Huge Power , etc.) are not. This is determined when the move is performed (not when it is selected), so for example the move's category may change mid-turn if the opponent goes first and uses a move like Charm . If the user has Terastallized, Tera Blast's type becomes the same as their Tera Type, is unaffected by moves and Abilities that change its type, and has a different animation depending on the move's type (except if their Tera Type is Normal , where the animation stays the same whether Terastallized or not). Gale Wings does not increase the priority of Flying-type Tera Blast. If the user has Terastallized into the Stellar type, it deals supereffective damage against Terastallized targets and neutral damage against all other targets. Moreover, its base power is 100 instead of 80 and it lowers the user’s Attack and Sp. Atk stats by one stage. If the user is not Terastallized, Tera Blast will be affected by Abilities such as Galvanize , but if the user Terastallized into a Normal type, Tera Blast will remain Normal."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Non-Stellar type [ edit | edit source ] Games Description S V If the user has Terastallized, it unleashes energy of its Tera Type. This move inflicts damage using the Attack or Sp. Atk stat—whichever is higher for the user. Stellar type [ edit | edit source ] Games Description S V Inflicts damage with the user’s Attack or Sp. Atk stat— whichever is higher. Super effective against Terastallized targets. This lowers the user’s Attack and Sp. Atk stats."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Despite being made of Terastal energy and being responsible for the Terastal phenomenon , Terapagos cannot learn Tera Blast. It can, however, use the move in Pokémon Masters EX , creating a game move error . Tera Blast is the first Generation IX move in index number order . Tera Blast is the only move to have a different description depending on its type . Tera Blast hints at Glimmet and Glimmora 's implied connection to the Terastal phenomenon , as eight Glimmet Crystals are needed to make the TM."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Tera-Blast",
+    "Tera Blast",
+    "Tera-Blast (move)"
+  ],
+  "updatedAt": 1773327882
+}

@@ -1,0 +1,119 @@
+{
+  "answerKey": "JOLLYMINT",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4503747,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "nature mints",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen VIII nature mints",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Effect [ edit | edit source ] If used from the Bag , it changes the effect of a Pokemon's Nature on its stats to that of the Jolly Nature, increasing its Speed stat and decreasing its Special Attack stat.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Nature-changing mint",
+        "evidence_ref": "lead",
+        "specificity": 0.74
+      },
+      {
+        "text": "Raises speed and lowers special attack",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Nature-changing mint",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.82,
+        "style": "family"
+      },
+      {
+        "text": "Stat-nature mint",
+        "evidence_ref": "lead",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "family"
+      },
+      {
+        "text": "Mint that changes natures",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "family"
+      },
+      {
+        "text": "Speed-up, Sp. Atk-down item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.78,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Speed-favoring nature changer",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Sp. Atk-lowering nature item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Nature-changing mint",
+        "evidence_ref": "lead",
+        "mystery_score": 0.7,
+        "specificity_score": 0.8,
+        "style": "family"
+      },
+      {
+        "text": "Stat-nature mint",
+        "evidence_ref": "lead",
+        "mystery_score": 0.64,
+        "specificity_score": 0.76,
+        "style": "family"
+      },
+      {
+        "text": "Mint that changes natures",
+        "evidence_ref": "lead",
+        "mystery_score": 0.6,
+        "specificity_score": 0.74,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "nature mint",
+      "speed nature"
+    ],
+    "connections_descriptors": [
+      "Nature mints",
+      "Gen VIII items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257958
+}

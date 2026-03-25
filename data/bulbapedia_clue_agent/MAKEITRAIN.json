@@ -1,0 +1,75 @@
+{
+  "answerKey": "MAKEITRAIN",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4491098,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX Steel move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Steel special move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Effect [ edit | edit source ] Make It Rain inflicts damage and lowers the user's Special Attack by one stage. In a battle with multiple opponents, Make It Rain will target all adjacent opponents. For each target the move hits, coins are scattered on the ground. $ 5 multiplied by the user's level are scattered each time. No coins are scattered in Tera Raid Battles . If the player wins the battle, they will pick up all the scattered coins and receive the total money amount. The amount of money from Make It Rain is doubled if any of the player's Pokemon takes part in battle while holding an Amulet Coin or Luck Incense ; however, this effect can only be applied once, regardless of how many additional Pokemon hold this item. Having more than one Pokemon holding the item does not increase the money amount any further. Pokemon Legends: Z-A [ edit | edit source ] In Pokemon Legends: Z-A , coins scattered by Make It Rain are picked up immediately. Make It Rain does not scatter coins when hitting objects like Mega Crystals. The amount of money from Make It Rain is unaffected by the Gold Canari Plush . Pokemon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 120 144 Cooldown 15s Move wind-up time 15 frames Effect duration s Additional effect Lowers the user's Special Attack Scatters coins based on the user's level per target hit",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "120-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "debuffing move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Steel special move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen IX Steel move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "120-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "steel special move"
+    ],
+    "connections_descriptors": [
+      "Debuffing moves",
+      "Steel Special moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257969
+}

@@ -1,0 +1,17 @@
+{
+  "answerKey": "KROOKODILE",
+  "answerDisplay": "KROOKODILE",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Ground / Dark type Pokémon introduced in Generation 5.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/krookodile",
+  "extract": "Krookodile is a Ground / Dark type Pokémon introduced in Generation 5 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211802
+}

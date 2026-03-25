@@ -1,0 +1,34 @@
+{
+  "answerKey": "DRYSKIN",
+  "answerDisplay": "DRY SKIN",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Dry Skin (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dry_Skin_(Ability)",
+  "pageId": 14247,
+  "pageRevisionId": 4388192,
+  "leadText": "Dry Skin (Japanese: かんそうはだ Dry Skin) is an Ability introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with Dry Skin is hit by a Water-type move , its HP is restored by one quarter of its maximum HP, and the move will have no effect on that Pokémon (if a Pokémon with this Ability already has full HP, the Water-type move will do nothing). This effect will not activate if the Pokémon is protected from the Water-type move. Multistrike moves , such as Water Shuriken , will only activate this effect once. Fire-type attacks do 25% more damage to a Pokémon with Dry Skin. During rain , a Pokémon with Dry Skin will regain ⅛ of its maximum HP at the end of each turn. During harsh sunlight , a Pokémon with Dry Skin will lose ⅛ of its maximum HP at the end of each turn. If a Pokémon with Dry Skin is holding an Absorb Bulb or Luminous Moss , Dry Skin absorbs the Water-type move so the item's effect is not triggered. Outside of battle [ edit | edit source ] Dry Skin has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with Dry Skin is hit by a Water-type move , its HP is restored by one quarter of its maximum HP, and the move will have no effect on that Pokémon (if a Pokémon with this Ability already has full HP, the Water-type move will do nothing). This effect will not activate if the Pokémon is protected from the Water-type move. Multistrike moves , such as Water Shuriken , will only activate this effect once. Fire-type attacks do 25% more damage to a Pokémon with Dry Skin. During rain , a Pokémon with Dry Skin will regain ⅛ of its maximum HP at the end of each turn. During harsh sunlight , a Pokémon with Dry Skin will lose ⅛ of its maximum HP at the end of each turn. If a Pokémon with Dry Skin is holding an Absorb Bulb or Luminous Moss , Dry Skin absorbs the Water-type move so the item's effect is not triggered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Weakens Pokémon in sun and to Fire-type moves; rain and Water-type moves heal HP. B S L ひざしがつよいや ほのおタイプわざによわく あめや みずタイプわざで かいふく MD GtI Water-type moves and Rain restore its HP. Fire-type moves and Sunny weather damage it. * If it is hit with a Water-type move or the weather condition is Rain, the Pokémon's HP is restored! But if the weather condition is Sunny, it will gradually take damage. Fire-type moves do more damage! * S MD If it is hit with a Water-type move, the Pokémon's HP is restored! Rain or heavy rain helps the Pokémon restore HP naturally. But the Pokémon doesn't do well when it's sunny or in harsh sunlight. MD RT DX The Pokémon absorbs Water-type moves to restore its HP. Rain or Heavy Rain helps the Pokémon restore HP naturally more quickly. But the Pokémon doesn't do well when it's Sunny or in Extremely Harsh Sunlight, and it also doesn't do well against Fire-type moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Dry-Skin",
+    "Dry Skin",
+    "Dry-Skin (Ability)"
+  ],
+  "updatedAt": 1773328846
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "BITTERMALICE",
+  "answerDisplay": "BITTER MALICE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Bitter Malice (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bitter_Malice_(move)",
+  "pageId": 268673,
+  "pageRevisionId": 4403615,
+  "leadText": "Bitter Malice (Japanese: うらみつらみ Bitter Grudge) is a damage-dealing Ghost-type move introduced during Generation VIII, in Pokémon Legends: Arceus. It is the signature move of Hisuian Zorua and Zoroark.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Bitter Malice inflicts damage and has a 30% chance (50% chance in the strong style ) to leave the target with frostbite . The move's power is doubled if the target has a status condition . Pokémon Legends: Arceus Category Special PP 15 Agile Strong Power 60 45 75 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 30% 30% 50% Turns 3 2 4 ? ? May inflict the target with frostbite Power is doubled if the target has a status condition Generation IX [ edit | edit source ] Bitter Malice's PP and power were changed to 10 and 75, respectively. It no longer powers up if the target has a status condition, and it instead lowers the target's Attack by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA The user attacks its target with spine-chilling resentment. This may also leave the target with frostbite. This move's power is doubled if the target has a status condition. S V The user attacks the target with spine-chilling resentment. This also lowers the target’s Attack stat."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Bitter Malice's Japanese name contains a possible pun, as Urami Tsurami is a rhyme."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Bitter-Malice",
+    "Bitter Malice",
+    "Bitter-Malice (move)"
+  ],
+  "updatedAt": 1773321190
+}

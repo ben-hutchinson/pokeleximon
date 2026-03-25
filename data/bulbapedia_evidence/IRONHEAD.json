@@ -1,0 +1,34 @@
+{
+  "answerKey": "IRONHEAD",
+  "answerDisplay": "IRON HEAD",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Iron Head (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Iron_Head_(move)",
+  "pageId": 18893,
+  "pageRevisionId": 4462317,
+  "leadText": "Iron Head (Japanese: アイアンヘッド Iron Head) is a damage-dealing Steel-type move introduced in Generation IV. It is: TR74 in Pokémon Sword and Shield. TM099 in Pokémon Scarlet and Violet. TM058 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation V onwards 1.3 Generation VIII 1.3.1 Pokémon Legends: Arceus 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation IV [ edit | edit source ] Iron Head inflicts damage and has a 30% chance of causing the target to flinch . Generation V onwards [ edit | edit source ] Iron Head is no longer affected by King's Rock . If Zacian or Zamazenta know Iron Head while entering battle in their Crowned Sword or Crowned Shield forms, Iron Head will become Behemoth Blade or Behemoth Bash , respectively, for the duration of the battle. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Iron Head's PP has been reduced to 10. It also lowers the target's action speed . Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 80 60 100 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target +3 +5 +3 Additional effect ? ? ? ? ? ? Lowers the target's action speed Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 80 96 Cooldown 8s Move wind-up time 15 frames Effect duration —s Additional effect Chance 30% — — May make the target flinch"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The foe slams the target with its steel-hard head. It may also make the target flinch. B W B2 W2 The user slams the target with its steel-hard head. It may also make the target flinch. X Y OR AS S M US UM P E Sw Sh BD SP S V The user slams the target with its steel-hard head. This may also make the target flinch. LA The user slams the target with its steel-hard head. ZA The user attacks by slamming its steel-hard head into targets. This may also make targets flinch."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Cringe status condition, making its actions fail. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで ひるみじょうたいにして わざや こうげきを だせなくする Conq. Strike the enemy with a hard head. It may also cause the target to flinch. MD GtI It damages an enemy. It could also cause the Cringe status condition, which makes the enemy unable to attack or use moves. S MD It damages an enemy. It could also cause the enemy to flinch."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Iron-Head",
+    "Iron Head",
+    "Iron-Head (move)"
+  ],
+  "updatedAt": 1773323958
+}

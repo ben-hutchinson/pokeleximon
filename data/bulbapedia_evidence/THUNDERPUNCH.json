@@ -1,0 +1,38 @@
+{
+  "answerKey": "THUNDERPUNCH",
+  "answerDisplay": "THUNDER PUNCH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Thunder Punch (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Thunder_Punch_(move)",
+  "pageId": 3617,
+  "pageRevisionId": 4503561,
+  "leadText": "Thunder Punch (Japanese: かみなりパンチ Thunder Punch), formatted as ThunderPunch prior to Pokémon X and Y, is a damage-dealing Electric-type move introduced in Generation I. It is: TM41 in Generation II. TM23 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TM05 in Pokémon Sword and Shield. TM068 in Pokémon Scarlet and Violet. TM023 in Pokémon Legends: Z-A. It can be thought of as a counterpart to Ice Punch and Fire Punch, having similar names and effects.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II to V 1.3 Generation VI onwards 1.4 Generation VIII 1.4.1 Pokémon Legends: Arceus 1.5 Generation IX 1.5.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I [ edit | edit source ] ThunderPunch does damage and has a 10% chance of paralyzing the opponent. ThunderPunch cannot paralyze Electric-type Pokémon. Generation II to V [ edit | edit source ] ThunderPunch can now paralyze Electric-type Pokémon. ThunderPunch can be used as the first move of a Pokémon Contest combination , causing Fire Punch and Ice Punch to score double the normal appeal if used in the next turn. It can also be used to finish a combination, with the user gaining 4 bonus appeal points if Charge , Fire Punch , or Ice Punch was used in the previous turn. Generation VI onwards [ edit | edit source ] Thunder Punch can no longer paralyze Electric-type Pokémon once again, due to them now being immune to paralysis . Thunder Punch can be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if Charge was used in the prior turn. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Thunder Punch's PP was reduced from 15 to 10 and its chance of paralyzing the opponent was increased from 10% to 30%. Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 75 60 90 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 30% 30% 50% Turns 3 2 4 ? ? Inflicts paralysis on the target Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 75 90 Cooldown 7s Move wind-up time 10 frames Effect duration —s Additional effect Chance 10% — — May paralyze the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A special Electric -type attack. Has a one-in-ten chance of paralyzing the target. Stad2 A special Electric -type attack. Has a one-in-ten shot at paralyzing the target. G S C An electric punch. It may paralyze. R S E An electrified punch that may paralyze the foe. FR LG The foe is punched with an electrified fist. It may leave the foe paralyzed. Colo XD An electrified punch that may paralyze the target. D P Pt HG SS PBR The foe is punched with an electrified fist. It may leave the target with paralysis. B W B2 W2 The target is punched with an electrified fist. It may also leave the target with paralysis. X Y OR AS S M US UM P E Sw Sh BD SP LA The target is punched with an electrified fist. This may also leave the target with paralysis. S V The target is attacked with an electrified punch. This may also leave the target with paralysis. ZA The user attacks with an electrified punch. This may also leave targets paralyzed."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also cause paralysis and prevent any attacks or moves. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Paralysis status condition. A Pokémon with the Paralysis status has slowed movement and is incapable of action. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで まひじょうたいにかえる まひじょうたいのポケモンは わざがだせない MD GtI UNUSED S MD It damages an enemy. It could also cause paralysis."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Melmetal is programmed to be able to learn this move upon Evolution in Pokémon Sword and Shield . However, this is impossible to occur due to Meltan being unable to evolve in the core series."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Thunder-Punch",
+    "Thunder Punch",
+    "Thunder-Punch (move)"
+  ],
+  "updatedAt": 1773327931
+}

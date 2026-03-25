@@ -98,40 +98,6 @@ export type GetDailyPuzzleOptions = {
   redactAnswers?: boolean;
 };
 
-export type PuzzleTextExportEntry = {
-  id: string;
-  number: number;
-  direction: "across" | "down" | string;
-  clue: string;
-  length: number;
-  enumeration: string;
-  cells: [number, number][];
-};
-
-export type PuzzleTextExport = {
-  id: string;
-  date: string;
-  gameType: CompetitiveGameType;
-  title: string;
-  timezone: string;
-  metadata: {
-    difficulty: "easy" | "medium" | "hard" | string;
-    themeTags: string[];
-    contestMode?: boolean;
-    byline?: string | null;
-    constructor?: string | null;
-    editor?: string | null;
-    notes?: string | null;
-  };
-  grid: {
-    width: number;
-    height: number;
-    rows: string[];
-  };
-  entries: PuzzleTextExportEntry[];
-  redactedAnswers: boolean;
-};
-
 export async function getDailyPuzzle(gameType: PuzzleGameType = "crossword", options: GetDailyPuzzleOptions = {}) {
   const params = new URLSearchParams({ gameType });
   if (options.date) params.set("date", options.date);
@@ -146,18 +112,6 @@ export async function getDailyPuzzle(gameType: PuzzleGameType = "crossword", opt
   }
   const json = await res.json();
   return json.data as Puzzle;
-}
-
-export async function getPuzzleTextExport(options: { gameType: CompetitiveGameType; date?: string; puzzleId?: string }) {
-  const params = new URLSearchParams({ gameType: options.gameType });
-  if (options.date) params.set("date", options.date);
-  if (options.puzzleId) params.set("puzzleId", options.puzzleId);
-  const res = await fetch(`/api/v1/puzzles/export/text?${params.toString()}`);
-  if (!res.ok) {
-    throw new Error(`Text export fetch failed: ${res.status}`);
-  }
-  const json = await res.json();
-  return json.data as PuzzleTextExport;
 }
 
 export type GetArchiveOptions = {
@@ -325,6 +279,7 @@ export type PlayerProfile = {
   displayName: string;
   publicSlug: string;
   leaderboardVisible: boolean;
+  avatarPreset?: string | null;
   hasAccount: boolean;
   createdAt?: string | null;
   updatedAt?: string | null;
@@ -348,6 +303,7 @@ export async function putPlayerProfile(params: {
   playerToken: string;
   displayName?: string;
   leaderboardVisible?: boolean;
+  avatarPreset?: string | null;
 }) {
   const res = await fetch("/api/v1/puzzles/profile", {
     method: "PUT",
@@ -358,6 +314,7 @@ export async function putPlayerProfile(params: {
     body: JSON.stringify({
       displayName: params.displayName,
       leaderboardVisible: params.leaderboardVisible,
+      avatarPreset: params.avatarPreset,
     }),
   });
   if (!res.ok) {

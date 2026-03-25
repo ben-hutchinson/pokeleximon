@@ -1,0 +1,17 @@
+{
+  "answerKey": "DRACOZOLT",
+  "answerDisplay": "DRACOZOLT",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is an Electric / Dragon type Pokémon introduced in Generation 8.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/dracozolt",
+  "extract": "Dracozolt is an Electric / Dragon type Pokémon introduced in Generation 8 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211051
+}

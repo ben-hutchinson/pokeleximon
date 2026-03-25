@@ -1,0 +1,34 @@
+{
+  "answerKey": "WONDERSKIN",
+  "answerDisplay": "WONDER SKIN",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Wonder Skin (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Skin_(Ability)",
+  "pageId": 117952,
+  "pageRevisionId": 4407528,
+  "leadText": "Wonder Skin (Japanese: ミラクルスキン Miracle Skin) is an Ability introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Wonder Skin lowers the accuracy of status moves used against the Pokémon with this Ability to 50%. If the move's accuracy is already 50% or less, it does not change. Other effects may still be able to modify the accuracy after Wonder Skin's effect. Wonder Skin does not affect moves without an accuracy check , or moves used by Pokémon with Mold Breaker , Teravolt , or Turboblaze . Outside of battle [ edit | edit source ] Wonder Skin has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Wonder Skin lowers the accuracy of status moves used against the Pokémon with this Ability to 50%. If the move's accuracy is already 50% or less, it does not change. Other effects may still be able to modify the accuracy after Wonder Skin's effect. Wonder Skin does not affect moves without an accuracy check , or moves used by Pokémon with Mold Breaker , Teravolt , or Turboblaze ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI Unavailable S MD It makes it easier for the Pokémon to dodge status moves!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Wonder-Skin",
+    "Wonder Skin",
+    "Wonder-Skin (Ability)"
+  ],
+  "updatedAt": 1773329326
+}

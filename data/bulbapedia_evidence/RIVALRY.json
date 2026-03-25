@@ -1,0 +1,33 @@
+{
+  "answerKey": "RIVALRY",
+  "answerDisplay": "RIVALRY",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Rivalry (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rivalry_(Ability)",
+  "pageId": 14211,
+  "pageRevisionId": 4346223,
+  "leadText": "Rivalry (Japanese: とうそうしん Belligerence) is an Ability introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Because Rivalry affects power which is calculated for all targets, does Rivalry stack when using moves that hit multiple targets? If so, how does the stacking work? You can discuss this on the talk page. Generation IV [ edit | edit source ] When a Pokémon with Rivalry uses an attack, the attack's power is raised by 25% if the target and the user have the same gender , and is reduced by 25% if the target and the user have opposite genders. Rivalry also powers up confusion damage. Rivalry has no effect if the user or target is gender unknown (such as Porygon ). Generation V onward [ edit | edit source ] Rivalry no longer powers up confusion damage. Outside of battle [ edit | edit source ] Rivalry has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Because Rivalry affects power which is calculated for all targets, does Rivalry stack when using moves that hit multiple targets? If so, how does the stacking work? You can discuss this on the talk page. Generation IV [ edit | edit source ] When a Pokémon with Rivalry uses an attack, the attack's power is raised by 25% if the target and the user have the same gender , and is reduced by 25% if the target and the user have opposite genders. Rivalry also powers up confusion damage. Rivalry has no effect if the user or target is gender unknown (such as Porygon ). Generation V onward [ edit | edit source ] Rivalry no longer powers up confusion damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Boosts Pokémon's Attack when facing same gender and reduces it when not the same. B S L あいてが どうせいだと こうげきがあがり いせいだと さがる MD GtI Increases damage done to targets of the same type as the Pokémon. * The Pokémon does more damage to targets that share its type! * S MD The Pokémon does more damage to targets that share its type! MD RT DX The Pokémon does more damage to targets that share its type."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Rivalry",
+    "Rivalry (Ability)"
+  ],
+  "updatedAt": 1773329151
+}

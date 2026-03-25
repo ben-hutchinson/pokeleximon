@@ -1,0 +1,38 @@
+{
+  "answerKey": "FIREFANG",
+  "answerDisplay": "FIRE FANG",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Fire Fang (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fire_Fang_(move)",
+  "pageId": 12449,
+  "pageRevisionId": 4493741,
+  "leadText": "If you were looking for the EX Dragon theme deck, see FireFang (TCG). Fire Fang (Japanese: ほのおのキバ Flame Fang) is a damage-dealing Fire-type move introduced in Generation IV. It is: TM68 in Pokémon Sword and Shield. TM008 in Pokémon Scarlet and Violet. TM014 in Pokémon Legends: Z-A. It can be thought of as a counterpart to Ice Fang and Thunder Fang, having similar names and effects.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation V onwards 1.3 Generation VIII 1.3.1 Pokémon Legends: Arceus 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation IV [ edit | edit source ] Fire Fang deals damage and has a 10% chance of burning the opponent. It also has an independent 10% chance of causing the target to flinch , if the user attacks before the target. Due to a programming error , Fire Fang is always able to hit through Wonder Guard , even if the target does not have a weakness to Fire-type moves. Generation V onwards [ edit | edit source ] Fire Fang no longer bypasses Wonder Guard. Fire Fang is no longer affected by King's Rock . Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Physical PP 15 Agile Strong Power 65 50 80 Accuracy 95% 95% 100% Action speed modifier Self 0 0 +5 Target +3 +5 +3 Additional effect Chance 20% 20% 40% Turns 3 2 4 ? ? May inflict burn on the target Lowers the target's action speed Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 65 78 Cooldown 6s Move wind-up time 10 frames Effect duration —s Additional effect Chance 10% — — May burn the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user bites with flame-cloaked fangs. It may also make the foe flinch or sustain a burn. B W B2 W2 The user bites with flame-cloaked fangs. It may also make the target flinch or leave it burned. X Y OR AS S M US UM P E Sw Sh BD SP S V The user bites with flame-cloaked fangs. This may also make the target flinch or leave it with a burn. LA The user bites the target with flame-cloaked fangs to deal damage. This may also leave the target with a burn. ZA The user attacks by biting targets with flame-cloaked fangs. This may also make targets flinch or leave them with a burn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D Inflicts damage on the target. It may also afflict the targeted enemy with a Burn status condition or a Cringe condition. It thaws out frozen Pokémon. MD S Inflicts damage on the target. It may also afflict the targeted enemy with a Burn status condition or a Cringe status. It thaws out frozen Pokémon. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで やけどじょうたい ひるみじょうたいに かえる こおっていたポケモンは こおりがとける Conq. The user bites with flame-cloaked fangs. It may also make the target flinch or leave it burned. MD GtI It damages an enemy. It could also cause the Burn or Cringe status condition. S MD It damages an enemy. It could also leave the enemy with a burn or cause it to flinch."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Fire Fang is the only Fire-type move capable of making the target flinch ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fire-Fang",
+    "Fire Fang",
+    "Fire-Fang (move)"
+  ],
+  "updatedAt": 1773322801
+}

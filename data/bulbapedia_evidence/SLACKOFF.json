@@ -1,0 +1,38 @@
+{
+  "answerKey": "SLACKOFF",
+  "answerDisplay": "SLACK OFF",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Slack Off (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Slack_Off_(move)",
+  "pageId": 3914,
+  "pageRevisionId": 4491630,
+  "leadText": "Slack Off (Japanese: なまける Slack Off) is a non-damaging Normal-type move introduced in Generation III. Prior to Generation IV, it was the signature move of Slakoth and Slaking.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations III and IV 1.2 Generations V to VIII 1.3 Generation IX Effect [ edit | edit source ] Generations III and IV [ edit | edit source ] Slack Off restores up to 50% of the user's maximum HP, rounded down. Slack Off can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Yawn was used in the previous turn. Generations V to VIII [ edit | edit source ] Slack Off now restores 50% of the user's maximum HP, rounded up. If powered up by a Normalium Z into Z-Slack Off, all of the user's lowered stats are reset. Generation IX [ edit | edit source ] Slack Off's PP was reduced from 10 to 5."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Slacks off and restores half the maximum HP. FR LG The user slacks off and restores its HP by half its full HP. D P Pt HG SS PBR B W B2 W2 The user slacks off, restoring its own HP by up to half of its maximum HP. X Y OR AS S M US UM P E Sw Sh BD SP LA The user slacks off, restoring its own HP by up to half of its max HP. S V The user slacks off, restoring its own HP by up to half its max HP."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Restores the user's HP by half its maximum HP. B S L じぶんの ＨＰを さいだいＨＰの １/５だけ かいふくする MD GtI UNUSED S MD MD RT DX It restores your HP."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation III , the status screen erroneously states that the move has 100% accuracy, even though it targets the user (thus it ignores accuracy and evasion checks)."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Slack-Off",
+    "Slack Off",
+    "Slack-Off (move)"
+  ],
+  "updatedAt": 1773327116
+}

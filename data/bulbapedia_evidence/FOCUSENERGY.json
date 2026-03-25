@@ -1,0 +1,34 @@
+{
+  "answerKey": "FOCUSENERGY",
+  "answerDisplay": "FOCUS ENERGY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Focus Energy (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Focus_Energy_(move)",
+  "pageId": 3725,
+  "pageRevisionId": 4441022,
+  "leadText": "Focus Energy (Japanese: きあいだめ Fighting Spirit Improvement) is a non-damaging Normal-type move introduced in Generation I. It was TR13 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generation III-V 1.4 Generation VI onwards 1.5 Generation VIII 1.5.1 Pokémon Legends: Arceus 1.6 Generation IX 1.6.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I [ edit | edit source ] In the Generation I handheld games only, Focus Energy permanently divides the user's probability of landing a critical hit by 4; while it was intended to multiply it by 4, the move works incorrectly in these games. The effect of Focus Energy cannot stack, and it will fail if the user is already under its effect. In Pokémon Stadium, the probability of landing a critical hit uses a different formula to the handheld games. Using Focus Energy changes the critical hit formula to make the user substantially more likely to land a critical hit (more than twice as likely as not using it, although the exact increase depends on the user's base Speed ). This increase is so substantial that in Pokémon Stadium, using a move with a high critical hit ratio while under the effect of Focus Energy always results in the user having the maximum 255/256 (~99.6%) chance of landing a critical hit. Focus Energy is removed by switching and by Haze . Generation II [ edit | edit source ] Focus Energy now permanently increases the user's critical hit ratio by one stage. This effect can be transferred by Baton Pass . Haze no longer affects Focus Energy. Generation III-V [ edit | edit source ] Focus Energy now increases the user's critical hit ratio by two stages instead of one. In Generation IV only, Haze lifts the effects of Focus Energy. Focus Energy can be used as the first move of a Pokémon Contest combination , causing Arm Thrust , Bone Rush , Brick Break , Cross Chop , Double-Edge , DynamicPunch , Focus Punch , Headbutt , Karate Chop , Mega Kick , Mega Punch , Sky Uppercut , Take Down , and Triple Kick to score double the normal appeal if used in the next turn. Generation VI onwards [ edit | edit source ] The effect of Focus Energy can now be copied by Psych Up , Transform or Costar . Focus Energy can also be used as part of a Contest Spectacular combination , causing certain moves ( Aeroblast , Attack Order , Blaze Kick , Cross Poison , Drill Run , Karate Chop , Leaf Blade , Night Slash , Poison Tail , Psycho Cut , Shadow Claw , Spacial Rend and Stone Edge ) to gain extra three appeal points if used in the next turn. If powered up by a Normalium Z into Z-Focus Energy, the user's accuracy is raised by one stage. Focus Energy now also fails if the user is already under the effects of Dragon Cheer . Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Status PP 20 Agile Strong Power — — — Accuracy —% —% —% Action speed modifier Self -3 -4 +5 Target 0 0 0 Additional effect Turns 5 4 7 ? ? ? ? The user gets a Critical Hit Boost Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 10s Move wind-up time 30 frames 1 frame Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 Raises the likelihood of nailing the opponent's weak spot for a critical hit. G S C Raises the critical hit ratio. R S E Colo XD Focuses power to raise the critical-hit ratio. FR LG The user takes a deep breath and focuses to raise its critical-hit ratio. D P Pt HG SS PBR The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP The user takes a deep breath and focuses so that critical hits land more easily. LA S V The user takes a deep breath and focuses so that its future attacks have a heightened chance of landing critical hits. ZA The user takes a deep breath and focuses, increasing the chance of its attacks landing critical hits for a while."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Focus Energy status, raising its critical-hit rate. MD T D S Gives the Pokémon that uses this move the Focus Energy status, which raises its critical-hit rate. B S L じぶんを きあいだめじょうたいにかえる きゅうしょに あたりやすくなる MD GtI You will get the Focus Energy status, which raises your critical-hit rate. S MD MD RT DX You'll get the Focus Energy status condition, which raises your critical-hit rate."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Focus-Energy",
+    "Focus Energy",
+    "Focus-Energy (move)"
+  ],
+  "updatedAt": 1773322949
+}

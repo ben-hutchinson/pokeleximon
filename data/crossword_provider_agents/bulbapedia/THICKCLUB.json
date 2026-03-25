@@ -1,0 +1,16 @@
+{
+  "answerKey": "THICKCLUB",
+  "answerDisplay": "THICK CLUB",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Attack Stat Of A Cubone Or Marowak-only held item",
+  "score": 115.16,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "Effect",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Thick_Club",
+  "extract": "The Thick Club (Japanese: ふといホネ Thick Bone) is a type of held item introduced in Generation II. It boosts the Attack stat of a Cubone or Marowak that holds it.",
+  "updatedAt": 1774258411
+}

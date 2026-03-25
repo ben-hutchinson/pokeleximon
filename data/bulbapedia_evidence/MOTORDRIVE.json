@@ -1,0 +1,34 @@
+{
+  "answerKey": "MOTORDRIVE",
+  "answerDisplay": "MOTOR DRIVE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Motor Drive (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Motor_Drive_(Ability)",
+  "pageId": 17668,
+  "pageRevisionId": 4407474,
+  "leadText": "Motor Drive (Japanese: でんきエンジン Electric Engine) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Electivire.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with Motor Drive is hit by an Electric-type move , its Speed is increased by one stage, and the move will have no effect on that Pokémon. Multistrike moves that are turned into Electric-type moves, such as by being affected by Electrify or Galvanize , will only activate this Ability once. Motor Drive will not activate if the Pokémon is protected from the Electric-type move. If a Pokémon with Motor Drive is holding a Cell Battery , Motor Drive absorbs the move so the Cell Battery's effect is not triggered. Outside of battle [ edit | edit source ] Motor Drive has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with Motor Drive is hit by an Electric-type move , its Speed is increased by one stage, and the move will have no effect on that Pokémon. Multistrike moves that are turned into Electric-type moves, such as by being affected by Electrify or Galvanize , will only activate this Ability once. Motor Drive will not activate if the Pokémon is protected from the Electric-type move. If a Pokémon with Motor Drive is holding a Cell Battery , Motor Drive absorbs the move so the Cell Battery's effect is not triggered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Lets Pokémon avoid damage of Electric-type attacks, then boosts its Movement Speed. B S L でんきタイプの わざをうけると ダメージがなく いどうそくどが あがる Conq. Raises Speed if hit by an Electric-type move. MD GtI Electric-type moves increase Travel Speed instead of damaging the Pokémon. * Electric-type moves not work on the Pokémon, they will raise its Travel Speed! * S MD Electric-type moves don't work on the Pokémon, and they cause the Pokémon's Travel Speed to go up! MD RT DX The Pokémon absorbs Electric-type moves to raise its Travel Speed."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Motor-Drive",
+    "Motor Drive",
+    "Motor-Drive (Ability)"
+  ],
+  "updatedAt": 1774214578
+}

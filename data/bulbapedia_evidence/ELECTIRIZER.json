@@ -1,0 +1,37 @@
+{
+  "answerKey": "ELECTIRIZER",
+  "answerDisplay": "ELECTIRIZER",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Electirizer",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Electirizer",
+  "pageId": 19832,
+  "pageRevisionId": 4504926,
+  "leadText": "The Electirizer (Japanese: エレキブースター Elecbooster) is a type of held item introduced in Generation IV. It allows Electabuzz to evolve into Electivire when traded while holding it.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Held item [ edit | edit source ] Causes Electabuzz to evolve into Electivire when traded while holding it. This consumes the Electirizer. In Pokémon Legends: Arceus , due to the absence of held items, the Electirizer simply needs to be used on Electabuzz to trigger the Evolution, which consumes the item."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If the player offers both a Link Cable and Electirizer at Luminous Spring , Electabuzz can be evolved into Electivire . This consumes the Link Cable and Electirizer. If thrown, it will deal 1 damage (2 if sticky ). Using this item in a dungeon will consume it, with no effect."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon. X Y OR AS S M US UM P E Sw Sh BD SP LA S V A box packed with a tremendous amount of electric energy. It's loved by a certain Pokémon."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S A box full of a massive amount of electric energy. It allows a certain kind of Pokémon to evolve."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Electirizer",
+    "Electirizer (item)"
+  ],
+  "updatedAt": 1773322505
+}

@@ -1,0 +1,30 @@
+{
+  "answerKey": "VICTORYDANCE",
+  "answerDisplay": "VICTORY DANCE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Victory Dance (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Victory_Dance_(move)",
+  "pageId": 268104,
+  "pageRevisionId": 4446845,
+  "leadText": "Victory Dance (Japanese: しょうりのまい Victory Dance) is a non-damaging Fighting-type move introduced during Generation VIII, in Pokémon Legends: Arceus. It is the signature move of Hisuian Lilligant. It can be thought of as a physical-oriented counterpart to Quiver Dance.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Victory Dance raises the user's offensive and defensive stats, in addition to giving a 50% boost to the damage dealt by the user's moves. Pokémon Legends: Arceus Category Status PP 10 Agile Strong Power — — — Accuracy —% —% —% Action speed modifier Self -2 -3 +5 Target ? ? ? Additional effect Turns 4 3 5 ? ? ? ? Raises the user's offensive and defensive stats The user becomes primed Raises the user's action speed Generation IX [ edit | edit source ] Victory Dance raises the user's Attack , Defense , and Speed stats by one stage each."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA The user performs a dance to usher in victory. This raises the user’s offensive and defensive stats and increases the damage dealt by the user’s moves by 50 percent. S V The user performs an intense dance to usher in victory, boosting its Attack, Defense, and Speed stats."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Victory-Dance",
+    "Victory Dance",
+    "Victory-Dance (move)"
+  ],
+  "updatedAt": 1773328295
+}

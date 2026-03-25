@@ -1,0 +1,30 @@
+{
+  "answerKey": "PYROBALL",
+  "answerDisplay": "PYRO BALL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Pyro Ball (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Pyro_Ball_(move)",
+  "pageId": 244334,
+  "pageRevisionId": 4496025,
+  "leadText": "Pyro Ball (Japanese: かえんボール Flame Ball) is a damage-dealing Fire-type move introduced in Generation VIII. It is one of the signature moves of Cinderace.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Pyro Ball will thaw out the user if it is frozen , and then inflict damage on the target. Pyro Ball also has a 10% chance of burning the target. It has no effect on Pokémon with the Bulletproof Ability. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Pyro Ball cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V The user attacks by igniting a small stone and launching it as a fiery ball at the target. This may also leave the target with a burn. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Pyro-Ball",
+    "Pyro Ball",
+    "Pyro-Ball (move)"
+  ],
+  "updatedAt": 1773326143
+}

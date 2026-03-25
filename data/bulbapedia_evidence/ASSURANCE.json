@@ -1,0 +1,37 @@
+{
+  "answerKey": "ASSURANCE",
+  "answerDisplay": "ASSURANCE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Assurance (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Assurance_(move)",
+  "pageId": 60473,
+  "pageRevisionId": 4426918,
+  "leadText": "Assurance (Japanese: ダメおし Make Sure) is a damage-dealing Dark-type move introduced in Generation IV. It was TM58 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generations IV and V [ edit | edit source ] Assurance inflicts damage and will deal double damage if the target has already received damage on the turn it is used. This includes self-inflicted and indirect damage, such as damage from a Life Orb , recoil , crash damage , or hurting itself in confusion . Generation VI onwards [ edit | edit source ] Assurance's power changed from 50 to 60."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR If the foe has already taken some damage in the same turn, this attack's power is doubled. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA If the target has already taken some damage in the same turn, this attack's power is doubled. S V This move's power is doubled if the target has already taken some damage in the same turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. It will inflict double damage if the target's HP is down to half or lower. B S L てきポケモンに ダメージをあたえる あいての ＨＰが はんぶんいかの ときには ダメージが ２ばいになる Conq. If the target has already taken some damage in the same turn, this attack's power is doubled. MD GtI S MD MD RT DX It damages an enemy. It will cause more damage if the enemy's HP is down to half or lower."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The Japanese name of this move, ダメおし Dameoshi (Make Sure), if literally translated, can be read as \"useless push\", once the term dameoshi is the combination of the words ダメ dame (no good; useless; hopeless) and おし oshi (pushing). This might explain its move animations displaying hands pushing the target. In sumo wrestling, the term dameoshi refers to the act of pushing an opponent who was already defeated. This practice is not well regarded because it can cause serious injuries to a target who is unready once the result of the match has already been decided."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Assurance",
+    "Assurance (move)"
+  ],
+  "updatedAt": 1773320921
+}

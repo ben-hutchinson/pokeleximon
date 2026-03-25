@@ -1,0 +1,34 @@
+{
+  "answerKey": "FELLSTINGER",
+  "answerDisplay": "FELL STINGER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Fell Stinger (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fell_Stinger_(move)",
+  "pageId": 185029,
+  "pageRevisionId": 4504382,
+  "leadText": "Fell Stinger (Japanese: とどめばり Finishing Stinger) is a damage-dealing Bug-type move introduced in Generation VI.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VI [ edit | edit source ] Fell Stinger inflicts damage; if it causes the targeted Pokémon to faint, the user's Attack stat rises by two stages. Fell Stinger has a base power of 30 in Generation VI. Generation VII onwards [ edit | edit source ] Fell Stinger had its power increased to 50. It now raises the user's Attack stat by three stages if it causes the targeted Pokémon to faint."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS When the user knocks out a target with this move, the user's Attack stat rises sharply. S M US UM P E Sw Sh BD SP LA When the user knocks out a target with this move, the user's Attack stat rises drastically. S V When the user knocks out a target with this move, the user's Attack stat is boosted drastically."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It damages an enemy. Using this move to cause an enemy to faint will boost your Attack sharply. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fell-Stinger",
+    "Fell Stinger",
+    "Fell-Stinger (move)"
+  ],
+  "updatedAt": 1773322749
+}

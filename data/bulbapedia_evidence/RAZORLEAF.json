@@ -1,0 +1,38 @@
+{
+  "answerKey": "RAZORLEAF",
+  "answerDisplay": "RAZOR LEAF",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Razor Leaf (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Razor_Leaf_(move)",
+  "pageId": 3684,
+  "pageRevisionId": 4503703,
+  "leadText": "Razor Leaf (Japanese: はっぱカッター Leaf Cutter) is a damage-dealing Grass-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Razor Leaf deals damage and has an increased critical hit ratio. If used by a Pokémon with Sharpness , its power is increased by 50%. In battles with multiple opponents, Razor Leaf targets all adjacent foes. Razor Leaf's odds of landing critical hits is calculated for each hit opponent individually. Razor Leaf will also destroy grass patches found in the background of battles . Razor Leaf can be used as the second move of a Pokémon Contest combination , with the user gaining 3 bonus appeal points if Growth was used in the previous turn. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 55 66 Cooldown 6s Move wind-up time 15 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A Grass -type attack that sends sharp-edged leaves at the target. Likely to get a critical hit. Stad2 A Grass -type attack that uses sharp-edged leaves. Likely to get a critical hit. G S C Has a high critical hit ratio. R S E Colo XD Cuts the enemy with leaves. High critical-hit ratio. FR LG The foe is hit with a cutting leaf. It has a high critical-hit ratio. D P PBR A sharp-edged leaf is launched to slash at the foe. It has a high critical-hit ratio. Pt HG SS Sharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio. B W B2 W2 Sharp-edged leaves are launched to slash at the opposing team. Critical hits land more easily. X Y OR AS S M US UM P E Sharp-edged leaves are launched to slash at the opposing Pokémon. Critical hits land more easily. Sw Sh BD SP LA Sharp-edged leaves are launched to slash at opposing Pokémon. Critical hits land more easily. S V Sharp-edged leaves are launched to slash at opposing Pokémon. This move has a heightened chance of landing a critical hit. ZA The user attacks by launching leaves to slice up targets. This move has a heightened chance of landing a critical hit."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target, even at a distance. It has a high critical-hit rate. B S L はなれたポケモンに ダメージをあたえる きゅうしょに あたりやすい Conq. A sharp-edged leaf is launched to slash at the target. It has a high critical-hit ratio. MD GtI It damages even a faraway Pokémon. It has a high critical-hit rate. S MD MD RT DX It damages a Pokémon, even one far away. It has a high critical-hit rate."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Razor Leaf is among the three attacks enhanced into \"new\" moves in the Pokémon Adventures manga, the others being Thunderbolt and Thunder . It also has the longest name of a \"move\" in any media, being titled by Diamond as \"Razor Leaf Dia Special Mach One and Only.\" During Pokémon the Series: Ruby and Sapphire , the Finnish and Latin American dubs , probably by mistake, used the same translated name for both Razor Leaf and Leaf Blade , even though the translation fits more accurately on the latter and the original series had already used a different, arguably better-suiting, translation of the first. A similar thing happens in the Brazilian Portuguese dub, with Razor Leaf's and Leaf Blade's names coinciding from Clamperl of Wisdom to From Cradle to Save . It is unknown why this happened in the first place, as Leaf Blade was known as Lâmina de Folha up to The Garden of Eatin' ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Razor-Leaf",
+    "Razor Leaf",
+    "Razor-Leaf (move)"
+  ],
+  "updatedAt": 1773326278
+}

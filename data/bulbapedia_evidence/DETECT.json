@@ -1,0 +1,37 @@
+{
+  "answerKey": "DETECT",
+  "answerDisplay": "DETECT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Detect (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Detect_(move)",
+  "pageId": 3808,
+  "pageRevisionId": 4483654,
+  "leadText": "Detect (Japanese: みきり All-Seeing) is a non-damaging Fighting-type move introduced in Generation II. It is TM43 in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III 1.3 Generation IV onwards 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Main article: Protection Detect protects the user from all effects of moves that target it during the turn it is used, including damage. This does not include damage at the end of a turn such as from weather or a status condition . Detect is an increased priority move that will go before most attacks in a turn. If the user goes last in the turn, the move will fail. The chance that Detect will succeed also drops each time the user successfully and consecutively uses Endure , any protection move that only affects the user , Quick Guard , or Wide Guard . Gen II Gen III Gen IV Gen V Gen VI Gen VII Gen VIII Gen IX Success rate Times ½ after each use ✔ ✔ Times ½ after each use (lowest: 1/8) ✔ bug ✔ Times 1 / 3 after each use ✔ ✔ ✔ ✔ Priority +3 ✔ ✔ ✔ +4 ✔ ✔ ✔ ✔ ✔ Some moves will do damage through Detect . Most damaging Z-Moves and Max Moves will only do 25% of their original damage, except G-Max One Blow and G-Max Rapid Flow which do full damage. Moves that break protection , like Feint , will do their full damage and remove the effects of Detect. The Ability Unseen Fist allows contact moves to bypass Detect. Status moves that are unaffected by Detect are listed here . Generally, moves that target the user , moves that target the user and all allies , moves that target all Pokémon (except Shadow Shed and Shadow Half ), and entry hazard moves cannot be blocked by Detect. Generation II [ edit | edit source ] In this generation only, Detect will fail if the user is behind a substitute . Generation III [ edit | edit source ] In this generation only, the success rate is meant to have a lower bound of 1/8, but a bug causes it to become erratic afterwards instead. Detect can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Taunt was used in the previous turn. Generation IV onwards [ edit | edit source ] In Diamond and Pearl only, due to a bug , if an attack is given perfect accuracy through the effect of a move ( Lock-On / Mind Reader ), the weather ( Thunder in rain or Blizzard in hail ), or an Ability ( No Guard ), it ignores protection with inverted accuracy. OHKO moves are unaffected and will not hit through protection. This bug was fixed in Platinum. If powered up by a Fightinium Z into Z-Detect, the user's evasion rises one stage. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Detect is functionally identical to Protect , with the difference being a slightly shorter cooldown and duration. The user briefly shields itself from all damage and the effects of moves aimed at and around it for 18 frames (0.6 seconds). Damaging Plus Moves will deal 25% of their normal damage through Detect. Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 13s 10s Move wind-up time 0 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 Allows user to completely evade attack. If used consecutively, its success rate decreases. G S C Evades attack that turn. It may fail. R S E Colo XD Evades attack, but may fail if used in succession. FR LG Enables the user to evade all attacks. It may fail if used in succession. D P Pt HG SS PBR B W B2 W2 It enables the user to evade all attacks. Its chance of failing rises if it is used in succession. X Y OR AS S M US UM P E Enables the user to evade all attacks. Its chance of failing rises if it is used in succession. Sw Sh BD SP LA S V This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession. ZA The user takes on a protective stance that prevents incoming attacks from landing."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Protect status, preventing damage from enemy attacks and moves. MD T D S Gives the user a Protect status. A Pokémon with the Protect status doesn't take damage from enemy attacks and moves and is also protected from the effects of moves. B S L じぶんを まもりじょうたいにかえる まもりじょうたいになると てきのこうげきや わざのこうかを うけない MD GtI You'll get the Protect status, which enables you to evade enemies' attacks and move effects. Its chance of failing rises if you use it multiple times in a row. S MD You'll protect yourself and evade enemies' attacks and move effects. But its chance of failure rises if you use it after you use a move that evades enemies' attacks."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation II , after the appearance of the \"[Pokémon's name] Protecting itself!\" message, another message saying that the opponent's Pokémon's move missed appears. The second message was removed in Generation III ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Detect",
+    "Detect (move)"
+  ],
+  "updatedAt": 1773322117
+}

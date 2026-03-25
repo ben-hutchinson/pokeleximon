@@ -1,0 +1,34 @@
+{
+  "answerKey": "HYDROSTEAM",
+  "answerDisplay": "HYDRO STEAM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Hydro Steam (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Hydro_Steam_(move)",
+  "pageId": 281864,
+  "pageRevisionId": 4403658,
+  "leadText": "Hydro Steam (Japanese: ハイドロスチーム Hydro Steam) is a damage-dealing Water-type move introduced during Generation IX. It is the signature move of Walking Wake.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Hydro Steam inflicts damage. If used under harsh sunlight , it receives a 50% damage boost, unlike all other Water-type moves, which would receive a 50% damage reduction in harsh sunlight instead. If used by a Pokémon holding a Utility Umbrella during harsh sunlight, it does not receive the 50% damage boost, instead being affected by the standard 50% damage reduction for Water-type moves."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user blasts the target with boiling-hot water. This move's power is not lowered in harsh sunlight but rather boosted by 50 percent."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Hydro Steam is the only non- Fire-type move to benefit from a power boost from harsh sunlight ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Hydro-Steam",
+    "Hydro Steam",
+    "Hydro-Steam (move)"
+  ],
+  "updatedAt": 1773323753
+}

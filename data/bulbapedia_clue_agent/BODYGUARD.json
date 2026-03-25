@@ -1,0 +1,61 @@
+{
+  "answerKey": "BODYGUARD",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4403544,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "The BodyGuard Theme Deck from the Fossil expansion of the Pokemon Trading Card Game predominantly focuses on Grass-type and Fighting-type Pokemon. Each Theme Deck is packaged with a 60-card deck, damage counters, a custom coin, a rulebook, and a card list.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "protective trait",
+        "evidence_ref": "title",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Protective trait",
+        "evidence_ref": "title",
+        "mystery_score": 0.68,
+        "specificity_score": 0.72,
+        "style": "title"
+      },
+      {
+        "text": "Protective ability",
+        "evidence_ref": "title",
+        "mystery_score": 0.64,
+        "specificity_score": 0.7,
+        "style": "title"
+      },
+      {
+        "text": "Protective power",
+        "evidence_ref": "title",
+        "mystery_score": 0.6,
+        "specificity_score": 0.68,
+        "style": "title"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "protective trait"
+    ],
+    "connections_descriptors": [
+      "Protective abilities",
+      "Gen V abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257930
+}

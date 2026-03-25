@@ -1,0 +1,34 @@
+{
+  "answerKey": "BOUNCYBUBBLE",
+  "answerDisplay": "BOUNCY BUBBLE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Bouncy Bubble (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bouncy_Bubble_(move)",
+  "pageId": 232100,
+  "pageRevisionId": 4394785,
+  "leadText": "Bouncy Bubble (Japanese: いきいきバブル Lively Bubble) is a damage-dealing Water-type move introduced during Generation VII, in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. It is one of the signature moves of the partner Eevee.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VII [ edit | edit source ] Bouncy Bubble deals damage and 50% of the damage dealt to the target is restored to the user. Generation VIII onwards [ edit | edit source ] Bouncy Bubble cannot be selected in a battle. However, it has been modified: its PP was changed to 20, its power was changed to 60, and 100% of the damage dealt to the target is restored to the user. The move would be unusable if the user is under the Heal Block status."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description P E The user attacks by shooting water bubbles at the target. It then absorbs water and restores its HP by half the damage taken by the target. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Bouncy Bubble is the only Water-type HP-draining move . Of all damage-dealing moves, Bouncy Bubble is tied with Quick Attack for most variations in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee! , with eight including itself."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Bouncy-Bubble",
+    "Bouncy Bubble",
+    "Bouncy-Bubble (move)"
+  ],
+  "updatedAt": 1773321312
+}

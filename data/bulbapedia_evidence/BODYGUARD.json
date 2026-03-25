@@ -1,0 +1,29 @@
+{
+  "answerKey": "BODYGUARD",
+  "answerDisplay": "BODYGUARD",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "BodyGuard (TCG)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/BodyGuard_(TCG)",
+  "pageId": 12131,
+  "pageRevisionId": 4403544,
+  "leadText": "The BodyGuard Theme Deck from the Fossil expansion of the Pokémon Trading Card Game predominantly focuses on Grass-type and Fighting-type Pokémon. Each Theme Deck is packaged with a 60-card deck, damage counters, a custom coin, a rulebook, and a card list.",
+  "sections": [
+    {
+      "title": "Blurb",
+      "text": "Blurb [ edit | edit source ] The \"BodyGuard\" deck is bursting with tough Pokémon who can take any punishment that comes their way."
+    },
+    {
+      "title": "Deck list",
+      "text": "Deck list [ edit | edit source ] Quantity Card Type Rarity 1× Muk 3× Geodude 2× Graveler 4× Grimer 4× Zubat 2× Golbat 1× Onix 2× Bulbasaur 4× Koffing 4× Potion T 2× Professor Oak T 1× Pokémon Center T 2× Super Potion T 16× Grass Energy E — 12× Fighting Energy E —"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Bodyguard",
+    "Bodyguard (Ability)"
+  ],
+  "updatedAt": 1774213700
+}

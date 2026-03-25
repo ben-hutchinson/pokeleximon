@@ -1,0 +1,17 @@
+{
+  "answerKey": "SHROODLE",
+  "answerDisplay": "SHROODLE",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Poison / Normal type Pokémon introduced in Generation 9.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/shroodle",
+  "extract": "Shroodle is a Poison / Normal type Pokémon introduced in Generation 9 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212845
+}

@@ -1,0 +1,17 @@
+{
+  "answerKey": "DRAGONSMAW",
+  "answerDisplay": "DRAGONS MAW",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "Details on the Pokémon ability, Dragon.",
+  "score": 57.88,
+  "approved": false,
+  "qualityFlags": [
+    "near_verbatim_source"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/ability/dragons-maw",
+  "extract": "Details on the Pokémon ability, Dragon",
+  "rankPosition": 1,
+  "updatedAt": 1774211068
+}

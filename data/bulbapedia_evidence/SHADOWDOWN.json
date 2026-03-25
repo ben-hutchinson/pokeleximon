@@ -1,0 +1,30 @@
+{
+  "answerKey": "SHADOWDOWN",
+  "answerDisplay": "SHADOW DOWN",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Down (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Down_(move)",
+  "pageId": 9588,
+  "pageRevisionId": 4309720,
+  "leadText": "Shadow Down (Japanese: ダークダウン Dark Down) is one of several Shadow moves available only in Pokémon XD: Gale of Darkness. Like other Shadow moves, it is forgotten and replaced with another move once the Pokémon is purified.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Shadow Down is a Shadow version of Screech . It lowers the Defense of both opponents by two stages each. As Shadow Pokémon cannot be traded, and since Pokémon Contests do not exist in Pokémon XD: Gale of Darkness, Shadow Down cannot be used in Contests."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description XD A shadowy aura sharply cuts the foe's Defense."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Down",
+    "Shadow Down",
+    "Shadow-Down (move)"
+  ],
+  "updatedAt": 1773326833
+}

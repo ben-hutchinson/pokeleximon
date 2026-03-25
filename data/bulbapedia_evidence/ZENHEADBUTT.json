@@ -1,0 +1,34 @@
+{
+  "answerKey": "ZENHEADBUTT",
+  "answerDisplay": "ZEN HEADBUTT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Zen Headbutt (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Zen_Headbutt_(move)",
+  "pageId": 16172,
+  "pageRevisionId": 4501612,
+  "leadText": "Zen Headbutt (Japanese: しねんのずつき Thought Headbutt) is a damage-dealing Psychic-type move introduced in Generation IV. It was TR69 in Pokémon Sword and Shield, and is TM059 in Generation IX.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Zen Headbutt inflicts damage and has a 20% chance of causing the target to flinch . Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Zen Headbutt's PP has been lowered to 10, and it lowers the target's action speed. Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 80 60 100 Accuracy 90% 90% 100% Action speed modifier Self 0 0 +5 Target +3 +5 +3 Additional effect ? ? ? ? ? ? Lowers the target's action speed Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 80 96 Cooldown 8s Move wind-up time 15 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user focuses its willpower to its head and rams the foe. It may also make the target flinch. B W B2 W2 The user focuses its willpower to its head and attacks the target. It may also make the target flinch. X Y OR AS S M US UM P E Sw Sh BD SP S V The user focuses its willpower to its head and attacks the target. This may also make the target flinch. LA The user focuses its willpower to its head and attacks the target. ZA The user attacks by focusing all its willpower into a fierce headbutt. This may also make targets flinch."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Cringe status condition, making its actions fail. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで ひるみじょうたいにして わざや こうげきを だせなくする MD GtI It damages an enemy. It could also cause the Cringe status condition, which makes the enemy unable to attack or use moves. S MD It damages an enemy. It could also cause the enemy to flinch."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Zen-Headbutt",
+    "Zen Headbutt",
+    "Zen-Headbutt (move)"
+  ],
+  "updatedAt": 1773328689
+}

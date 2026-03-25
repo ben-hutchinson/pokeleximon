@@ -1,0 +1,38 @@
+{
+  "answerKey": "BEATUP",
+  "answerDisplay": "BEAT UP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Beat Up (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Beat_Up_(move)",
+  "pageId": 3862,
+  "pageRevisionId": 4500959,
+  "leadText": "If you were looking for the Pokémon Trading Card Game deck archetypes, see Beat Up (TCG). Beat Up (Japanese: ふくろだたき Gang Up) is a damage-dealing Dark-type multistrike move introduced in Generation II. Prior to Generation IV, it was the signature move of Sneasel, but other Pokémon could still inherit it via breeding. It was TM37 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generations III and IV 1.3 Generation V onwards Effect [ edit | edit source ] Generation II [ edit | edit source ] Beat Up inflicts damage on the target from the user and from each conscious Pokémon in the user's party that does not have a non-volatile status . Each strike is typeless and has a base power of 10; damage is determined using each attacking Pokémon's base Attack and level and the target's base Defense . Beat Up ignores changes to stat levels such as Swords Dance . Same-type attack bonus is not considered when calculating damage. Each strike is preceded with the message \" 's Attack! \", where is the name of the Pokémon in the player's party. Each strike has an independent chance of being a critical hit. King's Rock has its chance of activation based on the last strike alone. Despite Dark-type moves being special prior to Generation IV , Beat Up activates Counter but not Mirror Coat . Generations III and IV [ edit | edit source ] If a Pokémon uses Beat Up on its partner in a Double Battle , the partner will attack itself (unless it suffers from a status ailment). If Beat Up activates a target's Focus Sash , no subsequent hits can knock it out. Beat Up ignores Wonder Guard , as it is considered a typeless attack. The Sniper Ability does not affect critical hits. Each strike now has an independent chance of activating a King's Rock or Razor Fang . Beat Up cannot receive boost from Technician . Generation V onwards [ edit | edit source ] Instead of using each party member's Attack stat, the user's Attack alone is used to calculate the damage of each strike. Because of this, Beat Up is now affected by boosts like from Swords Dance and Attack-boosting items like Choice Band . Furthermore, the base power per strike is no longer 10, but instead individually based on the Attack base stats of the party Pokémon: B a s e P o w e r = B a s e A t t a c k P a r t y M e m b e r 1 0 + 5 Beat Up now receives STAB from Dark-type users, no longer dealing typeless damage, and is affected by Technician. Beat Up no longer lists the individual attackers' names. Each strike will activate Justified , Weak Armor and Stamina . If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokémon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokémon has a maximum HP of 1. Each strike has an independent chance of activating Stench , but this does not stack with the Razor Fang or King's Rock ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A Dark -type attack. The user's fellow party Pok é mon appear to pummel the target. G S C Party Pok é mon join in the attack. R S E Colo XD Summons party Pok é mon to join in the attack. FR LG All party Pok é mon join in the attack. The more allies, the more damage. D P Pt HG SS PBR The user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Summons the team members around the user. MD T D S Summons the team members from the floor to surround the user. B S L なかまの ポケモンたちを じぶんの まわりに よびよせる MD GtI UNUSED S MD It warps all your teammates to your side. MD RT DX It warps all your teammates close to the targeted enemy."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Beat Up is the last Generation II move in index number order . Beat Up is the only move whose base power is determined by base stats . Beat Up is the only Dark-type multistrike move ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Beat-Up",
+    "Beat Up",
+    "Beat-Up (move)"
+  ],
+  "updatedAt": 1773321087
+}

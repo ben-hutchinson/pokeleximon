@@ -1,0 +1,133 @@
+{
+  "answerKey": "CONTRARY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4479125,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Contrary (Japanese: Amanojaku) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD GtI Unavailable S MD It reverses changes in the Pokemon's stats such as Attack and Travel Speed!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation V 1.1.2 Generation VI 1.1.3 Generation VII 1.1.4 Generation VIII 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation V [ edit | edit source ] This Ability inverts all changes to the stat stages of a Pokemon with this Ability; if an effect would lower a stat, it is increased instead, and if an effect would increase a stat, it is decreased instead. Effects that change a Pokemon's stats without affecting stat stages, such as Guts and paralysis , are not affected by Contrary. This also applies to self-inflicted changes, such as Curse and Leaf Storm . This Ability only inverts the changes when they are applied; it does not passively cause all existing changes to reverse; therefore, if the Ability Contrary is no longer in effect or the stats are passed by Baton Pass , all existing stat stage changes remain the same. Stats passed by Baton Pass onto a Pokemon with Contrary are not reversed. Mist (including from Guard Spec. ) takes into account Contrary's inversion before determining whether to block the stat change. For example, if a Pokemon with Contrary is targeted by String Shot while protected by Mist, it will gain Speed; if a Pokemon with Contrary is targeted by Swagger while protected by Mist, its Attack will not be changed. If a Pokemon with Contrary uses Belly Drum , its Attack will be lowered to -6 stages (although the message will still say that the user maximized its Attack); if the user's Attack is already at -6 stages, Belly Drum will still deduct HP. Even if the user has Contrary, Belly Drum fails if the user's Attack is already at +6. If a move used by a Pokemon with Mold Breaker , Teravolt , or Turboblaze would change a stat stage of a Pokemon with Contrary, the change will not be inverted. Generation VI [ edit | edit source ] Flower Veil takes into account Contrary's inversion before determining whether to block the stat change. Stat boosts granted by O-Powers used by other players are still inverted. Generation VII [ edit | edit source ] Stat stage increases caused by the Z-Power effects of status Z-Moves are not inverted by Contrary. However, the stat stage increases as a result of Extreme Evoboost and Clangorous Soulblaze are inverted. If a target with Contrary is affected by Strength Sap , even if its Attack stat is at +6 stages, Strength Sap will restore the user's HP by up to the target's effective Attack stat value at +5 stages. Generation VIII [ edit | edit source ] If a Pokemon with Contrary is hit with a Max Move that would lower stats, or uses a Max Move that would raise stats, the change will be inverted, but the message describing the stat change will not be displayed. Outside of battle [ edit | edit source ] Contrary has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "Contents 1 In battle 1.1 Generation V 1.2 Generation VI 1.3 Generation VII 1.4 Generation VIII In battle [ edit | edit source ] Generation V [ edit | edit source ] This Ability inverts all changes to the stat stages of a Pokemon with this Ability; if an effect would lower a stat, it is increased instead, and if an effect would increase a stat, it is decreased instead. Effects that change a Pokemon's stats without affecting stat stages, such as Guts and paralysis , are not affected by Contrary. This also applies to self-inflicted changes, such as Curse and Leaf Storm . This Ability only inverts the changes when they are applied; it does not passively cause all existing changes to reverse; therefore, if the Ability Contrary is no longer in effect or the stats are passed by Baton Pass , all existing stat stage changes remain the same. Stats passed by Baton Pass onto a Pokemon with Contrary are not reversed. Mist (including from Guard Spec. ) takes into account Contrary's inversion before determining whether to block the stat change. For example, if a Pokemon with Contrary is targeted by String Shot while protected by Mist, it will gain Speed; if a Pokemon with Contrary is targeted by Swagger while protected by Mist, its Attack will not be changed. If a Pokemon with Contrary uses Belly Drum , its Attack will be lowered to -6 stages (although the message will still say that the user maximized its Attack); if the user's Attack is already at -6 stages, Belly Drum will still deduct HP. Even if the user has Contrary, Belly Drum fails if the user's Attack is already at +6. If a move used by a Pokemon with Mold Breaker , Teravolt , or Turboblaze would change a stat stage of a Pokemon with Contrary, the change will not be inverted. Generation VI [ edit | edit source ] Flower Veil takes into account Contrary's inversion before determining whether to block the stat change. Stat boosts granted by O-Powers used by other players are still inverted. Generation VII [ edit | edit source ] Stat stage increases caused by the Z-Power effects of status Z-Moves are not inverted by Contrary. However, the stat stage increases as a result of Extreme Evoboost and Clangorous Soulblaze are inverted. If a target with Contrary is affected by Strength Sap , even if its Attack stat is at +6 stages, Strength Sap will restore the user's HP by up to the target's effective Attack stat value at +5 stages. Generation VIII [ edit | edit source ] If a Pokemon with Contrary is hit with a Max Move that would lower stats, or uses a Max Move that would raise stats, the change will be inverted, but the message describing the stat change will not be displayed.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Inverts stat changes.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "healing ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "paralyzing ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "boosting ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "debuffing ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "protective ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "healing ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "paralyzing ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "boosting ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "debuffing ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "protective ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Healing abilities",
+      "Paralyzing abilities",
+      "Boosting abilities",
+      "Debuffing abilities",
+      "Protective abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257936
+}

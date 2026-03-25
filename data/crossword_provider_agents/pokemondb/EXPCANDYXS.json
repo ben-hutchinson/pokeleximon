@@ -1,0 +1,17 @@
+{
+  "answerKey": "EXPCANDYXS",
+  "answerDisplay": "EXP CANDY XS",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this item this item, including added effects and where to find it.",
+  "score": 92.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/item/exp-candy-xs",
+  "extract": "Candy XS, including added effects and where to find it.",
+  "rankPosition": 1,
+  "updatedAt": 1774211203
+}

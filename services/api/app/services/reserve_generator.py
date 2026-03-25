@@ -1,12 +1,11 @@
 from __future__ import annotations
 
 import csv
+import hashlib
 import json
 import os
 import random
 import re
-import urllib.error
-import urllib.request
 from datetime import date as date_type
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -23,24 +22,12 @@ from app.core.cache import get_cache
 from app.core.db import get_db
 from app.services.alerting import notify_external_alert
 from app.services.artifact_store import write_json_artifact
-from app.services.cryptic_runtime import (
-    build_ranked_candidates,
-    build_cryptic_lexicon,
-    dumps_lexicon,
-    is_ranked_candidate_publishable,
-    loads_lexicon,
-    select_ranked_candidate,
-)
-from app.services.cryptic_ranker import get_active_cryptic_model
 from app.services.puzzle_quality import evaluate_crossword_publishability
 
 
-POKEAPI_BASE = "https://pokeapi.co/api/v2"
 GENERATOR_VERSION = "reserve-generator-0.3"
 ANSWER_RE = re.compile(r"[^A-Z]")
 ANSWER_PART_RE = re.compile(r"[A-Z0-9]+")
-CRYPTIC_LEXICON_CACHE_KEY = "cryptic:lexicon:v1"
-CRYPTIC_LEXICON_TTL_SECONDS = 60 * 60 * 24
 QUALITY_RETRY_SEED_DELTA = 9973
 MAX_CROSSWORD_QUALITY_ATTEMPTS = 8
 DISALLOWED_CLUE_PATTERNS = (
@@ -57,8 +44,16 @@ DISALLOWED_CLUE_PATTERNS = (
     re.compile(r"(?i)\bpok[eé]mon term from pokeapi data\b"),
     re.compile(r"(?i)^location:\s*region\b"),
     re.compile(r"(?i)\b(type|ability|location) entry\b"),
+    re.compile(r"(?i)^core[- ]series pok[eé]mon .*answer uses \d+ word"),
+    re.compile(r"(?i)^pok[eé]mon .* clue with initials [A-Z]+ and \d+ total letters"),
+    re.compile(r"(?i)^pok[eé]mon .* clue: ending letters"),
+    re.compile(r"(?i)^pok[eé]mon .* entry with enumeration"),
+    re.compile(r"(?i)\bvowels\s+\d+\s*,\s*consonants\s+\d+\b"),
+    re.compile(r"(?i)\b\d+\s+total letters\b"),
+    re.compile(r"(?i)\bwith \d+ words? and \d+ letters\b"),
     re.compile(r"[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff]"),
 )
+CLUE_COLUMN_RE = re.compile(r"^clue\s*(\d+)$")
 
 
 class QualityGateError(RuntimeError):
@@ -107,6 +102,28 @@ def _resolve_crossword_csv_path() -> Path:
 
 
 CROSSWORD_CSV_PATH = _resolve_crossword_csv_path()
+
+
+def _resolve_cryptic_lexicon_path() -> Path:
+    override = os.getenv("CRYPTIC_CLUES_PATH") or os.getenv("CRYPTIC_CSV_PATH")
+    if override:
+        return Path(override)
+    here = Path(__file__).resolve()
+    for parent in here.parents:
+        json_candidate = parent / "cryptic_clues.json"
+        if json_candidate.exists():
+            return json_candidate
+        csv_candidate = parent / "data" / "wordlist_cryptic_answer_clue.csv"
+        if csv_candidate.exists():
+            return csv_candidate
+    bundled_json = Path("/app/cryptic_clues.json")
+    if bundled_json.exists():
+        return bundled_json
+    return Path("/app/data/wordlist_cryptic_answer_clue.csv")
+
+
+# Historical name kept for compatibility with existing tests and local overrides.
+CRYPTIC_CSV_PATH = _resolve_cryptic_lexicon_path()
 CONNECTIONS_DIFFICULTY_ORDER = ["yellow", "green", "blue", "purple"]
 CONNECTIONS_LABEL_RE = re.compile(r"[^A-Z0-9 ]")
 CONNECTIONS_WHITESPACE_RE = re.compile(r"\s+")
@@ -184,7 +201,11 @@ def _load_connections_rules() -> list[dict[str, Any]]:
         rule_id = str(row.get("id", "")).strip().lower()
         source_type = str(row.get("sourceType", "")).strip().lower()
         title = str(row.get("title", "")).strip() or source_type.title()
-        if not rule_id or not source_type or rule_id in seen_ids:
+        labels = row.get("labels")
+        has_explicit_labels = isinstance(labels, list) and len(labels) >= 4
+        if not rule_id or rule_id in seen_ids:
+            continue
+        if not source_type and not has_explicit_labels:
             continue
         seen_ids.add(rule_id)
         out.append(
@@ -192,6 +213,7 @@ def _load_connections_rules() -> list[dict[str, Any]]:
                 "id": rule_id,
                 "title": title,
                 "sourceType": source_type,
+                "labels": labels if has_explicit_labels else None,
                 "minLength": max(3, int(row.get("minLength", 4) or 4)),
                 "maxLength": min(24, max(4, int(row.get("maxLength", 14) or 14))),
             }
@@ -220,7 +242,9 @@ def _build_connections_pool_by_rule(
     pools: dict[str, set[str]] = {str(rule["id"]): set() for rule in rules}
     rule_by_source: dict[str, list[dict[str, Any]]] = {}
     for rule in rules:
-        rule_by_source.setdefault(str(rule["sourceType"]), []).append(rule)
+        source_type = str(rule.get("sourceType") or "").strip().lower()
+        if source_type:
+            rule_by_source.setdefault(source_type, []).append(rule)
 
     for row in corpus_rows:
         source_type = str(row.get("sourceType", "")).strip().lower()
@@ -234,6 +258,21 @@ def _build_connections_pool_by_rule(
             if len(normalized) < min_len or len(normalized) > max_len:
                 continue
             pools[str(rule["id"])].add(normalized)
+
+    for rule in rules:
+        explicit_labels = rule.get("labels")
+        if not isinstance(explicit_labels, list):
+            continue
+        bucket = pools.setdefault(str(rule["id"]), set())
+        min_len = int(rule.get("minLength", 4))
+        max_len = int(rule.get("maxLength", 14))
+        for label in explicit_labels:
+            normalized = _normalize_connections_label(str(label))
+            if not normalized or not _is_connections_label_allowed(normalized):
+                continue
+            if len(normalized) < min_len or len(normalized) > max_len:
+                continue
+            bucket.add(normalized)
 
     return {key: sorted(values) for key, values in pools.items()}
 
@@ -517,25 +556,6 @@ def _build_connections_puzzle_payload(
     return payload, best_report
 
 
-def _fetch_json(url: str, timeout: int = 20) -> dict[str, Any] | None:
-    req = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": "pokeleximon-reserve-generator/0.1",
-            "Accept": "application/json",
-        },
-    )
-    try:
-        with urllib.request.urlopen(req, timeout=timeout) as resp:
-            payload = resp.read()
-    except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError):
-        return None
-    try:
-        return json.loads(payload)
-    except json.JSONDecodeError:
-        return None
-
-
 def _normalize_answer(name: str) -> str:
     return ANSWER_RE.sub("", name.upper())
 
@@ -566,29 +586,6 @@ def _enumeration_from_display_answer(display_answer: str, normalized_answer: str
     return out
 
 
-def _load_cryptic_lexicon(per_source_limit: int = 500) -> list[dict[str, Any]]:
-    cache = None
-    try:
-        cache = get_cache()
-        cached_payload = cache.get(CRYPTIC_LEXICON_CACHE_KEY)
-        if cached_payload:
-            cached_entries = loads_lexicon(cached_payload)
-            if cached_entries:
-                return cached_entries
-    except RuntimeError:
-        cache = None
-
-    entries = build_cryptic_lexicon(
-        fetch_json=_fetch_json,
-        base_url=POKEAPI_BASE,
-        per_source_limit=per_source_limit,
-    )
-
-    if entries and cache:
-        cache.setex(CRYPTIC_LEXICON_CACHE_KEY, CRYPTIC_LEXICON_TTL_SECONDS, dumps_lexicon(entries))
-    return entries
-
-
 def _difficulty(answer_len: int) -> Literal["easy", "medium", "hard"]:
     if answer_len <= 6:
         return "easy"
@@ -616,6 +613,21 @@ def _clue_has_disallowed_content(clue: str) -> bool:
     return any(pattern.search(text) for pattern in DISALLOWED_CLUE_PATTERNS)
 
 
+def _csv_header_map(row: list[str]) -> dict[str, int]:
+    return {str(value or "").strip().lower().lstrip("\ufeff"): idx for idx, value in enumerate(row)}
+
+
+def _ordered_clue_column_indices(header_row: list[str]) -> list[int]:
+    ordered: list[tuple[int, int]] = []
+    for idx, value in enumerate(header_row):
+        key = str(value or "").strip().lower().lstrip("\ufeff")
+        match = CLUE_COLUMN_RE.match(key)
+        if match:
+            ordered.append((int(match.group(1)), idx))
+    ordered.sort()
+    return [idx for _, idx in ordered]
+
+
 def _load_crossword_csv_lexicon() -> list[dict[str, Any]]:
     if not CROSSWORD_CSV_PATH.exists():
         raise FileNotFoundError(f"Missing crossword CSV at {CROSSWORD_CSV_PATH}")
@@ -624,28 +636,47 @@ def _load_crossword_csv_lexicon() -> list[dict[str, Any]]:
     enumeration_by_answer: dict[str, str] = {}
     with CROSSWORD_CSV_PATH.open(newline="") as handle:
         reader = csv.reader(handle)
-        for row in reader:
+        first_row = next(reader, None)
+        if first_row is None:
+            raise RuntimeError("crossword_csv_empty")
+        header_map = _csv_header_map(first_row)
+        clue_column_indices = _ordered_clue_column_indices(first_row)
+        use_header = "answer" in header_map and (bool(clue_column_indices) or "clue" in header_map)
+        rows = reader if use_header else [first_row, *reader]
+        for row in rows:
             if len(row) < 2:
                 continue
-            raw_answer = _normalize_clue_whitespace(row[0]).upper()
+            raw_answer = _normalize_clue_whitespace(row[header_map["answer"]] if use_header else row[0]).upper()
             answer = _normalize_answer(raw_answer)
-            clue = _normalize_clue_whitespace(row[1])
-            if not answer or not clue:
+            if not answer:
                 continue
             if len(answer) < 4 or len(answer) > 15:
-                continue
-            if _clue_has_disallowed_content(clue):
                 continue
             enumeration = _enumeration_from_display_answer(raw_answer, answer)
             prior = enumeration_by_answer.get(answer)
             if prior is None or (("," in enumeration or "-" in enumeration) and "," not in prior and "-" not in prior):
                 enumeration_by_answer[answer] = enumeration
-            clue_key = re.sub(r"\s+", " ", clue).strip().upper()
+            candidate_clues: list[str] = []
+            if use_header and clue_column_indices:
+                for clue_idx in clue_column_indices:
+                    if clue_idx >= len(row):
+                        continue
+                    clue = _normalize_clue_whitespace(row[clue_idx])
+                    if clue:
+                        candidate_clues.append(clue)
+            else:
+                clue = _normalize_clue_whitespace(row[header_map["clue"]] if use_header else row[1])
+                if clue:
+                    candidate_clues.append(clue)
             seen_keys = clue_keys_by_answer.setdefault(answer, set())
-            if clue_key in seen_keys:
-                continue
-            seen_keys.add(clue_key)
-            clues_by_answer.setdefault(answer, []).append(clue)
+            for clue in candidate_clues:
+                if _clue_has_disallowed_content(clue):
+                    continue
+                clue_key = re.sub(r"\s+", " ", clue).strip().upper()
+                if clue_key in seen_keys:
+                    continue
+                seen_keys.add(clue_key)
+                clues_by_answer.setdefault(answer, []).append(clue)
     entries: list[dict[str, Any]] = []
     for answer in sorted(clues_by_answer.keys()):
         clues = clues_by_answer[answer]
@@ -663,10 +694,223 @@ def _load_crossword_csv_lexicon() -> list[dict[str, Any]]:
     return entries
 
 
+def _load_cryptic_json_lexicon(path: Path) -> list[dict[str, Any]]:
+    try:
+        loaded = json.loads(path.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError) as exc:
+        raise RuntimeError(f"cryptic_json_invalid:{path}") from exc
+
+    if not isinstance(loaded, list):
+        raise RuntimeError("cryptic_json_invalid")
+
+    entries_by_answer: dict[str, dict[str, Any]] = {}
+    clue_keys_by_answer: dict[str, set[str]] = {}
+    for row in loaded:
+        if not isinstance(row, dict):
+            continue
+
+        raw_answer = _normalize_clue_whitespace(str(row.get("answer") or row.get("display_answer") or "")).upper()
+        if not raw_answer:
+            continue
+
+        answer_key = _normalize_answer(raw_answer)
+        if not answer_key or len(answer_key) < 4 or len(answer_key) > 15:
+            continue
+
+        display_answer = _normalize_clue_whitespace(str(row.get("display_answer") or raw_answer)).upper()
+        enumeration = _normalize_clue_whitespace(str(row.get("enumeration") or "")) or _enumeration_from_display_answer(
+            display_answer,
+            answer_key,
+        )
+        source_ref = (
+            _normalize_clue_whitespace(str(row.get("source_ref") or "")) or f"json://{path.name}#{answer_key}"
+        )
+        source_type = _normalize_clue_whitespace(str(row.get("source_type") or "")) or "manual-curated"
+
+        entry = entries_by_answer.setdefault(
+            answer_key,
+            {
+                "answer": answer_key,
+                "display_name": display_answer,
+                "enumeration": enumeration,
+                "source_ref": source_ref,
+                "source_type": source_type,
+                "clues": [],
+            },
+        )
+        existing_enumeration = str(entry.get("enumeration", "")).strip()
+        if ("," in enumeration or "-" in enumeration) and "," not in existing_enumeration and "-" not in existing_enumeration:
+            entry["enumeration"] = enumeration
+
+        raw_clues = row.get("clues")
+        candidate_clues: list[dict[str, Any]] = []
+        if isinstance(raw_clues, list):
+            for clue_row in raw_clues:
+                if isinstance(clue_row, dict):
+                    clue_text = _normalize_clue_whitespace(str(clue_row.get("clue", "")))
+                    if not clue_text:
+                        continue
+                    candidate_clues.append(
+                        {
+                            "clue": clue_text,
+                            "mechanism": str(clue_row.get("mechanism", row.get("mechanism", "manual")) or "manual").strip().lower(),
+                            "wordplay_plan": _normalize_clue_whitespace(
+                                str(clue_row.get("wordplay_plan", row.get("wordplay_plan", "")) or "")
+                            ),
+                            "wordplay_metadata": (
+                                clue_row.get("wordplay_metadata", {})
+                                if isinstance(clue_row.get("wordplay_metadata"), dict)
+                                else {}
+                            ),
+                        }
+                    )
+                    continue
+                clue_text = _normalize_clue_whitespace(str(clue_row))
+                if clue_text:
+                    candidate_clues.append(
+                        {
+                            "clue": clue_text,
+                            "mechanism": str(row.get("mechanism", "manual") or "manual").strip().lower(),
+                            "wordplay_plan": _normalize_clue_whitespace(str(row.get("wordplay_plan", "") or "")),
+                            "wordplay_metadata": {},
+                        }
+                    )
+        else:
+            clue_text = _normalize_clue_whitespace(str(row.get("clue", "")))
+            if clue_text:
+                candidate_clues.append(
+                    {
+                        "clue": clue_text,
+                        "mechanism": str(row.get("mechanism", "manual") or "manual").strip().lower(),
+                        "wordplay_plan": _normalize_clue_whitespace(str(row.get("wordplay_plan", "") or "")),
+                        "wordplay_metadata": row.get("wordplay_metadata", {}) if isinstance(row.get("wordplay_metadata"), dict) else {},
+                    }
+                )
+
+        seen_keys = clue_keys_by_answer.setdefault(answer_key, set())
+        for clue_row in candidate_clues:
+            clue = str(clue_row.get("clue", "")).strip()
+            if _clue_has_disallowed_content(clue):
+                continue
+            clue_key = re.sub(r"\s+", " ", clue).strip().upper()
+            if clue_key in seen_keys:
+                continue
+            seen_keys.add(clue_key)
+            entry["clues"].append(clue_row)
+
+    entries = [entries_by_answer[key] for key in sorted(entries_by_answer.keys()) if entries_by_answer[key]["clues"]]
+    if not entries:
+        raise RuntimeError("cryptic_json_empty")
+    return entries
+
+
+def _load_cryptic_csv_lexicon() -> list[dict[str, Any]]:
+    if not CRYPTIC_CSV_PATH.exists():
+        raise FileNotFoundError(f"Missing cryptic lexicon at {CRYPTIC_CSV_PATH}")
+    if CRYPTIC_CSV_PATH.suffix.lower() == ".json":
+        return _load_cryptic_json_lexicon(CRYPTIC_CSV_PATH)
+
+    entries_by_answer: dict[str, dict[str, Any]] = {}
+    clue_keys_by_answer: dict[str, set[str]] = {}
+    with CRYPTIC_CSV_PATH.open(newline="") as handle:
+        reader = csv.reader(handle)
+        first_row = next(reader, None)
+        if first_row is None:
+            raise RuntimeError("cryptic_csv_empty")
+        header_map = _csv_header_map(first_row)
+        clue_column_indices = _ordered_clue_column_indices(first_row)
+        use_header = "answer" in header_map and (bool(clue_column_indices) or "clue" in header_map)
+        rows = reader if use_header else [first_row, *reader]
+
+        for row in rows:
+            if len(row) < 2:
+                continue
+
+            def _cell(name: str, fallback_idx: int | None = None) -> str:
+                if use_header:
+                    idx = header_map.get(name)
+                    if idx is None or idx >= len(row):
+                        return ""
+                    return _normalize_clue_whitespace(row[idx])
+                if fallback_idx is None or fallback_idx >= len(row):
+                    return ""
+                return _normalize_clue_whitespace(row[fallback_idx])
+
+            raw_answer = _cell("answer", 0).upper()
+            if not raw_answer:
+                continue
+
+            answer_key = _normalize_answer(raw_answer)
+            if not answer_key or len(answer_key) < 4 or len(answer_key) > 15:
+                continue
+
+            display_answer = (_cell("display_answer", 2) or raw_answer).upper()
+            enumeration = _cell("enumeration", 3) or _enumeration_from_display_answer(display_answer, answer_key)
+            mechanism = (_cell("mechanism", 4) or "manual").strip().lower()
+            wordplay_plan = _cell("wordplay_plan", 5)
+            source_ref = _cell("source_ref", 6) or f"csv://wordlist_cryptic_answer_clue.csv#{answer_key}"
+            source_type = _cell("source_type", 7) or "manual-curated"
+
+            entry = entries_by_answer.setdefault(
+                answer_key,
+                {
+                    "answer": answer_key,
+                    "display_name": display_answer,
+                    "enumeration": enumeration,
+                    "source_ref": source_ref,
+                    "source_type": source_type,
+                    "clues": [],
+                },
+            )
+            existing_enumeration = str(entry.get("enumeration", "")).strip()
+            if ("," in enumeration or "-" in enumeration) and "," not in existing_enumeration and "-" not in existing_enumeration:
+                entry["enumeration"] = enumeration
+            candidate_clues: list[str] = []
+            if use_header and clue_column_indices:
+                for clue_idx in clue_column_indices:
+                    if clue_idx >= len(row):
+                        continue
+                    clue = _normalize_clue_whitespace(row[clue_idx])
+                    if clue:
+                        candidate_clues.append(clue)
+            else:
+                clue = _cell("clue", 1)
+                if clue:
+                    candidate_clues.append(clue)
+
+            seen_keys = clue_keys_by_answer.setdefault(answer_key, set())
+            for clue in candidate_clues:
+                if _clue_has_disallowed_content(clue):
+                    continue
+                clue_key = re.sub(r"\s+", " ", clue).strip().upper()
+                if clue_key in seen_keys:
+                    continue
+                seen_keys.add(clue_key)
+                entry["clues"].append(
+                    {
+                        "clue": clue,
+                        "mechanism": mechanism,
+                        "wordplay_plan": wordplay_plan,
+                        "wordplay_metadata": {},
+                    }
+                )
+
+    entries = [entries_by_answer[key] for key in sorted(entries_by_answer.keys()) if entries_by_answer[key]["clues"]]
+    if not entries:
+        raise RuntimeError("cryptic_csv_empty")
+    return entries
+
+
+def _load_cryptic_lexicon() -> list[dict[str, Any]]:
+    if not CRYPTIC_CSV_PATH.exists():
+        raise FileNotFoundError(f"Missing cryptic lexicon at {CRYPTIC_CSV_PATH}")
+    return _load_cryptic_csv_lexicon()
+
+
 def _materialize_crossword_lexicon_for_run(
     lexicon: list[dict[str, Any]],
     *,
-    rng: random.Random,
+    seed_value: int,
 ) -> list[dict[str, Any]]:
     selected_rows: list[dict[str, Any]] = []
     for row in lexicon:
@@ -682,8 +926,49 @@ def _materialize_crossword_lexicon_for_run(
         ]
         if not clean_clues:
             continue
-        clue = clean_clues[rng.randrange(len(clean_clues))]
+        digest = hashlib.sha256(f"{answer}:{seed_value}".encode("utf-8")).hexdigest()
+        clue = clean_clues[int(digest[:8], 16) % len(clean_clues)]
         selected_rows.append({"answer": answer, "clue": clue, "enumeration": enumeration})
+    return selected_rows
+
+
+def _materialize_cryptic_lexicon_for_run(
+    lexicon: list[dict[str, Any]],
+    *,
+    seed_value: int,
+) -> list[dict[str, Any]]:
+    selected_rows: list[dict[str, Any]] = []
+    for row in lexicon:
+        answer = str(row.get("answer", "")).strip()
+        clues = row.get("clues")
+        if not answer or not isinstance(clues, list):
+            continue
+        clean_clues = [
+            clue_row
+            for clue_row in clues
+            if isinstance(clue_row, dict)
+            and _normalize_clue_whitespace(str(clue_row.get("clue", "")))
+            and not _clue_has_disallowed_content(str(clue_row.get("clue", "")))
+        ]
+        if not clean_clues:
+            continue
+        digest = hashlib.sha256(f"{answer}:{seed_value}".encode("utf-8")).hexdigest()
+        selected = dict(clean_clues[int(digest[:8], 16) % len(clean_clues)])
+        selected["clue"] = _normalize_clue_whitespace(str(selected.get("clue", "")))
+        selected_rows.append(
+            {
+                "answer": answer,
+                "display_name": str(row.get("display_name", answer)).strip() or answer,
+                "enumeration": str(row.get("enumeration", "")).strip() or str(len(answer)),
+                "source_ref": str(row.get("source_ref", "")).strip() or f"manual://cryptic_lexicon#{answer}",
+                "source_type": str(row.get("source_type", "")).strip() or "manual-curated",
+                "clue": str(selected.get("clue", "")).strip(),
+                "mechanism": str(selected.get("mechanism", "manual") or "manual").strip().lower(),
+                "wordplay_plan": str(selected.get("wordplay_plan", "") or "").strip(),
+                "wordplay_metadata": selected.get("wordplay_metadata", {}) if isinstance(selected.get("wordplay_metadata"), dict) else {},
+                "all_clues": clean_clues,
+            }
+        )
     return selected_rows
 
 
@@ -830,7 +1115,7 @@ def _build_crossword_puzzle_payload(
     seed_value: int,
 ) -> dict[str, Any]:
     rng = random.Random(seed_value)
-    selected_lexicon = _materialize_crossword_lexicon_for_run(lexicon, rng=rng)
+    selected_lexicon = _materialize_crossword_lexicon_for_run(lexicon, seed_value=seed_value)
     if not selected_lexicon:
         raise RuntimeError("crossword_csv_empty")
     layout: list[dict[str, Any]] | None = None
@@ -1083,7 +1368,7 @@ def _build_single_entry_puzzle_payload(
     metadata = {
         "difficulty": _difficulty(len(answer)),
         "themeTags": ["pokemon", "reserve", game_type],
-        "source": "pokeapi",
+        "source": "curated",
         "generatorVersion": GENERATOR_VERSION,
     }
     title = f"{game_type.title()} Reserve {target_date.isoformat()} · {display_name}"
@@ -1115,63 +1400,6 @@ def _allocate_dates(
     return out
 
 
-def _build_cryptic_candidates(
-    to_create: int,
-    excluded_answers: set[str] | None = None,
-    scoring_config: dict[str, Any] | None = None,
-) -> list[dict[str, Any]]:
-    lexicon = _load_cryptic_lexicon(per_source_limit=max(500, to_create * 90))
-    random.shuffle(lexicon)
-
-    candidates: list[dict[str, Any]] = []
-    seen_answers: set[str] = set(excluded_answers or set())
-
-    for entry in lexicon:
-        answer = str(entry.get("answer_key", ""))
-        if not answer or len(answer) < 4 or len(answer) > 15:
-            continue
-        if any(ch.isdigit() for ch in answer):
-            continue
-        if answer in seen_answers:
-            continue
-
-        ranked = build_ranked_candidates(entry, scoring_config=scoring_config)
-        if not ranked:
-            continue
-        best = select_ranked_candidate(ranked)
-        if best is None:
-            continue
-        clue = str(best.get("clue", "")).strip()
-        if not clue:
-            continue
-
-        display_name = str(entry.get("answer", answer)).title()
-        source_ref = str(entry.get("source_ref", ""))
-        if not source_ref:
-            source_ref = str(entry.get("source_slug", "unknown"))
-
-        candidates.append(
-            {
-                "answer": answer,
-                "clue": clue,
-                "display_name": display_name,
-                "source_ref": source_ref,
-                "source_type": str(entry.get("source_type", "")),
-                "mechanism": str(best.get("mechanism", "")),
-                "enumeration": str(entry.get("enumeration", "")),
-                "wordplay_plan": str(best.get("wordplay_plan", "")),
-                "wordplay_metadata": best.get("metadata", {}) if isinstance(best.get("metadata"), dict) else {},
-                "ranked_candidates": ranked,
-                "selected_rank_position": int(best.get("rank_position", 1)),
-            }
-        )
-        seen_answers.add(answer)
-        if len(candidates) >= to_create * 3:
-            break
-
-    return candidates
-
-
 def _insert_cryptic_candidate_rows(
     cur,
     *,
@@ -1182,43 +1410,43 @@ def _insert_cryptic_candidate_rows(
     source_type: str,
     answer_key: str,
     answer_display: str,
-    ranked_candidates: list[dict[str, Any]],
-    selected_rank_position: int,
+    clue_text: str,
+    mechanism: str,
+    wordplay_plan: str | None = None,
+    wordplay_metadata: dict[str, Any] | None = None,
 ) -> None:
-    for row in ranked_candidates:
-        rank_position = int(row.get("rank_position", 999))
-        cur.execute(
-            "INSERT INTO cryptic_candidates ("
-            "job_id, puzzle_id, target_date, source_ref, source_type, answer_key, answer_display, "
-            "clue_text, mechanism, wordplay_plan, validator_passed, validator_issues, rank_score, rank_position, selected"
-            ") VALUES ("
-            "%(job_id)s, %(puzzle_id)s, %(target_date)s, %(source_ref)s, %(source_type)s, %(answer_key)s, %(answer_display)s, "
-            "%(clue_text)s, %(mechanism)s, %(wordplay_plan)s::json, %(validator_passed)s, %(validator_issues)s::json, "
-            "%(rank_score)s, %(rank_position)s, %(selected)s"
-            ")",
-            {
-                "job_id": job_id,
-                "puzzle_id": puzzle_id,
-                "target_date": target_date,
-                "source_ref": source_ref,
-                "source_type": source_type,
-                "answer_key": answer_key,
-                "answer_display": answer_display,
-                "clue_text": str(row.get("clue", "")),
-                "mechanism": str(row.get("mechanism", "fallback")),
-                "wordplay_plan": json.dumps(
-                    {
-                        "text": str(row.get("wordplay_plan", "")),
-                        "metadata": row.get("metadata", {}),
-                    }
-                ),
-                "validator_passed": bool(row.get("validator_passed", False)),
-                "validator_issues": json.dumps(row.get("validator_issues", [])),
-                "rank_score": float(row.get("rank_score", 0.0)),
-                "rank_position": rank_position,
-                "selected": rank_position == selected_rank_position,
-            },
-        )
+    cur.execute(
+        "INSERT INTO cryptic_candidates ("
+        "job_id, puzzle_id, target_date, source_ref, source_type, answer_key, answer_display, "
+        "clue_text, mechanism, wordplay_plan, validator_passed, validator_issues, rank_score, rank_position, selected"
+        ") VALUES ("
+        "%(job_id)s, %(puzzle_id)s, %(target_date)s, %(source_ref)s, %(source_type)s, %(answer_key)s, %(answer_display)s, "
+        "%(clue_text)s, %(mechanism)s, %(wordplay_plan)s::json, %(validator_passed)s, %(validator_issues)s::json, "
+        "%(rank_score)s, %(rank_position)s, %(selected)s"
+        ")",
+        {
+            "job_id": job_id,
+            "puzzle_id": puzzle_id,
+            "target_date": target_date,
+            "source_ref": source_ref,
+            "source_type": source_type,
+            "answer_key": answer_key,
+            "answer_display": answer_display,
+            "clue_text": clue_text,
+            "mechanism": mechanism or "manual",
+            "wordplay_plan": json.dumps(
+                {
+                    "text": wordplay_plan or "",
+                    "metadata": wordplay_metadata if isinstance(wordplay_metadata, dict) else {},
+                }
+            ),
+            "validator_passed": True,
+            "validator_issues": json.dumps([]),
+            "rank_score": 100.0,
+            "rank_position": 1,
+            "selected": True,
+        },
+    )
 
 
 def generate_cryptic_preview(
@@ -1228,63 +1456,58 @@ def generate_cryptic_preview(
     answer_key: str | None = None,
     include_invalid: bool = False,
 ) -> dict[str, Any]:
-    lexicon = _load_cryptic_lexicon(per_source_limit=max(500, limit * 120))
+    del include_invalid
+    lexicon = _load_cryptic_lexicon()
     normalized_answer_key = _normalize_answer(answer_key) if answer_key else None
 
     if normalized_answer_key:
-        selected_entries = [row for row in lexicon if row.get("answer_key") == normalized_answer_key]
+        selected_entries = [row for row in lexicon if row.get("answer") == normalized_answer_key]
     else:
         selected_entries = list(lexicon)
         random.shuffle(selected_entries)
         selected_entries = selected_entries[:limit]
 
     items: list[dict[str, Any]] = []
+    today_seed = int(datetime.now(ZoneInfo("Europe/London")).strftime("%Y%m%d"))
     for entry in selected_entries:
-        ranked = build_ranked_candidates(entry)
-        if not ranked:
+        materialized = _materialize_cryptic_lexicon_for_run([entry], seed_value=today_seed)
+        if not materialized:
             continue
-
-        selected = select_ranked_candidate(ranked)
-        if selected is None:
-            continue
-
-        if include_invalid:
-            visible_candidates = ranked[:top_k]
-        else:
-            valid_candidates = [row for row in ranked if is_ranked_candidate_publishable(row)]
-            visible_candidates = valid_candidates[:top_k]
+        selected = materialized[0]
+        visible_candidates = []
+        for idx, clue_row in enumerate(entry.get("clues", [])[:top_k], start=1):
+            if not isinstance(clue_row, dict):
+                continue
+            visible_candidates.append(
+                {
+                    "clue": str(clue_row.get("clue", "")),
+                    "mechanism": str(clue_row.get("mechanism", "manual") or "manual"),
+                    "rankScore": float(max(0, top_k - idx + 1)),
+                    "rankPosition": idx,
+                    "validatorPassed": True,
+                    "validatorIssues": [],
+                    "wordplayPlan": str(clue_row.get("wordplay_plan", "") or ""),
+                    "metadata": clue_row.get("wordplay_metadata", {}) if isinstance(clue_row.get("wordplay_metadata"), dict) else {},
+                }
+            )
 
         items.append(
             {
-                "answer": entry.get("answer"),
-                "answerKey": entry.get("answer_key"),
+                "answer": entry.get("display_name") or entry.get("answer"),
+                "answerKey": entry.get("answer"),
                 "enumeration": entry.get("enumeration"),
                 "sourceType": entry.get("source_type"),
                 "sourceRef": entry.get("source_ref"),
-                "sourceSlug": entry.get("source_slug"),
-                "normalizationRule": entry.get("normalization_rule"),
                 "selected": {
                     "clue": selected.get("clue"),
                     "mechanism": selected.get("mechanism"),
-                    "rankScore": selected.get("rank_score"),
-                    "validatorPassed": selected.get("validator_passed"),
-                    "validatorIssues": selected.get("validator_issues"),
+                    "rankScore": 100.0,
+                    "validatorPassed": True,
+                    "validatorIssues": [],
                     "wordplayPlan": selected.get("wordplay_plan"),
-                    "metadata": selected.get("metadata", {}),
+                    "metadata": selected.get("wordplay_metadata", {}),
                 },
-                "candidates": [
-                    {
-                        "clue": row.get("clue"),
-                        "mechanism": row.get("mechanism"),
-                        "rankScore": row.get("rank_score"),
-                        "rankPosition": row.get("rank_position"),
-                        "validatorPassed": row.get("validator_passed"),
-                        "validatorIssues": row.get("validator_issues"),
-                        "wordplayPlan": row.get("wordplay_plan"),
-                        "metadata": row.get("metadata", {}),
-                    }
-                    for row in visible_candidates
-                ],
+                "candidates": visible_candidates,
             }
         )
 
@@ -1294,8 +1517,27 @@ def generate_cryptic_preview(
         "requestedLimit": limit,
         "topK": top_k,
         "answerKey": normalized_answer_key,
-        "includeInvalid": include_invalid,
+        "includeInvalid": False,
     }
+
+
+def _select_cryptic_candidate_for_date(
+    lexicon: list[dict[str, Any]],
+    *,
+    target_date: date_type,
+    excluded_answers: set[str] | None = None,
+) -> dict[str, Any] | None:
+    seed_value = int(target_date.strftime("%Y%m%d"))
+    materialized = _materialize_cryptic_lexicon_for_run(lexicon, seed_value=seed_value)
+    rng = random.Random(seed_value)
+    rng.shuffle(materialized)
+    seen_answers = excluded_answers or set()
+    for row in materialized:
+        answer = str(row.get("answer", "")).strip()
+        if not answer or answer in seen_answers:
+            continue
+        return row
+    return None
 
 
 def _insert_generation_job(
@@ -1420,10 +1662,7 @@ def top_up_reserve(
     reserve_count = 0
     reserve_after = 0
     job_id = f"job_reserve_topup_{game_type}_{uuid4().hex[:10]}"
-    active_model = get_active_cryptic_model() if game_type == "cryptic" else None
-    ranker_model_version = active_model["modelVersion"] if active_model else None
-    scoring_config = active_model["config"] if active_model else None
-    job_model_version = ranker_model_version or f"{GENERATOR_VERSION}:{game_type}"
+    job_model_version = f"{GENERATOR_VERSION}:{game_type}"
     puzzle_artifacts: list[str] = []
     quality_fallbacks: list[dict[str, Any]] = []
     quality_attempts_total = 0
@@ -1460,8 +1699,8 @@ def top_up_reserve(
                     existing_dates = {cast_row["date"] for cast_row in cur.fetchall()}
                     target_dates = _allocate_dates(existing_dates, today + timedelta(days=1), to_create)
 
-                    candidates: list[dict[str, Any]] = []
                     crossword_lexicon: list[dict[str, Any]] | None = None
+                    cryptic_lexicon: list[dict[str, Any]] | None = None
                     if game_type == "cryptic":
                         cur.execute(
                             "SELECT entries->0->>'answer' AS answer "
@@ -1470,11 +1709,7 @@ def top_up_reserve(
                             {"game_type": game_type, "today": today},
                         )
                         existing_answers = {row["answer"] for row in cur.fetchall() if row.get("answer")}
-                        candidates = _build_cryptic_candidates(
-                            to_create=to_create,
-                            excluded_answers=existing_answers,
-                            scoring_config=scoring_config if isinstance(scoring_config, dict) else None,
-                        )
+                        cryptic_lexicon = _load_cryptic_lexicon()
                     elif game_type == "crossword":
                         crossword_lexicon = _load_crossword_csv_lexicon()
 
@@ -1503,10 +1738,17 @@ def top_up_reserve(
                                     }
                                 )
                         elif game_type == "cryptic":
-                            if idx >= len(candidates):
+                            if cryptic_lexicon is None:
+                                raise RuntimeError("cryptic_lexicon_unavailable")
+                            candidate = _select_cryptic_candidate_for_date(
+                                cryptic_lexicon,
+                                target_date=target_date,
+                                excluded_answers=existing_answers,
+                            )
+                            if candidate is None:
                                 cryptic_shortfall_count = len(target_dates) - idx
                                 break
-                            candidate = candidates[idx]
+                            existing_answers.add(str(candidate.get("answer", "")))
                             payload = _build_single_entry_puzzle_payload(
                                 game_type=game_type,
                                 target_date=target_date,
@@ -1561,8 +1803,10 @@ def top_up_reserve(
                                     source_type=candidate.get("source_type", ""),
                                     answer_key=candidate.get("answer", ""),
                                     answer_display=candidate.get("display_name", ""),
-                                    ranked_candidates=candidate.get("ranked_candidates", []),
-                                    selected_rank_position=int(candidate.get("selected_rank_position", 1)),
+                                    clue_text=str(candidate.get("clue", "")),
+                                    mechanism=str(candidate.get("mechanism", "manual") or "manual"),
+                                    wordplay_plan=str(candidate.get("wordplay_plan", "") or ""),
+                                    wordplay_metadata=candidate.get("wordplay_metadata", {}),
                                 )
 
                 cur.execute(
@@ -1600,7 +1844,7 @@ def top_up_reserve(
                             "reserveCountBefore": reserve_count,
                             "reserveCountAfter": reserve_after,
                             "targetCount": target_count,
-                            "rankerModelVersion": ranker_model_version,
+                            "rankerModelVersion": None,
                             "artifactRefs": puzzle_artifacts,
                             "qualityGate": {
                                 "evaluated": quality_evaluated_count,
@@ -1657,7 +1901,7 @@ def top_up_reserve(
         "reserveCountAfter": reserve_after,
         "inserted": inserted,
         "shortfallCount": cryptic_shortfall_count if game_type == "cryptic" else 0,
-        "rankerModelVersion": ranker_model_version,
+        "rankerModelVersion": None,
         "qualityFallbackCount": len(quality_fallbacks) if game_type == "crossword" else 0,
     }
 
@@ -1670,10 +1914,7 @@ def generate_puzzle_for_date(
     force: bool = False,
 ) -> dict[str, Any]:
     job_id = f"job_generate_{game_type}_{uuid4().hex[:10]}"
-    active_model = get_active_cryptic_model() if game_type == "cryptic" else None
-    ranker_model_version = active_model["modelVersion"] if active_model else None
-    scoring_config = active_model["config"] if active_model else None
-    job_model_version = ranker_model_version or f"{GENERATOR_VERSION}:{game_type}"
+    job_model_version = f"{GENERATOR_VERSION}:{game_type}"
 
     existing_puzzle_id: str | None = None
     generated_puzzle_id: str | None = None
@@ -1716,7 +1957,7 @@ def generate_puzzle_for_date(
                                     "date": target_date.isoformat(),
                                     "action": "existing_reused",
                                     "puzzleId": existing_puzzle_id,
-                                    "rankerModelVersion": ranker_model_version,
+                                    "rankerModelVersion": None,
                                     "artifactRefs": [],
                                 }
                             ),
@@ -1730,7 +1971,7 @@ def generate_puzzle_for_date(
                             "action": "existing_reused",
                             "puzzleId": existing_puzzle_id,
                             "replacedPuzzleId": None,
-                            "rankerModelVersion": ranker_model_version,
+                            "rankerModelVersion": None,
                         }
 
                     cur.execute(
@@ -1767,14 +2008,14 @@ def generate_puzzle_for_date(
                         {"game_type": game_type, "today": datetime.now(ZoneInfo(timezone)).date()},
                     )
                     existing_answers = {row["answer"] for row in cur.fetchall() if row.get("answer")}
-                    candidates = _build_cryptic_candidates(
-                        to_create=1,
+                    cryptic_lexicon = _load_cryptic_lexicon()
+                    candidate = _select_cryptic_candidate_for_date(
+                        cryptic_lexicon,
+                        target_date=target_date,
                         excluded_answers=existing_answers,
-                        scoring_config=scoring_config if isinstance(scoring_config, dict) else None,
                     )
-                    if not candidates:
+                    if candidate is None:
                         raise RuntimeError("cryptic_candidate_pool_exhausted")
-                    candidate = candidates[0]
                     payload = _build_single_entry_puzzle_payload(
                         game_type=game_type,
                         target_date=target_date,
@@ -1827,8 +2068,10 @@ def generate_puzzle_for_date(
                         source_type=candidate.get("source_type", ""),
                         answer_key=candidate.get("answer", ""),
                         answer_display=candidate.get("display_name", ""),
-                        ranked_candidates=candidate.get("ranked_candidates", []),
-                        selected_rank_position=int(candidate.get("selected_rank_position", 1)),
+                        clue_text=str(candidate.get("clue", "")),
+                        mechanism=str(candidate.get("mechanism", "manual") or "manual"),
+                        wordplay_plan=str(candidate.get("wordplay_plan", "") or ""),
+                        wordplay_metadata=candidate.get("wordplay_metadata", {}),
                     )
 
                 _complete_generation_job(
@@ -1842,7 +2085,7 @@ def generate_puzzle_for_date(
                             "action": "generated",
                             "puzzleId": generated_puzzle_id,
                             "replacedPuzzleId": existing_puzzle_id if force else None,
-                            "rankerModelVersion": ranker_model_version,
+                            "rankerModelVersion": None,
                             "artifactRefs": [generated_artifact_ref] if generated_artifact_ref else [],
                             "qualityGate": {
                                 "attemptsUsed": quality_attempts_used if game_type == "crossword" else None,
@@ -1886,7 +2129,7 @@ def generate_puzzle_for_date(
         "action": "generated",
         "puzzleId": generated_puzzle_id,
         "replacedPuzzleId": existing_puzzle_id if force else None,
-        "rankerModelVersion": ranker_model_version,
+        "rankerModelVersion": None,
         "qualityBypassed": quality_bypassed if game_type == "crossword" else False,
         "qualityScore": quality_report.get("score") if quality_report else None,
         "qualityAttemptsUsed": quality_attempts_used if game_type == "crossword" else None,

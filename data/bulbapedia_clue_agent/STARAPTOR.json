@@ -1,0 +1,177 @@
+{
+  "answerKey": "STARAPTOR",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4504986,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Normal/Flying species from Gen IV",
+        "evidence_ref": "lead",
+        "specificity": 0.96
+      },
+      {
+        "text": "Evolves from Staravia",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      },
+      {
+        "text": "Final form of Starly",
+        "evidence_ref": "lead",
+        "specificity": 0.7
+      },
+      {
+        "text": "Has a Mega Evolution",
+        "evidence_ref": "lead",
+        "specificity": 0.68
+      },
+      {
+        "text": "bird of prey",
+        "evidence_ref": "Biology",
+        "specificity": 0.88
+      },
+      {
+        "text": "gray-brown coloring",
+        "evidence_ref": "Biology",
+        "specificity": 0.74
+      },
+      {
+        "text": "Leaves its flock to live alone",
+        "evidence_ref": "Biology",
+        "specificity": 0.92
+      },
+      {
+        "text": "Challenges foes much larger than itself",
+        "evidence_ref": "Biology",
+        "specificity": 0.9
+      },
+      {
+        "text": "Flies while carrying other Pokemon",
+        "evidence_ref": "Biology",
+        "specificity": 0.86
+      },
+      {
+        "text": "Fussy about its crest shape",
+        "evidence_ref": "Biology",
+        "specificity": 0.78
+      },
+      {
+        "text": "120 base Attack",
+        "evidence_ref": "Game data",
+        "specificity": 0.8
+      },
+      {
+        "text": "100 base Speed",
+        "evidence_ref": "Game data",
+        "specificity": 0.78
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gray-Brown bird of prey",
+        "evidence_ref": "Biology",
+        "mystery_score": 0.78,
+        "specificity_score": 0.86,
+        "style": "visual"
+      },
+      {
+        "text": "Leaves its flock behind",
+        "evidence_ref": "Biology",
+        "mystery_score": 0.84,
+        "specificity_score": 0.9,
+        "style": "lore"
+      },
+      {
+        "text": "Lives apart from its flock",
+        "evidence_ref": "Biology",
+        "mystery_score": 0.76,
+        "specificity_score": 0.88,
+        "style": "lore"
+      },
+      {
+        "text": "Carries other Pokemon aloft",
+        "evidence_ref": "Biology",
+        "mystery_score": 0.72,
+        "specificity_score": 0.82,
+        "style": "lore"
+      },
+      {
+        "text": "Savage flier that challenges giants",
+        "evidence_ref": "Biology",
+        "mystery_score": 0.73,
+        "specificity_score": 0.82,
+        "style": "temperament"
+      },
+      {
+        "text": "Large-foe challenger",
+        "evidence_ref": "Biology",
+        "mystery_score": 0.79,
+        "specificity_score": 0.78,
+        "style": "temperament"
+      },
+      {
+        "text": "Comb-fussy intimidating bird",
+        "evidence_ref": "Biology",
+        "mystery_score": 0.7,
+        "specificity_score": 0.77,
+        "style": "trait"
+      },
+      {
+        "text": "120 Attack, 100 Speed species",
+        "evidence_ref": "Game data",
+        "mystery_score": 0.66,
+        "specificity_score": 0.9,
+        "style": "stats"
+      },
+      {
+        "text": "Mega form turns Fighting/Flying",
+        "evidence_ref": "Game data",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "mega"
+      },
+      {
+        "text": "Gen IV Normal/Flying species",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.7,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Evolves from Staravia",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.72,
+        "style": "evolution"
+      },
+      {
+        "text": "Final form of Starly",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.7,
+        "style": "evolution"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "bird of prey",
+      "flock loner",
+      "powerful flier",
+      "savage flier"
+    ],
+    "connections_descriptors": [
+      "Mega Fighting/Flying forms",
+      "Gen IV Normal/Flying species",
+      "Predator Pokemon",
+      "Aggressive bird species",
+      "Gen IV species"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.82
+  },
+  "updatedAt": 1774258018
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "QUIVERDANCE",
+  "answerDisplay": "QUIVER DANCE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Quiver Dance (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Quiver_Dance_(move)",
+  "pageId": 117185,
+  "pageRevisionId": 4446788,
+  "leadText": "Quiver Dance (Japanese: ちょうのまい Butterfly Dance) is a non-damaging Bug-type move introduced in Generation V. It can be thought of as a special-oriented counterpart to Victory Dance.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Quiver Dance raises the user's Special Attack , Special Defense , and Speed stats by one stage each. If powered up by a Buginium Z into Z-Quiver Dance, all of the user's lowered stats are reset."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user lightly performs a beautiful, mystic dance. It boosts the user's Sp. Atk, Sp. Def, and Speed stats. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user lightly performs a beautiful, mystic dance. This boosts the user's Sp. Atk, Sp. Def, and Speed stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It boosts your Special Attack, Special Defense, and Travel Speed. (The stat changes return to normal when you go to the next floor or step on a Wonder Tile.) S MD It boosts your Sp. Atk, Sp. Def, and Travel Speed. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Quiver-Dance",
+    "Quiver Dance",
+    "Quiver-Dance (move)"
+  ],
+  "updatedAt": 1773326189
+}

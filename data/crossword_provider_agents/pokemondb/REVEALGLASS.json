@@ -1,0 +1,17 @@
+{
+  "answerKey": "REVEALGLASS",
+  "answerDisplay": "REVEAL GLASS",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this item, including added effects and where to find it.",
+  "score": 102.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/item/reveal-glass",
+  "extract": "Glass, including added effects and where to find it.",
+  "rankPosition": 1,
+  "updatedAt": 1774212592
+}

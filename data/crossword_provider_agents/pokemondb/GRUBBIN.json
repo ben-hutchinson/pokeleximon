@@ -1,0 +1,17 @@
+{
+  "answerKey": "GRUBBIN",
+  "answerDisplay": "GRUBBIN",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Bug type Pokémon introduced in Generation 7.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/grubbin",
+  "extract": "Grubbin is a Bug type Pokémon introduced in Generation 7 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211513
+}

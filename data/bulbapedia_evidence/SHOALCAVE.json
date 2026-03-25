@@ -1,0 +1,30 @@
+{
+  "answerKey": "SHOALCAVE",
+  "answerDisplay": "SHOAL CAVE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shoal Cave",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shoal_Cave",
+  "pageId": 8282,
+  "pageRevisionId": 4387979,
+  "leadText": "Shoal Cave (Japanese: 浅瀬の洞穴 Shoal Cave) is a location in Hoenn. It is located north of Mossdeep City on Route 125, and is the only place in Pokémon Ruby, Sapphire, and Emerald where wild Spheal and Snorunt can be encountered. Shoal Cave uniquely features a high tide and low tide mechanic, where certain areas are only reachable during a specific time of day. The overall area accessible during high tide is smaller than during low tide. Due to the presence of an Ice Rock, Eevee can evolve into Glaceon on the lowest floor in Omega Ruby and Alpha Sapphire.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] Shoal Cave's exterior in Pokémon Emerald Shoal Cave is a cave north of Mossdeep City. This cave was carved into the side of a rocky mountain rising from the ocean. At predetermined times of the day, every six hours, the tides rise or fall. During high tide, the cave floods, allowing the player to use Surf to access levels of terrain otherwise out of reach on foot. Conversely, during low tide, the receding waters allow the player to descend to levels that would otherwise be underwater, most notably the ice floor at the lowest level in the cave. This icy room contains the Never-Melt Ice , and can only be accessed if the player has Strength , or the Mach Bike in Omega Ruby and Alpha Sapphire. Near the entrance to the icy area is a Black Belt who gives away a Focus Band . In Omega Ruby and Alpha Sapphire only, the Ice Rock is located in the icy room, which allows Eevee to evolve into Glaceon . Tides [ edit | edit source ] Once the player enters the cave, the tide will not reset until the player leaves the cave and attempts to re-enter. One can determine what is the tide in Shoal Cave by looking at an analog clock, particularly the one in the player's house in Littleroot Town . If the hour hand is in the \"high\" half of the clock face (9-12-3), Shoal Cave is in high tide. Conversely, if the hour hand is in the \"low\" half (3-6-9), Shoal Cave is in low tide. Time ▼ 12 1 2 3 4 5 6 7 8 9 10 11 12 1 2 3 4 5 6 7 8 9 10 11 Tide High tide Low tide High tide Low tide High tide Obtaining the Shell Bell [ edit | edit source ] Four Shoal Salts and four Shoal Shells are found in the Shoal Cave; the Shoal Salts are available during low tide and the Shoal Shells are available during high tide. If the player has four Shoal Salts and four Shoal Shells in their Bag , the player can give the materials to the old man in the first room to make a Shell Bell ; the old man can make any number of Shell Bells, as long as the player provides the necessary materials each time. This is the only way to obtain Shoal Salts and Shoal Shells in the Generation III and VI games. Immediately after crafting a Shell Bell for the player, the old man prompts the player to find the ingredients for another. However, the player must wait for the tide to change in order to gather the salts and shells again."
+    },
+    {
+      "title": "Tides",
+      "text": "Tides [ edit | edit source ] Once the player enters the cave, the tide will not reset until the player leaves the cave and attempts to re-enter. One can determine what is the tide in Shoal Cave by looking at an analog clock, particularly the one in the player's house in Littleroot Town . If the hour hand is in the \"high\" half of the clock face (9-12-3), Shoal Cave is in high tide. Conversely, if the hour hand is in the \"low\" half (3-6-9), Shoal Cave is in low tide. Time ▼ 12 1 2 3 4 5 6 7 8 9 10 11 12 1 2 3 4 5 6 7 8 9 10 11 Tide High tide Low tide High tide Low tide High tide"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shoal-Cave",
+    "Shoal Cave",
+    "Shoal-Cave (location)"
+  ],
+  "updatedAt": 1773326941
+}

@@ -1,0 +1,42 @@
+{
+  "answerKey": "TENACITY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4194395,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Tenacity (Japanese: Physical Boost When Move Fails) is a family of skills in Pokemon Masters EX.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] When the user's attack move against the target misses, the user's Physical Moves Next effect will increase by one rank per skill rank.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258023
+}

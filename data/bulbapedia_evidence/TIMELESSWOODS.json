@@ -1,0 +1,26 @@
+{
+  "answerKey": "TIMELESSWOODS",
+  "answerDisplay": "TIMELESS WOODS",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Timeless Woods",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Timeless_Woods",
+  "pageId": 295833,
+  "pageRevisionId": 4419730,
+  "leadText": "The Timeless Woods (Japanese: とこしえの森 Eternity Forest) is a large forest located in Kitakami.",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ]"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Timeless-Woods",
+    "Timeless Woods",
+    "Timeless-Woods (location)"
+  ],
+  "updatedAt": 1773327953
+}

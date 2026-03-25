@@ -1,0 +1,37 @@
+{
+  "answerKey": "THIEF",
+  "answerDisplay": "THIEF",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Thief (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Thief_(move)",
+  "pageId": 3777,
+  "pageRevisionId": 4493856,
+  "leadText": "If you were looking for the character in Pokémon: Yeah! I Got Pokémon!, see Thief (GDZ47). Thief redirects here. For Thief status in Mystery Dungeon, see Kecleon Shop→Theft. Thief (Japanese: どろぼう Thief) is a damage-dealing Dark-type move introduced in Generation II. It is: TM46 from Generation II to Pokémon Ultra Sun and Ultra Moon, and Pokémon Brilliant Diamond and Shining Pearl. TM23 in Pokémon Sword and Shield. TM018 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III 1.3 Generation IV 1.4 Generation V 1.5 Generations VI-VIII 1.6 Generation IX Effect [ edit | edit source ] Generation II [ edit | edit source ] Thief inflicts damage and has a 99.6% chance to steal the target's held item if it has one, though only if the user does not have one. Thief cannot steal an item if it hits a Pokémon's substitute . Held Mail cannot be stolen. Wild Pokémon can steal the player's Pokémon's held items. However, as Thief was taught exclusively via TM in this generation, this is only legitimately possible with wild Ditto that used Transform on a player's Pokémon that knows Thief, or wild Smeargle that learned Thief via Sketch . In Link Battles, the Battle Tower , and the Trainer House , stolen items are returned at the end of the battle. Generation III [ edit | edit source ] Thief inflicts damage and steals the target's held item (if it has one). An item cannot be stolen if the target has the Sticky Hold Ability . Held e-Reader Berries and Mail cannot be stolen. Even if the user faints when using Thief (such as due to the target's Rough Skin ), it still steals the target's held item. If Focus Band would activate from the damage inflicted by Thief, it will activate first and then be stolen. Wild Pokémon cannot steal the player's Pokémon's held items. In Link Battles, battle facilities (except the Battle Pyramid ), and Secret Bases , stolen items are returned at the end of the battle (or the end of the challenge in the case of the Battle Pike ). In Pokémon Colosseum and Pokémon XD , when used by the opponent, Thief does not permanently steal items. Thief is no longer affected by King's Rock . Generation IV [ edit | edit source ] Items cannot be stolen from Pokémon with the Ability Multitype . A held Griseous Orb cannot be stolen. If the target's consumable held item is triggered by Thief (such as a Colbur Berry or Focus Sash ), it will now be consumed before it can be stolen. Generation V [ edit | edit source ] If the user faints when using Thief (such as due to the target's Rough Skin or Rocky Helmet ), it cannot steal the target's held item. If Thief causes a Pokémon with the Sticky Hold Ability to faint, it can now steal its held item. Thief no longer steals a Trainer's Pokémon's items permanently; however, a wild Pokémon's item is still permanently stolen by the player. Thief can now steal a held Griseous Orb as long as neither the user nor the target is Giratina . Plates cannot be stolen if either the user or the target is Arceus (Multitype has no effect on Thief), and Drives cannot be stolen if either the user or the target is Genesect . Thief is once again affected by King's Rock. Generations VI-VIII [ edit | edit source ] Thief's power was changed from 40 to 60 and its PP was changed from 10 to 25. Thief cannot steal a Mega Stone or Orb if either the user or the target could use it to Mega Evolve or undergo Primal Reversion , a Z-Crystal from any Pokémon, a memory if either the user or the target is Silvally , the Rusted Sword if either the user or the target is Zacian , the Rusted Shield if either the user or the target is Zamazenta , or a Booster Energy if either the user or the target is a Paradox Pokémon (excluding Koraidon and Miraidon ). When used in a Max Raid Battle , no matter if the target is the raid boss or one of the player's own teammates, Thief fails entirely, without dealing damage. Generation IX [ edit | edit source ] Thief now deposits items stolen from wild Pokémon directly into the player's Bag. Thief cannot steal a Wellspring Mask , Hearthflame Mask , or Cornerstone Mask if either the user or the target is Ogerpon ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A Dark -type attack. The attacking Pok é mon may steal an item held by the target. G S C An attack that may steal a held item. R S E While attacking, it may steal the foe's held item. FR LG An attack that may take the foe's held item if the user isn't holding one. Colo XD An attack that may steal the target's held item. (move) While attacking, it may steal the target's held item. (TM) D P Pt HG SS PBR The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item. B W B2 W2 The user attacks and steals the target's item simultaneously. It can't steal if the user holds an item. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user attacks and steals the target's held item simultaneously. The user can't steal anything if it already holds an item."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It also snatches the target's hold item to make it the user's. MD T D S Inflicts damage on the target. It also snatches the target's held item and makes it the user's, but only if the user is not already holding an item. B S L てきポケモンに ダメージをあたえる しかも あいての どうぐをうばい じぶんの どうぐにする じぶんが どうぐをもっているときは うばえない MD GtI It damages an enemy. You also steal an item that the enemy has. If you can't have any more items, you can't steal the item. S MD MD RT DX It damages an enemy. You'll also steal an item that the enemy has. If you can't carry any more items, your attempt to steal will fail. Monopoly: Pokémon Exclusive Kanto Edition Steal a just purchased location! (You must announce this immediately following that player's transaction.)"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Pokémon Black and White , Minccino is able to learn Thief via TM while its evolved form, Cinccino , is not. This is an error and is corrected in Black 2 and White 2 ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Thief",
+    "Thief (move)"
+  ],
+  "updatedAt": 1773327908
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "DRAININGKISS",
+  "answerDisplay": "DRAINING KISS",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Draining Kiss (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Draining_Kiss_(move)",
+  "pageId": 180352,
+  "pageRevisionId": 4484675,
+  "leadText": "Draining Kiss (Japanese: ドレインキッス Drain Kiss) is a damage-dealing Fairy-type move introduced in Generation VI. It was TM87 in Pokémon Sword and Shield, and is TM037 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Draining Kiss does damage and restores the user's HP by 75% of the damage dealt. If the user is holding a Big Root , the HP restored is increased by 30% (making the restored HP 97.5% of the damage dealt). Big Root does not increase the damage dealt. If the target has the Ability Liquid Ooze , the user will lose the amount of HP it would have gained instead. Draining Kiss cannot be used if the user is under the effects of Heal Block . Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Draining Kiss's PP was increased from 10 to 15. Pokémon Legends: Arceus Category Special PP 15 Agile Strong Power 50 40 60 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Heal 75% 75% 100% ? ? ? ? Heals the user by a percentage of damage dealt Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 50 60 Cooldown 7s Move wind-up time 10 frames Effect duration —s Additional effect Heal 75% — — Restores the user's HP by a percentage of damage dealt."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS The user steals the target's energy with a kiss. The user's HP is restored by over half of the damage taken by the target. S M US UM P E Sw Sh BD SP The user steals the target's HP with a kiss. The user's HP is restored by over half of the damage taken by the target. LA The user attacks with an energy-draining kiss that restores the user’s HP. S V The user steals the target's HP with a kiss. The user's HP is restored by over half the damage taken by the target. ZA The user attacks with a draining kiss that steals HP from targets to restore the user's own HP."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD MD RT DX It damages an enemy. It also restores your HP. The greater the damage it causes, the more HP it restores."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Draining Kiss is the only Fairy-type HP-draining move ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Draining-Kiss",
+    "Draining Kiss",
+    "Draining-Kiss (move)"
+  ],
+  "updatedAt": 1773322298
+}

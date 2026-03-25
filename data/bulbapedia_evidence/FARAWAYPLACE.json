@@ -1,0 +1,30 @@
+{
+  "answerKey": "FARAWAYPLACE",
+  "answerDisplay": "FARAWAY PLACE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Faraway place",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Faraway_place",
+  "pageId": 56148,
+  "pageRevisionId": 4411876,
+  "leadText": "Faraway place (Japanese: 遠(とお)い場所(ばしょ) faraway place) is a location placeholder found in the core series games, first used in the Generation IV games. This placeholder data is used when a Pokémon is traded from a newer Pokémon game to an older game if the met location is not present in the older game. Faraway place is also occasionally used as a location for Pokémon events, and has no corresponding location in any game.",
+  "sections": [
+    {
+      "title": "Mechanics",
+      "text": "Mechanics [ edit | edit source ] Faraway place is the met location displayed when a Pokémon is met in a location in one game, then viewed in a game in which that location does not exist. For example, a Pokémon met in the Distortion World or T.G. Eterna Bldg that is traded to Diamond or Pearl will display \"Faraway place\" as its met location, because in Diamond and Pearl the location either does not exist or is not treated as an individual location, respectively. This is usually only relevant for Pokémon traded within a generation, as Pokémon transferred from earlier generations simply display the region corresponding to their game of origin . In Pokémon Sword and Shield , any Pokémon caught in a later release ( Pokémon Brilliant Diamond and Shining Pearl , Pokémon Legends: Arceus , or Pokémon Scarlet and Violet ) are listed as being met in \"the Faraway place\", while using the origin mark of Pokémon Sword and Shield. In Pokémon Brilliant Diamond and Shining Pearl, the term \"faraway place\" is not used; Pokémon first met in Pokémon Legends: Arceus display as being met in the \"Sinnoh region of old\", whereas Pokémon met in Pokémon Scarlet and Violet are instead listed as being met in \"a distant land \". In Pokémon Legends: Arceus, \"a distant land\" is used for Pokémon from Scarlet and Violet. Location compatibility [ edit | edit source ] While locations newly introduced within a generation are usually displayed as \"Faraway place\" in earlier games, in some cases a new location is treated as equivalent to an existing location, and will display as the name of that existing location in the older games. Generation IV: Platinum 's Global Terminal and Rotom's Room are treated as the same locations as HeartGold and SoulSilver 's. However, the Global Terminal is treated as a different location to Diamond and Pearl 's GTS. Generation V: The Pokémon World Tournament is treated as the same location as Cold Storage . Generation V: Treasure Hunter (used for the Egg received on Route 18 ) is treated as the same origin as P K M N Breeder (used for the Egg received in the Nacrene Gate ). Generation VII: The Ula'ula Beach is treated as the same location as Secluded Shore . Generation VII: Ultra Deep Sea is treated as the same as Ultra Space . However, other similarly named locations are not treated as being the same. Generation IV: Kanto Victory Road is treated as a separate location to Sinnoh Victory Road . Generation V: Black and White 's Victory Road is treated as a separate location to Black 2 and White 2 's Victory Road . The small segment of Black and White's Victory Road that is still present in Black 2 and White 2 is treated the same as the Black and White location, however. Generation VI: Kalos Victory Road is treated as a separate location to Hoenn Victory Road . Generation VI: Kalos Pokémon League is treated as a separate location to the Hoenn Pokémon League ."
+    },
+    {
+      "title": "Location compatibility",
+      "text": "Location compatibility [ edit | edit source ] While locations newly introduced within a generation are usually displayed as \"Faraway place\" in earlier games, in some cases a new location is treated as equivalent to an existing location, and will display as the name of that existing location in the older games. Generation IV: Platinum 's Global Terminal and Rotom's Room are treated as the same locations as HeartGold and SoulSilver 's. However, the Global Terminal is treated as a different location to Diamond and Pearl 's GTS. Generation V: The Pokémon World Tournament is treated as the same location as Cold Storage . Generation V: Treasure Hunter (used for the Egg received on Route 18 ) is treated as the same origin as P K M N Breeder (used for the Egg received in the Nacrene Gate ). Generation VII: The Ula'ula Beach is treated as the same location as Secluded Shore . Generation VII: Ultra Deep Sea is treated as the same as Ultra Space . However, other similarly named locations are not treated as being the same. Generation IV: Kanto Victory Road is treated as a separate location to Sinnoh Victory Road . Generation V: Black and White 's Victory Road is treated as a separate location to Black 2 and White 2 's Victory Road . The small segment of Black and White's Victory Road that is still present in Black 2 and White 2 is treated the same as the Black and White location, however. Generation VI: Kalos Victory Road is treated as a separate location to Hoenn Victory Road . Generation VI: Kalos Pokémon League is treated as a separate location to the Hoenn Pokémon League ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Faraway-Place",
+    "Faraway Place",
+    "Faraway-Place (location)"
+  ],
+  "updatedAt": 1773328868
+}

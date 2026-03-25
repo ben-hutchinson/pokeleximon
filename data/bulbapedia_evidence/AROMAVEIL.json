@@ -1,0 +1,30 @@
+{
+  "answerKey": "AROMAVEIL",
+  "answerDisplay": "AROMA VEIL",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Aroma Veil (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Aroma_Veil_(Ability)",
+  "pageId": 185057,
+  "pageRevisionId": 4514101,
+  "leadText": "Aroma Veil (Japanese: アロマベール Aroma Veil) is an Ability introduced in Generation VI. Prior to Generation VIII, it was the signature Ability of Spritzee and Aromatisse.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Aroma Veil prevents the Pokémon with this Ability and its allies (including non-adjacent allies) from being afflicted by Taunt , Torment , Encore , Disable , Cursed Body , Heal Block and Psychic Noise , and infatuation . Despite being a move that also prevents the use of moves, Imprison is not affected by this Ability. Psychic Noise will only inflict damage; its secondary effect will not activate against Pokémon with this Ability. Outside of battle [ edit | edit source ] Aroma Veil has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Aroma Veil prevents the Pokémon with this Ability and its allies (including non-adjacent allies) from being afflicted by Taunt , Torment , Encore , Disable , Cursed Body , Heal Block and Psychic Noise , and infatuation . Despite being a move that also prevents the use of moves, Imprison is not affected by this Ability. Psychic Noise will only inflict damage; its secondary effect will not activate against Pokémon with this Ability."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Aroma-Veil",
+    "Aroma Veil",
+    "Aroma-Veil (Ability)"
+  ],
+  "updatedAt": 1774213568
+}

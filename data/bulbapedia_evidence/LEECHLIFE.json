@@ -1,0 +1,38 @@
+{
+  "answerKey": "LEECHLIFE",
+  "answerDisplay": "LEECH LIFE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Leech Life (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Leech_Life_(move)",
+  "pageId": 3750,
+  "pageRevisionId": 4503896,
+  "leadText": "Leech Life (Japanese: きゅうけつ Suck Blood) is a damage-dealing Bug-type move introduced in Generation I. It is: TM28 in Pokémon Sun and Moon and Pokémon Ultra Sun and Ultra Moon. TR18 in Pokémon Sword and Shield. TM095 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations I and II 1.2 Generations III and IV 1.3 Generation V 1.4 Generation VI 1.5 Generation VII onwards 1.6 Generation VIII 1.6.1 Pokémon Legends: Arceus 1.7 Generation IX 1.7.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generations I and II [ edit | edit source ] Leech Life inflicts damage, and up to 50% of the damage dealt to the target is restored to the user as HP (but not less than 1 HP), restoring up to the Pokémon's maximum HP. In the localized versions of the Generation I games, if Leech Life breaks a substitute , no HP will be restored to the user. In the Japanese version of Generation I games, and all versions of the Pokémon Stadium series and Generation II games, Leech Life will always miss if the target has a substitute. Generations III and IV [ edit | edit source ] Leech Life will now properly heal the user when damaging a substitute, even if it was broken. If the target has the Ability Liquid Ooze , the user takes damage instead of restoring HP. If the user is holding a Big Root , the HP restored is increased by 30% (making the restored HP 65% of the damage dealt). Big Root does not increase the damage dealt. Leech Life is no longer affected by King's Rock . Generation V [ edit | edit source ] Leech Life is now affected by King's Rock. Generation VI [ edit | edit source ] Leech Life cannot be used if the user is under the effects of Heal Block . Generation VII onwards [ edit | edit source ] Leech Life's power was increased from 20 to 80 and its PP was reduced from 15 to 10. With this change, Absorb replaced Leech Life on most Pokémon's level up moves. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 75 60 90 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Heal 50% 50% 75% ? ? ? ? Restores the user's HP by a percentage of the damage dealt Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 80 96 Cooldown 9s Move wind-up time 10 frames Effect duration —s Additional effect Heal 50% — — Restores the user's HP by a percentage of damage dealt."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 An HP-draining attack. It adds half the HP it drained from the target to the attacker's HP. G S C Steals 1/2 of the damage inflicted. R S E An attack that steals half the damage inflicted. FR LG An attack that absorbs half the damage it inflicted to restore HP. Colo XD An attack that absorbs half the damage inflicted. D P Pt HG SS PBR A blood-draining attack. The user's HP is restored by half the damage taken by the target. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP The user drains the target's blood. The user's HP is restored by half the damage taken by the target. LA The user attacks by draining the target's blood. Some of the damage dealt to the target is absorbed by the user to restore their own HP. S V The user drains the target's blood. The user's HP is restored by up to half the damage taken by the target. ZA The user attacks by draining targets of their blood. The user's HP will be restored by a portion of the damage dealt."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It also restores the user's HP based on the damage it inflicted. MD T D S Inflicts damage on the target, then restores the user's HP based on the damage inflicted. B S L てきポケモンに ダメージをあたえる あたえたダメージにおうじて じぶんのＨＰが かいふくする MD GtI S MD MD RT DX It damages an enemy. It also restores your HP. The greater the damage it causes, the more HP it restores."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Leech Life is the only Bug-type HP-draining move . The power of Leech Life was quadrupled in Generation VII , this marks the largest increase for the power of a move in percentage over a single Generation, and ties with Fury Cutter if multiple increases are considered. This is also the greatest increase to a move in terms of power since Self-Destruct and Explosion in Generation II . However, the change also includes a removal from the level-up learnsets of many Pokémon which could learn Leech Life early on in previous generations, with Absorb taking its place instead."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Leech-Life",
+    "Leech Life",
+    "Leech-Life (move)"
+  ],
+  "updatedAt": 1773324336
+}

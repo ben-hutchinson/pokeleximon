@@ -1,0 +1,38 @@
+{
+  "answerKey": "METALCLAW",
+  "answerDisplay": "METAL CLAW",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Metal Claw (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Metal_Claw_(move)",
+  "pageId": 3843,
+  "pageRevisionId": 4505243,
+  "leadText": "Metal Claw (Japanese: メタルクロー Metal Claw) is a damage-dealing Steel-type move introduced in Generation II. It is TM031 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Metal Claw deals damage and has a 10% chance of raising the user's Attack stat by one stage. Metal Claw can be used as the second move of a Pokémon Contest combination , with the user gaining 4 bonus appeal points if Metal Sound was used in the previous turn. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 50 60 Cooldown 6s Move wind-up time 10 frames Effect duration —s Additional effect Chance 10% Duration 8s 11s — May raise the user's Attack."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 Strikes the target with sharp claws. Has a one-in-ten shot at raising the user's Attack . G S C An attack that may up user's Attack . R S E Colo XD A claw attack that may raise the user's Attack . FR LG The foe is attacked with steel claws. It may also raise the user's Attack . D P Pt HG SS PBR The foe is raked with steel claws. It may also raise the user's Attack stat. B W B2 W2 The target is raked with steel claws. It may also raise the user's Attack stat. X Y OR AS S M US UM P E Sw Sh BD SP LA The target is raked with steel claws. This may also raise the user's Attack stat. S V The target is raked with steel claws. This may also boost the user's Attack stat. ZA The user attacks by raking targets with steel claws. This may also boost the user's Attack stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also boost the user's Attack by one level. MD T D S Inflicts damage on the target. It may also boost the user's Attack by 1 level. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで じぶんの こうげきを １だんかいあげる Conq. Scratch the enemy with steel claws. It may also increase the user's Attack. MD GtI It damages an enemy. It could also boost your Attack. (The stat change returns to normal when you go to the next floor or step on a Wonder Tile.) S MD It damages an enemy. It could also boost your Attack. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In FireRed and LeafGreen , Charmander 's evolutionary line were capable of learning Metal Claw by leveling up. However, they are unable to do so in later generations , other than via breeding . This may be to give players who choose Charmander as their first partner an advantage over the first Gym . Furthermore, in Generation IX , Charmeleon and Charizard are unable to learn Metal Claw via TM, while Charmander can. Metal Claw is the only move with base PP of 35 not introduced in Generation I ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Metal-Claw",
+    "Metal Claw",
+    "Metal-Claw (move)"
+  ],
+  "updatedAt": 1773324969
+}

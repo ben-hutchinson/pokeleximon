@@ -1,0 +1,38 @@
+{
+  "answerKey": "SELFDESTRUCT",
+  "answerDisplay": "SELF DESTRUCT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Self-Destruct (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Self-Destruct_(move)",
+  "pageId": 3729,
+  "pageRevisionId": 4471596,
+  "leadText": "Self-Destruct (Japanese: じばく Self-Destruct), formatted as Selfdestruct prior to Generation VI, is a damage-dealing Normal-type move introduced in Generation I. It is: TM36 in Generation I. TM42 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TM20 in Pokémon Sword and Shield. TM048 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generation III 1.4 Generation IV 1.5 Generation V 1.6 Generation VI onwards 1.6.1 Pokémon Legends: Arceus 1.7 Generation IX 1.7.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Selfdestruct inflicts damage and causes the user to faint. Sturdy or a held Focus Band or Focus Sash does not prevent the user from fainting. This move cannot be used when a Pokémon with the Ability Damp is on the field. Generation I [ edit | edit source ] Though its power is listed as 130, the target's Defense will be halved during damage calculation (unless it is at a value of 1), effectively doubling the power to 260. The user of Selfdestruct will faint even if the attack misses or the opponent is immune to it (due to being Ghost type). If Selfdestruct breaks a target's substitute , the user will not faint, though its image will be replaced by a blank image. Additionally, if the user of Selfdestruct had a substitute at the time of such a situation, uses Substitute later, or switches out, its regular image will once again become visible. If the user of Selfdestruct attacks first and faints itself, the opponent will not attack or be subjected to recurrent damage during that round. In Stadium, if Selfdestruct breaks a target's substitute, the user will faint. The base power listed in Stadium is the one after halving Defense (260). Generation II [ edit | edit source ] Selfdestruct's power is increased to 200. The target's Defense is still halved, effectively doubling the power to 400. The user of Selfdestruct will now faint even if the target is behind a substitute , or is protected against it. If the user of Selfdestruct attacks first and faints itself, the opponent will not attack this turn, but is subjected to end-of-turn damage such as from sandstorm . Unlike the previous game, Stadium 2 lists Selfdestruct's power before halving Defense. If Selfdestruct is selected, but fails due to confusion , then the user takes more confusion damage as well. Generation III [ edit | edit source ] The user's sprite no longer disappears upon using the move. If the user of Selfdestruct attacks first and faints itself, all other Pokémon may still attack this turn. Generation IV [ edit | edit source ] If all targets of Selfdestruct have already fainted this turn such that there is no target when Selfdestruct is being executed, Selfdestruct will fail and the user will not faint. Selfdestruct's temporary Defense drop no longer boosts confusion damage. Generation V [ edit | edit source ] Selfdestruct no longer halves the target's Defense. The user faints before dealing damage, unlike in previous generations. If all targets of Selfdestruct have already fainted this turn such that there is no target when Selfdestruct is being executed, the user of Selfdestruct will now faint regardless. Generation VI onwards [ edit | edit source ] Self-Destruct returns to damaging the target before the user faints. Self-Destruct can also be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if any of the moves Block , Mean Look or Spider Web was used in the prior turn. If used in a Max or Tera Raid Battle , Self-Destruct fails, and the user does not faint. Pokémon Legends: Arceus [ edit | edit source ] In Pokémon Legends: Arceus , the user receives recoil damage instead of fainting, with the exact recoil amount depending on the style used. Self-Destruct fails if the move misses, or the target is immune. Pokémon Legends: Arceus Category Physical PP 5 Agile Strong Power 150 120 200 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Recoil 80% 70% 90% ? ? ? ? Damages the user by a percentage of its total HP Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 200 240 Cooldown 15s Move wind-up time 60 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad The user explodes, inflicting damage on the enemy, then faints. Useless against Ghost -type. Stad2 The user explodes, damaging the enemy, then faints. Useless against the Ghost -type. G S C Powerful but makes the user faint. R S E Colo XD Inflicts severe damage but makes the user faint. FR LG The user blows up to inflict severe damage, even making itself faint. D P Pt HG SS PBR The user blows up to inflict damage on all Pokémon in battle. The user faints upon using this move. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP S V The user attacks everything around it by causing an explosion. The user faints upon using this move. LA The user causes an explosion to inflict damage on the target. This also damages the user. ZA The user emits explosive force, causing damage across a wide area. The user faints after using this move."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Makes the user explode, inflicting damage on all surrounding Pokémon. It also destroys surrounding items. MD T D S Makes the user blow up in an explosion, inflicting damage on all Pokémon within a 1-tile range. It also destroys walls and items. B S L じぶんが 『ばくはつ』する まわりの ポケモンに ダメージをあたえ かべや ゆかのどうぐも きえてしまう MD GtI UNUSED S MD You'll get the self-destruct status. When you take damage, it causes an explosion that damages Pokémon around you and causes items on the floor to disappear. You won't get Exp. Points even if an enemy faints due to the damage caused by the explosion."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation I, if Selfdestruct or Explosion knocks out the last remaining Pokémon on both sides of the field simultaneously, the player will black out as normal, but the victory music will still play. In Generations II and III, if a Pokémon attempts to use Selfdestruct or Explosion but hurts itself in confusion instead, the confusion damage is boosted by the move's Defense-halving effect. Self-Destruct, Explosion, and Misty Explosion are the only three damaging moves whose battle animations play out even if they would miss or have no effect. If Self-Destruct is upgraded into the Z-Move Breakneck Blitz , that Breakneck Blitz will have the same power as Self-Destruct (200)."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Self-Destruct",
+    "Self Destruct",
+    "Self-Destruct (move)"
+  ],
+  "updatedAt": 1773326791
+}

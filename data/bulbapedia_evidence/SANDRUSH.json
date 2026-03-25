@@ -1,0 +1,34 @@
+{
+  "answerKey": "SANDRUSH",
+  "answerDisplay": "SAND RUSH",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Sand Rush (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sand_Rush_(Ability)",
+  "pageId": 112085,
+  "pageRevisionId": 4284627,
+  "leadText": "Sand Rush (Japanese: すなかき Sand Paddle) is an Ability introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] During a sandstorm , the Speed stat of Pokémon with this Ability is doubled. A Pokémon with this Ability will take no damage from the sandstorm if it otherwise would. Outside of battle [ edit | edit source ] There are no effects outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] During a sandstorm , the Speed stat of Pokémon with this Ability is doubled. A Pokémon with this Ability will take no damage from the sandstorm if it otherwise would."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI In the Sandstorm weather condition, it can use a move 2 times at once for only 1 PP. * When the Pokémon uses a move in the Sandstorm weather condition, it uses it 2 times at once but only consumes PP for 1 use! * S MD The Pokémon isn't damaged by a sandstorm. During a sandstorm, it uses a move 2 times at once but only consumes PP for 1 use!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sand-Rush",
+    "Sand Rush",
+    "Sand-Rush (Ability)"
+  ],
+  "updatedAt": 1773329173
+}

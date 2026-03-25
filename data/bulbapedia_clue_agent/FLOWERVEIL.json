@@ -1,0 +1,78 @@
+{
+  "answerKey": "FLOWERVEIL",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4432776,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VI ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Flower Veil (Japanese: Flower Veil) is an Ability introduced in Generation VI. Prior to Generation VII, it was one of the signature Abilities of Flabb's evolutionary line. In Generation VIII, it was one of the signature Abilities of Comfey.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description S MD The Pokemon and its Grass-type teammates near it won't get bad status conditions nor will their stats be lowered!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Flower Veil prevents the Pokemon with this Ability (if it is Grass-type ) and its Grass-type allies (including non-adjacent allies) from having their stats lowered by other Pokemon. Self-inflicted stat reductions, such as from Leaf Storm or Weak Armor , are not prevented. If a Grass-type Pokemon has Contrary , Flower Veil prevents the Pokemon's stats from being lowered after accounting for Contrary. It does not prevent Spectral Thief from stealing (i.e., resetting) positive stat changes. Flower Veil also prevents the Pokemon with this Ability (if it is Grass-type) and its Grass-type allies (including non-adjacent allies) from being afflicted by non-volatile status conditions or Yawn . However, it will not prevent a Pokemon from falling asleep if it is already drowsy from Yawn. This Ability has no effect on Rest , the Flame Orb , or the Toxic Orb . Outside of battle [ edit | edit source ] Flower Veil has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Flower Veil prevents the Pokemon with this Ability (if it is Grass-type ) and its Grass-type allies (including non-adjacent allies) from having their stats lowered by other Pokemon. Self-inflicted stat reductions, such as from Leaf Storm or Weak Armor , are not prevented. If a Grass-type Pokemon has Contrary , Flower Veil prevents the Pokemon's stats from being lowered after accounting for Contrary. It does not prevent Spectral Thief from stealing (i.e., resetting) positive stat changes. Flower Veil also prevents the Pokemon with this Ability (if it is Grass-type) and its Grass-type allies (including non-adjacent allies) from being afflicted by non-volatile status conditions or Yawn . However, it will not prevent a Pokemon from falling asleep if it is already drowsy from Yawn. This Ability has no effect on Rest , the Flame Orb , or the Toxic Orb .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Protects friendly grass Pokemon from having their stats lowered by other Pokemon.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "debuffing trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "protective trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "debuffing trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "debuffing trait",
+      "protective trait"
+    ],
+    "connections_descriptors": [
+      "Debuffing abilities",
+      "Protective abilities",
+      "Gen VI abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257947
+}

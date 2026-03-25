@@ -1,0 +1,103 @@
+{
+  "answerKey": "EVIOLITE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4491674,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "specificity": 0.7
+      },
+      {
+        "text": "held items",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen V held items",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Held: Holder has 1.5 Defense and Special Defense, as long as its not fully evolved.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Boosts the defense and special defense of a pokemon that holds it when not fully evolved",
+        "evidence_ref": "Description",
+        "specificity": 0.86
+      },
+      {
+        "text": "Boosts Defense And Special Defense Of A Pokemon's stats",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Boosts The Defense And Special Defense Of A Pokemon That Holds It after not fully evolved",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "The Defense And Special Defense Of A Pokemon That Holds It boost on trigger",
+        "evidence_ref": "Description",
+        "mystery_score": 0.62,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Defense And Special Defense Of A Pokemon Defense/Sp. Def boost item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Power item for Defense And Special Defense Of A Pokemon",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Defense And Special Defense Of A Pokemon-only held item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.46,
+        "specificity_score": 0.68,
+        "style": "category"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "the defense and special defense of a pokemon that holds it booster",
+      "defense and special defense of a pokemon item"
+    ],
+    "connections_descriptors": [
+      "Held battle items",
+      "Gen V items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257944
+}

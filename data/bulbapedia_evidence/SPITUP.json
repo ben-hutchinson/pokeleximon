@@ -1,0 +1,38 @@
+{
+  "answerKey": "SPITUP",
+  "answerDisplay": "SPIT UP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Spit Up (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Spit_Up_(move)",
+  "pageId": 3866,
+  "pageRevisionId": 4426846,
+  "leadText": "Spit Up (Japanese: はきだす Spit Up) is a damage-dealing Normal-type move introduced in Generation III. The Pokémon who are able to learn this move are also able to learn the related moves Stockpile and Swallow, except Qwilfish, Dewpider, and Overqwil, which cannot learn Swallow.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III 1.2 Generation IV 1.3 Generation V onwards Effect [ edit | edit source ] Generation III [ edit | edit source ] This move will fail if the user has not used Stockpile . If Spit Up is used after stockpiling, Spit Up inflicts damage to the target and has no secondary effect. Its power is 100, and its damage is multiplied by the number of times Stockpile was used. After Spit Up is used (even if the opponent protects itself from Spit Up), the stockpile count will be reset to 0. Spit Up cannot cause a critical hit , and its damage is not varied by a random factor during damage calculation . Spit Up can be used as the second move of a Pokémon Contest combination , with the user gaining 4 bonus appeal points if Stockpile was used in the previous turn. Generation IV [ edit | edit source ] Its power is now equal to 100 times the number of times Stockpile was used instead of multiplying damage. Now that Stockpile increases the user's Defense and Special Defense, Spit Up now removes any Defense and Special Defense boosts gained through Stockpile. However, it simply will say the effect wore off without showing the stats changing, unlike Stockpile. Spit Up can now cause a critical hit, but its damage is still not varied by a random factor during damage calculation. Generation V onwards [ edit | edit source ] This section is incomplete. Please feel free to edit this section to add missing information and complete it. Reason: How does the \"random factor\" work? The Stockpile removal is now shown as a stat change. For each Stockpile that successfully changed a defensive stat, that stat will drop by two stages if the Pokémon has Simple at the time of using Spit Up, rise by one stage if the Pokémon has Contrary at that time, or drop by one stage with any other Ability. Stockpiles that did not result in stat changes (most likely because the stat was already maxed out) are not taken into account for this adjustment, but Stockpiles that resulted in stat changes which were later erased by a move such as Haze or Clear Smog are. Damage done by Spit Up is now varied by a random factor during damage calculation. Spit Up can be used as part of a Contest Spectacular combination , giving an extra three appeal points if Stockpile was used in the prior turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Releases stockpiled power (the more the better). FR LG The power built using Stockpile is released at once for attack. D P Pt HG SS PBR The power stored using the move Stockpile is released at once in an attack. B W B2 W2 The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the damage. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the move's power."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. Its power depends on how often the move Stockpile was used before. MD T D S Inflicts damage on the target. Its power depends on how many times Stockpile was used in advance. B S L てきポケモンに ダメージをあたえる わざ『たくわえる』で ためただけ ダメージが あがる MD GtI It damages an enemy. The more you stockpile using Stockpile, the more damage it causes. S MD It damages an enemy, and the more you stockpile using Stockpile, the more damage caused. MD RT DX Only the power stored using the move Stockpile is released once in an attack. The more power is stored, the greater the move's power."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] After using Stockpile three times, Spit Up has the highest base power of all Normal-type moves, surpassing even Explosion . Due to a glitch in Generation IV , when a Pokémon performs the Spit Up animation, its sprite is translated right by two pixels."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Spit-Up",
+    "Spit Up",
+    "Spit-Up (move)"
+  ],
+  "updatedAt": 1773327460
+}

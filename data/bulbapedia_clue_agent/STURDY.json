@@ -1,0 +1,62 @@
+{
+  "answerKey": "STURDY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4456338,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Sturdy (Japanese: Sturdy) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Blocks one-hit KO moves. MD T D S Blocks one-hit KO moves on the Pokemon. B S L Conq. The Pokemon is protected against 1-hit KO attacks. MD GtI If the Pokemon's HP is full, no matter how much damage it takes, it will be left with 1 HP. * If the Pokemon's HP is full, it will be left with 1 HP when it takes damage that would normally make it faint! It also protects the Pokemon from one-hit KO moves like Fissure! * S MD If the Pokemon's HP is full, moves that would defeat the Pokemon instead leave the Pokemon with 1 HP! MD RT DX If the Pokemon's HP is full, moves that would defeat the Pokemon instead leave the Pokemon with 1 HP. This is also effective against moves like Fissure that can cause Pokemon to faint with a single hit.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations III and IV 1.1.2 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations III and IV [ edit | edit source ] Sturdy makes the Pokemon unaffected by one-hit knockout moves . Generation V onward [ edit | edit source ] In addition to Sturdy's previous effect, Sturdy now works like a Focus Sash , causing the Pokemon to have 1 HP remaining if another Pokemon's attack or confusion damage would have brought it from full health to 0 HP. Sturdy will activate as long as a Pokemon has full HP before the attack, and therefore it can activate multiple times if the Pokemon is brought back to full health, or if the Pokemon has a maximum of 1 HP . If a Pokemon with Sturdy is holding a Focus Sash, Sturdy will activate first. A Pokemon with Mold Breaker will ignore Sturdy. When a multistrike move hits a Pokemon with Sturdy, Sturdy's effect can only activate for hits while the user has full HP. Destiny Bond and Perish Song will not cause Sturdy to activate. Outside of battle [ edit | edit source ] Sturdy has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Generations III and IV [ edit | edit source ] Sturdy makes the Pokemon unaffected by one-hit knockout moves . Generation V onward [ edit | edit source ] In addition to Sturdy's previous effect, Sturdy now works like a Focus Sash , causing the Pokemon to have 1 HP remaining if another Pokemon's attack or confusion damage would have brought it from full health to 0 HP. Sturdy will activate as long as a Pokemon has full HP before the attack, and therefore it can activate multiple times if the Pokemon is brought back to full health, or if the Pokemon has a maximum of 1 HP . If a Pokemon with Sturdy is holding a Focus Sash, Sturdy will activate first. A Pokemon with Mold Breaker will ignore Sturdy. When a multistrike move hits a Pokemon with Sturdy, Sturdy's effect can only activate for hits while the user has full HP. Destiny Bond and Perish Song will not cause Sturdy to activate.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Prevents being KOed from full HP, leaving 1 HP instead. Protects against the one-hit KO moves regardless of HP.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "protective trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "protective trait"
+    ],
+    "connections_descriptors": [
+      "Protective abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258020
+}

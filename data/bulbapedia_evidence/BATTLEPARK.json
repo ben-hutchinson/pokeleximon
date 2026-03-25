@@ -1,0 +1,21 @@
+{
+  "answerKey": "BATTLEPARK",
+  "answerDisplay": "BATTLE PARK",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Battle Park",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Battle_Park",
+  "pageId": 34687,
+  "pageRevisionId": 4301612,
+  "leadText": "Battle Park has several referrals: For the location in Sinnoh, see Battle Park (Sinnoh) For the animated series-exclusive location in Johto, see Battle Park (Johto)",
+  "sections": [],
+  "familyPages": [],
+  "titleCandidates": [
+    "Battle-Park",
+    "Battle Park",
+    "Battle-Park (location)"
+  ],
+  "updatedAt": 1773328766
+}

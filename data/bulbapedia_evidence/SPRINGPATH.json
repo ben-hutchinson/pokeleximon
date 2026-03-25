@@ -1,0 +1,26 @@
+{
+  "answerKey": "SPRINGPATH",
+  "answerDisplay": "SPRING PATH",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Spring Path",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Spring_Path",
+  "pageId": 19887,
+  "pageRevisionId": 4446865,
+  "leadText": "The Spring Path (Japanese: 隠れ泉への道 Path to the Hidden Spring) is a short path off the main area of Route 214 that leads into Sendoff Spring. In Hisui, it is mapped under the northwestern portion of the Cobalt Coastlands and covers a wider area. Turnback Cave is accessible from the Spring Path. In Pokémon Diamond and Pearl and Brilliant Diamond and Shining Pearl, this path only appears after the player has entered the Hall of Fame and obtained the National Pokédex. In Pokémon Platinum, the path appears after the player escapes the Distortion World to Sendoff Spring, allowing the player to exit to Route 214. There are no wild Pokémon on this short path in Diamond, Pearl, Platinum, Brilliant Diamond, and Shining Pearl, but there are in Legends: Arceus.",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Pokémon Diamond and Pearl , the music for this area (and potentially the surrounding areas of Route 214 , Sendoff Spring , and Turnback Cave ) will be missing instruments or stop playing based upon certain actions: Entering or leaving the area Starting a battle Getting on or off the Bicycle or a Surfing Pokémon Using the Poké Radar Hatching an Egg Opening a sub-menu: Pokédex , Party , Bag , Trainer Card , Options , and certain registered items ( Town Map , Journal , Pal Pad , and Poffin Case ) The German translation of Spring Path's name in Generation IV games contains an error stemming from the word \"spring\" having different meanings — both a source of water, which is the intended meaning, and a season, with the German version using the latter meaning. This error was fixed in the remakes."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Spring-Path",
+    "Spring Path",
+    "Spring-Path (location)"
+  ],
+  "updatedAt": 1773327481
+}

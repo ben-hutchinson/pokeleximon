@@ -1,0 +1,16 @@
+{
+  "answerKey": "PSYCHICSURGE",
+  "answerDisplay": "PSYCHIC SURGE",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen VII ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Psychic_Surge_(Ability)",
+  "extract": "Psychic Surge (Japanese: サイコメイカー Psycho Maker) is an Ability introduced in Generation VII. Prior to Generation VIII, it was the signature Ability of Tapu Lele. In Generation IX, it is the signature Ability of Indeedee.",
+  "updatedAt": 1774258445
+}

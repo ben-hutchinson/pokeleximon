@@ -1,0 +1,33 @@
+{
+  "answerKey": "MINUS",
+  "answerDisplay": "MINUS",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Minus (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Minus_(Ability)",
+  "pageId": 4134,
+  "pageRevisionId": 4259115,
+  "leadText": "Minus (Japanese: マイナス Minus) is an Ability introduced in Generation III. Prior to Generation V, it was the signature Ability of Minun.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations III and IV 1.1.2 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations III and IV [ edit | edit source ] Minus powers up with Plus . When a Pokémon with Minus enters into a Double Battle with a Pokémon with the Ability Plus, the user's Special Attack stat is increased by 50%. Generation V onward [ edit | edit source ] When a Pokémon with Minus enters a battle and has an ally with Plus or Minus, the Special Attack stat of the Pokémon with Minus is increased by 50%. The move Magnetic Flux raises the Defense and Special Defense of allied Pokémon with Plus or Minus by 1 stage, while the move Gear Up raises the Attack and Special Attack of allied Pokémon with Plus or Minus by 1 stage. Outside of battle [ edit | edit source ] Minus has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generations III and IV [ edit | edit source ] Minus powers up with Plus . When a Pokémon with Minus enters into a Double Battle with a Pokémon with the Ability Plus, the user's Special Attack stat is increased by 50%. Generation V onward [ edit | edit source ] When a Pokémon with Minus enters a battle and has an ally with Plus or Minus, the Special Attack stat of the Pokémon with Minus is increased by 50%. The move Magnetic Flux raises the Defense and Special Defense of allied Pokémon with Plus or Minus by 1 stage, while the move Gear Up raises the Attack and Special Attack of allied Pokémon with Plus or Minus by 1 stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts Special Attack if there is a Pokémon with the Plus ability. MD T D S Boosts the Pokémon's Special Attack when a Pokémon with the Plus ability is nearby. B S L プラスの とくせいの ポケモンがいると とくこうがあがる MD GtI Raises Special Attack when an ally with the Plus or Minus Ability is nearby. * If a teammate in the same room has the Plus or Minus Ability, the Pokémon's Special Attack will go up! * S MD If a teammate in the same room has the Plus or Minus Ability, the Pokémon's Sp. Atk goes up! MD RT DX If a teammate in the same room has the Plus or Minus Ability, the Pokémon's Sp. Atk goes up."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Minus",
+    "Minus (Ability)"
+  ],
+  "updatedAt": 1773329031
+}

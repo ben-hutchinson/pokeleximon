@@ -1,0 +1,34 @@
+{
+  "answerKey": "FLOWERSHIELD",
+  "answerDisplay": "FLOWER SHIELD",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Flower Shield (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Flower_Shield_(move)",
+  "pageId": 185073,
+  "pageRevisionId": 4326738,
+  "leadText": "Flower Shield (Japanese: フラワーガード Flower Guard) is a non-damaging Fairy-type move introduced in Generation VI.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VI to VIII [ edit | edit source ] Flower Shield raises the Defense stat of all Grass-type Pokémon on the field by one stage, except those that are in the semi-invulnerable turn of a move such as Fly or Dig . Flower Shield fails if there are no eligible Grass-type Pokémon. If powered up by a Fairium Z into Z-Flower Shield, the user's Defense stat rises by one stage. Generation IX [ edit | edit source ] Flower Shield cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E The user raises the Defense stat of all Grass-type Pokémon in battle with a mysterious power. Sw Sh BD SP LA The user raises the Defense stats of all Grass-type Pokémon in battle with a mysterious power. S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It boosts the Defense of your party's Grass-type Pokémon. * It boosts the Defense of Grass-type Pokémon among you and your teammates in the same room. The stat returns to normal when you go to the next floor or step on a Wonder Tile. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Flower-Shield",
+    "Flower Shield",
+    "Flower-Shield (move)"
+  ],
+  "updatedAt": 1773322924
+}

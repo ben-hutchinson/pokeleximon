@@ -1,0 +1,30 @@
+{
+  "answerKey": "MAXSTEELSPIKE",
+  "answerDisplay": "MAX STEELSPIKE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Max Steelspike (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Steelspike_(move)",
+  "pageId": 243947,
+  "pageRevisionId": 4452164,
+  "leadText": "Max Steelspike (Japanese: ダイスチル Dai Steel) is a damage-dealing Steel-type Max Move introduced in Generation VIII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Max Steelspike inflicts damage and raises the user's and its ally's Defense by one stage. Its power and whether it is a special or physical move depends on the move it is based on. Base move Pwr. Cat. Anchor Shot 130 Physical Behemoth Bash 130 Physical Behemoth Blade 130 Physical Bullet Punch 90 Physical Doom Desire 140 Special Double Iron Bash 140 Physical Flash Cannon 130 Special Gear Grind 130 Physical Gyro Ball 130 Physical Heavy Slam 130 Physical Iron Head 130 Physical Iron Tail 130 Physical Metal Burst 100 Physical Metal Claw 100 Physical Meteor Mash 130 Physical Smart Strike 120 Physical Steel Beam 140 Special Steel Roller 140 Physical Steel Wing 120 Physical Sunsteel Strike 130 Physical Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Max Steelspike cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA This is a Steel-type attack Dynamax Pokémon use. This raises ally Pokémon's Defense stats. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. S V This is a Steel-type attack Dynamax Pokémon use. This boosts ally Pokémon's Defense stats."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Max-Steelspike",
+    "Max Steelspike",
+    "Max-Steelspike (move)"
+  ],
+  "updatedAt": 1773324850
+}

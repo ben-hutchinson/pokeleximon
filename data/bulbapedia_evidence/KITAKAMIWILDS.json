@@ -1,0 +1,30 @@
+{
+  "answerKey": "KITAKAMIWILDS",
+  "answerDisplay": "KITAKAMI WILDS",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Kitakami Wilds",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Kitakami_Wilds",
+  "pageId": 295834,
+  "pageRevisionId": 4419729,
+  "leadText": "The Kitakami Wilds (Japanese: キタカミ原生地域 Kitakami Wilderness) is a lake located in Kitakami.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ]"
+    },
+    {
+      "title": "Places of interest",
+      "text": "Places of interest [ edit | edit source ]"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Kitakami-Wilds",
+    "Kitakami Wilds",
+    "Kitakami-Wilds (location)"
+  ],
+  "updatedAt": 1774214313
+}

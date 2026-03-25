@@ -1,0 +1,30 @@
+{
+  "answerKey": "SEAMAUVILLE",
+  "answerDisplay": "SEA MAUVILLE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sea Mauville",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sea_Mauville",
+  "pageId": 200867,
+  "pageRevisionId": 4473081,
+  "leadText": "Sea Mauville (Japanese: シーキンセツ Sea Kinsetsu) is a decrepit research facility in the Hoenn region, located to the north of Route 108. The second part of the structure can only be accessed by using Dive and contains the Scanner. Sea Mauville includes both the decrepit platform itself as well as the water area and sandbar outside of the facility; the northern exterior can only be accessed by travelling underwater inside the platform using Dive. Sea Mauville takes the place of the Abandoned Ship from Pokémon Ruby, Sapphire, and Emerald.",
+  "sections": [
+    {
+      "title": "Pokédex entries",
+      "text": "Pokédex entries [ edit | edit source ] Episode Subject Source Entry JN110 Sea Mauville Goh's Rotom Phone Sea Mauville. Previously used to recover resources from the seafloor, it has now fallen into ruin. Since aquatic Pokémon are now nesting there, it has been established as a nature preserve."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] An old magazine found at Sea Mauville features \" a young lady who looks like Lisia \" on its cover. It is possible that this person is Lisia 's mother, Wallace 's sister. An old dual screen game console \"that seems different from the one you have \" can also be found at Sea Mauville. Considering its age, it could be a Nintendo DS or a Game & Watch . Both the Prima game guide and game data contain rematch data for Mysterious Sisters Scall & Ion that cannot be accessed in regular gameplay due to Dive (and thus the Mind Badge ) being required to find their room key. The battle, which would have been available after the Feather Badge like another rematch here, would have featured a level 34 Chingling and a level 33 Gardevoir . The Hi Skitty doll found here is likely a reference to Hello Kitty ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sea-Mauville",
+    "Sea Mauville",
+    "Sea-Mauville (location)"
+  ],
+  "updatedAt": 1773326752
+}

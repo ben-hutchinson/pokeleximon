@@ -1,0 +1,30 @@
+{
+  "answerKey": "BATTLECHATEAU",
+  "answerDisplay": "BATTLE CHATEAU",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Battle Chateau",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Battle_Chateau",
+  "pageId": 184553,
+  "pageRevisionId": 4394976,
+  "leadText": "The Battle Chateau (Japanese: バトルシャトー Battle Chateau) is a two-floor building on Route 7 in Kalos where the player can have battles. The types of Trainers that will appear will depend on the noble rank that the player has achieved through their battles in the Chateau. The Battle Chateau shares its background music theme with the Battle Maison. It is a remix of Battle Tower (Johto) from Pokémon Crystal, Diamond and Pearl, Pokémon Platinum, and HeartGold and SoulSilver.",
+  "sections": [
+    {
+      "title": "Ranks",
+      "text": "Ranks [ edit | edit source ] The Trainer ranks at the Battle Chateau are inspired by the noble ranks used by many European countries, including the French nobility . The player starts out as a Baron or Baroness, depending on their gender, and advances through the ranks of nobility by defeating other noble Trainers. In the initial ranks of nobility, the player's rank is mainly determined by their number of wins, with wins against higher-ranked nobles counting for more than those against lower-ranked nobles. As the player advances in rank, the number of Trainers that appear in the Battle Chateau at the same time steadily grows. Any Trainer that is of the same or lesser rank than the player may appear in the Battle Chateau. Player rank Trainers in Chateau Rank requirement Points for defeating a Trainer of this rank Baron / Baroness 6 — 1 Viscount / Viscountess 7 5 points 2 Earl / Countess 8 30 points 3 Marquis / Marchioness 9 100 points Regular: 4 Gym Leader : 5 - 6 Duke / Duchess 10 300 points Regular: 5 Elite Four : 8 Grand Duke / Grand Duchess 10 1000 points 10 Gym Leaders , the Elite Four , and Diantha are also part of the nobility, holding ranks of Marquis or Marchioness and higher. These Trainers will start to appear in the Battle Chateau after the player has beaten them in the main storyline, and at least equaled them in rank. If the player has enough points to advance in rank to Viscount/Viscountess, Earl/Countess, Marquis/Marchioness, or Duke/Duchess, the new rank will be given by the attendant Maid the next time they attempt to leave the Chateau. Rank advancement to Grand Duke/Grand Duchess is not given the same way; instead, the next time the player leaves and reenters the Chateau after obtaining enough points, all other Trainers will disappear from the front room, and a small cutscene will play in which Duke Hennessy bestows the final title and walks away. If the player then leaves and reenters the front room, the removed Trainers will return. Though additional nobility points after advancing to Grand Duke/Grand Duchess serve no purpose, the game continues keeping track of them up to a maximum of 4095 points."
+    },
+    {
+      "title": "Writs",
+      "text": "Writs [ edit | edit source ] As players rise in rank, there will be a greater access to more writs which can be issued by talking to the lady by the front door. Each writ has its own unique effect. All writs expire at midnight on the day that they are used. Several of the writs can be used at the same time. The silver, gold and black writs all stack together, for example. Writ Effect Cost Rank first available Writ of Invitation A new Trainer appears twice as often (once every 3 minutes). $ 50,000 Baron/Baroness Silver Writ of Invitation A new Trainer appears six times as often (once every minute). $ 100,000 Marquis/Marchioness Gold Writ of Invitation Increases battle winnings by 50%. $ 100,000 Earl/Countess Writ of Challenge Increases the levels of Pokémon by 5 (consequently increasing battle winnings). $ 50,000 Viscount/Viscountess Blue Writ of Challenge Decreases the levels of Pokémon by 10 (consequently decreasing battle winnings). $ 10,000 Duke/Duchess Red Writ of Challenge Increases the levels of Pokémon by 10 (consequently increasing battle winnings). $ 100,000 Duke/Duchess Black Writ of Challenge Increases the levels of Pokémon by 20 (consequently increasing battle winnings). $ 300,000 Grand Duke/Grand Duchess"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Battle-Chateau",
+    "Battle Chateau",
+    "Battle-Chateau (location)"
+  ],
+  "updatedAt": 1774213621
+}

@@ -1,0 +1,29 @@
+{
+  "answerKey": "RIPEN",
+  "answerDisplay": "RIPEN",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Ripen (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ripen_(Ability)",
+  "pageId": 244403,
+  "pageRevisionId": 4340902,
+  "leadText": "Ripen (Japanese: じゅくせい Ripen) is an Ability introduced in Generation VIII. It is the signature Ability of Applin, Flapple, and Appletun.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Ripen doubles the effects from held Berries when eaten in battle, including when a Pokémon with Ripen is targeted by a flung Berry. This affects Berries that restore HP or PP (such as Figy Berry and Leppa Berry ), Berries that reduce damage (such as Occa Berry ), Berries that raise stats (except for Lansat Berry ), and Berries that deal damage to Pokémon attacking the holder (such as Rowap Berry ). Ripen does not affect the status condition -healing Berries (e.g. Persim Berry or Lum Berry ), the Lansat Berry (i.e. Ripen will not make it increase the critical hit stage by 4), the Micle Berry , or the Custap Berry (although it will still show the message). Due to a glitch, when a Pokémon with Ripen uses certain non-Berry items or is targeted by a flung item that inflicts a secondary effect, Ripen displays a message and plays its animation, but has no other effect. The items affected are as below: Sprite Item Notes Absorb Bulb — Adrenaline Orb — Berry Juice — Blunder Policy — Cell Battery — Eject Button — Eject Pack — Electric Seed — Focus Band — Flame Orb Flung only Grassy Seed — King's Rock Flung only Leftovers — Light Ball Flung only Luminous Moss — Mental Herb — Mirror Herb — Misty Seed — Poison Barb Flung only Power Herb — Psychic Seed — Quick Claw — Razor Fang Flung only Room Service — Snowball — Throat Spray — Toxic Orb Flung only Weakness Policy — White Herb — Outside of battle [ edit | edit source ] Ripen has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Ripen doubles the effects from held Berries when eaten in battle, including when a Pokémon with Ripen is targeted by a flung Berry. This affects Berries that restore HP or PP (such as Figy Berry and Leppa Berry ), Berries that reduce damage (such as Occa Berry ), Berries that raise stats (except for Lansat Berry ), and Berries that deal damage to Pokémon attacking the holder (such as Rowap Berry ). Ripen does not affect the status condition -healing Berries (e.g. Persim Berry or Lum Berry ), the Lansat Berry (i.e. Ripen will not make it increase the critical hit stage by 4), the Micle Berry , or the Custap Berry (although it will still show the message). Due to a glitch, when a Pokémon with Ripen uses certain non-Berry items or is targeted by a flung item that inflicts a secondary effect, Ripen displays a message and plays its animation, but has no other effect. The items affected are as below: Sprite Item Notes Absorb Bulb — Adrenaline Orb — Berry Juice — Blunder Policy — Cell Battery — Eject Button — Eject Pack — Electric Seed — Focus Band — Flame Orb Flung only Grassy Seed — King's Rock Flung only Leftovers — Light Ball Flung only Luminous Moss — Mental Herb — Mirror Herb — Misty Seed — Poison Barb Flung only Power Herb — Psychic Seed — Quick Claw — Razor Fang Flung only Room Service — Snowball — Throat Spray — Toxic Orb Flung only Weakness Policy — White Herb —"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ripen",
+    "Ripen (Ability)"
+  ],
+  "updatedAt": 1773326439
+}

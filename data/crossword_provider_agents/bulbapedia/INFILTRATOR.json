@@ -1,0 +1,16 @@
+{
+  "answerKey": "INFILTRATOR",
+  "answerDisplay": "INFILTRATOR",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen V ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Infiltrator_(Ability)",
+  "extract": "Infiltrator (Japanese: すりぬけ Slip Through) is an Ability introduced in Generation V.",
+  "updatedAt": 1774258443
+}

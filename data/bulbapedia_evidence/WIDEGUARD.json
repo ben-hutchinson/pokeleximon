@@ -1,0 +1,38 @@
+{
+  "answerKey": "WIDEGUARD",
+  "answerDisplay": "WIDE GUARD",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Wide Guard (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Wide_Guard_(move)",
+  "pageId": 117204,
+  "pageRevisionId": 4420325,
+  "leadText": "Wide Guard (Japanese: ワイドガード Wide Guard) is a non-damaging Rock-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Main article: Protection Wide Guard protects all Pokémon on the user's side of the field for the rest of that turn from moves that can target multiple Pokémon, even those used by an ally that strike all Pokémon on the field (such as Earthquake and Surf ). Wide Guard will block these moves even in Single Battles. The protection granted by Wide Guard goes on until the end of the turn even if the user faints during the turn. If the user goes last in the turn, the move will fail. If a damaging Z-Move that targets multiple Pokémon targets a Pokémon protected by Wide Guard, the Z-Move will bypass Wide Guard but only do 25% of the original damage. Moves that break protection , like Feint , will remove the effects of Wide Guard. The Ability Unseen Fist allows contact moves to bypass Wide Guard. Moves that are unaffected by protection are listed here . This move has +3 priority , so it will be executed before most other moves. Generation V-VI [ edit | edit source ] In Generation V only, the chance that Wide Guard will succeed drops each time the user successfully and consecutively uses Endure , any protection move that only affects the user , Quick Guard , or Wide Guard. Each time, the chance of success is multiplied by 1/2. Also in Generation V, if a Pokémon uses Feint or Shadow Force to attack its own ally who is protected by Wide Guard, Wide Guard will not be dispelled. In Generations V and VI , Wide Guard could not block status moves that target multiple Pokémon. Generation VII onwards [ edit | edit source ] Due to an oversight, in version 1.0 of Pokémon Ultra Sun and Ultra Moon , Wide Guard reduces the damage of all damaging Z-Moves , rather than just damaging Z-Moves that target multiple Pokémon; this was fixed in version 1.1 of Pokémon Ultra Sun and Ultra Moon. (There are no damaging Z-Moves that target multiple Pokémon in Pokémon Sun and Moon .) If powered up by a Rockium Z into Z-Wide Guard, the user's Defense stat rises by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user and its allies are protected from wide-ranging attacks for one turn. If used in succession, its chances of failing rises. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user and its allies are protected from wide-ranging attacks for one turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI You and your teammates in the same room will get the Wide Guard status, which protects them from wide-ranging moves. Its chance of failing rises if you use it multiple times in a row. S MD You and your teammates in the same room will get the Wide Guard status condition, which protects you from wide-ranging moves. MD RT DX You and your teammates in the same room will get the Wide Guard condition, which protects you from wide-ranging moves."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In the Brazilian Portuguese version of Pokémon UNITE , this move received two different localized names: Vasta Proteção and Defesa Aberta , the latter only being seen after Aegislash reaches level 13 and upgrades the move into Wide Guard+."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Wide-Guard",
+    "Wide Guard",
+    "Wide-Guard (move)"
+  ],
+  "updatedAt": 1773328500
+}

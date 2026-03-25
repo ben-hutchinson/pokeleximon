@@ -1,0 +1,91 @@
+{
+  "answerKey": "STENCH",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4465205,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "This article is about the Ability Stench. For the field move Stink, see Field Move (Ranger). Stench (Japanese: Stench) is an Ability introduced in Generation III. Prior to Generation IV, it was the signature Ability of Grimer and Muk.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B May terrify an attacking foe. MD T D S May terrify an attacking foe. B S L MD GtI May inflict the Terrified status condition when the Pokemon is hit by a direct attack. * When the Pokemon is hit with a direct attack like Tackle or Scratch, the attacker is sometimes afflicted with the Terrified status condition! * S MD When the Pokemon is hit with a contact move like Tackle or Scratch, it sometimes makes the attacker terrified. MD RT DX When the Pokemon is attacked by an enemy next to it, it sometimes makes the attacker Terrified.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations III and IV 1.1.2 Generation V onward 1.2 Outside of battle 1.2.1 Generation III 1.2.2 Generation VIII 1.2.3 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] Generations III and IV [ edit | edit source ] Stench has no effect in battle. Generation V onward [ edit | edit source ] Stench has a 10% chance of making the target flinch when hit by a damaging move used by the Pokemon with this Ability. Stench does not stack with King's Rock or Razor Fang , nor does it stack with moves that already have a chance to flinch. Each strike of a multistrike move has an independent chance of causing the target to flinch. Outside of battle [ edit | edit source ] If a Pokemon with Stench is in the first place in the party (even if fainted ), the chance of encountering a wild Pokemon is decreased by 50%. It shares this effect with Quick Feet , White Smoke , and Infiltrator (since Generation VIII ). Generation III [ edit | edit source ] In the Battle Pyramid , the encounter rate is decreased by 25%. Generation VIII [ edit | edit source ] In Pokemon Sword and Shield only, this Ability instead decreases the chance of hidden encounters by 87.5%. Generation IX [ edit | edit source ] In Pokemon Scarlet and Violet , this Ability has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Generations III and IV [ edit | edit source ] Stench has no effect in battle. Generation V onward [ edit | edit source ] Stench has a 10% chance of making the target flinch when hit by a damaging move used by the Pokemon with this Ability. Stench does not stack with King's Rock or Razor Fang , nor does it stack with moves that already have a chance to flinch. Each strike of a multistrike move has an independent chance of causing the target to flinch.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Has a 10% chance of making target Pokemon flinch with each hit.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "Description",
+        "specificity": 0.86
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "flinch-causing trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Punishes contact attackers",
+        "evidence_ref": "Description",
+        "mystery_score": 0.76,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Damages foes on contact KO",
+        "evidence_ref": "Description",
+        "mystery_score": 0.7,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Contact-backlash trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "flinch-causing trait",
+      "contact backlash",
+      "contact punisher"
+    ],
+    "connections_descriptors": [
+      "Flinch-Causing abilities",
+      "Contact-punishing abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258019
+}

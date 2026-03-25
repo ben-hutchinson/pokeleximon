@@ -1,0 +1,41 @@
+{
+  "answerKey": "ROTOHATCH",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4468645,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "unused",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Effect [ edit | edit source ] Bag item [ edit | edit source ] When used in the overworld, the number of cycles it takes for all Pokemon Eggs in the party to hatch are halved. This effect stacks with Flame Body or Magma Armor . The effect lasts for 10 minutes.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "unused",
+        "evidence_ref": "lead",
+        "mystery_score": 0.35,
+        "specificity_score": 0.52,
+        "style": "category"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "unused"
+    ],
+    "connections_descriptors": [
+      "Unused"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258004
+}

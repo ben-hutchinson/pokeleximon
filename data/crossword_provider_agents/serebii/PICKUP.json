@@ -1,0 +1,18 @@
+{
+  "answerKey": "PICKUP",
+  "answerDisplay": "PICKUP",
+  "provider": "serebii",
+  "status": "ok",
+  "clue": "It may pick up items outside of battle, too.",
+  "score": 53.76,
+  "approved": false,
+  "qualityFlags": [
+    "long_form",
+    "near_verbatim_source"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://www.serebii.net/abilitydex/pickup.shtml",
+  "extract": "Pickup &#12418;&#12398;&#12402;&#12429;&#12356; Game's Text: The Pok&eacute;mon may pick up the item an opposing Pok&eacute;mon used during a battle. It may pick up items outside of battle, too. In-Depth Effect: Has a 10% chance of finding and holding an item after battle. Will not work if this Pok&eacute;mon is already holding an item. From Black & White, it allows for the user to pick up the item of its opponent or ally if they used up the item in battle. Blocks Role Play & Doodle Blocks Receive & Power of Alchemy Blocks Entrainment Blocks Trace No No No No Blocks Skill Swap & Wandering Spirit Blocks Gastro Acid & Neutralizing Gas Removed by Mold Breaker / Turboblaze / Teravolt Not used if user is Transformed No No No No Further Details Ruby/Sapphire",
+  "rankPosition": 2,
+  "updatedAt": 1774212336
+}

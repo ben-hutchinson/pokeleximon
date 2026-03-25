@@ -1,0 +1,30 @@
+{
+  "answerKey": "SCALESHOT",
+  "answerDisplay": "SCALE SHOT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Scale Shot (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Scale_Shot_(move)",
+  "pageId": 252905,
+  "pageRevisionId": 4470302,
+  "leadText": "Scale Shot (Japanese: スケイルショット Scale Shot) is a damage-dealing Dragon-type multistrike move introduced during Generation VIII, in The Isle of Armor. It is TM200 in Pokémon Scarlet and Violet and TM143 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Scale Shot inflicts damage, hitting the target 2-5 times per use. If the user does not miss, the user's Speed is raised by one stage, while its Defense is lowered by one stage. Each strike made has an equal chance to be a critical hit . There is a 35% chance that it will hit 2 times, a 35% chance it will hit 3 times, a 15% chance it will hit 4 times, and a 15% chance it will hit 5 times. The average total base power (including the 10% base miss chance) is 69.8. Scale Shot may continue attacking after breaking a substitute . Counter will only acknowledge the last strike of this move. If the user is holding a King's Rock or Razor Fang , each consecutive hit has an equal chance to cause the opponent to flinch . Pokémon with the Ability Skill Link will always hit five times when using Scale Shot unless it misses. If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokémon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokémon has a maximum HP of 1. If the target has Weak Armor or Stamina , each strike will activate it. Scale Shot is not affected by Sheer Force . Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Scale Shot cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V The user attacks by shooting scales two to five times in a row. This move boosts the user's Speed stat but lowers its Defense stat. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. ZA The user attacks by shooting out five volleys of scales, one after the other. This increases the user's movement speed but also lowers its Defense stat for a short time."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Scale-Shot",
+    "Scale Shot",
+    "Scale-Shot (move)"
+  ],
+  "updatedAt": 1773326679
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "BUGBUZZ",
+  "answerDisplay": "BUG BUZZ",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Bug Buzz (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bug_Buzz_(move)",
+  "pageId": 18884,
+  "pageRevisionId": 4498414,
+  "leadText": "Bug Buzz (Japanese: むしのさざめき Insect Noise) is a damage-dealing Bug-type move introduced in Generation IV. It is: TR61 in Pokémon Sword and Shield. TM62 in Pokémon Brilliant Diamond and Shining Pearl. TM162 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV-V 1.2 Generation VI onwards 1.3 Generation VIII 1.3.1 Pokémon Legends: Arceus 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Bug Buzz does damage and has a 10% chance of lowering the target's Special Defense by one stage. Bug Buzz is a sound-based move . Generation IV-V [ edit | edit source ] If used on a Pokémon behind a substitute , it hits that Pokémon's substitute. Generation VI onwards [ edit | edit source ] Bug Buzz can now hit Pokémon even if they are behind a substitute. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Bug Buzz's base power has been lowered to 80. It has a 20% chance of lowering the target's defensive stats for three turns. Pokémon Legends: Arceus Category Special PP 10 Agile Strong Power 80 60 100 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 20% 20% 40% Turns 3 2 4 ? ? May lower the target's defensive stats Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 90 108 Cooldown 8s Move wind-up time 20 frames Effect duration —s Additional effect Chance 10% Duration 15s 18s — May lower the target's Special Defense."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat. B W B2 W2 The user vibrates its wings to generate a damaging sound wave. It may also lower the target's Sp. Def stat. X Y OR AS The user vibrates its wings to generate a damaging sound wave. This may also lower the target's Sp. Def stat. S M US UM P E Sw Sh BD SP The user generates a damaging sound wave by vibration. This may also lower the target's Sp. Def stat. LA The user vibrates to generate a damaging sound wave. This may also lower the target’s defensive stats. S V The user vibrates to generate a damaging sound wave. This may also lower the target's Sp. Def stat. ZA The user attacks with damaging sound waves created by vibration. This may also lower targets' Sp. Def stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on enemies within a 1-tile range. It may also reduce their Special Defense by 1 level. B S L まわりの てきポケモンに ダメージをあたえる しかも いっていのかくりつで とくぼうを １だんかいさげる MD GtI It damages nearby enemies. It could also lower their Special Defense. S MD MD RT DX It damages nearby enemies. It could also lower their Sp. Def."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Bug Buzz is the only Bug-type sound-based move . Despite the descriptions of this move stating that the usage of wings is required, Pokémon that lack wings can still learn this attack. However, in Generation IV , when this move was first introduced, all Pokémon that could learn this move did have wings."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Bug-Buzz",
+    "Bug Buzz",
+    "Bug-Buzz (move)"
+  ],
+  "updatedAt": 1773321388
+}

@@ -1,0 +1,30 @@
+{
+  "answerKey": "ELECTRODRIFT",
+  "answerDisplay": "ELECTRO DRIFT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Electro Drift (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Electro_Drift_(move)",
+  "pageId": 277788,
+  "pageRevisionId": 4403655,
+  "leadText": "Electro Drift (Japanese: イナズマドライブ Lightning Drive) is a damage-dealing Electric-type move introduced in Generation IX. It is the signature move of Miraidon.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Electro Drift inflicts damage. If the move is super effective on the target, its damage is increased by roughly 33% (or more precisely, by a factor of 5461/4096)."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user races forward at ultrafast speeds, piercing its target with futuristic electricity. This move's power is boosted more than usual if it's a supereffective hit."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Electro-Drift",
+    "Electro Drift",
+    "Electro-Drift (move)"
+  ],
+  "updatedAt": 1773322528
+}

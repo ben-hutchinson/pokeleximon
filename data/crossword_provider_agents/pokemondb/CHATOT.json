@@ -1,0 +1,17 @@
+{
+  "answerKey": "CHATOT",
+  "answerDisplay": "CHATOT",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Normal / Flying type Pokémon introduced in Generation 4.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/chatot",
+  "extract": "Chatot is a Normal / Flying type Pokémon introduced in Generation 4 .",
+  "rankPosition": 1,
+  "updatedAt": 1774210839
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "DOUBLETEAM",
+  "answerDisplay": "DOUBLE TEAM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Double Team (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Double_Team_(move)",
+  "pageId": 2901,
+  "pageRevisionId": 4503834,
+  "leadText": "If you were looking for the Double Battling Trainer class, see Double Team (Trainer class). Double Team (Japanese: かげぶんしん Shadow Divide) is a non-damaging Normal-type move introduced in Generation I. It is TM32 from Generation I to Pokémon Ultra Sun and Ultra Moon, in Pokémon Brilliant Diamond and Shining Pearl., as well as in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Double Team increases the user's evasion by one stage . If powered up by a Normalium Z into Z-Double Team, all of the user's lowered stats are reset. Double Team can be used as the first move of a Pokémon Contest combination , causing Agility , Quick Attack , and Teleport to score double the normal appeal if used in the next turn. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] As the evasion and accuracy stats do not exist in Z-A, Double Team instead causes the user to become intangible at the spot where it was used, which causes all attacks to harmlessly bypass the user and makes it untargetable by further moves for its duration. Compared to Protect and Detect , Double Team's intangibility means that Plus Moves will not harm a Double Team user but will partially ignore protection. To compensate, Double Team has a noticeable wind-up before its effect is triggered in contrast to the instant usage of Protect and Detect. Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 15s 12s Move wind-up time 40 frames Effect duration —s Additional effect — — — User becomes briefly intangible after wind-up"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Creates illusionary copies of the user. The copies disorient the enemy, reducing its accuracy. Stad2 Creates illusionary copies of the user. They disorient the enemy, reducing its accuracy. G S C Heightens evasiveness. R S E Colo XD Creates illusory copies to raise evasiveness. (move) Creates illusory copies to enhance elusiveness. (TM) FR LG The user creates illusory copies of itself to raise its evasiveness. D P Pt HG SS By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. (move) The user begins moving so quickly that it creates illusory copies to raise its evasiveness. (TM) PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. S V By moving rapidly, the user makes illusory copies of itself to boost its evasiveness. ZA The user moves so quickly that it creates illusory copies of itself, allowing the user to evade incoming attacks."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts the user's Evasion by one level. MD T D S Boosts the user's Evasiveness by 1 level. B S L じぶんの かいひを １だんかいあげる MD GtI It boosts your evasiveness. (The stat change returns to normal when you go to the next floor or step on a Wonder Tile.) Super Smash Bros. for Nintendo 3DS/Wii U Generate a second Lucario, and then counterattack. * S MD It boosts your evasiveness. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move's Japanese name, かげぶんしん kage bunshin , is a reference to a ninja technique ubiquitous in manga, anime, and other fiction commonly known in English as shadow clone . A popular example of this is the Naruto series, where the main character, Naruto Uzumaki , has used Kage Bunshin no Jutsu throughout the series as one of his signature ninja techniques. The move's description in the Stadium games erroneously states that it lowers the opponent's accuracy. In Super Smash Bros, one of Greninja's victory poses has it use Double Team."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Double-Team",
+    "Double Team",
+    "Double-Team (move)"
+  ],
+  "updatedAt": 1773322229
+}

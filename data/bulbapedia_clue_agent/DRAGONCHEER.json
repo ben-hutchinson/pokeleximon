@@ -1,0 +1,75 @@
+{
+  "answerKey": "DRAGONCHEER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4415787,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX Dragon move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Dragon status move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Effect [ edit | edit source ] Dragon Cheer increases the user's allies' critical-hit ratio by one stage. If the affected Pokemon are Dragon-type , their critical-hit ratio is increased by two stages instead. The effects of Dragon Cheer can be copied by Psych Up , Transform , Costar , Opportunist , and a Mirror Herb . Dragon Cheer's effects apply based on the allies' type upon use of the move, and do not change if the allies' type changes later in battle. Prior to version 3.0.1, the effect of Dragon Cheer would remain even if switched in. The move will fail if there is no adjacent ally, or if the ally is already under the effects of Focus Energy or Dragon Cheer. Other effects [ edit | edit source ] A Dipplin that knows this move will evolve into Hydrapple when leveled up.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "0-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "switching move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Dragon status move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen IX Dragon move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "0-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "dragon status move"
+    ],
+    "connections_descriptors": [
+      "Switching moves",
+      "Dragon Status moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257940
+}

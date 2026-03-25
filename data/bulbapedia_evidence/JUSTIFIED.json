@@ -1,0 +1,33 @@
+{
+  "answerKey": "JUSTIFIED",
+  "answerDisplay": "JUSTIFIED",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Justified (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Justified_(Ability)",
+  "pageId": 117966,
+  "pageRevisionId": 4473307,
+  "leadText": "Justified (Japanese: せいぎのこころ Heart of Justice) is an Ability introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with Justified is hit by a Dark-type damaging move, its Attack is increased by one stage. This Ability does not provide immunity or reduction to the damage, nor does it activate from a Dark-type move hitting its Substitute . Dark-type multistrike moves (such as Beat Up ) will activate Justified once per strike, increasing the Attack stat that many stages. Outside of battle [ edit | edit source ] Justified has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with Justified is hit by a Dark-type damaging move, its Attack is increased by one stage. This Ability does not provide immunity or reduction to the damage, nor does it activate from a Dark-type move hitting its Substitute . Dark-type multistrike moves (such as Beat Up ) will activate Justified once per strike, increasing the Attack stat that many stages."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Conq. Raises Attack if hit by a Dark-type move. MD GtI The Pokémon's attack goes up each time it's hit by a Dark-type move. * Each time the Pokémon is hit by a Dark-type move, its Attack goes up! * S MD Each time the Pokémon is hit by a Dark-type move, its Attack goes up!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Justified",
+    "Justified (Ability)"
+  ],
+  "updatedAt": 1773328973
+}

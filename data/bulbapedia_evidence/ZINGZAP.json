@@ -1,0 +1,30 @@
+{
+  "answerKey": "ZINGZAP",
+  "answerDisplay": "ZING ZAP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Zing Zap (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Zing_Zap_(move)",
+  "pageId": 218435,
+  "pageRevisionId": 4403505,
+  "leadText": "Zing Zap (Japanese: びりびりちくちく Shocking and Prickly) is a damage-dealing Electric-type move introduced in Generation VII. Prior to Generation VIII, it was the signature move of Togedemaru. In Generation IX, it is the signature move of Pincurchin.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Zing Zap inflicts damage and has a 30% chance of making the target flinch . Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Zing Zap cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA A strong electric blast crashes down on the target, giving it an electric shock. This may also make the target flinch. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. S V The user crashes into the target, delivering a powerful electric shock. This may also make the target flinch."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Zing-Zap",
+    "Zing Zap",
+    "Zing-Zap (move)"
+  ],
+  "updatedAt": 1773328702
+}

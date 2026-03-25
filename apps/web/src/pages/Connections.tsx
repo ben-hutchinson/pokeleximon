@@ -195,30 +195,15 @@ export default function Connections() {
       .catch((err) => setError(err.message));
   }, [selectedDate]);
 
-  if (!FEATURE_CONNECTIONS_ENABLED) {
-    return (
-      <Layout>
-        <section className="page-section" aria-labelledby="connections-heading">
-          <div className="section-header">
-            <h2 id="connections-heading">Daily Connections</h2>
-            <p>
-              Connections is not enabled for this environment. Set{" "}
-              <code>VITE_FEATURE_CONNECTIONS_ENABLED=true</code> and{" "}
-              <code>FEATURE_CONNECTIONS_ENABLED=true</code> in your API env, then restart both services.
-            </p>
-          </div>
-        </section>
-      </Layout>
-    );
-  }
-
   useEffect(() => {
+    if (!FEATURE_CONNECTIONS_ENABLED) return;
     if (!puzzle || trackedPuzzleId.current === puzzle.id) return;
     trackedPuzzleId.current = puzzle.id;
     void track("page_view", { title: puzzle.title });
   }, [puzzle, track]);
 
   useEffect(() => {
+    if (!FEATURE_CONNECTIONS_ENABLED) return;
     if (!puzzle?.id || !connections) return;
     const localKey = `${CONNECTIONS_PROGRESS_STORAGE_PREFIX}:${puzzle.id}:state:v${CONNECTIONS_PROGRESS_VERSION}`;
     const cloudKey = `connections:puzzle:${puzzle.id}`;
@@ -305,6 +290,7 @@ export default function Connections() {
   }, [allTileIds, connections, groupById, playerToken, puzzle?.id, tileById]);
 
   useEffect(() => {
+    if (!FEATURE_CONNECTIONS_ENABLED) return;
     if (!hydratedProgressRef.current) return;
     if (skipProgressBumpRef.current) {
       skipProgressBumpRef.current = false;
@@ -314,6 +300,7 @@ export default function Connections() {
   }, [selectedTileIds, solvedGroupIds, mistakes, outcome, tileOrder, statusMessage]);
 
   useEffect(() => {
+    if (!FEATURE_CONNECTIONS_ENABLED) return;
     if (!puzzle?.id || !hydratedProgressRef.current) return;
     const snapshot: ConnectionsProgressSnapshot = {
       version: 1,
@@ -358,6 +345,7 @@ export default function Connections() {
   }, []);
 
   useEffect(() => {
+    if (!FEATURE_CONNECTIONS_ENABLED) return;
     return () => {
       if (!puzzle?.id || outcome !== "in_progress" || hasSentAbandon.current) return;
       hasSentAbandon.current = true;
@@ -469,12 +457,43 @@ export default function Connections() {
     }
   };
 
+  if (!FEATURE_CONNECTIONS_ENABLED) {
+    return (
+      <Layout>
+        <section className="page-section" aria-labelledby="connections-heading">
+          <div className="section-header section-header--with-actions">
+            <div>
+              <h2 id="connections-heading">Daily Connections</h2>
+              <p>
+                Connections is not enabled for this environment. Set{" "}
+                <code>VITE_FEATURE_CONNECTIONS_ENABLED=true</code> and{" "}
+                <code>FEATURE_CONNECTIONS_ENABLED=true</code> in your API env, then restart both services.
+              </p>
+            </div>
+            <div className="section-header__actions">
+              <Link className="button ghost" to="/archive?gameType=connections">
+                Connections Archive
+              </Link>
+            </div>
+          </div>
+        </section>
+      </Layout>
+    );
+  }
+
   return (
     <Layout>
       <section className="page-section" aria-labelledby="connections-heading">
-        <div className="section-header">
-          <h2 id="connections-heading">Daily Connections</h2>
-          <p>Find four groups of four. You get four mistakes.</p>
+        <div className="section-header section-header--with-actions">
+          <div>
+            <h2 id="connections-heading">Daily Connections</h2>
+            <p>Find four groups of four. You get four mistakes.</p>
+          </div>
+          <div className="section-header__actions">
+            <Link className="button ghost" to="/archive?gameType=connections">
+              Connections Archive
+            </Link>
+          </div>
         </div>
 
         {error ? (

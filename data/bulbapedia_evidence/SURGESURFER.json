@@ -1,0 +1,30 @@
+{
+  "answerKey": "SURGESURFER",
+  "answerDisplay": "SURGE SURFER",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Surge Surfer (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Surge_Surfer_(Ability)",
+  "pageId": 215258,
+  "pageRevisionId": 4484912,
+  "leadText": "Surge Surfer (Japanese: サーフテール Surf Tail) is an Ability introduced in Generation VII. It is the signature Ability of Alolan Raichu.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When the battlefield is under the effects of Electric Terrain , Surge Surfer doubles the Speed of Pokémon with this Ability. Outside of battle [ edit | edit source ] Surge Surfer has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When the battlefield is under the effects of Electric Terrain , Surge Surfer doubles the Speed of Pokémon with this Ability."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Surge-Surfer",
+    "Surge Surfer",
+    "Surge-Surfer (Ability)"
+  ],
+  "updatedAt": 1773329257
+}

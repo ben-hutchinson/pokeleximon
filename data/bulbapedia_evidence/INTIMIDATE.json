@@ -1,0 +1,33 @@
+{
+  "answerKey": "INTIMIDATE",
+  "answerDisplay": "INTIMIDATE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Intimidate (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Intimidate_(Ability)",
+  "pageId": 4099,
+  "pageRevisionId": 4165783,
+  "leadText": "Intimidate (Japanese: いかく Intimidate) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV 1.1.3 Generations V to VII 1.1.4 Generation VIII onward 1.2 Outside of battle 1.2.1 Generation VIII onwards Effect [ edit | edit source ] In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokémon with Intimidate enters the battle, it lowers the Attack stat of all adjacent opponents by one stage. In Generations III and IV , Intimidate's activation message reads, \" 's Intimidate cuts 's attack!\" Intimidate has no effect on Pokémon who are immune to Attack stat reductions, such as Pokémon with Clear Body , Hyper Cutter , or White Smoke . This Ability will not affect a target with a substitute . Generation IV [ edit | edit source ] Intimidate now also activates when a Pokémon gains the Ability, such as via Skill Swap or Mega Evolution . Generations V to VII [ edit | edit source ] In Generation V , the message changed to \" 's Attack fell!\" In a Triple Battle , Intimidate does not affect non-adjacent Pokémon. Intimidate does not affect Pokémon with the Full Metal Body Ability. Wild Pokémon are more likely to call for help when facing a Pokémon with Intimidate. It shares this effect with Pressure and Unnerve . If a Pokémon holding an Adrenaline Orb is affected by Intimidate, the item will be consumed and increase the holder's Speed by one stage. Generation VIII onward [ edit | edit source ] Intimidate no longer affects Pokémon with Oblivious , Own Tempo , Inner Focus , or Scrappy . Intimidate also now triggers Rattled . Intimidate raises the Attack stat of a Pokémon with Guard Dog by one stage, instead of lowering it. Outside of battle [ edit | edit source ] From Pokémon Emerald onwards, if a Pokémon with Intimidate is in the first place in the party (even if fainted ), there is a 50% chance it will prevent a random wild encounter that would have occurred if the wild Pokémon would be at least 5 levels lower than the Pokémon with Intimidate. It shares this effect with Keen Eye . Generation VIII onwards [ edit | edit source ] Intimidate appears to have no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "Contents 1 In battle 1.1 Generation III 1.2 Generation IV 1.3 Generations V to VII 1.4 Generation VIII onward In battle [ edit | edit source ] Generation III [ edit | edit source ] When a Pokémon with Intimidate enters the battle, it lowers the Attack stat of all adjacent opponents by one stage. In Generations III and IV , Intimidate's activation message reads, \" 's Intimidate cuts 's attack!\" Intimidate has no effect on Pokémon who are immune to Attack stat reductions, such as Pokémon with Clear Body , Hyper Cutter , or White Smoke . This Ability will not affect a target with a substitute . Generation IV [ edit | edit source ] Intimidate now also activates when a Pokémon gains the Ability, such as via Skill Swap or Mega Evolution . Generations V to VII [ edit | edit source ] In Generation V , the message changed to \" 's Attack fell!\" In a Triple Battle , Intimidate does not affect non-adjacent Pokémon. Intimidate does not affect Pokémon with the Full Metal Body Ability. Wild Pokémon are more likely to call for help when facing a Pokémon with Intimidate. It shares this effect with Pressure and Unnerve . If a Pokémon holding an Adrenaline Orb is affected by Intimidate, the item will be consumed and increase the holder's Speed by one stage. Generation VIII onward [ edit | edit source ] Intimidate no longer affects Pokémon with Oblivious , Own Tempo , Inner Focus , or Scrappy . Intimidate also now triggers Rattled . Intimidate raises the Attack stat of a Pokémon with Guard Dog by one stage, instead of lowering it."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Lowers the Physical Attack power of attackers. MD T D S Reduces the Physical Attack power of attackers. B S L こうげきしてきた ポケモンの ぶつりこうげきの いりょくを さげてしまう Conq. Reduces nearby enemies' Attack. MD GtI Reduces damage from physical moves used by attackers next to the Pokémon. * It reduces damage from physical moves of attackers who are next to it! * S MD It reduces damage from physical moves of attackers who are next to it! MD RT DX When the Pokémon is attacked with a physical move by an enemy next to it, the damage is reduced."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Intimidate",
+    "Intimidate (Ability)"
+  ],
+  "updatedAt": 1773328957
+}

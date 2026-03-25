@@ -1,0 +1,38 @@
+{
+  "answerKey": "PLAYROUGH",
+  "answerDisplay": "PLAY ROUGH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Play Rough (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Play_Rough_(move)",
+  "pageId": 183538,
+  "pageRevisionId": 4487674,
+  "leadText": "Play Rough (Japanese: じゃれつく Frolic) is a damage-dealing Fairy-type move introduced in Generation VI. It is: TM44 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR90 in Pokémon Sword and Shield. TM127 in Pokémon Scarlet and Violet. TM020 in Pokémon Legends: Z-A. In Pokémon Ultra Sun and Ultra Moon, it can be upgraded to the special Z-Move Let's Snuggle Forever by Mimikyu holding Mimikium Z.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Play Rough inflicts damage and has a 10% chance of lowering the target's Attack stat by one stage. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 85 65 105 Accuracy 90% 90% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 20% 20% 40% Turns 3 2 4 ? ? May lower the target's offensive stats. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 90 108 Cooldown 8s Move wind-up time 20 frames Effect duration —s Additional effect Chance 10% Duration 15s 18s — May lower the target's Attack."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh BD SP The user plays rough with the target and attacks it. This may also lower the target's Attack stat. LA The user plays rough with the target and attacks it. This may also lower the target’s offensive stats. S V The user attacks by playing rough with the target. This may also lower the target's Attack stat. ZA The user attacks by playing rough. This may also lower targets' Attack stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It damages an enemy. It could lower the enemy's Attack. * It damages an enemy. It could also lower the enemy's Attack. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Prior to Generation VIII , Play Rough was the only physical Fairy-type move, not counting Z-Moves or Max Moves . However, it is the only one that is widely distributed, as Spirit Break is exclusive to Grimmsnarl and Iron Valiant , while Magical Torque cannot be used by the player."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Play-Rough",
+    "Play Rough",
+    "Play-Rough (move)"
+  ],
+  "updatedAt": 1773325851
+}

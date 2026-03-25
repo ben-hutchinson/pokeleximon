@@ -1,0 +1,34 @@
+{
+  "answerKey": "SPEEDBOOST",
+  "answerDisplay": "SPEED BOOST",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Speed Boost (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Speed_Boost_(Ability)",
+  "pageId": 4080,
+  "pageRevisionId": 4312314,
+  "leadText": "Speed Boost (Japanese: かそく Speed Up) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] At the end of each turn, Speed Boost raises the Speed stat of the Pokémon with this Ability by one stage. Speed Boost will not activate on the turn the Pokémon with the Ability is switched in (even if it gains the Ability after switching in). It will activate if the Pokémon is switched in due to a previous Pokémon fainting. Starting from Generation V , Speed Boost will not activate at the end of the turn if the user failed to escape from a wild encounter during that turn. Outside of battle [ edit | edit source ] Speed Boost has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] At the end of each turn, Speed Boost raises the Speed stat of the Pokémon with this Ability by one stage. Speed Boost will not activate on the turn the Pokémon with the Ability is switched in (even if it gains the Ability after switching in). It will activate if the Pokémon is switched in due to a previous Pokémon fainting. Starting from Generation V , Speed Boost will not activate at the end of the turn if the user failed to escape from a wild encounter during that turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The Pokémon's Movement Speed accelerates. MD T D S Accelerates the Pokémon's Movement Speed. B S L いどうそくどが あがっていく MD GtI Unavailable S MD The Pokémon's Travel Speed goes up after a certain number of turns! MD RT DX The Pokémon's Travel Speed goes up sometimes."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Speed-Boost",
+    "Speed Boost",
+    "Speed-Boost (Ability)"
+  ],
+  "updatedAt": 1773329226
+}

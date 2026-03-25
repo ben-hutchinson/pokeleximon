@@ -1,0 +1,34 @@
+{
+  "answerKey": "HONEYGATHER",
+  "answerDisplay": "HONEY GATHER",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Honey Gather (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Honey_Gather_(Ability)",
+  "pageId": 14331,
+  "pageRevisionId": 4407505,
+  "leadText": "Honey Gather (Japanese: みつあつめ Honey Gather) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Combee.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Honey Gather has no effect during battle. Outside of battle [ edit | edit source ] After winning a battle, any Pokémon in the player's party with Honey Gather that is not already holding an item may collect Honey , similar to Pickup , even if it did not participate in the battle and/or cannot battle . The chance for a Pokémon with this Ability to pick up Honey depends on its level, starting at 5% if the Pokémon is between levels 1 and 10, and going up by 5% every ten levels, ending at a 50% chance at levels 91-100."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Honey Gather has no effect during battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Improves the chances of finding Nectar in Treasure Boxes. B S L たからばこから おいしいミツが でやすくなる MD GtI Unavailable S MD When the Pokémon goes to a different floor, it may pick up Nectar! But if it is already holding an item, it won't pick up anything."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Honey-Gather",
+    "Honey Gather",
+    "Honey-Gather (Ability)"
+  ],
+  "updatedAt": 1773328932
+}

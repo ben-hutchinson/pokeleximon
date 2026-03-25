@@ -1,0 +1,26 @@
+{
+  "answerKey": "MINDSEYE",
+  "answerDisplay": "MINDS EYE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Mind's Eye (Skill)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mind%27s_Eye_(Skill)",
+  "pageId": 305751,
+  "pageRevisionId": 4188131,
+  "leadText": "Mind's Eye (Japanese: 命中率ダウン耐性 Accuracy Reduction Resistance) is a skill in Pokémon Masters EX.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] When the user's accuracy is lowered to a negative stat value, the effects of the negative stat value on accuracy are reduced. The skill can range from Mind's Eye 1 to Mind's Eye 9, with higher numbered skills resulting in a greater mitigation in the effects of a stat reduction in accuracy. Skill rank Reduction in the effect of negative accuracy stat values Mind's Eye 1 10% Mind's Eye 2 20% Mind's Eye 3 30% Mind's Eye 4 40% Mind's Eye 5 50% Mind's Eye 6 60% Mind's Eye 7 70% Mind's Eye 8 80% Mind's Eye 9 90%"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Minds-Eye",
+    "Minds Eye",
+    "Minds-Eye (Ability)"
+  ],
+  "updatedAt": 1773329030
+}

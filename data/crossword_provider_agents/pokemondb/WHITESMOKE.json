@@ -1,0 +1,17 @@
+{
+  "answerKey": "WHITESMOKE",
+  "answerDisplay": "WHITE SMOKE",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this ability, and the list of Pokémon that learn it.",
+  "score": 102.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/ability/white-smoke",
+  "extract": "Smoke, and the list of Pokémon that learn it.",
+  "rankPosition": 1,
+  "updatedAt": 1774213391
+}

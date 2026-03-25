@@ -1,0 +1,33 @@
+{
+  "answerKey": "BULLDOZE",
+  "answerDisplay": "BULLDOZE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Bulldoze (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bulldoze_(move)",
+  "pageId": 117263,
+  "pageRevisionId": 4505288,
+  "leadText": "Bulldoze (Japanese: じならし Ground Levelling) is a damage-dealing Ground-type move introduced in Generation V. It is: TM78 from Generation V to Pokémon Ultra Sun and Ultra Moon. TM81 in Pokémon Sword and Shield. TM83 in Pokémon Brilliant Diamond and Shining Pearl. TM028 in Pokémon Scarlet and Violet. TM078 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Bulldoze inflicts damage and lowers the target's Speed stat by one stage. In Double Battles , it strikes both the opponents and the user's partner. In Triple Battles , it strikes all adjacent Pokémon. If Grassy Terrain is in effect, Bulldoze deals only half the usual damage. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Bulldoze can only hit one target, like all other moves in Pokémon Legends: Arceus . It also lowers the target's action speed. Pokémon Legends: Arceus Category Physical PP 20 Agile Strong Power 60 45 75 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target +3 +5 +3 Additional effect ? ? ? ? ? ? Lowers the target's action speed Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Bulldoze generates its damaging area around the user, similar to Sludge Wave and Earthquake . Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 60 72 Cooldown 6s Move wind-up time 15 frames Effect duration 8s 11s Additional effect — — — Targets hit are slowed"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user stomps down on the ground and attacks everything in the area. Hit Pokémon's Speed stat is reduced. X Y OR AS S M US UM P E The user strikes everything around it by stomping down on the ground. This lowers the Speed stat of those hit. Sw Sh BD SP S V The user strikes everything around it by stomping down on the ground. This lowers the Speed stats of those hit. LA The user tramples its target into the ground, dealing damage. This also lowers the target’s action speed. ZA The user attacks targets by stomping on the ground. This also makes targets move more slowly for a short time."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Conq. The user stomps down on the ground and attacks everything in the area. Hit Pokémon's Speed is reduced. MD GtI S MD MD RT DX It damages nearby enemies. It also lowers their Travel Speed."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Bulldoze",
+    "Bulldoze (move)"
+  ],
+  "updatedAt": 1773321407
+}

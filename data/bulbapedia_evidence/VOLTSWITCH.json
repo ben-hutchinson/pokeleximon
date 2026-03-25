@@ -1,0 +1,38 @@
+{
+  "answerKey": "VOLTSWITCH",
+  "answerDisplay": "VOLT SWITCH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Volt Switch (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Volt_Switch_(move)",
+  "pageId": 117464,
+  "pageRevisionId": 4471052,
+  "leadText": "Volt Switch (Japanese: ボルトチェンジ Volt Change) is a damage-dealing Electric-type move introduced in Generation V. It is: TM72 from Generation V to Pokémon Ultra Sun and Ultra Moon. TM80 in Pokémon Sword and Shield. TM43 in Pokémon Brilliant Diamond and Shining Pearl. TM048 in Pokémon Scarlet and Violet. TM066 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Volt Switch deals damage and then switches the user out . The same Pokémon cannot be sent back out after using Volt Switch. The user will not be switched out if the user is the only Pokémon in the party that is able to battle, if Volt Switch fails to hit the target, if the opponent is not affected by Volt Switch, if Volt Switch triggers an opponent's Wimp Out or Emergency Exit Ability , or if using Volt Switch ends the battle . If Volt Switch knocks out an opposing Trainer 's Pokémon, the next Pokémon sent out by the user will not be counted for additional experience (although if it is holding an Amulet Coin or Luck Incense , it will be counted for that). If the foe Pokémon uses Pursuit on the same turn Volt Switch is used, Pursuit will deal normal damage if the foe is faster, or double damage if the foe is slower than the user. Volt Switch may be used to switch out of Ingrain , but Ingrain's effects will not be passed on. Volt Switch can also be used to switch out even if the user is under the effect of Arena Trap , Magnet Pull , Shadow Tag , Mean Look , Spider Web , or Block . Volt Switch will not force a switch if the user is holding a Red Card or the target is holding an Eject Button . Volt Switch can be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if Charge was used in the prior turn. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 70 84 Cooldown 12s Move wind-up time 10 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V After making its attack, the user rushes back to switch places with a party Pokémon in waiting. ZA The user attacks by dishing out a quick blow, then rushes back to its Trainer with incredible speed."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Conq. After making its attack, the user will switch places with another Pokémon MD GtI It damages an enemy. It switches the positions of you and your teammate right behind you when there is one there. S MD MD RT DX It damages an enemy. If one of your teammates is right behind you, it switches the positions of you and your teammate."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In the animated series, Volt Switch can bring out a Pokémon that does not belong to the user's Trainer."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Volt-Switch",
+    "Volt Switch",
+    "Volt-Switch (move)"
+  ],
+  "updatedAt": 1773328352
+}

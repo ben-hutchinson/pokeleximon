@@ -1,0 +1,26 @@
+{
+  "answerKey": "PONYTACANDY",
+  "answerDisplay": "PONYTA CANDY",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Candy",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Candy",
+  "pageId": 137026,
+  "pageRevisionId": 4471031,
+  "leadText": "If you were looking for the currency in Pokémon GO, see Candy (GO). For the currency in Pokémon Sleep, see Candy (Sleep). Candy (Japanese: アメ Candy) is a type of item in the Pokémon games. They can be used on a Pokémon outside of battle to permanently increase certain attributes.",
+  "sections": [
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] All Species-based Candy share the following description: Games Description P E Sw Sh BD SP LA S V ZA A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ponyta-Candy",
+    "Ponyta Candy",
+    "Ponyta-Candy (item)"
+  ],
+  "updatedAt": 1773325964
+}

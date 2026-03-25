@@ -1,0 +1,29 @@
+{
+  "answerKey": "SHELTER",
+  "answerDisplay": "SHELTER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shelter (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shelter_(move)",
+  "pageId": 268345,
+  "pageRevisionId": 4403616,
+  "leadText": "Shelter (Japanese: たてこもる Barricade) is a non-damaging Steel-type move introduced during Generation VIII, in Pokémon Legends: Arceus. It is the signature move of Hisuian Sliggoo and Goodra, and in Pokémon Legends: Arceus, Goomy as well.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Shelter raises the user's defensive stats in addition to making opponents' moves less likely to hit the user. Pokémon Legends: Arceus Category Status PP 10 Agile Strong Power — — — Accuracy —% —% —% Action speed modifier Self -2 -3 +5 Target ? ? ? Additional effect Turns 4 3 5 ? ? ? ? Raises the user's defensive stats Obscures the user Raises the user's action speed Generation IX [ edit | edit source ] Shelter raises the user's Defense by two stages."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA The user makes its skin as hard as an iron shield, raising its defensive stats. Incoming moves also become more likely to miss. S V The user makes its skin as hard as an iron shield, sharply boosting its Defense stat."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shelter",
+    "Shelter (move)"
+  ],
+  "updatedAt": 1773326918
+}

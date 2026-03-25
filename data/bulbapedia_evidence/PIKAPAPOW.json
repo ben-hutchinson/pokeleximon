@@ -1,0 +1,30 @@
+{
+  "answerKey": "PIKAPAPOW",
+  "answerDisplay": "PIKA PAPOW",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Pika Papow (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Pika_Papow_(move)",
+  "pageId": 232103,
+  "pageRevisionId": 4269547,
+  "leadText": "Pika Papow (Japanese: ピカピカサンダー Pikapika Thunder) is a damage-dealing Electric-type move introduced during Generation VII, in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. It is one of the signature moves and the partner power of the partner Pikachu. It acts as a fifth move that can only be used by shaking the game controller when prompted by an animated icon of Pikachu waving a Joy-Con.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Artwork of Pikachu using Pika Papow Generation VII [ edit | edit source ] Pika Papow deals damage and bypasses accuracy checks to always hit. The base power of Pika Papow is dependent on the friendship of the user. The greater the user's friendship, the greater the base power. P o w e r = ⌊ F r i e n d s h i p 2 . 5 ⌋ The base power of Pika Papow varies between 1 (at the minimum friendship value of 0) and 102 (at the maximum friendship value of 255). Generation VIII onwards [ edit | edit source ] Pika Papow cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description P E The more Pikachu loves its Trainer, the greater the move's power. It never misses. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Pika-Papow",
+    "Pika Papow",
+    "Pika-Papow (move)"
+  ],
+  "updatedAt": 1773325793
+}

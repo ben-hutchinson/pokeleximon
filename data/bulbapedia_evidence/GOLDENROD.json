@@ -1,0 +1,31 @@
+{
+  "answerKey": "GOLDENROD",
+  "answerDisplay": "GOLDENROD",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Goldenrod City",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Goldenrod_City",
+  "pageId": 3457,
+  "pageRevisionId": 4509988,
+  "leadText": "Goldenrod City (Japanese: コガネシティ Kogane City) is a sprawling metropolis located in western Johto. It is the largest city in the region, and one of the largest cities in the Pokémon world. Goldenrod is the center of the region's economy and telecommunications. Major attractions for Trainers include the Goldenrod Radio Tower, the city's Department Store, Game Corner, Name Rater, Magnet Train, Global Terminal, and Gym. Pokémon Trainers often come to Goldenrod City in order to win the Plain Badge from Whitney, the Goldenrod Gym Leader, who specializes in Normal-type Pokémon. The National Park, along with the Pokéathlon Dome, is located north of Goldenrod off Route 35 while the Pokémon Day Care is just south of the city on Route 34.",
+  "sections": [
+    {
+      "title": "Slogan",
+      "text": "Slogan [ edit | edit source ] Generation II [ edit | edit source ] The Festive City of Opulent Charm (Japanese: ごうか けんらん きんぴか にぎやか はなやかな まち The bustling, brilliant city of luxurious splendor. ) Generation IV [ edit | edit source ] A Happening Big City (Japanese: にぎわいの おおがた とし A bustling big city. )"
+    },
+    {
+      "title": "Generation II",
+      "text": "Generation II [ edit | edit source ] The Festive City of Opulent Charm (Japanese: ごうか けんらん きんぴか にぎやか はなやかな まち The bustling, brilliant city of luxurious splendor. )"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Goldenrod-City",
+    "Goldenrod City",
+    "Goldenrod",
+    "Goldenrod-City (location)"
+  ],
+  "updatedAt": 1774214099
+}

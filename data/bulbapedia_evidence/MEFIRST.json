@@ -1,0 +1,38 @@
+{
+  "answerKey": "MEFIRST",
+  "answerDisplay": "ME FIRST",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Me First (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Me_First_(move)",
+  "pageId": 12430,
+  "pageRevisionId": 4280509,
+  "leadText": "Me First (Japanese: さきどり Take in Advance) is a non-damaging Normal-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV to VI 1.2 Generation VII 1.3 Generation VIII onwards 1.4 Uncallable moves Effect [ edit | edit source ] Generation IV to VI [ edit | edit source ] If the target has not made its move this turn, but has selected a damage-dealing move, Me First copies that move preemptively and increases the power by 50%. It bypasses accuracy checks to always hit, unless the opponent is in the semi-invulnerable turn of a move such as Dig or Fly . Me First will fail if the target selected a non-damaging move, or if the target already executed its move this turn. If the target is about to recharge from a move like Frenzy Plant this turn, Me First will copy the move. If a consecutively executed move like Outrage is copied, it will force the user of Me First to use the move for several turns, but the 50% increase in power only applies to the first turn. Unlike other moves, if the target of Me First is a vacant slot or a Pokémon that already fainted before the Me First user's turn, Me First will fail instead of being redirected to an adjacent non-fainted opponent. In Generation V only, if a Pokémon holds a Choice item and uses Me First, it will not become locked into any move, and is free to select a different move on a later turn. In all other generations, it will become locked into Me First, rather than the move it copied (if any, and even if the Pokémon knows that move separately in one of its own move slots). The Assault Vest does not prevent a Pokémon from selecting Me First, the only status move for which this is the case. Generation VII [ edit | edit source ] Now, when Pokémon holding a Choice item copy a consecutively executed move or Bide with Me First, that move will fail after the first turn, because it is locked into Me First and attempting to use a different move. If powered up by a Normalium Z into Z-Me First, the user's Speed stat rises by two stages. Additionally, the copied move will become its corresponding Z-Move . Generation VIII onwards [ edit | edit source ] Me First cannot be selected in a battle. Uncallable moves [ edit | edit source ] Me First will fail if the target chose a Z-Move or any of the following moves. Moves that call other moves are considered to be the original status move (not the move it calls), so Me First will always fail if the target has selected one of those moves. Move Type Cat Generations IV V VI VII Beak Blast Flying Physical ✔ Belch Poison Special ✔ ✔ Chatter Flying Special ✔ ✔ ✔ ✔ Counter Fighting Physical ✔ ✔ ✔ ✔ Covet Normal Physical ✔ ✔ ✔ ✔ Focus Punch Fighting Physical ✔ ✔ ✔ ✔ Metal Burst Steel Physical ✔ ✔ ✔ ✔ Mirror Coat Psychic Special ✔ ✔ ✔ ✔ Shell Trap Fire Special ✔ Struggle Normal Physical ✔ ✔ ✔ ✔ Thief Dark Physical ✔ ✔ ✔ ✔"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user tries to cut ahead of the foe to steal and use the foe's intended move with greater power. B W B2 W2 The user tries to cut ahead of the target to steal and use the target's intended move with greater power. X Y OR AS The user cuts ahead of the target to steal and use the target's intended move with greater power. This move fails if it isn't used first. S M US UM P E The user cuts ahead of the target to copy and use the target's intended move with greater power. This move fails if it isn't used first. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D Causes the user to unleash a random move drawn from the facing enemy's move list. The move's power is boosted for greater damage. The move fails if the enemy has no damage-dealing moves. MD S Causes the user to unleash a random move drawn from the facing Pokémon's move list. The move's power is boosted for greater damage. The move fails if the Pokémon has no damage-dealing moves. B S L しょうめんの ポケモンの おぼえているわざのひとつを ランダムで えらんで はつどうする あたえるダメージも おおきくなる あいてが ダメージを あたえるわざを もっていないときは しっぱいになる MD GtI UNUSED S MD You use one of the attack moves that the enemy knows. * You use one of the enemy's physical or special moves. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In link battles between players , the user of Me First turns to face its own Trainer during the \"stealing\" animation before executing the copied move normally."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Me-First",
+    "Me First",
+    "Me-First (move)"
+  ],
+  "updatedAt": 1773324878
+}

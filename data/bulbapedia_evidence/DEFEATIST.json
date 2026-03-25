@@ -1,0 +1,33 @@
+{
+  "answerKey": "DEFEATIST",
+  "answerDisplay": "DEFEATIST",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Defeatist (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Defeatist_(Ability)",
+  "pageId": 117624,
+  "pageRevisionId": 4419935,
+  "leadText": "Defeatist (Japanese: よわき Timid) is an Ability introduced in Generation V. It is the signature Ability of Archen and Archeops.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Defeatist halves the user's Attack and Special Attack stats when their HP is equal to or less than half of its maximum. Outside of battle [ edit | edit source ] Defeatist has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Defeatist halves the user's Attack and Special Attack stats when their HP is equal to or less than half of its maximum."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI When its HP is half or lower, the Pokémon does less damage. * When the Pokémon's HP is down to half or lower, its moves do less damage! * S MD When the Pokémon's HP is down to half or lower, the Pokémon's moves do less damage!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Defeatist",
+    "Defeatist (Ability)"
+  ],
+  "updatedAt": 1773328833
+}

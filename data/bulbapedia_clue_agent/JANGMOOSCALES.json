@@ -1,0 +1,61 @@
+{
+  "answerKey": "JANGMOOSCALES",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "tm materials",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Pokemon item from the main series games.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "TM crafting material",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "TM crafting material",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.72,
+        "style": "family"
+      },
+      {
+        "text": "Move-machine crafting item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.7,
+        "style": "family"
+      },
+      {
+        "text": "Crafting drop for TMs",
+        "evidence_ref": "lead",
+        "mystery_score": 0.48,
+        "specificity_score": 0.68,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "tm material",
+      "crafting drop"
+    ],
+    "connections_descriptors": [
+      "TM crafting items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257957
+}

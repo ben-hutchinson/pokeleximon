@@ -1,0 +1,30 @@
+{
+  "answerKey": "MAXFLUTTERBY",
+  "answerDisplay": "MAX FLUTTERBY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Max Flutterby (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Flutterby_(move)",
+  "pageId": 244374,
+  "pageRevisionId": 4406141,
+  "leadText": "Max Flutterby (Japanese: ダイワーム Dai Worm) is a damage-dealing Bug-type Max Move introduced in Generation VIII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Max Flutterby inflicts damage and then decreases the target's and its ally's Special Attack by one stage. Its power and whether it is a special or physical move depends on the move it is based on. Base move Power Cat. Attack Order 130 Physical Bug Bite 110 Physical Bug Buzz 130 Special Fell Stinger 100 Physical First Impression 130 Physical Fury Cutter 90 Physical Infestation 90 Special Leech Life 130 Physical Lunge 130 Physical Megahorn 140 Physical Pin Missile 130 Physical Pollen Puff 130 Special Skitter Smack 120 Physical Struggle Bug 100 Special U-turn 120 Physical X-Scissor 130 Physical Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Max Flutterby cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V This is a Bug-type attack Dynamax Pokémon use. This lowers the target's Sp. Atk stat. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Max-Flutterby",
+    "Max Flutterby",
+    "Max-Flutterby (move)"
+  ],
+  "updatedAt": 1773324815
+}

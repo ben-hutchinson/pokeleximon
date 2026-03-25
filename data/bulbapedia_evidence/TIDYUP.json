@@ -1,0 +1,30 @@
+{
+  "answerKey": "TIDYUP",
+  "answerDisplay": "TIDY UP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Tidy Up (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tidy_Up_(move)",
+  "pageId": 277779,
+  "pageRevisionId": 4463225,
+  "leadText": "Tidy Up (Japanese: おかたづけ Tidy Up) is a non-damaging Normal-type move introduced in Generation IX.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Tidy Up raises the user's Attack stat and Speed stat by one stage each. It also clears away substitutes , Spikes , Toxic Spikes , Stealth Rock , and Sticky Web on both the user's and opponent's side of the field. The user's stats will still be raised even if there are no traps or substitutes to remove."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user tidies up and removes the effects of Spikes, Stealth Rock, Sticky Web, Toxic Spikes, and Substitute. This also boosts the user’s Attack and Speed stats."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Tidy-Up",
+    "Tidy Up",
+    "Tidy-Up (move)"
+  ],
+  "updatedAt": 1773327948
+}

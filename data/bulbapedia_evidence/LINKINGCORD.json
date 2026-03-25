@@ -1,0 +1,38 @@
+{
+  "answerKey": "LINKINGCORD",
+  "answerDisplay": "LINKING CORD",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Linking Cord",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Linking_Cord",
+  "pageId": 268204,
+  "pageRevisionId": 4485885,
+  "leadText": "The Linking Cord (Japanese: つながりのヒモ Linking Cord) is a type of Evolution item introduced in Pokémon Legends: Arceus. It allows Kadabra, Machoke, Graveler, and Haunter to evolve into Alakazam, Machamp, Golem, and Gengar, respectively.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] The Linking Cord triggers the Evolution of certain Pokémon (all of which can alternatively evolve when traded ) upon use. This consumes the Linking Cord. Causes Kadabra to evolve into Alakazam Causes Machoke to evolve into Machamp Causes Graveler to evolve into Golem Causes Haunter to evolve into Gengar"
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] The Linking Cord is required to evolve certain Pokémon in Pokémon Sleep. It is consumed upon use. Graveler requires 80 Geodude Candy and a Linking Cord to evolve into Golem . Slowpoke requires 80 Slowpoke Candy , a Linking Cord, and a King's Rock to evolve into Slowking . Haunter requires 80 Gastly Candy and a Linking Cord to evolve into Gengar . Onix requires 80 Onix Candy , a Linking Cord, and a Metal Coat to evolve into Steelix . As of version 1.0.13, if the Linking Cord is used from the Bag, it will reward the player with 5 candies of a random Pokémon that evolves using the Linking Cord."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA S V A string exuding a mysterious energy that makes you feel a strange sense of connection. It's loved by certain Pokémon."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sleep A string exuding a mysterious energy that makes you feel a strange sense of connection. If you use it from your Bag's items pocket, you'll receive 5 candies of a randomly selected Pokémon capable of evolving with the Linking Cord."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Linking-Cord",
+    "Linking Cord",
+    "Linking-Cord (item)"
+  ],
+  "updatedAt": 1773324416
+}

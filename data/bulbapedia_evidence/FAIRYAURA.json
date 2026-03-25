@@ -1,0 +1,34 @@
+{
+  "answerKey": "FAIRYAURA",
+  "answerDisplay": "FAIRY AURA",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Fairy Aura (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fairy_Aura_(Ability)",
+  "pageId": 180568,
+  "pageRevisionId": 4407541,
+  "leadText": "Fairy Aura (Japanese: フェアリーオーラ Fairy Aura) is an Ability introduced in Generation VI. It is the signature Ability of Xerneas.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Fairy Aura increases the power of Fairy-type attacks by approximately 33% (or more accurately, by a factor of 5448/4096) for all Pokémon on the field. This effect is inverted by Aura Break , instead dividing the power of Fairy-type attacks by 4/3, resulting in a 25% reduction in damage. The effects will not stack multiple times if more than one Pokémon has this Ability. Outside of battle [ edit | edit source ] Fairy Aura has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Fairy Aura increases the power of Fairy-type attacks by approximately 33% (or more accurately, by a factor of 5448/4096) for all Pokémon on the field. This effect is inverted by Aura Break , instead dividing the power of Fairy-type attacks by 4/3, resulting in a 25% reduction in damage. The effects will not stack multiple times if more than one Pokémon has this Ability."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD Fairy-type moves of all Pokémon become more powerful!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fairy-Aura",
+    "Fairy Aura",
+    "Fairy-Aura (Ability)"
+  ],
+  "updatedAt": 1773328864
+}

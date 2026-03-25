@@ -1,0 +1,17 @@
+{
+  "answerKey": "MAGCARGO",
+  "answerDisplay": "MAGCARGO",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Fire / Rock type Pokémon introduced in Generation 2.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/magcargo",
+  "extract": "Magcargo is a Fire / Rock type Pokémon introduced in Generation 2 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211956
+}

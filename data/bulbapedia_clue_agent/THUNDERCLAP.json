@@ -1,0 +1,94 @@
+{
+  "answerKey": "THUNDERCLAP",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4403695,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX Electric move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Electric special move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Effect [ edit | edit source ] Thunderclap has a priority of +1. If Thunderclap's target has selected a physical or special attack and has not yet had a chance to execute its move, Thunderclap will damage the target; otherwise, Thunderclap will fail. Thunderclap only depends on the move the target has selected, and is not affected by any consideration of whether the attack can actually be executed, such as status conditions like sleep or freeze or Abilities like Truant .",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "70-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      },
+      {
+        "text": "priority move",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "priority move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "priority move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Electric special move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen IX Electric move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "priority move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.66,
+        "style": "mechanic"
+      },
+      {
+        "text": "70-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "electric special move"
+    ],
+    "connections_descriptors": [
+      "Priority moves",
+      "Electric Special moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258024
+}

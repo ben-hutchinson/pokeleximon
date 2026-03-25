@@ -1,0 +1,104 @@
+{
+  "answerKey": "MAGICGUARD",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4320909,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Magic Guard (Japanese: Magic Guard) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Clefairy's evolutionary line.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD T D S Protects the Pokemon from all damage except from direct attacks. B S L MD GtI Unavailable S MD The Pokemon is protected from most indirect damage, such as damage from a sandstorm, a Blast Trap, or getting poisoned. But it takes damage from attack moves. MD RT DX The Pokemon won't take damage from things like the Sandstorm weather condition, Blast Traps, or getting Poisoned.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generation V onwards 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Magic Guard prevents the Pokemon from receiving indirect damage, but does not prevent it from becoming afflicted by statuses that would deal such damage. Additional effects, such as being trapped while bound or having its Attack reduced by burn , are not prevented even though their damage is. Magic Guard prevents damage caused by effects including weather , poison and burn , effects like Curse and Leech Seed , entry hazards , recoil (except from Struggle ), crash damage , and damage from using Mind Blown or Steel Beam . Magic Guard prevents the damage inflicted by a Life Orb , but the holder still gains the power boost. Magic Guard does not prevent confusion damage or direct modification of a Pokemon's HP through means other than damage, such as by Pain Split , Belly Drum , Substitute , or a Ghost type cutting its own HP to use Curse . Moves that cause the user to faint , Destiny Bond , and Perish Song can still cause a Pokemon with Magic Guard to faint. When a Pokemon with Magic Guard is badly poisoned , Magic Guard still prevents poison damage, but it does not prevent the counter from increasing every turn. Consequently, if the Pokemon's Magic Guard is suppressed or changed, it will begin taking poison damage proportional to the counter's current value. Magic Guard blocks damage from the Gulp Missile counterattack, but does not prevent the Defense drop or paralysis from it. If a Pokemon with Magic Guard hits a target holding a Jaboca Berry with a physical attack, or a target holding a Rowap Berry with a special attack, the Pokemon will not eat the berry and no damage will be dealt. Generation IV [ edit | edit source ] If a Pokemon with Magic Guard is paralyzed , it cannot be prevented from using a move due to paralysis, although its Speed is still reduced. A Pokemon with Magic Guard cannot be poisoned by Toxic Spikes . Generation V onwards [ edit | edit source ] Magic Guard no longer grants immunity to being fully paralyzed and no longer prevents poisoning from Toxic Spikes (but it still prevents poison damage). Outside of battle [ edit | edit source ] Magic Guard has no effect outside of battle. This means a poisoned Pokemon with Magic Guard will still take damage in the field in Generation IV (but not later generations, because poison no longer causes damage in the field starting in Generation V).",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Magic Guard prevents the Pokemon from receiving indirect damage, but does not prevent it from becoming afflicted by statuses that would deal such damage. Additional effects, such as being trapped while bound or having its Attack reduced by burn , are not prevented even though their damage is. Magic Guard prevents damage caused by effects including weather , poison and burn , effects like Curse and Leech Seed , entry hazards , recoil (except from Struggle ), crash damage , and damage from using Mind Blown or Steel Beam . Magic Guard prevents the damage inflicted by a Life Orb , but the holder still gains the power boost. Magic Guard does not prevent confusion damage or direct modification of a Pokemon's HP through means other than damage, such as by Pain Split , Belly Drum , Substitute , or a Ghost type cutting its own HP to use Curse . Moves that cause the user to faint , Destiny Bond , and Perish Song can still cause a Pokemon with Magic Guard to faint. When a Pokemon with Magic Guard is badly poisoned , Magic Guard still prevents poison damage, but it does not prevent the counter from increasing every turn. Consequently, if the Pokemon's Magic Guard is suppressed or changed, it will begin taking poison damage proportional to the counter's current value. Magic Guard blocks damage from the Gulp Missile counterattack, but does not prevent the Defense drop or paralysis from it. If a Pokemon with Magic Guard hits a target holding a Jaboca Berry with a physical attack, or a target holding a Rowap Berry with a special attack, the Pokemon will not eat the berry and no damage will be dealt. Generation IV [ edit | edit source ] If a Pokemon with Magic Guard is paralyzed , it cannot be prevented from using a move due to paralysis, although its Speed is still reduced. A Pokemon with Magic Guard cannot be poisoned by Toxic Spikes . Generation V onwards [ edit | edit source ] Magic Guard no longer grants immunity to being fully paralyzed and no longer prevents poisoning from Toxic Spikes (but it still prevents poison damage).",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Protects against damage not directly caused by a move.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "protective trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.78,
+        "style": "effect"
+      },
+      {
+        "text": "Prevents major status ailments",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "effect"
+      },
+      {
+        "text": "Ailment-proof trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "effect"
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "protective trait",
+      "status immunity",
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Protective abilities",
+      "Status-blocking abilities",
+      "Weather abilities",
+      "Gen IV abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257967
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "LOCKON",
+  "answerDisplay": "LOCK ON",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Lock-On (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Lock-On_(move)",
+  "pageId": 3810,
+  "pageRevisionId": 4500908,
+  "leadText": "Lock-On (Japanese: ロックオン Lock-On) is a non-damaging Normal-type move introduced in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generations III 1.3 Generations IV 1.4 Generation V 1.5 Generation VII Effect [ edit | edit source ] After the user has used Lock-On and until its effect ends (see table below), any accuracy check it makes against the same target will succeed; this means moves will not miss, even if the target is in the semi-invulnerable turn of a move such as Dig or Fly . Although this effect means moves will not \"miss\", they can still fail for other reasons (such as being Protected , or Fake Out being used outside the first turn) or be redirected by move-drawing moves and Abilities . The damaging turn of Future Sight and Doom Desire counts as an accuracy check. Lock-On will fail if the target is behind a substitute . Gen II Gen III Gen IV Gen V+ Accuracy 100% 100% —* —* Fails if effect is already active ✘ ✘ ✘ ✔ Effect expires... Next move against target End of next turn End of next turn End of next turn Effect ends when [who] leaves Affected target Target or user Target or user Target or user Can be Baton Passed ✔ (target only) ✔ (either side) ✔ (either side) ✘ *: This move bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . Generation II [ edit | edit source ] In this generation only, this effect is implemented as a status attached only to the target, so any Pokémon who attacks the target next (not just the user) will receive the benefit of this effect. Also, when a move is used, this effect is checked after the following conditions: if Dream Eater is used against a non- sleeping target; if Protect or Detect is active; or if Dream Eater, Absorb , Mega Drain , Leech Life , or Giga Drain are targeting a Pokémon with a substitute . Therefore, if a move fails in those cases, Lock-On's effect will remain in place. In this generation only, this effect will not allow the moves Earthquake , Fissure , or Magnitude to hit a Pokémon in the semi-invulnerable turn of Fly ; the move will miss and Lock-On's effect ends. ( Type immunity is checked before Lock-On's effect, so this mainly applies to Mew or a non- Flying-type Pokémon that calls Fly indirectly or via Mimic or Sketch .) Generations III [ edit | edit source ] Only one Pokémon at a time can have the effect of Lock-On or Mind Reader applied to a given target. If another Pokémon uses one of these moves on the same target, the effect will be overwritten for the previous Pokémon and be associated with the new Pokémon instead. Lock-On can be used as the first move of a Pokémon Contest combination , causing Octazooka , Superpower , Thunder , Tri Attack , and Zap Cannon to score double the normal appeal if used in the next turn. Generations IV [ edit | edit source ] Like in Generation III, only one Pokémon at a time can have the effect of Lock-On or Mind Reader applied to a given target. In this generation only, due to a glitch , if a move receives the effect of Lock-On while the target is under the effect of protection , the move will ignore the protection with inverted accuracy. This does not apply to OHKO moves . Lock-On can also be used as part of a Contest Spectacular combination , causing a one-hit knockout move to give an extra three appeal points if used in the next turn. Generation V [ edit | edit source ] Starting in Generation V , multiple Pokémon can have the effect of Lock-On or Mind Reader on the same target. Lock-On will not fail if another Pokémon has used Lock-On or Mind Reader on the same target; it will only fail if the user already has the effect active on its current target. Generation VII [ edit | edit source ] If powered up by a Normalium Z into Z-Lock-On, the user's Speed stat is raised by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 An attack that locks on to the target to ensure that the next attack will hit without fail. G S C Ensures the next attack will hit. R S E Locks on to the foe to ensure the next move hits. FR LG The user locks on to the foe, making the next move sure to hit. Colo XD Locks onto the target to ensure the next move hits. D P Pt HG SS PBR The user takes sure aim at the foe. It ensures the next attack does not fail to hit the target. B W B2 W2 The user takes sure aim at the target. It ensures the next attack does not fail to hit the target. X Y OR AS S M US UM P E Sw Sh BD SP LA The user takes sure aim at the target. This ensures the next attack does not miss the target. S V The user takes sure aim at the target. This ensures the user's next move does not miss that target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Gives the user the Sure Shot status, making all its moves and attacks completely accurate. MD T D S Gives the user a Sure Shot status, which makes all moves and attacks completely accurate. B S L じぶんを ひっちゅうじょうたいにかえる ひっちゅうじょうたいのときは こうげきや わざが かならず めいちゅうする MD GtI You'll get the Sure Shot status, which makes your attack hit the enemy without fail. S MD MD RT DX You'll get the Sure Shot status, which makes your attacks and moves hit the enemy without fail."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Lock-On",
+    "Lock On",
+    "Lock-On (move)"
+  ],
+  "updatedAt": 1773324446
+}

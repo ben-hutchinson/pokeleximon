@@ -1,0 +1,34 @@
+{
+  "answerKey": "LIFEDEW",
+  "answerDisplay": "LIFE DEW",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Life Dew (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Life_Dew_(move)",
+  "pageId": 244342,
+  "pageRevisionId": 4403552,
+  "leadText": "Life Dew (Japanese: いのちのしずく Life Droplets) is a non-damaging Water-type move introduced in Generation VIII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Life Dew restores the HP of the user and its allies by 25% of their maximum HP. If an ally has Water Absorb , Storm Drain , or Dry Skin , it will activate and negate this move's effect on it. It affects allies with substitutes but cannot affect a Pokémon in the semi-invulnerable turn of a move."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh BD SP LA The user scatters mysterious water around and restores the HP of itself and its ally Pokémon in the battle. S V The user scatters mysterious water around and restores the HP of itself and its ally Pokémon currently in the battle."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as an ACE SPEC Item card in the TCG . Along with Body Press , Life Dew is one of the only Generation VIII moves to be usable in Pokémon Brilliant Diamond and Shining Pearl ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Life-Dew",
+    "Life Dew",
+    "Life-Dew (move)"
+  ],
+  "updatedAt": 1773324383
+}

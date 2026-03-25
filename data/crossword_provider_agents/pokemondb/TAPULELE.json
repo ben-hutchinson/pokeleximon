@@ -1,0 +1,17 @@
+{
+  "answerKey": "TAPULELE",
+  "answerDisplay": "TAPU LELE",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Psychic / Fairy type Pokémon introduced in Generation 7.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/tapu-lele",
+  "extract": "Lele is a Psychic / Fairy type Pokémon introduced in Generation 7 .",
+  "rankPosition": 1,
+  "updatedAt": 1774213136
+}

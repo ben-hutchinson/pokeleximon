@@ -1,0 +1,17 @@
+{
+  "answerKey": "RESISTWING",
+  "answerDisplay": "RESIST WING",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this item Feather, including added effects and where to find it.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/item/resist-wing",
+  "extract": "Resist Feather, including added effects and where to find it.",
+  "rankPosition": 1,
+  "updatedAt": 1774212586
+}

@@ -1,0 +1,17 @@
+{
+  "answerKey": "MOTHIM",
+  "answerDisplay": "MOTHIM",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Bug / Flying type Pokémon introduced in Generation 4.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/mothim",
+  "extract": "Mothim is a Bug / Flying type Pokémon introduced in Generation 4 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212131
+}

@@ -1,0 +1,33 @@
+{
+  "answerKey": "ETERNABEAM",
+  "answerDisplay": "ETERNABEAM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Eternabeam (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Eternabeam_(move)",
+  "pageId": 244344,
+  "pageRevisionId": 4413563,
+  "leadText": "Eternabeam (Japanese: ムゲンダイビーム Infinity Beam) is a damage-dealing Dragon-type move introduced in Generation VIII. It is one of the signature moves of Eternatus.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] Eternabeam inflicts damage and then forces the user to recharge during the next turn, unless the move fails due to missing, type immunity, or being blocked by a protection move . Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Eternabeam cannot be selected in a battle. Generation IX [ edit | edit source ] Eternabeam cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA This is Eternatus's most powerful attack in its original form. The user can't move on the next turn. BD SP S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Eternabeam is the first instance of a Legendary Pokémon 's signature move being removed from the game. When Eternatus uses Eternabeam, it briefly appears in its Eternamax form during the move's animation. This is the only time Eternamax Eternatus is seen outside of the battle against it during the climax of Pokémon Sword and Shield . Despite displaying the Eternamax form for the duration of the move's animation, the game does not treat this as an actual form change internally; Eternatus's stats and form index value remain unchanged, and Eternamax Eternatus will not be registered in the player's Pokédex upon using this move. Eternabeam is the only move that is a regular move in the core series games but is a max move in Pokémon Masters EX . This move's name includes a reference to Eternamax in all languages. In English, Japanese, Chinese, and Korean, it is also a reference to Eternatus."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Eternabeam",
+    "Eternabeam (move)"
+  ],
+  "updatedAt": 1773322624
+}

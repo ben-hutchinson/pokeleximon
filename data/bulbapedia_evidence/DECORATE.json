@@ -1,0 +1,29 @@
+{
+  "answerKey": "DECORATE",
+  "answerDisplay": "DECORATE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Decorate (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Decorate_(move)",
+  "pageId": 244331,
+  "pageRevisionId": 4403541,
+  "leadText": "Decorate (Japanese: デコレーション Decoration) is a non-damaging Fairy-type move introduced in Generation VIII. It is the signature move of Alcremie.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] Decorate raises the target's Attack and Special Attack stats by two stages each. Unlike most moves, it bypasses moves like Protect , Detect , and even Max Guard to affect the target but is blocked by Crafty Shield . It cannot affect a target that has a substitute or in the semi-invulnerable turn of a move. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Decorate cannot be selected in a battle. Generation IX [ edit | edit source ] In Versions 1.0 to 2.0.2 of Pokémon Scarlet and Violet , Decorate could not be selected in a battle. Starting with Version 3.0.0, it is usable and functions the same as it did in the previous generation."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA The user sharply raises the target's Attack and Sp. Atk stats by decorating the target. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. S V The user sharply boosts the target's Attack and Sp. Atk stats by decorating the target."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Decorate",
+    "Decorate (move)"
+  ],
+  "updatedAt": 1773322058
+}

@@ -1,0 +1,30 @@
+{
+  "answerKey": "GRASSYSURGE",
+  "answerDisplay": "GRASSY SURGE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Grassy Surge (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Grassy_Surge_(Ability)",
+  "pageId": 216831,
+  "pageRevisionId": 4259073,
+  "leadText": "Grassy Surge (Japanese: グラスメイカー Grass Maker) is an Ability introduced in Generation VII. Prior to Generation VIII, it was the signature Ability of Tapu Bulu. In Generation IX, it is the signature Ability of Grookey's evolutionary line.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with Grassy Surge enters the battle, it creates the effect of the move Grassy Terrain on the battlefield. Outside of battle [ edit | edit source ] Grassy Surge has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with Grassy Surge enters the battle, it creates the effect of the move Grassy Terrain on the battlefield."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Grassy-Surge",
+    "Grassy Surge",
+    "Grassy-Surge (Ability)"
+  ],
+  "updatedAt": 1773328907
+}

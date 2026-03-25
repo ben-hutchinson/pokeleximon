@@ -1,0 +1,33 @@
+{
+  "answerKey": "TELEPATHY",
+  "answerDisplay": "TELEPATHY",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Telepathy (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Telepathy_(Ability)",
+  "pageId": 117438,
+  "pageRevisionId": 4463037,
+  "leadText": "Telepathy redirects here. For Pokémon who are able to talk telepathically in human language, see Talking Pokémon. Telepathy (Japanese: テレパシー Telepathy) is an Ability introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] A Pokémon with Telepathy avoids damaging moves used by its allies. This includes attacks with multiple targets (such as Discharge ), attacks exclusively targeting an ally with Telepathy (such as Thunderbolt ), and attacks that could potentially heal an ally with Telepathy (such as Pollen Puff and Present ). However, it is unprotected from its allies' status moves (such as Teeter Dance or Confuse Ray ). When Telepathy prevents an attack from hitting, the message \" avoids attacks by its ally Pokémon! \" will be displayed. Outside of battle [ edit | edit source ] Telepathy has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] A Pokémon with Telepathy avoids damaging moves used by its allies. This includes attacks with multiple targets (such as Discharge ), attacks exclusively targeting an ally with Telepathy (such as Thunderbolt ), and attacks that could potentially heal an ally with Telepathy (such as Pollen Puff and Present ). However, it is unprotected from its allies' status moves (such as Teeter Dance or Confuse Ray ). When Telepathy prevents an attack from hitting, the message \" avoids attacks by its ally Pokémon! \" will be displayed."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI Unavailable S MD The Pokémon reads its teammates' minds and won't take damage from its teammates' moves! For example, even if a teammate uses Earthquake , the Pokémon won't be hit by it!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Telepathy",
+    "Telepathy (Ability)"
+  ],
+  "updatedAt": 1773329269
+}

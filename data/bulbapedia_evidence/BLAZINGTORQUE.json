@@ -1,0 +1,30 @@
+{
+  "answerKey": "BLAZINGTORQUE",
+  "answerDisplay": "BLAZING TORQUE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Blazing Torque (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Blazing_Torque_(move)",
+  "pageId": 277874,
+  "pageRevisionId": 4317598,
+  "leadText": "Blazing Torque (Japanese: バーンアクセル Burn Accel) is a damage-dealing Fire-type move introduced in Generation IX. It is the signature move of the Schedar Starmobile.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Blazing Torque inflicts damage and has a 30% chance of burning the target. Encore , Instruct , Mimic , and Sketch fail if the target's last used move was Blazing Torque. Copycat fails if the last used move was Blazing Torque."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V ---"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Blazing-Torque",
+    "Blazing Torque",
+    "Blazing-Torque (move)"
+  ],
+  "updatedAt": 1773321231
+}

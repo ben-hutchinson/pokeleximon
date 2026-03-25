@@ -1,0 +1,123 @@
+{
+  "answerKey": "ADRENALINEORB",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4492862,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VII item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "specificity": 0.7
+      },
+      {
+        "text": "held items",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen VII held items",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Makes wild Pokemon more likely to summon allies. Held: increases the holders Speed by one stage when affected by Intimidate.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Species-linked power item",
+        "evidence_ref": "lead",
+        "specificity": 0.68
+      },
+      {
+        "text": "Boosts speed when intimidated. s v an item to be held by a pokemon. this orb boosts the speed when intimidated",
+        "evidence_ref": "Description",
+        "specificity": 0.86
+      },
+      {
+        "text": "Boosts Times's stats",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Species-linked power item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.6,
+        "specificity_score": 0.74,
+        "style": "family"
+      },
+      {
+        "text": "Signature battle item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "family"
+      },
+      {
+        "text": "Boosts Speed When Intimidated. S V An Item To Be Held By A Pokemon. This Orb Boosts The Speed after intimidated",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Speed When Intimidated. S V An Item To Be Held By A Pokemon. This Orb Boosts The Speed boost on trigger",
+        "evidence_ref": "Description",
+        "mystery_score": 0.62,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Times Speed When Intimidated. It Can Be Used Only Once. Us Um P E Using It Makes Wild Pokemon Call For Help A Number boost item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Power item for Times",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Times-only held item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Held battle item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.46,
+        "specificity_score": 0.68,
+        "style": "category"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "speed when intimidated. s v an item to be held by a pokemon. this orb boosts the speed booster",
+      "times item"
+    ],
+    "connections_descriptors": [
+      "Species-linked items",
+      "Held battle items",
+      "Gen VII items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257924
+}

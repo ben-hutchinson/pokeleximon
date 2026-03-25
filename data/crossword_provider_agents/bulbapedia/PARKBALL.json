@@ -1,0 +1,16 @@
+{
+  "answerKey": "PARKBALL",
+  "answerDisplay": "PARK BALL",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Never-fails catcher in Pal Park",
+  "score": 103.44,
+  "approved": true,
+  "qualityFlags": [
+    "answer_fragment_leak"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Park_Ball",
+  "extract": "If you were looking for the Poké Ball known as the Park Ball in Generation II, see Sport Ball. The Park Ball (Japanese: パークボール Park Ball) is a type of Poké Ball introduced in Generation IV. It can be used to re-catch Pokémon migrated to Pal Park.",
+  "updatedAt": 1774258390
+}

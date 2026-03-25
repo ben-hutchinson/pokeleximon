@@ -1,0 +1,17 @@
+{
+  "answerKey": "IRONBUNDLE",
+  "answerDisplay": "IRON BUNDLE",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is an Ice / Water type Pokémon introduced in Generation 9.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/iron-bundle",
+  "extract": "Bundle is an Ice / Water type Pokémon introduced in Generation 9 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211714
+}

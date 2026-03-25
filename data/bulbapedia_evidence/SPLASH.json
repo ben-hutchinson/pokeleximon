@@ -1,0 +1,37 @@
+{
+  "answerKey": "SPLASH",
+  "answerDisplay": "SPLASH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Splash (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Splash_(move)",
+  "pageId": 3759,
+  "pageRevisionId": 4503902,
+  "leadText": "Splash (Japanese: はねる Hop) is a non-damaging Normal-type move introduced in Generation I. Prior to Generation II, it was the signature move of Magikarp.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Splash has no effect whatsoever. It simply displays a dipping animation and a text message informing the player that nothing happened. In Generation I, the message is \"No effect!\". Generation II onwards state \"But nothing happened.\", with an exclamation mark replacing the period starting in Generation III. Splash cannot be used when Gravity is in effect. If the user has no other usable moves besides Splash when Gravity is in effect, it will use Struggle . If powered up by a Normalium Z into Z-Splash, the user's Attack stat rises by three stages. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Status PP 40 Agile Strong Power — — — Accuracy —% —% —% Action speed modifier Self 0 0 0 Target 0 0 0 Additional effect ? ? ? ? ? ? None Splash cannot be mastered . Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 4s Move wind-up time 30 frames 10 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A move that involves only flopping and Splash ing around in front of the opponent. It has no effect. Stad2 A move that involves only flopping and Splash ing around. It has no effect. G S C Has no effect whatsoever. R S E Colo XD It's just a splash... Has no effect whatsoever. FR LG The user just flops and splashes around without having any effect. D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user just flops and splashes around to no effect at all... ZA The user flops around instead of attacking. This move has no effect at all..."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Makes the user flop around as it moves. If there is another Pokémon where it lands, both Pokémon are hurt. MD T D S Makes the user flop to a different tile. If it lands on another Pokémon both Pokémon are hurt. B S L じぶんが はねて いどうする はねたさきに ほかのポケモンが いたら ぶつかってしまい じぶんも あいても ダメージをうける Conq. The user just flops and splashes around to no effect at all... MD GtI It's cute to see you flopping wholeheartedly. It doesn't damage an enemy, nor cause a bad status condition, but it's cute. S MD You flop in wholeheartedly and jump over an enemy or teammate. But it seems the move causes no damage whatsoever, nor does it cause any bad status conditions. MD RT DX You flop wholeheartedly and jump over an enemy or teammate."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] While its English name (coupled with its Generation IV and Generation V animation) suggests an association with water, its Japanese name, はねる haneru , can mean both splash and hop , but usually the latter. This explains why the move can be learned by Pokémon such as Spoink and Hoppip —species who have no association with water but are known for hopping or jumping—and why it is disabled by Gravity . Nob Ogasawara , the translator for Pokémon Red and Blue , was aware of the mistranslation and suggested the name \"Flop\" instead, but was overruled by higher-ups. [ 1 ] In the animated series, Splash is the most common result of Metronome . Splash and the event-exclusive moves Celebrate and Hold Hands are the only moves in the core series Pokémon games that have no effect whatsoever. Splash is the only obtainable move in Pokémon GO to have a different type than in the core series games. ↑ VGFacts: Pokemon - SPLASH mistranslation ( archive )"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Splash",
+    "Splash (move)"
+  ],
+  "updatedAt": 1773327461
+}

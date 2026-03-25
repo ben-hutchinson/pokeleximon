@@ -1,0 +1,17 @@
+{
+  "answerKey": "PROFSLETTER",
+  "answerDisplay": "PROFS LETTER",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "Details for the Pokémon item Prof.",
+  "score": 57.88,
+  "approved": false,
+  "qualityFlags": [
+    "near_verbatim_source"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/item/profs-letter",
+  "extract": "Details for the Pokémon item Prof",
+  "rankPosition": 1,
+  "updatedAt": 1774212476
+}

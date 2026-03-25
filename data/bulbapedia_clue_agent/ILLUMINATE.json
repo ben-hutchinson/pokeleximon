@@ -1,0 +1,73 @@
+{
+  "answerKey": "ILLUMINATE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4396694,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Illuminate (Japanese: Luminescence) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B If damaged, a wild Pokemon appears on the dungeon floor. MD T D S Causes a wild Pokemon to appear on a dungeon floor if the Pokemon is attacked. B S L MD GtI When the Pokemon is attacked, an enemy Pokemon appears somewhere on the current floor. * When this Pokemon is attacked, an enemy appears somewhere on the floor. * S MD If the Pokemon uses an illuminating move such as Confuse Ray or Light Screen , it will be a decoy! MD RT DX If the Pokemon uses an illuminating move, such as Confuse Ray or Light Screen, the Pokemon will become a Decoy.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations III through VIII 1.1.2 Generation IX 1.2 Outside of battle 1.2.1 Generation III 1.2.2 Generation IV through VII 1.2.2.1 Generation VIII 1.2.3 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] Generations III through VIII [ edit | edit source ] Illuminate has no effect during battle. Generation IX [ edit | edit source ] Starting in Version 2.0.1 of Pokemon Scarlet and Violet , Illuminate prevents other Pokemon from lowering the accuracy stat stage of the Pokemon with this Ability, and also ignores the target's evasion stages. Effects that decrease accuracy without using stat stages, such as Wonder Skin and Sand Veil , are unaffected by Illuminate. This Ability can be ignored with Mold Breaker , Teravolt , and Turboblaze . Prior to version 2.0.1 of Pokemon Scarlet and Violet , Illuminate had no effect in battle, even after its text update in version 1.3.2. However, this inconsistency could not be seen in-game as no Pokemon with Illuminate had been available in Scarlet and Violet at the time. Outside of battle [ edit | edit source ] Generation III [ edit | edit source ] If a Pokemon with Illuminate is in the first place in the party (even if fainted ), the wild Pokemon encounter rate increases by 100%. It shares this trait with Arena Trap and No Guard . Illuminate does not affect the Rock Smash encounter rate. Generation IV through VII [ edit | edit source ] Illuminate now increases the Rock Smash encounter rate in Pokemon HeartGold and SoulSilver . Generation VIII [ edit | edit source ] In Pokemon Sword and Shield , this Ability only affects the rate at which random encounters happen. Generation IX [ edit | edit source ] Illuminate appears to have no effect on the encounter rate of wild Pokemon.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Generations III through VIII [ edit | edit source ] Illuminate has no effect during battle. Generation IX [ edit | edit source ] Starting in Version 2.0.1 of Pokemon Scarlet and Violet , Illuminate prevents other Pokemon from lowering the accuracy stat stage of the Pokemon with this Ability, and also ignores the target's evasion stages. Effects that decrease accuracy without using stat stages, such as Wonder Skin and Sand Veil , are unaffected by Illuminate. This Ability can be ignored with Mold Breaker , Teravolt , and Turboblaze . Prior to version 2.0.1 of Pokemon Scarlet and Violet , Illuminate had no effect in battle, even after its text update in version 1.3.2. However, this inconsistency could not be seen in-game as no Pokemon with Illuminate had been available in Scarlet and Violet at the time.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Doubles the wild encounter rate.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "debuffing ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "debuffing ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Debuffing abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257956
+}

@@ -1,0 +1,33 @@
+{
+  "answerKey": "POUNCE",
+  "answerDisplay": "POUNCE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Pounce (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Pounce_(move)",
+  "pageId": 277792,
+  "pageRevisionId": 4414674,
+  "leadText": "Pounce (Japanese: とびつく Pounce) is a damage-dealing Bug-type move introduced in Generation IX. It is TM021 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Pounce inflicts damage and lowers the target's Speed by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user attacks by pouncing on the target. This also lowers the target's Speed stat."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as a TCG attack ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Pounce",
+    "Pounce (move)"
+  ],
+  "updatedAt": 1773325986
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "PRIMORDIALSEA",
+  "answerDisplay": "PRIMORDIAL SEA",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Primordial Sea (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Primordial_Sea_(Ability)",
+  "pageId": 195920,
+  "pageRevisionId": 4446869,
+  "leadText": "Primordial Sea (Japanese: はじまりのうみ Sea of the Beginning) is an Ability introduced during Generation VI, in Pokémon Omega Ruby and Alpha Sapphire. It is the signature Ability of Primal Kyogre.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with Primordial Sea enters the battle or a Pokémon gains the Ability Primordial Sea, the Ability creates heavy rain, a unique variation of rain . In a Rotation Battle , Primordial Sea will not activate if the Pokémon is sent out in a rotated-out position, nor will it activate when that Pokémon is rotated in. In addition, Primordial Sea will not activate if heavy rain is already present on the battlefield. Along with the usual effects of rain, heavy rain causes damage-dealing Fire-type moves to fail (unless a Pokémon on the field has the Air Lock or Cloud Nine Ability). Additionally, heavy rain causes the weather-modifying moves Sunny Day , Rain Dance , Sandstorm , and Hail to fail if used, and causes the Abilities Drought , Drizzle , Sand Stream , and Snow Warning to fail to activate. Once in effect, as long as there is a Pokémon on the field with the Ability Primordial Sea active (even if it is not the Pokémon who created it), the heavy rain will remain in effect unless it is replaced. (If the only Pokémon on the field with Primordial Sea is rotated out or switched out, or has its Ability suppressed or replaced, the heavy rain will dissipate.) The heavy rain can be replaced by Desolate Land or Delta Stream . Rain called by Primordial Sea does not allow Sliggoo to evolve into Goodra . Outside of battle [ edit | edit source ] Primordial Sea has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with Primordial Sea enters the battle or a Pokémon gains the Ability Primordial Sea, the Ability creates heavy rain, a unique variation of rain . In a Rotation Battle , Primordial Sea will not activate if the Pokémon is sent out in a rotated-out position, nor will it activate when that Pokémon is rotated in. In addition, Primordial Sea will not activate if heavy rain is already present on the battlefield. Along with the usual effects of rain, heavy rain causes damage-dealing Fire-type moves to fail (unless a Pokémon on the field has the Air Lock or Cloud Nine Ability). Additionally, heavy rain causes the weather-modifying moves Sunny Day , Rain Dance , Sandstorm , and Hail to fail if used, and causes the Abilities Drought , Drizzle , Sand Stream , and Snow Warning to fail to activate. Once in effect, as long as there is a Pokémon on the field with the Ability Primordial Sea active (even if it is not the Pokémon who created it), the heavy rain will remain in effect unless it is replaced. (If the only Pokémon on the field with Primordial Sea is rotated out or switched out, or has its Ability suppressed or replaced, the heavy rain will dissipate.) The heavy rain can be replaced by Desolate Land or Delta Stream . Rain called by Primordial Sea does not allow Sliggoo to evolve into Goodra ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD The floor will have heavy rain! MD RT DX The floor will have Heavy Rain."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Primordial-Sea",
+    "Primordial Sea",
+    "Primordial-Sea (Ability)"
+  ],
+  "updatedAt": 1773329111
+}

@@ -1,0 +1,30 @@
+{
+  "answerKey": "WISTFULFIELDS",
+  "answerDisplay": "WISTFUL FIELDS",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Wistful Fields",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Wistful_Fields",
+  "pageId": 295839,
+  "pageRevisionId": 4419725,
+  "leadText": "The Wistful Fields (Japanese: フジが原 Wisteria Fields) is a large field located in Kitakami.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ]"
+    },
+    {
+      "title": "Places of interest",
+      "text": "Places of interest [ edit | edit source ]"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Wistful-Fields",
+    "Wistful Fields",
+    "Wistful-Fields (location)"
+  ],
+  "updatedAt": 1773329325
+}

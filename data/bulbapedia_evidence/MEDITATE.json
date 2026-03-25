@@ -1,0 +1,37 @@
+{
+  "answerKey": "MEDITATE",
+  "answerDisplay": "MEDITATE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Meditate (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Meditate_(move)",
+  "pageId": 3705,
+  "pageRevisionId": 4505484,
+  "leadText": "Meditate (Japanese: ヨガのポーズ Yoga Pose) is a non-damaging Psychic-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation I to VII [ edit | edit source ] Meditate increases the user's Attack by one stage. Meditate can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Calm Mind was used in the previous turn. If powered up by a Psychium Z into Z-Meditate, the user's Attack stat rises another stage. Generation VIII onwards [ edit | edit source ] Meditate cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A special technique that boosts the user's Attack power. Can normally be used up to six times. Stad2 A special move that boosts the user's Attack power. Can normally be used up to six times. G S C Raises the user's Attack . R S E Colo XD Meditates in a peaceful fashion to raise Attack . FR LG The user meditates to awaken its power and raise its Attack stat. D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E The user meditates to awaken the power deep within its body and raise its Attack stat. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts the user's Attack by one level. MD T D S Boosts the user's Attack by 1 level. B S L じぶんの こうげきを １だんかいあげる MD GtI It boosts your Attack. (The stat change returns to normal when you go to the next floor or step on a Wonder Tile.) S MD It boosts your Attack. The stat change returns to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] An unused animation of Meditate exists in the code of Pokémon Brilliant Diamond and Shining Pearl [ 1 ] ; the animation and sound effect differ from previous games. ↑ [1]"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Meditate",
+    "Meditate (move)"
+  ],
+  "updatedAt": 1773324871
+}

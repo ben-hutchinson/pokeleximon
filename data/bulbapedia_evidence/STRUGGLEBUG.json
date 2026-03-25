@@ -1,0 +1,38 @@
+{
+  "answerKey": "STRUGGLEBUG",
+  "answerDisplay": "STRUGGLE BUG",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Struggle Bug (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Struggle_Bug_(move)",
+  "pageId": 117184,
+  "pageRevisionId": 4497153,
+  "leadText": "Struggle Bug (Japanese: むしのていこう Insect Opposition) is a damage-dealing Bug-type move introduced in Generation V. It was TM76 in Generations V and VI and is TM015 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation V 1.2 Generation VI onwards 1.3 Generation VIII 1.3.1 Pokémon Legends: Arceus Effect [ edit | edit source ] Generation V [ edit | edit source ] Struggle Bug inflicts damage to all adjacent opponents and lowers the targets' Special Attack by one stage. Generation VI onwards [ edit | edit source ] Struggle Bug's power changed from 30 to 50. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Struggle Bug's power has been changed to 40. It also lowers the target's offensive stats for three turns. Pokémon Legends: Arceus Category Special PP 20 Agile Strong Power 40 30 50 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Turns 3 2 4 ? ? ? ? Lowers the target's offensive stats"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W While resisting, the user attacks the opposing Pokémon. The targets' Sp. Atk stat is reduced. B2 W2 Resisting, the user attacks the opposing Pokémon. The targets' Sp. Atk stat is reduced. X Y OR AS S M US UM P E While resisting, the user attacks the opposing Pokémon. This lowers the Sp. Atk stat of those hit. Sw Sh BD SP While resisting, the user attacks opposing Pokémon. This lowers the Sp. Atk stats of those hit. LA The user struggles against the target, dealing damage. This also lowers the target's offensive stats. S V The user attacks by struggling against opposing Pokémon. This also lowers their Sp. Atk stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It damages nearby enemies. It also lowers their Special Attack. S MD MD RT DX It damages nearby enemies. It also lowers their Sp. Atk."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Despite not being based on an arthropod , Staraptor (and Mew , who can learn all TM moves) can learn this move. This move's English name may be a pun on the expression \"struggle bus\", which is slang for a difficult or frustrating situation."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Struggle-Bug",
+    "Struggle Bug",
+    "Struggle-Bug (move)"
+  ],
+  "updatedAt": 1773327621
+}

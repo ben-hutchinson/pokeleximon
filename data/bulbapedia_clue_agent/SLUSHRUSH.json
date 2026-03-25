@@ -1,0 +1,62 @@
+{
+  "answerKey": "SLUSHRUSH",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4259107,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Slush Rush (Japanese: Snow Removal) is an Ability introduced in Generation VII.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] During a hailstorm or snow , the Speed stat of Pokemon with this Ability is doubled. Unlike Sand Rush , Snow Cloak , and Sand Veil , a Pokemon with this Ability will take damage from the hailstorm unless it is Ice-type. Outside of battle [ edit | edit source ] Slush Rush has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] During a hailstorm or snow , the Speed stat of Pokemon with this Ability is doubled. Unlike Sand Rush , Snow Cloak , and Sand Veil , a Pokemon with this Ability will take damage from the hailstorm unless it is Ice-type.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "During Hail, this Pokemon has double Speed.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Weather abilities",
+      "Gen VII abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258015
+}

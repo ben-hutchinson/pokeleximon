@@ -1,0 +1,104 @@
+{
+  "answerKey": "SEAFOLK",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4446752,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Alola location",
+        "evidence_ref": "lead",
+        "specificity": 0.5
+      },
+      {
+        "text": "village landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "house landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "island landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "ancient ruins",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      },
+      {
+        "text": "island location",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "villa landmark",
+        "evidence_ref": "title",
+        "specificity": 0.68
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Ancient regional ruins",
+        "evidence_ref": "lead",
+        "mystery_score": 0.64,
+        "specificity_score": 0.72,
+        "style": "theme"
+      },
+      {
+        "text": "Alola landmark",
+        "evidence_ref": "lead",
+        "mystery_score": 0.38,
+        "specificity_score": 0.5,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Alola village",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.7,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Regional village",
+        "evidence_ref": "lead",
+        "mystery_score": 0.44,
+        "specificity_score": 0.62,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Village in Alola",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.66,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Island location",
+        "evidence_ref": "lead",
+        "mystery_score": 0.46,
+        "specificity_score": 0.66,
+        "style": "theme"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "ancient ruins"
+    ],
+    "connections_descriptors": [
+      "Ruins",
+      "Alola landmarks",
+      "Alola villages",
+      "Island locations"
+    ],
+    "risk_flags": [],
+    "confidence": 0.77
+  },
+  "updatedAt": 1774258007
+}

@@ -1,0 +1,37 @@
+{
+  "answerKey": "SLUDGE",
+  "answerDisplay": "SLUDGE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sludge (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sludge_(move)",
+  "pageId": 3733,
+  "pageRevisionId": 4402580,
+  "leadText": "Sludge (Japanese: ヘドロこうげき Sludge Attack) is a damage-dealing Poison-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation I [ edit | edit source ] Sludge does damage and has a 40% chance of poisoning the target. Generation II onwards [ edit | edit source ] Sludge now has a 30% chance to poison the target. Sludge can be used as the first move of a Pokémon Contest combination , causing Sludge Bomb to score double the normal appeal if used in the next turn. It can also be used to finish a combination, with the user gaining 1 bonus appeal point if Sludge Bomb was used in the previous turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A Poison -type attack. Has a fifty-fifty chance of poisoning the target. Stad2 A Poison -type attack. Has a one-in-three chance of poisoning the target. G S C An attack that may poison the foe. R S E Colo XD Sludge is hurled to inflict damage. May also poison. FR LG Toxic sludge is hurled at the foe. It may poison the target. D P Pt HG SS PBR Unsanitary sludge is hurled at the foe. It may also poison the target. B W B2 W2 Unsanitary sludge is hurled at the target. It may also poison the target. X Y OR AS S M US UM P E Sw Sh BD SP LA Unsanitary sludge is hurled at the target. This may also poison the target. S V The user hurls unsanitary sludge at the target to inflict damage. This may also poison the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also leave the target poisoned, damaging it for several turns. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Poisoned status condition, which causes periodic damage. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで どくじょうたいにして いっていターンごとに ダメージをあたえる MD GtI It damages an enemy. It could also cause the Poisoned status condition. With the Poisoned status, the enemy keeps taking damage and can't restore its HP naturally. S MD It damages an enemy. It could also make the enemy poisoned."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Pokémon Stadium , Sludge is described as having a 50% chance of poisoning its target, but it actually has a 40% chance. Since Generation V , Sludge has the same description text as Sludge Bomb ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sludge",
+    "Sludge (move)"
+  ],
+  "updatedAt": 1773327166
+}

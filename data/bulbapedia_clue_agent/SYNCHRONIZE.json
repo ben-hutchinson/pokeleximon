@@ -1,0 +1,108 @@
+{
+  "answerKey": "SYNCHRONIZE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4471624,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Not to be confused with Synchronoise (move). Synchronize (Japanese: Synchro) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B MD T D Shares status problems with any Pokemon in reach. MD S Shares status problems with any foes in reach. B S L MD GtI Passes Poisoned, Badly Poisoned, Paralysis, or Burn status to foes that are next to it. * When the Pokemon has the Poisoned, Badly Poisoned, Paralysis, or Burn status condition, foes next to it will get the same status condition! * S MD When the Pokemon is poisoned, is badly poisoned, has paralysis, or has a burn, enemies next to it will get the same status condition! MD RT DX When the Pokemon is Poisoned, is Badly Poisoned, has Paralysis, or has a Burn, enemies next to it will get the same status condition.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations III and IV 1.1.2 Generation V onward 1.2 Outside of battle 1.2.1 Generations III-V 1.2.2 Generation VI 1.2.3 Generation VII 1.2.4 Generation VIII 1.2.5 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Synchronize is burned , paralyzed , or poisoned by another Pokemon, that Pokemon will be inflicted with the same status condition . Synchronize will not inflict confusion , sleep , or freeze . Even if Synchronize would have no effect due to the other Pokemon already having a status condition or the other Pokemon's type , Ability , or team condition (e.g. Safeguard ), it will still activate (revealing it as the Pokemon's Ability), but have no effect. Synchronize can affect a Pokemon behind a substitute . Synchronize can be activated by other Pokemon's Abilities, such as Static , but cannot be activated by the Toxic Orb or Flame Orb . If a Pokemon with Synchronize has a Berry that cures the status condition it was just inflicted with, Synchronize will activate before the Berry is eaten. Generations III and IV [ edit | edit source ] When a Pokemon with Synchronize is badly poisoned by another Pokemon, that Pokemon will be inflicted with the regular poison condition. If Psycho Shift is used by a burned, paralyzed, or poisoned Pokemon targeting a Pokemon with Synchronize, Synchronize activates after Psycho Shift cures the user of its status condition. Therefore, Synchronize will inflict the status condition anew in such a case. If a single move such as Discharge results in a status ailment being given to more than one Pokemon (including as a result of Synchronize itself), Pokemon that receive the status in even-numbered orders (second, and possibly fourth) will not be able to activate Synchronize even if they have that ability. Toxic Spikes do not activate this Ability unless a Pokemon on the field directly causes a Pokemon with Synchronize to switch in, such as by using the moves Roar or Whirlwind . Generation V onward [ edit | edit source ] When a Pokemon with Synchronize is badly poisoned by another Pokemon, that Pokemon will now be inflicted with the bad poison condition, rather than the regular poison condition. If Psycho Shift is used by a burned , paralyzed , poisoned , or badly poisoned Pokemon targeting a Pokemon with Synchronize, Synchronize now activates before Psycho Shift cures the user of its status condition. Therefore, Synchronize will fail to inflict the status condition anew in such a case. If multiple Pokemon receive a status from the same move, Synchronize now gets an opportunity to activate for any Pokemon that has it, regardless of what order they received the status in. Synchronize can now cause another Pokemon's Synchronize to activate, but if this happens, the original Pokemon therefore already has a status condition, and it will merely cause an ability message to appear with no other effect. Toxic Spikes do not activate this Ability, even if another Pokemon forced the Pokemon with this Ability to switch in by using a move like Roar or Dragon Tail . In SOS Battles , if a Pokemon with Synchronize is in the first slot of the party when the wild Pokemon calls an ally, there is a 50% chance that the called ally will be forced to have the same Nature as the Pokemon that was originally in the first slot when the battle began (which is not necessarily the Pokemon with Synchronize). Outside of battle [ edit | edit source ] Generations III-V [ edit | edit source ] From Pokemon Emerald onward, if a Pokemon with Synchronize is in the first slot in the party (even if fainted ) when a wild Pokemon is encountered, there is a 50% chance that the game will force it to have the same Nature as the Pokemon in the first slot. (Otherwise, the Nature is chosen at random, so the Pokemon still has a 1-in-25 chance of having the same Nature as the lead Pokemon.) This does not apply to roaming Pokemon , Pokemon in the Pokwalker , or Pokemon in the Entree Forest . In Emerald, it also does not apply to stationary Pokemon (such as Regirock or Rayquaza ). Generation VI [ edit | edit source ] From Pokemon Omega Ruby and Alpha Sapphire onward, if a Pokemon with Synchronize is leading the party, gift Pokemon (except Pokemon obtained via Mystery Gift and Eggs ) that are in the No Eggs Discovered Egg Group will always have the same Nature as the Pokemon with this Ability. Generation VII [ edit | edit source ] In Pokemon Ultra Sun and Ultra Moon only, if a Pokemon with Synchronize is leading the party, gift Pokemon (except Pokemon obtained via Mystery Gift and Eggs ) will always have the same Nature as the Pokemon with this Ability, regardless of Egg Group . Generation VIII [ edit | edit source ] In Pokemon Sword and Shield , if a Pokemon with Synchronize is leading the party, wild Pokemon are now guaranteed to have the same Nature as the leading Pokemon (ignoring any Mints ). This does not apply to static encounters (such as Zacian , Calyrex , or the legendary giants ), but it does apply to wandering and roaming Pokemon (such as the Swords of Justice and Galarian legendary birds ). Pokemon encountered in Max Raid Battles or obtained as gift Pokemon are also not affected by Synchronize. In Pokemon Brilliant Diamond and Shining Pearl , entering a Pokemon Hideaway with a lead Pokemon with Synchronize causes all wild Pokemon inside to have the same Nature as the leader. Generation IX [ edit | edit source ] In Pokemon Scarlet and Violet , Synchronize no longer has an effect on the Nature of wild Pokemon.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with Synchronize is burned , paralyzed , or poisoned by another Pokemon, that Pokemon will be inflicted with the same status condition . Synchronize will not inflict confusion , sleep , or freeze . Even if Synchronize would have no effect due to the other Pokemon already having a status condition or the other Pokemon's type , Ability , or team condition (e.g. Safeguard ), it will still activate (revealing it as the Pokemon's Ability), but have no effect. Synchronize can affect a Pokemon behind a substitute . Synchronize can be activated by other Pokemon's Abilities, such as Static , but cannot be activated by the Toxic Orb or Flame Orb . If a Pokemon with Synchronize has a Berry that cures the status condition it was just inflicted with, Synchronize will activate before the Berry is eaten. Generations III and IV [ edit | edit source ] When a Pokemon with Synchronize is badly poisoned by another Pokemon, that Pokemon will be inflicted with the regular poison condition. If Psycho Shift is used by a burned, paralyzed, or poisoned Pokemon targeting a Pokemon with Synchronize, Synchronize activates after Psycho Shift cures the user of its status condition. Therefore, Synchronize will inflict the status condition anew in such a case. If a single move such as Discharge results in a status ailment being given to more than one Pokemon (including as a result of Synchronize itself), Pokemon that receive the status in even-numbered orders (second, and possibly fourth) will not be able to activate Synchronize even if they have that ability. Toxic Spikes do not activate this Ability unless a Pokemon on the field directly causes a Pokemon with Synchronize to switch in, such as by using the moves Roar or Whirlwind . Generation V onward [ edit | edit source ] When a Pokemon with Synchronize is badly poisoned by another Pokemon, that Pokemon will now be inflicted with the bad poison condition, rather than the regular poison condition. If Psycho Shift is used by a burned , paralyzed , poisoned , or badly poisoned Pokemon targeting a Pokemon with Synchronize, Synchronize now activates before Psycho Shift cures the user of its status condition. Therefore, Synchronize will fail to inflict the status condition anew in such a case. If multiple Pokemon receive a status from the same move, Synchronize now gets an opportunity to activate for any Pokemon that has it, regardless of what order they received the status in. Synchronize can now cause another Pokemon's Synchronize to activate, but if this happens, the original Pokemon therefore already has a status condition, and it will merely cause an ability message to appear with no other effect. Toxic Spikes do not activate this Ability, even if another Pokemon forced the Pokemon with this Ability to switch in by using a move like Roar or Dragon Tail . In SOS Battles , if a Pokemon with Synchronize is in the first slot of the party when the wild Pokemon calls an ally, there is a 50% chance that the called ally will be forced to have the same Nature as the Pokemon that was originally in the first slot when the battle began (which is not necessarily the Pokemon with Synchronize).",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Copies burns, paralysis, and poison received onto the Pokemon that inflicted them.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "burning trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "paralyzing trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "poisoning trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.78,
+        "style": "effect"
+      },
+      {
+        "text": "Prevents major status ailments",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "effect"
+      },
+      {
+        "text": "Ailment-proof trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "burning trait",
+      "paralyzing trait",
+      "poisoning trait",
+      "status immunity"
+    ],
+    "connections_descriptors": [
+      "Burning abilities",
+      "Paralyzing abilities",
+      "Poisoning abilities",
+      "Status-blocking abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258022
+}

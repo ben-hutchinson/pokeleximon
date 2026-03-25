@@ -1,0 +1,38 @@
+{
+  "answerKey": "ICEBALL",
+  "answerDisplay": "ICE BALL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Ice Ball (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ice_Ball_(move)",
+  "pageId": 3912,
+  "pageRevisionId": 4412440,
+  "leadText": "Ice Ball (Japanese: アイスボール Ice Ball) is a damage-dealing Ice-type move introduced in Generation III. Prior to Generation VI, it was the signature move of Spheal's evolutionary line, but other Pokémon could still inherit it via breeding.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations III to VII 1.2 Generation VIII 1.2.1 Pokémon Sword, Shield, Brilliant Diamond, and Shining Pearl 1.2.2 Pokémon Legends: Arceus 1.3 Generation IX Effect [ edit | edit source ] Generations III to VII [ edit | edit source ] Ice Ball inflicts damage over five turns, doubling in power for each consecutive hit; the power will reset after five turns or if Ice Ball is interrupted. It is a consecutively executed move . Ice Ball's power is doubled in addition if the user had previously used Defense Curl . Pokémon with Bulletproof are immune to Ice Ball. Hitting a Mimikyu in Disguised Form will produce the Rollout storage glitch . Ice Ball is also part of a Contest Spectacular combination , with the user gaining an extra three appeal points if Defense Curl was used in the prior turn. Generation VIII [ edit | edit source ] Pokémon Sword, Shield, Brilliant Diamond, and Shining Pearl [ edit | edit source ] Ice Ball cannot be selected in a battle. Pokémon Legends: Arceus [ edit | edit source ] Ice Ball's base power was increased to 40. It inflicts damage and causes the user to become fixated on using the move. Pokémon Legends: Arceus Category Physical PP 20 Agile Strong Power 40 30 50 Accuracy 90% 90% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect ? ? ? ? ? ? The user becomes fixated Generation IX [ edit | edit source ] Ice Ball cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E A 5-turn attack that gains power on successive hits. FR LG A 5-turn rolling attack that becomes stronger each time it rolls. Colo XD An attack lasting 5 turns with rising intensity. D P Pt HG SS PBR The user continually rolls into the foe over five turns. It becomes stronger each time it hits. B W B2 W2 X Y OR AS The user continually rolls into the target over five turns. It becomes stronger each time it hits. S M US UM P E The user attacks the target for five turns. The move's power increases each time it hits. Sw Sh BD SP S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. LA The user hurls a chunk of ice at the target, then becomes fixated on using this move."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Hits the target in succession until it misses. Its power rises with every hit. It may hit up to five times. MD T D S Inflicts damage on the target with attacks that continue in a single turn until one misses. Its power rises after each hit, and it can last for a maximum of 5 attacks. B S L はずれるまでれんぞくこうげきして こうげきが あたるたびに いりょくが あがる さいだい ５かいれんぞくこうげき Conq. The user continually rolls into the target several times. It becomes stronger each time it hits. MD GtI UNUSED S MD It damages an enemy up to 5 times, until one misses. Power goes up even more after you use Defense Curl! MD RT DX It damages an enemy up to 5 times or until it misses. The power goes up after you use Defense Curl."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Excluding signature moves and Z-Moves , Ice Ball is the only Ice-type move to not be usable in Pokémon Sword and Shield . The animation of Ice Ball changes depending on the game it appears in: In the core series games and several spin-off games , it resembles a throwable ice ball. In Pokémon Battle Revolution , it resembles a rolling ball covered in ice."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ice-Ball",
+    "Ice Ball",
+    "Ice-Ball (move)"
+  ],
+  "updatedAt": 1773323775
+}

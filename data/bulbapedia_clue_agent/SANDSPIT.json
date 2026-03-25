@@ -1,0 +1,62 @@
+{
+  "answerKey": "SANDSPIT",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4259139,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Sand Spit (Japanese: Sand Spit) is an Ability introduced in Generation VIII. It is the signature Ability of Silicobra and Sandaconda.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Sand Spit summons a sandstorm in battle for five turns when a Pokemon with Sand Spit is hit by a damaging move, unless a sandstorm is already present. This can be extended to eight turns if the Pokemon is holding a Smooth Rock . Outside of battle [ edit | edit source ] Sand Spit has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Sand Spit summons a sandstorm in battle for five turns when a Pokemon with Sand Spit is hit by a damaging move, unless a sandstorm is already present. This can be extended to eight turns if the Pokemon is holding a Smooth Rock .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Creates a sandstorm when hit by an attack.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Weather abilities",
+      "Gen VIII abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258006
+}

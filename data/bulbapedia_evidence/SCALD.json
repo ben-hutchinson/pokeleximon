@@ -1,0 +1,37 @@
+{
+  "answerKey": "SCALD",
+  "answerDisplay": "SCALD",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Scald (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Scald_(move)",
+  "pageId": 114926,
+  "pageRevisionId": 4462190,
+  "leadText": "Scald (Japanese: ねっとう Boiling Water) is a damage-dealing Water-type move introduced in Generation V. It is: TM55 from Generation V to Pokémon Ultra Sun and Ultra Moon. TM29 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR84 in Pokémon Sword and Shield. TM49 in Pokémon Brilliant Diamond and Shining Pearl. TM188 in Pokémon Scarlet and Violet. TM148 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation V [ edit | edit source ] Scald inflicts damage and has a 30% chance of burning the target. Upon execution, Scald will thaw the user if frozen (even if the move fails to hit the target). Generation VI onwards [ edit | edit source ] Scald now also thaws a frozen target hit by it."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user shoots boiling hot water at its target. It may also leave the target with a burn. X Y OR AS S M US UM P E Sw Sh BD SP LA The user shoots boiling hot water at its target. This may also leave the target with a burn. S V The user attacks by shooting boiling hot water at the target. This may also leave the target with a burn. ZA The user attacks by shooting boiling hot water at targets. This may also leave targets with a burn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It damages an enemy. It could also cause the Burn status condition. With the Burn status, the enemy keeps taking damage and its Attack also goes down slightly. S MD It damages an enemy. It could also leave the enemy with a burn. It will thaw a frozen Pokémon."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Prior to the release of Pokémon X and Y , a banner at the Summer 2013 World Hobby Fair showed Lapras using Scald, but Lapras ultimately cannot learn Scald in the final release of the games."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Scald",
+    "Scald (move)"
+  ],
+  "updatedAt": 1773326678
+}

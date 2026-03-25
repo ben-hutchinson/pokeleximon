@@ -1,0 +1,34 @@
+{
+  "answerKey": "JETPUNCH",
+  "answerDisplay": "JET PUNCH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Jet Punch (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Jet_Punch_(move)",
+  "pageId": 277759,
+  "pageRevisionId": 4403638,
+  "leadText": "Jet Punch (Japanese: ジェットパンチ Jet Punch) is a damage-dealing Water-type move introduced in Generation IX. It is the signature move of Palafin.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Jet Punch inflicts damage. It has a priority of +1, so is used before all moves that do not have increased priority."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user summons a torrent around its fist and punches at blinding speed. This move always goes first."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Due to an oversight, Jet Punch used to have its damage boosted by Sheer Force despite not having any additional effects . This was later patched. This move originated as a TCG attack ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Jet-Punch",
+    "Jet Punch",
+    "Jet-Punch (move)"
+  ],
+  "updatedAt": 1773324024
+}

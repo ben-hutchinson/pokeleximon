@@ -1,0 +1,34 @@
+{
+  "answerKey": "FURYATTACK",
+  "answerDisplay": "FURY ATTACK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Fury Attack (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fury_Attack_(move)",
+  "pageId": 3639,
+  "pageRevisionId": 4470377,
+  "leadText": "Fury Attack (Japanese: みだれづき Disturbed Stab) is a damage-dealing Normal-type multistrike move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generations III and IV 1.4 Generation V onwards Effect [ edit | edit source ] Generation I [ edit | edit source ] Fury Attack inflicts damage, hitting the target 2-5 times per use. There is a 37.5% chance that it will hit 2 times, a 37.5% chance that it will hit 3 times, a 12.5% chance that it will hit 4 times, and a 12.5% chance that it will hit 5 times. Although only the first strike can be a critical hit , each successive one will deal the same amount of damage. In this generation only, Fury Attack will end immediately if it breaks a substitute . Bide and Counter will only acknowledge the last strike of this move. Generation II [ edit | edit source ] All strikes now do damage independently, enabling any of them to be critical hits. Fury Attack may now continue attacking after breaking a substitute. If the user is holding a King's Rock , the final strike has a chance to cause the opponent to flinch . Generations III and IV [ edit | edit source ] If the target has an Ability that activates upon contact , each strike counts individually, enabling the Ability to activate multiple times. Pokémon with the Ability Skill Link will always hit five times when using Fury Attack unless it misses. If the user is holding a King's Rock or Razor Fang , each consecutive hit has an equal chance to cause the opponent to flinch . Fury Attack can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Horn Attack or Peck was used in the previous turn. Generation V onwards [ edit | edit source ] There is now a 35% chance that it will hit 2 times, a 35% chance it will hit 3 times, a 15% chance it will hit 4 times, and a 15% chance it will hit 5 times. The average total base power (including the 15% base miss chance) is now 39.5. If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokémon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokémon has a maximum HP of 1. If the target has Weak Armor or Stamina , each strike will activate it. If the target is holding a Rocky Helmet , the user is damaged for each strike."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A Normal -type attack. The Pok é mon rapidly jabs at its opponent several times. G S C Jabs the target 2-5 times. R S E Jabs the foe 2 to 5 times with sharp horns, etc. FR LG The foe is jabbed repeatedly with a horn or beak two to five times. Colo XD Jabs the target 2 to 5 times with sharp horns. D P Pt HG SS PBR The foe is jabbed repeatedly with a horn or beak two to five times in a row. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The target is jabbed repeatedly with a horn or beak two to five times in a row. S V The user attacks by jabbing the target with a horn, a beak, or the like. This move hits two to five times in a row."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It hits two to five times in succession. MD T D S Inflicts damage on the target using 2 to 5 attacks in a single turn. B S L てきポケモンに ２〜５かいれんぞくで ダメージを あたえる MD GtI S MD MD RT DX It damages an enemy 2 to 5 times in a row."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fury-Attack",
+    "Fury Attack",
+    "Fury-Attack (move)"
+  ],
+  "updatedAt": 1773323062
+}

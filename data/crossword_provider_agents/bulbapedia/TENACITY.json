@@ -1,0 +1,16 @@
+{
+  "answerKey": "TENACITY",
+  "answerDisplay": "TENACITY",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen V ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Tenacity_(Skill)",
+  "extract": "Tenacity (Japanese: 失敗時物理ブースト Physical Boost When Move Fails) is a family of skills in Pokémon Masters EX.",
+  "updatedAt": 1774258447
+}

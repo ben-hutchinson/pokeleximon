@@ -1,0 +1,34 @@
+{
+  "answerKey": "SPLISHYSPLASH",
+  "answerDisplay": "SPLISHY SPLASH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Splishy Splash (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Splishy_Splash_(move)",
+  "pageId": 232099,
+  "pageRevisionId": 4269611,
+  "leadText": "Splishy Splash (Japanese: ざぶざぶサーフ Splashing Surf) is a damage-dealing Water-type move introduced during Generation VII, in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. It is one of the signature moves of the partner Pikachu.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VII [ edit | edit source ] Splishy Splash deals damage and has a 30% chance of paralyzing the target. Generation VIII onwards [ edit | edit source ] Splishy Splash cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description P E The user charges a huge wave with electricity and hits the opposing Pokémon with the wave. This may also leave the opposing Pokémon with paralysis. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Splishy Splash is the only Water-type move that can inflict paralysis . Splishy Splash may be a reference to Surfing Pikachu ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Splishy-Splash",
+    "Splishy Splash",
+    "Splishy-Splash (move)"
+  ],
+  "updatedAt": 1773327464
+}

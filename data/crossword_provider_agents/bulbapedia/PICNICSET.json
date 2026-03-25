@@ -1,0 +1,16 @@
+{
+  "answerKey": "PICNICSET",
+  "answerDisplay": "PICNIC SET",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Outdoor meal kit",
+  "score": 110.36,
+  "approved": true,
+  "qualityFlags": [
+    "unknown_evidence_ref"
+  ],
+  "evidenceRef": "title",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Picnic_Set",
+  "extract": "The Picnic Set (Japanese: ピクニックセット Picnic Set) is a type of picnic item introduced in Generation IX.",
+  "updatedAt": 1774258391
+}

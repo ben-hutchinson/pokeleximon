@@ -1,0 +1,115 @@
+{
+  "answerKey": "ROTOMBIKE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4495666,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "gameplay",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen VIII gameplay",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Effect [ edit | edit source ] The Rotom Bike allows the player to travel faster on land and includes a boost that temporarily boosts the speed even further, but requires a recharge period afterwards before it can be used again. By talking to a Watt Trader in the Wild Area , the player can improve the Rotom Bike three times in exchange of Watts (1,000, 3,000, and 5,000), thus allowing for the recharge period to take less time to complete. After being upgraded with Water Mode, it also allows them to ride on water. In The Isle of Armor , the player can also change their bike's appearance to a \"Sparkling White\" or \"Glistening Black\" design, both of which come with particle effects resembling Shiny Pokemon and fully upgraded speed. The player can switch between the base Water Mode and the two alternatives at any time.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Adventure utility item",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      },
+      {
+        "text": "Two-wheeled travel item",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      },
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "lead",
+        "specificity": 0.74
+      },
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "specificity": 0.8
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.66,
+        "specificity_score": 0.8,
+        "style": "family"
+      },
+      {
+        "text": "Exchangeable collectible",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.78,
+        "style": "family"
+      },
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Progress-gating key item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Two-wheeled travel item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "utility"
+      },
+      {
+        "text": "Ride for quick travel",
+        "evidence_ref": "lead",
+        "mystery_score": 0.6,
+        "specificity_score": 0.74,
+        "style": "utility"
+      },
+      {
+        "text": "Adventure utility item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.4,
+        "specificity_score": 0.58,
+        "style": "utility"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "exchange item",
+      "unlocking item",
+      "travel gear"
+    ],
+    "connections_descriptors": [
+      "Gen VIII items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774258004
+}

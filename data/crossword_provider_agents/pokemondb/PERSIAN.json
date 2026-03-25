@@ -1,0 +1,17 @@
+{
+  "answerKey": "PERSIAN",
+  "answerDisplay": "PERSIAN",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Normal type Pokémon introduced in Generation 1.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/persian",
+  "extract": "Persian is a Normal type Pokémon introduced in Generation 1 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212323
+}

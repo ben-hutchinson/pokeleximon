@@ -1,0 +1,14 @@
+{
+  "answerKey": "LOOTSACK",
+  "answerDisplay": "LOOT SACK",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Pinch-healing berry",
+  "score": 120.68,
+  "approved": true,
+  "qualityFlags": [],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/List_of_unobtainable_items",
+  "extract": "This is a list of all items that appear in the internal data of Pokémon games, but are not obtainable as inventory items by any legitimate means in that game or set of games. This does not include items which are carried over between successive game releases within a particular generation, such as items in Pokémon Ruby and Sapphire that remain in the internal data of Pokémon FireRed and LeafGreen. Instead, it includes items that are not available in non-successive game releases or in any game within a particular generation, items which availability differs between regional releases of one or more games within a particular generation, and items that are used and programmed in as inventory items but that are otherwise unobtainable (only accessible) during regular gameplay.",
+  "updatedAt": 1774258380
+}

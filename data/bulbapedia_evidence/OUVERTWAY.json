@@ -1,0 +1,26 @@
+{
+  "answerKey": "OUVERTWAY",
+  "answerDisplay": "OUVERT WAY",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Kalos Route 3",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Kalos_Route_3",
+  "pageId": 184510,
+  "pageRevisionId": 4227937,
+  "leadText": "Route 3 (Japanese: ３番道路 Route 3) is a route in southern Kalos, connecting Santalune Forest and Santalune City. The route is also known as Ouvert Way (Japanese: ウベール通り Ouvert Way).",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Name origin [ edit | edit source ] Ouvert is French for open."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ouvert-Way",
+    "Ouvert Way",
+    "Ouvert-Way (location)"
+  ],
+  "updatedAt": 1773325554
+}

@@ -1,0 +1,26 @@
+{
+  "answerKey": "POKEPELAGO",
+  "answerDisplay": "POKE PELAGO",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Poké Pelago",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Pelago",
+  "pageId": 216327,
+  "pageRevisionId": 4430556,
+  "leadText": "Poké Pelago (Japanese: ポケリゾート Poké Resort) is a group of uninhabited islands in Alola reserved for the pleasure of Pokémon. It consists of five islands that can be developed, each having its own function. Pokémon from the PC can visit most of the islands of Poké Pelago freely to relax and play. Each of the five islands can be developed, but doing so requires the help of Pokémon from the PC and Plain Beans to feed them. Poké Pelago is overseen by Mohn from his Raft Hut. Poké Pelago is accessed through the menu. In Pokémon Sun and Moon, it may be visited as soon as Charizard Glide is registered in the player's Ride Pager after completing Kiawe's trial; in Pokémon Ultra Sun and Ultra Moon, it may be visited after Mohn tells the player about it on Route 7 after completing Kiawe's trial. Despite its animation, the player can travel to the Poké Pelago even from locations where they cannot use Charizard Glide. The first time the player visits Poké Pelago, if they do not have any Pokémon in their PC Boxes, Mohn will send them back until they do.",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] When Poké Beans are added to or taken from the player's supply for the services on Mohn's Raft Hut or for a Poké Bean crate, the colors are always affected so that they progress towards or maintain an even distribution of colors as much as possible. For example, if the player has 20 Red Plain Beans and 15 of every other color and sends out a Bean Bottle (requiring 7 Plain Beans), they will end up with 14 Red Plain Beans, 14 Indigo Plain Beans, and 15 of the other colors. If the player has 15 of every color, however, they will end up with 14 of every color. There is data in the games for wild Pokémon that appear on Isle Abeens before the player visits Akala Island , despite the player not being able to visit Poké Pelago until after that. In Pokémon Sun and Moon , these Pokémon would appear at Levels 1–7. Spearow , Zubat , Shellder , Wingull , and Pikipek would each appear 18.75% of the time; Rufflet S or Vullaby M would appear 6.25% of the time. In Pokémon Ultra Sun and Ultra Moon , Zubat , Seel , Wingull , Pikipek , and Cutiefly would each appear 20% of the time."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Poke-Pelago",
+    "Poke Pelago",
+    "Poke-Pelago (location)"
+  ],
+  "updatedAt": 1773325913
+}

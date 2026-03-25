@@ -1,0 +1,33 @@
+{
+  "answerKey": "STOMP",
+  "answerDisplay": "STOMP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Stomp (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Stomp_(move)",
+  "pageId": 3631,
+  "pageRevisionId": 4503588,
+  "leadText": "Stomp (Japanese: ふみつけ Trample) is a damage-dealing Normal-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generations II and III 1.3 Generation IV 1.4 Generation V 1.5 Generation VI onwards 1.6 Other effects Effect [ edit | edit source ] Generation I [ edit | edit source ] Stomp inflicts damage and has a 30% chance of causing the target to flinch . Stomp cannot make a target with a substitute flinch. Generations II and III [ edit | edit source ] If Stomp hits a Pokémon that had previously used Minimize , the damage dealt will now be doubled. Stomp can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Leer was used in the previous turn. Generation IV [ edit | edit source ] If Stomp hits a Pokémon that had previously used Minimize , its power will be doubled instead of the damage dealt (resulting in virtually the same effect). Generation V [ edit | edit source ] If Stomp hits a Pokémon that had previously used Minimize , the damage dealt will be doubled instead of its power (resulting in virtually the same effect). Generation VI onwards [ edit | edit source ] If the target has used Minimize , Stomp now bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . Other effects [ edit | edit source ] A Steenee that knows this move will evolve into Tsareena when leveled up."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A Normal -type attack. Has a one-in-three chance of making the target flinch if it connects. Stad2 A Normal -type attack. Has a one-in-three chance of making the target flinch if it hits. G S C An attack that may cause flinching. R S E Stomps the enemy with a big foot. May cause flinching. Colo XD Stomps target with a big foot. May cause flinching. FR LG The foe is stomped with a big foot. It may make the foe flinch. D P Pt HG SS PBR The foe is stomped with a big foot. It may also make the target flinch. B W B2 W2 The target is stomped with a big foot. It may also make the target flinch. X Y OR AS S M US UM P E Sw Sh BD SP LA The target is stomped with a big foot. This may also make the target flinch. S V The user attacks by stomping on the target with a big foot. This may also make the target flinch."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also cause the target to cringe, making it incapable of action. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Cringe status condition, making its actions fail. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで ひるみじょうたいにして わざや こうげきを だせなくする MD GtI It damages an enemy. It could also cause the Cringe status condition, which makes the enemy unable to attack or use moves. S MD It damages an enemy. It could also make the enemy flinch."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Stomp",
+    "Stomp (move)"
+  ],
+  "updatedAt": 1773327585
+}

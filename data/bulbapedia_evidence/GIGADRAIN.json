@@ -1,0 +1,34 @@
+{
+  "answerKey": "GIGADRAIN",
+  "answerDisplay": "GIGA DRAIN",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Giga Drain (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Giga_Drain_(move)",
+  "pageId": 3813,
+  "pageRevisionId": 4500998,
+  "leadText": "Giga Drain (Japanese: ギガドレイン Giga Drain) is a damage-dealing Grass-type move introduced in Generation II. It is: TM19 from Generation II to Generation IV, and in Pokémon Brilliant Diamond and Shining Pearl. TM28 in Pokémon Sword and Shield. TM111 in Pokémon Scarlet and Violet. TM042 in Pokémon Legends: Z-A. It is the strongest in a line of three Grass-type HP draining attacks, the other two being Absorb and Mega Drain.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III 1.3 Generation IV 1.4 Generation V 1.5 Generation VI onwards 1.6 Generation IX 1.6.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation II [ edit | edit source ] Giga Drain inflicts damage, and up to 50% of the damage dealt to the target is restored to the user as HP (but not less than 1 HP), restoring up to the Pokémon's maximum HP. Giga Drain has 60 base power and 5 PP. Giga Drain will always miss if the target has a substitute . Generation III [ edit | edit source ] Giga Drain can now hit a substitute and will properly heal the user when damaging a substitute. When used on a Pokémon with the Liquid Ooze Ability, the user will lose the amount of HP it would have gained instead. Giga Drain can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Growth was used in the previous turn. Giga Drain is no longer affected by King's Rock . Generation IV [ edit | edit source ] The move's base PP was raised to 10. If the user is holding a Big Root , the HP restored is increased by 30% (making the restored HP 65% of the damage dealt). Big Root does not increase the damage dealt. Generation V [ edit | edit source ] Giga Drain's base power has been increased from 60 to 75. Giga Drain is now affected by King's Rock. Generation VI onwards [ edit | edit source ] Giga Drain cannot be used if the user is under the effects of Heal Block . Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 75 90 Cooldown 9s Move wind-up time 10 frames Effect duration —s Additional effect Heal 50% — — Restores the user's HP by a percentage of damage dealt."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 Half of the HP drained from the target is added to the attacker's HP. G S C Steals 1/2 of the damage inflicted. R S E Colo XD An attack that steals half the damage inflicted. R S E (move) An attack that absorbs half the damage inflicted. Colo XD (move) Recovers half the HP of the damage this move inflicts. (TM) FR LG A harsh attack that absorbs half the damage it inflicted to restore HP. D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA A nutrient-draining attack. The user's HP is restored by half the damage taken by the target. S V A nutrient-draining attack. The user's HP is restored by up to half the damage taken by the target. ZA The user attacks by draining targets of their nutrients. The user's HP will be restored by a portion of the damage dealt."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It also restores the user's HP based on the damage it inflicted. MD T D S Inflicts damage on the target, then restores the user's HP based on the damage inflicted. B S L てきポケモンに ダメージをあたえる あたえたダメージにおうじて じぶんのＨＰが かいふくする MD GtI S MD MD RT DX It damages an enemy. It also restores your HP. The greater the damage it causes, the more HP it restores."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Giga-Drain",
+    "Giga Drain",
+    "Giga-Drain (move)"
+  ],
+  "updatedAt": 1773323174
+}

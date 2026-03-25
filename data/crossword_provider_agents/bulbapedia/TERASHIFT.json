@@ -1,0 +1,16 @@
+{
+  "answerKey": "TERASHIFT",
+  "answerDisplay": "TERA SHIFT",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen IX ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Tera_Shift_(Ability)",
+  "extract": "Tera Shift (Japanese: テラスチェンジ Tera Change) is an Ability introduced during Generation IX, in The Indigo Disk. It is one of the signature Abilities of Terapagos.",
+  "updatedAt": 1774258447
+}

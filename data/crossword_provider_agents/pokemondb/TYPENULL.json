@@ -1,0 +1,15 @@
+{
+  "answerKey": "TYPENULL",
+  "answerDisplay": "TYPE NULL",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon Pokémon introduced in Generation 7.",
+  "score": 112.88,
+  "approved": true,
+  "qualityFlags": [],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/type-null",
+  "extract": "type Pokémon introduced in Generation 7 .",
+  "rankPosition": 1,
+  "updatedAt": 1774213261
+}

@@ -1,0 +1,37 @@
+{
+  "answerKey": "INFESTATION",
+  "answerDisplay": "INFESTATION",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Infestation (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Infestation_(move)",
+  "pageId": 184477,
+  "pageRevisionId": 4469761,
+  "leadText": "Infestation (Japanese: まとわりつく Follow About) is a damage-dealing Bug-type move introduced in Generation VI. It was TM83 from Generation VI to Pokémon Ultra Sun and Ultra Moon.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Infestation inflicts 1/8 of the target's maximum HP as damage per turn for four to five turns upon use, in addition to the damage dealt when it is used. It also traps the target, preventing switching and escape . The quote \" has been afflicted with an infestation by !\" will appear. If the user switches out, the target will be freed. If a trapped Pokémon uses Rapid Spin , it will be freed. If a wild Pokémon uses Infestation on the player's Pokémon, the player may escape if the affected Pokémon has Run Away or is holding a Smoke Ball . However, these do not allow the player to switch the Pokémon out. If an affected Pokémon is holding a Shed Shell , it can switch out. If the user of Infestation is holding a Grip Claw , the duration will always be 7 turns. If a Binding Band is held by the user, the damage done at the end of each turn will increase from 1/8 of the target's maximum HP to 1/6. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 20 24 Cooldown 6s Move wind-up time 10 frames Effect duration 20s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh BD SP LA S V The target is infested and attacked for four to five turns. The target can't flee during this time. ZA The user infests targets so that they take continual damage for a while. Targets cannot be switched out of battle during this time."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD MD RT DX It damages an enemy. It could also cause the Infestation status condition."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as a TCG Attack . This is the only move to play a battle effect in Generation VI games when the option is disabled (specifically, its between-turn effect). Similar effects always played for binding moves in Generation V games; the battle effect oversight for Infestation is perhaps tied both to this Generation V quirk and to Infestation being the only new binding move in Generation VI."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Infestation",
+    "Infestation (move)"
+  ],
+  "updatedAt": 1773323901
+}

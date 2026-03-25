@@ -1,0 +1,101 @@
+{
+  "answerKey": "RAINBOWFLOWER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4446816,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VII item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "unused",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen VII unused",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Effect [ edit | edit source ] Starts the final part of Mina 's trial, a battle with Totem Ribombee .",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "specificity": 0.8
+      },
+      {
+        "text": "One of seven trial collectibles",
+        "evidence_ref": "Effect",
+        "specificity": 0.86
+      },
+      {
+        "text": "Part of a Rainbow Flower",
+        "evidence_ref": "Effect",
+        "specificity": 0.88
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Progress-gating key item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "One of seven trial finds",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.78,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Mina's trial collectible",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Part of the Rainbow Flower",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.82,
+        "specificity_score": 0.92,
+        "style": "effect"
+      },
+      {
+        "text": "Needed for Mina's Rainbow Flower",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.78,
+        "specificity_score": 0.9,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "unlocking item"
+    ],
+    "connections_descriptors": [
+      "Gen VII items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257999
+}

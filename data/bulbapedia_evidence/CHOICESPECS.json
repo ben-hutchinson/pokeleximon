@@ -1,0 +1,34 @@
+{
+  "answerKey": "CHOICESPECS",
+  "answerDisplay": "CHOICE SPECS",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Choice Specs",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Choice_Specs",
+  "pageId": 22302,
+  "pageRevisionId": 4484501,
+  "leadText": "The Choice Specs (Japanese: こだわりメガネ Fixation Glasses) is a type of held item introduced in Generation IV. It boosts the holder's Special Attack, but locks it into only using one move. It has two counterparts that boost different stats: Choice Band and Choice Scarf.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation V to VI 1.3 Generation VII 1.4 Generation VIII Effect [ edit | edit source ] When held by a Pokémon, it boosts the Pokémon's Special Attack by 50%, but only allows the use of the first move selected. This effect resets when the holder is withdrawn . Generation IV [ edit | edit source ] In Pokémon Diamond and Pearl , due to a glitch , if a Pokémon uses U-turn and switches into a Pokémon holding Choice Specs that also knows U-turn, that Pokémon will be locked into U-turn. This was fixed in subsequent games. Generation V to VI [ edit | edit source ] From Generation V onward, if a Pokémon is already locked into a move due to held Choice Specs, if the held Choice Specs is removed while its effect is negated, the Pokémon will be affected by the Choice item lock glitch . Generation VII [ edit | edit source ] If a Pokémon holding Choice Specs uses a move other than the one it's locked into (such as through Instruct or Dancer ), the move will fail and no PP will be deducted. Generation VIII [ edit | edit source ] Dynamax Pokémon are unaffected by Choice Specs (both the move-lock effect and the stat boost). If a Pokémon is locked into a move due to Choice Specs and then Dynamaxes, when the Dynamax ends, the Pokémon once again can only use the move it was already locked into."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS An item to be held by a Pokémon. These distinctive glasses boost Sp. Atk, but allow only one kind of move to be used. B W B2 W2 An item to be held by a Pokémon. These distinctive glasses boost Sp. Atk but allow the use of only one of its moves. X Y OR AS S M US UM P E Sw Sh BD SP LA An item to be held by a Pokémon. These curious glasses boost Sp. Atk but only allow the use of one move. S V An item to be held by a Pokémon. These curious glasses boost the holder's Sp. Atk but only allow the use of a single move."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.2.1 Generation IV 1.2.2 Generation V to VI 1.2.3 Generation VII 1.2.4 Generation VIII 1.3 Description 1.4 Acquisition 1.4.1 Distribution 1.4.1.1 As a held item In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price D P Pt HG SS B W B2 W2 X Y OR AS BD SP N/A $ 100 S M US UM Sw Sh N/A $ 2,000 S V $ 100,000 $ 25,000 Effect [ edit | edit source ] When held by a Pokémon, it boosts the Pokémon's Special Attack by 50%, but only allows the use of the first move selected. This effect resets when the holder is withdrawn . Generation IV [ edit | edit source ] In Pokémon Diamond and Pearl , due to a glitch , if a Pokémon uses U-turn and switches into a Pokémon holding Choice Specs that also knows U-turn, that Pokémon will be locked into U-turn. This was fixed in subsequent games. Generation V to VI [ edit | edit source ] From Generation V onward, if a Pokémon is already locked into a move due to held Choice Specs, if the held Choice Specs is removed while its effect is negated, the Pokémon will be affected by the Choice item lock glitch . Generation VII [ edit | edit source ] If a Pokémon holding Choice Specs uses a move other than the one it's locked into (such as through Instruct or Dancer ), the move will fail and no PP will be deducted. Generation VIII [ edit | edit source ] Dynamax Pokémon are unaffected by Choice Specs (both the move-lock effect and the stat boost). If a Pokémon is locked into a move due to Choice Specs and then Dynamaxes, when the Dynamax ends, the Pokémon once again can only use the move it was already locked into. Description [ edit | edit source ] Games Description D P Pt HG SS An item to be held by a Pokémon. These distinctive glasses boost Sp. Atk, but allow only one kind of move to be used. B W B2 W2 An item to be held by a Pokémon. These distinctive glasses boost Sp. Atk but allow the use of only one of its moves. X Y OR AS S M US UM P E Sw Sh BD SP LA An item to be held by a Pokémon. These curious glasses boost Sp. Atk but only allow the use of one move. S V An item to be held by a Pokémon. These curious glasses boost the holder's Sp. Atk but only allow the use of a single move. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Celestic Town Morning HG SS Lake of Rage PBR Shop (7200 Poké Coupons ) PW Winner's Path B W Battle Subway (48 BP ) B2 W2 Battle Subway / PWT (24 BP ) X Y OR AS Battle Maison (48 BP ) S M US UM Tapu Village US UM Battle Tree (48 BP ) Sw Sh Spikemuth Battle Tower (25 BP ) BD SP Celestic Town Morning Battle Park (25 BP ) S V Delibird Presents ( Mesagoza Branch, after completing the main storyline) Distribution [ edit | edit source ] As a held item [ edit | edit source ] Games Event Language/Region Distribution period S V Shin Yeo-myeong's Flutter Mane All May 5 to 7, 2024 Tomoya Ogawa's Sylveon All August 16 to 19, 2024"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Choice-Specs",
+    "Choice Specs",
+    "Choice-Specs (item)"
+  ],
+  "updatedAt": 1773321683
+}

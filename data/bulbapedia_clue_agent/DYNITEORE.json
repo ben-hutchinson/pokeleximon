@@ -1,0 +1,97 @@
+{
+  "answerKey": "DYNITEORE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4510559,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "collectibles",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen VIII collectibles",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Effect [ edit | edit source ] A trader inside the Max Lair will give certain items to the player in exchange for pieces of Dynite Ore. Peonia will sometimes offer to unlock a Dynamax Adventure leading to a special Pokemon the player has not seen yet in exchange for five pieces of Dynite Ore. If the player drops out of three or more Dynamax Adventures in a row, the Scientist running the Max Lair demands the player give her a number of Dynite Ore pieces equal to the amount of Dynamax Adventures they've dropped out of (up to 10) before letting them participate in another one. An old man near the crop plots in Freezington will give the player Carrot Seeds in exchange for eight pieces of Dynite Ore.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Crafting or exchange material",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "Acquisition",
+        "specificity": 0.74
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Crafting or exchange material",
+        "evidence_ref": "lead",
+        "mystery_score": 0.6,
+        "specificity_score": 0.74,
+        "style": "family"
+      },
+      {
+        "text": "Collectible crafting item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.7,
+        "style": "family"
+      },
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "Acquisition",
+        "mystery_score": 0.66,
+        "specificity_score": 0.8,
+        "style": "family"
+      },
+      {
+        "text": "Exchangeable collectible",
+        "evidence_ref": "Acquisition",
+        "mystery_score": 0.62,
+        "specificity_score": 0.78,
+        "style": "family"
+      },
+      {
+        "text": "Tradable collectible",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.68,
+        "style": "family"
+      },
+      {
+        "text": "Collectible item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.48,
+        "specificity_score": 0.64,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "exchange item"
+    ],
+    "connections_descriptors": [
+      "Crafting materials",
+      "Gen VIII items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257942
+}

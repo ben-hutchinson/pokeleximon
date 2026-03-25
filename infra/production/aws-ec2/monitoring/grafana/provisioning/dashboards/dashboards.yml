@@ -1,0 +1,11 @@
+apiVersion: 1
+
+providers:
+  - name: Pokeleximon
+    orgId: 1
+    folder: Pokeleximon
+    type: file
+    disableDeletion: false
+    updateIntervalSeconds: 30
+    options:
+      path: /etc/grafana/provisioning/dashboards/pokeleximon

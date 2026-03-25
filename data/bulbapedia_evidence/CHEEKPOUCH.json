@@ -1,0 +1,34 @@
+{
+  "answerKey": "CHEEKPOUCH",
+  "answerDisplay": "CHEEK POUCH",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Cheek Pouch (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Cheek_Pouch_(Ability)",
+  "pageId": 181566,
+  "pageRevisionId": 4407537,
+  "leadText": "Cheek Pouch (Japanese: ほおぶくろ Cheek Pouch) is an Ability introduced in Generation VI.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Cheek Pouch restores 33% of the Pokémon's maximum HP when it consumes a Berry , after the effect of the Berry is applied. Cheek Pouch activates even if the Pokémon eats another Pokémon's held Berry via Bug Bite , Pluck , or Fling , but only if the Berry is actually eaten for an effect (i.e. the Berry consumption animation plays). Consuming a Berry through other means (such as Natural Gift , using Fling , or its Trainer giving it a Berry from the Bag ) will not trigger Cheek Pouch. Cheek Pouch will not activate if the Pokémon is under the effect of Heal Block . Outside of battle [ edit | edit source ] Cheek Pouch has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Cheek Pouch restores 33% of the Pokémon's maximum HP when it consumes a Berry , after the effect of the Berry is applied. Cheek Pouch activates even if the Pokémon eats another Pokémon's held Berry via Bug Bite , Pluck , or Fling , but only if the Berry is actually eaten for an effect (i.e. the Berry consumption animation plays). Consuming a Berry through other means (such as Natural Gift , using Fling , or its Trainer giving it a Berry from the Bag ) will not trigger Cheek Pouch. Cheek Pouch will not activate if the Pokémon is under the effect of Heal Block ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD When the Pokémon eats or drinks an item, some HP will be restored, too!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Cheek-Pouch",
+    "Cheek Pouch",
+    "Cheek-Pouch (Ability)"
+  ],
+  "updatedAt": 1773328799
+}

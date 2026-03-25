@@ -1,0 +1,38 @@
+{
+  "answerKey": "MIRRORHERB",
+  "answerDisplay": "MIRROR HERB",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Mirror Herb",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mirror_Herb",
+  "pageId": 273860,
+  "pageRevisionId": 4485915,
+  "leadText": "Mirror Herb (Japanese: ものまねハーブ Imitation Herb) is a type of item introduced in Generation IX.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Just after an opponent has a stat increase, the holder consumes the Mirror Herb and gets the same stat increase. If multiple stats of the opponent are increased in a single move, (for instance by using Clangorous Soul while holding a Throat Spray ), all of the stat increases are copied. Outside of battle [ edit | edit source ] A Pokémon that holds a Mirror Herb and has an empty move slot, and another Pokémon that knows a move the first Pokémon can learn as an Egg Move , after the picnic the first Pokémon will learn that Egg Move, even if there is no matching Egg Group or if both Pokémon are of the same gender . This does not consume the Mirror Herb."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Just after an opponent has a stat increase, the holder consumes the Mirror Herb and gets the same stat increase. If multiple stats of the opponent are increased in a single move, (for instance by using Clangorous Soul while holding a Throat Spray ), all of the stat increases are copied."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V An item to be held by a Pokémon. This herb will allow the holder to mirror an opponent's stat increases to boost its own stats—but only once."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.2.1 In battle 1.2.2 Outside of battle 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price S V $ 30,000 $ 7,500 Effect [ edit | edit source ] In battle [ edit | edit source ] Just after an opponent has a stat increase, the holder consumes the Mirror Herb and gets the same stat increase. If multiple stats of the opponent are increased in a single move, (for instance by using Clangorous Soul while holding a Throat Spray ), all of the stat increases are copied. Outside of battle [ edit | edit source ] A Pokémon that holds a Mirror Herb and has an empty move slot, and another Pokémon that knows a move the first Pokémon can learn as an Egg Move , after the picnic the first Pokémon will learn that Egg Move, even if there is no matching Egg Group or if both Pokémon are of the same gender . This does not consume the Mirror Herb. Description [ edit | edit source ] Games Description S V An item to be held by a Pokémon. This herb will allow the holder to mirror an opponent's stat increases to boost its own stats—but only once. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods S V Delibird Presents ( Cascarrafa Branch)"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mirror-Herb",
+    "Mirror Herb",
+    "Mirror-Herb (item)"
+  ],
+  "updatedAt": 1773325100
+}

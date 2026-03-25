@@ -1,0 +1,34 @@
+{
+  "answerKey": "MAKEITRAIN",
+  "answerDisplay": "MAKE IT RAIN",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Make It Rain (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Make_It_Rain_(move)",
+  "pageId": 277777,
+  "pageRevisionId": 4491098,
+  "leadText": "Make It Rain (Japanese: ゴールドラッシュ Gold Rush) is a damage-dealing Steel-type move introduced in Generation IX. It is the signature move of Gholdengo.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Make It Rain inflicts damage and lowers the user's Special Attack by one stage. In a battle with multiple opponents, Make It Rain will target all adjacent opponents. For each target the move hits, coins are scattered on the ground. $ 5 multiplied by the user's level are scattered each time. No coins are scattered in Tera Raid Battles . If the player wins the battle, they will pick up all the scattered coins and receive the total money amount. The amount of money from Make It Rain is doubled if any of the player's Pokémon takes part in battle while holding an Amulet Coin or Luck Incense ; however, this effect can only be applied once, regardless of how many additional Pokémon hold this item. Having more than one Pokémon holding the item does not increase the money amount any further. Pokémon Legends: Z-A [ edit | edit source ] In Pokémon Legends: Z-A , coins scattered by Make It Rain are picked up immediately. Make It Rain does not scatter coins when hitting objects like Mega Crystals. The amount of money from Make It Rain is unaffected by the Gold Canari Plush . Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 120 144 Cooldown 15s Move wind-up time 15 frames Effect duration —s Additional effect — — — Lowers the user's Special Attack Scatters coins based on the user's level per target hit"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user attacks by throwing out a mass of coins. This also lowers the user's Sp. Atk stat. Money is earned after the battle. ZA The user attacks by throwing out a mass of coins. This also lowers the user's Sp. Atk stat for a short time. If a target is successfully struck, you will earn money."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] \" Make it rain \" is an idiom in the English language which means to make wealth or to show off wealth; in the latter sense, it often refers to the act of throwing money into the air, to make it appear as if it is raining money. Due to this, despite its English name, this move does not actually summon rain . The move's rename in English from \"Gold Rush\" may be due to a naming conflict with G-Max Gold Rush , a G-Max Move introduced in Pokémon Sword and Shield . This move originated as a TCG attack ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Make-It-Rain",
+    "Make It Rain",
+    "Make-It-Rain (move)"
+  ],
+  "updatedAt": 1773324697
+}

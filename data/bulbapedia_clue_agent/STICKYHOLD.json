@@ -1,0 +1,88 @@
+{
+  "answerKey": "STICKYHOLD",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4398807,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Sticky Hold (Japanese: Adhesion) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Prevents the Pokemon's hold item from being taken. MD T D S Prevents the Pokemon's hold item from being taken. B S L MD GtI Held items can't be dropped or stolen. * The Pokemon won't drop items or have them taken away from it. * S MD The Pokemon won't drop items or have them taken away from it. MD RT DX The Pokemon won't drop items or have them taken away.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III and IV 1.1.2 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: What happens if a Pokemon with Magician uses Circle Throw / Dragon Tail against a Pokemon with Sticky Hold? Is the item stolen? You can discuss this on the talk page. This Ability prevents the held item of the Pokemon with this Ability from being taken by Covet , Thief , Pickpocket , or Magician ; eaten by Bug Bite or Pluck ; destroyed by Incinerate or Corrosive Gas ; or removed by Knock Off . It also prevents the Pokemon from being affected by other Pokemon's Trick or Switcheroo (even if it has no held item), but not its own. Sticky Hold does not prevent a Sticky Barb being transferred by its own effect. Sticky Hold can be ignored by Mold Breaker , Turboblaze , and Teravolt . Generation III and IV [ edit | edit source ] Even if the Pokemon is knocked out by the attack, Sticky Hold protects the held item. Generation V onward [ edit | edit source ] If the Pokemon is knocked out by the attack, Sticky Hold does not protect the held item. Outside of battle [ edit | edit source ] This Ability effect may be in need of research. Reason: In Generation VII, does Sticky Hold only make Pokemon fishing encounters more common, or does it make hooking anything more common? You can discuss this on the talk page. From Pokemon Emerald onwards, if a Pokemon with Sticky Hold is in the first place in the party (even if fainted ), bites will occur more often while fishing . Suction Cups has the same effect. Due to an error in Pokemon Diamond, Pearl , and Platinum , Sticky Hold has no effect outside of battle. [ 1 ] [ 2 ] This behavior is kept in Pokemon Brilliant Diamond and Shining Pearl , where the Ability also has no effect outside of battle. [ 3 ] @im_a_blisy on Twitter Function ov6_0224226C() in decompilation of Pokemon Platinum by GitHub organization \"pret\" https://web.archive.org/web/20211201221838/https://twitter.com/Sibuna_Switch/status/1465550398354345997",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: What happens if a Pokemon with Magician uses Circle Throw / Dragon Tail against a Pokemon with Sticky Hold? Is the item stolen? You can discuss this on the talk page. This Ability prevents the held item of the Pokemon with this Ability from being taken by Covet , Thief , Pickpocket , or Magician ; eaten by Bug Bite or Pluck ; destroyed by Incinerate or Corrosive Gas ; or removed by Knock Off . It also prevents the Pokemon from being affected by other Pokemon's Trick or Switcheroo (even if it has no held item), but not its own. Sticky Hold does not prevent a Sticky Barb being transferred by its own effect. Sticky Hold can be ignored by Mold Breaker , Turboblaze , and Teravolt . Generation III and IV [ edit | edit source ] Even if the Pokemon is knocked out by the attack, Sticky Hold protects the held item. Generation V onward [ edit | edit source ] If the Pokemon is knocked out by the attack, Sticky Hold does not protect the held item.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Prevents a held item from being removed by other Pokemon.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "switching ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "protective ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "switching ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "protective ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Switching abilities",
+      "Protective abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258019
+}

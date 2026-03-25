@@ -1,0 +1,38 @@
+{
+  "answerKey": "DUSKSTONE",
+  "answerDisplay": "DUSK STONE",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Dusk Stone",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dusk_Stone",
+  "pageId": 18951,
+  "pageRevisionId": 4504903,
+  "leadText": "The Dusk Stone (Japanese: やみのいし Darkness Stone) is a type of Evolution stone introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Can be used to evolve one of several Pokémon. This consumes the Dusk Stone. Causes Murkrow to evolve into Honchkrow Causes Misdreavus to evolve into Mismagius Causes Lampent to evolve into Chandelure Causes Doublade to evolve into Aegislash"
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Can be used to evolve one of several Pokémon by offering it at the Luminous Spring T D S or by using it in a dungeon GtI . This consumes the Dusk Stone. Causes Murkrow to evolve into Honchkrow Causes Misdreavus to evolve into Mismagius Causes Lampent to evolve into Chandelure If thrown, it will deal 1 T D S /2 GtI damage (2 if sticky ). In Explorers of Time, Explorers of Darkness, and Explorers of Sky, using this item in a dungeon will consume it, with no effect."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] The Dusk Stone is required to evolve certain Pokémon in Pokémon Sleep. It is consumed upon use. Murkrow requires 80 Murkrow Candy and a Dusk Stone to evolve into Honchkrow ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 A peculiar stone that makes certain species of Pokémon evolve. It is as dark as dark can be. X Y OR AS S M US UM P E Sw Sh BD SP LA A peculiar stone that can make certain species of Pokémon evolve. It holds shadows as dark as can be. S V ZA A peculiar stone that can make certain species of Pokémon evolve. It holds dark shadows within it."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Dusk-Stone",
+    "Dusk Stone",
+    "Dusk-Stone (item)"
+  ],
+  "updatedAt": 1773322420
+}

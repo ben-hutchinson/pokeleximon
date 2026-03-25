@@ -1,0 +1,90 @@
+{
+  "answerKey": "WHITESMOKE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4469197,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "White Smoke (Japanese: White Smoke) is an Ability introduced in Generation III. Prior to Generation V and in Generation IX, it is the signature Ability of Torkoal.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Prevents reduction of stats. MD T D S Protects the Pokemon from stat reduction. B S L MD GtI Unavailable S MD The Pokemon's Attack, Defense, Sp. Atk, Sp. Def, accuracy, and evasiveness won't be lowered! MD RT DX The Pokemon's Attack, Defense, Sp. Atk, Sp. Def, accuracy, and evasiveness won't be lowered.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.2 Outside of battle 1.2.1 Generation VIII 1.2.2 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] White Smoke prevents stat reduction caused by other Pokemon's moves and Abilities (such as Scary Face and Intimidate ), including Sticky Web . White Smoke does not prevent self-inflicted stat reductions such as from moves like Overheat or Shell Smash . White Smoke only protects from effects that lower stat stages, so it does not prevent stat reduction from items like the Iron Ball , the status conditions paralysis or burn , or the moves Guard Split or Power Split . White Smoke does not prevent stat stages being directly modified by Heart Swap , Guard Swap , Power Swap , Baton Pass , or Topsy-Turvy . It does not prevent Spectral Thief from stealing (i.e., resetting) positive stat changes. This Ability is ignored by moves and Abilities that ignore Abilities, such as Mold Breaker . Outside of battle [ edit | edit source ] From Pokemon Emerald onwards, if a Pokemon with White Smoke is in the first place in the party (even if fainted ), the chance of encountering a wild Pokemon is decreased by 50%. It shares this effect with Quick Feet , Stench and Infiltrator (since Generation VIII ). Generation VIII [ edit | edit source ] In Pokemon Sword and Shield only, this Ability instead decreases the chance of hidden encounters by 87.5%. Generation IX [ edit | edit source ] In Pokemon Scarlet and Violet , this Ability has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] White Smoke prevents stat reduction caused by other Pokemon's moves and Abilities (such as Scary Face and Intimidate ), including Sticky Web . White Smoke does not prevent self-inflicted stat reductions such as from moves like Overheat or Shell Smash . White Smoke only protects from effects that lower stat stages, so it does not prevent stat reduction from items like the Iron Ball , the status conditions paralysis or burn , or the moves Guard Split or Power Split . White Smoke does not prevent stat stages being directly modified by Heart Swap , Guard Swap , Power Swap , Baton Pass , or Topsy-Turvy . It does not prevent Spectral Thief from stealing (i.e., resetting) positive stat changes. This Ability is ignored by moves and Abilities that ignore Abilities, such as Mold Breaker .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Prevents stats from being lowered by other Pokemon.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Protects stats from drops",
+        "evidence_ref": "lead",
+        "specificity": 0.82
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "debuffing trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Protects stats from drops",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Stat-drop blocking trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "effect"
+      },
+      {
+        "text": "Keeps stats from falling",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.74,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "debuffing trait",
+      "stat-protecting trait"
+    ],
+    "connections_descriptors": [
+      "Debuffing abilities",
+      "Stat-protecting abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258033
+}

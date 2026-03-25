@@ -1,0 +1,34 @@
+{
+  "answerKey": "ANGERPOINT",
+  "answerDisplay": "ANGER POINT",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Anger Point (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Anger_Point_(Ability)",
+  "pageId": 17631,
+  "pageRevisionId": 4407649,
+  "leadText": "Anger Point (Japanese: いかりのつぼ Anger Pressure Point) is an Ability introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation IV [ edit | edit source ] When a Pokémon with this Ability is hit by a critical hit , Anger Point maximizes its Attack stat by raising it to +6 stages (regardless of its current stage). Anger Point will activate even if the Pokémon's substitute is hit. Generation V onward [ edit | edit source ] Anger Point no longer activates if the Pokémon's substitute is hit. Outside of battle [ edit | edit source ] Anger Point has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generation IV [ edit | edit source ] When a Pokémon with this Ability is hit by a critical hit , Anger Point maximizes its Attack stat by raising it to +6 stages (regardless of its current stage). Anger Point will activate even if the Pokémon's substitute is hit. Generation V onward [ edit | edit source ] Anger Point no longer activates if the Pokémon's substitute is hit."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the Pokémon's Attack when the Pokémon suffers a critical hit. B S L きゅうしょに こうげきをうけた ちょくごの こうげきが つよくなる MD GtI Unavailable S MD If the Pokémon takes a critical hit, its Attack goes up sharply! MD RT DX If the Pokémon takes a critical hit, its rage makes its Attack go up sharply!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Anger-Point",
+    "Anger Point",
+    "Anger-Point (Ability)"
+  ],
+  "updatedAt": 1774213537
+}

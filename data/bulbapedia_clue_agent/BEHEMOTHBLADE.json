@@ -1,0 +1,67 @@
+{
+  "answerKey": "BEHEMOTHBLADE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4498420,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII Steel move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Steel physical move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokemon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] Behemoth Blade deals damage. If the target is Dynamaxed or Gigantamaxed , its damage is doubled. The bonus does not apply to Eternamax Eternatus , despite its similarities to a Gigantamaxed Pokemon. Generation VIII [ edit | edit source ] Pokemon Brilliant Diamond and Shining Pearl [ edit | edit source ] Behemoth Blade cannot be selected in a battle. Generation IX [ edit | edit source ] As there is no Dynamax mechanic in Generation IX, Behemoth Blade now deals damage with no secondary effect.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "100-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Steel physical move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen VIII Steel move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "100-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "steel physical move"
+    ],
+    "connections_descriptors": [
+      "Steel Physical moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257929
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "MIRRORMOVE",
+  "answerDisplay": "MIRROR MOVE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Mirror Move (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mirror_Move_(move)",
+  "pageId": 3728,
+  "pageRevisionId": 4501000,
+  "leadText": "Mirror Move (Japanese: オウムがえし Parrot Mimicry) is a non-damaging Flying-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I to VI 1.2 Generation VII 1.3 Generation VIII onwards Effect [ edit | edit source ] Generation I to VI [ edit | edit source ] This move effect may be in need of research. Reason: Test if in Stadium 2 (much like in GSC), Mirror Move always fails when used by a transformed Pokémon. Account for moves that Mirror Move's \"memory\" ignores, such as Role Play , in each generation (refer to Smogon for Gen IV). And any other things Smogon mentions that aren't accounted here. Also, check whether this line applies to both Pokémon Stadium (Japanese) and the international Pokémon Stadium : \"In Pokémon Stadium, Mirror Move will copy multi-turn moves during either of the turns they take to execute.\" You can discuss this on the talk page. Mirror Move uses the last move targeted at the user by a Pokémon still on the field. A move called by Mirror Move in this way counts as the last move used. Moves that target multiple Pokémon count as long as the user of Mirror Move is one of the targets. Mirror Move will fail if no moves were targeted at the user (by a Pokémon still on the field) before the use of Mirror Move, if the user of the move that would be called by Mirror Move switches out during the turn Mirror Move is used, or if Mirror Move would call itself, a Shadow move , or a Z-Move . In Generation II only, Mirror Move will also always fail when used by a transformed Pokémon. Paralysis , confusion , recharging , and building up for a multi-turn move have no effect on the last move used; if Mirror Move is used against a target that was fully paralyzed, hurt itself in confusion, or executed the first part of a multi-turn move right before its use, Mirror Move will not count this as using a move. In Pokémon Stadium, Mirror Move will copy multi-turn moves during either of the turns they take to execute. A Pokémon will be able to use a move that is disabled if it is called via Mirror Move. Mirror Move can be also used on teammates. If used on a move like Rock Slide that can only target opponents, Mirror Move will use it without hurting allies. Generation VII [ edit | edit source ] This move effect may be in need of research. Reason: Test if the simplified Copycat-like effect existed in generations prior to Generation 7 You can discuss this on the talk page. Mirror Move now allows the user to simply select a Pokemon on the field to replicate their move, and no longer has to be the last move that targeted the user. If powered up by a Flyinium Z into Z-Mirror Move, the user's Attack stat rises by two stages. Additionally, the copied move will become its corresponding Z-Move . If the copied move is a status move , it will not receive its Z-Power effect. Generation VIII onwards [ edit | edit source ] Mirror Move cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A move that strikes back with the opponent's last move. This move comes after the enemy's move. Stad2 A move that strikes back with the opponent's last move. It comes after the enemy's move. G S C Counters with the same move. R S E Counters the foe's attack with the same move. FR LG The user counters the move last used by the foe with the same move. Colo XD Counters an attack with the same move. D P Pt HG SS PBR The user counters the foe by mimicking the move last used by the foe. B W B2 W2 X Y OR AS S M US UM P E The user counters the target by mimicking the target's last move. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Mirror Move status. Any move used against the user is countered with the same move. MD T D S Gives the Pokémon that uses this move the Mirror Move status, which enables the Pokémon to bounce a move back at its attacker. B S L じぶんを オウムがえしじょうたいにかえる うけたわざを そのまま てきポケモンへ かえす MD GtI You counter the enemy by mimicking the enemy's last move. S MD MD RT DX You counter the enemy by mimicking its last move. Your move fails if there's no move to mimic."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Despite Mirror Move not being directly related to flying, its Japanese name, オウムがえし (Parrot Mimicry), explains why the move is Flying-type and why most Pokémon that learn it are bird-based. Despite being unusable as of Generation VIII , moves are still programmed to be affected by Mirror Move in later games."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mirror-Move",
+    "Mirror Move",
+    "Mirror-Move (move)"
+  ],
+  "updatedAt": 1773325102
+}

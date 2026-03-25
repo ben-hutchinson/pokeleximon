@@ -1,0 +1,38 @@
+{
+  "answerKey": "CROSSPOISON",
+  "answerDisplay": "CROSS POISON",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Cross Poison (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Cross_Poison_(move)",
+  "pageId": 12182,
+  "pageRevisionId": 4463718,
+  "leadText": "Cross Poison (Japanese: クロスポイズン Cross Poison) is a damage-dealing Poison-type move introduced in Generation IV. It is TM73 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Cross Poison deals damage and has an increased critical hit ratio. It has a 10% chance of poisoning the opponent. Cross Poison can also be used as part of a Contest Spectacular combination , with the user gaining extra three appeal points if the move Focus Energy was used in the prior turn. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Physical PP 15 Agile Strong Power 70 55 85 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 20% 20% 40% Turns 3 2 4 Crit. stage +1 +1 +2 May inflict the target with poison Has a high critical-hit ratio"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR A slashing attack that may also leave the target poisoned. It has a high critical-hit ratio. B W B2 W2 A slashing attack with a poisonous blade that may also leave the target poisoned. Critical hits land more easily. X Y OR AS S M US UM P E Sw Sh BD SP A slashing attack with a poisonous blade that may also poison the target. Critical hits land more easily. LA A slashing attack with a toxic blade that may also poison the target. This move has a heightened chance of landing a critical hit. S V A slashing attack with a poisonous blade that may also poison the target. This move has a heightened chance of landing a critical hit."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Poisoned status condition, which causes periodic damage. It has a high critical-hit rate. B S L てきポケモンに ダメージをあたえる きゅうしょに あたりやすい しかも いっていのかくりつで どくじょうたいにして いっていターンごとに ダメージをあたえる Conq. A slashing attack with a poisonous blade that may also leave the target poisoned. Critical hits land more easily. MD GtI UNUSED S MD It damages an enemy. It could also make the enemy poisoned. It has a high critical-hit rate."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Cross Poison is the only Poison-type Cool move. Cross Poison is the only move in its variation to have a secondary effect."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Cross-Poison",
+    "Cross Poison",
+    "Cross-Poison (move)"
+  ],
+  "updatedAt": 1773321945
+}

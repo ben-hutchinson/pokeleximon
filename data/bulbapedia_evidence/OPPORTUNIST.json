@@ -1,0 +1,29 @@
+{
+  "answerKey": "OPPORTUNIST",
+  "answerDisplay": "OPPORTUNIST",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Opportunist (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Opportunist_(Ability)",
+  "pageId": 277816,
+  "pageRevisionId": 4459849,
+  "leadText": "If you were looking for the skill in Pokémon Shuffle, see Skill (Shuffle) → Opportunist. Opportunist (Japanese: びんじょう Opportunist) is an Ability introduced in Generation IX. It is the signature Ability of Espathra.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Check if Opportunist triggers when a Pokémon with this Ability uses Swagger , Flatter , Decorate , or Spicy Extract on an opposing Pokémon; check if Opportunist triggers when a Pokémon with this Ability uses any stat-lowering move on an opposing Pokémon with Contrary . You can discuss this on the talk page. When an opposing Pokémon raises its stats, the Pokémon with this Ability will also raise the same stats by the same number of stages as the opposing Pokémon. This Ability does not activate when an ally Pokémon raises its stats, or when an opposing Pokémon raises its stats through Opportunist. Opportunist will trigger if an ally Pokémon uses Swagger or Flatter against an opposing Pokémon, after the confusion is applied. If multiple triggers happen at once (for example, Torch Song used by a Pokémon holding Throat Spray ), Opportunist will sum them up. Outside of battle [ edit | edit source ] Opportunist has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Check if Opportunist triggers when a Pokémon with this Ability uses Swagger , Flatter , Decorate , or Spicy Extract on an opposing Pokémon; check if Opportunist triggers when a Pokémon with this Ability uses any stat-lowering move on an opposing Pokémon with Contrary . You can discuss this on the talk page. When an opposing Pokémon raises its stats, the Pokémon with this Ability will also raise the same stats by the same number of stages as the opposing Pokémon. This Ability does not activate when an ally Pokémon raises its stats, or when an opposing Pokémon raises its stats through Opportunist. Opportunist will trigger if an ally Pokémon uses Swagger or Flatter against an opposing Pokémon, after the confusion is applied. If multiple triggers happen at once (for example, Torch Song used by a Pokémon holding Throat Spray ), Opportunist will sum them up."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Opportunist",
+    "Opportunist (Ability)"
+  ],
+  "updatedAt": 1773325519
+}

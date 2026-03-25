@@ -1,0 +1,57 @@
+{
+  "answerKey": "INFILTRATOR",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4253510,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Infiltrator (Japanese: Slip Through) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD GtI The Pokemon's moves can hit foes that used Reflect, Light Screen, Safeguard, or Mist. * The Pokemon can land moves on targets that have used Reflect, Light Screen, or Safeguard! It also isn't affected by Mist. * S MD The Pokemon's moves are not affected by Reflect , Light Screen , or Safeguard ! They are also not affected by mist.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations V-VI 1.1.2 Generation VII onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations V-VI [ edit | edit source ] Moves used by a Pokemon with Infiltrator bypass the effects of targets' Reflect , Light Screen , Safeguard , and Mist . Generation VII onward [ edit | edit source ] Moves used by a Pokemon with Infiltrator also bypass the effects of targets' Aurora Veil . Moves used by a Pokemon with Infiltrator, except Transform and Sky Drop , also bypass the effects of targets' substitutes . Outside of battle [ edit | edit source ] This Ability effect may be in need of research. Reason: BDSP You can discuss this on the talk page. In Pokemon Sword and Shield , if a Pokemon with Infiltrator is in the first place in the party (even if fainted ), the chance of generating a random encounter is decreased by 87.5%.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Generations V-VI [ edit | edit source ] Moves used by a Pokemon with Infiltrator bypass the effects of targets' Reflect , Light Screen , Safeguard , and Mist . Generation VII onward [ edit | edit source ] Moves used by a Pokemon with Infiltrator also bypass the effects of targets' Aurora Veil . Moves used by a Pokemon with Infiltrator, except Transform and Sky Drop , also bypass the effects of targets' substitutes .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Bypasses light screen, reflect, and safeguard.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257957
+}

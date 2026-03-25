@@ -1,0 +1,34 @@
+{
+  "answerKey": "CRAFTYSHIELD",
+  "answerDisplay": "CRAFTY SHIELD",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Crafty Shield (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Crafty_Shield_(move)",
+  "pageId": 185070,
+  "pageRevisionId": 4500858,
+  "leadText": "Crafty Shield (Japanese: トリックガード Trick Guard) is a non-damaging Fairy-type move introduced in Generation VI. Prior to Generation VII, it was one of the signature moves of Klefki.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] Crafty Shield protects all Pokémon on the user's side of the field from status moves . It does not protect against moves that the user is using on itself or that target the user's side of the field (so an ally can still use Acupressure on itself or Aromatherapy ). It also does not protect against entry hazard moves or moves that target all Pokémon such as Perish Song . Crafty Shield can be used consecutively without failing. Moves that break protection , like Feint , will remove the effects of Crafty Shield. If powered up by a Fairium Z into Z-Crafty Shield, the user's Special Defense stat is raised by one stage. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Crafty Shield cannot be selected in a battle. Generation IX [ edit | edit source ] Crafty Shield cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh LA The user protects itself and its allies from status moves with a mysterious power. This does not stop moves that do damage. BD SP S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It protects from status moves. * You and your teammates in the same room will get the Crafty Shield, which protects you from status moves. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Crafty-Shield",
+    "Crafty Shield",
+    "Crafty-Shield (move)"
+  ],
+  "updatedAt": 1773321907
+}

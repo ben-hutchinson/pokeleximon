@@ -1,0 +1,17 @@
+{
+  "answerKey": "GRIMER",
+  "answerDisplay": "GRIMER",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Poison type Pokémon introduced in Generation 1.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/grimer",
+  "extract": "Grimer is a Poison type Pokémon introduced in Generation 1 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211497
+}

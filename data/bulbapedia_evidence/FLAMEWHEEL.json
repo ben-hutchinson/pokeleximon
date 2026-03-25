@@ -1,0 +1,38 @@
+{
+  "answerKey": "FLAMEWHEEL",
+  "answerDisplay": "FLAME WHEEL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Flame Wheel (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Flame_Wheel_(move)",
+  "pageId": 3782,
+  "pageRevisionId": 4497602,
+  "leadText": "Flame Wheel (Japanese: かえんぐるま Flame Wheel) is a damage-dealing Fire-type move introduced in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Flame Wheel will thaw out the user if it is frozen , and then inflict damage on the target. Flame Wheel also has a 10% chance of burning the target. Flame Wheel can be used as the second move of a Pokémon Contest combination , with the user gaining 4 bonus appeal points if Sunny Day was used in the previous turn. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Physical PP 20 Agile Strong Power 60 45 75 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 30% 30% 50% Turns 3 2 4 ? ? Inflicts the target with burn Cures the user's frostbite Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 60 72 Cooldown 6s Move wind-up time 15 frames Effect duration —s Additional effect Chance 10% — — May burn the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A Fire -type attack. Has a one-in-ten chance of inflicting a burn on the target. G S C An attack that may cause a burn. R S E Colo XD A fiery charge attack that may inflict a burn. FR LG The user makes a fiery charge at the foe. It may cause a burn. D P Pt HG SS PBR The user cloaks itself in fire and charges at the foe. It may also leave the target with a burn. B W B2 W2 The user cloaks itself in fire and charges at the target. It may also leave the target with a burn. X Y OR AS S M US UM P E Sw Sh BD SP The user cloaks itself in fire and charges at the target. This may also leave the target with a burn. LA The user cloaks itself in flames and charges at the target to deal damage. This may also leave the target with a burn. S V The user attacks by cloaking itself in fire and charging at the target. This may also leave the target with a burn. ZA The user attacks by charging forward while wrapped in flames. This may also leave targets with a burn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also cause a burn. It thaws and frees frozen Pokémon. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Burn status condition. It thaws out frozen Pokémon. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで やけどじょうたいにかえる こおっていたポケモンは こおりがとける Conq. The user cloaks itself in fire and charges at the target. It may also leave the target with a burn. MD GtI It damages an enemy. It could also cause the Burn status condition. With the Burn status, the enemy keeps taking damage, and its Attack also goes down slightly. S MD It could leave an enemy with a burn and keep damaging the enemy. * It damages an enemy. It could also leave the enemy with a burn. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Prior to Generation IX , the Korean name of this move was mistranslated as the Japanese word くるま means both \"wheel\" and \"car\"."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Flame-Wheel",
+    "Flame Wheel",
+    "Flame-Wheel (move)"
+  ],
+  "updatedAt": 1773322851
+}

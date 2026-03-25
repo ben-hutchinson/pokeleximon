@@ -1,0 +1,33 @@
+{
+  "answerKey": "SHARPEN",
+  "answerDisplay": "SHARPEN",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sharpen (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sharpen_(move)",
+  "pageId": 3768,
+  "pageRevisionId": 4270434,
+  "leadText": "Sharpen (Japanese: かくばる Improve Angles) is a non-damaging Normal-type move introduced in Generation I. Prior to Generation V, it was the signature move of Porygon.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation I to VII [ edit | edit source ] Sharpen increases the user's Attack stat by one stage. If powered up by a Normalium Z into Z-Sharpen, the user's Attack rises by another stage. Generation VIII onwards [ edit | edit source ] Sharpen cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 Raises the user's Attack power. The edges of the Pok é mon are made harder for more impact. G S C A move that raises the user's Attack . R S E Colo XD Reduces the polygon count and raises Attack . FR LG The user reduces its polygon count to sharpen edges and raise Attack . D P Pt HG SS PBR B W B2 W2 The user reduces its polygon count to make itself more jagged, raising the Attack stat. X Y OR AS The user lowers its polygon count to make itself more jagged, raising the Attack stat. S M US UM P E The user makes its edges more jagged, which raises its Attack stat. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts the user's Attack by one level. MD T D S Boosts the user's Attack by 1 level. B S L じぶんの こうげきを １だんかいあげる MD GtI It boosts your Attack. (The stat change returns to normal when you go to the next floor or step on a Wonder Tile.) S MD It boosts your Attack. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sharpen",
+    "Sharpen (move)"
+  ],
+  "updatedAt": 1773326873
+}

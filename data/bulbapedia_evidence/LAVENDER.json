@@ -1,0 +1,31 @@
+{
+  "answerKey": "LAVENDER",
+  "answerDisplay": "LAVENDER",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Lavender Town",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Lavender_Town",
+  "pageId": 1012,
+  "pageRevisionId": 4509882,
+  "leadText": "Lavender Town (Japanese: シオンタウン Cion Town) is a small town located in northeast Kanto, just south of the Rock Tunnel. The citizens of Lavender Town in Generations I, III, and VII claim Lavender Town is known mainly for ghost sightings in the Pokémon Tower and as the main gravesite of Pokémon. In Generations II and IV, the town is noticeably modernized with the inclusion of a broadcasting station. The citizens claim the ghosts that appear in the tower are the spirits of Pokémon that have died. North of Lavender is Route 10 and the Rock Tunnel. West of the town is Route 8, while to the south is Route 12 and the Silence Bridge.",
+  "sections": [
+    {
+      "title": "Slogan",
+      "text": "Slogan [ edit | edit source ] Generations I-III, VII [ edit | edit source ] The Noble Purple Town (Japanese: シオンは 紫 尊い色 Cion is the color of purple nobility. ) Generation IV [ edit | edit source ] The Noble Town (Japanese: とうとさの にじむ まち The town imbued with nobleness. )"
+    },
+    {
+      "title": "Generations I-III, VII",
+      "text": "Generations I-III, VII [ edit | edit source ] The Noble Purple Town (Japanese: シオンは 紫 尊い色 Cion is the color of purple nobility. )"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Lavender-Town",
+    "Lavender Town",
+    "Lavender",
+    "Lavender-Town (location)"
+  ],
+  "updatedAt": 1774214355
+}

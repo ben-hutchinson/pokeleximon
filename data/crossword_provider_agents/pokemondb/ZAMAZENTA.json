@@ -1,0 +1,17 @@
+{
+  "answerKey": "ZAMAZENTA",
+  "answerDisplay": "ZAMAZENTA",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Fighting type Pokémon introduced in Generation 8.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/zamazenta",
+  "extract": "Zamazenta is a Fighting type Pokémon introduced in Generation 8 .",
+  "rankPosition": 1,
+  "updatedAt": 1774213449
+}

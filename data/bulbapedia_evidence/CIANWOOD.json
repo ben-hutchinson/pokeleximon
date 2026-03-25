@@ -1,0 +1,31 @@
+{
+  "answerKey": "CIANWOOD",
+  "answerDisplay": "CIANWOOD",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Cianwood City",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Cianwood_City",
+  "pageId": 3459,
+  "pageRevisionId": 4509265,
+  "leadText": "Cianwood City (Japanese: タンバシティ Tanba City) is located on the far western edge of Johto, apparently on a totally different landmass than the rest of the region. It is home to the local Safari Zone in Generation IV. Tales of Lugia and the whirlpools it creates circulate among the sailors that stop in this port town. In Generation II only, Cianwood City shares its background music with Ecruteak City.",
+  "sections": [
+    {
+      "title": "Slogan",
+      "text": "Slogan [ edit | edit source ] Generation II [ edit | edit source ] A Port Surrounded by Rough Seas! (Japanese: 「あらなみに かこまれた うみのまち」 A sea town surrounded by rough seas. ) Generation IV [ edit | edit source ] A Port of Crashing Waves (Japanese: 「あらなみに よせる うみのまち」 A sea town of crashing waves. )"
+    },
+    {
+      "title": "Generation II",
+      "text": "Generation II [ edit | edit source ] A Port Surrounded by Rough Seas! (Japanese: 「あらなみに かこまれた うみのまち」 A sea town surrounded by rough seas. )"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Cianwood-City",
+    "Cianwood City",
+    "Cianwood",
+    "Cianwood-City (location)"
+  ],
+  "updatedAt": 1774213777
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "VENOMDRENCH",
+  "answerDisplay": "VENOM DRENCH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Venom Drench (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Venom_Drench_(move)",
+  "pageId": 185082,
+  "pageRevisionId": 4500868,
+  "leadText": "Venom Drench (Japanese: ベノムトラップ Venom Trap) is a non-damaging Poison-type move introduced in Generation VI. It was TR91 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VI to VIII [ edit | edit source ] Venom Drench lowers the Attack , Special Attack , and Speed stats of all poisoned targets by one stage. If no targets are poisoned, the move will fail. Venom Drench can also be used as part of a Contest Spectacular combination , giving an extra three points if Poison Gas , Poison Powder , Toxic , or Toxic Spikes were used in the prior turn. If powered up by a Poisonium Z into Z-Venom Drench, the user's Defense stat rises by one stage. Generation IX [ edit | edit source ] Venom Drench cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh BD SP LA Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target. S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It lowers an enemy's Attack, Sp. Atk, and Travel Speed when it's poisoned or badly poisoned. * It lowers the enemy's Attack, Sp. Atk, and Travel Speed. It will fail unless the enemy is poisoned or badly poisoned, so be careful. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Venom-Drench",
+    "Venom Drench",
+    "Venom-Drench (move)"
+  ],
+  "updatedAt": 1773328260
+}

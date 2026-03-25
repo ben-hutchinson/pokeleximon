@@ -1,0 +1,17 @@
+{
+  "answerKey": "ARTICUNO",
+  "answerDisplay": "ARTICUNO",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is an Ice / Flying type Pokémon introduced in Generation 1.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/articuno",
+  "extract": "Articuno is an Ice / Flying type Pokémon introduced in Generation 1 .",
+  "rankPosition": 1,
+  "updatedAt": 1774210610
+}

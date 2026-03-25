@@ -1,0 +1,38 @@
+{
+  "answerKey": "FIREPUNCH",
+  "answerDisplay": "FIRE PUNCH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Fire Punch (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fire_Punch_(move)",
+  "pageId": 3615,
+  "pageRevisionId": 4503555,
+  "leadText": "Fire Punch (Japanese: ほのおのパンチ Flame Punch) is a damage-dealing Fire-type move introduced in Generation I. It is: TM48 in Generation II. TM31 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TM03 in Pokémon Sword and Shield. TM067 in Pokémon Scarlet and Violet. TM029 in Pokémon Legends: Z-A. It can be thought of as a counterpart to Ice Punch and Thunder Punch, having similar names and effects.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Fire Punch does damage and has a 10% chance of burning the opponent. Fire Punch can be used as the first move of a Pokémon Contest combination , causing Ice Punch and ThunderPunch to score double the normal appeal if used in the next turn. It can also be used to finish a combination, with the user gaining 4 bonus appeal points if Ice Punch , Sunny Day , or ThunderPunch was used in the previous turn. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Fire Punch's PP was reduced from 15 to 10 and its chance of burning the opponent was increased from 10% to 30%. Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 75 60 90 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 30% 30% 50% Turns 3 2 4 ? ? Inflicts burn on the target Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 75 90 Cooldown 7s Move wind-up time 10 frames Effect duration —s Additional effect Chance 10% — — May burn the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A special Fire -type attack. Has a one-in-ten chance of inflicting a burn on the target. G S C A fiery punch. May cause a burn. R S E A fiery punch that may burn the foe. Colo XD A fiery punch that may burn the target. FR LG The foe is punched with a fiery fist. It may leave the foe with a burn. D P Pt HG SS PBR The foe is punched with a fiery fist. It may leave the target with a burn. B W B2 W2 The target is punched with a fiery fist. It may also leave the target with a burn. X Y OR AS S M US UM P E Sw Sh BD SP LA The target is punched with a fiery fist. This may also leave the target with a burn. S V The target is attacked with a fiery punch. This may also leave the target with a burn. ZA The user attacks with a fiery punch. This may also leave targets with a burn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also cause a burn. It thaws and frees frozen Pokémon. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Burn status condition. It thaws out frozen Pokémon. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで やけどじょうたい にかえる こおっていたポケモンは こおりがとける MD GtI UNUSED S MD It damages an enemy. It could also leave the enemy with a burn. MD RT DX It damages an enemy. It could also leave the enemy with a Burn."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In some games, the Pokédex states that Emboar can \"throw a fire punch\". However, this was first said in Pokémon Black , while Emboar was unable to learn the move Fire Punch until Pokémon Black 2 and White 2 . In the Japanese version of the Pokédex entries, the \"fire punch\" is written as 「ほのおの パンチ」 (in the kanji version, the equivalent is 「炎の パンチ」). Except for the addition of a space, this is almost the same as 「ほのおのパンチ」 (the Japanese name of Fire Punch). Similarly, the English Pokédex text mentions \"fire punch\" in lowercase, while moves like \"Fire Punch\" are written in title case instead."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fire-Punch",
+    "Fire Punch",
+    "Fire-Punch (move)"
+  ],
+  "updatedAt": 1773322812
+}

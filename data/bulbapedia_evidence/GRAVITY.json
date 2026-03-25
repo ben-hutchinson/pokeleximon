@@ -1,0 +1,37 @@
+{
+  "answerKey": "GRAVITY",
+  "answerDisplay": "GRAVITY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Gravity (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Gravity_(move)",
+  "pageId": 13702,
+  "pageRevisionId": 4483024,
+  "leadText": "Gravity (Japanese: じゅうりょく Gravity) is a non-damaging Psychic-type move introduced in Generation IV. It is TM178 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Gravity causes the field to undergo intense gravity. This effect lasts 5 turns. It fails if used when Gravity is in effect. During intense gravity, the accuracy of all moves (except OHKO moves ) is multiplied by 5/3 in Generation IV or 6840/4096 (approximately 1.67) in Generation V onward. Intense gravity causes all Pokémon on the field to become grounded . Grounded Pokémon lose their immunity to Ground-type moves due to their Flying type, Levitate Ability, effects of Magnet Rise or Telekinesis , or their held Air Balloon . Grounded Pokémon are now also vulnerable to Arena Trap and entry hazards ; Poison-type Pokémon that are usually airborne will remove Toxic Spikes when switched in during the effects of Gravity. Grounded Pokémon also become affected by terrains . Intense gravity also prevents Pokémon from using the moves Bounce , Fly , Flying Press , High Jump Kick , Jump Kick , Magnet Rise , Sky Drop , Splash and Telekinesis . If a Pokémon is in the semi-invulnerable turn of Fly or Bounce when Gravity is used, that move is canceled immediately. If a Pokémon has no other usable moves besides the moves blocked by Gravity, it will use Struggle . Using Grav Apple under intense gravity has 50% increased power . In Generation V only, due to a glitch , if Gravity is used while two Pokémon are in the semi-invulnerable state of Sky Drop , Gravity will bring the user of Sky Drop down, but the target of Sky Drop will be stuck unable to move in the semi-invulnerable state until the effect of Gravity ends, the user of Sky Drop switches out or is knocked out, or the Pokémon affected by Sky Drop is knocked out. This can only occur in Double and Triple Battles . In later generations, both the user and the target are properly brought down. If powered up by a Psychium Z into Z-Gravity, the user's Special Attack stat is raised by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation. B W B2 W2 X Y OR AS Gravity is intensified for five turns, making moves involving flying unusable and negating Levitate. S M US UM P E Enables Flying-type Pokémon or Pokémon with the Levitate Ability to be hit by Ground-type moves. Flying moves can't be used. Sw Sh BD SP LA This move enables Flying-type Pokémon or Pokémon with the Levitate Ability to be hit by Ground-type moves. Moves that involve flying can't be used. S V Enables Flying types or Pokémon with the Levitate Ability to be hit by Ground-type moves for five turns. Moves that involve flying can't be used."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Changes the dungeon floor's status to Gravity. A floor under the influence of Gravity makes Flying-type Pokémon weak to Ground-type moves. Also, those with the Levitate ability lose immunity from Ground-type moves. B S L フロアぜんたいが じゅうりょくじょうたいになる じゅうりょくじょうたいでは とくせい『ふゆう』のポケモンに じめんタイプのわざが あたる MD GtI UNUSED S MD It changes the floor's gravity, which reduces evasiveness. It also eliminates levitating effects and enables Flying-type Pokémon to be hit with Ground-type moves. Pokémon can't travel in the air!"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Although Orbeetle 's G-Max Move , G-Max Gravitas , replicates the effects of Gravity, it is unable to learn the move ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Gravity",
+    "Gravity (move)"
+  ],
+  "updatedAt": 1773323362
+}

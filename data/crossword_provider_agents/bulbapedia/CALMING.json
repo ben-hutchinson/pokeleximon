@@ -1,0 +1,16 @@
+{
+  "answerKey": "CALMING",
+  "answerDisplay": "CALMING",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Soothing trait",
+  "score": 108.48,
+  "approved": true,
+  "qualityFlags": [
+    "unknown_evidence_ref"
+  ],
+  "evidenceRef": "title",
+  "sourceUrl": "",
+  "extract": "",
+  "updatedAt": 1774258351
+}

@@ -1,0 +1,29 @@
+{
+  "answerKey": "UNDERWATER",
+  "answerDisplay": "UNDERWATER",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Underwater",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Underwater",
+  "pageId": 16690,
+  "pageRevisionId": 4470190,
+  "leadText": "This article is about the Hoenn underwater. For the underwater location in Unova, see Abyssal Ruins. Underwater (Japanese: 水中 underwater) is the label given to special areas in Hoenn.",
+  "sections": [
+    {
+      "title": "Location",
+      "text": "Location [ edit | edit source ] Underwater routes can only be accessed by using the move Dive outside of battle, which also requires the use of Surf . As such, it also requires the Balance Badge and Mind Badge . In Ruby, Sapphire , and Emerald , all underwater areas are simply called \"Underwater\". In Omega Ruby and Alpha Sapphire , all underwater areas use the name of the location they are underneath."
+    },
+    {
+      "title": "Route description",
+      "text": "Route description [ edit | edit source ] There are various differences among the underwater routes. What remains the same, however, is that they follow the general path of the deep water above them. Sometimes, there will be seaweed along the path; this is very similar to the tall grass of the surface world, where wild Pokémon appear. This is the only situation in Generation III in which the Dive Ball operates at full effectiveness. While underwater, players can reach otherwise unreachable areas of the routes they are on, which often hide rare items. In Ruby, Sapphire , and Emerald , it is one of two ways to obtain shards , which can later be exchanged for Evolution stones , the other being to obtain them from wild Pokémon that are holding them. In all Hoenn games, the underwater sections of Routes 127 and 128 connect. In Pokémon Omega Ruby and Alpha Sapphire , Routes 129 and 130 also have new underwater sections that connect."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Underwater",
+    "Underwater (location)"
+  ],
+  "updatedAt": 1773329296
+}

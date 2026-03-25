@@ -1,0 +1,30 @@
+{
+  "answerKey": "SPICYEXTRACT",
+  "answerDisplay": "SPICY EXTRACT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Spicy Extract (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Spicy_Extract_(move)",
+  "pageId": 277760,
+  "pageRevisionId": 4462266,
+  "leadText": "Spicy Extract (Japanese: ハバネロエキス Habanero Extract) is a non-damaging Grass-type move introduced in Generation IX. It is the signature move of Scovillain.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Spicy Extract raises the target's Attack and lowers the target's Defense , each by two stages. It bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user emits an incredibly spicy extract, sharply boosting the target's Attack stat and harshly lowering the target's Defense stat. ZA The user emits an incredibly spicy extract, which boosts targets' Attack stats but also lowers their Defense stats for a while."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Spicy-Extract",
+    "Spicy Extract",
+    "Spicy-Extract (move)"
+  ],
+  "updatedAt": 1773327431
+}

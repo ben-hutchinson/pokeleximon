@@ -1,0 +1,33 @@
+{
+  "answerKey": "WITHDRAW",
+  "answerDisplay": "WITHDRAW",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Withdraw (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Withdraw_(move)",
+  "pageId": 3719,
+  "pageRevisionId": 4406400,
+  "leadText": "Withdraw redirects here. For the act of switching Pokémon in battle, see Recall. Withdraw (Japanese: からにこもる Withdraw into Shell) is a non-damaging Water-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Withdraw increases the user's Defense by one stage. If powered up by a Waterium Z into Z-Withdraw, the user's Defense stat rises by another stage. Withdraw can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Rain Dance was used in the previous turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 Used mainly by Pok é mon with shells. By withdrawing into the shell, Defense is increased. G S C Heightens the user's Defense . R S E Withdraws the body into its hard shell to raise Defense . FR LG The user withdraws its body in its hard shell, raising its Defense stat. Colo XD Withdraws into its hard shell to raise Defense . D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user withdraws its body into its hard shell, raising its Defense stat. S V The user withdraws its body into its hard shell, boosting its Defense stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts the user's Defense by one level. MD T D S Boosts the user's Defense by 1 level. B S L じぶんの ぼうぎょを １だんかいあげる MD GtI It boosts your Defense. (The stat change returns to normal when you go to the next floor or step on a Wonder Tile.) S MD It boosts your Defense. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Withdraw",
+    "Withdraw (move)"
+  ],
+  "updatedAt": 1773328548
+}

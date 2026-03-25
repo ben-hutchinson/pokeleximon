@@ -1,0 +1,57 @@
+{
+  "answerKey": "FRISK",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4419443,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Frisk (Japanese: Unobstructed Sight) is an Ability introduced in Generation IV.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD T D S Shows if the foe is holding an item when the Pokemon hits it with a regular attack. B S L MD GtI When the Pokemon uses a move on a foe, it will learn the name of the item the foe is holding. * When it uses a move or attack on a foe, the Pokemon will know the name of the item that foe is carrying. * S MD When the Pokemon uses a move or attack on an enemy, the Pokemon will know the name of the item that the enemy is carrying! MD RT DX When the Pokemon attacks an enemy, it will learn the name of the item that the enemy is carrying.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations IV and V 1.1.2 Generation VI 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations IV and V [ edit | edit source ] Frisk allows the Pokemon to see the opponent's held item upon entering battle. If the foe is holding an item, a message identifying the item will be shown right after the Pokemon with Frisk enters the battle. If the foe is not holding an item, no message will appear. In a Double or Triple Battle , an unidentified opponent is randomly chosen and its held item revealed. The item revealed may be from a non-adjacent opponent. Generation VI [ edit | edit source ] Frisk now identifies the held items of all opposing Pokemon, regardless of position, in the order of left to right from that team's perspective. Outside of battle [ edit | edit source ] Frisk has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Generations IV and V [ edit | edit source ] Frisk allows the Pokemon to see the opponent's held item upon entering battle. If the foe is holding an item, a message identifying the item will be shown right after the Pokemon with Frisk enters the battle. If the foe is not holding an item, no message will appear. In a Double or Triple Battle , an unidentified opponent is randomly chosen and its held item revealed. The item revealed may be from a non-adjacent opponent. Generation VI [ edit | edit source ] Frisk now identifies the held items of all opposing Pokemon, regardless of position, in the order of left to right from that team's perspective.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Reveals an opponent's held item upon entering battle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257948
+}

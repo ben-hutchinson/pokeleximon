@@ -1,0 +1,34 @@
+{
+  "answerKey": "TERRAINPULSE",
+  "answerDisplay": "TERRAIN PULSE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Terrain Pulse (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Terrain_Pulse_(move)",
+  "pageId": 252910,
+  "pageRevisionId": 4403564,
+  "leadText": "Terrain Pulse (Japanese: だいちのはどう Terrain Pulse) is a damage-dealing Normal-type move introduced during Generation VIII, in The Isle of Armor. In Generation IX, it is the signature move of Smoliv's evolutionary line.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Terrain Pulse deals damage. When there is no terrain active, Terrain Pulse is a Normal-type move. If the user is grounded under any type of terrain, Terrain Pulse's power doubles to 100 (type power-ups from the terrain will be put into effect in addition to this boost). Terrain Pulse's type and animation changes depending on the terrain at the time it is used. Electric-type if the battlefield is Electric Terrain . Grass-type if the battlefield is Grassy Terrain . Fairy-type if the battlefield is Misty Terrain . Psychic-type if the battlefield is Psychic Terrain . Terrain Pulse's power is increased by 50% when used by Pokémon with the Ability Mega Launcher . Terrain Pulse is unaffected by Normalize , Pixilate , Refrigerate , and Galvanize . Terrain Pulse is affected by Electrify . This causes Terrain Pulse to deal Electric damage, regardless of the terrain present. Its power will still be doubled to 100 if used in terrain. When used as a Max Move , Terrain Pulse will be displayed as Max Strike , but will change into the appropriately typed Max Move or G-Max Move upon execution, depending on the present terrain and whether or not the user is grounded when the move is actually executed. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Terrain Pulse cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA The user utilizes the power of the terrain to attack. This move's type and power changes depending on the terrain when it's used. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered. S V The user utilizes the energy of the terrain to attack. This move’s type and power change depending on the terrain at the time the move is used."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as a TCG attack ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Terrain-Pulse",
+    "Terrain Pulse",
+    "Terrain-Pulse (move)"
+  ],
+  "updatedAt": 1773327897
+}

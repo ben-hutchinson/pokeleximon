@@ -1,0 +1,89 @@
+{
+  "answerKey": "BARBBARRAGE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4466713,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII Poison move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Poison physical move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Contents 1 Effect 1.1 Generation VIII 1.2 Generation IX 1.3 Other effects Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Barb Barrage deals damage and has a 30% chance to poison the target. Its power is doubled if the target is affected by a non-volatile status condition . Pokemon Legends: Arceus Category Physical PP 15 Agile Strong Power 60 45 75 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 30% 30% 50% Turns 3 2 4 ? ? May inflict the target with poison Power is doubled if the target has a status condition Generation IX [ edit | edit source ] Barb Barrage's PP was decreased to 10. It has a 50% chance of poisoning the target, and its power is doubled if the target is already poisoned. Other effects [ edit | edit source ] In Pokemon Legends: Arceus , a Hisuian Qwilfish that has used Barb Barrage in the strong style at least 20 times can evolve into Overqwil . In Pokemon Scarlet and Violet , a Hisuian Qwilfish will evolve into Overqwil simply by leveling up while knowing this move. In Pokemon Legends: Z-A , a Hisuan Qwilfish will evolve into Overqwil by having Barb Barrage hit 20 targets.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "60-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "poisoning move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "poisoning move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "poisoning move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Poison physical move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen VIII Poison move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "60-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "poison physical move"
+    ],
+    "connections_descriptors": [
+      "Poisoning moves",
+      "Poison Physical moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257928
+}

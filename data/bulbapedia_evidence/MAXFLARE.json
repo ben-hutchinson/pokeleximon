@@ -1,0 +1,30 @@
+{
+  "answerKey": "MAXFLARE",
+  "answerDisplay": "MAX FLARE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Max Flare (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Flare_(move)",
+  "pageId": 240362,
+  "pageRevisionId": 4484439,
+  "leadText": "Max Flare (Japanese: ダイバーン Dai Burn) is a damage-dealing Fire-type Max Move introduced in Generation VIII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Max Flare inflicts damage and creates harsh sunlight for 5 turns (8 if a Heat Rock is held). Its power and whether it is a special or physical move depends on the move it is based on. Base move Pwr. Cat. Blast Burn 150 Special Blaze Kick 130 Physical Blue Flare 140 Special Burn Up 140 Special Burning Jealousy 120 Special Ember 90 Special Eruption 150 Special Fiery Dance 130 Special Fire Blast 140 Special Fire Fang 120 Physical Fire Lash 130 Physical Fire Pledge 130 Special Fire Punch 130 Physical Fire Spin 90 Special Flame Charge 100 Physical Flame Wheel 110 Physical Flamethrower 130 Special Flare Blitz 140 Physical Fusion Flare 130 Special Heat Crash 130 Physical Heat Wave 130 Special Incinerate 110 Special Inferno 130 Special Lava Plume 130 Special Magma Storm 130 Special Mind Blown 150 Special Mystical Fire 130 Special Overheat 140 Special Pyro Ball 140 Physical Sacred Fire 130 Physical Searing Shot 130 Special Shell Trap 150 Special V-create 150 Physical Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Max Flare cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V This is a Fire-type attack Dynamax Pokémon use. The user intensifies the sun for five turns. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Max-Flare",
+    "Max Flare",
+    "Max-Flare (move)"
+  ],
+  "updatedAt": 1773324813
+}

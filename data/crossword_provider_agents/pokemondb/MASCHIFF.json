@@ -1,0 +1,17 @@
+{
+  "answerKey": "MASCHIFF",
+  "answerDisplay": "MASCHIFF",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Dark type Pokémon introduced in Generation 9.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/maschiff",
+  "extract": "Maschiff is a Dark type Pokémon introduced in Generation 9 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212005
+}

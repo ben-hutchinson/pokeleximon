@@ -1,0 +1,17 @@
+{
+  "answerKey": "GOLISOPOD",
+  "answerDisplay": "GOLISOPOD",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Bug / Water type Pokémon introduced in Generation 7.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/golisopod",
+  "extract": "Golisopod is a Bug / Water type Pokémon introduced in Generation 7 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211451
+}

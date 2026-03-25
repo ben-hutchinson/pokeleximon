@@ -1,0 +1,17 @@
+{
+  "answerKey": "FENNEKIN",
+  "answerDisplay": "FENNEKIN",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Fire type Pokémon introduced in Generation 6.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/fennekin",
+  "extract": "Fennekin is a Fire type Pokémon introduced in Generation 6 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211239
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "STORMTHROW",
+  "answerDisplay": "STORM THROW",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Storm Throw (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Storm_Throw_(move)",
+  "pageId": 117450,
+  "pageRevisionId": 4462658,
+  "leadText": "Storm Throw (Japanese: やまあらし Mountain Storm) is a damage-dealing Fighting-type move introduced in Generation V. It is TM137 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation V 1.2 Generation VI to VIII 1.3 Generation IX 1.3.1 Pokémon Scarlet and Violet 1.3.2 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation V [ edit | edit source ] Storm Throw inflicts damage and will always result in a critical hit unless the target has Battle Armor , Shell Armor , or is under the effects of Lucky Chant . Generation VI to VIII [ edit | edit source ] Storm Throw's power changed from 40 to 60, coinciding with critical hits now dealing 1.5× damage instead of 2× damage. Storm Throw can also be used as part of a Contest Spectacular combination with the user gaining an extra three appeal points if any of the moves Entrainment , Hold Hands , or Play Nice was used in the prior turn. Generation IX [ edit | edit source ] Pokémon Scarlet and Violet [ edit | edit source ] Storm Throw cannot be selected in a battle. Pokémon Legends: Z-A [ edit | edit source ] Storm Throw is usable and functions as it did in previous generations."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user strikes the target with a fierce blow. This attack always results in a critical hit. S V The user attacks by striking the target with a fierce blow. This move always lands a critical hit. ZA The user attacks by striking targets with a powerful blow. This move always lands a critical hit."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI UNUSED S MD MD RT DX It damages an enemy. It always results in a critical hit."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Prior to Generation IX , all Pokémon capable of learning Storm Throw were capable of having the Ability Mold Breaker , which will negate the protection from critical hits normally provided by Battle Armor and Shell Armor . This made Lucky Chant the only guaranteed way to prevent Storm Throw from getting a critical hit."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Storm-Throw",
+    "Storm Throw",
+    "Storm-Throw (move)"
+  ],
+  "updatedAt": 1773327597
+}

@@ -1,0 +1,76 @@
+{
+  "answerKey": "COMATOSE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4512572,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Comatose (Japanese: Sure Sleeper) is an Ability introduced in Generation VII. It is the signature Ability of Komala.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation VII 1.1.2 Generation VIII onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation VII [ edit | edit source ] The Pokemon with this Ability is treated as if it is asleep , without having the status condition . The Pokemon with this Ability can still use moves (including successfully using Sleep Talk and Snore ). It cannot be afflicted with non-volatile status conditions or become drowsy due to Yawn . The Pokemon with this Ability takes double damage from Hex and Wake-Up Slap ; can be affected by Dream Eater , Nightmare , and Bad Dreams ; and cannot successfully use Rest . However, due to not actually having the sleep status condition, the Pokemon with this Ability is not considered to have a status condition for the purposes of effects such as Purify , Chesto and Lum Berries , Beat Up , and the status modifier in the catch rate formula. Comatose is unaffected by effects that prevent sleep (such as Uproar , Electric Terrain , and Sweet Veil ). Comatose is unaffected by Mold Breaker , Turboblaze , and Teravolt . A Pokemon with Poison Touch using Sunsteel Strike cannot poison a target that has Comatose. Gastro Acid , Worry Seed , and Simple Beam fail if the target has the Ability Comatose. Role Play , Skill Swap , Entrainment , and Doodle fail if either Pokemon has Comatose. Comatose cannot be copied by Trace , Power of Alchemy , or Receiver . Comatose cannot be replaced by Mummy or Lingering Aroma , suppressed by Core Enforcer or Neutralizing Gas , or traded by Wandering Spirit . If a Pokemon that has its Ability suppressed passes that effect to a Pokemon with Comatose via Baton Pass , that effect fades. If a Pokemon that already has its Ability suppressed obtains Comatose with Transform , Comatose's effects are suppressed (i.e. the Pokemon will not be protected from status conditions, is not treated as asleep for effects such as Sleep Talk , etc.). If a Pokemon that already has a status condition gains Comatose (i.e. due to Transform or Imposter ), it will not be cured of its status condition. If the Pokemon was asleep, the status condition has its normal effect, unaffected by Comatose. Generation VIII onward [ edit | edit source ] Corresponding to the Dream Ball 's updated catch rate multiplier, a 4 bonus is applied when attempting to catch a wild Pokemon with the Ability Comatose. However, this could not be legitimately observed until Pokemon Scarlet and Violet , as Komala, the only Pokemon that can legitimately have Comatose as an Ability, was absent from games released after the Dream Ball's update until these titles. Outside of battle [ edit | edit source ] Comatose has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Generation VII [ edit | edit source ] The Pokemon with this Ability is treated as if it is asleep , without having the status condition . The Pokemon with this Ability can still use moves (including successfully using Sleep Talk and Snore ). It cannot be afflicted with non-volatile status conditions or become drowsy due to Yawn . The Pokemon with this Ability takes double damage from Hex and Wake-Up Slap ; can be affected by Dream Eater , Nightmare , and Bad Dreams ; and cannot successfully use Rest . However, due to not actually having the sleep status condition, the Pokemon with this Ability is not considered to have a status condition for the purposes of effects such as Purify , Chesto and Lum Berries , Beat Up , and the status modifier in the catch rate formula. Comatose is unaffected by effects that prevent sleep (such as Uproar , Electric Terrain , and Sweet Veil ). Comatose is unaffected by Mold Breaker , Turboblaze , and Teravolt . A Pokemon with Poison Touch using Sunsteel Strike cannot poison a target that has Comatose. Gastro Acid , Worry Seed , and Simple Beam fail if the target has the Ability Comatose. Role Play , Skill Swap , Entrainment , and Doodle fail if either Pokemon has Comatose. Comatose cannot be copied by Trace , Power of Alchemy , or Receiver . Comatose cannot be replaced by Mummy or Lingering Aroma , suppressed by Core Enforcer or Neutralizing Gas , or traded by Wandering Spirit . If a Pokemon that has its Ability suppressed passes that effect to a Pokemon with Comatose via Baton Pass , that effect fades. If a Pokemon that already has its Ability suppressed obtains Comatose with Transform , Comatose's effects are suppressed (i.e. the Pokemon will not be protected from status conditions, is not treated as asleep for effects such as Sleep Talk , etc.). If a Pokemon that already has a status condition gains Comatose (i.e. due to Transform or Imposter ), it will not be cured of its status condition. If the Pokemon was asleep, the status condition has its normal effect, unaffected by Comatose. Generation VIII onward [ edit | edit source ] Corresponding to the Dream Ball 's updated catch rate multiplier, a 4 bonus is applied when attempting to catch a wild Pokemon with the Ability Comatose. However, this could not be legitimately observed until Pokemon Scarlet and Violet , as Komala, the only Pokemon that can legitimately have Comatose as an Ability, was absent from games released after the Dream Ball's update until these titles.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "This Pokemon always acts as though it were Asleep.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.78,
+        "style": "effect"
+      },
+      {
+        "text": "Prevents major status ailments",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "effect"
+      },
+      {
+        "text": "Ailment-proof trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "status immunity"
+    ],
+    "connections_descriptors": [
+      "Status-blocking abilities",
+      "Gen VII abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257936
+}

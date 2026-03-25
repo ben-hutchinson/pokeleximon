@@ -1,0 +1,30 @@
+{
+  "answerKey": "LUMINACRASH",
+  "answerDisplay": "LUMINA CRASH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Lumina Crash (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Lumina_Crash_(move)",
+  "pageId": 277757,
+  "pageRevisionId": 4403636,
+  "leadText": "Lumina Crash (Japanese: ルミナコリジョン Lumina Collision) is a damage-dealing Psychic-type move introduced in Generation IX. It is the signature move of Espathra.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Lumina Crash inflicts damage and lowers the target's Special Defense by two stages."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user attacks by unleashing a peculiar light that even affects the mind. This also harshly lowers the target's Sp. Def stat."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Lumina-Crash",
+    "Lumina Crash",
+    "Lumina-Crash (move)"
+  ],
+  "updatedAt": 1773324536
+}

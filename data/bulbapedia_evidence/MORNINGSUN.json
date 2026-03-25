@@ -1,0 +1,34 @@
+{
+  "answerKey": "MORNINGSUN",
+  "answerDisplay": "MORNING SUN",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Morning Sun (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Morning_Sun_(move)",
+  "pageId": 3845,
+  "pageRevisionId": 4453122,
+  "leadText": "Morning Sun (Japanese: あさのひざし Morning Sunlight) is a non-damaging Normal-type move introduced in Generation II. In Generation II, it was the signature move of Espeon.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III onwards 1.3 Generation IX 1.3.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation II [ edit | edit source ] Morning Sun restores the user's current HP based on the weather and time of day. In day and at night, during no weather it restores ¼ total HP, during harsh sunlight it restores ½ total HP, and during other weather it restores ⅛ total HP, rounded down. Except in link battles, the move restores twice as much HP in the morning. Generation III onwards [ edit | edit source ] Morning Sun restores the user's current HP based on the weather in the battle. During no weather or during strong winds it restores ½ total HP, during harsh sunlight it restores ⅔ total HP, and during other weather it restores ¼ total HP, rounded down. Morning Sun can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Sunny Day was used in the previous turn. It is also part of a Contest Spectacular combination and will give an extra three appeal points if the move Sunny Day was used in the prior turn. If powered up by a Normalium Z into Z-Morning Sun, all of the user's lowered stats are reset. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 15s Move wind-up time 45 frames 15 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 Allows HP to be restored by the morning sunlight. In battle, half the user's max HP is restored. G S C Restores HP (varies by time). R S E Colo XD Restores HP. The amount varies with the weather. FR LG Restores the user's HP. The amount of HP regained varies with the weather. D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user restores its own HP. The amount of HP regained varies with the weather. ZA The user restores some HP by bathing in the pleasant rays of the sun."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Restores the HP of the user and team members on the floor. The amount of HP regained depends on the weather. MD T D S Restores the HP of the user and team members on the floor. The HP amount regained depends on the weather. B S L じぶんと フロアのなかまポケモンの ＨＰが かいふくする てんきによって ＨＰの かいふくりょうが かわる MD GtI It restores half the HP of you and your teammates on the floor. During a Sunny condition, it restores your HP even more. During a Rain, Hail, or Sandstorm condition, the amount regained goes down. S MD It restores the HP of you and your teammates in the same room. If it's sunny or in harsh sunlight, it restores your HP even more. During rain, heavy rain, hail, or a sandstorm, the amount regained goes down."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Morning-Sun",
+    "Morning Sun",
+    "Morning-Sun (move)"
+  ],
+  "updatedAt": 1773325168
+}

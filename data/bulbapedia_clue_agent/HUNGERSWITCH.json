@@ -1,0 +1,57 @@
+{
+  "answerKey": "HUNGERSWITCH",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4483706,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Hunger Switch (Japanese: Hunger Switch) is an Ability introduced in Generation VIII. It is the signature Ability of Morpeko.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Pokemon Legends: Z-A 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Check for other moves/Abilities that can or cannot copy/replace/suppress this Ability. You can discuss this on the talk page. At the end of each turn, Hunger Switch switches a Morpeko with the Ability between its Full Belly Mode and Hangry Mode. In Full Belly Mode, Aura Wheel is an Electric-type move; in Hangry Mode, it is a Dark-type move. Entrainment and Role Play fails if the user has Hunger Switch. Hunger Switch cannot be copied by Trace or traded by Wandering Spirit . Power of Alchemy and Receiver cannot be replaced by Hunger Switch. If Morpeko's Hunger Switch is negated or replaced, it remains in its current form. If a Pokemon other than Morpeko obtains Hunger Switch with Transform or Imposter , the Pokemon will not change forms. Hunger Switch does not activate while Morpeko is Terastallized . While Terastallized, Morpeko does not change forms even when switched out. Pokemon Legends: Z-A [ edit | edit source ] In Pokemon Legends: Z-A , Abilities do not occur in normal gameplay. However, Morpeko will change between Full Belly Mode and Hangry Mode upon using Aura Wheel. Outside of battle [ edit | edit source ] Hunger Switch has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: Check for other moves/Abilities that can or cannot copy/replace/suppress this Ability. You can discuss this on the talk page. At the end of each turn, Hunger Switch switches a Morpeko with the Ability between its Full Belly Mode and Hangry Mode. In Full Belly Mode, Aura Wheel is an Electric-type move; in Hangry Mode, it is a Dark-type move. Entrainment and Role Play fails if the user has Hunger Switch. Hunger Switch cannot be copied by Trace or traded by Wandering Spirit . Power of Alchemy and Receiver cannot be replaced by Hunger Switch. If Morpeko's Hunger Switch is negated or replaced, it remains in its current form. If a Pokemon other than Morpeko obtains Hunger Switch with Transform or Imposter , the Pokemon will not change forms. Hunger Switch does not activate while Morpeko is Terastallized . While Terastallized, Morpeko does not change forms even when switched out. Pokemon Legends: Z-A [ edit | edit source ] In Pokemon Legends: Z-A , Abilities do not occur in normal gameplay. However, Morpeko will change between Full Belly Mode and Hangry Mode upon using Aura Wheel.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Causes Morpeko to change its form each turn, alternating between Full Belly Mode and Hangry Mode",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "switching trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "switching trait"
+    ],
+    "connections_descriptors": [
+      "Switching abilities",
+      "Gen VIII abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257955
+}

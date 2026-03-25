@@ -1,0 +1,34 @@
+{
+  "answerKey": "POISONGAS",
+  "answerDisplay": "POISON GAS",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Poison Gas (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Poison_Gas_(move)",
+  "pageId": 3748,
+  "pageRevisionId": 4500974,
+  "leadText": "どくガス redirects here. For Poisonous Mist, the Skill in Pokémon Shuffle with the same Japanese name, see Skill (Shuffle) → Poisonous Mist. Poison Gas (Japanese: どくガス Poison Gas) is a non-damaging Poison-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generations III to IV 1.4 Generation V 1.5 Generation VI onwards 1.6 Generation VIII 1.6.1 Pokémon Legends: Arceus Effect [ edit | edit source ] Generation I [ edit | edit source ] Poison Gas poisons the target and has an accuracy of 55%. Poison Gas cannot affect Poison-type Pokémon. Generation II [ edit | edit source ] In the Generation II core series games, when an in-game opponent outside of the Battle Tower uses Poison Gas, the move has a 25% chance to fail in addition to its normal chance to miss. Generations III to IV [ edit | edit source ] Poison Gas targets one Pokémon in Double Battles . Generation V [ edit | edit source ] Poison Gas's accuracy is increased to 80% and now targets all adjacent opponents in Double and Triple Battles . Generation VI onwards [ edit | edit source ] Poison Gas's accuracy changed from 80% to 90%. Poison Gas can also be used as part of a Contest Spectacular combination , causing Hex , Venom Drench and Venoshock to give an extra three appeal points if used in the next turn. If powered up by a Poisonium Z into Z-Poison Gas, the user's Defense stat rises by one stage. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Status PP 20 Agile Strong Power — — — Accuracy 90% 90% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Turns 5 3 7 ? ? ? ? Inflicts the target with poison"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A poisonous cloud of gas is forcefully expelled to poison the target. G S C A move that may poison the foe. R S E Envelops the foe in a toxic gas that may poison. FR LG The foe is sprayed with a cloud of toxic gas that may poison the foe. Colo XD Envelops the target in a toxic gas that may poison. D P Pt HG SS PBR A cloud of poison gas is sprayed in the foe's face. It may poison the target. B W B2 W2 A cloud of poison gas is sprayed in the face of opposing Pokémon. It may poison those hit. X Y OR AS A cloud of poison gas is sprayed in the face of opposing Pokémon. This may also poison those hit. S M US UM A cloud of poison gas is sprayed in the face of opposing Pokémon, poisoning those hit. P E Sw Sh BD SP A cloud of poison gas is sprayed in the face of opposing Pokémon, poisoning those it hits. LA The user sprays a cloud of toxic gas that poisons the target. S V A cloud of poison gas is sprayed in the faces of opposing Pokémon, poisoning those it hits."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Poisons the target. If a Pokémon is poisoned, it sustains damage over several turns. MD T D S Afflicts the target with a Poisoned status. A Pokémon with the Poisoned status takes damage periodically. B S L てきポケモンを どくじょうたいにかえる どくじょうたいになると いっていターンごとに ダメージをうける MD GtI It causes the Poisoned status condition to an enemy. With the Poisoned status, the enemy keeps taking damage and can't restore its HP naturally. S MD It makes an enemy poisoned."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Poison-Gas",
+    "Poison Gas",
+    "Poison-Gas (move)"
+  ],
+  "updatedAt": 1773325876
+}

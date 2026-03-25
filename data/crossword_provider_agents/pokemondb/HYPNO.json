@@ -1,0 +1,17 @@
+{
+  "answerKey": "HYPNO",
+  "answerDisplay": "HYPNO",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Psychic type Pokémon introduced in Generation 1.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/hypno",
+  "extract": "Hypno is a Psychic type Pokémon introduced in Generation 1 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211643
+}

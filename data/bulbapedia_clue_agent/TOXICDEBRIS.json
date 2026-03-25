@@ -1,0 +1,64 @@
+{
+  "answerKey": "TOXICDEBRIS",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4492289,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Toxic Debris (Japanese: Scattered Poison) is an Ability introduced in Generation IX. It is the signature Ability of Glimmet and Glimmora.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with this Ability is hit by a physical move , Toxic Spikes are set on the opposing side of the field. If an attack would cause more than two layers of Toxic Spikes to be set or hits the substitute instead, the Ability does not activate. If a Pokemon with this Ability is hit by a physical multistrike move (such as Fury Swipes ), each hit will activate this Ability. Outside of battle [ edit | edit source ] Toxic Debris has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with this Ability is hit by a physical move , Toxic Spikes are set on the opposing side of the field. If an attack would cause more than two layers of Toxic Spikes to be set or hits the substitute instead, the Ability does not activate. If a Pokemon with this Ability is hit by a physical multistrike move (such as Fury Swipes ), each hit will activate this Ability.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Scatters poison spikes at the feet of the opposing team when the Pokemon takes damage from physical moves.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "poisoning trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "poisoning trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "poisoning trait"
+    ],
+    "connections_descriptors": [
+      "Poisoning abilities",
+      "Gen IX abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258026
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "CRUSHCLAW",
+  "answerDisplay": "CRUSH CLAW",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Crush Claw (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Crush_Claw_(move)",
+  "pageId": 3917,
+  "pageRevisionId": 4405079,
+  "leadText": "Crush Claw (Japanese: ブレイククロー Break Claw) is a damage-dealing Normal-type move introduced in Generation III. Prior to Generation IV, it was the signature move of Zangoose, but other Pokémon could still inherit it via breeding.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Crush Claw inflicts damage and has a 50% chance of lowering the target's Defense stat by one stage. Crush Claw can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Swords Dance was used in the previous turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Tears at the foe with sharp claws. May lower Defense . FR LG The foe is attacked with sharp claws. It may also lower the foe's Defense . Colo XD Slices target with sharp claws. May lower Defense . D P Pt HG SS PBR The user slashes the foe with hard and sharp claws. It may also lower the target's Defense. B W B2 W2 The user slashes the target with hard and sharp claws. It may also lower the target's Defense. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user slashes the target with hard and sharp claws. This may also lower the target's Defense stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also lower the target's Defense by one level. MD T D S Inflicts damage on the target. It may also reduce the target's Defense by 1 level. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで ぼうぎょを １だんかいさげる MD GtI It damages an enemy. It could also lower its Defense. S MD MD RT DX It damages an enemy. It could also lower the enemy's Defense."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Crush-Claw",
+    "Crush Claw",
+    "Crush-Claw (move)"
+  ],
+  "updatedAt": 1773321951
+}

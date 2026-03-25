@@ -1,0 +1,34 @@
+{
+  "answerKey": "WRINGOUT",
+  "answerDisplay": "WRING OUT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Wring Out (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Wring_Out_(move)",
+  "pageId": 17428,
+  "pageRevisionId": 4500911,
+  "leadText": "Wring Out (Japanese: しぼりとる Wring Out) is a damage-dealing Normal-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation V to VII 1.3 Generation VIII onwards Effect [ edit | edit source ] Wring Out deals damage. Its power is greater the more HP the target has. Generation IV [ edit | edit source ] Its power varies between 1 and 121. It is calculated as: P o w e r = 1 + 1 2 0 × C u r r e n t H P t a r g e t M a x H P t a r g e t Generation V to VII [ edit | edit source ] Its power now varies between 1 and 120. It is calculated as: P o w e r = 1 2 0 × C u r r e n t H P t a r g e t M a x H P t a r g e t However, its power cannot be less than 1. Generation VIII onwards [ edit | edit source ] Wring Out cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user powerfully wrings the foe. The more HP the foe has, the greater this attack's power. B W B2 W2 The user powerfully wrings the target. The more HP the target has, the greater this attack's power. X Y OR AS S M US UM P E The user powerfully wrings the target. The more HP the target has, the greater the move's power. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. The higher the target's HP, the greater the damage it inflicts. B S L てきポケモンに ダメージをあたえる あいての ＨＰが のこりすくないほど あたえるダメージが ちいさい MD GtI It damages an enemy. The more HP the enemy has, the greater the damage the move causes. S MD MD RT DX It damages an enemy. The more HP the enemy has, the greater the damage caused by the move."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Wring-Out",
+    "Wring Out",
+    "Wring-Out (move)"
+  ],
+  "updatedAt": 1773328588
+}

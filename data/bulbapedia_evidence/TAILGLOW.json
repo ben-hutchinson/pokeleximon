@@ -1,0 +1,38 @@
+{
+  "answerKey": "TAILGLOW",
+  "answerDisplay": "TAIL GLOW",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Tail Glow (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tail_Glow_(move)",
+  "pageId": 3905,
+  "pageRevisionId": 4406898,
+  "leadText": "Tail Glow (Japanese: ほたるび Firefly Glow) is a non-damaging Bug-type move introduced in Generation III. Prior to Generation IV, it was the signature move of Volbeat.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations III and IV 1.2 Generations V onwards 1.3 Generation VIII 1.3.1 Pokémon Sword and Shield Effect [ edit | edit source ] Generations III and IV [ edit | edit source ] Tail Glow increases the user's Special Attack by two stages. Generations V onwards [ edit | edit source ] Tail Glow now increases the user's Special Attack by three stages. If powered up by a Buginium Z into Z-Tail Glow, all of the user's lowered stats are reset. Generation VIII [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] Tail Glow cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Flashes a light that sharply raises Sp. Atk . FR LG The user flashes a light that sharply raises its Sp. Atk stat. D P Pt HG SS PBR The user stares at flashing lights to focus its mind, sharply raising its Sp. Atk stat. B W B2 W2 X Y OR AS S M US UM P E Sw Sh * BD SP LA The user stares at flashing lights to focus its mind, drastically raising its Sp. Atk stat. Sw Sh * S V * This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V * The user stares at flashing lights to focus its mind, drastically boosting its Sp. Atk stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts the user's Special Attack by two levels. MD T D S Boosts the user's Special Attack by 2 levels. B S L じぶんの とくこうを ２だんかいあげる MD GtI UNUSED S MD It sharply boosts your Sp. Atk. * It sharply boosts your Sp. Atk. The stat returns to normal when you go to the next floor or step on a Wonder Tile. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation III , the status screen erroneously states that the move has 100% accuracy, even though it targets the user (thus it ignores accuracy and evasion checks). Manaphy is able to learn Tail Glow, which contradicts both the Japanese and English names for the move (Manaphy is not a firefly, nor does it have a tail). This may be due to the antennae on its head and a reference to the bioluminescence of many deep sea fish. Xurkitree is also not a firefly, and although it has a \"tail\", it does not light up."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Tail-Glow",
+    "Tail Glow",
+    "Tail-Glow (move)"
+  ],
+  "updatedAt": 1773327776
+}

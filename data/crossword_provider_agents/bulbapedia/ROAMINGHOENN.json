@@ -1,0 +1,16 @@
+{
+  "answerKey": "ROAMINGHOENN",
+  "answerDisplay": "ROAMING HOENN",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Wandering regional location",
+  "score": 108.44,
+  "approved": true,
+  "qualityFlags": [
+    "unknown_evidence_ref"
+  ],
+  "evidenceRef": "title",
+  "sourceUrl": "",
+  "extract": "",
+  "updatedAt": 1774258445
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "STICKYWEB",
+  "answerDisplay": "STICKY WEB",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sticky Web (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sticky_Web_(move)",
+  "pageId": 185083,
+  "pageRevisionId": 4462954,
+  "leadText": "Sticky Web (Japanese: ねばねばネット Sticky Net) is a non-damaging Bug-type move introduced in Generation VI.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Sticky Web sets an entry hazard around the opposing Pokémon, which lowers their Speed stat by one stage upon switching in. It doesn't affect Flying-type Pokémon, Pokémon with the Levitate Ability, or Pokémon holding an Air Balloon . The moves Rapid Spin and Defog remove the effect of Sticky Web; Rapid Spin removes Sticky Web set around the user, while Defog removes Sticky Web set on both sides. Sticky Web can also be used as part of a Contest Spectacular combination , giving the user an extra three appeal points if String Shot was used in the prior turn. If powered up by a Buginium Z into Z-Sticky Web, the user's Speed stat rises one stage. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 7s Move wind-up time 1 frame Effect duration 5.1s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E The user weaves a sticky net around the opposing team, which lowers their Speed stat upon switching into battle. Sw Sh BD SP LA S V The user weaves a sticky net around the opposing team, which lowers their Speed stats upon switching into battle. ZA The user lays sticky webbing at targets' feet. The webbing slows the movements of susceptible opposing Pokémon that make contact with it."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It lowers an enemy's Travel Speed for a while and makes its item sticky. * It reduces the enemy's Travel Speed. If the enemy is holding an item, it also makes the enemy's item sticky. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sticky-Web",
+    "Sticky Web",
+    "Sticky-Web (move)"
+  ],
+  "updatedAt": 1773327582
+}

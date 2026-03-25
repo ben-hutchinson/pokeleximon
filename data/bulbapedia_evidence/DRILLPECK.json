@@ -1,0 +1,34 @@
+{
+  "answerKey": "DRILLPECK",
+  "answerDisplay": "DRILL PECK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Drill Peck (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Drill_Peck_(move)",
+  "pageId": 3674,
+  "pageRevisionId": 4503693,
+  "leadText": "Drill Peck (Japanese: ドリルくちばし Drill Beak) is a damage-dealing Flying-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Drill Peck inflicts damage and has no secondary effect. It can hit non-adjacent opponents in Triple Battles . Drill Peck can be used as the second move of a Pokémon Contest combination , with the user gaining 4 bonus appeal points if Peck was used in the previous turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A standard Flying -type attack. It is strong and highly likely to hit the target. G S C A strong, spinning-peck attack. R S E Colo A corkscrewing attack with the beak acting as a drill. XD A corkscrewing attack, with the beak acting as a drill. FR LG D P Pt HG SS PBR B W B2 W2 A corkscrewing attack with the sharp beak acting as a drill. X Y OR AS S M US UM P E A corkscrewing attack with a sharp beak acting as a drill. Sw Sh BD SP LA S V A corkscrewing attack that strikes the target with a sharp beak acting as a drill."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. B S L てきポケモンに ダメージをあたえる MD GtI UNUSED S MD MD RT DX It damages an enemy."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Drill-Peck",
+    "Drill Peck",
+    "Drill-Peck (move)"
+  ],
+  "updatedAt": 1773322350
+}

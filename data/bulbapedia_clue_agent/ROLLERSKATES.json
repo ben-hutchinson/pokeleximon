@@ -1,0 +1,85 @@
+{
+  "answerKey": "ROLLERSKATES",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4428973,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "gameplay",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Allows the player to move quickly and off the grid.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Adventure utility item",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      },
+      {
+        "text": "Two-wheeled travel item",
+        "evidence_ref": "lead",
+        "specificity": 0.72
+      },
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "specificity": 0.8
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Unlocks progression content",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Progress-gating key item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Two-wheeled travel item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "utility"
+      },
+      {
+        "text": "Ride for quick travel",
+        "evidence_ref": "lead",
+        "mystery_score": 0.6,
+        "specificity_score": 0.74,
+        "style": "utility"
+      },
+      {
+        "text": "Adventure utility item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.4,
+        "specificity_score": 0.58,
+        "style": "utility"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "unlocking item",
+      "travel gear"
+    ],
+    "connections_descriptors": [
+      "Battle items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774258003
+}

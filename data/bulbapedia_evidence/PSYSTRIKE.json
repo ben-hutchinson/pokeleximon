@@ -1,0 +1,37 @@
+{
+  "answerKey": "PSYSTRIKE",
+  "answerDisplay": "PSYSTRIKE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Psystrike (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Psystrike_(move)",
+  "pageId": 117487,
+  "pageRevisionId": 4462290,
+  "leadText": "Psystrike (Japanese: サイコブレイク Psycho Break) is a damage-dealing Psychic-type move introduced in Generation V. It is the signature move of Mewtwo.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] This move effect may be in need of research. Reason: Check whether this move takes into account stat modifiers inconsistently, as with Foul Play and Body Press : stat stage modifiers of the target's Defense and non-stage stat modifiers of its Special Defense. You can discuss this on the talk page. Psystrike inflicts damage. Psystrike uses the target's Defense instead of its Special Defense to calculate damage. Otherwise, it is considered a special move: it uses the user's Special Attack , activates Mirror Coat and Maranga Berry (not Counter or Kee Berry ), has its damage reduced by Light Screen (not Reflect ), etc. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 100 120 Cooldown 9s Move wind-up time 20 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user materializes an odd psychic wave to attack the target. This attack does physical damage. S V The user materializes an odd psychic wave to attack the target. This move deals physical damage. ZA The user attacks by materializing a mysterious psychic wave. This move deals physical damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Conq. The user materializes an odd psychic wave to attack the target. This attack does physical damage. MD GtI UNUSED S MD MD RT DX It damages an enemy. This move is a special attack, but the enemy's Defense stat determines damage instead of its Sp. Def stat."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Despite being Mewtwo 's signature move , it was introduced in Generation V , in which Mewtwo could not be obtained except by Poké Transfer or Nintendo events. Psystrike has the same description text as Psyshock . In Conquest , this move has the same description as in Generation V of the core series, including the mention of it dealing physical damage. However, the split of physical and special damage does not exist in Conquest - there is only one attack stat and one defense stat, so all damage is in the same, single category."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Psystrike",
+    "Psystrike (move)"
+  ],
+  "updatedAt": 1773326105
+}

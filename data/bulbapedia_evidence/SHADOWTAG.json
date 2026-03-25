@@ -1,0 +1,34 @@
+{
+  "answerKey": "SHADOWTAG",
+  "answerDisplay": "SHADOW TAG",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Tag (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Tag_(Ability)",
+  "pageId": 4100,
+  "pageRevisionId": 4407389,
+  "leadText": "Shadow Tag (Japanese: かげふみ Stepping on Shadows) is an Ability introduced in Generation III. Prior to Generation V, it was the signature Ability of Wynaut and Wobbuffet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV onward 1.1.2 Generation VI onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Shadow Tag prevents all adjacent opponents from fleeing (including Teleport ) or switching out while the Pokémon with this Ability is on the field. However, if a Pokémon with Shadow Tag switches in, opponents are not prevented from switching out for that turn. Using Baton Pass , U-turn , Volt Switch , Flip Turn , or Parting Shot will still cause the Pokémon to switch out. Having the Ability Run Away or holding a Smoke Ball allows the Pokémon to flee or Teleport, but not switch. If the player does not switch out a fainted Pokémon and instead attempts to flee, they will not be affected by a wild Pokémon with Shadow Tag. Shadow Tag does not affect allies. Generation IV onward [ edit | edit source ] Shadow Tag now makes the Pokémon immune to the effects of other Pokémon's Shadow Tag. Holding a Shed Shell allows the Pokémon to switch out, but not flee or Teleport. Generation VI onward [ edit | edit source ] Ghost-type Pokémon are now immune to Shadow Tag. In Pokémon X and Y , Shadow Tag will not prevent roaming Pokémon from fleeing because they will flee before the battle even starts. Outside of battle [ edit | edit source ] Shadow Tag has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Shadow Tag prevents all adjacent opponents from fleeing (including Teleport ) or switching out while the Pokémon with this Ability is on the field. However, if a Pokémon with Shadow Tag switches in, opponents are not prevented from switching out for that turn. Using Baton Pass , U-turn , Volt Switch , Flip Turn , or Parting Shot will still cause the Pokémon to switch out. Having the Ability Run Away or holding a Smoke Ball allows the Pokémon to flee or Teleport, but not switch. If the player does not switch out a fainted Pokémon and instead attempts to flee, they will not be affected by a wild Pokémon with Shadow Tag. Shadow Tag does not affect allies. Generation IV onward [ edit | edit source ] Shadow Tag now makes the Pokémon immune to the effects of other Pokémon's Shadow Tag. Holding a Shed Shell allows the Pokémon to switch out, but not flee or Teleport. Generation VI onward [ edit | edit source ] Ghost-type Pokémon are now immune to Shadow Tag. In Pokémon X and Y , Shadow Tag will not prevent roaming Pokémon from fleeing because they will flee before the battle even starts."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Immobilizes attackers. B S L こうげきしてきた ポケモンを いどうできなく してしまう MD GtI Unavailable S MD Enemy Pokémon next to the Pokémon can't move! It has no effect on Ghost-type Pokémon and Pokémon with the Run Away or Shadow Tag Ability. MD RT DX Enemies next to the Pokémon can't walk. This Ability has no effect on Ghost-type Pokémon and Pokémon with the Run Away or Shadow Tag Ability."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Tag",
+    "Shadow Tag",
+    "Shadow-Tag (Ability)"
+  ],
+  "updatedAt": 1773326858
+}

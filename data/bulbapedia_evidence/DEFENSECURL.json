@@ -1,0 +1,34 @@
+{
+  "answerKey": "DEFENSECURL",
+  "answerDisplay": "DEFENSE CURL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Defense Curl (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Defense_Curl_(move)",
+  "pageId": 3445,
+  "pageRevisionId": 4503849,
+  "leadText": "Defense Curl (Japanese: まるくなる Curl Up) is a non-damaging Normal-type move introduced in Generation I. It was TM40 in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Defense Curl increases the user's Defense by 1 stage. Defense Curl also doubles the power of the user's Rollout and Ice Ball as long as the user remains in battle. This effect does not stack with itself and cannot be Baton Passed . Defense Curl can be used as the first move of a Pokémon Contest combination , causing Rollout and Tackle to score double the normal appeal if used in the next turn. It can also be used as part of a Contest Spectacular combination, causing Ice Ball and Rollout to give the user an extra three appeal points if they are used in the next turn. If powered up by a Normalium Z into Z-Defense Curl, the user's accuracy is raised by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 Raises the user's Defense . Can normally be used up to six times in a row. G S C Heightens the user's Defense . R S E Colo XD Curls up to conceal weak spots and raise Defense . FR LG The user curls up to conceal weak spots and raise its Defense stat. D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user curls up to conceal weak spots and raise its Defense stat. S V The user curls up and boosts its Defense stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts the user's Defense by one level. MD T D S Boosts the user's Defense by 1 level. B S L じぶんの ぼうぎょを １だんかいあげる MD GtI It boosts your Defense. (The stat change returns to normal when you go to the next floor or step on a Wonder Tile.) S MD It boosts your Defense. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Defense-Curl",
+    "Defense Curl",
+    "Defense-Curl (move)"
+  ],
+  "updatedAt": 1773322078
+}

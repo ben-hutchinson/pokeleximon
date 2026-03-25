@@ -1,0 +1,63 @@
+{
+  "answerKey": "SACREDASH",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4501039,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen II item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "revival",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen II revival",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Revives all fainted Pokemon with full HP.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Restores HP in a pinch",
+        "evidence_ref": "Description",
+        "specificity": 0.84
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Pinch-healing berry",
+        "evidence_ref": "Description",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Half-HP recovery berry",
+        "evidence_ref": "Description",
+        "mystery_score": 0.7,
+        "specificity_score": 0.84,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "healing berry"
+    ],
+    "connections_descriptors": [
+      "Gen II items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774258005
+}

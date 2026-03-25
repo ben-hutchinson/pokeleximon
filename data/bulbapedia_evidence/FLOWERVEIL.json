@@ -1,0 +1,34 @@
+{
+  "answerKey": "FLOWERVEIL",
+  "answerDisplay": "FLOWER VEIL",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Flower Veil (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Flower_Veil_(Ability)",
+  "pageId": 184522,
+  "pageRevisionId": 4432776,
+  "leadText": "Flower Veil (Japanese: フラワーベール Flower Veil) is an Ability introduced in Generation VI. Prior to Generation VII, it was one of the signature Abilities of Flabébé's evolutionary line. In Generation VIII, it was one of the signature Abilities of Comfey.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Flower Veil prevents the Pokémon with this Ability (if it is Grass-type ) and its Grass-type allies (including non-adjacent allies) from having their stats lowered by other Pokémon. Self-inflicted stat reductions, such as from Leaf Storm or Weak Armor , are not prevented. If a Grass-type Pokémon has Contrary , Flower Veil prevents the Pokémon's stats from being lowered after accounting for Contrary. It does not prevent Spectral Thief from stealing (i.e., resetting) positive stat changes. Flower Veil also prevents the Pokémon with this Ability (if it is Grass-type) and its Grass-type allies (including non-adjacent allies) from being afflicted by non-volatile status conditions or Yawn . However, it will not prevent a Pokémon from falling asleep if it is already drowsy from Yawn. This Ability has no effect on Rest , the Flame Orb , or the Toxic Orb . Outside of battle [ edit | edit source ] Flower Veil has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Flower Veil prevents the Pokémon with this Ability (if it is Grass-type ) and its Grass-type allies (including non-adjacent allies) from having their stats lowered by other Pokémon. Self-inflicted stat reductions, such as from Leaf Storm or Weak Armor , are not prevented. If a Grass-type Pokémon has Contrary , Flower Veil prevents the Pokémon's stats from being lowered after accounting for Contrary. It does not prevent Spectral Thief from stealing (i.e., resetting) positive stat changes. Flower Veil also prevents the Pokémon with this Ability (if it is Grass-type) and its Grass-type allies (including non-adjacent allies) from being afflicted by non-volatile status conditions or Yawn . However, it will not prevent a Pokémon from falling asleep if it is already drowsy from Yawn. This Ability has no effect on Rest , the Flame Orb , or the Toxic Orb ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD The Pokémon and its Grass-type teammates near it won't get bad status conditions nor will their stats be lowered!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Flower-Veil",
+    "Flower Veil",
+    "Flower-Veil (Ability)"
+  ],
+  "updatedAt": 1773328879
+}

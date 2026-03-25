@@ -1,0 +1,37 @@
+{
+  "answerKey": "ACID",
+  "answerDisplay": "ACID",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Acid (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Acid_(move)",
+  "pageId": 3660,
+  "pageRevisionId": 4500975,
+  "leadText": "Acid (Japanese: ようかいえき Corrosive Liquid) is a damage-dealing Poison-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generation III 1.4 Generation IV onwards Effect [ edit | edit source ] Generation I [ edit | edit source ] Acid inflicts damage and has a 33.2% chance of lowering the target's Defense stat by one stage. When used by an in-game opponent, there is an additional chance of 25% for the effect to fail (resulting in an effective chance of 24.9%). Generation II [ edit | edit source ] Acid now has a 10% chance of lowering the target's Defense stat by one stage. When used by an in-game opponent, there is still an additional chance of 25% for the effect to fail (resulting in an effective chance of 7.5%). This does not apply when Lock-On or Mind Reader are in effect, nor in the Battle Tower . Generation III [ edit | edit source ] Acid inflicts damage to all adjacent opponents. Acid's effect no longer has an additional chance to fail when used by an in-game opponent. Generation IV onwards [ edit | edit source ] Acid now has a 10% chance of lowering the target's Special Defense by one stage instead. In Triple Battles , Acid only targets adjacent opponents."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A Poison -type attack. Has a one-in-three chance of lowering the target's Defense . Stad2 A Poison -type attack. Has a one-in-ten chance of lowering the target's Defense . G S C An attack that may lower Defense . R S E Colo XD Sprays a hide-melting acid. May lower Defense . FR LG The foe is sprayed with a harsh, hide-melting acid that may lower Defense . D P Pt HG SS PBR The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat. B W B2 W2 The opposing team is attacked with a spray of harsh acid. The acid may also lower the targets' Sp. Def stats. X Y OR AS The opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stats. S M US UM P E The opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stat. Sw Sh BD SP LA S V Opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also lower the user's Defense by one level. MD T D * Inflicts damage on the target. But it may also reduce the target's Special Defense by 1 level. MD T D * MD S Inflicts damage on the target. It may also reduce the target's Special Defense by 1 level. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで とくぼうを １だんかいさげる MD GtI It damages an enemy. It could also lower its Special Defense. S MD MD RT DX It damages an enemy. It could also lower the enemy's Sp. Def."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Acid, as a Poison-type move, normally has no effect on Steel-type Pokémon, despite the fact that real-life acids react very strongly with most metals."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Acid",
+    "Acid (move)"
+  ],
+  "updatedAt": 1773320665
+}

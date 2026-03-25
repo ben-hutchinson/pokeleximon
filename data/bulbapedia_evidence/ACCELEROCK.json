@@ -1,0 +1,29 @@
+{
+  "answerKey": "ACCELEROCK",
+  "answerDisplay": "ACCELEROCK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Accelerock (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Accelerock_(move)",
+  "pageId": 216051,
+  "pageRevisionId": 4412789,
+  "leadText": "Accelerock (Japanese: アクセルロック Accelerock) is a damage-dealing Rock-type move introduced in Generation VII. It is the signature move of Midday Form and Dusk Form Lycanroc.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Accelerock inflicts damage. It has a priority of +1, so it is used before all moves that do not have increased priority. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Accelerock cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA S V The user smashes into the target at high speed. This move always goes first. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Accelerock",
+    "Accelerock (move)"
+  ],
+  "updatedAt": 1773320658
+}

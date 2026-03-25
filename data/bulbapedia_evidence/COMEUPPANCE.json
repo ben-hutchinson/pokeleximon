@@ -1,0 +1,33 @@
+{
+  "answerKey": "COMEUPPANCE",
+  "answerDisplay": "COMEUPPANCE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Comeuppance (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Comeuppance_(move)",
+  "pageId": 277800,
+  "pageRevisionId": 4403686,
+  "leadText": "Comeuppance (Japanese: ほうふく Retaliation) is a damage-dealing Dark-type move introduced in Generation IX.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Comeuppance returns 1.5 times the damage dealt by the foe's last attack. Unlike Counter or Mirror Coat , Comeuppance does not require specifically physical or special damage sources and Comeuppance does not have decreased priority ; if the user acts before it is hit by an opponent's damaging move, Comeuppance will fail. The move also fails if the user's substitute is hit instead. In battles involving multiple Pokémon, Comeuppance will hit the last opponent that dealt damage to the user. Comeuppance cannot affect ally Pokémon. However, if the last Pokémon to hit the user faints before the user moves, the remaining enemy Pokémon will be hit instead, like with a regular single-target damaging move (using the damage taken from the move of the now-fainted Pokémon that had hit the user)."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user retaliates with much greater force against the opponent that last inflicted damage on it."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Comeuppance is the least learned countering move. Comeuppance has the same description text as Metal Burst ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Comeuppance",
+    "Comeuppance (move)"
+  ],
+  "updatedAt": 1773321810
+}

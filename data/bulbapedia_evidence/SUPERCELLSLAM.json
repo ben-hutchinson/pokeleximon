@@ -1,0 +1,34 @@
+{
+  "answerKey": "SUPERCELLSLAM",
+  "answerDisplay": "SUPERCELL SLAM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Supercell Slam (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Supercell_Slam_(move)",
+  "pageId": 299912,
+  "pageRevisionId": 4495494,
+  "leadText": "Supercell Slam (Japanese: サンダーダイブ Thunder Dive) is a damage-dealing move introduced during Generation IX, in The Indigo Disk. It is TM210 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Supercell Slam deals damage. If the user misses, the user will take crash damage equal to half of the user's max HP, rounded down. If the target is immune to Supercell Slam by type or Ability (such as Volt Absorb ) or is protected , the move counts as a miss. If the target has used Minimize , Supercell Slam deals double its regular damage and bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user electrifies its body and drops onto the target to inflict damage. If this move misses, the user takes damage instead."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move was first revealed on November 21, 2023 alongside Hard Press prior to the release of The Indigo Disk during Serebii 's writeup of their hands-on preview of the DLC, though the move is referred to as Supercharged Cell , possibly erroneously. [ 1 ] Supercell Slam is the only move capable of dealing crash damage that is not Fighting-type and the only one that does not have \"kick\" in its name. ↑ Pokémon Scarlet & Violet - The Indigo Disk - Into The Terarium - Serebii.net"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Supercell-Slam",
+    "Supercell Slam",
+    "Supercell-Slam (move)"
+  ],
+  "updatedAt": 1773327670
+}

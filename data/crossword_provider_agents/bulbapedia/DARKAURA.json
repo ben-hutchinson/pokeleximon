@@ -1,0 +1,16 @@
+{
+  "answerKey": "DARKAURA",
+  "answerDisplay": "DARK AURA",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen VI ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Dark_Aura_(Ability)",
+  "extract": "Dark Aura (Japanese: ダークオーラ Dark Aura) is an Ability introduced in Generation VI. It is the signature Ability of Yveltal.",
+  "updatedAt": 1774258442
+}

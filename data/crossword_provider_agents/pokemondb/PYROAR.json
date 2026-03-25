@@ -1,0 +1,17 @@
+{
+  "answerKey": "PYROAR",
+  "answerDisplay": "PYROAR",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Fire / Normal type Pokémon introduced in Generation 6.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/pyroar",
+  "extract": "Pyroar is a Fire / Normal type Pokémon introduced in Generation 6 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212515
+}

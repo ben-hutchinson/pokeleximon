@@ -1,0 +1,34 @@
+{
+  "answerKey": "STEELROLLER",
+  "answerDisplay": "STEEL ROLLER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Steel Roller (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Steel_Roller_(move)",
+  "pageId": 252904,
+  "pageRevisionId": 4407228,
+  "leadText": "Steel Roller (Japanese: アイアンローラー Iron Roller) is a damage-dealing Steel-type move introduced during Generation VIII, in The Isle of Armor. In Generation IX, it is the signature move of Iron Treads.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Steel Roller deals damage and removes any active terrain . If no terrain is active upon the move's execution, it will fail. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Steel Roller cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA The user attacks while destroying the terrain. This move fails when the ground hasn't turned into a terrain. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user attacks while destroying the terrain. This move fails if the ground hasn't turned into a terrain."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Steel Roller has a unique animation if it is used by a Starmobile . It shares this trait with Spin Out ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Steel-Roller",
+    "Steel Roller",
+    "Steel-Roller (move)"
+  ],
+  "updatedAt": 1773327567
+}

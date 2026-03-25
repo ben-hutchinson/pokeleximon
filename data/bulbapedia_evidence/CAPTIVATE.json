@@ -1,0 +1,37 @@
+{
+  "answerKey": "CAPTIVATE",
+  "answerDisplay": "CAPTIVATE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Captivate (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Captivate_(move)",
+  "pageId": 15297,
+  "pageRevisionId": 4483747,
+  "leadText": "Captivate (Japanese: ゆうわく Allure) is a non-damaging Normal-type move introduced in Generation IV. It was TM78 in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generations IV to VII [ edit | edit source ] Captivate lowers the Special Attack stat of the target by two stages, if it is the opposite gender of the user. It targets all adjacent opponents. Gender-unknown Pokémon (such as Magnemite ) and Pokémon with the Ability Oblivious are unaffected by this move. It always fails if the user is a gender-unknown Pokémon. If powered up by a Normalium Z into Z-Captivate, the user's Special Defense stat is raised by two stages. Generation VIII onwards [ edit | edit source ] Captivate cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat. B W B2 W2 If it is the opposite gender of the user, the target is charmed into harshly lowering its Sp. Atk stat. X Y OR AS S M US UM P E If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Reduces the target's Special Attack by 2 levels. Caution: this move affects only enemies that are the opposite gender of the user. B S L てきポケモンの とくこうを ２だんかいさげる あいてが いせいのばあいにしか こうかがない MD GtI It sharply lowers the enemy's Special Attack. S MD MD RT DX It sharply lowers the enemy's Sp. Atk."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Mew is the only Pokémon of unknown gender that can learn this move: Mew is able to learn any TM , and can learn it by TM78 in Generation IV. It is likely that Nincada cannot learn Captivate because all moves a Nincada has are transferred to a shed-off Shedinja when it evolves into Ninjask , thus giving the gender-unknown Shedinja a useless move. The same is the case with Attract ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Captivate",
+    "Captivate (move)"
+  ],
+  "updatedAt": 1773321479
+}

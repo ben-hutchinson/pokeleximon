@@ -1,0 +1,37 @@
+{
+  "answerKey": "SPOTLIGHT",
+  "answerDisplay": "SPOTLIGHT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Spotlight (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Spotlight_(move)",
+  "pageId": 218341,
+  "pageRevisionId": 4269635,
+  "leadText": "Spotlight redirects here. For the Accessory in the Generation IV games, see Accessory → Misc. Spotlight (Japanese: スポットライト Spotlight) is a non-damaging Normal-type move introduced in Generation VII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Spotlight causes the move's target to become the center of attention , forcing all attacks from the target's foes to target it instead of their intended target. This effect overrides any other forms of redirection, either through moves like Follow Me and Rage Powder , Abilities like Storm Drain and Lightning Rod , or Ally Switch . The effects of Spotlight cannot be passed with Baton Pass . If powered up by a Normalium Z into Z-Spotlight, the user's Special Defense stat rises by 1 stage. Generation VIII onwards [ edit | edit source ] Spotlight cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E The user shines a spotlight on the target so that only the target will be attacked during the turn. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD RT DX It makes the target into a Decoy, which will then become the enemies' primary target."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The German name of the move Follow Me is Spotlight , which exists as a loanword from English. This move is named Rampenlicht instead, which is a translation of the same term. Excluding signature moves and Z-Moves , Spotlight is the only move introduced in Generation VII to not be usable in Pokémon Sword and Shield ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Spotlight",
+    "Spotlight (move)"
+  ],
+  "updatedAt": 1773327476
+}

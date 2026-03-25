@@ -1,0 +1,30 @@
+{
+  "answerKey": "POKEMONRANGER",
+  "answerDisplay": "POKEMON RANGER",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Pokémon Ranger",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Ranger",
+  "pageId": 9259,
+  "pageRevisionId": 4300799,
+  "leadText": "Pokémon Ranger (ポケモンレンジャー) has several referrals:",
+  "sections": [
+    {
+      "title": "Spin-off series games",
+      "text": "Spin-off series games [ edit | edit source ] The Pokémon Ranger series . Pokémon Ranger (video game) , the first game in that series for the Nintendo DS . Pokémon Ranger (Ranger series) , an occupation in that series."
+    },
+    {
+      "title": "Core series games",
+      "text": "Core series games [ edit | edit source ] Pokémon Ranger (Trainer class) , a Trainer class first seen in Generation III . Rangers (Trainer class) , a Double Battle Trainer class consisting of two Pokémon Rangers, first seen in Generation VI ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Pokemon-Ranger",
+    "Pokemon Ranger",
+    "Pokemon-Ranger (location)"
+  ],
+  "updatedAt": 1773329097
+}

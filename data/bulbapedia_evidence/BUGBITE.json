@@ -1,0 +1,38 @@
+{
+  "answerKey": "BUGBITE",
+  "answerDisplay": "BUG BITE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Bug Bite (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bug_Bite_(move)",
+  "pageId": 18895,
+  "pageRevisionId": 4499758,
+  "leadText": "Bug Bite (Japanese: むしくい Bug Bite) is a damage-dealing Bug-type move introduced in Generation IV. It is TM182 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Bug Bite inflicts damage. If the target is holding a Berry , the user will eat the Berry and gain its effect. Bug Bite will not eat the target's Berry if it hits its substitute . Bug Bite will not consume the Berry of a target that has the Ability Sticky Hold . Berries like Liechi or Sitrus Berries will be eaten by the attacker, regardless of them meeting their consumption requirement upon taking damage from Bug Bite. Generation IV [ edit | edit source ] If the user has the Ability Klutz or is affected by Embargo , it will consume the target's held Berry without gaining its effect. Bug Bite will eat the target's Jaboca and Tanga Berries before the Berry can activate. Generation V onwards [ edit | edit source ] The user will now receive the effects of the target's held Berry even if it has the Ability Klutz or is affected by Embargo . The effect of a Jaboca or Tanga Berry will now activate before the Berry can be eaten. Bug Bite will fail when used in a Max Raid Battle ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user bites the target. If the target is holding a Berry, the user eats it and gains its effect. S V The user attacks by biting the target. If the target is holding a Berry, the user eats it and gains its effect."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. If the enemy has a beneficial food item, such as a Berry, the user steals and eats it, gaining its effect. B S L てきポケモンに ダメージをあたえる あいてが きのみなどを もっていれば それを じぶんに つかう Conq. The user bites the target. If the target is holding an item, the user eats it and gains its effect. MD GtI It damages an enemy. If the enemy has food, you eat it. S MD MD RT DX It damages an enemy. If the enemy is carrying any food, you'll eat it."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Bug Bite is the only Bug-type Tough move. Despite its name, Bug Bite is not a biting move and does not receive a power boost when used by a Pokémon with Strong Jaw ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Bug-Bite",
+    "Bug Bite",
+    "Bug-Bite (move)"
+  ],
+  "updatedAt": 1773321386
+}

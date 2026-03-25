@@ -1,0 +1,30 @@
+{
+  "answerKey": "FLOODCHAMBER",
+  "answerDisplay": "FLOOD CHAMBER",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Pokémon League (Kalos)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_League_(Kalos)",
+  "pageId": 185343,
+  "pageRevisionId": 4492772,
+  "leadText": "The Kalos Pokémon League (Japanese: カロスポケモンリーグ Kalos Pokémon League) is the location of the Kalos's Elite Four and Champion, whom may only be challenged after defeating all eight Kalos Gym Leaders. It is located on a large hill north of Victory Road. Getting to the Pokémon League requires obtaining all eight Gym Badges, showing them to the guard at the entrance of the Victory Road, defeating him in a battle, and then passing through a large mountain/highland area. Once through, the player will be able to enter the League, consisting of the League's Pokémon Center and the castle where the Elite Four and the Champion reside. After making it through the entrance hall, the player is greeted by Malva, who congratulates them for defeating Team Flare, after which she will retreat to her chamber to wait for the player's arrival. From the main hall, four different doors lead to four different chambers: the first door on the right leads to the Blazing Chamber, hosted by the Fire-type expert Malva; the second door on the right leads to the Flood Chamber, hosted by the Water-type expert Siebold; the first door on the left leads to the Ironworks Chamber, hosted by the Steel-type expert Wikstrom; and the second door on the left leads to the Dragonmark Chamber, hosted by the Dragon-type expert Drasna. After defeating all four members, the great pair of doors at the end of the main hall will open, allowing the player to enter the Radiant Chamber to face the Pokémon League Champion, Diantha. After the player becomes Champion, they are able to re-enter and challenge the Elite Four and Diantha again, however the teams used by opponents will be identical to the first completion. A Photo Spot can be found by the Pokémon Center, where the player can get their picture taken by Phil the Photo Guy in front of the Pokémon League building.",
+  "sections": [
+    {
+      "title": "Demographics",
+      "text": "Demographics [ edit | edit source ] Kalos's Pokémon League has a population of 12."
+    },
+    {
+      "title": "Poké Mart",
+      "text": "Poké Mart [ edit | edit source ] Generation VI Poké Ball $ 200 Great Ball $ 600 Ultra Ball $ 1,200 Potion $ 300 Super Potion $ 700 Hyper Potion $ 1,200 Max Potion $ 2,500 Full Restore $ 3,000 Revive $ 1,500 Antidote $ 100 Paralyze Heal $ 200 Awakening $ 250 Burn Heal $ 250 Ice Heal $ 250 Full Heal $ 600 Escape Rope $ 550 Repel $ 350 Super Repel $ 500 Max Repel $ 700"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Flood-Chamber",
+    "Flood Chamber",
+    "Flood-Chamber (location)"
+  ],
+  "updatedAt": 1773328876
+}

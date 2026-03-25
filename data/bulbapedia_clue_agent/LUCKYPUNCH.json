@@ -1,0 +1,70 @@
+{
+  "answerKey": "LUCKYPUNCH",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4492802,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen II item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "species specific",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen II species specific",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Raises Chanseys critical hit ratio by two stages.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Boosts Critical Hit Ratio Of A Chansey's stats",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Critical Hit Ratio Of A Chansey Critical Hit Ratio boost item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Power item for Critical Hit Ratio Of A Chansey",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Critical Hit Ratio Of A Chansey-only held item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "critical hit ratio of a chansey item"
+    ],
+    "connections_descriptors": [
+      "Gen II items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257965
+}

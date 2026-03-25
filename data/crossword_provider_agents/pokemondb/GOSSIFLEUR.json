@@ -1,0 +1,17 @@
+{
+  "answerKey": "GOSSIFLEUR",
+  "answerDisplay": "GOSSIFLEUR",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Grass type Pokémon introduced in Generation 8.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/gossifleur",
+  "extract": "Gossifleur is a Grass type Pokémon introduced in Generation 8 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211458
+}

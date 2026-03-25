@@ -1,0 +1,37 @@
+{
+  "answerKey": "ATTRACT",
+  "answerDisplay": "ATTRACT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Attract (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Attract_(move)",
+  "pageId": 3824,
+  "pageRevisionId": 4402614,
+  "leadText": "Attract (Japanese: メロメロ Mad Love) is a non-damaging Normal-type move introduced in Generation II. It was TM45 from Generation II to Pokémon Ultra Sun and Ultra Moon and in Pokémon Brilliant Diamond and Shining Pearl, and TM31 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] The target becomes infatuated with the user if they have opposite genders . Attract works regardless of type immunity. Unlike most status moves , Attract is able to bypass a substitute . Attract has no effect if the user and target have the same gender, or if either of them is a gender-unknown Pokémon (such as Magnemite ). It also fails when used on a Pokémon that is already infatuated. Pokémon with the Ability Oblivious or under the protection of Aroma Veil are immune to the effects of Attract. If a Pokémon is infatuated by Attract while holding a Mental Herb or an Eggant Berry , the item will be consumed and the infatuation will end. Even if the Pokémon has Oblivious, the item will still be consumed. If the target Pokémon becomes infatuated while holding a Destiny Knot , the user will also become infatuated with the target. In Generation IV only, due to an oversight , if an infatuated Pokémon has used Rage and then successfully selects a different move, the Pokémon will no longer be infatuated, but its rage will still be building. If powered up by a Normalium Z into Z-Attract, all of the user's lowered stats are reset. Unlike in Max Raid Battle , Attract does not affect opponents in Tera Raid Battle regardless of their gender since Terastallized raid bosses are immune to infatuation ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 Infatuates targets, making it hard for them to attack foes of the opposite gender. G S C Makes the opposite gender infatuated. R S E Colo XD Makes the opposite gender less likely to attack. (move) Makes it tough to attack a foe of the opposite gender. R S E (TM) Makes it tough for the opposite gender to attack a target. Colo XD (TM) FR LG If it is the other gender, the foe is made infatuated and unlikely to attack. D P Pt HG SS PBR If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA If it is the opposite gender of the user, the target becomes infatuated and less likely to attack. S V If the target is of the opposite gender to the user, it becomes infatuated with the user and will sometimes be unable to use its moves."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts the Infatuated status on the target. MD T D S Afflicts the target with an Infatuated status condition, making it incapable of action. Caution: this move affects only enemies that are the opposite gender of the user. B S L てきポケモンを メロメロじょうたいにして こうどうできなくする あいてが いせいのばあいにしか こうかがない MD GtI It causes the Infatuated status condition to an enemy. It makes the enemy's move more likely to fail. S MD It makes an enemy infatuated, which makes the enemy's moves more likely to fail. MD RT DX It makes an enemy Infatuated, which makes the enemy's moves more likely to fail."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Despite always failing when used, several gender unknown Pokémon can learn this move in certain games, such as the Staryu line (in Generation II ), Mew , Cryogonal , Minior , and Dhelmise . Pokémon like Nincada , Ninjask , the Ferroseed line, the Larvesta line and Oranguru can't learn Attract in certain games despite having genders. Nincada is likely restricted from learning Attract to prevent the gender unknown Shedinja from knowing the move. Although Attract only works between opposite-gendered Pokémon, in real life, numerous animal species have been known to demonstrate homosexual behavior ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Attract",
+    "Attract (move)"
+  ],
+  "updatedAt": 1773320927
+}

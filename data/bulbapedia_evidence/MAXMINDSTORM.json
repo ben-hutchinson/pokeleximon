@@ -1,0 +1,30 @@
+{
+  "answerKey": "MAXMINDSTORM",
+  "answerDisplay": "MAX MINDSTORM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Max Mindstorm (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Mindstorm_(move)",
+  "pageId": 244377,
+  "pageRevisionId": 4406166,
+  "leadText": "Max Mindstorm (Japanese: ダイサイコ Dai Psycho) is a damage-dealing Psychic-type Max Move introduced in Generation VIII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Max Mindstorm inflicts damage and causes the battlefield to become Psychic Terrain for 5 turns (8 if a Terrain Extender is held). Its power and whether it is a special or physical move depends on the move it is based on. Base move Pwr. Cat. Confusion 100 Special Dream Eater 130 Special Eerie Spell 130 Special Expanding Force 130 Special Extrasensory 130 Special Freezing Glare 130 Special Future Sight 140 Special Hyperspace Hole 130 Special Luster Purge 120 Special Mirror Coat 100 Special Mist Ball 120 Special Photon Geyser 130 Special Prismatic Laser 150 Special Psybeam 120 Special Psychic 130 Special Psychic Fangs 130 Physical Psycho Boost 140 Special Psycho Cut 120 Physical Psyshock 130 Special Psystrike 130 Special Stored Power 130 Special Zen Headbutt 130 Physical Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Max Mindstorm cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V This is a Psychic-type attack Dynamax Pokémon use. The user turns the ground into Psychic Terrain for five turns. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Max-Mindstorm",
+    "Max Mindstorm",
+    "Max-Mindstorm (move)"
+  ],
+  "updatedAt": 1773324831
+}

@@ -1,0 +1,30 @@
+{
+  "answerKey": "LOSTCAVE",
+  "answerDisplay": "LOST CAVE",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Lost Cave",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Lost_Cave",
+  "pageId": 15286,
+  "pageRevisionId": 4382957,
+  "leadText": "Lost Cave (Japanese: かえらずのあな Cave of No Return) is an island cave in the Sevii Islands, to the north of Five Island. Within the cave, the player can find and defeat Selphy, causing her to return to her house in Resort Gorgeous.",
+  "sections": [
+    {
+      "title": "Navigating the cave",
+      "text": "Navigating the cave [ edit | edit source ] The cave lives up to its name of \"Lost Cave\", being similar to the Lost Woods featured in The Legend of Zelda series in that an incorrect turn brings the player back to the beginning. The rocks in each room hint at which direction the player needs to go, however, with the number of rocks indicating the clock position of the correct pathway to Selphy (3 = east, 6 = south, 9 = west and 12 = north). Deviations from this pathway will in most cases lead the player back to the room with the ladder and Lawson, however going the opposite direction from the prescribed path will, during certain points, lead to an item."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] To retrieve these items, which are all in a room by themselves, the player must start from the room with Ruin Maniac Lawson: Item Location Games Lax Incense East, south FR LG Sea Incense East, north, south, north FR LG Max Revive East, north, south, south, east, east FR LG Rare Candy East, north, south, south, east, west, south, west FR LG Silk Scarf East, north, south, south, east, west, south, east, north * FR LG"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Lost-Cave",
+    "Lost Cave",
+    "Lost-Cave (location)"
+  ],
+  "updatedAt": 1774214421
+}

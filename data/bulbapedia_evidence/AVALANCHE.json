@@ -1,0 +1,37 @@
+{
+  "answerKey": "AVALANCHE",
+  "answerDisplay": "AVALANCHE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Avalanche (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Avalanche_(move)",
+  "pageId": 17449,
+  "pageRevisionId": 4491293,
+  "leadText": "Avalanche redirects here. For the location in Pokémon Mystery Dungeon: Explorers of Time, Darkness, and Sky, see Mt. Avalanche. Avalanche (Japanese: ゆきなだれ Avalanche) is a damage-dealing Ice-type move introduced in Generation IV. It was TM72 in Generation IV and Pokémon Brilliant Diamond and Shining Pearl, and TM64 in Pokémon Sword and Shield. It is TM046 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Avalanche deals damage and is a decreased priority move, causing the user to attack after other Pokémon that are using ordinary priority moves. If the target had already damaged the user in the same turn, Avalanche's power is doubled to 120."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn. B W B2 W2 X Y OR AS An attack move that inflicts double the damage if the user has been hurt by the target in the same turn. S M US UM P E Sw Sh BD SP LA The power of this attack move is doubled if the user has been hurt by the target in the same turn. S V This move's power is doubled if the target has inflicted damage on the user in the same turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Gives the user a Bide status. A Pokémon that has a Bide status waits, then does double any damage it took under Bide status. B S L じぶんを がまんじょうたいにかえる がまんじょうたいが かいじょされたときの こうげきは そのあいだに うけたダメージの ２ばい このわざは ポケモンタワーでは くりだせない MD GtI UNUSED S MD MD RT DX You'll get the Bide status for a little while, and then you'll damage an enemy. The more damage you take while biding, the greater the damage you can cause."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Due to being introduced at different times, Avalanche ( Alud ) and Rock Slide ( Avalancha ) have Spanish game version names that would be more accurate if swapped around. Despite attacking from a distance, Avalanche is a Contact Move. In Generations IV and V, Secret Power has the animation of Avalanche when used on snow ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Avalanche",
+    "Avalanche (move)"
+  ],
+  "updatedAt": 1773320949
+}

@@ -1,0 +1,17 @@
+{
+  "answerKey": "MUNKIDORI",
+  "answerDisplay": "MUNKIDORI",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Poison / Psychic type Pokémon introduced in Generation 9.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/munkidori",
+  "extract": "Munkidori is a Poison / Psychic type Pokémon introduced in Generation 9 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212154
+}

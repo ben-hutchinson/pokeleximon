@@ -1,0 +1,34 @@
+{
+  "answerKey": "MAXGUARD",
+  "answerDisplay": "MAX GUARD",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Max Guard (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Guard_(move)",
+  "pageId": 240365,
+  "pageRevisionId": 4452071,
+  "leadText": "Max Guard (Japanese: ダイウォール Dai Wall) is a non-damaging Normal-type Max Move introduced in Generation VIII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Main article: Protection Max Guard protects the user from moves for the rest of the turn. It offers greater protection than most other protection moves. Max Guard fully protects the user from most Max Moves and cannot be penetrated or nullified by most moves that break protection . G-Max One Blow , G-Max Rapid Flow , and Feint deal full damage through Max Guard, but Feint does not lift Max Guard's protection like it would other protection effects. Max Guard also follows many of the moves that bypass other protection , but it successfully protects from Block , Flower Shield , Gear Up , Magnetic Flux , Phantom Force , Psych Up , Shadow Force , Teatime , Transform , and any contact move affected by Unseen Fist . If the user goes last in the turn, Max Guard will fail. The chance that Max Guard will succeed drops each time the user successfully and consecutively uses Endure , any protection move that only affects the user , Quick Guard , or Wide Guard . Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Max Guard cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Max Guard is the only Max Move in the core series : To be a status move . With a priority that is not 0. That can have a different type than its base move. Max Guard is the first Generation VIII move in index number order."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Max-Guard",
+    "Max Guard",
+    "Max-Guard (move)"
+  ],
+  "updatedAt": 1773324818
+}

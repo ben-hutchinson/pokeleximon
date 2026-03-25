@@ -1,0 +1,34 @@
+{
+  "answerKey": "DRILLRUN",
+  "answerDisplay": "DRILL RUN",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Drill Run (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Drill_Run_(move)",
+  "pageId": 117266,
+  "pageRevisionId": 4505289,
+  "leadText": "Drill Run (Japanese: ドリルライナー Drill Liner) is a damage-dealing Ground-type move introduced in Generation V. It is: TM58 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR87 in Pokémon Sword and Shield. TM106 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Drill Run deals damage and has an increased critical hit ratio. Drill Run can also be used as part of a Contest Spectacular combination , with the user gaining extra three appeal points if the move Focus Energy was used in the prior turn. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 80 96 Cooldown 8s Move wind-up time 15 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user crashes into its target while rotating its body like a drill. Critical hits land more easily. S V The user crashes into the target while rotating its body like a drill. This move has a heightened chance of landing a critical hit. ZA The user attacks by crashing into targets while rotating like a drill. This move has a heightened chance of landing a critical hit."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Conq. The user crashes into its target while rotating its body like a drill. Critical hits land more easily. MD GtI S MD MD RT DX It damages an enemy. It has a high critical-hit rate. It reaches up to 2 tiles away."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Drill-Run",
+    "Drill Run",
+    "Drill-Run (move)"
+  ],
+  "updatedAt": 1773322353
+}

@@ -1,0 +1,17 @@
+{
+  "answerKey": "FLETCHINDER",
+  "answerDisplay": "FLETCHINDER",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Fire / Flying type Pokémon introduced in Generation 6.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/fletchinder",
+  "extract": "Fletchinder is a Fire / Flying type Pokémon introduced in Generation 6 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211293
+}

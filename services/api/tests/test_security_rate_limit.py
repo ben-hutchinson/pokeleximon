@@ -25,14 +25,26 @@ class SecurityAndRateLimitSourceTests(unittest.TestCase):
         source = RATE_LIMIT_FILE.read_text(encoding="utf-8")
         self.assertIn('if path.startswith("/api/v1/auth")', source)
         self.assertIn('if path.startswith("/api/v1/admin")', source)
-        self.assertIn('if path.startswith("/api/v1/puzzles") or path == "/api/v1/health"', source)
+        self.assertIn('path in {"/api/v1/health", "/api/v1/health/ready"}', source)
         self.assertIn("status_code=429", source)
+
+    def test_rate_limit_uses_last_trusted_forwarded_hop(self):
+        source = RATE_LIMIT_FILE.read_text(encoding="utf-8")
+        self.assertIn("forwarded_chain[-trusted_hops]", source)
+        self.assertNotIn('forwarded_for.split(",")[0].strip()', source)
 
     def test_security_module_supports_bearer_and_config_header(self):
         source = SECURITY_FILE.read_text(encoding="utf-8")
         self.assertIn("alias=config.ADMIN_AUTH_HEADER_NAME", source)
         self.assertIn('auth_header.lower().startswith("bearer ")', source)
         self.assertIn("hmac.compare_digest", source)
+
+    def test_main_exposes_readiness_routes(self):
+        source = MAIN_FILE.read_text(encoding="utf-8")
+        self.assertIn('@app.get("/health/ready"', source)
+        self.assertIn('@app.get("/api/v1/health/ready"', source)
+        self.assertIn("db.ping_db()", source)
+        self.assertIn("cache.ping_cache()", source)
 
 
 if __name__ == "__main__":

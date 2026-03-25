@@ -1,0 +1,34 @@
+{
+  "answerKey": "SPARKLINGARIA",
+  "answerDisplay": "SPARKLING ARIA",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sparkling Aria (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sparkling_Aria_(move)",
+  "pageId": 216850,
+  "pageRevisionId": 4448006,
+  "leadText": "Sparkling Aria (Japanese: うたかたのアリア Bubble Aria) is a damage-dealing Water-type move introduced in Generation VII. Prior to Generation VIII, it was the signature move of Primarina. It can be upgraded to the special Z-Move Oceanic Operetta by Primarina holding Primarium Z.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Sparkling Aria inflicts damage to all adjacent Pokémon, including allies. If the target was burned , the burn is healed. Burned Pokémon are not healed of their burns if the move does not affect them. Sparkling Aria is a sound-based move . Sparkling Aria can hit Pokémon even if they are behind a substitute . Normally, Pokémon with the Ability Shield Dust will not have their burn cured by the move; however, if the move targets multiple Pokémon in a Double Battle or Battle Royal , they will be cured. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Sparkling Aria cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA The user bursts into song, emitting many bubbles. Any Pokémon suffering from a burn will be healed by the touch of these bubbles. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user bursts into song, emitting many bubbles. Any Pokémon suffering from a burn will be cured by the touch of these bubbles."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Sparkling Aria is the only sound-based move that is Water-type by default."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sparkling-Aria",
+    "Sparkling Aria",
+    "Sparkling-Aria (move)"
+  ],
+  "updatedAt": 1773327401
+}

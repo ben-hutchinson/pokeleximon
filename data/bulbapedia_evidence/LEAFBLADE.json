@@ -1,0 +1,38 @@
+{
+  "answerKey": "LEAFBLADE",
+  "answerDisplay": "LEAF BLADE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Leaf Blade (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Leaf_Blade_(move)",
+  "pageId": 3959,
+  "pageRevisionId": 4462312,
+  "leadText": "Leaf Blade (Japanese: リーフブレード Leaf Blade) is a damage-dealing Grass-type move introduced in Generation III. Prior to Generation IV, it was the signature move of Grovyle and Sceptile. It was TR50 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III 1.2 Generation IV onwards 1.3 Generation VIII 1.3.1 Pokémon Legends: Arceus 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation III [ edit | edit source ] Leaf Blade inflicts damage and has an increased critical hit ratio. It has a base power of 70 in this generation. Generation IV onwards [ edit | edit source ] Leaf Blade's base power increased from 70 to 90. If used by a Pokémon with Sharpness , its power is increased by 50%. Leaf Blade can also be used as part of a Contest Spectacular combination , with the user gaining extra three appeal points if the move Focus Energy was used in the prior turn. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Leaf Blade's PP has been reduced to 10, and its power has been lowered to 85. Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 85 65 105 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Crit. stage +1 +1 +2 ? ? ? ? Has a high critical-hit ratio Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 90 108 Cooldown 8s Move wind-up time 10 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Slashes with a sharp leaf. High critical-hit ratio. FR LG D P Pt HG SS PBR The foe is slashed with a sharp leaf. It has a high critical-hit ratio. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP The user handles a sharp leaf like a sword and attacks by cutting its target. Critical hits land more easily. LA The user handles a sharp leaf like a sword and attacks by cutting its target. This move has a heightened chance of landing a critical hit. S V The user handles a sharp leaf like a sword and cuts the target to inflict damage. This move has a heightened chance of landing a critical hit. ZA The user attacks by using a leaf like a sword to slice targets. This move has a heightened chance of landing a critical hit."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. It has a high critical-hit rate. B S L てきポケモンに ダメージをあたえる きゅうしょに あたりやすい Conq. The target is slashed with a sharp leaf. It has a high critical-hit ratio. MD GtI S MD MD RT DX It damages an enemy. It has a high critical-hit rate."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In the Brazilian Portuguese dub of Pokémon the Series: Ruby and Sapphire , from Clamperl of Wisdom to From Cradle to Save , Leaf Blade is referred to as either Folha Navalha or some slight variation of it, a name that had been present in the Brazilian dub since Enter the Dragonite as the national name for Razor Leaf . Interestingly, Leaf Blade is referred to as Lâmina de Folha , its most fitting, and now official, name, from its animated series debut to forty-seven episodes later . It is currently unknown why this name would disappear from the dub until Odd Pokémon Out! ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Leaf-Blade",
+    "Leaf Blade",
+    "Leaf-Blade (move)"
+  ],
+  "updatedAt": 1773324307
+}

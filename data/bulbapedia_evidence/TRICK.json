@@ -1,0 +1,37 @@
+{
+  "answerKey": "TRICK",
+  "answerDisplay": "TRICK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Trick (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Trick_(move)",
+  "pageId": 3882,
+  "pageRevisionId": 4500876,
+  "leadText": "Trick (Japanese: トリック Trick) is a non-damaging Psychic-type move introduced in Generation III. It was TR38 in Pokémon Sword and Shield, and is TM109 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] The user switches held items with the target. If only one of them is holding an item, the item is moved to the other. Trick fails if: Neither Pokémon has a held item. The user is a wild Pokémon . The target is behind a substitute . The target has Sticky Hold (even if it has no held item). It is used in the Trainer Tower or Trainer Hill . Either Pokémon is holding: an e-Reader Berry Mail (except in the Japanese version of Pokémon Ruby and Sapphire ) any Z-Crystal a Drive , if either Pokémon is Genesect a Mega Stone , if either Pokémon could use it to Mega Evolve a colored orb , if either Pokémon could use it to undergo Primal Reversion a Memory , if either Pokémon is Silvally a Rusted Sword , if either Pokémon is Zacian a Rusted Shield , if either Pokémon is Zamazenta a Booster Energy , if either Pokémon is a Paradox Pokémon (excluding Koraidon , Miraidon , Gouging Fire , Raging Bolt , Iron Boulder and Iron Crown ) a Wellspring Mask , Hearthflame Mask , or Cornerstone Mask , if either Pokémon is Ogerpon Additionally, in some generations Trick can fail under additional circumstances. In Link Battles, battle facilities , Secret Bases , and the Trainer House , items stolen will be returned at the end of the battle. Generations III and IV [ edit | edit source ] In Japanese Pokémon Ruby and Sapphire , Trick can exchange Mail , but doing so may cause Mail corruption . In international releases of Pokémon Ruby and Sapphire, as well as all releases of subsequent games, Trick will fail if either Pokémon is holding Mail. In these generations, Trick fails if either Pokémon has Multitype or either Pokémon is holding a Griseous Orb . Generation V onwards [ edit | edit source ] Trick no longer switches a Trainer's Pokémon's items permanently; however, items switched in wild battles are permanently switched. Trick can now exchange the Griseous Orb, but still fails if either Pokémon holds the Griseous Orb and either Pokémon is Giratina . Trick can now exchange items with a Pokémon that has Multitype , but still fails if either Pokémon holds a Plate and either Pokémon is Arceus . If powered up by a Psychium Z into Z-Trick, the user's Speed is boosted by two stages, then the move itself fails after obtaining the Z-Power since it is not possible to exchange a Z-Crystal. Trick will always fail when used in a Max Raid Battle or a Tera Raid Battle , regardless of the items or target. (It works as normal against Dynamax Pokémon in other battles.) In Pokémon Sword and Shield , due to a presumed glitch in accounting for the removal of colored orbs , Trick would fail in versions 1.2.0 through 1.3.1 if it was used by or against Groudon or Kyogre and either the user or the target was not holding an item. This behavior was corrected in version 1.3.2."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Tricks the foe into trading held items. FR LG A move that tricks the foe into trading held items with the user. Colo XD Tricks the target into trading held items. D P Pt HG SS PBR The user catches the foe off guard and swaps the foe's held item with its own. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user catches the target off guard and swaps its held item with its own. S V The user catches the target off guard and swaps the target's held item with its own."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Switches the user's hold item with the target's hold item. It only works if both Pokémon hold items. MD T D Switches the user's hold item with the target's hold item. It works only if both Pokémon are holding items. MD S Switches the user's held item with the target's held item. It works only if both Pokémon are holding items. B S L てきポケモンのどうぐと じぶんのどうぐを いれかえる じぶんと てきポケモンの りょうほうが どうぐを もっていないと せいこうしない MD GtI UNUSED S MD MD RT DX It swaps your held item with a target's held item. The move succeeds even if either you or the target doesn't have an item."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation IV , despite being able to learn this move via Move Tutor , it will always fail when used by Arceus due to its Ability Multitype . In later generations, it can successfully use the move as long as neither Pokémon is holding a Plate ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Trick",
+    "Trick (move)"
+  ],
+  "updatedAt": 1773328096
+}

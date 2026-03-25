@@ -1,0 +1,34 @@
+{
+  "answerKey": "PSYSHIELDBASH",
+  "answerDisplay": "PSYSHIELD BASH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Psyshield Bash (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Psyshield_Bash_(move)",
+  "pageId": 268028,
+  "pageRevisionId": 4403590,
+  "leadText": "Psyshield Bash (Japanese: バリアーラッシュ Barrier Rush) is a damage-dealing Psychic-type move introduced during Generation VIII, in Pokémon Legends: Arceus. It is the signature move of Stantler and Wyrdeer.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.2 Generation IX 1.3 Other effects Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Psyshield Bash inflicts damage and raises the user's defensive stats. Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 70 55 85 Accuracy 90% 90% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Turns 3 2 4 ? ? ? ? Raises the user's defensive stats Generation IX [ edit | edit source ] Psyshield Bash inflicts damage and raises the user's Defense by one stage. Other effects [ edit | edit source ] A Stantler that has used Psyshield Bash in the agile style at least 20 times can evolve into Wyrdeer ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA Cloaking itself in psychic energy, the user slams into the target. This may also raise the user’s defensive stats. S V Cloaking itself in psychic energy, the user slams into the target. This also boosts the user’s Defense stat."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Pokémon Legends: Arceus , Psyshield Bash's description says it \"may raise the user's defensive stats\", despite it in fact having a 100% chance to do so. In Pokémon Scarlet and Violet , Psyshield Bash is the only Evolution -inducing move introduced in Pokémon Legends: Arceus to lack an Evolution effect, as Stantler cannot evolve into Wyrdeer in the games."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Psyshield-Bash",
+    "Psyshield Bash",
+    "Psyshield-Bash (move)"
+  ],
+  "updatedAt": 1773326101
+}

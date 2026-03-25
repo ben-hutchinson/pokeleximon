@@ -1,0 +1,34 @@
+{
+  "answerKey": "FURCOAT",
+  "answerDisplay": "FUR COAT",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Fur Coat (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fur_Coat_(Ability)",
+  "pageId": 182735,
+  "pageRevisionId": 4450660,
+  "leadText": "Fur Coat (Japanese: ファーコート Fur Coat) is an Ability introduced in Generation VI. Prior to Generation VII, it was the signature Ability of Furfrou. In Generation IX, it is the signature Ability of Alolan Persian.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Fur Coat doubles the Defense stat of the Pokémon with this Ability. It has no effect on self-inflicted confusion damage. Outside of battle [ edit | edit source ] Fur Coat has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Fur Coat doubles the Defense stat of the Pokémon with this Ability. It has no effect on self-inflicted confusion damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD The Pokémon takes less damage from physical moves!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fur-Coat",
+    "Fur Coat",
+    "Fur-Coat (Ability)"
+  ],
+  "updatedAt": 1773328889
+}

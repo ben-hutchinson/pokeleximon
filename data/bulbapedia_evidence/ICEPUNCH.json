@@ -1,0 +1,38 @@
+{
+  "answerKey": "ICEPUNCH",
+  "answerDisplay": "ICE PUNCH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Ice Punch (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ice_Punch_(move)",
+  "pageId": 3616,
+  "pageRevisionId": 4485255,
+  "leadText": "Ice Punch (Japanese: れいとうパンチ Freezing Punch) is a damage-dealing Ice-type move introduced in Generation I. It is: TM33 in Generation II. TM35 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TM04 in Pokémon Sword and Shield. TM069 in Pokémon Scarlet and Violet. TM024 in Pokémon Legends: Z-A. It can be thought of as a counterpart to Fire Punch and Thunder Punch, having similar names and effects.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Ice Punch does damage and has a 10% chance of freezing the target. Ice Punch can be used as the first move of a Pokémon Contest combination , causing Fire Punch and ThunderPunch to score double the normal appeal if used in the next turn. It can also be used to finish a combination, with the user gaining 4 bonus appeal points if Fire Punch or ThunderPunch was used in the previous turn. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Ice Punch's PP was reduced from 15 to 10 and has a 30% chance of giving the opponent frostbite (the replacement for the frozen status). Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 75 60 90 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 30% 30% 50% Turns 3 2 4 ? ? Inflicts frostbite on the target Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 75 90 Cooldown 7s Move wind-up time 10 frames Effect duration —s Additional effect Chance 10% — — May freeze the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A special Ice -type attack. Has a one-in-ten chance of freezing the target. G S C An icy punch. May cause freezing. R S E An icy punch that may freeze the foe. FR LG The foe is punched with an icy fist. It may leave the foe frozen. Colo XD An icy punch that may freeze the target. D P Pt HG SS PBR The foe is punched with an icy fist. It may leave the target frozen. B W B2 W2 The target is punched with an icy fist. It may also leave the target frozen. X Y OR AS S M US UM P E Sw Sh BD SP The target is punched with an icy fist. This may also leave the target frozen. LA The target is punched with an icy fist. This may also leave the target with frostbite. S V The target is attacked with an icy punch. This may also leave the target frozen. ZA The user attacks with an icy punch. This may also leave targets frozen."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also leave the target frozen and incapable of action. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Frozen status condition. A Pokémon with the Frozen status is incapable of action. B S L てきポケモンに ダメージをあたえる いっていのかくりつで こおりじょうたいにかえる こおりじょうたいの ポケモンは こうどうできない MD GtI UNUSED S MD It damages an enemy. It could also make the enemy frozen."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Blaziken using Ice Punch Wooper can learn this move despite lacking hands. During the Omega Ruby and Alpha Sapphire pre-release period, Blaziken was shown to be able to use this move. However, the Official Japanese Pokémon website posted an apology shortly after the games' release confirming Blaziken could not know the move after all."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ice-Punch",
+    "Ice Punch",
+    "Ice-Punch (move)"
+  ],
+  "updatedAt": 1773323804
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "SUCTIONCUPS",
+  "answerDisplay": "SUCTION CUPS",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Suction Cups (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Suction_Cups_(Ability)",
+  "pageId": 4098,
+  "pageRevisionId": 4398806,
+  "leadText": "Suction Cups (Japanese: きゅうばん Suction Cups) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability prevents other Pokémon from forcing the Pokémon with this Ability to switch out or flee with a move (e.g. Roar , Circle Throw , etc.) or item ( Red Card ). Suction Cups does not affect the Pokémon switching out manually, or switching out or fleeing with its own move (e.g. Baton Pass , Teleport , etc.) or item ( Eject Button ). Even if the Pokémon with this Ability is Ghost-type or holds a Shed Shell or Smoke Ball , it cannot be forced to switch or flee. If a Pokémon with this Ability is under the effect of Ingrain , Suction Cups will take priority over Ingrain if it would be forced to switch or flee. If a Pokémon with Suction Cups hits a Pokémon holding a Red Card, the Red Card will still activate and be consumed, but fails to cause that Pokémon to switch out or flee. Outside of battle [ edit | edit source ] This Ability effect may be in need of research. Reason: In Generation VII , does Suction Cups only make Pokémon fishing encounters more common, or does it make hooking anything more common? You can discuss this on the talk page. From Pokémon Emerald onwards, if a Pokémon with Suction Cups is in first place in the player's party (even if fainted ), bites will occur more often while fishing . Sticky Hold has the same effect. Due to an error in Pokémon Diamond, Pearl , and Platinum , the Ability has no effect outside of battle in those games. [ 1 ] [ 2 ] This behavior is kept in Pokémon Brilliant Diamond and Shining Pearl , where the Ability also has no effect outside of battle. [ 3 ] In Pokémon HeartGold and SoulSilver only, if a Pokémon with Suction Cups breaks a rock , it receives a flat 5% increase in odds of finding an item. ↑ @im_a_blisy on Twitter ↑ Function ov6_0224226C() in decompilation of Pokémon Platinum by GitHub organization \"pret\" ↑ https://web.archive.org/web/20211201221838/https://twitter.com/Sibuna_Switch/status/1465550398354345997"
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] This Ability prevents other Pokémon from forcing the Pokémon with this Ability to switch out or flee with a move (e.g. Roar , Circle Throw , etc.) or item ( Red Card ). Suction Cups does not affect the Pokémon switching out manually, or switching out or fleeing with its own move (e.g. Baton Pass , Teleport , etc.) or item ( Eject Button ). Even if the Pokémon with this Ability is Ghost-type or holds a Shed Shell or Smoke Ball , it cannot be forced to switch or flee. If a Pokémon with this Ability is under the effect of Ingrain , Suction Cups will take priority over Ingrain if it would be forced to switch or flee. If a Pokémon with Suction Cups hits a Pokémon holding a Red Card, the Red Card will still activate and be consumed, but fails to cause that Pokémon to switch out or flee."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Prevents forced movement. MD T D S Prevents the Pokémon from being forcibly moved. B S L ばしょを いどうさせられる こうかが きかない MD GtI Unavailable S MD The Pokémon can't be blown away or warped! MD RT DX The Pokémon holds tight and can't be blown away or warped."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Every Pokémon with this Ability belongs to one of the Water Egg Groups ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Suction-Cups",
+    "Suction Cups",
+    "Suction-Cups (Ability)"
+  ],
+  "updatedAt": 1773327644
+}

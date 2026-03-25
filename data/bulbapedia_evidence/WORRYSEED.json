@@ -1,0 +1,38 @@
+{
+  "answerKey": "WORRYSEED",
+  "answerDisplay": "WORRY SEED",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Worry Seed (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Worry_Seed_(move)",
+  "pageId": 12423,
+  "pageRevisionId": 4406115,
+  "leadText": "Worry Seed (Japanese: なやみのタネ Worry Seed) is a non-damaging Grass-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation IV [ edit | edit source ] Worry Seed changes the target's Ability to Insomnia . If a Pokémon affected by Worry Seed is switched out, it regains its original Ability. Worry Seed can be used successfully even if the target's Ability is already Insomnia. Worry Seed fails if the target's Ability is Truant , Multitype , Stance Change , Schooling , Comatose , Shields Down , Disguise , RKS System , Battle Bond , Power Construct , Ice Face , Gulp Missile , As One or Commander . Worry Seed also fails if the target is holding a Griseous Orb . With this effect, the target Pokémon cannot sleep and wakes up if already asleep. Generation V onwards [ edit | edit source ] Worry Seed now displays the Pokémon's previous Ability before changing it. Worry Seed now fails if the target's Ability is already Insomnia. A target holding the Griseous Orb can now be affected by Worry Seed. Worry Seed can be used as part of a Contest Spectacular combination with the user gaining an extra three appeal points if Rototiller was used in the prior turn. If powered up by a Grassium Z into Z-Worry Seed, the user's Speed stat rises one stage. Worry Seed can affect Hunger Switch , and Morpeko will not change forms while affected."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia. B W B2 W2 A seed that causes worry is planted on the target. It prevents sleep by making its Ability Insomnia. X Y OR AS S M US UM P E Sw Sh BD SP LA S V A seed that causes worry is planted on the target. It prevents sleep by making the target's Ability Insomnia."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Afflicts the target with a Sleepless status condition, even at a distance. It doesn't affect a Pokémon with the Truant ability. B S L はなれたポケモンを ねむらずじょうたいにかえる とくせい『なまけ』の ポケモンには こうかがない MD GtI UNUSED S MD It changes the target's Ability to Insomnia. MD RT DX It changes the target's Ability to Insomnia. The effect wears off when you go to the next floor."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Worry Seed's name is a play on 悩みの種 Nayami no Tane ; although the expression is roughly \"cause of trouble\", an overly literal translation can yield \"Worry Seed\". 種 Tane (seed) is written using katakana to emphasize the move literally involves a seed."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Worry-Seed",
+    "Worry Seed",
+    "Worry-Seed (move)"
+  ],
+  "updatedAt": 1773328585
+}

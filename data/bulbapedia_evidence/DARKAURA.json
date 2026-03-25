@@ -1,0 +1,34 @@
+{
+  "answerKey": "DARKAURA",
+  "answerDisplay": "DARK AURA",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Dark Aura (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dark_Aura_(Ability)",
+  "pageId": 180567,
+  "pageRevisionId": 4481982,
+  "leadText": "Dark Aura (Japanese: ダークオーラ Dark Aura) is an Ability introduced in Generation VI. It is the signature Ability of Yveltal.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Dark Aura increases the power of Dark-type attacks by approximately 33% (or more accurately, by a factor of 5448/4096) for all Pokémon on the field. This effect is inverted by Aura Break , instead dividing the power of Dark-type attacks by 4/3, resulting in a 25% reduction in damage. The effects will not stack multiple times if more than one Pokémon has this Ability. Outside of battle [ edit | edit source ] Dark Aura has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Dark Aura increases the power of Dark-type attacks by approximately 33% (or more accurately, by a factor of 5448/4096) for all Pokémon on the field. This effect is inverted by Aura Break , instead dividing the power of Dark-type attacks by 4/3, resulting in a 25% reduction in damage. The effects will not stack multiple times if more than one Pokémon has this Ability."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD Dark-type moves of all Pokémon become more powerful!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Dark-Aura",
+    "Dark Aura",
+    "Dark-Aura (Ability)"
+  ],
+  "updatedAt": 1773328825
+}

@@ -1,0 +1,37 @@
+{
+  "answerKey": "SNATCH",
+  "answerDisplay": "SNATCH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Snatch (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Snatch_(move)",
+  "pageId": 3900,
+  "pageRevisionId": 4500979,
+  "leadText": "Snatch redirects here. For the status in the Pokémon Mystery Dungeon series, see Status condition (Mystery Dungeon). Snatch (Japanese: よこどり Snatch) is a non-damaging Dark-type move introduced in Generation III. It was TM49 in Generation III and Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations III and IV 1.2 Generation V to VII 1.3 Generation VIII onwards 1.4 Affected moves Effect [ edit | edit source ] Snatch is an increased priority move. After being used, if another Pokémon (including an ally) attempts to use a beneficial status move , the user of Snatch steals the move and uses the move itself instead of the move's original user. Generations III and IV [ edit | edit source ] Snatch will steal the first susceptible move that is used by any other Pokémon in the same turn. If more than one Pokémon use Snatch in the same turn, the fastest Pokémon's Snatch will activate first, but the stolen move will in turn be stolen by the next fastest Pokémon's Snatch (such that only the slowest user of Snatch will receive a stolen effect in the end). If Acupressure is stolen, it will always be applied to the user of Snatch regardless of the move's original target. If Psych Up is stolen, it will target the Pokémon the move was most recently stolen from. Generation V to VII [ edit | edit source ] Snatch no longer steals moves that were stolen by another Pokémon's Snatch on the same turn. The order in which moves are stolen is the same as the order in which Snatch was executed. Acupressure and Psych Up can no longer be stolen. All moves that can be stolen either affect only the user or affect the user's entire team. Rest and Swallow can now only be stolen if they would have an effect when used by the original user (regardless of whether or not they would have an effect on the user of Snatch). If Swallow is stolen and the user of Snatch is not under the effects of Stockpile , it will nonetheless recover 25% of its max HP. Snatch cannot steal Z-Moves , even if it could normally steal their base move. If powered up by a Darkinium Z into Z-Snatch, the user's Speed stat rises two stages. Generation VIII onwards [ edit | edit source ] Snatch cannot be selected in a battle. Affected moves [ edit | edit source ] The following moves can be stolen by Snatch: Move Type Generations III IV V VI VII Acid Armor Poison ✔ ✔ ✔ ✔ ✔ Acupressure Normal ✔ ✘ ✘ ✘ Agility Psychic ✔ ✔ ✔ ✔ ✔ Amnesia Psychic ✔ ✔ ✔ ✔ ✔ Aqua Ring Water ✘ ✔ ✔ ✔ Aromatherapy Grass ✔ ✔ ✔ ✔ ✔ Aurora Veil Ice ✔ Autotomize Steel ✔ ✔ ✔ Barrier Psychic ✔ ✔ ✔ ✔ ✔ Belly Drum Normal ✔ ✔ ✔ ✔ ✔ Bulk Up Fighting ✔ ✔ ✔ ✔ ✔ Calm Mind Psychic ✔ ✔ ✔ ✔ ✔ Camouflage Normal ✔ ✔ ✔ ✔ ✔ Charge Electric ✔ ✔ ✔ ✔ ✔ Coil Poison ✔ ✔ ✔ Conversion Normal ✘ ✘ ✔ ✔ ✔ Cosmic Power Psychic ✔ ✔ ✔ ✔ ✔ Cotton Guard Grass ✔ ✔ ✔ Defend Order Bug ✔ ✔ ✔ ✔ Defense Curl Normal ✔ ✔ ✔ ✔ ✔ Double Team Normal ✔ ✔ ✔ ✔ ✔ Dragon Dance Dragon ✔ ✔ ✔ ✔ ✔ Focus Energy Normal ✔ ✔ ✔ ✔ ✔ Gear Up Steel ✔ Growth Normal ✔ ✔ ✔ ✔ ✔ Harden Normal ✔ ✔ ✔ ✔ ✔ Heal Bell Normal ✔ ✔ ✔ ✔ ✔ Heal Order Bug ✔ ✔ ✔ ✔ Healing Wish Psychic ✘ ✔ ✔ ✔ Hone Claws Dark ✔ ✔ ✔ Howl Normal ✔ ✔ ✔ ✔ ✔ Imprison Psychic ✘ ✘ ✔ ✔ ✔ Ingrain Grass ✔ ✔ ✔ ✔ ✔ Iron Defense Steel ✔ ✔ ✔ ✔ ✔ Laser Focus Normal ✔ Light Screen Psychic ✔ ✔ ✔ ✔ ✔ Lucky Chant Normal ✘ ✔ ✔ ✔ Lunar Dance Psychic ✘ ✔ ✔ ✔ Magnet Rise Electric ✘ ✔ ✔ ✔ Magnetic Flux Electric ✔ ✔ Mat Block Fighting ✔ ✔ Meditate Psychic ✔ ✔ ✔ ✔ ✔ Milk Drink Normal ✔ ✔ ✔ ✔ ✔ Minimize Normal ✔ ✔ ✔ ✔ ✔ Mist Ice ✔ ✔ ✔ ✔ ✔ Moonlight Fairy ✔ ✔ ✔ ✔ ✔ Morning Sun Normal ✔ ✔ ✔ ✔ ✔ Nasty Plot Dark ✔ ✔ ✔ ✔ Power Trick Psychic ✘ ✔ ✔ ✔ Psych Up Normal ✔ ✔ ✘ ✘ ✘ Quick Guard Fighting ✔ ✔ ✔ Quiver Dance Bug ✔ ✔ ✔ Recover Normal ✔ ✔ ✔ ✔ ✔ Recycle Normal ✘ ✘ ✔ ✔ ✔ Reflect Psychic ✔ ✔ ✔ ✔ ✔ Refresh Normal ✔ ✔ ✔ ✔ ✔ Rest Psychic ✔ ✔ ✔ ✔ ✔ Rock Polish Rock ✔ ✔ ✔ ✔ Roost Flying ✔ ✔ ✔ ✔ Safeguard Normal ✔ ✔ ✔ ✔ ✔ Sharpen Normal ✔ ✔ ✔ ✔ ✔ Shell Smash Normal ✔ ✔ ✔ Shift Gear Steel ✔ ✔ ✔ Shore Up Ground ✔ Slack Off Normal ✔ ✔ ✔ ✔ ✔ Soft-Boiled Normal ✔ ✔ ✔ ✔ ✔ Stockpile Normal ✔ ✔ ✔ ✔ ✔ Substitute Normal ✔ ✔ ✔ ✔ ✔ Swallow Normal ✔ ✔ ✔ ✔ ✔ Swords Dance Normal ✔ ✔ ✔ ✔ ✔ Synthesis Grass ✔ ✔ ✔ ✔ ✔ Tail Glow Bug ✔ ✔ ✔ ✔ ✔ Tailwind Flying ✔ ✔ ✔ ✔ Wide Guard Rock ✔ ✔ ✔ Wish Normal ✘ ✘ ✔ ✔ ✔ Withdraw Water ✔ ✔ ✔ ✔ ✔ Work Up Normal ✔ ✔ ✔ The Generation VIII moves Clangorous Soul , No Retreat , Stuff Cheeks , Life Dew , Victory Dance , Lunar Blessing , and Take Heart are affected by Snatch according to the moves' data. Since Snatch cannot be used in any of the Generation VIII or IX core series games, they are not included in the table."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Steals the effects of the move the foe uses next. R S (move) Steals the effects of the move the target uses next. E (move) Steals the effects of the move the foe is trying to use. (TM) FR LG Steals the effects of the foe's healing or status-changing move. Colo XD Steals and uses a target's move if it raises stats. D P PBR The user steals the effects of any healing or status-changing move the foe attempts to use. Pt HG SS The user steals the effects of any healing or stat-changing move the foe attempts to use. (move) The user steals the effects of any healing or status-changing move the foe attempts to use. (TM) B W B2 W2 The user steals the effects of any healing or stat-changing move the opponent attempts to use. X Y OR AS S M US UM P E The user steals the effects of any attempts to use a healing or stat-changing move. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Snatch status. It steals the moves of Pokémon on the same floor. MD T D S Gives the user a Snatch status, which lets the user steal the effects from all moves used by Pokémon on the floor. B S L じぶんを よこどりじょうたいにかえる フロアじゅうで つかわれた わざの こうかを よこどりする MD GtI UNUSED S MD The Snatch status lets you steal the effects of a recovery move or status move used nearby. But there are some moves that can't be stolen, so be careful! MD RT DX It gives the Snatch status, which lets you steal the effects of a recovery move or status move used nearby. There are some moves that can't be stolen, so be careful!"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation III , the status screen erroneously states that the move has 100% accuracy, even though it targets the user (thus it ignores accuracy and evasion checks). In Pokémon Brilliant Diamond and Shining Pearl , despite the move being unusable, Fantina uses a Banette that knows Snatch during the rematch . This was fixed in the 1.1.3 update, where Snatch was replaced with Payback ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Snatch",
+    "Snatch (move)"
+  ],
+  "updatedAt": 1773327213
+}

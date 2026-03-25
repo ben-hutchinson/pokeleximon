@@ -1,0 +1,17 @@
+{
+  "answerKey": "BEADSOFRUIN",
+  "answerDisplay": "BEADS OF RUIN",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this ability, and the list this ability Pokémon that learn it.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/ability/beads-of-ruin",
+  "extract": "Ruin, and the list of Pokémon that learn it.",
+  "rankPosition": 1,
+  "updatedAt": 1774210671
+}

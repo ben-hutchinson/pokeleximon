@@ -1,0 +1,62 @@
+{
+  "answerKey": "JUSTIFIED",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4473307,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Justified (Japanese: Heart of Justice) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description Conq. Raises Attack if hit by a Dark-type move. MD GtI The Pokemon's attack goes up each time it's hit by a Dark-type move. * Each time the Pokemon is hit by a Dark-type move, its Attack goes up! * S MD Each time the Pokemon is hit by a Dark-type move, its Attack goes up!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Justified is hit by a Dark-type damaging move, its Attack is increased by one stage. This Ability does not provide immunity or reduction to the damage, nor does it activate from a Dark-type move hitting its Substitute . Dark-type multistrike moves (such as Beat Up ) will activate Justified once per strike, increasing the Attack stat that many stages. Outside of battle [ edit | edit source ] Justified has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with Justified is hit by a Dark-type damaging move, its Attack is increased by one stage. This Ability does not provide immunity or reduction to the damage, nor does it activate from a Dark-type move hitting its Substitute . Dark-type multistrike moves (such as Beat Up ) will activate Justified once per strike, increasing the Attack stat that many stages.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Raises Attack one stage upon taking damage from a dark move.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "boosting trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "boosting trait"
+    ],
+    "connections_descriptors": [
+      "Boosting abilities",
+      "Gen V abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257958
+}

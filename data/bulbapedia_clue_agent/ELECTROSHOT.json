@@ -1,0 +1,91 @@
+{
+  "answerKey": "ELECTROSHOT",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4437970,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX Electric move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Electric special move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Effect [ edit | edit source ] On the turn it is selected, Electro Shot will raise the user's Special Attack stat by one stage, and the message \"[User] absorbed electricity!\" will be shown. On the following turn, Electro Shot will do damage (factoring in the Special Attack boost), PP will be deducted from it, and it will count as the last move used. Once Electro Shot is selected, the user won't be able to switch out until it is disrupted or fully executed. Electro Shot will not need a turn to charge if used during rain . If Electro Shot charges up for a turn before it is used, it will not go off if Disable is used on it. Sleep , freezing , and flinching will pause but not disrupt the duration of Electro Shot. If a Power Herb is held by the user, Electro Shot can be executed in one turn. The user will charge and boost their Special Attack, consume the Power Herb, then execute the final stage of the move in the same turn. The Special Attack boost is applied because the charging stage is still performed. Electro Shot's damage is boosted by Sheer Force despite not suppressing any additional effects. [ 1 ] https://twitter.com/i/web/status/1735811637041390039",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "130-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "switching move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "flinch-causing move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "boosting move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Electric special move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen IX Electric move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "130-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "electric special move"
+    ],
+    "connections_descriptors": [
+      "Switching moves",
+      "Flinch-Causing moves",
+      "Boosting moves",
+      "Electric Special moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257943
+}

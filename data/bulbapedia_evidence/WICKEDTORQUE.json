@@ -1,0 +1,30 @@
+{
+  "answerKey": "WICKEDTORQUE",
+  "answerDisplay": "WICKED TORQUE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Wicked Torque (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Wicked_Torque_(move)",
+  "pageId": 277875,
+  "pageRevisionId": 4317599,
+  "leadText": "Wicked Torque (Japanese: ダークアクセル Dark Accel) is a damage-dealing Dark-type move introduced in Generation IX. It is the signature move of the Segin Starmobile.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Wicked Torque inflicts damage and has a 10% chance of putting the target to sleep . Encore , Instruct , Mimic , and Sketch fail if the target's last used move was Wicked Torque. Copycat fails if the last used move was Wicked Torque."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V ---"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Wicked-Torque",
+    "Wicked Torque",
+    "Wicked-Torque (move)"
+  ],
+  "updatedAt": 1773328498
+}

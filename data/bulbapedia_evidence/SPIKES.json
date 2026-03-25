@@ -1,0 +1,33 @@
+{
+  "answerKey": "SPIKES",
+  "answerDisplay": "SPIKES",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Spikes (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Spikes_(move)",
+  "pageId": 3802,
+  "pageRevisionId": 4500957,
+  "leadText": "Spikes (Japanese: まきびし Caltrop) is a non-damaging Ground-type move introduced in Generation II. It is: TR23 in Pokémon Sword and Shield. TM090 in Pokémon Scarlet and Violet. TM088 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.1.1 Spikes glitch 1.2 Generations III and IV 1.3 Generation V 1.4 Generation VI onwards 1.5 Generation VIII 1.5.1 Pokemon Sword and Shield 1.5.2 Pokémon Legends: Arceus 1.6 Generation IX 1.6.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation II [ edit | edit source ] Spikes sets an entry hazard around the enemy team's field. Pokémon who switch into the spike-ridden field take 12.5% of their maximum HP in damage (rounded down). Flying-type Pokémon are immune to this damage. The move Rapid Spin removes Spikes around the user. In Pokémon Stadium 2 , if both players are forced to switch-in their last remaining Pokémon, and they have 12.5% or less HP, then they receive Spikes damage, faint and the match is declared a draw. Spikes glitch [ edit | edit source ] In this generation only, Pokémon fainting from Spikes will not run the regular faint checks until later, meaning that player can potentially end up with a Pokémon with 0HP on the field which hasn't fainted if the game loop doesn't do any further unrelated faint checks later. The easiest way to reproduce this is to have a Pokémon faint to Perish Song , then switch into a Pokémon who immediately faints from Spikes. Generations III and IV [ edit | edit source ] Spikes can now be set up to three times, each increasing the damage done to the opponent upon switching in. One layer of Spikes will damage the opponent Pokémon by 1/8 (12.5%) of its maximum HP, two layers will deal 1/6 (16.67%), and three layers will deal 1/4 (25%). Any Pokémon with Levitate will also be immune to the damage. The move Defog will remove Spikes around its target. Any Pokémon under the effect of Magnet Rise (if Baton Passed ) or the Magic Guard Ability are unaffected by the damage. However, Flying and Levitating Pokémon are affected under Gravity , while holding an Iron Ball , or if Baton Passed an Ingrain . Generation V [ edit | edit source ] Spikes can now be reflected with Magic Coat and the Ability Magic Bounce . Any Pokémon holding an Air Balloon will be immune to the damage. Generation VI onwards [ edit | edit source ] Defog now removes all Spikes from play regardless of which side of the field they were placed on. Spikes can be used as part of a Contest Spectacular combination , causing Circle Throw , Dragon Tail , Roar , and Whirlwind to give an extra three appeal points if used in the next turn. If powered up by a Groundium Z into Z-Spikes, the user's Defense stat rises by one stage. Generation VIII [ edit | edit source ] Pokemon Sword and Shield [ edit | edit source ] If a Pokémon is holding Heavy-Duty Boots , they are immune to Spikes when entering battle. Pokémon Legends: Arceus [ edit | edit source ] In Pokémon Legends: Arceus , Spikes is a physical move that deals direct damage with a base power of 40. It also leaves the target with splinters for 4 turns ( Strong Style ), 2 turns ( Agile Style ), or 3 turns (otherwise). Pokémon Legends: Arceus Category Physical PP 20 Agile Strong Power 40 30 50 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Turns 3 2 4 ? ? ? ? Leaves the target with splinters Generation IX [ edit | edit source ] Using Ceaseless Edge will set up one layer of spikes on the target's side of the field. Pokémon Legends: Z-A [ edit | edit source ] Like all entry hazard moves reimagined for Z-A, Spikes deploys its projectiles in a fan-shaped area in front of the user. Enemies take damage upon making contact with the caltrops and repeatedly if they stay inside the hazard for an extended period of time. Flying-types, even if they make visible contact, will not take damage from Spikes. Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 7s Move wind-up time 1 frame Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 An attack that scatters Spikes and injures opponent Pok é mon when they switch. G S C Hurts foes when they switch out. R S Colo XD Sets spikes that hurt a foe switching out. E Sets spikes that hurt a foe switching in. FR LG A trap of spikes is laid around the foe's party to hurt foes switching in. D P Pt HG SS PBR The user lays a trap of spikes at the foe's feet. The trap hurts foes that switch into battle. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP The user lays a trap of spikes at the opposing team's feet. The trap hurts Pokémon that switch into battle. LA The user lays a trap of spikes at the target's feet. The spikes left behind by this attack continue to damage the target for several turns. S V The user lays a trap of spikes at the feet of the opposing team. The spikes will damage opposing Pokémon that switch into battle. ZA The user lays a trap of sharp spikes in front of itself. The spikes will damage susceptible opposing Pokémon that make contact with them."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user places spikes underfoot. The Spiked Tile inflicts damage on foes that step on it. MD T D S Turns the user's tile into a Spiked Tile trap. A Spiked Tile trap inflicts damage on enemies that step on it. B S L あしもとに わな『まきびし』を つくる わな『まきびし』を ふんだ てきポケモンは ダメージをうける MD GtI UNUSED S MD It turns your tile into a Spikes trap. A Spikes trap damages Pokémon that step on it."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Spikes",
+    "Spikes (move)"
+  ],
+  "updatedAt": 1773327440
+}

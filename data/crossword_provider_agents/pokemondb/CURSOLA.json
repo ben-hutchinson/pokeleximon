@@ -1,0 +1,17 @@
+{
+  "answerKey": "CURSOLA",
+  "answerDisplay": "CURSOLA",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Ghost type Pokémon introduced in Generation 8.",
+  "score": 97.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/cursola",
+  "extract": "Cursola is a Ghost type Pokémon introduced in Generation 8 .",
+  "rankPosition": 1,
+  "updatedAt": 1774210949
+}

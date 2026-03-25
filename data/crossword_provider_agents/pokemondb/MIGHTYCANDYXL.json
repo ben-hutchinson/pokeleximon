@@ -1,0 +1,17 @@
+{
+  "answerKey": "MIGHTYCANDYXL",
+  "answerDisplay": "MIGHTY CANDY XL",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this item this item, including added effects and where to find it.",
+  "score": 92.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/item/mighty-candy-xl",
+  "extract": "Candy XL, including added effects and where to find it.",
+  "rankPosition": 1,
+  "updatedAt": 1774212082
+}

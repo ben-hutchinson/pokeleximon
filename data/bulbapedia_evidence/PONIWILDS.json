@@ -1,0 +1,26 @@
+{
+  "answerKey": "PONIWILDS",
+  "answerDisplay": "PONI WILDS",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Poni Wilds",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Poni_Wilds",
+  "pageId": 218470,
+  "pageRevisionId": 4245592,
+  "leadText": "Poni Wilds (Japanese: ポニの原野 Poni Wilderness) is a location on Poni Island in Alola, connecting to the Seafolk Village in the south and the Ancient Poni Path in the east.",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] An NPC in the area says \"We're going on a Berry hunt. We're going to find a big one!\", a reference to the children's book We're Going on a Bear Hunt by Michael Rosen ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Poni-Wilds",
+    "Poni Wilds",
+    "Poni-Wilds (location)"
+  ],
+  "updatedAt": 1773325959
+}

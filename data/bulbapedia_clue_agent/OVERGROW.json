@@ -1,0 +1,82 @@
+{
+  "answerKey": "OVERGROW",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4494951,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Overgrow (Japanese: Fresh Greenery) is an Ability introduced in Generation III. All Grass-type first partner Pokemon have this Ability.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Boosts the power of Grass-type moves when HP is low. MD T D S Boosts the power of the Pokemon's Grass-type moves when its HP is low. B S L Conq. Raises Attack when HP is low. MD GtI When the Pokemon's HP is low, the power of its Grass-type moves goes up. * When the Pokemon's HP is low, the power of Grass-type moves goes up! * S MD When the Pokemon's HP is low, the power of Grass-type moves goes up! MD RT DX When the Pokemon's HP is low, the power of Grass-type moves goes up.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations III to IV 1.1.2 Generations V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations III to IV [ edit | edit source ] When a Pokemon with Overgrow uses a Grass-type move , the move's power will be increased by 50% if the user has less than or equal to of its maximum HP remaining. Generations V onward [ edit | edit source ] Instead of boosting Grass-type moves' power, Overgrow now technically boosts the Pokemon's Attack or Special Attack by 50% during damage calculation if a Grass-type move is being used, resulting in effectively the same effect. Outside of battle [ edit | edit source ] Overgrow has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Generations III to IV [ edit | edit source ] When a Pokemon with Overgrow uses a Grass-type move , the move's power will be increased by 50% if the user has less than or equal to of its maximum HP remaining. Generations V onward [ edit | edit source ] Instead of boosting Grass-type moves' power, Overgrow now technically boosts the Pokemon's Attack or Special Attack by 50% during damage calculation if a Grass-type move is being used, resulting in effectively the same effect.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Strengthens grass moves to inflict 1.5 damage at 1/3 max HP or less.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Boosts Grass-type moves at low HP",
+        "evidence_ref": "Description",
+        "specificity": 0.88
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Boosts Grass-type moves at low HP",
+        "evidence_ref": "Description",
+        "mystery_score": 0.76,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Low-HP Grass boost",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Grass-power when weakened",
+        "evidence_ref": "Description",
+        "mystery_score": 0.66,
+        "specificity_score": 0.8,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "grass boost",
+      "low-hp power trait"
+    ],
+    "connections_descriptors": [
+      "Low-HP Grass abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257988
+}

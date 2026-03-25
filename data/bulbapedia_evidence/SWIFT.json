@@ -1,0 +1,37 @@
+{
+  "answerKey": "SWIFT",
+  "answerDisplay": "SWIFT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Swift (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Swift_(move)",
+  "pageId": 3738,
+  "pageRevisionId": 4503877,
+  "leadText": "Swift (Japanese: スピードスター Speed Star) is a damage-dealing Normal-type move introduced in Generation I. It is: TM39 in Generations I and II. TM40 in Pokémon Sword and Shield TM032 in Pokémon Scarlet and Violet. TM027 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II onwards 1.3 Generation VIII 1.3.1 Pokémon Legends: Arceus 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] This move effect may be in need of research. Reason: Whether Swift can miss in Pokémon Stadium You can discuss this on the talk page. Generation I [ edit | edit source ] In the Western versions of the Generation I handheld games, as well as in Pokémon Stadium , Swift inflicts damage and bypasses accuracy checks to always hit. It can hit a Pokémon even during the semi-invulnerable turn of a move such as Dig or Fly . In the Japanese versions of the Generation I handheld games, Swift functions as a 100% accuracy move due to a glitch , unless the opponent is behind a substitute ; if it is, Swift can never miss, even if the target is in the semi-invulnerable turn of a move such as Dig or Fly. Generation II onwards [ edit | edit source ] Swift now bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . Swift hits opposing adjacent Pokémon in battles featuring multiple Pokémon. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Special PP 20 Agile Strong Power 60 45 75 Accuracy —% —% —% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect ? ? ? ? ? ? None Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 60 72 Cooldown 5s Move wind-up time 10 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A Normal -type attack. It is highly accurate, so it can be counted on to inflict damage. G S C An attack that never misses. R S E Colo XD Sprays star-shaped rays that never miss. FR LG Star-shaped rays that never miss are fired at all foes in battle. D P Pt HG SS PBR Star-shaped rays are shot at the foe. This attack never misses. B W B2 W2 Star-shaped rays are shot at the opposing team. This attack never misses. X Y OR AS S M US UM P E Star-shaped rays are shot at the opposing Pokémon. This attack never misses. Sw Sh BD SP S V Star-shaped rays are shot at opposing Pokémon. This attack never misses. LA Star-shaped rays are shot at the target. This attack never misses. ZA The user attacks by firing star-shaped rays at targets."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. It never misses. B S L てきポケモンに ダメージをあたえる かならず めいちゅうする MD GtI S MD MD RT DX It damages an enemy. It never misses."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Its Japanese name, Speed Star, can also mean \"Speedster,\" hence its English name being \"Swift.\" Prior to Generation VI, Swift was the only sure-hit move that hits both opponents during a Double Battle . Starting in Generation VI, Disarming Voice also meets these conditions. All Fire-type first partner Pokémon and their Evolutions can learn Swift via Platinum, HeartGold, and SoulSilver Move Tutors. In The Electric Tale of Pikachu , Ash's Pikachu 's Swift is referred to as Speed Star, a literal translation of its Japanese name."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Swift",
+    "Swift (move)"
+  ],
+  "updatedAt": 1773327733
+}

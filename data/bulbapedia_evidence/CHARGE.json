@@ -1,0 +1,37 @@
+{
+  "answerKey": "CHARGE",
+  "answerDisplay": "CHARGE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Charge (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Charge_(move)",
+  "pageId": 3879,
+  "pageRevisionId": 4500972,
+  "leadText": "If you were looking for the move called Charge in Japanese, see Take Down. Charge (Japanese: じゅうでん Charge) is a non-damaging Electric-type move introduced in Generation III. It is TM173 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III 1.2 Generation IV-VIII 1.3 Generation IX 1.3.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation III [ edit | edit source ] If the user's next move is Electric-type , it will deal twice the usual amount of damage. If its next move is not Electric-type or is a non-damaging move, the effect of Charge wears off without being used. Charge can be used as the first move of a Pokémon Contest combination , causing Shock Wave , Spark , Thunder , Thunder Wave , ThunderPunch , ThunderShock , Thunderbolt , and Volt Tackle to score double the normal appeal if used in the next turn. Generation IV-VIII [ edit | edit source ] If the user's next move is an Electric-type Attack, its power will be doubled instead of the damage dealt (resulting in virtually the same effect). But if the next move is a Status move, non-Electric-type Attack or hits into Protect/an immunity, the Charge is lost. Charge now also raises the user's Special Defense stat by one stage. Charge can also be used as part of a Super Contest combination , with Thunder Fang having more appeal points if used in the next turn. It is also part of a Contest Spectacular combination, causing a damaging Electric-type move (except Electroweb , Wild Charge and Zap Cannon ) to give an extra three appeal points if used in the next turn. If powered up by an Electrium Z into Z-Charge, the user's Special Defense is raised by another stage. Generation IX [ edit | edit source ] If the user's next move is not Electric-type, Charge no longer wears off, and instead remains active for the next move that is. However, if the user attempted to use an Electric-type move, Charge will still wear off even if a condition prevented the move from being used, such as being asleep or flinching . Multiple instances of the Charge effect (using Charge multiple times while the user's Ability is Normalize , or using Charge followed by an activation of Electromorphosis or Wind Power ) are not cumulative; the next Electric-type move will still only deal twice as much damage, and no instances of the effect will linger to be used on subsequent moves. When a Pokémon with the Ability Electromorphosis is hit by an attack, the effects of Charge are automatically replicated. Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 10s Move wind-up time 30 frames Effect duration 15s 18s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Colo XD Charges power to boost the electric move used next. FR LG The user charges power to boost the Electric move it uses next. D P Pt HG SS PBR The user boosts the power of the Electric move it uses next. It also raises the user's Sp. Def stat. B W B2 W2 The user boosts the power of the Electric move it uses on the next turn. It also raises the user's Sp. Def stat. X Y OR AS S M US UM P E Sw Sh BD SP LA The user boosts the power of the Electric move it uses on the next turn. This also raises the user's Sp. Def stat. S V The user becomes charged, boosting the power of the next Electric-type move it uses. This also boosts the user's Sp. Def stat. ZA The user charges up to boost the power of the next Electric-type move it uses. This also boosts the user's Sp. Def stat for a short time."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Charging status. It boosts the power of the Electric-type move to be used next. MD T D S Gives the user a Charging status, which boosts the power of any Electric-type move used on the next turn. It also boosts the user's Special Defense by 1 level. B S L じぶんを じゅうでんじょうたいにして つぎにつかった でんきタイプの わざの いりょくを たかめる しかも じぶんの とくぼうを １だんかいあげる MD GtI You'll get the Charging status, which boosts the power of Electric-type moves used on the next turn. It also boosts your Special Defense. (The stat change returns to normal when you go to the next floor or step on a Wonder Tile.) S MD You'll get the Charging status, which boosts the power of Electric-type moves used on the next turn. It also boosts your Sp. Def. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as TCG attack . In Generation III , the status screen erroneously states that the move has 100% accuracy, even though it targets the user (thus it ignores accuracy and evasion checks)."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Charge",
+    "Charge (move)"
+  ],
+  "updatedAt": 1773321574
+}

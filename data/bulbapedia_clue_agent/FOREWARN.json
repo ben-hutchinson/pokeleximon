@@ -1,0 +1,73 @@
+{
+  "answerKey": "FOREWARN",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4373167,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Forewarn (Japanese: Prophetic Dream) is an Ability introduced in Generation IV.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD T D S Enables the Pokemon to evade attacks occasionally. B S L MD GtI While the Pokemon sleeps, items and other Pokemon will be shown on the map of the floor. * The position of Pokemon and items on the floor is displayed on the map while the Pokemon is in the Sleep, Napping, or Nightmare status condition! * S MD The locations of Pokemon and items on the floor are displayed on the map when the Pokemon is in the sleep, napping, or nightmare status condition! MD RT DX The locations of Pokemon and items on the floor will become apparent when the Pokemon has the Sleep, Napping, or Nightmare condition.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Forewarn shows the opponent's move with the highest power . If two or more moves are of the same power, one will be chosen at random. In battles with multiple opponents, Forewarn will only show the highest power move out of all the moves known by the opponents. If multiple opponents have a move with the same power, one will be chosen at random. Forewarn can reveal a move of a non-adjacent opponent even if the move wouldn't be able to hit the Pokemon with Forewarn due to being out of range. Damaging moves without a power (i.e. moves that deal direct damage and moves that have variable power ) are assigned one. If the opposing Pokemon only have status moves , it will still assign one to them. If the opposing Pokemon is Dynamaxed , it will only assign a move from the Pokemon's base moves. This Ability effect may be in need of research. Reason: Check the powers assigned to moves without them in Gen V and VI (the list may only be accurate to Gen IV: Hidden Power probably only has a power assigned prior to Gen VI, and other moves are probably assigned 80), is Dragon Energy affected? You can discuss this on the talk page. Power Moves 150 Blast Burn , Eruption , Water Spout , One-hit knockout moves ( Fissure , Guillotine , Horn Drill , Sheer Cold ) 120 Counter , Metal Burst , Mirror Coat 80 Crush Grip , Dragon Rage , Electro Ball , Endeavor , Final Gambit , Flail , Fling , Frustration , Grass Knot , Guardian of Alola , Gyro Ball , Heat Crash , Heavy Slam , Hidden Power (prior to Generation VI ), Low Kick , Natural Gift , Nature's Madness , Night Shade , Present , Psywave , Punishment , Return , Reversal , Seismic Toss , Sonic Boom , Spit Up , Super Fang , Trump Card , Wring Out , Z-Moves 20 Stored Power , Power Trip Outside of battle [ edit | edit source ] Forewarn has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Forewarn shows the opponent's move with the highest power . If two or more moves are of the same power, one will be chosen at random. In battles with multiple opponents, Forewarn will only show the highest power move out of all the moves known by the opponents. If multiple opponents have a move with the same power, one will be chosen at random. Forewarn can reveal a move of a non-adjacent opponent even if the move wouldn't be able to hit the Pokemon with Forewarn due to being out of range. Damaging moves without a power (i.e. moves that deal direct damage and moves that have variable power ) are assigned one. If the opposing Pokemon only have status moves , it will still assign one to them. If the opposing Pokemon is Dynamaxed , it will only assign a move from the Pokemon's base moves. This Ability effect may be in need of research. Reason: Check the powers assigned to moves without them in Gen V and VI (the list may only be accurate to Gen IV: Hidden Power probably only has a power assigned prior to Gen VI, and other moves are probably assigned 80), is Dragon Energy affected? You can discuss this on the talk page. Power Moves 150 Blast Burn , Eruption , Water Spout , One-hit knockout moves ( Fissure , Guillotine , Horn Drill , Sheer Cold ) 120 Counter , Metal Burst , Mirror Coat 80 Crush Grip , Dragon Rage , Electro Ball , Endeavor , Final Gambit , Flail , Fling , Frustration , Grass Knot , Guardian of Alola , Gyro Ball , Heat Crash , Heavy Slam , Hidden Power (prior to Generation VI ), Low Kick , Natural Gift , Nature's Madness , Night Shade , Present , Psywave , Punishment , Return , Reversal , Seismic Toss , Sonic Boom , Spit Up , Super Fang , Trump Card , Wring Out , Z-Moves 20 Stored Power , Power Trip",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Reveals the opponents' strongest move upon entering battle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "burning ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "burning ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Burning abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257947
+}

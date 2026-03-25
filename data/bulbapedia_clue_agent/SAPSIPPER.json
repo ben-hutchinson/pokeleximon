@@ -1,0 +1,73 @@
+{
+  "answerKey": "SAPSIPPER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4275922,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Sap Sipper (Japanese: Herbivorous) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD GtI Unavailable S MD Grass-type moves don't work on the Pokemon, and they cause the Pokemon's Attack to go up!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation V 1.1.2 Generation VI onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation V [ edit | edit source ] When a Pokemon with Sap Sipper is hit by a Grass-type move , its Attack is increased by one stage, and the move will have no effect on that Pokemon. Multistrike moves , such as Bullet Seed , will only increase the Pokemon's Attack once. Aromatherapy will not activate Sap Sipper. Sap Sipper will not activate if the Pokemon is protected from the Grass-type move. Generation VI onward [ edit | edit source ] Aromatherapy now activates Sap Sipper of allies. Outside of battle [ edit | edit source ] Sap Sipper has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Generation V [ edit | edit source ] When a Pokemon with Sap Sipper is hit by a Grass-type move , its Attack is increased by one stage, and the move will have no effect on that Pokemon. Multistrike moves , such as Bullet Seed , will only increase the Pokemon's Attack once. Aromatherapy will not activate Sap Sipper. Sap Sipper will not activate if the Pokemon is protected from the Grass-type move. Generation VI onward [ edit | edit source ] Aromatherapy now activates Sap Sipper of allies.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Absorbs grass moves, raising Attack one stage.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "protective ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "protective ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Protective abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258006
+}

@@ -1,0 +1,33 @@
+{
+  "answerKey": "TRUANT",
+  "answerDisplay": "TRUANT",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Truant (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Truant_(Ability)",
+  "pageId": 4130,
+  "pageRevisionId": 4499435,
+  "leadText": "Truant (Japanese: なまけ Lazy) is an Ability introduced in Generation III. Prior to Generation V and in Generation IX, it is the signature Ability of Slakoth and Slaking.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Every second turn, a Pokémon with Truant cannot use a move due to loafing around, such that the Pokémon can move on its first turn but not its second turn. Switching out or gaining the Ability Truant resets the turn count for Truant. Using an item does not count as a turn for the purposes of Truant. In Generation V , Truant is reset by sleep and a Pokémon with Truant will always be able to attack on the turn it wakes up. In Generation III , using a healing item counts as a turn for Truant. Moves with a charging turn , such as Fly , will not work (unless the user is holding a Power Herb ), because the turn in which the move would be executed is the same turn in which the Pokémon will be truant. If a Pokémon with Truant uses a move that forces it to recharge next turn (such as Hyper Beam ), then it will loaf around and recharge during the same turn. Because of the recharge, this Pokémon will be unable to use items or switch out on this turn. If a Pokémon gains Truant after it calls upon Mega Evolution , Ultra Burst , or Dynamax at the beginning of a turn, but before it moves that turn, Truant will activate on its first attempt to move. Truant cannot be overwritten by Simple Beam , Worry Seed , or Entrainment , but it can be overwritten by Skill Swap , Role Play , Doodle , or Mummy , or disabled with Gastro Acid or Neutralizing Gas . If a Pokémon with Truant uses a move and is then Instructed to use the move again, the Pokémon will loaf around instead of executing that move. Then, in the next turn, the Pokémon with Truant will be able to use a move normally. If a Pokémon with Truant is sent out following an ally Pokémon fainting to end-of-turn damage, Truant will activate on its first attempt to move. Encore will force a Pokémon with Truant to be locked into using the last move used. Outside of battle [ edit | edit source ] Truant has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Every second turn, a Pokémon with Truant cannot use a move due to loafing around, such that the Pokémon can move on its first turn but not its second turn. Switching out or gaining the Ability Truant resets the turn count for Truant. Using an item does not count as a turn for the purposes of Truant. In Generation V , Truant is reset by sleep and a Pokémon with Truant will always be able to attack on the turn it wakes up. In Generation III , using a healing item counts as a turn for Truant. Moves with a charging turn , such as Fly , will not work (unless the user is holding a Power Herb ), because the turn in which the move would be executed is the same turn in which the Pokémon will be truant. If a Pokémon with Truant uses a move that forces it to recharge next turn (such as Hyper Beam ), then it will loaf around and recharge during the same turn. Because of the recharge, this Pokémon will be unable to use items or switch out on this turn. If a Pokémon gains Truant after it calls upon Mega Evolution , Ultra Burst , or Dynamax at the beginning of a turn, but before it moves that turn, Truant will activate on its first attempt to move. Truant cannot be overwritten by Simple Beam , Worry Seed , or Entrainment , but it can be overwritten by Skill Swap , Role Play , Doodle , or Mummy , or disabled with Gastro Acid or Neutralizing Gas . If a Pokémon with Truant uses a move and is then Instructed to use the move again, the Pokémon will loaf around instead of executing that move. Then, in the next turn, the Pokémon with Truant will be able to use a move normally. If a Pokémon with Truant is sent out following an ally Pokémon fainting to end-of-turn damage, Truant will activate on its first attempt to move. Encore will force a Pokémon with Truant to be locked into using the last move used."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Prevents action in your next turn after using a move or a Wonder Orb. MD T D S Keeps the Pokémon from taking an action in the turn after using a move or a Wonder Orb. B S L わざを くりだしたり ふしぎだまを つかった つぎのターンは こうどうできない MD GtI Unavailable S MD When the Pokémon uses a move, it will get the truant status condition! Also, if an enemy Pokémon is next to the sleeping Pokémon with this Ability, it will get the yawning status condition! MD RT DX When the Pokémon uses a move, it will get the Truant condition. Also, if an enemy Pokémon is next to a sleeping Pokémon with this Ability, the enemy will sometimes get the Yawning condition."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Truant",
+    "Truant (Ability)"
+  ],
+  "updatedAt": 1773328115
+}

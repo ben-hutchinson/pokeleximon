@@ -1,0 +1,38 @@
+{
+  "answerKey": "AQUARING",
+  "answerDisplay": "AQUA RING",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Aqua Ring (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Aqua_Ring_(move)",
+  "pageId": 18881,
+  "pageRevisionId": 4453076,
+  "leadText": "Aqua Ring (Japanese: アクアリング Aqua Ring) is a non-damaging Water-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] The user surrounds itself with a veil of water, allowing it to restore 1/16 of its maximum HP (rounded down) at the end of every turn. Aqua Ring works regardless of the user's type . If the affected Pokémon is holding a Big Root , the amount of restored HP is increased by 30%. A Pokémon affected by Heal Block can still use Aqua Ring, but the veil of water will not restore the user's HP as long as Heal Block is in effect. The effect of Aqua Ring can be Baton Passed . If powered up by a Waterium Z into Z-Aqua Ring, the user's Defense stat rises by one stage. In Generation IV only, Aqua Ring cannot be stolen by Snatch . It can be stolen by Snatch from Generation V onwards. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 10s Move wind-up time 50 frames 35 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR B W B2 W2 The user envelops itself in a veil made of water. It regains some HP on every turn. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user envelops itself in a veil made of water. It regains some HP every turn. ZA The user summons a ring of water that will gradually restore its HP."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Gives the user the Aqua Ring status, which restores its HP every few turns. B S L じぶんを アクアリングじょうたいにかえる いっていターンごとに ＨＰが かいふくする MD GtI You'll get the Aqua Ring status, which keeps restoring your HP. S MD It keeps restoring your HP. * You'll get the Aqua Ring status condition, which keeps restoring your HP. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] As shown in Cilan Takes Flight! and An Amazing Aerial Battle! , Aqua Ring appears to have extra effects in the animated series , such as being able to heal the user's burns and block Electric-type attacks."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Aqua-Ring",
+    "Aqua Ring",
+    "Aqua-Ring (move)"
+  ],
+  "updatedAt": 1773320834
+}

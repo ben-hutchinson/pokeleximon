@@ -1,0 +1,37 @@
+{
+  "answerKey": "AGILITY",
+  "answerDisplay": "AGILITY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Agility (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Agility_(move)",
+  "pageId": 3706,
+  "pageRevisionId": 4503811,
+  "leadText": "This article is about the move Agility. For the field move, see Field Move (Ranger). Agility (Japanese: こうそくいどう High-speed Movement) is a non-damaging Psychic-type move introduced in Generation I. It is: TR12 in Pokémon Sword and Shield. TM004 in Pokémon Scarlet and Violet. TM047 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Agility increases the user's Speed by two stages. Agility can be used as the second move of a Pokémon Contest combination , with the user gaining 3 bonus appeal points if Double Team was used in the previous turn. It is also part of a Contest Spectacular combination and using it will cause Baton Pass and Electro Ball to give extra three appeal points if used in the next turn. If powered up by a Psychium Z into Z-Agility, all of the user's lowered stats are reset. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 12s Move wind-up time 30 frames Effect duration 15s 18s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A special technique that greatly boosts the user's Speed . Can normally be used up to three times. Stad2 A special move that greatly boosts the user's Speed . Normally used up to three times. G S C Sharply increases the user's Speed . R S E Colo XD Relaxes the body to sharply boost Speed . FR LG The user relaxes and lightens its body to sharply boost its Speed . D P Pt HG SS PBR B W B2 W2 The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat. X Y OR AS S M US UM P E Sw Sh BD SP LA The user relaxes and lightens its body to move faster. This sharply raises the Speed stat. S V The user relaxes and lightens its body to move faster. This sharply boosts its Speed stat. ZA The user relaxes its muscles to make its body feel lighter, increasing the user's movement speed for a short time."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts by one level the Movement Speed of the user and team members in the same room. MD T D S Boosts the Movement Speed of the user and team members in the room by 1 level. B S L おなじへやの なかまポケモンと じぶんの いどうそくどを １だんかいあげる MD GtI S MD MD RT DX It boosts the Travel Speed of you and your teammates in the same room."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Prior to Generation V , Shedinja is able to know Agility by leveling up if Nincada is allowed to evolve only at level 38, as Ninjask learns this move at this level."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Agility",
+    "Agility (move)"
+  ],
+  "updatedAt": 1773320709
+}

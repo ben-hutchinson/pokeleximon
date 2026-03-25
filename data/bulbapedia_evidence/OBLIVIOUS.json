@@ -1,0 +1,37 @@
+{
+  "answerKey": "OBLIVIOUS",
+  "answerDisplay": "OBLIVIOUS",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Oblivious (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Oblivious_(Ability)",
+  "pageId": 4089,
+  "pageRevisionId": 4493485,
+  "leadText": "This article is about the Ability that prevents infatuation. For the Ability with a synonymous meaning, see Unaware (Ability). Oblivious (Japanese: どんかん Thickheaded) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV 1.1.3 Generation V 1.1.4 Generation VI to VII 1.1.5 Generation VIII onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] A Pokémon with Oblivious cannot be affected by infatuation or by Captivate . If an infatuated Pokémon gains the Ability in battle (such as from Skill Swap ), it will be cured of infatuation. If the Pokémon with this Ability is holding a Destiny Knot , the Destiny Knot will be activated before Oblivious cures the Pokémon of infatuation. Generation III [ edit | edit source ] Oblivious has no effect against Intimidate or Taunt . Generation IV [ edit | edit source ] If the Pokémon with this Ability is infatuated and is holding a Mental Herb , Oblivious will cure the Pokémon of infatuation before the Mental Herb has a chance to be consumed. Generation V [ edit | edit source ] If the Pokémon with this Ability is infatuated and is holding a Mental Herb , the Mental Herb will be consumed before Oblivious cures the Pokémon of infatuation. Generation VI to VII [ edit | edit source ] Oblivious now prevents the Pokémon from being afflicted by Taunt . If a taunted Pokémon gains the Ability in battle (such as from Skill Swap ), it will shake off the taunt. If a Pokémon with Oblivious is taunted by a Pokémon with an Ability like Mold Breaker , the taunting will take effect, but it will then be cured once the Pokémon regains Oblivious. If the Pokémon is holding a Mental Herb , it will be consumed before Oblivious cures the Pokémon of the Taunt. Generation VIII onward [ edit | edit source ] Oblivious now also blocks Intimidate . Outside of battle [ edit | edit source ] Oblivious has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "Contents 1 In battle 1.1 Generation III 1.2 Generation IV 1.3 Generation V 1.4 Generation VI to VII 1.5 Generation VIII onward In battle [ edit | edit source ] A Pokémon with Oblivious cannot be affected by infatuation or by Captivate . If an infatuated Pokémon gains the Ability in battle (such as from Skill Swap ), it will be cured of infatuation. If the Pokémon with this Ability is holding a Destiny Knot , the Destiny Knot will be activated before Oblivious cures the Pokémon of infatuation. Generation III [ edit | edit source ] Oblivious has no effect against Intimidate or Taunt . Generation IV [ edit | edit source ] If the Pokémon with this Ability is infatuated and is holding a Mental Herb , Oblivious will cure the Pokémon of infatuation before the Mental Herb has a chance to be consumed. Generation V [ edit | edit source ] If the Pokémon with this Ability is infatuated and is holding a Mental Herb , the Mental Herb will be consumed before Oblivious cures the Pokémon of infatuation. Generation VI to VII [ edit | edit source ] Oblivious now prevents the Pokémon from being afflicted by Taunt . If a taunted Pokémon gains the Ability in battle (such as from Skill Swap ), it will shake off the taunt. If a Pokémon with Oblivious is taunted by a Pokémon with an Ability like Mold Breaker , the taunting will take effect, but it will then be cured once the Pokémon regains Oblivious. If the Pokémon is holding a Mental Herb , it will be consumed before Oblivious cures the Pokémon of the Taunt. Generation VIII onward [ edit | edit source ] Oblivious now also blocks Intimidate ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Prevents infatuation. MD T D S Protects the Pokémon from infatuation. B S L メロメロじょうたいに ならない MD GtI Prevents the Infatuated status and protects the Pokémon from the move Captivate. * The Pokémon isn't affected by the Infatuated status condition. Captivate doesn't even work on it! * S MD The Pokémon won't get infatuated. Captivate and Taunt don't work on it, either! MD RT DX The Pokémon won't get infatuated. Captivate and Taunt don't work on it, either."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This Ability originated as a TCG Poké-BODY . Due to a glitch in Generation IV , if a Pokémon has a non-volatile status condition and has its infatuation cured by Oblivious, the status condition icon will disappear from the HP bar while that Pokémon is in battle; however, it will still be displayed in the party menu and will be restored if the Pokémon switches out and then back in. The same is true for confusion and Own Tempo ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Oblivious",
+    "Oblivious (Ability)"
+  ],
+  "updatedAt": 1773325438
+}

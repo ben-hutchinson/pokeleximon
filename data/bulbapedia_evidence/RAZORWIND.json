@@ -1,0 +1,38 @@
+{
+  "answerKey": "RAZORWIND",
+  "answerDisplay": "RAZOR WIND",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Razor Wind (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Razor_Wind_(move)",
+  "pageId": 3621,
+  "pageRevisionId": 4503932,
+  "leadText": "If you were looking for the exploration team in the Mystery Dungeon games, see Team (Mystery Dungeon)#Team Razor Wind. Razor Wind (Japanese: かまいたち Razor Wind) is a damage-dealing Normal-type move introduced in Generation I. It is TM02 in Generation I and TM145 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generation III 1.4 Generation IV to VII 1.5 Generation VIII 1.6 Generation IX 1.6.1 Pokémon Scarlet and Violet 1.6.2 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I [ edit | edit source ] Razor Wind does nothing on the turn it is selected, other than saying \" made a whirlwind!\" . On the following turn, Razor Wind inflicts damage, PP is deducted, and it will count as the last move used. Once Razor Wind is selected, the user will be unable to switch out until Razor Wind has been disrupted or fully executed. Razor Wind has 75% accuracy. If Razor Wind is not fully executed, PP will not be deducted, and it will not count as the last move used. If the target uses Mirror Move during the turn that the user creates a whirlwind, Mirror Move will copy the move that the user executed immediately before using Razor Wind (or fail if it cannot). Sleep , freeze , binding , and flinching will pause but not disrupt the duration of Razor Wind. In Pokémon Stadium , Mirror Move will copy Razor Wind on either of the turns it takes to execute. Generation II [ edit | edit source ] Razor Wind now has an increased critical hit ratio. If Razor Wind is disrupted from succeeding due to conditions such as flinching, paralysis, confusion, or sleep, the entire move will fail rather than being simply paused. Generation III [ edit | edit source ] Razor Wind now has an accuracy of 100%. It has no increased critical hit ratio. The charging turn now says \" whipped up a whirlwind!\" In battles with multiple opponents, it targets all adjacent opponents. Generation IV to VII [ edit | edit source ] Razor Wind again has an increased critical hit ratio. If a Power Herb is held by the user, Razor Wind can be executed in one turn. Generation VIII [ edit | edit source ] Razor Wind cannot be selected in a battle. Generation IX [ edit | edit source ] Pokémon Scarlet and Violet [ edit | edit source ] Razor Wind cannot be selected in a battle. Pokémon Legends: Z-A [ edit | edit source ] Starting from the Mega Dimension DLC, Razor Wind is selectable again. Razor Wind is now a multistrike move with 40 power which has a long wind-up time, but releases 5 projectiles that follow the target. When used as a Plus Move , it releases 6 projectiles instead. Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 40 48 Cooldown 12s Move wind-up time 70 frames Effect duration —s Additional effect — — — Has an increased critical-hit ratio"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A two-turn attack with the wind attack in the second turn. Learned by many Flying -type Pok é mon . Stad2 A two-turn attack with the wind attack in the second turn. Learned by many Flying types. G S C 1st turn: Prepare 2nd turn: Attack R S E A 2-turn move that strikes the foe on the 2nd turn. FR LG Blades of wind hit the foe on the 2nd turn. It has a high critical-hit ratio. Colo XD A 2-turn move that strikes the target on the 2nd turn. D P Pt HG SS PBR A two-turn attack. Blades of wind hit the foe on the second turn. It has a high critical-hit ratio. B W B2 W2 X Y OR AS A two-turn attack. Blades of wind hit opposing Pokémon on the second turn. Critical hits land more easily. S M US UM P E In this two-turn attack, blades of wind hit opposing Pokémon on the second turn. Critical hits land more easily. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. ZA The user attacks with numerous blades of wind. This move has a heightened chance of landing a critical hit, but it takes some time to carry out."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Razor Wind status, and it looses a powerful attack with a high critical-hit rate on the next turn. It is not possible to link this move. MD T D S Gives the user the Razor Wind status, which causes the Pokémon to charge power for 1 turn and then try a powerful attack with a high critical-hit rate on the next turn. You can't link this move. B S L かまいたちじょうたいになり つぎの こうどうで いりょくがたかく きゅうしょに あたりやすい こうげきを くりだす このわざは ポケモンタワーでは くりだせない MD GtI UNUSED S MD You'll get the Razor Wind status condition, which lets you charge power to try a powerful move on the next turn. It has a high critical-hit rate."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In FireRed and LeafGreen , Razor Wind's in-game description states it has an increased critical hit ratio. However, Razor Wind does not have an increased critical hit ratio in Generation III. Despite being introduced in Generation I , no Pokémon could learn it by leveling up until Generation III . No Pokémon are able to learn Razor Wind in Generation II without the player trading with a Generation I game first. Razor Wind has the lowest index number of all special moves . The Japanese name of the move, Kamaitachi , is a direct reference to the Japanese yōkai of the same name. Kamaitachi is a weasel that is depicted with sharp claws, riding on a gust of wind and cutting people's skin on the legs. Despite Sneasel being based on it, it cannot learn Razor Wind. Razor Wind is one of the two moves with a charging turn that cannot be used in Generation VIII , the other being Sky Drop ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Razor-Wind",
+    "Razor Wind",
+    "Razor-Wind (move)"
+  ],
+  "updatedAt": 1773326281
+}

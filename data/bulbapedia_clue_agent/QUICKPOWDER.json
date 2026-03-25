@@ -1,0 +1,70 @@
+{
+  "answerKey": "QUICKPOWDER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4488187,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "species specific",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen IV species specific",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Doubles Dittos Speed when held. The boost is lost after transforming.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Boosts Speed Stat Of A Ditto's stats",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Speed Stat Of A Ditto Speed Stat boost item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Power item for Speed Stat Of A Ditto",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Speed Stat Of A Ditto-only held item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "speed stat of a ditto item"
+    ],
+    "connections_descriptors": [
+      "Gen IV items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257998
+}

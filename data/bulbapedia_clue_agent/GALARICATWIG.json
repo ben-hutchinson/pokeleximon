@@ -1,0 +1,97 @@
+{
+  "answerKey": "GALARICATWIG",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4467158,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "collectibles",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen VIII collectibles",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Effect [ edit | edit source ] On the Isle of Armor , eight Galarica Twigs can be given to a woman on a small island in the Workout Sea in exchange for a Galarica Cuff . In the Crown Tundra , fifteen Galarica Twigs can be given to a woman within the Roaring-Sea Caves in exchange for a Galarica Wreath . In the Coastal Biome within Blueberry Academy 's Terarium , Galarica Twigs can be given to a student in the Coastal Plaza next to the vending machines near the healing station, with the amounts of Twigs needed to create a Galarica Cuff and Wreath remaining the same at eight and fifteen, respectively.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Crafting or exchange material",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "lead",
+        "specificity": 0.74
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Crafting or exchange material",
+        "evidence_ref": "lead",
+        "mystery_score": 0.6,
+        "specificity_score": 0.74,
+        "style": "family"
+      },
+      {
+        "text": "Collectible crafting item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.7,
+        "style": "family"
+      },
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.66,
+        "specificity_score": 0.8,
+        "style": "family"
+      },
+      {
+        "text": "Exchangeable collectible",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.78,
+        "style": "family"
+      },
+      {
+        "text": "Tradable collectible",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.68,
+        "style": "family"
+      },
+      {
+        "text": "Collectible item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.48,
+        "specificity_score": 0.64,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "exchange item"
+    ],
+    "connections_descriptors": [
+      "Crafting materials",
+      "Gen VIII items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257948
+}

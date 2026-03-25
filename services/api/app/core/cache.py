@@ -14,6 +14,7 @@ def init_cache() -> None:
     if not redis_url:
         raise RuntimeError("REDIS_URL is not set")
     _client = redis.Redis.from_url(redis_url, decode_responses=True)
+    ping_cache()
 
 
 def close_cache() -> None:
@@ -27,3 +28,8 @@ def get_cache() -> redis.Redis:
     if _client is None:
         raise RuntimeError("Redis client is not initialized")
     return _client
+
+
+def ping_cache() -> None:
+    if not get_cache().ping():
+        raise RuntimeError("Redis ping failed")

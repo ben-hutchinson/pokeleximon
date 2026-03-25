@@ -1,0 +1,38 @@
+{
+  "answerKey": "DARKVOID",
+  "answerDisplay": "DARK VOID",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Dark Void (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dark_Void_(move)",
+  "pageId": 18903,
+  "pageRevisionId": 4500937,
+  "leadText": "This article is about the move Dark Void. For the Field Move Dark Power, see Field Move (Ranger). Dark Void (Japanese: ダークホール Dark Hole) is a non-damaging Dark-type move introduced in Generation IV. It is the signature move of Darkrai.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV-VI 1.2 Generation VII 1.3 Generation VIII 1.3.1 Pokémon Sword and Shield 1.3.2 Pokémon Legends: Arceus 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation IV-VI [ edit | edit source ] Dark Void puts all adjacent foes to sleep , with an accuracy of 80% for each Pokémon. Targets with Insomnia or Vital Spirit as their Ability or under the effects of Sweet Veil are unaffected by Dark Void. If sleep clause is active in Pokémon Battle Revolution in a Double Battle , Dark Void will only put one foe to sleep and will fail on the other Pokémon. Dark Void can also be used as part of a Contest Spectacular combination , causing certain moves ( Dream Eater , Hex , Nightmare and Wake-Up Slap ) to give an extra three appeal points if used in the next turn. Generation VII [ edit | edit source ] Dark Void's accuracy was reduced to 50% for each Pokémon. Dark Void can now only be successfully used by Darkrai (or a Pokémon that has transformed into Darkrai). Despite this, Dark Void is still selectable by Metronome , even though Darkrai cannot use Metronome. If this move is used by any other Pokémon (including via moves that call other moves ), the move will fail, displaying the battle text \"But can't use the move!\" . Dark Void will not fail when reflected by Magic Bounce . If powered up by a Darkinium Z into Z-Dark Void, all of the user's lowered stats are reset. Generation VIII [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] Dark Void cannot be selected in a battle. Pokémon Legends: Arceus [ edit | edit source ] In Pokémon Legends: Arceus , Dark Void's accuracy was raised to 90%, and lowers the user's action priority. It makes the target drowsy and lowers its defensive stats. Like all other moves in this game, it targets only one Pokémon. Pokémon Legends: Arceus Category Status PP 10 Agile Strong Power — — — Accuracy 90% 90% 100% Action speed modifier Self +5 +2 +8 Target 0 +3 0 Additional effect Turns 3 2 4 ? ? ? ? Inflicts the target with drowsiness Lowers the target's defensive stats Lowers the user's action speed Generation IX [ edit | edit source ] In Versions 1.0 to 1.3.2 of Pokémon Scarlet and Violet , Dark Void could not be selected in a battle. Starting with Version 2.0.1, it is usable and functions the same as it did in previous generations. Dark Void can no longer be copied by Sketch . Pokémon Legends: Z-A [ edit | edit source ] In Pokémon Legends: Z-A , Dark Void is a Special move with 60 power that inflicts damage, makes targets drowsy , and restores HP to the user equal to 50% of the damage dealt. Dark Void inflicts double damage to targets that are already drowsy. Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 60 72 Cooldown 12s Move wind-up time 35 frames Effect duration —s Additional effect Heal 50% — — Makes targets drowsy. Restores the user's HP by a percentage of damage dealt."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The foe is dragged into a world of total darkness that puts it to sleep. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP Opposing Pokémon are dragged into a world of total darkness that makes them sleep. LA The target is dragged into a world of total darkness that makes the target drowsy and lowers its defensive stats. S V Opposing Pokémon are dragged into a world of total darkness that puts them to sleep. ZA The user inflicts drowsiness through total darkness. This deals extra damage to already drowsy targets. The user's HP will be restored by a portion of the damage dealt."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Afflicts all enemies in the room with a Sleep status condition. B S L おなじへやの てきポケモンを すいみんじょうたいにかえる MD GtI UNUSED S MD It makes enemies in the same room go to sleep."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Since Generation VII (excluding Pokémon Legends: Arceus ), Dark Void has the lowest accuracy of all status moves , signature moves , and Dark-type moves. In The Rise of Darkrai , when using Dark Void for the second and third times, Darkrai exclaims the move's name. This does not happen in the original Japanese version. In the Brazilian Portuguese dub, probably due to an oversight, Darkrai says \"Dark Void\" when using the move for the third time instead of a localized name."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Dark-Void",
+    "Dark Void",
+    "Dark-Void (move)"
+  ],
+  "updatedAt": 1773322036
+}

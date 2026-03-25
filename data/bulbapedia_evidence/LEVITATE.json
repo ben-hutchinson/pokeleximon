@@ -1,0 +1,37 @@
+{
+  "answerKey": "LEVITATE",
+  "answerDisplay": "LEVITATE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Levitate (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Levitate_(Ability)",
+  "pageId": 4073,
+  "pageRevisionId": 4499421,
+  "leadText": "Levitate (Japanese: ふゆう Floating) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Levitate renders the Pokémon with this Ability immune to damaging Ground-type moves (except Thousand Arrows ). It also makes it ungrounded , therefore unaffected by the effects of Arena Trap , Spikes , Toxic Spikes , Sticky Web , Rototiller , and terrain . Additionally, Poison-type Pokémon with Levitate do not remove Toxic Spikes upon switching in. These immunities are lost during Gravity or if the Pokémon with Levitate is holding an Iron Ball , is under the effects of Ingrain , or has been hit by Smack Down or Thousand Arrows . Pokémon with this Ability are eligible to enter Sky Battles , except Gengar because its model lands on the ground when entering the battle. Outside of battle [ edit | edit source ] Levitate has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Levitate renders the Pokémon with this Ability immune to damaging Ground-type moves (except Thousand Arrows ). It also makes it ungrounded , therefore unaffected by the effects of Arena Trap , Spikes , Toxic Spikes , Sticky Web , Rototiller , and terrain . Additionally, Poison-type Pokémon with Levitate do not remove Toxic Spikes upon switching in. These immunities are lost during Gravity or if the Pokémon with Levitate is holding an Iron Ball , is under the effects of Ingrain , or has been hit by Smack Down or Thousand Arrows . Pokémon with this Ability are eligible to enter Sky Battles , except Gengar because its model lands on the ground when entering the battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Event Gen III Gen IV Gen V Gen VI Gen VII Gen VIII Gen IX Levitate activated \" (Wild/Foe) makes Ground moves miss with Levitate !\" \" (The wild/foe's) makes Ground moves miss with Levitate!\" \"It doesn't affect (the wild/foe's) ...\" \"It doesn't affect (The wild/opposing) ...\" \"It doesn't affect (the wild/the opposing/Totem) ...\" \"It doesn't affect (the wild/opposing) ...\" \"It doesn't affect (the wild/opposing) ...\""
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Blocks all Ground-type moves. MD T D S Keeps all Ground-type moves from hitting the Pokémon. B S L じめんタイプの わざを うけない Conq. Gives full immunity to all Ground-type moves. MD GtI Ground-type moves don't damage the Pokémon. * Ground-type moves won't damage the Pokémon! * S MD Ground-type moves won't damage the Pokémon! MD RT DX Ground-type moves, such as Magnitude, won't damage the Pokémon."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Levitate",
+    "Levitate (Ability)"
+  ],
+  "updatedAt": 1774214380
+}

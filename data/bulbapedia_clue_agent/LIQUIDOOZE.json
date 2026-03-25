@@ -1,0 +1,95 @@
+{
+  "answerKey": "LIQUIDOOZE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4514163,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Liquid Ooze (Japanese: Oozing Liquid) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the foe if hit by a move that drains HP. MD T D S Inflicts damage on a foe that tries to drain the Pokemon's HP with an attack. B S L MD GtI Unavailable S MD When the Pokemon is attacked by an HP-absorbing move, the enemy takes damage without the Pokemon's HP being absorbed! MD RT DX When the Pokemon is hit by an HP-absorbing move, the Pokemon's HP is not absorbed and the enemy is damaged instead.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Draining moves 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Liquid Ooze causes HP-draining moves used on the Pokemon with this Ability to damage their user instead of healing them. If a Pokemon with Liquid Ooze is hit by a draining move such as Giga Drain or Leech Life (including the status move Strength Sap ), or takes damage from the effect of Leech Seed , the amount of HP that would be recovered by the opponent is dealt as damage instead (after applying the effect of Big Root ). The damage dealt by the move is not affected. Prior to Generation V , Liquid Ooze did not affect Dream Eater . Even if the user of the HP-draining move cannot heal from its effect due to having full HP or the effect of Heal Block , it will still take damage. If the user of an HP-draining move were to faint due to Liquid Ooze on the same turn as the victim of the move, then the user faints before the victim. This means that the user's team loses the battle if both teams had their final Pokemon sent out. If the recipient of Leech Seed's effect were to faint due to Liquid Ooze on the same turn as the victim of Leech Seed, then the victim faints before the recipient. This means that the victim's team loses the battle if both teams had their final Pokemon sent out. Draining moves [ edit | edit source ] The Ability affects the following moves: Move Type Cat. III IV V VI VII+ Absorb Grass Special Bitter Blade Fire Physical Drain Punch Fighting Physical Draining Kiss Fairy Special Dream Eater Psychic Special Giga Drain Grass Special Horn Leech Grass Physical Leech Life Bug Physical Mega Drain Grass Special Oblivion Wing Flying Special Parabolic Charge Electric Special Strength Sap Grass Status It also affects the seeded status condition. Outside of battle [ edit | edit source ] Liquid Ooze has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Liquid Ooze causes HP-draining moves used on the Pokemon with this Ability to damage their user instead of healing them. If a Pokemon with Liquid Ooze is hit by a draining move such as Giga Drain or Leech Life (including the status move Strength Sap ), or takes damage from the effect of Leech Seed , the amount of HP that would be recovered by the opponent is dealt as damage instead (after applying the effect of Big Root ). The damage dealt by the move is not affected. Prior to Generation V , Liquid Ooze did not affect Dream Eater . Even if the user of the HP-draining move cannot heal from its effect due to having full HP or the effect of Heal Block , it will still take damage. If the user of an HP-draining move were to faint due to Liquid Ooze on the same turn as the victim of the move, then the user faints before the victim. This means that the user's team loses the battle if both teams had their final Pokemon sent out. If the recipient of Leech Seed's effect were to faint due to Liquid Ooze on the same turn as the victim of Leech Seed, then the victim faints before the recipient. This means that the victim's team loses the battle if both teams had their final Pokemon sent out. Draining moves [ edit | edit source ] The Ability affects the following moves: Move Type Cat. III IV V VI VII+ Absorb Grass Special Bitter Blade Fire Physical Drain Punch Fighting Physical Draining Kiss Fairy Special Dream Eater Psychic Special Giga Drain Grass Special Horn Leech Grass Physical Leech Life Bug Physical Mega Drain Grass Special Oblivion Wing Flying Special Parabolic Charge Electric Special Strength Sap Grass Status It also affects the seeded status condition.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Damages opponents using leeching moves for as much as they would heal.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "draining ability",
+        "evidence_ref": "Description",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "draining ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "healing ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "draining ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "healing ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Draining abilities",
+      "Healing abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257964
+}

@@ -1,0 +1,37 @@
+{
+  "answerKey": "MOONBLAST",
+  "answerDisplay": "MOONBLAST",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Moonblast (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Moonblast_(move)",
+  "pageId": 180369,
+  "pageRevisionId": 4503257,
+  "leadText": "Moonblast (Japanese: ムーンフォース Moon Force) is a damage-dealing Fairy-type move introduced in Generation VI.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Moonblast does damage and has a 30% chance of lowering the target's Special Attack by one stage. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Moonblast's base power was reduced to 85. Pokémon Legends: Arceus Category Special PP 10 Agile Strong Power 85 65 105 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 20% 20% 40% Turns 3 2 4 ? ? May lower the target's offensive stats Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 95 114 Cooldown 8s Move wind-up time 20 frames Effect duration —s Additional effect Chance 30% Duration 15s 18s — May lower the target's Special Attack."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh BD SP S V Borrowing the power of the moon, the user attacks the target. This may also lower the target's Sp. Atk stat. LA Borrowing the power of the moon, the user attacks the target. This may also lower the target’s offensive stats. ZA The user attacks by using the power of the moon. This may also lower targets' Sp. Atk stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD MD RT DX It damages an enemy. It could also lower the enemy's Sp. Atk."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In the June 11, 2013 press release for Pokémon X and Y , it was stated that Moonblast would lower the target's Attack stat; however, in the final game, it lowers their Special Attack instead."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Moonblast",
+    "Moonblast (move)"
+  ],
+  "updatedAt": 1773325153
+}

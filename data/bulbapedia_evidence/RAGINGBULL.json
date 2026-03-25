@@ -1,0 +1,34 @@
+{
+  "answerKey": "RAGINGBULL",
+  "answerDisplay": "RAGING BULL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Raging Bull (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Raging_Bull_(move)",
+  "pageId": 277776,
+  "pageRevisionId": 4463665,
+  "leadText": "Raging Bull (Japanese: レイジングブル Raging Bull) is a damage-dealing Normal-type move introduced in Generation IX. It is the signature move of Tauros.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Raging Bull removes Light Screen , Reflect , and Aurora Veil from the target's side of the field (even if it targets an ally), then inflicts damage. If the move fails to hit the target, the effects of the screens are not removed. If the user is Paldean Tauros , the move's type changes depending on its form. Combat Breed's Raging Bull is Fighting-type , Blaze Breed's Raging Bull is Fire-type , and Aqua Breed's Raging Bull is Water-type . If used by a Pokémon other than Paldean Tauros, the move is Normal-type."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user performs a tackle like a raging bull. This move's type depends on the user's form. It can also break barriers, such as Light Screen and Reflect."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as a TCG attack ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Raging-Bull",
+    "Raging Bull",
+    "Raging-Bull (move)"
+  ],
+  "updatedAt": 1773326213
+}

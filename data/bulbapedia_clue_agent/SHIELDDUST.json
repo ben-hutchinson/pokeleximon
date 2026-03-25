@@ -1,0 +1,90 @@
+{
+  "answerKey": "SHIELDDUST",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4277787,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Shield Dust (Japanese: Scales) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Blocks the added effects of moves. MD T D S Blocks the added effects from any moves that hit the Pokemon. B S L MD GtI Unavailable S MD It blocks additional effects when the Pokemon is hit by an attacking move! MD RT DX This Ability blocks additional effects when the Pokemon is hit by an attacking move.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Pokemon with Shield Dust are unaffected by the additional effects of other Pokemon's damaging moves, including additional effects provided by Poison Touch , Toxic Chain , Stench , King's Rock , and Razor Fang . For example, a Pokemon with Shield Dust cannot be frozen by Blizzard or made to flinch by Fake Out . Shield Dust has no effect on status moves (such as Thunder Wave or Leech Seed ) or Max Moves . It also doesn't prevent additional effects that apply to the user, so for example a Pokemon using Flame Charge will still be able to increase its own Speed even if it hits a target that has Shield Dust. Shield Dust prevents a Pokemon's burn being cured by Sparkling Aria if it is the only target of the attack (even in battles such as Double Battles , as long as there are no other targets of Sparkling Aria); however, if the attack has multiple targets, all targets will be cured on burn even if they have Shield Dust. ( Wake-Up Slap and Smelling Salts , which also cure status conditions, are not considered to have additional effects and thus are not affected by Shield Dust.) This behavior is unique to Sparkling Ariafor example, Shield Dust prevents a Pokemon from being paralyzed by Discharge regardless of the number of targets. Outside of battle [ edit | edit source ] Shield Dust has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Pokemon with Shield Dust are unaffected by the additional effects of other Pokemon's damaging moves, including additional effects provided by Poison Touch , Toxic Chain , Stench , King's Rock , and Razor Fang . For example, a Pokemon with Shield Dust cannot be frozen by Blizzard or made to flinch by Fake Out . Shield Dust has no effect on status moves (such as Thunder Wave or Leech Seed ) or Max Moves . It also doesn't prevent additional effects that apply to the user, so for example a Pokemon using Flame Charge will still be able to increase its own Speed even if it hits a target that has Shield Dust. Shield Dust prevents a Pokemon's burn being cured by Sparkling Aria if it is the only target of the attack (even in battles such as Double Battles , as long as there are no other targets of Sparkling Aria); however, if the attack has multiple targets, all targets will be cured on burn even if they have Shield Dust. ( Wake-Up Slap and Smelling Salts , which also cure status conditions, are not considered to have additional effects and thus are not affected by Shield Dust.) This behavior is unique to Sparkling Ariafor example, Shield Dust prevents a Pokemon from being paralyzed by Discharge regardless of the number of targets.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Protects against incoming moves' extra effects.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "protective trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Status-blocking trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.78,
+        "style": "effect"
+      },
+      {
+        "text": "Prevents major status ailments",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "effect"
+      },
+      {
+        "text": "Ailment-proof trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "protective trait",
+      "status immunity"
+    ],
+    "connections_descriptors": [
+      "Protective abilities",
+      "Status-blocking abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258011
+}

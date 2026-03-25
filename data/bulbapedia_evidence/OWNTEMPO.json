@@ -1,0 +1,38 @@
+{
+  "answerKey": "OWNTEMPO",
+  "answerDisplay": "OWN TEMPO",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Own Tempo (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Own_Tempo_(Ability)",
+  "pageId": 4097,
+  "pageRevisionId": 4493486,
+  "leadText": "Own Tempo (Japanese: マイペース My Pace) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV 1.1.3 Generation V to VII 1.1.4 Generation VIII onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Own Tempo prevents the Pokémon from being afflicted by confusion , even if it is self-inflicted (such as from moves like Thrash or items like the Iapapa Berry ). A Pokémon with this Ability will be cured of confusion if it is confused while in battle (such as if it gains the Ability by an effect like Skill Swap , or is confused by a Pokémon with an Ability like Mold Breaker ). Generation III [ edit | edit source ] If a Pokémon with Own Tempo is confused due to obtaining it from Baton Pass , it will be cured of confusion as soon as it switches in. If a Pokémon with Trace is sent into battle via Baton Pass and is confused as a result, if it gains Own Tempo via Trace it will not be cured of confusion until after a Pokémon takes its turn (uses a move, switches out, etc.). If the Pokémon with this Ability is confused and is holding a Persim , Lum , or Touga Berry , Own Tempo will cure the Pokémon of confusion before the Berry has a chance to be consumed. Generation IV [ edit | edit source ] If a Pokémon with Trace is sent into battle via Baton Pass and is confused as a result, if it gains Own Tempo via Trace it will be cured of confusion immediately. In Generation IV only, if a Pokémon is confused and has a status condition , if its confusion is cured by Own Tempo, the status condition icon will disappear from the HP bar while it is in battle. The status condition will continue to take effect, however. Generation V to VII [ edit | edit source ] If a Pokémon with Own Tempo is confused due to obtaining it from Baton Pass , it will not be cured of confusion until after a Pokémon takes its turn (uses a move, switches out, etc.). If the Pokémon with this Ability is confused and is holding a Persim or Lum Berry , the Berry will be eaten before Own Tempo cures the Pokémon of confusion. Generation VIII onward [ edit | edit source ] Own Tempo now also blocks Intimidate . Outside of battle [ edit | edit source ] Rockruff with Own Tempo is treated as a separate form, which is only capable of evolving into Dusk Form Lycanroc . The Ability Capsule and Ability Patch are unable to change Rockruff's Ability from or to Own Tempo. Rockruff with Own Tempo cannot be traded to Pokémon Sun and Moon or Wonder Traded . Due to the form inheritance rules when breeding, if a Rockruff with Own Tempo or a Dusk Form Lycanroc is the mother or is bred with Ditto , it will produce more Rockruff with Own Tempo."
+    },
+    {
+      "title": "In battle",
+      "text": "Contents 1 In battle 1.1 Generation III 1.2 Generation IV 1.3 Generation V to VII 1.4 Generation VIII onward In battle [ edit | edit source ] Own Tempo prevents the Pokémon from being afflicted by confusion , even if it is self-inflicted (such as from moves like Thrash or items like the Iapapa Berry ). A Pokémon with this Ability will be cured of confusion if it is confused while in battle (such as if it gains the Ability by an effect like Skill Swap , or is confused by a Pokémon with an Ability like Mold Breaker ). Generation III [ edit | edit source ] If a Pokémon with Own Tempo is confused due to obtaining it from Baton Pass , it will be cured of confusion as soon as it switches in. If a Pokémon with Trace is sent into battle via Baton Pass and is confused as a result, if it gains Own Tempo via Trace it will not be cured of confusion until after a Pokémon takes its turn (uses a move, switches out, etc.). If the Pokémon with this Ability is confused and is holding a Persim , Lum , or Touga Berry , Own Tempo will cure the Pokémon of confusion before the Berry has a chance to be consumed. Generation IV [ edit | edit source ] If a Pokémon with Trace is sent into battle via Baton Pass and is confused as a result, if it gains Own Tempo via Trace it will be cured of confusion immediately. In Generation IV only, if a Pokémon is confused and has a status condition , if its confusion is cured by Own Tempo, the status condition icon will disappear from the HP bar while it is in battle. The status condition will continue to take effect, however. Generation V to VII [ edit | edit source ] If a Pokémon with Own Tempo is confused due to obtaining it from Baton Pass , it will not be cured of confusion until after a Pokémon takes its turn (uses a move, switches out, etc.). If the Pokémon with this Ability is confused and is holding a Persim or Lum Berry , the Berry will be eaten before Own Tempo cures the Pokémon of confusion. Generation VIII onward [ edit | edit source ] Own Tempo now also blocks Intimidate ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Prevents confusion. MD T D S Protects the Pokémon from confusion. B S L こんらんじょうたいに ならない Conq. Prevents the Pokémon from becoming confused. MD GtI Protects against the Confusion status condition. * It protects the Pokémon from the Confusion status condition! * S MD It protects the Pokémon from getting confused! MD RT DX This Ability protects the Pokémon from getting Confused."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Due to a glitch in Generation IV , if a Pokémon has a non-volatile status condition and has its confusion cured by Own Tempo, the status condition icon will disappear from the HP bar while that Pokémon is in battle; however, it will still be displayed in the party menu and will be restored if the Pokémon switches out and then back in. The same is true for infatuation and Oblivious ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Own-Tempo",
+    "Own Tempo",
+    "Own-Tempo (Ability)"
+  ],
+  "updatedAt": 1773325568
+}

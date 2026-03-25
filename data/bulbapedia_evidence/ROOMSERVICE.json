@@ -1,0 +1,34 @@
+{
+  "answerKey": "ROOMSERVICE",
+  "answerDisplay": "ROOM SERVICE",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Room Service",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Room_Service",
+  "pageId": 240318,
+  "pageRevisionId": 4266154,
+  "leadText": "Room Service (Japanese: ルームサービス Room Service) is a type of consumable held item introduced in Generation VIII. It lowers the holder's Speed in Trick Room.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If the move Trick Room is used while a Pokémon is holding Room Service, the Room Service is consumed, causing the holder's Speed to drop by one stage. Additionally, Room Service will also be consumed if a Pokémon holding it switches in while Trick Room is already in effect, similar to Electric Seed and the other terrain seeds."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh BD SP LA An item to be held by a Pokémon. Lowers Speed when Trick Room takes effect. S V An item to be held by a Pokémon. If Trick Room takes effect, this item will lower the holder's Speed stat."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price Sw Sh N/A $ 2,000 S V $ 20,000 $ 5,000 Effect [ edit | edit source ] If the move Trick Room is used while a Pokémon is holding Room Service, the Room Service is consumed, causing the holder's Speed to drop by one stage. Additionally, Room Service will also be consumed if a Pokémon holding it switches in while Trick Room is already in effect, similar to Electric Seed and the other terrain seeds. Description [ edit | edit source ] Games Description Sw Sh BD SP LA An item to be held by a Pokémon. Lowers Speed when Trick Room takes effect. S V An item to be held by a Pokémon. If Trick Room takes effect, this item will lower the holder's Speed stat. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods Sw Sh Battle Tower (15 BP ) Sw Sh IA Cram-o-matic ( Fairy : 62-70 points) Sw Sh CT Giant's Bed S V Delibird Presents ( Levincia Branch, after completing the main storyline)"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Room-Service",
+    "Room Service",
+    "Room-Service (item)"
+  ],
+  "updatedAt": 1773326507
+}

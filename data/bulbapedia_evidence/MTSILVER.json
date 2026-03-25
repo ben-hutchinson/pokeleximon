@@ -1,0 +1,30 @@
+{
+  "answerKey": "MTSILVER",
+  "answerDisplay": "MT SILVER",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Mt. Silver",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mt._Silver",
+  "pageId": 7938,
+  "pageRevisionId": 4491821,
+  "leadText": "If you were looking for the mountain itself, see Mt. Silver Cave. Mt. Silver (Japanese: シロガネ山(やま) Mount Shirogane) is a large mountain in Johto, located west of Victory Road and Indigo Plateau. In Pokémon HeartGold and SoulSilver, \"Mt. Silver\" only refers to the outside area at the foot of the mountain; the interior cave, exterior, and summit are all part of Mt. Silver Cave instead. In Generation II, both areas are included under the location header Silver Cave (Japanese: シロガネやま Mt. Shirogane). In the animated series, it is the home of Silver Town, where the Johto League's Silver Conference is held.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] In the games, Mt. Silver is off-limits to all but the most skilled of Trainers. After the player has received all sixteen badges of Johto and Kanto, Professor Oak will give the player permission to travel here. The route to the area, Kanto Route 28 , is rough, though no HMs are explicitly required to reach the Pokémon Center just outside the entrance of Mt. Silver Cave . Inside, however, the cave is dark, requiring Flash to see in the first room. Many high-level Pokémon reside in the cave, as well as rare Pokémon not found elsewhere in the Johto region, like Larvitar and Misdreavus ."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Full Restore Southwestern exterior of the cave (hidden) G S C Reaper Cloth In the lower left corner (requires Surf ) HG SS Full Restore East of Pokémon Center (hidden) HG SS"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mt-Silver",
+    "Mt Silver",
+    "Mt-Silver (location)"
+  ],
+  "updatedAt": 1773329044
+}

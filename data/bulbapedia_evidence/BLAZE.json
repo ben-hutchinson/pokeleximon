@@ -1,0 +1,33 @@
+{
+  "answerKey": "BLAZE",
+  "answerDisplay": "BLAZE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Blaze (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Blaze_(Ability)",
+  "pageId": 4142,
+  "pageRevisionId": 4514071,
+  "leadText": "Blaze redirects here. For the location in Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team, see Mt. Blaze. Blaze (Japanese: もうか Raging Flames) is an Ability introduced in Generation III. All Fire-type first partner Pokémon have this Ability.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations III to IV 1.1.2 Generations V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations III to IV [ edit | edit source ] When a Pokémon with Blaze uses a Fire-type move , the move's power will be increased by 50% if the user has less than or equal to ⅓ of its maximum HP remaining. Generations V onward [ edit | edit source ] Instead of boosting Fire-type moves' power, Blaze now technically boosts the Pokémon's Attack or Special Attack by 50% during damage calculation if a Fire-type move is being used, resulting in effectively the same potency. Outside of battle [ edit | edit source ] Blaze has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generations III to IV [ edit | edit source ] When a Pokémon with Blaze uses a Fire-type move , the move's power will be increased by 50% if the user has less than or equal to ⅓ of its maximum HP remaining. Generations V onward [ edit | edit source ] Instead of boosting Fire-type moves' power, Blaze now technically boosts the Pokémon's Attack or Special Attack by 50% during damage calculation if a Fire-type move is being used, resulting in effectively the same potency."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts the power of Fire-type moves when HP is low. MD T D S Boosts the power of the Pokémon's Fire-type moves when its HP is low. B S L ＨＰがへって ピンチになると ほのおタイプの わざが つよくなる Conq. Raises Attack when HP is low. MD GtI When the Pokémon's HP is low, the power of its Fire-type moves goes up. * When the Pokémon's HP is low, the power of Fire-type moves goes up! * S MD When the Pokémon's HP is low, the power of Fire-type moves goes up! MD RT DX When the Pokémon's HP is low, the power of Fire-type moves goes up."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Blaze",
+    "Blaze (Ability)"
+  ],
+  "updatedAt": 1774213683
+}

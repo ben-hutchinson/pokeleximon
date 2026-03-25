@@ -1,0 +1,38 @@
+{
+  "answerKey": "FOCUSPUNCH",
+  "answerDisplay": "FOCUS PUNCH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Focus Punch (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Focus_Punch_(move)",
+  "pageId": 3875,
+  "pageRevisionId": 4463255,
+  "leadText": "Focus Punch (Japanese: きあいパンチ Fighting Spirit Punch) is a damage-dealing Fighting-type move introduced in Generation III. It was TM01 in Generation III, Generation IV, and in Pokémon Brilliant Diamond and Shining Pearl. It is TM192 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III 1.2 Generation IV 1.3 Generation V onwards Effect [ edit | edit source ] Generation III [ edit | edit source ] Focus Punch is a decreased priority move. The user of Focus Punch will start focusing at the beginning of the turn the move is used, then execute the move Focus Punch at a priority of -3, unless it was hit by another Pokémon's damaging move before executing Focus Punch, in which case it will lose its focus and be unable to attack that turn. The user's focus will not be broken if its substitute is attacked or if it is hit by a status move . Its charging message is displayed before any other moves. PP is consumed even if the user loses its focus and fails to execute the move. Even if the user loses focus, it is considered the last move used (for the purposes of Encore , etc.). Starting to focus is not considered to be executing the move, and effects based on move order (such as Zoom Lens ) will not activate from it. If a Pokémon becomes locked into Focus Punch by Encore but selected a different move that turn and hasn't already moved, it will use Focus Punch at the priority of the move it selected, but the charging message does not appear and it will still lose its focus if it took damage from an attack that turn. Focus Punch can be used as the second move of a Pokémon Contest combination , with the user gaining 3 bonus appeal points if Focus Energy was used in the previous turn. If Focus Punch is known by a wild Pokémon (via Transform , Mimic , Sketch , or challenging the Battle Frontier ), and the player unsuccessfully attempts to flee the battle while the opposing Pokémon has selected Focus Punch for use during the turn, the move will be executed immediately without the charging animation or message. Generation IV [ edit | edit source ] If the user is hit before the attack, it will say, \" used Focus Punch!\" before it says the \" lost its focus and couldn't move!\". Wild Pokémon executing this move while the player unsuccessfully attempts to flee will always display the charge-up animation before executing the move. Generation V onwards [ edit | edit source ] It no longer states \" used Focus Punch!\" preceding \" lost its focus and couldn't move!\" PP is no longer consumed if the user loses its focus and fails to execute the move. If the user loses focus, it is ignored when determining the last move used (for the purposes of Encore , etc.). If a Pokémon becomes locked into Focus Punch by Encore but selected a different move that turn and hasn't already moved, it will use Focus Punch at the priority of the move it selected regardless of whether it took damage that turn, and the charging message will not appear. One-hit knockout moves do not cause Focus Punch to lose focus."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E A powerful loyalty attack. The user flinches if hit. (move) Powerful, but makes the user flinch if hit by the foe. (TM) FR LG An attack that is executed last. The user flinches if hit beforehand. (move) An extremely powerful attack. However, if the user is hit before using the move, they will flinch. (TM) Colo XD A powerful loyalty attack. The user flinches if hit. (move) Powerful, but makes the user flinch if hit by the target. (TM) D P Pt HG SS The user focuses its mind before launching a punch. It will fail if the user is hit before it is used. (move) The user focuses its mind before launching this attack. It will fail if the user is hit before it is used. (TM) PBR B W B2 W2 The user focuses its mind before launching a punch. It will fail if the user is hit before it is used. X Y OR AS S M US UM P E Sw Sh BD SP LA The user focuses its mind before launching a punch. This move fails if the user is hit before it is used. S V The user focuses its mind before launching a punch. This move fails if the user is hit before using the move."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Focus Punch status, and it attacks on the next turn. It is not possible to link this move. MD T D S Gives the user a Focus Punch status, which causes the Pokémon to charge power for 1 turn, then try a powerful attack on the next turn. You can't link this move. B S L きあいパンチじょうたいになり ちからをため つぎのこうどうで いりょくのたかい こうげきを くりだす このわざは ポケモンタワーでは くりだせない MD GtI You focus your mind and damage an enemy during the next turn. S MD You focus your mind and attack on the next turn. * You'll get the Focus Punch status condition, focusing your mind and damaging your enemy during the next turn. * MD RT DX You'll get the Focus Punch status condition, focusing your mind and damaging your enemy during the next turn."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Focus Punch is tied with Meteor Assault for having the highest base power of all Fighting-type moves, excluding Z-Moves and Reversal at its full power. An All-Out Pummeling based on Focus Punch is tied with Reversal at its full power for the highest base power of all Fighting-type moves. Since Focus Punch has a higher priority than Avalanche , Revenge , Counter , Dragon Tail , or Circle Throw , they are unable to break the focus of a Pokémon using Focus Punch. Thus, they and Focus Punch itself are the only attacks that can strike a Pokémon in the same turn it successfully uses Focus Punch, without the use of Quash or After You . In Generation III, a glitch will cause the user of Focus Punch to prepare to use it, but not execute the attack. This glitch is triggered by selecting Focus Punch in a Double Battle on the first Pokémon, pressing the “B” button, then switching out the first Pokémon. When the battle is conducted, the first Pokémon will tighten its focus in preparation for Focus Punch, then switch out. This is due to the charging turn having a priority of +8, therefore being executed before switching out. Poliwag and Togekiss are able to learn Focus Punch, despite lacking any visible hands to use the move. Similarly, Shroomish was also able to learn Focus Punch via Move Tutor and breeding prior to Pokémon Brilliant Diamond and Shining Pearl ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Focus-Punch",
+    "Focus Punch",
+    "Focus-Punch (move)"
+  ],
+  "updatedAt": 1773322952
+}

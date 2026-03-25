@@ -1,0 +1,34 @@
+{
+  "answerKey": "MEGALAUNCHER",
+  "answerDisplay": "MEGA LAUNCHER",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Mega Launcher (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mega_Launcher_(Ability)",
+  "pageId": 182514,
+  "pageRevisionId": 4512557,
+  "leadText": "Mega Launcher (Japanese: メガランチャー Mega Launcher) is an Ability introduced in Generation VI. Since Generation VIII, it is the signature Ability of Clauncher and Clawitzer.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Affected moves 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Mega Launcher boosts the strength of aura and pulse moves used by a Pokémon with this Ability. Damage-dealing moves are boosted in power by 50%, while Heal Pulse heals 75% of the target's maximum HP rather than the usual 50%, including Z-Heal Pulse. Affected moves [ edit | edit source ] The table below lists the moves affected by Mega Launcher, as well as the Pokémon that can have Mega Launcher and learn those moves. Move Type Cat. Power and Boost Learned by Aura Sphere Fighting Special 80 120 Dark Pulse Dark Special 80 120 Dragon Pulse Dragon Special 85 127.5 Heal Pulse Psychic Status — — Terrain Pulse Normal Special 50 75 Water Pulse Water Special 60 90 Although the following moves are affected by the Ability, they currently cannot be learned by any Pokémon with Mega Launcher. They may, however, be called via Metronome , Copycat , or Mimic , or be used by a Pokémon that gained Mega Launcher by an Ability like Trace or Receiver or a move such as Skill Swap or Role Play . Move Type Cat. Power and Boost Origin Pulse Water Special 110 165 Outside of battle [ edit | edit source ] Mega Launcher has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Mega Launcher boosts the strength of aura and pulse moves used by a Pokémon with this Ability. Damage-dealing moves are boosted in power by 50%, while Heal Pulse heals 75% of the target's maximum HP rather than the usual 50%, including Z-Heal Pulse. Affected moves [ edit | edit source ] The table below lists the moves affected by Mega Launcher, as well as the Pokémon that can have Mega Launcher and learn those moves. Move Type Cat. Power and Boost Learned by Aura Sphere Fighting Special 80 120 Dark Pulse Dark Special 80 120 Dragon Pulse Dragon Special 85 127.5 Heal Pulse Psychic Status — — Terrain Pulse Normal Special 50 75 Water Pulse Water Special 60 90 Although the following moves are affected by the Ability, they currently cannot be learned by any Pokémon with Mega Launcher. They may, however, be called via Metronome , Copycat , or Mimic , or be used by a Pokémon that gained Mega Launcher by an Ability like Trace or Receiver or a move such as Skill Swap or Role Play . Move Type Cat. Power and Boost Origin Pulse Water Special 110 165"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD Water Pulse, Dark Pulse, Dragon Pulse, and Aura Sphere become more powerful! MD RT DX Aura Sphere and moves with \"Pulse\" in their names become more powerful."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mega-Launcher",
+    "Mega Launcher",
+    "Mega-Launcher (Ability)"
+  ],
+  "updatedAt": 1774214499
+}

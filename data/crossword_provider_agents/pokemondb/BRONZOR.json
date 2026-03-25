@@ -1,0 +1,17 @@
+{
+  "answerKey": "BRONZOR",
+  "answerDisplay": "BRONZOR",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Steel / Psychic type Pokémon introduced in Generation 4.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/bronzor",
+  "extract": "Bronzor is a Steel / Psychic type Pokémon introduced in Generation 4 .",
+  "rankPosition": 1,
+  "updatedAt": 1774210764
+}

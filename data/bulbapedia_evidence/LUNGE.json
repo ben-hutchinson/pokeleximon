@@ -1,0 +1,33 @@
+{
+  "answerKey": "LUNGE",
+  "answerDisplay": "LUNGE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Lunge (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Lunge_(move)",
+  "pageId": 218353,
+  "pageRevisionId": 4482874,
+  "leadText": "Lunge (Japanese: とびかかる Lunge) is a damage-dealing Bug-type move introduced in Generation VII. It is TM185 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Lunge inflicts damage and lowers the target's Attack stat by one stage. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 80 96 Cooldown 9s Move wind-up time 20 frames Effect duration 8s 11s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh BD SP LA S V The user makes a lunge at the target, attacking with full force. This also lowers the target's Attack stat. ZA The user attacks by lunging toward targets with full force. This also lowers targets' Attack stats for a short time."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move originated as a TCG attack ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Lunge",
+    "Lunge (move)"
+  ],
+  "updatedAt": 1773324558
+}

@@ -1,0 +1,16 @@
+{
+  "answerKey": "TERAVOLT",
+  "answerDisplay": "TERAVOLT",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen V ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Teravolt_(Ability)",
+  "extract": "Teravolt (Japanese: テラボルテージ Teravoltage) is an Ability introduced in Generation V. It is the signature Ability of Zekrom and Black Kyurem.",
+  "updatedAt": 1774258447
+}

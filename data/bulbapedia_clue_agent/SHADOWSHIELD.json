@@ -1,0 +1,52 @@
+{
+  "answerKey": "SHADOWSHIELD",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4070540,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Shadow Shield (Japanese: Phantom Guard) is an Ability introduced in Generation VII. It is the signature Ability of Lunala.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Shadow Shield reduces damage taken from damage-dealing moves by half when at maximum HP . It does not reduce the amount of HP taken from moves that deal direct damage . When hit with a multistrike move at maximum HP, only the first hit will have its damage reduced. All further hits will deal full damage. Unlike Multiscale , this Ability cannot be ignored by moves or Abilities . It can still be changed or suppressed. Outside of battle [ edit | edit source ] Shadow Shield has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Shadow Shield reduces damage taken from damage-dealing moves by half when at maximum HP . It does not reduce the amount of HP taken from moves that deal direct damage . When hit with a multistrike move at maximum HP, only the first hit will have its damage reduced. All further hits will deal full damage. Unlike Multiscale , this Ability cannot be ignored by moves or Abilities . It can still be changed or suppressed.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "When this Pokemon has full HP, regular damage from moves is halved.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen VII ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258009
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "WATERSHURIKEN",
+  "answerDisplay": "WATER SHURIKEN",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Water Shuriken (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Water_Shuriken_(move)",
+  "pageId": 184462,
+  "pageRevisionId": 4483153,
+  "leadText": "Water Shuriken (Japanese: みずしゅりけん Water Shuriken) is a damage-dealing Water-type multistrike move introduced in Generation VI. It is the signature move of Accelgor in Generation VIII and Greninja in Generation IX.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VI 1.2 Generation VII 1.3 Generation VIII 1.3.1 Pokémon Brilliant Diamond and Shining Pearl 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation VI [ edit | edit source ] Water Shuriken is a physical move in this generation. Water Shuriken deals damage and is an increased priority move, hitting the target 2-5 times per use. Each strike made has an equal chance to be a critical hit . There is a 35% chance that it will hit 2 times, a 35% chance it will hit 3 times, a 15% chance it will hit 4 times, and a 15% chance it will hit 5 times. The average total base power is 46.5. Water Shuriken may continue attacking after breaking a substitute . Bide and Counter will only acknowledge the last strike of this move. If the target has Weak Armor , each strike will activate it. If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokémon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokémon has a maximum HP of 1. If the user is holding a King's Rock or Razor Fang , each consecutive hit has an equal chance to cause the opponent to flinch . Generation VII [ edit | edit source ] Water Shuriken is now a special move . Mirror Coat will only acknowledge the last strike of this move. If the target has Water Compaction or Stamina , each strike will activate it. If Battle Bond is activated, Water Shuriken's power rises from 15 to 20, and it always hits three times. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Water Shuriken cannot be selected in a battle. Generation IX [ edit | edit source ] Battle Bond no longer has a special interaction with Water Shuriken. Pokémon Legends: Z-A [ edit | edit source ] Water Shuriken always throws five projectiles per use. As a Plus Move , Water Shuriken will throw only one projectile but will have much higher power. If it is used by Mega Greninja, a different animation is used with a larger, faster projectile. In both cases, it will instead have 75 power. Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 15 18 Cooldown 3s Move wind-up time 0 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Sw Sh LA S V The user hits the target with throwing stars two to five times in a row. This move always goes first. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. ZA The user attacks with five throwing stars formed from mucus, launched one after the other."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Super Smash Bros. for Nintendo 3DS/Wii U Unleash a water shuriken. Charge it with B. * S MD It damages an enemy 2 to 5 times in a row. It reaches up to 2 tiles away."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Water Shuriken is the only move to have its category changed since Generation IV (prior to which categories were not assigned to moves individually, but to their types ). Water Shuriken is the only multistrike move to have an increased priority. Prior to Generation IX , it was also the only one to be a special move ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Water-Shuriken",
+    "Water Shuriken",
+    "Water-Shuriken (move)"
+  ],
+  "updatedAt": 1773328420
+}

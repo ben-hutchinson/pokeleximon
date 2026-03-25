@@ -1,0 +1,57 @@
+{
+  "answerKey": "SOLIDROCK",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4471218,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Solid Rock (Japanese: Hard Rock) is an Ability introduced in Generation IV.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD T D S Reduces the damage that the Pokemon suffers from super-effective attacks. B S L Conq. Reduces damage from supereffective attacks. MD GtI Reduces damage received from supereffective moves. * The Pokemon takes less damage from supereffective moves. * S MD MD RT DX The Pokemon takes less damage from supereffective moves.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Solid Rock reduces damage from supereffective moves by 25%. For example, a move that would do 2 damage will do 1.5 damage instead. Outside of battle [ edit | edit source ] Solid Rock has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Solid Rock reduces damage from supereffective moves by 25%. For example, a move that would do 2 damage will do 1.5 damage instead.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Decreases damage taken from super-effective moves by 1/4.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258016
+}

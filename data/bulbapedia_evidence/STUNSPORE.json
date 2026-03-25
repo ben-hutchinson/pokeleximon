@@ -1,0 +1,38 @@
+{
+  "answerKey": "STUNSPORE",
+  "answerDisplay": "STUN SPORE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Stun Spore (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Stun_Spore_(move)",
+  "pageId": 3687,
+  "pageRevisionId": 4500978,
+  "leadText": "Stun Spore (Japanese: しびれごな Numbing Powder) is a non-damaging Grass-type move introduced in Generation I. It appears to be a paralyzing counterpart to Poison Powder and Sleep Powder, as the accuracy, Contest group, appeal, effects, Japanese names and animation are the same or very similar. They are also usually learned at the same level or in a similar pattern.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generation III to V 1.4 Generation VI onwards 1.5 Generation VIII 1.5.1 Pokémon Legends: Arceus 1.6 Generation IX 1.6.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I [ edit | edit source ] Stun Spore paralyzes the target. In the Generation I handheld games only, Stun Spore can affect a target behind a substitute . Generation II [ edit | edit source ] In the Generation II core series games, when an in-game opponent outside of the Battle Tower uses Stun Spore, the move has a 25% chance to fail in addition to its normal chance to miss. Generation III to V [ edit | edit source ] Stun Spore cannot affect targets with Limber as their Ability . Stun Spore can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Sweet Scent was used in the previous turn. Generation VI onwards [ edit | edit source ] Grass-type and Electric-type Pokémon, Pokémon with Overcoat , and Pokémon holding the Safety Goggles are now immune to Stun Spore. Stun Spore can also be used as part of a Contest Spectacular combination , causing Hex and Smelling Salts to give an extra three appeal points if used in the next turn. If powered up by a Grassium Z into Z-Stun Spore, the user's Special Defense stat is raised by one stage. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Pokémon Legends: Arceus Category Status PP 20 Agile Strong Power — — — Accuracy 80% 80% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Turns 5 3 7 ? ? ? ? Inflicts the target with paralysis Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 10s Move wind-up time 15 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A special move that causes paralysis. When paralyzed, the victim has a one-in-four chance of immobility. Stad2 Special move that causes paralysis. The victim has a one-in-four chance of immobility. G S C A move that may paralyze the foe. R S E Scatters a powder that may paralyze the foe. FR LG Paralyzing dust is scattered wildly. It may paralyze the foe. Colo XD Scatters a powder that may paralyze the target. D P Pt HG SS PBR The user scatters a cloud of paralyzing powder. It may paralyze the target. B W B2 W2 The user scatters a cloud of paralyzing powder. It may leave the target with paralysis. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user scatters a cloud of numbing powder that paralyzes the target. ZA The user scatters a cloud of numbing powder that leaves targets paralyzed."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Causes paralysis in surrounding foes. A Pokémon affected by paralysis is incapable of attacking or using moves. MD T D S Afflicts enemies within a 1-tile range with a Paralysis status condition. A Pokémon with the Paralysis condition has slowed movement and is incapable of action. B S L まわりの てきポケモンを まひじょうたいにかえる まひじょうたいの ポケモンは わざがだせない MD GtI It causes the Paralysis status condition to nearby enemies. With the Paralysis status, their Travel Speed goes down and they can't attack or use moves. S MD It inflicts paralysis on nearby enemies. But it has no effect on Grass-type Pokémon."
+    },
+    {
+      "title": "Pokédex entries",
+      "text": "Pokédex entries [ edit | edit source ] Episode Subject Source Entry EP110 Salveyo weed Ash's Pokédex An effective Stun Spore antidote can be made by boiling the leaves of the Salveyo weed . Salveyo weed is found on clear lake bottoms wherever Vileplume live. Poliwag are also found in the vicinity of this plant."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Stun-Spore",
+    "Stun Spore",
+    "Stun-Spore (move)"
+  ],
+  "updatedAt": 1773327635
+}

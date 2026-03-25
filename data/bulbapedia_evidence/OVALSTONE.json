@@ -1,0 +1,38 @@
+{
+  "answerKey": "OVALSTONE",
+  "answerDisplay": "OVAL STONE",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Oval Stone",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Oval_Stone",
+  "pageId": 19303,
+  "pageRevisionId": 4504979,
+  "leadText": "The Oval Stone (Japanese: まんまるいし Oval Stone) is a type of held item introduced in Generation IV. It is an Evolution item that allows Happiny to evolve into Chansey.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Held item [ edit | edit source ] Causes Happiny to evolve into Chansey when leveled up during the day while holding it. This consumes the Oval Stone."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If the player offers both a Sun Ribbon and Oval Stone at Luminous Spring , Happiny can be evolved into Chansey . This consumes the Sun Ribbon and Oval Stone. If thrown, it will deal 1 damage (2 if sticky ). Using this item in a dungeon will consume it, with no effect."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 A peculiar stone that makes certain species of Pokémon evolve. It is shaped like an egg. X Y OR AS S M US UM P E Sw Sh BD SP A peculiar stone that can make certain species of Pokémon evolve. It's as round as a Pokémon Egg. LA A peculiar stone that can make certain species of Pokémon evolve. It is round and smooth. S V A peculiar stone that can make a certain species of Pokémon evolve. It is round and smooth."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S A surprisingly smooth, rounded stone. It allows a certain kind of Pokémon to evolve."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Oval-Stone",
+    "Oval Stone",
+    "Oval-Stone (item)"
+  ],
+  "updatedAt": 1773325558
+}

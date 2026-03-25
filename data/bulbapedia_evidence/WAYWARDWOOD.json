@@ -1,0 +1,30 @@
+{
+  "answerKey": "WAYWARDWOOD",
+  "answerDisplay": "WAYWARD WOOD",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Wayward Wood",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Wayward_Wood",
+  "pageId": 272606,
+  "pageRevisionId": 4428799,
+  "leadText": "Wayward Wood (Japanese: 迷いの山林 Bewildering Forest) is an area located in the southern region of the Coronet Highlands of Hisui. It is across the river west of Heavenward Lookout. The Ancient Quarry is located to the north. The upper entrance to Wayward Cave can be found here.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] Wayward Wood is a forest that takes root above Wayward Cave. An entrance to the cave is at the eastern end of the woods. It opens up next to a small, oblong lake which creates two waterfalls that split on either end of the lower entrance to Wayward Cave in the Heavenward Lookout. The forest continues to the southwest, where it ends at an entrance to the Ancient Quarry."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] This section is incomplete. Please feel free to edit this section to add missing information and complete it."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Wayward-Wood",
+    "Wayward Wood",
+    "Wayward-Wood (location)"
+  ],
+  "updatedAt": 1773328438
+}

@@ -1,0 +1,38 @@
+{
+  "answerKey": "DOUBLESLAP",
+  "answerDisplay": "DOUBLE SLAP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Double Slap (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Double_Slap_(move)",
+  "pageId": 3611,
+  "pageRevisionId": 4503545,
+  "leadText": "Double Slap (Japanese: おうふくビンタ Round Trip Slap), formatted as DoubleSlap prior to Pokémon X and Y, is a damage-dealing Normal-type multistrike move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generations III and IV 1.4 Generation V to VII 1.5 Generation VIII onwards Effect [ edit | edit source ] Generation I [ edit | edit source ] DoubleSlap inflicts damage, hitting the target 2-5 times per use. There is a 37.5% chance that it will hit 2 times, a 37.5% chance that it will hit 3 times, a 12.5% chance that it will hit 4 times, and a 12.5% chance that it will hit 5 times. Although only the first strike can be a critical hit , each successive one will deal the same amount of damage. In this generation only, DoubleSlap will end immediately if it breaks a substitute . Bide and Counter will only acknowledge the last strike of this move. Generation II [ edit | edit source ] All strikes now do damage independently, enabling any of them to be critical hits. DoubleSlap may now continue attacking after breaking a substitute. If the user is holding a King's Rock , the final strike has a chance to cause the opponent to flinch . Generations III and IV [ edit | edit source ] If the target has an Ability that activates upon contact , each strike counts individually, enabling the Ability to activate multiple times. Pokémon with the Ability Skill Link will always hit five times when using DoubleSlap unless it misses. If the user is holding a King's Rock or Razor Fang , each consecutive hit has an equal chance to cause the opponent to flinch . DoubleSlap can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Pound was used in the previous turn. Generation V to VII [ edit | edit source ] There is now a 35% chance that it will hit 2 times, a 35% chance it will hit 3 times, a 15% chance it will hit 4 times, and a 15% chance it will hit 5 times. The average total base power (including the 15% base miss chance) is now 39.5. If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokémon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokémon has a maximum HP of 1. If the target has Weak Armor or Stamina , each strike will activate it. If the target is holding a Rocky Helmet , the user is damaged for each strike. Generation VIII onwards [ edit | edit source ] Double Slap cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 Although each slap is weak, this attack hits the target two to five times in succession. G S C Repeatedly slaps 2-5 times. R S E Repeatedly slaps the foe 2 to 5 times. FR LG The foe is slapped repeatedly, back and forth, two to five times. Colo XD Repeatedly slaps the target 2 to 5 times. D P Pt HG SS PBR The foe is slapped repeatedly, back and forth, two to five times in a row. B W B2 W2 X Y OR AS S M US UM P E The target is slapped repeatedly, back and forth, two to five times in a row. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It hits two to five times in succession. MD T D S Inflicts damage on the target using 2 to 5 attacks in a single turn. B S L てきポケモンに ２〜５かいれんぞくで ダメージを あたえる Conq. The target is slapped repeatedly, back and forth, two to five times in a row. MD GtI It hits an enemy 2 to 5 times in a row. S MD MD RT DX It damages an enemy 2 to 5 times in a row."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Despite being called \" Double Slap\", this move, like most multistrike moves , can hit the opponent up to five times. However, the Japanese, Chinese, Korean, and French names for Double Slap do not indicate a specific number of strikes."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Double-Slap",
+    "Double Slap",
+    "Double-Slap (move)"
+  ],
+  "updatedAt": 1773322228
+}

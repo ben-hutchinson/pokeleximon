@@ -1,0 +1,57 @@
+{
+  "answerKey": "DAMP",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4499448,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Moisture redirects here. For information about Berries, see Berry Generation IV. Damp (Japanese: Moisture) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Prevents any explosions on the dungeon floor. MD T D S Prevents explosions on the dungeon floor. B S L MD GtI Blasts from things like the move Explosion, Blast Trap, or Big Blast Trap will not go off. * No moves like Explosion or traps like Blast Trap and Big Blast Trap will work while the Pokemon is on the floor! * S MD No moves like Explosion or traps like Blast Trap and Big Blast Trap will work while the Pokemon is on the floor! MD RT DX No moves, traps, or items that cause explosions will work on the floor this Pokemon is on.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Damp prevents all Pokemon from using Self-Destruct , Explosion , Mind Blown , and Misty Explosion ; if a Pokemon attempts to use one of these moves, it will fail and the user will not faint or take damage. Additionally, Damp prevents the Ability Aftermath from doing damage when the Pokemon with Aftermath faints. Damp affects non-adjacent Pokemon in Triple Battles . Outside of battle [ edit | edit source ] Damp has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Damp prevents all Pokemon from using Self-Destruct , Explosion , Mind Blown , and Misty Explosion ; if a Pokemon attempts to use one of these moves, it will fail and the user will not faint or take damage. Additionally, Damp prevents the Ability Aftermath from doing damage when the Pokemon with Aftermath faints. Damp affects non-adjacent Pokemon in Triple Battles .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Prevents self destruct, explosion, and aftermath from working while the Pokemon is in battle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257938
+}

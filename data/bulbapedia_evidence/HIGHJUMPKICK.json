@@ -1,0 +1,34 @@
+{
+  "answerKey": "HIGHJUMPKICK",
+  "answerDisplay": "HIGH JUMP KICK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "High Jump Kick (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/High_Jump_Kick_(move)",
+  "pageId": 3745,
+  "pageRevisionId": 4468095,
+  "leadText": "Not to be confused with Jump Kick. High Jump Kick (Japanese: とびひざげり Jumping Knee Kick), spelled Hi Jump Kick prior to Pokémon X and Y, is a damage-dealing Fighting-type move introduced in Generation I. Prior to Generation III, it was one of the signature moves of Hitmonlee, but Tyrogue could still inherit it via breeding.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generation III 1.4 Generation IV 1.5 Generation V onwards Effect [ edit | edit source ] Generation I [ edit | edit source ] Hi Jump Kick does damage with a power of 85. If it misses, the user will take crash damage of 1 HP. If used against a Ghost-type , then the user will not take crash damage. In Generations I-III, if the user of Hi Jump Kick attacks first and faints itself due to crash damage, the target will not attack. Generation II [ edit | edit source ] The crash damage is now 1/8 of the damage it would have dealt. The user will take crash damage if Hi Jump Kick is protected against by a move such as Protect , but not due to type immunity (only the type immunity message is displayed). Generation III [ edit | edit source ] The crash damage is now 1/2 of the damage it would have dealt. Hi Jump Kick can be used as the second move of a Pokémon Contest combination , with the user gaining 6 bonus appeal points if Mind Reader was used in the previous turn. Generation IV [ edit | edit source ] Hi Jump Kick's base power is increased from 85 to 100. It cannot be used if Gravity is in effect. The user can now crash due to a target's type immunity, and will take crash damage equal to half of the target's max HP in that case. The user will not take crash damage if Hi Jump Kick fails due to there being no remaining targets. Generation V onwards [ edit | edit source ] High Jump Kick's base power is increased from 100 to 130, and its PP is reduced from 20 to 10. The crash damage is now (always) equal to half of the user's max HP, rounded down."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stronger than a Jump Kick . If it misses, the attacker sustains 1/8 damage it should have caused. Stad2 Stronger than Jump Kick . If it misses, the attacker takes 1/8 damage it would've caused. G S C May miss and hurt the user. R S E Colo XD A jumping knee kick. If it misses, the user is hurt. FR LG A strong jumping knee kick. If it misses, the user is hurt. D P Pt HG SS PBR The foe is attacked with a knee kick from a jump. If it misses, the user is hurt instead. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead. S V The target is attacked with a knee kick from a jump. If this move misses, the user takes damage instead."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target, but hurts the user if it misses. MD T D S Inflicts damage on the target, but it also hurts the user if the move misses. B S L てきポケモンに ダメージをあたえる しかし はずれたときは じぶんが ダメージをうける Conq. The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead. MD GtI It damages an enemy. But if it misses, you hurt yourself. S MD MD RT DX It damages an enemy. But if it misses, you'll hurt yourself!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "High-Jump-Kick",
+    "High Jump Kick",
+    "High-Jump-Kick (move)"
+  ],
+  "updatedAt": 1773323631
+}

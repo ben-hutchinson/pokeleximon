@@ -1,0 +1,71 @@
+{
+  "answerKey": "DEFIANT",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4496728,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Defiant (Japanese: Competitive Spirit) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD GtI When the Pokemon's stats are lowered, its Attack goes up. * When the Pokemon's stats are lowered, its Attack goes way up! * S MD When the Pokemon's stats are lowered, the Pokemon's Attack goes up sharply!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a stat of a Pokemon with this Ability is lowered by an opponent, its Attack is increased by two stages. Defiant will not activate if the Pokemon with this Ability lowers its own stats (such as with Close Combat ) or if its stats are lowered by an ally, but will activate if its stats are lowered as a result of its barrier being broken in a Max Raid Battle . If multiple stats are lowered (such as by Memento or Venom Drench ), Defiant activates for each stat lowered. If one stat is lowered by more than one stage (such as by Charm or Eerie Impulse ), Defiant will only trigger once. Defiant activates before a held White Herb . If the Pokemon no longer has any negative stat stages after Defiant is applied, the White Herb will not have the chance to activate. Outside of battle [ edit | edit source ] Defiant has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a stat of a Pokemon with this Ability is lowered by an opponent, its Attack is increased by two stages. Defiant will not activate if the Pokemon with this Ability lowers its own stats (such as with Close Combat ) or if its stats are lowered by an ally, but will activate if its stats are lowered as a result of its barrier being broken in a Max Raid Battle . If multiple stats are lowered (such as by Memento or Venom Drench ), Defiant activates for each stat lowered. If one stat is lowered by more than one stage (such as by Charm or Eerie Impulse ), Defiant will only trigger once. Defiant activates before a held White Herb . If the Pokemon no longer has any negative stat stages after Defiant is applied, the White Herb will not have the chance to activate.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Raises Attack two stages upon having any stat lowered.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "boosting trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "debuffing trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "boosting trait",
+      "debuffing trait"
+    ],
+    "connections_descriptors": [
+      "Boosting abilities",
+      "Debuffing abilities",
+      "Gen V abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257939
+}

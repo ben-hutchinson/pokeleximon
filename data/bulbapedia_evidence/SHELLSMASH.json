@@ -1,0 +1,38 @@
+{
+  "answerKey": "SHELLSMASH",
+  "answerDisplay": "SHELL SMASH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shell Smash (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shell_Smash_(move)",
+  "pageId": 117445,
+  "pageRevisionId": 4403375,
+  "leadText": "Shell Smash (Japanese: からをやぶる Shell Break) is a non-damaging Normal-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Shell Smash decreases the user's Defense and Special Defense stat by one stage, but increases the user's Attack , Special Attack , and Speed by two stages each. Shell Smash is a part of Contest Spectacular combination and using it will cause Baton Pass and Electro Ball to give an extra three appeal points if used in the next turn. If powered up by a Normalium Z into Z-Shell Smash, all of the user's lowered stats are reset."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user breaks its shell, lowering its Defense and Sp. Def stats but sharply raising Attack, Sp. Atk, and Speed stats. X Y OR AS S M US UM P E Sw Sh BD SP LA The user breaks its shell, which lowers Defense and Sp. Def stats but sharply raises its Attack, Sp. Atk, and Speed stats. S V The user breaks its shell, which lowers its Defense and Sp. Def stats but sharply boosts its Attack, Sp. Atk, and Speed stats."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It lowers your Defense and Special Defense. But it sharply raises your Attack, Special Attack, and Travel Speed. (The stat changes return to normal when you go to the next floor or step on a Wonder Tile.) S MD It lowers your Defense and Sp. Def but boosts Attack, Sp. Atk, and Travel Speed. * It lowers your Defense and Sp. Def while sharply raising your Attack, Sp. Atk, and Travel Speed. The stat returns to normal when you go to the next floor or step on a Wonder Tile. * MD RT DX It lowers your Defense and Sp. Def while sharply raising your Attack, Sp. Atk, and Travel Speed. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Pokédex entries",
+      "text": "Pokédex entries [ edit | edit source ] Episode Subject Source Entry SM034 Shell Smash Rotom Pokédex That's Shell Smash! It makes Turtonator vulnerable to damage, but in return, it increases power and speed."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shell-Smash",
+    "Shell Smash",
+    "Shell-Smash (move)"
+  ],
+  "updatedAt": 1773326912
+}

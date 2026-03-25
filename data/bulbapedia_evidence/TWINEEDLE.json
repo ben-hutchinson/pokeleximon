@@ -1,0 +1,37 @@
+{
+  "answerKey": "TWINEEDLE",
+  "answerDisplay": "TWINEEDLE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Twineedle (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Twineedle_(move)",
+  "pageId": 3650,
+  "pageRevisionId": 4502254,
+  "leadText": "Twineedle (Japanese: ダブルニードル Double Needle) is a damage-dealing Bug-type multistrike move introduced in Generation I. Prior to Generation V, it was the signature move of Beedrill.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generation III 1.4 Generation IV 1.5 Generation V to VII 1.6 Generation VIII onwards Effect [ edit | edit source ] Generation I [ edit | edit source ] Twineedle inflicts damage, hitting the target twice per use. The second strike has a 20% chance of poisoning the target, unless the target is Poison-type . Although only the first strike can be a critical hit , the second one will deal the same amount of damage. Twineedle will end immediately if the first strike breaks a substitute . Bide and Counter will only acknowledge the second strike of this move. Generation II [ edit | edit source ] Each strike now does damage independently, and either of them can be a critical hit. Due to a programming oversight, Twineedle can poison Steel-type Pokémon. Twineedle will now hit again if the first strike breaks a substitute. If the first strike breaks a substitute, the second strike can poison the target. If the user is holding a King's Rock , the final strike has a chance to cause the target to flinch . Generation III [ edit | edit source ] Twineedle can no longer poison Steel-type Pokémon. Twineedle is no longer affected by King's Rock . Generation IV [ edit | edit source ] Both of Twineedle's strikes now have an independent 20% chance of poisoning the target (producing a 36% chance of poisoning the target overall). Generation V to VII [ edit | edit source ] If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokémon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokémon has a maximum HP of 1. If the target has Weak Armor or Stamina , each strike will activate it. Twineedle is now affected by King's Rock. If the user is holding a King's Rock or Razor Fang , each consecutive hit has an equal chance to cause the target to flinch . Generation VIII onwards [ edit | edit source ] Twineedle cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 An attack that strikes twice. The target may occasionally become poisoned. G S C Jabs the foe twice using stingers. R S E Stingers on the forelegs jab the foe twice. Colo XD Foreleg stingers jab twice and may poison. FR LG The foe is stabbed twice with foreleg stingers. It may poison the foe. D P Pt HG SS PBR The foe is stabbed twice by a pair of stingers. It may also poison the target. B W B2 W2 The user damages the target twice in succession by jabbing it with two spikes. It may also poison the target. X Y OR AS S M US UM P E The user damages the target twice in succession by jabbing it with two spikes. This may also poison the target. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Hits the target twice, even at a distance. It may also leave the target poisoned, damaging it over several turns. MD T D MD S * Inflicts damage on the target using 2 attacks in a single turn. It may also afflict the targeted enemy with a Poisoned status condition, which causes periodic damage. MD S * Inflicts damage on the target using 2 attacks in a single turn. It may also afflict the target with a Poisoned status condition, which causes periodic damage. B S L はなれたポケモンに ２かいれんぞくで ダメージをあたえる しかも いっていのかくりつで どくじょうたいにして いっていターンごとに ダメージをあたえる Conq. The enemy is stabbed twice by a pair of stingers. It may also poison the target. MD GtI UNUSED S MD It damages a Pokémon, even one far away, 2 times in a row. It could also make the enemy poisoned."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation II only, Twineedle is the only move that can poison a Steel-type Pokémon. This is because Steel-type Pokémon are only coded to be immune to Poison-type moves."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Twineedle",
+    "Twineedle (move)"
+  ],
+  "updatedAt": 1773328139
+}

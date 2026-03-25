@@ -1,0 +1,34 @@
+{
+  "answerKey": "CURSEDBODY",
+  "answerDisplay": "CURSED BODY",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Cursed Body (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Cursed_Body_(Ability)",
+  "pageId": 117629,
+  "pageRevisionId": 4512380,
+  "leadText": "Cursed Body (Japanese: のろわれボディ Cursed Body) is an Ability introduced in Generation V. It is the Ability equivalent of Disable.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with this Ability is hit by a damaging move, there is a 30% chance that the Cursed Body will disable that move of the attacking Pokémon for 4 turns (including the turn Cursed Body activates). Struggle cannot be disabled. Cursed Body can activate even if the attacker is behind a substitute or if the Pokémon with Cursed Body is knocked out, but will not activate if the attack hits the substitute of the Pokémon with Cursed Body. If Cursed Body disables a multistrike move before it has finished all of its hits, it will not prevent the other hits from being executed. Cursed Body can disable a move that calls another move if the called move dealt damage. If a Pokémon uses a damaging Z-Move on a Pokémon with Cursed Body, that damaging Z-Move can be disabled (with no effect on the base move), temporarily preventing it from being used twice with the effect of Rotom Powers , but otherwise having no tangible effect. However, if Cursed Body would disable a status Z-Move (such as Z-Nature Power), the base status move will be disabled. Outside of battle [ edit | edit source ] Cursed Body has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with this Ability is hit by a damaging move, there is a 30% chance that the Cursed Body will disable that move of the attacking Pokémon for 4 turns (including the turn Cursed Body activates). Struggle cannot be disabled. Cursed Body can activate even if the attacker is behind a substitute or if the Pokémon with Cursed Body is knocked out, but will not activate if the attack hits the substitute of the Pokémon with Cursed Body. If Cursed Body disables a multistrike move before it has finished all of its hits, it will not prevent the other hits from being executed. Cursed Body can disable a move that calls another move if the called move dealt damage. If a Pokémon uses a damaging Z-Move on a Pokémon with Cursed Body, that damaging Z-Move can be disabled (with no effect on the base move), temporarily preventing it from being used twice with the effect of Rotom Powers , but otherwise having no tangible effect. However, if Cursed Body would disable a status Z-Move (such as Z-Nature Power), the base status move will be disabled."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI Unavailable S MD When the Pokémon takes damage from an enemy's move, it sometimes seals the move! MD RT DX When the Pokémon takes damage from an enemy's move, it sometimes seals the move."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Cursed-Body",
+    "Cursed Body",
+    "Cursed-Body (Ability)"
+  ],
+  "updatedAt": 1774213851
+}

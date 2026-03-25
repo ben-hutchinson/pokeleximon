@@ -1,0 +1,34 @@
+{
+  "answerKey": "NATURALCURE",
+  "answerDisplay": "NATURAL CURE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Natural Cure (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Natural_Cure_(Ability)",
+  "pageId": 4106,
+  "pageRevisionId": 4407398,
+  "leadText": "Natural Cure (Japanese: しぜんかいふく Natural Recovery) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generations IV to VII 1.1.3 Generation VIII onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation III [ edit | edit source ] Natural Cure heals any status conditions upon switching out. This effect will occur if Natural Cure is the Pokémon's Ability in battle when it switches out and is not suppressed; a Pokémon that obtained the Ability with Trace will have its status condition cured when it switches out, whereas a Pokémon which has Natural Cure but has been affected by Gastro Acid will not. Enemy trainers will only intentionally switch out a Pokémon with Natural Cure to heal them when they are asleep. Generations IV to VII [ edit | edit source ] Natural Cure also heals any status conditions upon completing a battle (if it was in battle at the end of the battle). Generation VIII onward [ edit | edit source ] Natural Cure no longer heals any status conditions upon completing a battle. Outside of battle [ edit | edit source ] From Generations IV to VII, Natural Cure automatically heals status conditions upon the end of a battle."
+    },
+    {
+      "title": "In battle",
+      "text": "Contents 1 In battle 1.1 Generation III 1.2 Generations IV to VII 1.3 Generation VIII onward In battle [ edit | edit source ] Generation III [ edit | edit source ] Natural Cure heals any status conditions upon switching out. This effect will occur if Natural Cure is the Pokémon's Ability in battle when it switches out and is not suppressed; a Pokémon that obtained the Ability with Trace will have its status condition cured when it switches out, whereas a Pokémon which has Natural Cure but has been affected by Gastro Acid will not. Enemy trainers will only intentionally switch out a Pokémon with Natural Cure to heal them when they are asleep. Generations IV to VII [ edit | edit source ] Natural Cure also heals any status conditions upon completing a battle (if it was in battle at the end of the battle). Generation VIII onward [ edit | edit source ] Natural Cure no longer heals any status conditions upon completing a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Recovers quickly from status problems. MD T D S Helps the Pokémon recover from status problems more quickly. B S L わるい じょうたいが なおるのが ふつうより はやい MD GtI Unavailable S MD Sometimes it cures every single bad status condition the Pokémon has! MD RT DX This Ability sometimes cures every bad status condition the Pokémon has."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Natural-Cure",
+    "Natural Cure",
+    "Natural-Cure (Ability)"
+  ],
+  "updatedAt": 1773329052
+}

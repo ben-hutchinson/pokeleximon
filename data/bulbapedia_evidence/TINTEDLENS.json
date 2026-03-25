@@ -1,0 +1,34 @@
+{
+  "answerKey": "TINTEDLENS",
+  "answerDisplay": "TINTED LENS",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Tinted Lens (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tinted_Lens_(Ability)",
+  "pageId": 14214,
+  "pageRevisionId": 4055264,
+  "leadText": "Tinted Lens (Japanese: いろめがね Tinted Glasses) is an Ability introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Tinted Lens doubles the damage done by any moves that the Pokémon uses which are \"not very effective\". This effect is independent of whether the type effectiveness is ½× or less. Outside of battle [ edit | edit source ] Tinted Lens has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Tinted Lens doubles the damage done by any moves that the Pokémon uses which are \"not very effective\". This effect is independent of whether the type effectiveness is ½× or less."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Boosts damage that the Pokémon inflicts with moves that are not very effective. B S L こうかが いまひとつのときに あたえるダメージが あがる MD GtI Unavailable S MD If the Pokémon uses a move that is not very effective, its power goes up! MD RT DX If the Pokémon uses a move that is not very effective, the move's power goes up."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Tinted-Lens",
+    "Tinted Lens",
+    "Tinted-Lens (Ability)"
+  ],
+  "updatedAt": 1773329283
+}

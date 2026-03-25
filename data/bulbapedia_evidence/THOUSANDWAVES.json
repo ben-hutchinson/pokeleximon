@@ -1,0 +1,30 @@
+{
+  "answerKey": "THOUSANDWAVES",
+  "answerDisplay": "THOUSAND WAVES",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Thousand Waves (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Thousand_Waves_(move)",
+  "pageId": 192776,
+  "pageRevisionId": 4479030,
+  "leadText": "Thousand Waves (Japanese: サウザンウェーブ Thousand Wave) is a damage-dealing Ground-type move introduced in Generation VI. It was not legitimately available until Generation VII. It is one of the signature moves of Zygarde.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Sword and Shield 1.1.2 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX 1.2.1 Pokémon Scarlet and Violet 1.2.2 Pokémon Legends: Z-A Effect [ edit | edit source ] Thousand Waves inflicts damage and prevents the target from fleeing or switching out as long as the user remains in battle. Ghost-type Pokémon cannot be trapped by this move. The trapping property of this move is not an additional effect . Generation VIII [ edit | edit source ] Pokémon Sword and Shield [ edit | edit source ] In Versions 1.0 to 1.2.1 of Pokémon Sword and Shield , Thousand Waves could not be selected in a battle. Starting with Version 1.3.0, it is usable and functions the same as it did in the previous generation. Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Thousand Waves cannot be selected in a battle. Generation IX [ edit | edit source ] Pokémon Scarlet and Violet [ edit | edit source ] Thousand Waves cannot be selected in a battle. Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 90 108 Cooldown 10s Move wind-up time 20 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM The user attacks with a wave that crawls along the ground. Those hit can't flee from battle. P E Sw Sh LA S V The user attacks with a wave that crawls along the ground. Those it hits can't flee from battle. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. ZA The user attacks by unleashing a wave that crawls along the ground. Any Pokémon hit by the wave cannot be switched out of battle."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Thousand-Waves",
+    "Thousand Waves",
+    "Thousand-Waves (move)"
+  ],
+  "updatedAt": 1773327912
+}

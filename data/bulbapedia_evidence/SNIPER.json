@@ -1,0 +1,33 @@
+{
+  "answerKey": "SNIPER",
+  "answerDisplay": "SNIPER",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Sniper (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sniper_(Ability)",
+  "pageId": 12232,
+  "pageRevisionId": 4407492,
+  "leadText": "Sniper (Japanese: スナイパー Sniper) is an Ability introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generation V 1.1.3 Generation VI onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Sniper increases critical-hit damage by 50%. Generation IV [ edit | edit source ] Critical hits will do 3× damage instead of 2× damage. Sniper cannot be activated by Beat Up . Generation V [ edit | edit source ] Sniper can now be activated by Beat Up. Additionally, rather than changing the critical hit multiplier directly, Sniper now multiplies by 1.5 the damage dealt by a move that deals a critical hit, applied last to damage as part of the \"final\" modifiers that get applied to the damage, resulting in virtually the same effect. Generation VI onward [ edit | edit source ] Critical hits will now effectively do only 2.25× damage, as a result of the critical hit multiplier being lowered to 1.5×. Outside of battle [ edit | edit source ] Sniper has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "Contents 1 In battle 1.1 Generation IV 1.2 Generation V 1.3 Generation VI onward In battle [ edit | edit source ] Sniper increases critical-hit damage by 50%. Generation IV [ edit | edit source ] Critical hits will do 3× damage instead of 2× damage. Sniper cannot be activated by Beat Up . Generation V [ edit | edit source ] Sniper can now be activated by Beat Up. Additionally, rather than changing the critical hit multiplier directly, Sniper now multiplies by 1.5 the damage dealt by a move that deals a critical hit, applied last to damage as part of the \"final\" modifiers that get applied to the damage, resulting in virtually the same effect. Generation VI onward [ edit | edit source ] Critical hits will now effectively do only 2.25× damage, as a result of the critical hit multiplier being lowered to 1.5×."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the damage the Pokémon inflicts with critical hits. B S L きゅうしょに こうげきを あてたときの ダメージが おおきくなる Conq. Powers up moves if they become critical hits. MD GtI Unavailable S MD Damage when an attack results in a critical hit goes up! MD RT DX This Ability increases the damage of moves that result in critical hits."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sniper",
+    "Sniper (Ability)"
+  ],
+  "updatedAt": 1773329215
+}

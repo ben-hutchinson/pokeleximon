@@ -1,0 +1,30 @@
+{
+  "answerKey": "WATERBUBBLE",
+  "answerDisplay": "WATER BUBBLE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Water Bubble (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Water_Bubble_(Ability)",
+  "pageId": 218213,
+  "pageRevisionId": 4407543,
+  "leadText": "Water Bubble (Japanese: すいほう Water Bubble) is an Ability introduced in Generation VII. It is the signature Ability of Dewpider and Araquanid.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Water Bubble halves the damage dealt to the Pokémon with this Ability by Fire-type attacks and doubles the power of Water-type moves used by the Pokémon with this Ability. It also prevents the Pokémon with the Ability from being burned . A Pokémon with Water Bubble will be cured of burn if it is burned while in battle (such as if it gains the Ability by an effect like Skill Swap , or is burned by a Pokémon with an Ability like Mold Breaker ). Outside of battle [ edit | edit source ] Water Bubble has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Water Bubble halves the damage dealt to the Pokémon with this Ability by Fire-type attacks and doubles the power of Water-type moves used by the Pokémon with this Ability. It also prevents the Pokémon with the Ability from being burned . A Pokémon with Water Bubble will be cured of burn if it is burned while in battle (such as if it gains the Ability by an effect like Skill Swap , or is burned by a Pokémon with an Ability like Mold Breaker )."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Water-Bubble",
+    "Water Bubble",
+    "Water-Bubble (Ability)"
+  ],
+  "updatedAt": 1773329306
+}

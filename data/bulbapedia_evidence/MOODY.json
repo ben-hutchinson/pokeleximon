@@ -1,0 +1,29 @@
+{
+  "answerKey": "MOODY",
+  "answerDisplay": "MOODY",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Moody (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Moody_(Ability)",
+  "pageId": 118118,
+  "pageRevisionId": 4407524,
+  "leadText": "Moody (Japanese: ムラっけ Caprice) is an Ability introduced in Generation V. It is exclusively a Hidden Ability.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation V to VII 1.1.2 Generation VIII onwards 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] At the end of each turn, Moody raises one of the stats of the Pokémon with this Ability by two stages (at random), then decreases another stat by one stage (at random). Moody will not attempt to lower a stat that is already at -6 or attempt to increase a stat that is already at +6. Moody will not select the same stat to lower as it raised. If all stats are already at +6, Moody will only decrease one random stat; likewise, if all stats are already at -6, Moody will only increase one random stat. Generation V to VII [ edit | edit source ] Moody can select the Pokémon's Attack , Defense , Special Attack , Special Defense , Speed , accuracy , or evasion . Generation VIII onwards [ edit | edit source ] Moody can no longer affect evasion or accuracy. Outside of battle [ edit | edit source ] Moody has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] At the end of each turn, Moody raises one of the stats of the Pokémon with this Ability by two stages (at random), then decreases another stat by one stage (at random). Moody will not attempt to lower a stat that is already at -6 or attempt to increase a stat that is already at +6. Moody will not select the same stat to lower as it raised. If all stats are already at +6, Moody will only decrease one random stat; likewise, if all stats are already at -6, Moody will only increase one random stat. Generation V to VII [ edit | edit source ] Moody can select the Pokémon's Attack , Defense , Special Attack , Special Defense , Speed , accuracy , or evasion . Generation VIII onwards [ edit | edit source ] Moody can no longer affect evasion or accuracy."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Moody",
+    "Moody (Ability)"
+  ],
+  "updatedAt": 1773329037
+}

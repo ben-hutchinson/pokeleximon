@@ -1,0 +1,17 @@
+{
+  "answerKey": "STARMIE",
+  "answerDisplay": "STARMIE",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Water / Psychic type Pokémon introduced in Generation 1.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/starmie",
+  "extract": "Starmie is a Water / Psychic type Pokémon introduced in Generation 1 .",
+  "rankPosition": 1,
+  "updatedAt": 1774213018
+}

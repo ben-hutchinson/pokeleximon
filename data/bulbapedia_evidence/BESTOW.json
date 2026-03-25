@@ -1,0 +1,33 @@
+{
+  "answerKey": "BESTOW",
+  "answerDisplay": "BESTOW",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Bestow (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bestow_(move)",
+  "pageId": 117486,
+  "pageRevisionId": 4389276,
+  "leadText": "Bestow (Japanese: ギフトパス Gift Pass) is a non-damaging Normal-type move introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation V 1.2 Generations VI and VII 1.3 Generation VIII onwards Effect [ edit | edit source ] Generation V [ edit | edit source ] The user transfers its held item to the target. It fails if the user has no held item, the target already has a held item, or the target is behind a substitute . Bestow bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . It is blocked by Protect and Detect . Items given away in Trainer battles return to the original Pokémon after the battle, but transfers are not reversed after a wild battle. Bestow will fail if the user holds Mail . It also fails if the user or the target is Giratina when the user holds a Griseous Orb , Arceus when the user holds a Plate , or if the user or the target is Genesect when the user holds a Drive . Generations VI and VII [ edit | edit source ] Bestow will hit the target even if it has used Protect , Detect , or Spiky Shield , but will fail if the target is protected by Crafty Shield . Bestow now ignores the target's substitute . Bestow will fail if the user holds a Z-Crystal . It also fails if the user holds a Mega Stone or a colored orb that could allow either Pokémon to undergo Mega Evolution or Primal Reversion , or if the user or the target is Silvally and the user holds a memory . Bestow can also be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if a certain move ( Celebrate , Covet , Happy Hour or Wish ) was used in the prior turn. If powered up by a Normalium Z into Z-Bestow, the user's Speed stat is raised by two stages, then the move itself will fail after obtaining the Z-Power since it won't be possible to transfer its own Z-Crystal. Generation VIII onwards [ edit | edit source ] Bestow cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E The user passes its held item to the target when the target isn't holding an item. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI UNUSED S MD You give your held item to the Pokémon in front of you. If it is already holding an item, you can't give your item to the Pokémon, so be careful! MD RT DX You give your held item to the Pokémon in front of you. If Pokémon is already holding an item, you can't give your item to the Pokémon, so be careful!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Bestow",
+    "Bestow (move)"
+  ],
+  "updatedAt": 1773321144
+}

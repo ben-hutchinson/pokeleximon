@@ -1,0 +1,83 @@
+{
+  "answerKey": "RECEIVER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4428377,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Receiver (Japanese: Receiver) is an Ability introduced in Generation VII. It is the signature Ability of Passimian.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IX 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] When an ally of the Pokemon with this Ability faints in battle (regardless of cause), Receiver will be replaced by the fainted Pokemon's Ability . Receiver will not activate if its ally had the Ability Receiver, Power of Alchemy , Trace , Forecast , Flower Gift , Multitype , Illusion , Wonder Guard , Zen Mode , Imposter , Stance Change , Power Construct , Schooling , Comatose , Shields Down , Disguise , RKS System , Battle Bond , Wandering Spirit , Gulp Missile , Ice Face , Hunger Switch , As One , Zero to Hero , Commander , Protosynthesis , or Quark Drive . Receiver cannot be copied by Role Play or Trace . Role Play and Entrainment will fail if used by a Pokemon with Receiver. Generation IX [ edit | edit source ] Starting from Version 3.0.0 of Pokemon Scarlet and Violet , Receiver can be replaced by Gulp Missile. Outside of battle [ edit | edit source ] Receiver has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When an ally of the Pokemon with this Ability faints in battle (regardless of cause), Receiver will be replaced by the fainted Pokemon's Ability . Receiver will not activate if its ally had the Ability Receiver, Power of Alchemy , Trace , Forecast , Flower Gift , Multitype , Illusion , Wonder Guard , Zen Mode , Imposter , Stance Change , Power Construct , Schooling , Comatose , Shields Down , Disguise , RKS System , Battle Bond , Wandering Spirit , Gulp Missile , Ice Face , Hunger Switch , As One , Zero to Hero , Commander , Protosynthesis , or Quark Drive . Receiver cannot be copied by Role Play or Trace . Role Play and Entrainment will fail if used by a Pokemon with Receiver. Generation IX [ edit | edit source ] Starting from Version 3.0.0 of Pokemon Scarlet and Violet , Receiver can be replaced by Gulp Missile.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "When an ally faints, this Pokemon gains its Ability.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "switching ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "debuffing ability",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "switching ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "debuffing ability",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
+        "style": "effect"
+      },
+      {
+        "text": "Gen VII ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [
+      "Switching abilities",
+      "Debuffing abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258000
+}

@@ -1,0 +1,17 @@
+{
+  "answerKey": "DRAMPA",
+  "answerDisplay": "DRAMPA",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Normal / Dragon type Pokémon introduced in Generation 7.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/drampa",
+  "extract": "Drampa is a Normal / Dragon type Pokémon introduced in Generation 7 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211072
+}

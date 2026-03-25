@@ -1,0 +1,33 @@
+{
+  "answerKey": "ELECTROWEB",
+  "answerDisplay": "ELECTROWEB",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Electroweb (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Electroweb_(move)",
+  "pageId": 117465,
+  "pageRevisionId": 4452054,
+  "leadText": "Electroweb (Japanese: エレキネット Elecnet) is a damage-dealing Electric-type move introduced in Generation V. It is: TM82 in Pokémon Sword and Shield. TM211 in Pokémon Scarlet and Violet. TM101 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Electroweb inflicts damage and then lowers the target's Speed stat by one stage. Electroweb targets all adjacent opponents. Electroweb can also be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if the move String Shot was used in the prior turn. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Electroweb cannot be selected in a battle. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 100% Standard Plus Move Power 55 66 Cooldown 7s Move wind-up time 10 frames Effect duration 5.1s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 The user captures and attacks opposing Pokémon by using an electric net. It reduces the targets' Speed stat. X Y OR AS S M US UM P E The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stat. Sw Sh LA The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stats. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user captures opposing Pokémon in an electric net to inflict damage. This also lowers their Speed stats. ZA The user attacks by catching targets in an electrified net. This also makes targets move more slowly for a short time."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It damages an enemy. It also lowers the enemy's Travel Speed. S MD It damages an enemy and lowers the enemy's Travel Speed for a while. * It damages an enemy. It also lowers the enemy's Travel Speed. * MD RT DX It damages an enemy. It also lowers the enemy's Travel Speed."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Electroweb",
+    "Electroweb (move)"
+  ],
+  "updatedAt": 1773322532
+}

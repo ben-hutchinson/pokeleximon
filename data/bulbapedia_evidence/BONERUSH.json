@@ -1,0 +1,38 @@
+{
+  "answerKey": "BONERUSH",
+  "answerDisplay": "BONE RUSH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Bone Rush (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bone_Rush_(move)",
+  "pageId": 3809,
+  "pageRevisionId": 4487983,
+  "leadText": "Bone Rush (Japanese: ボーンラッシュ Bone Rush) is a damage-dealing Ground-type multistrike move introduced in Generation II. Prior to Generation IV, it was one of the signature moves of Cubone and Marowak.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generations III and IV 1.3 Generation V onward Effect [ edit | edit source ] Generation II [ edit | edit source ] Bone Rush inflicts damage, hitting the target 2-5 times per use. There is a 37.5% chance that it will hit 2 times, a 37.5% chance that it will hit 3 times, a 12.5% chance that it will hit 4 times, and a 12.5% chance that it will hit 5 times. Each strike made has an equal chance to be a critical hit . Bide and Counter will only acknowledge the last strike of this move. If the user is holding a King's Rock , the final strike has a chance to cause the opponent to flinch . Generations III and IV [ edit | edit source ] If the user is holding a King's Rock or Razor Fang , each consecutive hit has an equal chance to cause the opponent to flinch . Bone Rush can be used as the first move of a Pokémon Contest combination , causing Bone Club and Bonemerang to score double the normal appeal if used in the next turn. It can also be used to finish a combination, with the user gaining 4 bonus appeal points if Bone Club , Bonemerang , or Focus Energy was used in the previous turn. Generation V onward [ edit | edit source ] The accuracy of Bone Rush is increased from 80% to 90%. There is now a 35% chance that it will hit 2 times, a 35% chance it will hit 3 times, a 15% chance it will hit 4 times, and a 15% chance it will hit 5 times. The average total base power (including the 10% base miss chance) is now 69.8. If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokémon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokémon has a maximum HP of 1. If the target has Weak Armor or Stamina , each strike will activate it."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A Ground -type attack. The attacker uses a bone to club the foe two to five times. G S C An attack that hits 2-5 times. R S E Strikes the foe with a bone in hand 2 to 5 times. FR LG The user strikes the foe with a bone in hand two to five times. Colo XD Strikes the target with a bone in hand 2 to 5 times. D P Pt HG SS PBR The user strikes at the foe with a hard bone two to five times in a row. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user strikes the target with a hard bone two to five times in a row. S V The user attacks by striking the target with a hard bone. This move hits two to five times in a row."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It hits two to five times in succession. MD T D S Inflicts damage on the target using 2 to 5 attacks in a single turn. B S L てきポケモンに ２〜５かいれんぞくで ダメージを あたえる MD GtI S MD MD RT DX It damages an enemy 2 to 5 times in a row."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Bone Rush is the only bone-themed move to be learned by Pokémon other than Cubone and Marowak ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Bone-Rush",
+    "Bone Rush",
+    "Bone-Rush (move)"
+  ],
+  "updatedAt": 1773321295
+}

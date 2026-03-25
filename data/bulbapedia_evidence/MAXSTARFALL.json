@@ -1,0 +1,30 @@
+{
+  "answerKey": "MAXSTARFALL",
+  "answerDisplay": "MAX STARFALL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Max Starfall (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Starfall_(move)",
+  "pageId": 243949,
+  "pageRevisionId": 4406163,
+  "leadText": "Max Starfall (Japanese: ダイフェアリー Dai Fairy) is a damage-dealing Fairy-type Max Move introduced in Generation VIII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Max Starfall inflicts damage and causes the battlefield to become Misty Terrain for 5 turns (8 if a Terrain Extender is held). Its power and whether it is a special or physical move depends on the move it is based on. Base move Pwr. Cat. Dazzling Gleam 130 Special Disarming Voice 90 Special Draining Kiss 100 Special Fairy Wind 90 Special Fleur Cannon 140 Special Light of Ruin 140 Special Misty Explosion 130 Special Moonblast 130 Special Nature's Madness 100 Special Play Rough 130 Physical Spirit Break 130 Physical Strange Steam 130 Special Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Max Starfall cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V This is a Fairy-type attack Dynamax Pokémon use. The user turns the ground into Misty Terrain for five turns. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Max-Starfall",
+    "Max Starfall",
+    "Max-Starfall (move)"
+  ],
+  "updatedAt": 1773324848
+}

@@ -1,0 +1,33 @@
+{
+  "answerKey": "ROTOTILLER",
+  "answerDisplay": "ROTOTILLER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Rototiller (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rototiller_(move)",
+  "pageId": 185072,
+  "pageRevisionId": 4270460,
+  "leadText": "Rototiller (Japanese: たがやす Plow) is a non-damaging Ground-type move introduced in Generation VI.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generations VI and VII [ edit | edit source ] Rototiller raises the Attack and Special Attack stats of all grounded Grass-type Pokémon on the field by one stage, except those that are in the semi-invulnerable turn of a move such as Fly or Dig . Rototiller fails if there are no eligible Grass-type Pokémon. Rototiller can also be used as part of a Contest Spectacular combination , causing certain moves ( Bullet Seed , Leech Seed , Seed Bomb , and Worry Seed ) to give an extra three appeal points if used in the next turn. If powered up by a Groundium Z into Z-Rototiller, the user's Attack stat rises by one stage. Generation VIII onwards [ edit | edit source ] Rototiller cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description X Y OR AS S M US UM P E Tilling the soil, the user makes it easier for plants to grow. This raises the Attack and Sp. Atk stats of Grass-type Pokémon. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S MD It boosts Attack and Sp. Atk of Grass types. It has no effect on Pokémon in the air. * It boosts the Attack and Sp. Atk of Grass-type Pokémon among you and your teammates in the same room. But it has no effect on Pokémon in the air. The stats return to normal when you go to the next floor or step on a Wonder Tile. *"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Rototiller",
+    "Rototiller (move)"
+  ],
+  "updatedAt": 1773326546
+}

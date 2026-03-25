@@ -1,0 +1,41 @@
+{
+  "answerKey": "MAXLURE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4429743,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "spelunking",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Effect [ edit | edit source ] When used from the Bag in the overworld, it increases encounter rates of rarer wild Pokemon , including Shiny Pokemon , for 250 steps . It also causes all wild Pokemon spawned to have a level 1 greater than the highest level normally in the area (for example, if an area's wild Pokemon normally range from level 3 to level 5, all wild Pokemon will be level 6 instead).",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "spelunking",
+        "evidence_ref": "lead",
+        "mystery_score": 0.35,
+        "specificity_score": 0.52,
+        "style": "category"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "spelunking"
+    ],
+    "connections_descriptors": [
+      "Spelunking"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257971
+}

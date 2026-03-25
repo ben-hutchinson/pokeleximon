@@ -1,0 +1,33 @@
+{
+  "answerKey": "BONEMERANG",
+  "answerDisplay": "BONEMERANG",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Bonemerang (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bonemerang_(move)",
+  "pageId": 3764,
+  "pageRevisionId": 4462265,
+  "leadText": "Bonemerang (Japanese: ホネブーメラン Bone Boomerang) is a damage-dealing Ground-type multistrike move introduced in Generation I. It is one of the signature moves of Cubone and Marowak.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generations III and IV 1.4 Generations V to VII 1.5 Generation VIII 1.6 Generation IX Effect [ edit | edit source ] Generation I [ edit | edit source ] Bonemerang inflicts damage, hitting the target twice per use. Although only the first strike can be a critical hit , the second one will deal the same amount of damage. Bonemerang will end immediately if the first strike breaks a substitute . Bide will only acknowledge the second strike of this move. Generation II [ edit | edit source ] Each strike now does damage independently, consequently enabling either of them to be critical. Bonemerang will now hit again if the first strike breaks a substitute. If the user is holding a King's Rock , the final strike has a chance to cause the opponent to flinch . Generations III and IV [ edit | edit source ] If the user is holding a King's Rock or Razor Fang , each consecutive hit has an equal chance to cause the opponent to flinch . Bonemerang can be used as the first move of a Pokémon Contest combination , causing Bone Club and Bone Rush to score double the normal appeal if used in the next turn. It can also be used to finish a combination, with the user gaining 4 bonus appeal points if Bone Club or Bone Rush was used in the previous turn. Generations V to VII [ edit | edit source ] If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokémon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokémon has a maximum HP of 1. If the target has Weak Armor or Stamina , each strike will activate it. Generation VIII [ edit | edit source ] In Versions 1.0 to 1.1.1 of Pokémon Sword and Shield , Bonemerang could not be selected in a battle. Starting with Version 1.2.0, it can be selected and functions as it did in previous generations. Generation IX [ edit | edit source ] Bonemerang cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A boomerang made of bone is thrown to inflict damage twice -- on the way out and on its return. Stad2 A boomerang made of bone is thrown to inflict damage twice, on the way out and on return. G S C An attack that strikes twice. R S E Colo XD Throws a bone boomerang that strikes twice. FR LG The user throws a bone that hits the foe once, then once again on return. D P Pt HG SS PBR The user throws the bone it holds. The bone loops to hit the foe twice, coming and going. B W B2 W2 X Y OR AS The user throws the bone it holds. The bone loops to hit the target twice, coming and going. S M US UM P E Sw Sh BD SP LA The user throws the bone it holds. The bone loops around to hit the target twice—coming and going. S V The user throws the bone it holds. The bone loops around to damage the target twice—coming and going. ZA The user attacks by throwing the bone it holds two times, one after the other."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Strikes the target twice, even at a distance. MD T D S Inflicts damage on the target using 2 attacks in a single turn, even at a distance. B S L はなれたポケモンに ２かいれんぞくで ダメージを あたえる MD GtI UNUSED S MD It even damages faraway Pokémon 2 times in a row. MD RT DX It damages even faraway Pokémon 2 times in a row. Monopoly: Pokémon Exclusive Kanto Edition The Bonemarangs [ sic ] strike twice! When an opponent lands on one of your properties, they have to pay double the rent due."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Bonemerang",
+    "Bonemerang (move)"
+  ],
+  "updatedAt": 1773321293
+}

@@ -1,0 +1,76 @@
+{
+  "answerKey": "SANDVEIL",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4407371,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Sand Veil (Japanese: Hidden in Sand) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Boosts Evasion if there is a sandstorm. MD T D S Boosts the Pokemon's evasiveness during a sandstorm. B S L MD GtI Unavailable S MD The Pokemon isn't damaged by a sandstorm, and its evasiveness goes up while the sandstorm is in effect! MD RT DX The Pokemon isn't damaged by the Sandstorm weather condition, and its evasiveness goes up while a sandstorm is in effect.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.2 Outside of battle 1.2.1 Generation VIII 1.2.2 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] During a sandstorm , the accuracy of any move used against a Pokemon with this Ability is modified by a factor of 4 / 5 (approximated as a factor of 3277/4096 since Generation V). A Pokemon with this Ability will take no damage from the sandstorm if it otherwise would. Outside of battle [ edit | edit source ] From Pokemon Emerald onwards, if a Pokemon with Sand Veil is in the first place in the party (even if fainted ) in an area with a sandstorm (such as Route 228 in Sinnoh ), the chance of encountering a wild Pokemon is decreased by 50%. Generation VIII [ edit | edit source ] This Ability appears to have no effect on encounter rate in Pokemon Sword and Shield . Generation IX [ edit | edit source ] This Ability appears to have no effect on encounter rate in Pokemon Scarlet and Violet .",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] During a sandstorm , the accuracy of any move used against a Pokemon with this Ability is modified by a factor of 4 / 5 (approximated as a factor of 3277/4096 since Generation V). A Pokemon with this Ability will take no damage from the sandstorm if it otherwise would.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Increases evasion to 1.25 during a sandstorm. Protects against sandstorm damage.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "protective trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "protective trait",
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Protective abilities",
+      "Weather abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258006
+}

@@ -1,0 +1,33 @@
+{
+  "answerKey": "GLUTTONY",
+  "answerDisplay": "GLUTTONY",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Gluttony (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Gluttony_(Ability)",
+  "pageId": 14250,
+  "pageRevisionId": 4359444,
+  "leadText": "Gluttony redirects here. For the Ultra Beast codenamed UB Gluttony in Japanese, see Guzzlord (Pokémon). Gluttony (Japanese: くいしんぼう Glutton) is an Ability introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Affected Berries 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Gluttony causes the Pokémon to eat Berries that would normally be eaten at 25% HP or lower to be eaten at 50% HP or lower instead. It has no effect on Berries that activate at other HP thresholds (such as the Oran Berry , which is normally eaten at 50% HP or less) or Berries with non-HP-related trigger conditions (such as the Leppa Berry and Lum Berry ). Affected Berries [ edit | edit source ] In Generation VII , the Berries that may cause confusion , such as the Figy Berry and Mago Berry , are now eaten at 25% HP or less instead of being eaten at 50% HP or less, so are now affected by Gluttony. Berry Generations IV V VI VII VIII IX Figy Berry ✘ ✘ ✘ ✔ ✔ ✔ Wiki Berry ✘ ✘ ✘ ✔ ✔ ✔ Mago Berry ✘ ✘ ✘ ✔ ✔ ✔ Aguav Berry ✘ ✘ ✘ ✔ ✔ ✔ Iapapa Berry ✘ ✘ ✘ ✔ ✔ ✔ Liechi Berry ✔ ✔ ✔ ✔ ✔ ✔ Ganlon Berry ✔ ✔ ✔ ✔ ✔ ✔ Salac Berry ✔ ✔ ✔ ✔ ✔ ✔ Petaya Berry ✔ ✔ ✔ ✔ ✔ ✔ Apicot Berry ✔ ✔ ✔ ✔ ✔ ✔ Lansat Berry ✔ ✔ ✔ ✔ ✔ ✔ Starf Berry ✔ ✔ ✔ ✔ ✔ ✔ Micle Berry ✔ ✔ ✔ ✔ ✔ ✔ Custap Berry ✔ ✔ ✔ ✔ ✔ ✔ Outside of battle [ edit | edit source ] Gluttony has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Gluttony causes the Pokémon to eat Berries that would normally be eaten at 25% HP or lower to be eaten at 50% HP or lower instead. It has no effect on Berries that activate at other HP thresholds (such as the Oran Berry , which is normally eaten at 50% HP or less) or Berries with non-HP-related trigger conditions (such as the Leppa Berry and Lum Berry ). Affected Berries [ edit | edit source ] In Generation VII , the Berries that may cause confusion , such as the Figy Berry and Mago Berry , are now eaten at 25% HP or less instead of being eaten at 50% HP or less, so are now affected by Gluttony. Berry Generations IV V VI VII VIII IX Figy Berry ✘ ✘ ✘ ✔ ✔ ✔ Wiki Berry ✘ ✘ ✘ ✔ ✔ ✔ Mago Berry ✘ ✘ ✘ ✔ ✔ ✔ Aguav Berry ✘ ✘ ✘ ✔ ✔ ✔ Iapapa Berry ✘ ✘ ✘ ✔ ✔ ✔ Liechi Berry ✔ ✔ ✔ ✔ ✔ ✔ Ganlon Berry ✔ ✔ ✔ ✔ ✔ ✔ Salac Berry ✔ ✔ ✔ ✔ ✔ ✔ Petaya Berry ✔ ✔ ✔ ✔ ✔ ✔ Apicot Berry ✔ ✔ ✔ ✔ ✔ ✔ Lansat Berry ✔ ✔ ✔ ✔ ✔ ✔ Starf Berry ✔ ✔ ✔ ✔ ✔ ✔ Micle Berry ✔ ✔ ✔ ✔ ✔ ✔ Custap Berry ✔ ✔ ✔ ✔ ✔ ✔"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Speeds up the Belly's food consumption. B S L おなかの へりかたが はやい MD GtI When the Pokémon eats or drinks an item, its HP will be restored. * When the Pokémon eats or drinks an item, some HP will be restored, too! * S MD MD RT DX When the Pokémon eats or drinks an item, some HP will be restored, too!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Gluttony",
+    "Gluttony (Ability)"
+  ],
+  "updatedAt": 1774214096
+}

@@ -1,0 +1,62 @@
+{
+  "answerKey": "WINDPOWER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4457760,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Wind Power (Japanese: Wind-Powered Electricity) is an Ability introduced in Generation IX. It is the signature Ability of Wattrel and Kilowattrel.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.1.1 Affected moves 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Wind Power is hit by a wind move or when Tailwind takes effect, it becomes charged , boosting the power of the next Electric-type move it uses. When this Ability is triggered, the message \" Being hit by charged with power! \" is displayed, even if it causes the Pokemon with Wind Power to faint. If the opposing wind move causes the Pokemon to faint, Wind Power displays the message before the Pokemon faints. Despite being classified as a wind move, Sandstorm , due to the move targeting the field, is the only one that does not interact with Wind Power at all. Affected moves [ edit | edit source ] Move Type Cat. IX Aeroblast Flying Special Air Cutter Flying Special Bleakwind Storm Flying Special Blizzard Ice Special Fairy Wind Fairy Special Gust Flying Special Heat Wave Fire Special Hurricane Flying Special Icy Wind Ice Special Petal Blizzard Grass Physical Sandsear Storm Ground Special Sandstorm Rock Status Springtide Storm Fairy Special Tailwind Flying Status Twister Dragon Special Whirlwind Normal Status Wildbolt Storm Electric Special Outside of battle [ edit | edit source ] Wind Power has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] When a Pokemon with Wind Power is hit by a wind move or when Tailwind takes effect, it becomes charged , boosting the power of the next Electric-type move it uses. When this Ability is triggered, the message \" Being hit by charged with power! \" is displayed, even if it causes the Pokemon with Wind Power to faint. If the opposing wind move causes the Pokemon to faint, Wind Power displays the message before the Pokemon faints. Despite being classified as a wind move, Sandstorm , due to the move targeting the field, is the only one that does not interact with Wind Power at all. Affected moves [ edit | edit source ] Move Type Cat. IX Aeroblast Flying Special Air Cutter Flying Special Bleakwind Storm Flying Special Blizzard Ice Special Fairy Wind Fairy Special Gust Flying Special Heat Wave Fire Special Hurricane Flying Special Icy Wind Ice Special Petal Blizzard Grass Physical Sandsear Storm Ground Special Sandstorm Rock Status Springtide Storm Fairy Special Tailwind Flying Status Twister Dragon Special Whirlwind Normal Status Wildbolt Storm Electric Special",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "When hit by a wind move, the power of the next Electric-type move it uses is doubled.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Weather abilities",
+      "Gen IX abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258034
+}

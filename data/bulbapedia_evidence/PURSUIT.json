@@ -1,0 +1,37 @@
+{
+  "answerKey": "PURSUIT",
+  "answerDisplay": "PURSUIT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Pursuit (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Pursuit_(move)",
+  "pageId": 3839,
+  "pageRevisionId": 4500910,
+  "leadText": "Pursuit (Japanese: おいうち Pursuing Attack) is a damage-dealing Dark-type move introduced in Generation II.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III 1.3 Generation IV 1.4 Generation V to VII 1.5 Generation VIII onwards Effect [ edit | edit source ] Generation II [ edit | edit source ] Pursuit inflicts damage with a power of 40. If the target Pokémon is switched out on the turn Pursuit is used, Pursuit's power doubles, and it will immediately be used before it is switched out (including an accuracy check). This does not apply if used on an ally switching out, on a fleeing Pokémon, on a Pokémon using Teleport or Baton Pass , or on a Pokémon being forced to switch out. Generation III [ edit | edit source ] If the target is switched out, Pursuit will no longer perform an accuracy check (but always hit the target with double power before it is switched out). Pursuit is no longer affected by King's Rock . Generation IV [ edit | edit source ] Pursuit will now hit any adjacent opponent that attempts to switch out (but not more than one per turn), regardless of who it originally targeted. This effect bypasses redirection effects such as Follow Me . If the target is using U-turn , Pursuit's special effect will activate only if the user of Pursuit would usually act later than the target (its power will only be doubled in that case). In the Japanese version of Pokémon Diamond and Pearl , when a Pokémon holding a Choice item uses Pursuit and the opponent Pokémon switches out, the Pokémon holding the item is allowed to change its move on the next turn. This glitch was fixed in localized versions and Platinum . In Pokémon Platinum , and HeartGold and SoulSilver , this move can trigger the acid rain glitch by knocking out a target that was about to switch while Trick Room , Gravity , Uproar , or any type of weather other than rain is active. Generation V to VII [ edit | edit source ] If the target is using Volt Switch or Parting Shot , Pursuit's special effect will activate only if the user of Pursuit would usually act later than the target (its power will only be doubled in that case). Pursuit is now affected by King's Rock. Generation VIII onwards [ edit | edit source ] Pursuit cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A Dark -type attack. It inflicts major damage if the target switches out in the same turn. G S C Heavily strikes switching Pok é mon . R S E Inflicts bad damage if used on a foe switching out. FR LG An attack move that works especially well on a foe that is switching out. Colo XD Inflicts bad damage if used on a target switching out. D P Pt HG SS PBR An attack move that inflicts double damage if used on a foe that is switching out of battle. B W B2 W2 X Y OR AS An attack move that inflicts double damage if used on a target that is switching out of battle. S M US UM P E The power of this attack move is doubled if it's used on a target that's switching out of battle. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Counter status. Any damage from Physical Attack moves or a regular attack is partially returned. MD T D Gives the user the Counter status. It returns damage from certain types of moves or a regular attack back to the attacking enemy. MD S Gives the user the Counter status. It returns damage from Physical Attack moves back to the attacking enemy. B S L じぶんを カウンターじょうたいにかえる てきからうけた ぶつりこうげきの わざや こうげきのダメージを あいてにかえす MD GtI It damages an enemy. The damage it causes goes up if the enemy has a bad status condition. S MD It damages an enemy. The damage goes up if the enemy has a bad status condition. MD RT DX It damages an enemy. The damage goes up if the enemy has a bad status."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Although Pursuit is the only move that can be performed before switching , its priority is still 0."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Pursuit",
+    "Pursuit (move)"
+  ],
+  "updatedAt": 1773326134
+}

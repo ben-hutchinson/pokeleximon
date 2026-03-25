@@ -1,0 +1,30 @@
+{
+  "answerKey": "CHILLINGWATER",
+  "answerDisplay": "CHILLING WATER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Chilling Water (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Chilling_Water_(move)",
+  "pageId": 277795,
+  "pageRevisionId": 4479315,
+  "leadText": "Chilling Water (Japanese: ひやみず Cold Water) is a damage-dealing Water-type move introduced in Generation IX. It is TM022 in Pokémon Scarlet and Violet and TM110 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Chilling Water inflicts damage and lowers the target's Attack by one stage. Chilling Water cannot be called by Metronome ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user attacks the target by showering it with water that's so cold it saps the target's power. This also lowers the target's Attack stat. ZA The user attacks targets by showering them with water that's so cold it saps their power. This also lowers targets' Attack stats for a short time."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Chilling-Water",
+    "Chilling Water",
+    "Chilling-Water (move)"
+  ],
+  "updatedAt": 1773321653
+}

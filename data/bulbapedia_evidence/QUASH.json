@@ -1,0 +1,37 @@
+{
+  "answerKey": "QUASH",
+  "answerDisplay": "QUASH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Quash (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Quash_(move)",
+  "pageId": 117388,
+  "pageRevisionId": 4431018,
+  "leadText": "Quash (Japanese: さきおくり Postpone) is a non-damaging Dark-type move introduced in Generation V. It was TM60 from Generation V to Pokémon Ultra Sun and Ultra Moon.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation V to VII [ edit | edit source ] The target of Quash will act last in that turn, ignoring priority , provided it has not yet acted. The effect of Quash is ignored by After You . If multiple Pokémon are affected by Quash, they move in the order they were affected by Quash. If powered up by a Darkinium Z into Z-Quash, the user's Speed stat is raised by one stage. Generation VIII onwards [ edit | edit source ] If multiple Pokémon are affected by Quash, they now move fastest to slowest. Due to a glitch , in a Double Battle where the player who didn't initiate the challenge is down to their final Pokémon, that Pokémon's Quash originally failed when used against the opponent on their right, regardless of what move that Pokémon selected for the turn. With the release of the version 1.1 update to Sword and Shield , this glitch was fixed and Quash can now correctly hit Pokémon in that position."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user suppresses the target and makes its move go last."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI UNUSED S MD It causes an enemy to flinch, making it unable to attack on the next turn. * It causes an enemy to flinch. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Although Quash was introduced in Generation V , no Pokémon introduced in that generation can learn it. Many Pokémon that learn this move share a royal theme, these Pokémon are: Nidoqueen , Nidoking , Alolan Meowth , Alolan Persian , Kingler , Slowking , Kingdra , Slaking , Empoleon , Vespiquen , and Palossand ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Quash",
+    "Quash (move)"
+  ],
+  "updatedAt": 1773326159
+}

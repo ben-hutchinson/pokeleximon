@@ -1,0 +1,83 @@
+{
+  "answerKey": "MATCHAGOTCHA",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4492351,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX Grass move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Grass special move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Effect [ edit | edit source ] Matcha Gotcha deals damage and restores the user's HP equal to up to half of the damage dealt. It also has a 20% chance of burning targets. Matcha Gotcha hits both opponents in a Double Battle . If the target has the Ability Liquid Ooze , the user will lose the amount of HP it would have gained instead. If Matcha Gotcha is used in a Double Battle when one of the opponents has the ability Liquid Ooze, the user will take damage from that ability first, and then heal of HP from the other opponent. If the user is holding a Big Root , the HP restored is increased by 30% (making the restored HP 65% of the damage dealt). Big Root does not increase the damage dealt. Upon execution, Matcha Gotcha will thaw the user if frozen . Matcha Gotcha also thaws a frozen target hit by it.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "80-power move",
+        "evidence_ref": "lead",
+        "specificity": 0.58
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "healing move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "burning move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Grass special move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen IX Grass move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "80-power move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.36,
+        "specificity_score": 0.65,
+        "style": "stats"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "grass special move"
+    ],
+    "connections_descriptors": [
+      "Healing moves",
+      "Burning moves",
+      "Grass Special moves"
+    ],
+    "risk_flags": [
+      "stat_specific"
+    ],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257971
+}

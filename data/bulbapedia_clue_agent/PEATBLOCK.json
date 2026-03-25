@@ -1,0 +1,53 @@
+{
+  "answerKey": "PEATBLOCK",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4482376,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "evolution",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Effect [ edit | edit source ] Causes Ursaring to evolve into Ursaluna when used during a full moon. This consumes the Peat Block.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Evolution item",
+        "evidence_ref": "lead",
+        "specificity": 0.76
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Evolution item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.76,
+        "style": "family"
+      },
+      {
+        "text": "Evolution-trigger item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.54,
+        "specificity_score": 0.8,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "evolution item"
+    ],
+    "connections_descriptors": [
+      "Evolution items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774257991
+}

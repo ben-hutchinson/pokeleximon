@@ -1,0 +1,26 @@
+{
+  "answerKey": "STEAMDRIFTWAY",
+  "answerDisplay": "STEAMDRIFT WAY",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Galar Route 8",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Galar_Route_8",
+  "pageId": 244976,
+  "pageRevisionId": 4229294,
+  "leadText": "Route 8 (Japanese: ８番道路 Route 8) is a route in northeast Galar that connects Route 7 and Circhester. The northern portion of the route is also known as Steamdrift Way (Japanese: 湯けむり小路 Steamy Path).",
+  "sections": [
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The theme for this route, as well as Routes 6 , 7 , and 9 , is a shortened version of the theme used in the northern parts of the Wild Area ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Steamdrift-Way",
+    "Steamdrift Way",
+    "Steamdrift-Way (location)"
+  ],
+  "updatedAt": 1773327546
+}

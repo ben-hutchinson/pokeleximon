@@ -1,0 +1,34 @@
+{
+  "answerKey": "METEORASSAULT",
+  "answerDisplay": "METEOR ASSAULT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Meteor Assault (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Meteor_Assault_(move)",
+  "pageId": 241013,
+  "pageRevisionId": 4472035,
+  "leadText": "Meteor Assault (Japanese: スターアサルト Star Assault) is a damage-dealing Fighting-type move introduced in Generation VIII. It is the signature move of Sirfetch'd.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] Meteor Assault inflicts damage and then forces the user to recharge during the next turn. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Meteor Assault cannot be selected in a battle. Generation IX [ edit | edit source ] Meteor Assault cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V The user attacks wildly with its thick leek. The user can't move on the next turn, because the force of this move makes it stagger. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. ZA The user attacks wildly with its thick leek. However, this also makes the user stagger, leaving it unable to move for a short time."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Meteor Assault is tied with Focus Punch for having the highest base power of all Fighting-type moves, excluding Z-Moves and Reversal at its full power."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Meteor-Assault",
+    "Meteor Assault",
+    "Meteor-Assault (move)"
+  ],
+  "updatedAt": 1773324987
+}

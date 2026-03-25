@@ -1,0 +1,66 @@
+{
+  "answerKey": "MERCILESS",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4200370,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Merciless (Japanese: Brute) is an Ability introduced in Generation VII. It is the signature Ability of Mareanie and Toxapex.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Attacks used by the Pokemon with this Ability will always become critical hits against poisoned targets, unless that target has Battle Armor or Shell Armor or is under the effects of Lucky Chant . Outside of battle [ edit | edit source ] Merciless has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Attacks used by the Pokemon with this Ability will always become critical hits against poisoned targets, unless that target has Battle Armor or Shell Armor or is under the effects of Lucky Chant .",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "This Pokemon's moves critical hit against poisoned targets.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "critical-hit trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "poisoning trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "critical-hit trait",
+      "poisoning trait"
+    ],
+    "connections_descriptors": [
+      "Critical-Hit abilities",
+      "Poisoning abilities",
+      "Gen VII abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257974
+}

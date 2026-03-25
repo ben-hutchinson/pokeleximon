@@ -1,0 +1,57 @@
+{
+  "answerKey": "SOULHEART",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 3847795,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Soul-Heart redirects here. For the ending theme to Volcanion and the Mechanical Marvel, see Soul-Heart (song). Soul-Heart (Japanese: Soul-Heart) is an Ability introduced in Generation VII. It is the signature Ability of Magearna.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Soul-Heart raises the user's Special Attack by one stage every time another Pokemon faints , which includes its allies and opponents. Outside of battle [ edit | edit source ] Soul-Heart has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] Soul-Heart raises the user's Special Attack by one stage every time another Pokemon faints , which includes its allies and opponents.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "This Pokemon's Special Attack rises by one stage every time any Pokemon faints.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "boosting trait",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "boosting trait"
+    ],
+    "connections_descriptors": [
+      "Boosting abilities",
+      "Gen VII abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258016
+}

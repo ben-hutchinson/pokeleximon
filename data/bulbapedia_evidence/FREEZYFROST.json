@@ -1,0 +1,30 @@
+{
+  "answerKey": "FREEZYFROST",
+  "answerDisplay": "FREEZY FROST",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Freezy Frost (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Freezy_Frost_(move)",
+  "pageId": 233652,
+  "pageRevisionId": 4390951,
+  "leadText": "Freezy Frost (Japanese: こちこちフロスト Frozen-Stiff Frost) is a damage-dealing Ice-type move introduced during Generation VII, in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. It is one of the signature moves of the partner Eevee.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VII [ edit | edit source ] Freezy Frost deals damage and resets the stat stages of all active Pokémon on the field to 0. Generation VIII onwards [ edit | edit source ] Freezy Frost cannot be selected in a battle. However, it has been modified: its power was changed to 100, its accuracy to 90%, and its PP to 10."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description P E The user attacks with a crystal made of cold frozen haze. It eliminates every stat change among all the Pokémon engaged in battle. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Freezy-Frost",
+    "Freezy Frost",
+    "Freezy-Frost (move)"
+  ],
+  "updatedAt": 1773322993
+}

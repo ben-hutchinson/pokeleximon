@@ -1,0 +1,34 @@
+{
+  "answerKey": "DOUBLEKICK",
+  "answerDisplay": "DOUBLE KICK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Double Kick (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Double_Kick_(move)",
+  "pageId": 3632,
+  "pageRevisionId": 4485081,
+  "leadText": "Double Kick (Japanese: にどげり Double Kick) is a damage-dealing Fighting-type multistrike move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II 1.3 Generations III and IV 1.4 Generation V onwards Effect [ edit | edit source ] Generation I [ edit | edit source ] Double Kick inflicts damage, hitting the target twice per use. Although only the first strike can be a critical hit , the second one will deal the same amount of damage. Double Kick will end immediately if the first strike breaks a substitute . Bide and Counter will only acknowledge the second strike of this move. Generation II [ edit | edit source ] Each strike now does damage independently, consequently enabling either of them to be critical hits . If the user is holding a King's Rock , the final strike has a chance to cause the opponent to flinch . Generations III and IV [ edit | edit source ] Double Kick will now hit again if the first strike breaks a substitute. If the target has an Ability that activates upon contact , each strike counts individually, enabling the Ability to activate twice. If the user is holding a King's Rock or Razor Fang , each consecutive hit has an equal chance to cause the opponent to flinch . Generation V onwards [ edit | edit source ] If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokémon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokémon has a maximum HP of 1. If the target has Weak Armor or Stamina , each strike will activate it. If the target is holding a Rocky Helmet , the user is damaged for each strike."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A Fighting -type attack. As the name implies, it is actually two quick kicks in succession. G S C A double kicking attack. R S E A double-kicking attack that strikes the foe twice. FR LG Two legs are used to quickly kick the foe twice in one turn. Colo XD A double-kicking attack that hits the target twice. D P Pt HG SS PBR The foe is quickly kicked twice in succession using both feet. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The target is quickly kicked twice in succession using both feet. S V The user attacks by kicking the target twice in a row using two feet."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Attacks the target twice in succession. MD T D S Inflicts damage on the target using 2 kicks in a single turn. B S L てきポケモンに ２かいれんぞくで ダメージを あたえる MD GtI S MD MD RT DX It damages an enemy 2 times in a row."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Double-Kick",
+    "Double Kick",
+    "Double-Kick (move)"
+  ],
+  "updatedAt": 1773322222
+}

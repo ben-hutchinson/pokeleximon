@@ -1,0 +1,30 @@
+{
+  "answerKey": "CAPEBRINK",
+  "answerDisplay": "CAPE BRINK",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Cape Brink",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Cape_Brink",
+  "pageId": 12913,
+  "pageRevisionId": 4487466,
+  "leadText": "Cape Brink (Japanese: きわのみさき Cape Brink) is a short, straightforward walk up a mountain on Two Island to the house of one of the many Move Tutors in Pokémon FireRed and LeafGreen.",
+  "sections": [
+    {
+      "title": "Route description",
+      "text": "Route description [ edit | edit source ] Leaving Two Island by way of an uphill path in its northeast corner, Cape Brink's path quickly turns to the west, leading Trainers around a small lake. From here, it goes up the mountain's path, passing through some tall grass on the way. The only thing at the top of this semi-isolated mountain is the home of a Move Tutor who will teach a fully evolved Kanto first partner Pokémon a move otherwise unavailable—either Frenzy Plant , Blast Burn , or Hydro Cannon . The Pokémon must have maximum friendship and each of these moves can be taught only once. After the Trainer has finished their business on Cape Brink's northern end, they can take an express path back down the mountain using Surf to travel down a waterfall and back to the plateau just north of Two Island ."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Rare Candy Behind the Move Tutor 's house, in the corner (hidden) FR LG PP Max On the square of land southeast of the waterfall (requires Surf and using Itemfinder at that spot) FR LG"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Cape-Brink",
+    "Cape Brink",
+    "Cape-Brink (location)"
+  ],
+  "updatedAt": 1774213731
+}

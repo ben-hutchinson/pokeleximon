@@ -1,0 +1,17 @@
+{
+  "answerKey": "MRRIME",
+  "answerDisplay": "MR RIME",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is an Ice / Psychic type Pokémon introduced in Generation 8.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/mr-rime",
+  "extract": "Rime is an Ice / Psychic type Pokémon introduced in Generation 8 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212139
+}

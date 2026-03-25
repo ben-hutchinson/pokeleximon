@@ -1,0 +1,38 @@
+{
+  "answerKey": "SWORDSDANCE",
+  "answerDisplay": "SWORDS DANCE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Swords Dance (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Swords_Dance_(move)",
+  "pageId": 3622,
+  "pageRevisionId": 4503570,
+  "leadText": "Swords Dance (Japanese: つるぎのまい Swords Dance) is a non-damaging Normal-type move introduced in Generation I. It is: TM03 in Generation I. TM75 from Generation IV to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TR00 in Pokémon Sword and Shield. TM088 in Pokémon Scarlet and Violet. TM030 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I to V 1.2 Generation VI onwards 1.3 Generation VIII 1.3.1 Pokémon Legends: Arceus 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation I to V [ edit | edit source ] Swords Dance increases the user's Attack stat by two stages. Swords Dance can be used as the first move of a Pokémon Contest combination , causing Crabhammer , Crush Claw , Cut , False Swipe , Fury Cutter , and Slash to score double the normal appeal if used in the next turn. Generation VI onwards [ edit | edit source ] Swords Dance's PP changed from 30 to 20. If powered up by a Normalium Z into Z-Swords Dance, all of the user's lowered stats are reset. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Swords Dance raises the user's offensive stats for five turns. Pokémon Legends: Arceus Category Status PP 20 Agile Strong Power — — — Accuracy —% —% —% Action speed modifier Self -3 -4 +5 Target ? ? ? Additional effect Turns 5 4 7 ? ? ? ? Raises the user's offensive stats Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 15s Move wind-up time 25 frames Effect duration 20s 23s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A special move that greatly boosts the user's Attack power. Can normally be used up to three times. Stad2 A special move that boosts the user's Attack power. Normally used up to three times. G S C A dance that increases Attack . R S E Colo XD A fighting dance that sharply raises Attack . FR LG A frenetic dance of fighting. It sharply raises the Attack stat. D P Pt HG SS PBR B W B2 W2 A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat. X Y OR AS S M US UM P E Sw Sh BD SP A frenetic dance to uplift the fighting spirit. This sharply raises the user's Attack stat. LA A frenetic dance to uplift the fighting spirit. This raises the user’s offensive stats. S V A frenetic dance to uplift the fighting spirit. This sharply boosts the user's Attack stat. ZA The user boosts its Attack stat for a while by performing a frenetic dance."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts the user's Attack by two levels. MD T D S Boosts the user's Attack by 2 levels. B S L じぶんの こうげきを ２だんかいあげる MD GtI It sharply boosts your Attack. (The stat change returns to normal when you go to the next floor or step on a Wonder Tile.) S MD It sharply boosts your Attack. The stat change returns to normal when you go to the next floor or step on a Wonder Tile."
+    },
+    {
+      "title": "Pokédex entries",
+      "text": "Pokédex entries [ edit | edit source ] Episode Subject Source Entry EP097 Swords Dance Ash's Pokédex Swords Dance, Scyther 's special attack . Scyther spins furiously to focus its energy and increase its attack power ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Swords-Dance",
+    "Swords Dance",
+    "Swords-Dance (move)"
+  ],
+  "updatedAt": 1773327755
+}

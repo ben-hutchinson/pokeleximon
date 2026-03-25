@@ -1,0 +1,17 @@
+{
+  "answerKey": "BRITTLEBONES",
+  "answerDisplay": "BRITTLE BONES",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this item, including added effects and where to find it.",
+  "score": 102.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/item/brittle-bones",
+  "extract": "Bones, including added effects and where to find it.",
+  "rankPosition": 1,
+  "updatedAt": 1774210762
+}

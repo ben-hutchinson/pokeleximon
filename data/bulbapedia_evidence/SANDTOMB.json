@@ -1,0 +1,38 @@
+{
+  "answerKey": "SANDTOMB",
+  "answerDisplay": "SAND TOMB",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sand Tomb (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sand_Tomb_(move)",
+  "pageId": 3939,
+  "pageRevisionId": 4500961,
+  "leadText": "Sand Tomb (Japanese: すなじごく Sand Hell) is a damage-dealing Ground-type move introduced in Generation III. It was TM49 in Pokémon Sword and Shield, and is TM176 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation III 1.2 Generation IV 1.3 Generation V 1.4 Generation VI onwards 1.5 Generation IX 1.5.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation III [ edit | edit source ] Sand Tomb inflicts 1/16 of the target's maximum HP as damage for two to five turns upon use, in addition to the damage dealt when it is used. When successful, the text \" was trapped by SAND TOMB!\" appears. It also traps the target, preventing switching and escape . If the user switches out, the target will be freed. If a trapped Pokémon uses Rapid Spin , it will be freed. If a wild Pokémon uses Sand Tomb on the player's Pokémon, the player may escape if the affected Pokémon has Run Away or is holding a Smoke Ball . However, these do not allow the player to switch the Pokémon out. Sand Tomb has a power of 15 and an accuracy of 70. Sand Tomb can be used as the second move of a Pokémon Contest combination , with the user gaining 3 bonus appeal points if Sandstorm was used in the previous turn. Generation IV [ edit | edit source ] In Generation IV, if the user of Sand Tomb is holding a Grip Claw , the duration will always be 5 turns. Also, if an affected Pokémon is holding a Shed Shell , it can switch out. Generation V [ edit | edit source ] Sand Tomb's power and accuracy were increased to 35 and 85 respectively, and now lasts four to five turns. If a Binding Band is held by the user, the damage done at the end of each turn will increase from 1/16 of the target's maximum HP to 1/8. If the user of Sand Tomb is holding a Grip Claw , the duration will be 7 turns. The text was also altered to, \" became trapped by Sand Tomb!\" Generation VI onwards [ edit | edit source ] The end turn damage of Sand Tomb is increased from 1/16 to 1/8 of the target's maximum HP. If the user is holding a Binding Band , the end turn damage of Sand Tomb will increase to 1/6 of the target's maximum HP. Ghost-type Pokémon cannot be trapped by Sand Tomb. Sand Tomb can also be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if the move Sandstorm was used in the prior turn. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 20 24 Cooldown 7s Move wind-up time 10 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Traps and hurts the foe in quicksand for 2 to 5 turns. Colo XD Traps and hurts target in a whirlpool for 2 to 5 turns. FR LG The foe is trapped inside a painful sandstorm for two to five turns. D P Pt HG SS PBR The user traps the foe inside a harshly raging sandstorm for two to five turns. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user traps the target inside a harshly raging sandstorm for four to five turns. S V The user traps the target inside a harshly raging sandstorm that inflicts damage for four to five turns. ZA The user summons a raging sandstorm to surround targets. Opponents within the sandstorm will take continual damage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also cause constriction, making the foe incapable of movement. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Constriction status, making it incapable of movement. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで しめつけじょうたいに かえて いどうできなくする MD GtI It damages an enemy. It could also cause the Sand Tomb status condition. (With the Sand Tomb status, the enemy can't move and keeps taking damage.) S MD It could trap an enemy, make it unable to move, and keep damaging the enemy."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Its Japanese name, すなじごく Suna Jigoku (Sand Hell), is likely referring to the sand pit traps dug by antlions."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sand-Tomb",
+    "Sand Tomb",
+    "Sand-Tomb (move)"
+  ],
+  "updatedAt": 1773326652
+}

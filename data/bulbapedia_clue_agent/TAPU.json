@@ -1,0 +1,51 @@
+{
+  "answerKey": "TAPU",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4487348,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "village landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "island landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "island location",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "villa landmark",
+        "evidence_ref": "title",
+        "specificity": 0.68
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Island location",
+        "evidence_ref": "lead",
+        "mystery_score": 0.46,
+        "specificity_score": 0.66,
+        "style": "theme"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "Pokemon location"
+    ],
+    "connections_descriptors": [
+      "Island locations"
+    ],
+    "risk_flags": [],
+    "confidence": 0.77
+  },
+  "updatedAt": 1774258022
+}

@@ -1,0 +1,16 @@
+{
+  "answerKey": "STEAMENGINE",
+  "answerDisplay": "STEAM ENGINE",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen VIII ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Steam_Engine_(Ability)",
+  "extract": "Steam Engine (Japanese: じょうききかん Steam Engine) is an Ability introduced in Generation VIII. It is the signature Ability of Rolycoly's evolutionary line.",
+  "updatedAt": 1774258447
+}

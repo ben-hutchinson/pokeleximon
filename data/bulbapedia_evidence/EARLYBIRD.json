@@ -1,0 +1,34 @@
+{
+  "answerKey": "EARLYBIRD",
+  "answerDisplay": "EARLY BIRD",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Early Bird (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Early_Bird_(Ability)",
+  "pageId": 4124,
+  "pageRevisionId": 4453244,
+  "leadText": "Early Bird (Japanese: はやおき Early Rising) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Early Bird halves the sleep duration. When the Pokémon is put to sleep, the number of turns it will remain asleep is preset ( the range depends on the generation ). This number of turns is halved for a Pokémon with Early Bird, rounded down if it is odd. So if only 1 turn is preset, it is rounded down to 0, causing the Pokémon to wake up the next time it moves. This also applies to the self-induced sleep from Rest , reducing its length from 2 turns to 1 turn asleep (not counting the turn in which Rest is used). Outside of battle [ edit | edit source ] Early Bird has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Early Bird halves the sleep duration. When the Pokémon is put to sleep, the number of turns it will remain asleep is preset ( the range depends on the generation ). This number of turns is halved for a Pokémon with Early Bird, rounded down if it is odd. So if only 1 turn is preset, it is rounded down to 0, causing the Pokémon to wake up the next time it moves. This also applies to the self-induced sleep from Rest , reducing its length from 2 turns to 1 turn asleep (not counting the turn in which Rest is used)."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Awakens quickly from sleep. MD T D S Helps the Pokémon awaken more quickly from sleep. B S L ねむっても はやく めが さめる MD GtI Unavailable S MD When the Pokémon gets the sleep, napping, yawning, or nightmare status condition, the status will be healed within fewer turns. MD RT DX When the Pokémon gets the Sleep, Napping, Yawning, or Nightmare status condition, the condition will be healed within fewer turns."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Early-Bird",
+    "Early Bird",
+    "Early-Bird (Ability)"
+  ],
+  "updatedAt": 1773328851
+}

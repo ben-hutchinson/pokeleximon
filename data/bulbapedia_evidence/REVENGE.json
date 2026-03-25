@@ -1,0 +1,33 @@
+{
+  "answerKey": "REVENGE",
+  "answerDisplay": "REVENGE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Revenge (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Revenge_(move)",
+  "pageId": 3890,
+  "pageRevisionId": 4406884,
+  "leadText": "Revenge (Japanese: リベンジ Revenge) is a damage-dealing Fighting-type move introduced in Generation III. It was TM42 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Revenge deals damage and is a decreased priority move, causing the user to attack after other Pokémon that are using ordinary priority moves. If the target had already damaged the user in the same turn, Revenge's power is doubled to 120. Generation IX [ edit | edit source ] Revenge cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E An attack that gains power if injured by the foe. FR LG An attack move that gains in intensity if the target has hurt the user. Colo XD An attack that gains power if injured by the target. D P Pt HG SS PBR An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn. B W B2 W2 X Y OR AS An attack move that inflicts double the damage if the user has been hurt by the opponent in the same turn. S M US UM P E Sw Sh BD SP LA This attack move's power is doubled if the user has been hurt by the opponent in the same turn. S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B The user gains the Bide status. When Bide is released, the user looses an attack double the damage it took while waiting. MD T D S Gives the user a Bide status. A Pokémon that has a Bide status waits, then does double any damage it took under Bide status. B S L じぶんを がまんじょうたいにかえる がまんじょうたいが かいじょされたときの こうげきは そのあいだに うけたダメージの ２ばい このわざは ポケモンタワーでは くりだせない MD GtI You'll get the Bide status for a little while and damage an enemy. The more damage you take while biding, the greater the damage you can cause. S MD MD RT DX You'll get the Bide status for a little while, and then you'll damage an enemy. The more damage you take while biding, the greater the damage you can cause."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Revenge",
+    "Revenge (move)"
+  ],
+  "updatedAt": 1773326395
+}

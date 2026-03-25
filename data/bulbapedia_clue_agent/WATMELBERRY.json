@@ -1,0 +1,95 @@
+{
+  "answerKey": "WATMELBERRY",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4490009,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "baking only",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen III baking only",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Used for creating PokBlocks and Poffins.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Used for berry recipes or blending",
+        "evidence_ref": "Effect",
+        "specificity": 0.82
+      },
+      {
+        "text": "Plantable berry crop",
+        "evidence_ref": "Description",
+        "specificity": 0.74
+      },
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "Acquisition",
+        "specificity": 0.74
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "PokBlock and Poffin berry",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.76,
+        "specificity_score": 0.88,
+        "style": "family"
+      },
+      {
+        "text": "Berry-blending ingredient",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "family"
+      },
+      {
+        "text": "Loamy-soil berry crop",
+        "evidence_ref": "Description",
+        "mystery_score": 0.66,
+        "specificity_score": 0.78,
+        "style": "family"
+      },
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "Acquisition",
+        "mystery_score": 0.66,
+        "specificity_score": 0.8,
+        "style": "family"
+      },
+      {
+        "text": "Exchangeable collectible",
+        "evidence_ref": "Acquisition",
+        "mystery_score": 0.62,
+        "specificity_score": 0.78,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "berry ingredient",
+      "exchange item"
+    ],
+    "connections_descriptors": [
+      "Gen III items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774258032
+}

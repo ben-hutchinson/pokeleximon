@@ -1,0 +1,17 @@
+{
+  "answerKey": "TAILGLOW",
+  "answerDisplay": "TAIL GLOW",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "tails and added effects for the Pokémon attack.",
+  "score": 57.88,
+  "approved": false,
+  "qualityFlags": [
+    "near_verbatim_source"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/move/tail-glow",
+  "extract": "tails and added effects for the Pokémon attack",
+  "rankPosition": 1,
+  "updatedAt": 1774213123
+}

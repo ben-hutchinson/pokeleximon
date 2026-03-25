@@ -1,0 +1,17 @@
+{
+  "answerKey": "SPIRITOMB",
+  "answerDisplay": "SPIRITOMB",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Ghost / Dark type Pokémon introduced in Generation 4.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/spiritomb",
+  "extract": "Spiritomb is a Ghost / Dark type Pokémon introduced in Generation 4 .",
+  "rankPosition": 1,
+  "updatedAt": 1774212984
+}

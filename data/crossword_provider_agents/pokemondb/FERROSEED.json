@@ -1,0 +1,17 @@
+{
+  "answerKey": "FERROSEED",
+  "answerDisplay": "FERROSEED",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Grass / Steel type Pokémon introduced in Generation 5.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/ferroseed",
+  "extract": "Ferroseed is a Grass / Steel type Pokémon introduced in Generation 5 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211240
+}

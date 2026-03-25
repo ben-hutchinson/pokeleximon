@@ -1,0 +1,38 @@
+{
+  "answerKey": "UPGRADE",
+  "answerDisplay": "UP GRADE",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Upgrade",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Upgrade",
+  "pageId": 20259,
+  "pageRevisionId": 4505570,
+  "leadText": "If you were looking for the mechanic in Pokémon Pinball and Pokémon Pinball: Ruby & Sapphire, see Ball Upgrade. The Upgrade (Japanese: アップグレード Upgrade), formatted as Up-Grade prior to Pokémon Sword and Shield, is a type of held item introduced in Generation II. It allows Porygon to evolve into Porygon2.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Causes Porygon to evolve into Porygon2 when traded while holding it, which consumes the Upgrade. Porygon will not evolve if linking to a Generation I game. In Pokémon Legends: Arceus , due to the absence of held items, the Upgrade simply needs to be used on Porygon to trigger the Evolution, which consumes the item."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If the player offers both a Link Cable and Upgrade at Luminous Cave or Luminous Spring , Porygon can be evolved into Porygon2 . This consumes the Link Cable and Upgrade. If thrown, it will deal 1 damage (2 if sticky ). Using this item in a dungeon will consume it, with no effect."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description G S C A mysterious box made by Silph Co. R S E Colo XD A peculiar box made by Silph Co. FR LG A transparent device filled with all sorts of data. It is made by Silph Co. D P Pt HG SS B W B2 W2 A transparent device filled with all sorts of data. It was produced by Silph Co. X Y OR AS S M US UM P E Sw Sh BD SP S V A transparent device somehow filled with all sorts of data. It was produced by Silph Co. LA ZA A transparent device somehow filled with all sorts of data. It's loved by a certain Pokémon."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B It enables a certain kind of Pokémon to evolve. Give it to the Pokémon when it's ready to evolve. MD T D S A mysterious device filled with all sorts of data. It allows a certain kind of Pokémon to evolve."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Up-Grade",
+    "Up Grade",
+    "Up-Grade (item)"
+  ],
+  "updatedAt": 1773328201
+}

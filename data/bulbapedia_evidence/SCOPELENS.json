@@ -1,0 +1,38 @@
+{
+  "answerKey": "SCOPELENS",
+  "answerDisplay": "SCOPE LENS",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Scope Lens",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Scope_Lens",
+  "pageId": 21278,
+  "pageRevisionId": 4482030,
+  "leadText": "The Scope Lens (Japanese: ピントレンズ Focus Point Lens) is a type of held item introduced in Generation II. It increases the holder's critical hit ratio.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Raises the critical hit ratio of the holder by one stage."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If held by a Pokémon, the Scope Lens increases the Pokémon's critical hit probability by flat 30% R B /15% T D B S L . If thrown, it will deal 1 damage (2 if sticky )."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description G S C Raises critical hit ratio. (HOLD) R S Colo XD A hold item that raises the critical-hit rate. E A hold item that improves the critical-hit rate. FR LG An item to be held by a Pok é mon . A lens that boosts the critical-hit ratio of the holding Pok é mon . D P Pt HG SS B W B2 W2 An item to be held by a Pokémon. It is a lens that boosts the holder's critical-hit ratio. X Y OR AS S M US UM P E Sw Sh BD SP LA S V ZA An item to be held by a Pokémon. It's a lens for scoping out weak points. It boosts the holder's critical-hit ratio."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B A hold item that boosts the Pokémon's critical-hit rate for moves and attacks. MD T D S A held item that boosts the Pokémon's critical-hit rate for moves and attacks. MD GtI It boosts the holder's critical-hit rate for moves. MD RT DX When equipped, it boosts the wearer's critical-hit rate for moves used on enemies."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Scope-Lens",
+    "Scope Lens",
+    "Scope-Lens (item)"
+  ],
+  "updatedAt": 1773326704
+}

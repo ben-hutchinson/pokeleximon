@@ -1,0 +1,34 @@
+{
+  "answerKey": "AXEKICK",
+  "answerDisplay": "AXE KICK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Axe Kick (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Axe_Kick_(move)",
+  "pageId": 277755,
+  "pageRevisionId": 4503220,
+  "leadText": "Axe Kick (Japanese: かかとおとし Axe Kick) is a damaging-dealing Fighting-type move introduced in Generation IX.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Axe Kick inflicts damage and has a 30% chance of confusing the target. If it misses, the user takes crash damage equal to half of its maximum HP . The user will also take crash damage if this move is used on a protected target, or if the target is immune to this move."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user attacks by kicking up into the air and slamming its heel down upon the target. This may also confuse the target. If it misses, the user takes damage instead."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This is the first crash damage move introduced since Generation I . This move originated as a TCG attack ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Axe-Kick",
+    "Axe Kick",
+    "Axe-Kick (move)"
+  ],
+  "updatedAt": 1773320959
+}

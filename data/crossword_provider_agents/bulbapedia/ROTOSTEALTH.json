@@ -1,0 +1,16 @@
+{
+  "answerKey": "ROTOSTEALTH",
+  "answerDisplay": "ROTO STEALTH",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "unused",
+  "score": 95.1,
+  "approved": true,
+  "qualityFlags": [
+    "too_short"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Roto_Stealth",
+  "extract": "The Roto Stealth (Japanese: かくれポン Roto Stealth) is a Rotom Power introduced in Pokémon Ultra Sun and Ultra Moon.",
+  "updatedAt": 1774258398
+}

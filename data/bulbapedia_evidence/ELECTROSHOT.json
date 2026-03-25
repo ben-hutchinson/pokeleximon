@@ -1,0 +1,34 @@
+{
+  "answerKey": "ELECTROSHOT",
+  "answerDisplay": "ELECTRO SHOT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Electro Shot (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Electro_Shot_(move)",
+  "pageId": 294183,
+  "pageRevisionId": 4437970,
+  "leadText": "Electro Shot (Japanese: エレクトロビーム Electro Beam) is a damage-dealing Electric-type move introduced during Generation IX, in The Indigo Disk. It is the signature move of Archaludon.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] On the turn it is selected, Electro Shot will raise the user's Special Attack stat by one stage, and the message \"[User] absorbed electricity!\" will be shown. On the following turn, Electro Shot will do damage (factoring in the Special Attack boost), PP will be deducted from it, and it will count as the last move used. Once Electro Shot is selected, the user won't be able to switch out until it is disrupted or fully executed. Electro Shot will not need a turn to charge if used during rain . If Electro Shot charges up for a turn before it is used, it will not go off if Disable is used on it. Sleep , freezing , and flinching will pause but not disrupt the duration of Electro Shot. If a Power Herb is held by the user, Electro Shot can be executed in one turn. The user will charge and boost their Special Attack, consume the Power Herb, then execute the final stage of the move in the same turn. The Special Attack boost is applied because the charging stage is still performed. Electro Shot's damage is boosted by Sheer Force despite not suppressing any additional effects. [ 1 ] ↑ https://twitter.com/i/web/status/1735811637041390039"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user gathers electricity on the first turn, boosting its Sp. Atk stat, then fires a high-voltage shot on the next turn. The shot will be fired immediately in rain."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Electro Shot is tied with Bolt Strike for having the highest base power of all Electric-type moves, excluding Z-Moves , Max Moves , and G-Max Moves ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Electro-Shot",
+    "Electro Shot",
+    "Electro-Shot (move)"
+  ],
+  "updatedAt": 1773322530
+}

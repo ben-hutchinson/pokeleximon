@@ -1,0 +1,38 @@
+{
+  "answerKey": "SLEEPTALK",
+  "answerDisplay": "SLEEP TALK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Sleep Talk (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sleep_Talk_(move)",
+  "pageId": 3825,
+  "pageRevisionId": 4491903,
+  "leadText": "Sleep Talk (Japanese: ねごと Sleep Talk) is a non-damaging Normal-type move introduced in Generation II. It is: TM35 in Generation II. TM82 in Generation IV and in Pokémon Brilliant Diamond and Shining Pearl. TM88 from Generation VI to Pokémon Ultra Sun and Ultra Moon. TR27 in Pokémon Sword and Shield. TM070 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III 1.3 Generation IV 1.4 Generation V onwards 1.5 Unselectable moves Effect [ edit | edit source ] If the user is currently asleep , then it will automatically use a randomly selected move from its moveset. Sleep Talk will not select itself or any of the unselectable moves listed below . Sleep Talk will fail if the user is not asleep, or if the user does not know any moves other than Sleep Talk or the unselectable moves. A Pokémon with the Ability Comatose is also treated as an asleep Pokémon, and can successfully use Sleep Talk (or Snore ) without having this status condition. In Double and Triple Battles , because of the inability to select a target, the chosen move will always hit a random opponent. Sleep Talk can call a move blocked by Disable , Gravity , Heal Block , Imprison , Taunt , Throat Chop , or Torment , by the Ability Cursed Body , or by the user's held Assault Vest Because Sleep Talk has normal move priority , a move with higher or lower priority may not be executed when it normally would. For instance, Sleep Talk may cause Quick Attack to be used after a normal priority move or Vital Throw to be used before a normal priority move. Generation II [ edit | edit source ] This move effect may be in need of research. Reason: How Sleep Talk works if the Pokémon is affected by Encore in this generation? You can discuss this on the talk page. PP will be deducted from Sleep Talk only, which means that it can be used to execute moves that have no PP left. If Sleep Talk calls Rest , and the user does not have full HP, the user will use Rest, regain HP, and reset its sleep counter. If Sleep Talk calls Metronome or Mirror Move (which are selectable by Sleep Talk only in this generation) and thus in turn calls a two-turn move, the move will fail. Generation III [ edit | edit source ] Sleep Talk can call a move with no PP remaining, but will fail to execute it due to a lack of PP. When using Sleep Talk while holding a choice item or under the effect of Encore , the first use will work normally, but all subsequent uses will always fail, even if the user only has one move other than Sleep Talk. If Rest is called by Sleep Talk it will automatically fail. If Sleep Talk or Snore is used at least once consecutively in the turns right before switching out, the Pokémon will sleep for the same amount of turns as were remaining prior to the usage of those two moves when switched back in. Sleep Talk can be used as the second move of a Pokémon Contest combination , with the user gaining 3 bonus appeal points if Rest was used in the previous turn. Generation IV [ edit | edit source ] Sleep Talk can call and successfully execute a move with no PP remaining. Turns where Sleep Talk is used are always counted towards waking the Pokémon. Generation V onwards [ edit | edit source ] This move effect may be in need of research. Reason: Sleep Talk now works normally even under the effect of Encore? You can discuss this on the talk page. Sleep Talk now works multiple times if used while holding a choice item. Sleep Talk can also be used as part of a Contest Spectacular combination , with the user gaining an extra three appeal points if Rest was used in the prior turn. If powered up by a Normalium Z into Z-Sleep Talk, the user's critical hit rate increases by two stages. Additionally, the copied move will become its corresponding Z-Move . If the copied move is a status move , it will not receive its Z-Power effect. Unselectable moves [ edit | edit source ] This section is incomplete. Please feel free to edit this section to add missing information and complete it. Reason: Geomancy and Shadow Force in G8 Moves marked with ✔ cannot be selected by Sleep Talk. Move Type Generations II III IV V VI VII VIII Assist Normal ✔ ✔ ✔ ✔ ✔ Belch Poison ✔ ✔ ✔ Beak Blast Flying ✔ Bide Normal ✔ ✔ ✔ ✔ ✔ ✔ Bounce Flying ✔ ✔ ✔ ✔ ✔ ✔ Copycat Normal ✔ ✔ ✔ ✔ ✔ Dig Ground ✔ ✔ ✔ ✔ ✔ ✔ ✔ Dive Water ✔ ✔ ✔ ✔ ✔ ✔ Dynamax Cannon Dragon ✔ Freeze Shock Ice ✔ ✔ ✔ ✔ Fly Flying ✔ ✔ ✔ ✔ ✔ ✔ ✔ Focus Punch Fighting ✔ ✔ ✔ ✔ ✔ ✔ Geomancy Fairy ✔ ✔ Ice Burn Ice ✔ ✔ ✔ ✔ Me First Normal ✔ ✔ ✔ ✔ ✔ Metronome Normal ✘ ✔ ✔ ✔ ✔ ✔ ✔ Mirror Move Flying ✘ ✔ ✔ ✔ ✔ ✔ Mimic Normal ✔ ✔ ✔ ✔ ✔ ✔ ✔ Phantom Force Ghost ✔ ✔ ✔ Razor Wind Normal ✔ ✔ ✔ ✔ ✔ ✔ Shadow Force Ghost ✔ ✔ ✔ ✔ Shell Trap Fire ✔ ✔ Sketch Normal ✘ ✘ ✘ ✔ ✔ ✔ Skull Bash Normal ✔ ✔ ✔ ✔ ✔ ✔ ✔ Sky Attack Flying ✔ ✔ ✔ ✔ ✔ ✔ ✔ Sky Drop Flying ✔ ✔ ✔ Solar Blade Grass ✔ ✔ Solar Beam Grass ✔ ✔ ✔ ✔ ✔ ✔ ✔ Struggle Normal ✔ ✔ ✔ ✔ ✔ ✔ ✔ Uproar Normal ✔ ✔ ✔ ✔ ✔ ✔"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 Randomly chooses one of the user's moves. Can be used only by a sleeping Pok é mon . G S C Randomly attacks while asleep. R S Uses an own move randomly while asleep. E Uses an available move randomly while asleep. FR LG While asleep, the user randomly uses one of the moves it knows. Colo XD Uses its own moves randomly while asleep. D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA While it is asleep, the user randomly uses one of the moves it knows. S V The user randomly uses one of the moves it knows. This move can only be used while the user is asleep."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Makes the user deploy one of its moves against a foe that attacks it while it is sleeping. MD T D S Lets the Pokémon defend itself while sleeping by unleashing one of its moves against the attacking enemy. This move has no effect if the Pokémon is awake. B S L じぶんが ねむっているときに こうげきしてきた ポケモンに じぶんが おぼえているわざの どれかひとつを くりだす ふだんは くりだしても なにもおきないが ポケモンタワーで ねむったときには……？ MD GtI UNUSED S MD If you're sleeping, a move you know will be used automatically on the Pokémon near you, if any. But keep in mind that nothing will happen if you use this while you're wide awake. MD RT DX If you're sleeping, a move you know will be used automatically on an enemy near you. But keep in mind that nothing will happen if you use this while you're wide awake."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Prior to Pokémon: Let's Go, Pikachu! and Let's Go, Eevee! (when TM numbers stopped being consistent), Sleep Talk was the only move to have regained its TM status twice, as well as the only move to have ever been assigned three different TM numbers. In Pokémon Ruby and Sapphire , Sleep Talk's description erroneously says \" Uses an own move \" instead of \" Use its own move \". This was fixed in Pokémon Colosseum and Pokémon XD: Gale of Darkness ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sleep-Talk",
+    "Sleep Talk",
+    "Sleep-Talk (move)"
+  ],
+  "updatedAt": 1773327134
+}

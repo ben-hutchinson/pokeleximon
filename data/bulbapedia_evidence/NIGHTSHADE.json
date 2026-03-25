@@ -1,0 +1,34 @@
+{
+  "answerKey": "NIGHTSHADE",
+  "answerDisplay": "NIGHT SHADE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Night Shade (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Night_Shade_(move)",
+  "pageId": 3710,
+  "pageRevisionId": 4503828,
+  "leadText": "Night Shade (Japanese: ナイトヘッド Night Head) is a damage-dealing Ghost-type move introduced in Generation I. It is TM042 Pokémon Scarlet and Violet. Prior to Generation II, it was the signature move of Gastly's evolutionary line.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Night Shade inflicts damage equal to the user's level. Generation I [ edit | edit source ] Although Night Shade is a Ghost-type move, its type does not alter the amount of damage it inflicts. Night Shade is not affected by type immunities, so it can hit both Normal-type and Psychic-type Pokémon, both of which have immunities to Ghost-type moves in Generation I. Generation II onwards [ edit | edit source ] Night Shade is now affected by type immunities; therefore, it cannot usually affect Normal-type Pokémon (but it can affect Psychic-type Pokémon, who are no longer immune to Ghost-type moves)."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A Ghost -type attack. Highly accurate, it inflicts damage regardless of the target's type. Stad2 A Ghost -type attack. Highly accurate, it always inflicts damage. G S C The user's level equals damage HP. R S E Colo XD Inflicts damage identical to the user's level. FR LG An attack with a mirage that inflicts damage matching the user's level. D P Pt HG SS PBR The user makes the foe see a mirage. It inflicts damage matching the user's level. B W B2 W2 The user makes the target see a frightening mirage. It inflicts damage matching the user's level. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user makes the target see a frightening mirage. It inflicts damage equal to the user's level."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Damages all foes around the user. The amount of damage depends on the user's level. MD T D S Inflicts damage on all enemies within a 1-tile range. The amount of damage is equal to the user's level. B S L まわりの てきポケモンに じぶんの レベルと おなじだけの ダメージを あたえる MD GtI It does damage matching your level to your enemies. S MD MD RT DX The amount of damage done matches your level."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Night-Shade",
+    "Night Shade",
+    "Night-Shade (move)"
+  ],
+  "updatedAt": 1773325362
+}

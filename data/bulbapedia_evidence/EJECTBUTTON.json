@@ -1,0 +1,34 @@
+{
+  "answerKey": "EJECTBUTTON",
+  "answerDisplay": "EJECT BUTTON",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Eject Button",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Eject_Button",
+  "pageId": 133382,
+  "pageRevisionId": 4491689,
+  "leadText": "The Eject Button (Japanese: だっしゅつボタン Break-Out Button) is a type of consumable held item introduced in Generation V. It switches out the holder if it is hit by a damaging move.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If the holder is hit by a damaging move and does not faint , it consumes the Eject Button and is immediately switched out for a Pokémon of its Trainer 's choice. It does not activate if the holder is a wild Pokémon or its Trainer has no Pokémon to switch in. The Eject Button will not activate if a Pokémon's substitute takes the hit instead. If a move is affected by the effect of Sheer Force , that move will not activate the Eject Button. The Eject Button activates after the last strike of a multistrike move . If multiple Pokémon, each holding an Eject Button, are hit by a single attack, only the fastest holder's held Eject Button will activate. Suction Cups , trapping moves , Abilities , and Dynamax do not prevent a Pokémon being switched out by the Eject Button. The Eject Button will be removed from the holder by Knock Off , Thief , Covet , or Magician before it has the opportunity to activate. If a Pokémon steals an Eject Button due to Pickpocket , that Eject Button cannot activate for that same attack. If a Pokémon holding an Eject Button is hit by Dragon Tail or Circle Throw , it is forced to switch out or flee before its held Eject Button has the opportunity to activate. If U-turn or Volt Switch causes a Pokémon's held Eject Button to activate, the Pokémon that used the move is not switched out. If a Pokémon with Emergency Exit or Wimp Out holds an Eject Button, the Eject Button activates before the Ability has the opportunity to. Generation VI [ edit | edit source ] The Eject Button is involved in the Symbiosis Eject Button glitch . If an ally's Eject Button is consumed, Symbiosis will activate and transfer an item to that ally after it switches out but before its replacement is sent out. Any item transferred in response to an Eject Button activating cannot activate at this time. Generation VII [ edit | edit source ] The Eject Button activating can no longer trigger Symbiosis."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 If the holder is hit by an attack, it will switch with another Pokémon in your party. X Y OR AS S M US UM P E Sw Sh BD SP LA An item to be held by a Pokémon. If the holder is hit by an attack, it will be switched out of battle. S V An item to be held by a Pokémon. If the holder is damaged by an attack, it will be switched out of battle to be replaced by another Pokémon on your team."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.2.1 Generation VI 1.2.2 Generation VII 1.3 Description 1.4 Acquisition 1.4.1 Distribution 1.4.1.1 As a held item In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price B W B2 W2 X Y OR AS N/A $ 100 S M US UM Sw Sh N/A $ 2,000 S V $ 30,000 $ 7,500 Effect [ edit | edit source ] If the holder is hit by a damaging move and does not faint , it consumes the Eject Button and is immediately switched out for a Pokémon of its Trainer 's choice. It does not activate if the holder is a wild Pokémon or its Trainer has no Pokémon to switch in. The Eject Button will not activate if a Pokémon's substitute takes the hit instead. If a move is affected by the effect of Sheer Force , that move will not activate the Eject Button. The Eject Button activates after the last strike of a multistrike move . If multiple Pokémon, each holding an Eject Button, are hit by a single attack, only the fastest holder's held Eject Button will activate. Suction Cups , trapping moves , Abilities , and Dynamax do not prevent a Pokémon being switched out by the Eject Button. The Eject Button will be removed from the holder by Knock Off , Thief , Covet , or Magician before it has the opportunity to activate. If a Pokémon steals an Eject Button due to Pickpocket , that Eject Button cannot activate for that same attack. If a Pokémon holding an Eject Button is hit by Dragon Tail or Circle Throw , it is forced to switch out or flee before its held Eject Button has the opportunity to activate. If U-turn or Volt Switch causes a Pokémon's held Eject Button to activate, the Pokémon that used the move is not switched out. If a Pokémon with Emergency Exit or Wimp Out holds an Eject Button, the Eject Button activates before the Ability has the opportunity to. Generation VI [ edit | edit source ] The Eject Button is involved in the Symbiosis Eject Button glitch . If an ally's Eject Button is consumed, Symbiosis will activate and transfer an item to that ally after it switches out but before its replacement is sent out. Any item transferred in response to an Eject Button activating cannot activate at this time. Generation VII [ edit | edit source ] The Eject Button activating can no longer trigger Symbiosis. Description [ edit | edit source ] Games Description B W B2 W2 If the holder is hit by an attack, it will switch with another Pokémon in your party. X Y OR AS S M US UM P E Sw Sh BD SP LA An item to be held by a Pokémon. If the holder is hit by an attack, it will be switched out of battle. S V An item to be held by a Pokémon. If the holder is damaged by an attack, it will be switched out of battle to be replaced by another Pokémon on your team. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods B W Battle Subway (32 BP ) B2 W2 Twist Mountain Winter Battle Subway / PWT (16 BP ) X Y OR AS Battle Maison (32 BP ) S M US UM Festival Plaza US UM Battle Tree (32 BP ) Sw Sh Event Battle Tower (20 BP ) S V Delibird Presents ( Levincia Branch) Distribution [ edit | edit source ] As a held item [ edit | edit source ] Games Event Language/Region Distribution period Sw Sh Wonseok Jung's Grimmsnarl All June 11 to 12, 2022 Kohei Fujida's Sableye All June 11 to 12, 2022"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Eject-Button",
+    "Eject Button",
+    "Eject-Button (item)"
+  ],
+  "updatedAt": 1773322490
+}

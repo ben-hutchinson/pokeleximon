@@ -1,0 +1,33 @@
+{
+  "answerKey": "ILLUMINATE",
+  "answerDisplay": "ILLUMINATE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Illuminate (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Illuminate_(Ability)",
+  "pageId": 4111,
+  "pageRevisionId": 4396694,
+  "leadText": "Illuminate (Japanese: はっこう Luminescence) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations III through VIII 1.1.2 Generation IX 1.2 Outside of battle 1.2.1 Generation III 1.2.2 Generation IV through VII 1.2.2.1 Generation VIII 1.2.3 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] Generations III through VIII [ edit | edit source ] Illuminate has no effect during battle. Generation IX [ edit | edit source ] Starting in Version 2.0.1 of Pokémon Scarlet and Violet , Illuminate prevents other Pokémon from lowering the accuracy stat stage of the Pokémon with this Ability, and also ignores the target's evasion stages. Effects that decrease accuracy without using stat stages, such as Wonder Skin and Sand Veil , are unaffected by Illuminate. This Ability can be ignored with Mold Breaker , Teravolt , and Turboblaze . Prior to version 2.0.1 of Pokémon Scarlet and Violet , Illuminate had no effect in battle, even after its text update in version 1.3.2. However, this inconsistency could not be seen in-game as no Pokémon with Illuminate had been available in Scarlet and Violet at the time. Outside of battle [ edit | edit source ] Generation III [ edit | edit source ] If a Pokémon with Illuminate is in the first place in the party (even if fainted ), the wild Pokémon encounter rate increases by 100%. It shares this trait with Arena Trap and No Guard . Illuminate does not affect the Rock Smash encounter rate. Generation IV through VII [ edit | edit source ] Illuminate now increases the Rock Smash encounter rate in Pokémon HeartGold and SoulSilver . Generation VIII [ edit | edit source ] In Pokémon Sword and Shield , this Ability only affects the rate at which random encounters happen. Generation IX [ edit | edit source ] Illuminate appears to have no effect on the encounter rate of wild Pokémon."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generations III through VIII [ edit | edit source ] Illuminate has no effect during battle. Generation IX [ edit | edit source ] Starting in Version 2.0.1 of Pokémon Scarlet and Violet , Illuminate prevents other Pokémon from lowering the accuracy stat stage of the Pokémon with this Ability, and also ignores the target's evasion stages. Effects that decrease accuracy without using stat stages, such as Wonder Skin and Sand Veil , are unaffected by Illuminate. This Ability can be ignored with Mold Breaker , Teravolt , and Turboblaze . Prior to version 2.0.1 of Pokémon Scarlet and Violet , Illuminate had no effect in battle, even after its text update in version 1.3.2. However, this inconsistency could not be seen in-game as no Pokémon with Illuminate had been available in Scarlet and Violet at the time."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B If damaged, a wild Pokémon appears on the dungeon floor. MD T D S Causes a wild Pokémon to appear on a dungeon floor if the Pokémon is attacked. B S L こうげきされると フロアの どこかに ポケモンが あらわれる MD GtI When the Pokémon is attacked, an enemy Pokémon appears somewhere on the current floor. * When this Pokémon is attacked, an enemy appears somewhere on the floor. * S MD If the Pokémon uses an illuminating move such as Confuse Ray or Light Screen , it will be a decoy! MD RT DX If the Pokémon uses an illuminating move, such as Confuse Ray or Light Screen, the Pokémon will become a Decoy."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Illuminate",
+    "Illuminate (Ability)"
+  ],
+  "updatedAt": 1773328949
+}

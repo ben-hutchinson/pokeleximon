@@ -1,0 +1,91 @@
+{
+  "answerKey": "ARMORTAIL",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4512547,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IX ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Armor Tail (Japanese: Tail Armor) is an Ability introduced in Generation IX. It is the signature Ability of Farigiraf.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Event Gen IX Armor Tail activated \" (The wild/opposing) cannot use !\"",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If an opponent uses a move with increased priority (including moves boosted by Prankster , Gale Wings , or Triage ) that targets the Pokemon with Armor Tail or its allies, Armor Tail prevents the Pokemon from executing that move, after PP is deducted from it. As such, the opponent can only use a move with decreased priority or a move without any to target the Pokemon with Armor Tail or its allies. Moves that target all Pokemon (except Perish Song ) and moves that target the opponent's side of the field cannot be blocked by Armor Tail, even if they become moves with increased priority. Armor Tail has no effect on allies' moves with increased priority. Mold Breaker , Turboblaze , and Teravolt will ignore this Ability. Moves with increased priority that are called using Instruct retain their original priority and are blocked by Armor Tail. Moves with decreased priority and moves without anyboth which are called using Instruct with increased priority (i.e.: the user with Prankster)similarly retain their original priority and cannot be blocked. Moves with increased priority that are called using any moves that call other moves cannot be blocked by Armor Tail. If a move that calls other moves is used with increased priority, Armor Tail will block the called move regardless of its original priority.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] If an opponent uses a move with increased priority (including moves boosted by Prankster , Gale Wings , or Triage ) that targets the Pokemon with Armor Tail or its allies, Armor Tail prevents the Pokemon from executing that move, after PP is deducted from it. As such, the opponent can only use a move with decreased priority or a move without any to target the Pokemon with Armor Tail or its allies. Moves that target all Pokemon (except Perish Song ) and moves that target the opponent's side of the field cannot be blocked by Armor Tail, even if they become moves with increased priority. Armor Tail has no effect on allies' moves with increased priority. Mold Breaker , Turboblaze , and Teravolt will ignore this Ability. Moves with increased priority that are called using Instruct retain their original priority and are blocked by Armor Tail. Moves with decreased priority and moves without anyboth which are called using Instruct with increased priority (i.e.: the user with Prankster)similarly retain their original priority and cannot be blocked. Moves with increased priority that are called using any moves that call other moves cannot be blocked by Armor Tail. If a move that calls other moves is used with increased priority, Armor Tail will block the called move regardless of its original priority.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Prevents the opponent from using any moves that have priority, such as Quick Attack.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Blocks incoming priority moves",
+        "evidence_ref": "Description",
+        "specificity": 0.88
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "priority trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Blocks incoming priority moves",
+        "evidence_ref": "Description",
+        "mystery_score": 0.78,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Priority-proof trait",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Stops first-strike moves",
+        "evidence_ref": "Description",
+        "mystery_score": 0.68,
+        "specificity_score": 0.8,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "priority trait",
+      "priority shield",
+      "first-strike blocker"
+    ],
+    "connections_descriptors": [
+      "Priority abilities",
+      "Priority-blocking abilities",
+      "Gen IX abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257926
+}

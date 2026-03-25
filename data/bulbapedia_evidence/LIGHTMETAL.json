@@ -1,0 +1,30 @@
+{
+  "answerKey": "LIGHTMETAL",
+  "answerDisplay": "LIGHT METAL",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Light Metal (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Light_Metal_(Ability)",
+  "pageId": 118008,
+  "pageRevisionId": 4471221,
+  "leadText": "Light Metal (Japanese: ライトメタル Light Metal) is an Ability introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Halves the weight of the Pokémon with this Ability, rounded down to the nearest tenth (e.g., Metang , normally weighing 202.5 kg, will weigh 101.2 kg if it has Light Metal). Autotomize is applied before other weight-modifying effects, including Light Metal. A Pokémon's weight cannot be reduced below 0.1 kg. This has no effect on the Heavy Ball , which uses the Pokémon's species' weight rather than its current weight. Outside of battle [ edit | edit source ] Light Metal has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Halves the weight of the Pokémon with this Ability, rounded down to the nearest tenth (e.g., Metang , normally weighing 202.5 kg, will weigh 101.2 kg if it has Light Metal). Autotomize is applied before other weight-modifying effects, including Light Metal. A Pokémon's weight cannot be reduced below 0.1 kg. This has no effect on the Heavy Ball , which uses the Pokémon's species' weight rather than its current weight."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Light-Metal",
+    "Light Metal",
+    "Light-Metal (Ability)"
+  ],
+  "updatedAt": 1773328989
+}

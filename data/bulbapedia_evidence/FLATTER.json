@@ -1,0 +1,37 @@
+{
+  "answerKey": "FLATTER",
+  "answerDisplay": "FLATTER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Flatter (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Flatter_(move)",
+  "pageId": 3871,
+  "pageRevisionId": 4500970,
+  "leadText": "Flatter (Japanese: おだてる Flatter) is a non-damaging Dark-type move introduced in Generation III. It is similar to Swagger.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Flatter raises the target's Special Attack stat by one stage and confuses it. Even if the target is already confused, or cannot become confused due to Safeguard or Own Tempo , its Special Attack will still be raised. Even if the target's Special Attack is already at +6 stages, it will still become confused. Even if the target has Contrary and its Special Attack is already at -6 stages, it will still become confused. Flatter can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Charm was used in the previous turn. If powered up by a Darkinium Z into Z-Flatter, the user's Special Defense stat is raised by one stage."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Confuses the foe, but raises its Sp. Atk . FR LG Flattery is used to confuse the foe, but its Sp. Atk also rises. Colo XD Confuses the target, but raises its Sp. Atk . D P Pt HG SS PBR Flattery is used to confuse the foe. However, it also raises the target's Sp. Atk stat. B W B2 W2 Flattery is used to confuse the target. However, it also raises the target's Sp. Atk stat. X Y OR AS S M US UM P E Sw Sh BD SP LA Flattery is used to confuse the target. However, this also raises the target's Sp. Atk stat. S V Flattery is used to confuse the target. However, this also boosts the target's Sp. Atk stat."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts the Confused status on the target, but also raises its Special Attack by one level. MD T D S Afflicts the targeted enemy with a Confused status condition and also boosts its Special Attack by 1 level. B S L てきポケモンを こんらんじょうたいにかえるが とくこうが １だんかい あがってしまう MD GtI It causes the Confused condition to an enemy but also raises the enemy's Special Attack. S MD It makes an enemy confused, while also raising the enemy's Sp.Atk."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Flatter is the only Dark-type move capable of inflicting confusion."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Flatter",
+    "Flatter (move)"
+  ],
+  "updatedAt": 1773322874
+}

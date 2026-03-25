@@ -1,0 +1,30 @@
+{
+  "answerKey": "STRANGESTEAM",
+  "answerDisplay": "STRANGE STEAM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Strange Steam (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Strange_Steam_(move)",
+  "pageId": 244341,
+  "pageRevisionId": 4403551,
+  "leadText": "Strange Steam (Japanese: ワンダースチーム Wonder Steam) is a damage-dealing Fairy-type move introduced in Generation VIII. It is the signature move of Galarian Weezing.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Strange Steam deals damage and has a 20% chance of confusing the target. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Strange Steam cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V The user attacks the target by emitting steam. This may also confuse the target. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Strange-Steam",
+    "Strange Steam",
+    "Strange-Steam (move)"
+  ],
+  "updatedAt": 1773327606
+}

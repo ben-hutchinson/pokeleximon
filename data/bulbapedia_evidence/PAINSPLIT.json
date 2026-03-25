@@ -1,0 +1,38 @@
+{
+  "answerKey": "PAINSPLIT",
+  "answerDisplay": "PAIN SPLIT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Pain Split (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Pain_Split_(move)",
+  "pageId": 3831,
+  "pageRevisionId": 4500893,
+  "leadText": "Pain Split (Japanese: いたみわけ Pain Split) is a non-damaging Normal-type move introduced in Generation II. Prior to Generation IV, it was the signature move of Misdreavus, but other Pokémon could still inherit it via breeding. It is TM202 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation II 1.2 Generation III 1.3 Generation IV onwards 1.4 Generation VIII Effect [ edit | edit source ] Generation II [ edit | edit source ] Pain Split adds the current HP of the user and target Pokémon. It then divides this value by two, rounds down if necessary, and increases or decreases the HP of each Pokémon to become equal to the result (limited by each Pokémon's maximum HP). This setting of HP is not subject to effects such as Counter or Bide . Pain Split does not employ type effectiveness , so it can also affect Ghost-type Pokémon. Pain Split has an accuracy of 100. Pain Split fails if the target is behind a substitute . Generation III [ edit | edit source ] Pain Split now bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . In Generation III only, a loss of HP due to Pain Split contributes to the accumulated damage of Bide ; it still is not subject to other effects such as Counter . Pain Split can be used as the second move of a Pokémon Contest combination , with the user gaining 1 bonus appeal point if Endure was used in the previous turn. Generation IV onwards [ edit | edit source ] Pain Split can no longer contribute to the accumulated damage of Bide . It is also part of a Contest Spectacular combination and will give an extra three appeal points if the move Endure was used in the prior turn. If powered up by a Normalium Z into Z-Pain Split, the user's Defense stat rises by one stage. Generation VIII [ edit | edit source ] Pain Split averages the two Pokémon's non-Dynamax HP, calculates the signed difference between that average and each Pokémon's non-Dynamax HP, then changes each Pokémon's HP by that signed difference."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 A move that adds the HPs of the user and the target, then divides the total between them. G S C Adds user & foe's HPs. Shares total. R S E Adds the user and foe's HP, then shares them equally. FR LG The user adds its HP to the foe's HP, then equally shares the total HP. Colo XD Adds the user and target's HP, then shares it equally. D P Pt HG SS PBR The user adds its HP to the foe's HP, then equally shares the combined HP with the foe. B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA The user adds its HP to the target's HP, then equally shares the combined HP with the target. S V The user adds its HP to the target's HP, then equally splits the combined HP between the target and itself."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Adds the HP of the user and the target, then shares it equally. MD T D S Adds the HP of the user and the target, then shares it equally between the two Pokémon. B S L じぶんと てきポケモンの ＨＰを たして おたがいに はんぶんずつにして わけあう MD GtI It adds the HP of you and the target, then shares it equally. S MD It adds together the HP of you and the target, which it then shares it equally between you. MD RT DX It adds together the HP of you and the enemy and then shares the total equally between you."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Pain Split's Japanese name is a phrase that is specifically a sumo wrestling term used formerly in the rule, which refers to calling a draw on a match because one player is too injured to continue. In Generation III , the status screen erroneously states that the move has 100% accuracy, even though it ignores accuracy and evasion checks. If Shedinja uses Pain Split (via Mimic ), it will cut the target's HP in half, similarly to Super Fang ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Pain-Split",
+    "Pain Split",
+    "Pain-Split (move)"
+  ],
+  "updatedAt": 1773325579
+}

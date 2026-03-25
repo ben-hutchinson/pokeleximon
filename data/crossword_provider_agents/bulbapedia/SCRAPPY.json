@@ -1,0 +1,16 @@
+{
+  "answerKey": "SCRAPPY",
+  "answerDisplay": "SCRAPPY",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen IV ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Scrappy_(Ability)",
+  "extract": "Scrappy (Japanese: きもったま Spunk) is an Ability introduced in Generation IV.",
+  "updatedAt": 1774258446
+}

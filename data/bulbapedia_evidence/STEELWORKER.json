@@ -1,0 +1,29 @@
+{
+  "answerKey": "STEELWORKER",
+  "answerDisplay": "STEELWORKER",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Steelworker (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Steelworker_(Ability)",
+  "pageId": 218214,
+  "pageRevisionId": 4469458,
+  "leadText": "Steelworker (Japanese: はがねつかい Steelworker) is an Ability introduced in Generation VII. It is the signature Ability of Dhelmise.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If a Steel-type move is used by a Pokémon with this Ability, its Attack or Special Attack stat is multiplied by 1.5 during damage calculation, effectively increasing damage dealt by 50%. Outside of battle [ edit | edit source ] Steelworker has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] If a Steel-type move is used by a Pokémon with this Ability, its Attack or Special Attack stat is multiplied by 1.5 during damage calculation, effectively increasing damage dealt by 50%."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Steelworker",
+    "Steelworker (Ability)"
+  ],
+  "updatedAt": 1773329240
+}

@@ -11,12 +11,6 @@ from app.core import config
 from app.core.observability import capture_exception
 from app.core.security import require_admin_auth
 from app.data import repo
-from app.services.cryptic_ranker import (
-    activate_cryptic_model,
-    get_cryptic_training_readiness,
-    list_cryptic_models,
-    train_cryptic_ranker,
-)
 from app.services.reserve_generator import QualityGateError, generate_cryptic_preview, generate_puzzle_for_date, top_up_reserve
 
 router = APIRouter(prefix="/admin", tags=["admin"], dependencies=[Depends(require_admin_auth)])
@@ -182,40 +176,6 @@ def generate_cryptic(
         answer_key=answerKey,
         include_invalid=includeInvalid,
     )
-
-
-@router.post("/cryptic/train-ranker")
-def train_cryptic_ranker_endpoint(
-    promote: bool = Query(default=True),
-    notes: str | None = Query(default=None),
-):
-    return train_cryptic_ranker(promote=promote, notes=notes)
-
-
-@router.get("/cryptic/models")
-def list_cryptic_models_endpoint(
-    limit: int = Query(default=25, ge=1, le=200),
-):
-    return {"items": list_cryptic_models(limit=limit)}
-
-
-@router.get("/cryptic/training-readiness")
-def cryptic_training_readiness_endpoint(
-    minLabeledSamples: int = Query(default=25, ge=1, le=10000),
-    minTotalEvents: int = Query(default=100, ge=1, le=100000),
-):
-    return get_cryptic_training_readiness(
-        min_labeled_samples=minLabeledSamples,
-        min_total_events=minTotalEvents,
-    )
-
-
-@router.post("/cryptic/models/{model_version}/activate")
-def activate_cryptic_model_endpoint(model_version: str):
-    item = activate_cryptic_model(model_version)
-    if item is None:
-        raise HTTPException(status_code=404, detail="Model not found")
-    return {"item": item}
 
 
 @router.get("/alerts")

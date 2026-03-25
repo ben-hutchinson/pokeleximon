@@ -1,0 +1,96 @@
+{
+  "answerKey": "CHLOROPHYLL",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4259051,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen III ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Chlorophyll (Japanese: Chlorophyll) is an Ability introduced in Generation III.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD R B Boosts attack frequency if the weather is sunny. MD T D S Raises the number of moves the Pokemon attempts per turn when it is sunny. B S L MD GtI In sunny weather, it can use a move 2 times at once for only 1 PP. * When the Pokemon uses a move in the Sunny weather condition, it uses it 2 times at once but only consumes PP for 1 use! * S MD When the Pokemon uses a move when it's sunny, it uses the move 2 times at once but only consumes PP for 1 use! MD RT DX When the Pokemon uses a move during Sunny weather or in Extremely Harsh Sunlight, it uses the move 2 times at once but only consumes PP for 1 use.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] During harsh sunlight , the Speed stat of Pokemon with this Ability is doubled. Outside of battle [ edit | edit source ] Chlorophyll has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] During harsh sunlight , the Speed stat of Pokemon with this Ability is doubled.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Doubles Speed during strong sunlight.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
+        "text": "Doubles Speed in sunlight",
+        "evidence_ref": "Effect",
+        "specificity": 0.88
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Doubles Speed in sunlight",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.76,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Sun-boosted Speed trait",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.7,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Faster in harsh sunlight",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.8,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "weather trait",
+      "sun speed",
+      "sunlight booster"
+    ],
+    "connections_descriptors": [
+      "Weather abilities",
+      "Sunlight abilities",
+      "Gen III abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257935
+}

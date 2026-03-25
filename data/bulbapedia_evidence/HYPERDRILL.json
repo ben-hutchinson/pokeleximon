@@ -1,0 +1,30 @@
+{
+  "answerKey": "HYPERDRILL",
+  "answerDisplay": "HYPER DRILL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Hyper Drill (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Hyper_Drill_(move)",
+  "pageId": 277796,
+  "pageRevisionId": 4477405,
+  "leadText": "Hyper Drill (Japanese: ハイパードリル Hyper Drill) is a damage-dealing Normal-type move introduced in Generation IX. It is the signature move of Dunsparce and Dudunsparce.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Hyper Drill inflicts damage. It bypasses the effects of Protect , Detect , Spiky Shield , King's Shield , Baneful Bunker , Silk Trap , and Burning Bulwark , but does not lift the effects of these moves. Other effects [ edit | edit source ] A Dunsparce that knows this move will evolve into Dudunsparce when leveled up."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user spins the pointed part of its body at high speed to pierce the target. This attack can hit a target using a move such as Protect or Detect."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Hyper-Drill",
+    "Hyper Drill",
+    "Hyper-Drill (move)"
+  ],
+  "updatedAt": 1773323757
+}

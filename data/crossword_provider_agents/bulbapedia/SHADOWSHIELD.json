@@ -1,0 +1,16 @@
+{
+  "answerKey": "SHADOWSHIELD",
+  "answerDisplay": "SHADOW SHIELD",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen VII ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Shield_(Ability)",
+  "extract": "Shadow Shield (Japanese: ファントムガード Phantom Guard) is an Ability introduced in Generation VII. It is the signature Ability of Lunala.",
+  "updatedAt": 1774258446
+}

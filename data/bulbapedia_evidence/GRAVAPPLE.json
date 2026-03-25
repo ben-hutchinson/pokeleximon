@@ -1,0 +1,34 @@
+{
+  "answerKey": "GRAVAPPLE",
+  "answerDisplay": "GRAV APPLE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Grav Apple (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Grav_Apple_(move)",
+  "pageId": 244339,
+  "pageRevisionId": 4462991,
+  "leadText": "Grav Apple (Japanese: Ｇのちから G-Force) is a damage-dealing Grass-type move introduced in Generation VIII. It is the signature move of Flapple.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Grav Apple inflicts damage and lowers the target's Defense stat by one stage. If Gravity is in effect, Grav Apple's base power increases to 120. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Grav Apple cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V The user inflicts damage by dropping an apple from high above. This also lowers the target's Defense stat. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The move is likely based on the popular story of how Isaac Newton came up with his theory of gravity when he saw an apple fall from a tree. The move's name is also a pun on gravity and crab apple , a small type of apple that resembles a cherry."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Grav-Apple",
+    "Grav Apple",
+    "Grav-Apple (move)"
+  ],
+  "updatedAt": 1773323355
+}

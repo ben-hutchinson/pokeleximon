@@ -1,0 +1,30 @@
+{
+  "answerKey": "SHADOWBREAK",
+  "answerDisplay": "SHADOW BREAK",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Break (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Break_(move)",
+  "pageId": 9587,
+  "pageRevisionId": 4309712,
+  "leadText": "Shadow Break (Japanese: ダークブレイク Dark Break) is one of several Shadow moves available only in Pokémon XD: Gale of Darkness. Like other Shadow Moves, it is forgotten and replaced with another move once the Pokémon is purified.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Shadow Break inflicts damage and has no secondary effect. As Shadow Pokémon cannot be traded, and since Pokémon Contests do not exist in Pokémon XD: Gale of Darkness, Shadow Break cannot be used in Contests."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description XD A shattering ram attack with a shadowy aura."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Break",
+    "Shadow Break",
+    "Shadow-Break (move)"
+  ],
+  "updatedAt": 1773326828
+}

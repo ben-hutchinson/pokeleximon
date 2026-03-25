@@ -13,6 +13,12 @@ class HealthResponse(BaseModel):
     version: str
 
 
+class ReadyResponse(BaseModel):
+    status: Literal["ok", "degraded"]
+    version: str
+    checks: dict[str, str] = Field(default_factory=dict)
+
+
 class Cell(BaseModel):
     x: int
     y: int
@@ -164,6 +170,7 @@ class PuzzleProgressResponse(BaseModel):
 class PlayerProfileUpdateRequest(BaseModel):
     displayName: str | None = None
     leaderboardVisible: bool | None = None
+    avatarPreset: str | None = None
 
 
 class PlayerProfileRecord(BaseModel):
@@ -171,6 +178,7 @@ class PlayerProfileRecord(BaseModel):
     displayName: str
     publicSlug: str
     leaderboardVisible: bool = True
+    avatarPreset: str | None = None
     hasAccount: bool = False
     createdAt: str | None = None
     updatedAt: str | None = None
@@ -209,6 +217,7 @@ class PublicPlayerProfileRecord(BaseModel):
     displayName: str
     publicSlug: str
     leaderboardVisible: bool = True
+    avatarPreset: str | None = None
     hasAccount: bool = False
     createdAt: str | None = None
     updatedAt: str | None = None

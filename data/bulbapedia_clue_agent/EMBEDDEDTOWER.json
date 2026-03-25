@@ -1,0 +1,105 @@
+{
+  "answerKey": "EMBEDDEDTOWER",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4382430,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Johto location",
+        "evidence_ref": "lead",
+        "specificity": 0.5
+      },
+      {
+        "text": "route landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "tower landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.64
+      },
+      {
+        "text": "Site on Route 47",
+        "evidence_ref": "lead",
+        "specificity": 0.86
+      },
+      {
+        "text": "Resting place of Groudon, Kyogre, and Rayquaza",
+        "evidence_ref": "lead",
+        "specificity": 0.94
+      },
+      {
+        "text": "tower landmark",
+        "evidence_ref": "lead",
+        "specificity": 0.74
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Route 47 tower",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.86,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Tower where weather legends rest",
+        "evidence_ref": "lead",
+        "mystery_score": 0.8,
+        "specificity_score": 0.92,
+        "style": "theme"
+      },
+      {
+        "text": "Resting place of Groudon, Kyogre, and Rayquaza",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.94,
+        "style": "theme"
+      },
+      {
+        "text": "Johto landmark",
+        "evidence_ref": "lead",
+        "mystery_score": 0.38,
+        "specificity_score": 0.5,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Johto route",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.7,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Regional route",
+        "evidence_ref": "lead",
+        "mystery_score": 0.44,
+        "specificity_score": 0.62,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Route in Johto",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.66,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "legendary resting place"
+    ],
+    "connections_descriptors": [
+      "Legendary resting places",
+      "Johto landmarks",
+      "Johto routes"
+    ],
+    "risk_flags": [],
+    "confidence": 0.77
+  },
+  "updatedAt": 1774257943
+}

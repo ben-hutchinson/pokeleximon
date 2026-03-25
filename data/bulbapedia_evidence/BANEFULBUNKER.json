@@ -1,0 +1,30 @@
+{
+  "answerKey": "BANEFULBUNKER",
+  "answerDisplay": "BANEFUL BUNKER",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Baneful Bunker (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Baneful_Bunker_(move)",
+  "pageId": 218235,
+  "pageRevisionId": 4420326,
+  "leadText": "Baneful Bunker (Japanese: トーチカ Pillbox) is a non-damaging Poison-type move introduced in Generation VII. It is the signature move of Toxapex.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Main article: Protection Baneful Bunker protects the user from all effects of moves that target it during the turn it is used, including damage. (This does not include damage at the end of a turn such as from weather or a status condition .) If Baneful Bunker blocks an attack that would make contact with the user, the attacker becomes poisoned (unless they are immune). (Moves that are blocked do not activate other effects that require making contact, like Rocky Helmet or Rough Skin .) If the user goes last in the turn, the move will fail. The chance that Baneful Bunker will succeed also drops each time the user successfully and consecutively uses Endure , any protection move that only affects the user , Quick Guard , or Wide Guard . Each time, the chance of success is divided by 3. Some moves will do damage through Baneful Bunker . Most damaging Z-Moves and Max Moves will only do 25% of their original damage, except G-Max One Blow and G-Max Rapid Flow which do full damage. Moves that break protection , like Feint , will do their full damage and remove the effects of Baneful Bunker. The Ability Unseen Fist allows contact moves to bypass Baneful Bunker. Status moves that are unaffected by Baneful Bunker are listed here . Generally, moves that target the user , moves that target the user and all allies , moves that target all Pokémon , and entry hazard moves cannot be blocked by Baneful Bunker. Baneful Bunker is an increased priority move that will go before most attacks in a turn. If powered up by a Poisonium Z into Z-Baneful Bunker, the user's Defense stat rises by one stage. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Baneful Bunker cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA S V In addition to protecting the user from attacks, this move also poisons any attacker that makes direct contact. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Baneful-Bunker",
+    "Baneful Bunker",
+    "Baneful-Bunker (move)"
+  ],
+  "updatedAt": 1773321007
+}

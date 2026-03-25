@@ -1,0 +1,29 @@
+{
+  "answerKey": "ANALYTIC",
+  "answerDisplay": "ANALYTIC",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Analytic (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Analytic_(Ability)",
+  "pageId": 117437,
+  "pageRevisionId": 4514100,
+  "leadText": "Analytic (Japanese: アナライズ Analyze) is an Ability introduced in Generation V.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If a Pokémon with Analytic executes its move after all other Pokémon have made their move, the power of its move is increased by 30% (approximated as a factor of 5325/4096). In a Triple Battle , this means that if the Pokémon with Analytic is targeting a Pokémon in a flank position that chooses to switch with its ally in the middle, its move's power will always be normal when it attacks the Pokémon that is shifted into the flank position; but if the Pokémon with Analytic targets a Pokémon in the middle whose ally on a flank chooses to shift into the middle position, its move's power still depends on whether the Pokémon that was in the middle (and is now on a flank) has acted when the Pokémon with Analytic uses its move. If another Pokémon faints before it gets a chance to make its move, Analytic's bonus depends on whether that Pokémon would have moved before the user that turn, based on its Speed and the move it chose to use. Modifications to that Speed or to priority caused by paralysis , a held item (such as Power Weight ), or an Ability (such as Stall ) are not taken into account in Generation VIII , but they are in earlier generations . Outside of battle [ edit | edit source ] Analytic has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] If a Pokémon with Analytic executes its move after all other Pokémon have made their move, the power of its move is increased by 30% (approximated as a factor of 5325/4096). In a Triple Battle , this means that if the Pokémon with Analytic is targeting a Pokémon in a flank position that chooses to switch with its ally in the middle, its move's power will always be normal when it attacks the Pokémon that is shifted into the flank position; but if the Pokémon with Analytic targets a Pokémon in the middle whose ally on a flank chooses to shift into the middle position, its move's power still depends on whether the Pokémon that was in the middle (and is now on a flank) has acted when the Pokémon with Analytic uses its move. If another Pokémon faints before it gets a chance to make its move, Analytic's bonus depends on whether that Pokémon would have moved before the user that turn, based on its Speed and the move it chose to use. Modifications to that Speed or to priority caused by paralysis , a held item (such as Power Weight ), or an Ability (such as Stall ) are not taken into account in Generation VIII , but they are in earlier generations ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Analytic",
+    "Analytic (Ability)"
+  ],
+  "updatedAt": 1774213532
+}

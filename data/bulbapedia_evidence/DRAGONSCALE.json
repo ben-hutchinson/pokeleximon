@@ -1,0 +1,38 @@
+{
+  "answerKey": "DRAGONSCALE",
+  "answerDisplay": "DRAGON SCALE",
+  "sourceType": "item",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Dragon Scale",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Scale",
+  "pageId": 20258,
+  "pageRevisionId": 4492591,
+  "leadText": "The Dragon Scale (Japanese: りゅうのウロコ Dragon Scale) is a type of held item introduced in Generation II. It allows Seadra to evolve into Kingdra.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Held item 1.1.1 In battle 1.2 Outside battles Effect [ edit | edit source ] Held item [ edit | edit source ] In battle [ edit | edit source ] In Pokémon Gold, Silver , and Crystal , it increases the power of Dragon-type moves by 10% when held due to an oversight (while the Dragon Fang —the item which was intended to have this effect—has no effect). In Pokémon Stadium 2 , both Dragon Fang and Dragon Scale boost the power of Dragon-type moves. From Generation III onward, Dragon Scale has no effect in battle. Outside battles [ edit | edit source ] Causes Seadra to evolve into Kingdra when traded while holding it, which consumes the Dragon Scale. Seadra will not evolve if linking to a Generation I game."
+    },
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If the player offers both a Link Cable and Dragon Scale at Luminous Cave or Luminous Spring , Seadra can be evolved into Kingdra . This consumes the Link Cable and Dragon Scale. If thrown, it will deal 1 damage (2 if sticky ). Using this item in a dungeon will consume it, with no effect."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] In Pokémon Gold, Silver , and Crystal , it increases the power of Dragon-type moves by 10% when held due to an oversight (while the Dragon Fang —the item which was intended to have this effect—has no effect). In Pokémon Stadium 2 , both Dragon Fang and Dragon Scale boost the power of Dragon-type moves. From Generation III onward, Dragon Scale has no effect in battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description G S C A rare dragon-type item. R S E Colo XD A strange scale held by Dragon -type Pok é mon . FR LG A thick and tough scale. A Dragon -type Pok é mon may be holding it. D P Pt HG SS B W B2 W2 A thick and tough scale. Dragon-type Pokémon may be holding this item when caught. X Y OR AS S M US UM P E Sw Sh BD SP LA S V A very tough and inflexible scale. Dragon-type Pokémon may be holding this item when caught."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Dragon-Scale",
+    "Dragon Scale",
+    "Dragon-Scale (item)"
+  ],
+  "updatedAt": 1773322291
+}

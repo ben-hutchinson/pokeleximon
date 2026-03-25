@@ -1,0 +1,52 @@
+{
+  "answerKey": "STEELYSPIRIT",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4446842,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Steely Spirit (Japanese: Steely Spirit) is an Ability introduced in Generation VIII. It is the signature Ability of Perrserker.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] The power of Steel-type moves used by a Pokemon with Steely Spirit and its allies is increased by 50%. This effect stacks if multiple Pokemon with this Ability are on the field. Doom Desire counts as an allied move even if its user is no longer on the field at the time it hits. Outside of battle [ edit | edit source ] Steely Spirit has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] The power of Steel-type moves used by a Pokemon with Steely Spirit and its allies is increased by 50%. This effect stacks if multiple Pokemon with this Ability are on the field. Doom Desire counts as an allied move even if its user is no longer on the field at the time it hits.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Powers up ally Pokemon's Steel-type moves.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Gen VIII ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.3,
+        "specificity_score": 0.42,
+        "style": "taxonomy"
+      }
+    ],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774258019
+}

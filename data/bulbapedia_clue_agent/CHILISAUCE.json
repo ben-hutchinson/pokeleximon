@@ -1,0 +1,46 @@
+{
+  "answerKey": "CHILISAUCE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "sandwich ingredients",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Pokemon item from the main series games.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Used for berry recipes or blending",
+        "evidence_ref": "lead",
+        "specificity": 0.82
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Berry-blending ingredient",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "family"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "berry ingredient"
+    ],
+    "connections_descriptors": [
+      "Battle items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774258441
+}

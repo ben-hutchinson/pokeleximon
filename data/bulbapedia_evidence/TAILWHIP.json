@@ -1,0 +1,38 @@
+{
+  "answerKey": "TAILWHIP",
+  "answerDisplay": "TAIL WHIP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Tail Whip (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tail_Whip_(move)",
+  "pageId": 3648,
+  "pageRevisionId": 4503605,
+  "leadText": "Tail Whip (Japanese: しっぽをふる Tail Wag) is a non-damaging Normal-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generations I to II 1.2 Generation III onwards 1.3 Generation IX 1.3.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Tail Whip decreases the Defense stat of all adjacent opponents by one stage. Generations I to II [ edit | edit source ] In the Generation I and II core series games, when an in-game opponent outside of the Battle Tower uses Tail Whip, the move has a 25% chance to fail. Generation III onwards [ edit | edit source ] Tail Whip can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Charm was used in the previous turn. If powered up by a Normalium Z into Z-Tail Whip, the user's Attack stat rises one stage. Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Status Accuracy 100% Standard Plus Move Power — Cooldown 7s Move wind-up time 30 frames Effect duration 12s 15s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 A move that lower the target's Defense . Useful against tough, armored Pokémon. G S C Lowers the foe's Defense . R S E Colo XD Wags the tail to lower the foe's Defense . FR LG The user wags its tail cutely, making the foe lower its Defense stat. D P Pt HG SS PBR The user wags its tail cutely, making the foe less wary. The target's Defense stat is lowered. B W B2 W2 X Y OR AS S M US UM P E The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat. Sw Sh BD SP LA The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stats. S V The user wags its tail cutely, making opposing Pokémon less wary. This lowers their Defense stats. ZA The user wags its tail cutely to make targets less wary, which lowers their Defense stats for a short time."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Lowers the target's Defense by one level. MD T D S Reduces the target's Defense by 1 level. B S L てきポケモンの ぼうぎょを １だんかいさげる MD GtI S MD MD RT DX It lowers the enemy's Defense."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Multiple Pokémon (e.g., Flareon , Marowak and Tauros ) have been capable of learning both this move and Leer at the same time in the past, despite them being functionally the same move. With the exception of Morpeko , all of these Pokémon would eventually only learn Tail Whip, even if they only had a very short tail (such as Rhyhorn ) or no tail at all (such as Snubbull )."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Tail-Whip",
+    "Tail Whip",
+    "Tail-Whip (move)"
+  ],
+  "updatedAt": 1773327782
+}

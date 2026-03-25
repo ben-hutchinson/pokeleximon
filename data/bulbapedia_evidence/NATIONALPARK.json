@@ -1,0 +1,30 @@
+{
+  "answerKey": "NATIONALPARK",
+  "answerDisplay": "NATIONAL PARK",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "National Park",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/National_Park",
+  "pageId": 8404,
+  "pageRevisionId": 4476697,
+  "leadText": "The National Park (Japanese: しぜんこうえん Nature Park) is a location in Johto. It is located to the north of Goldenrod City, between Route 35 and Route 36. The Bug-Catching Contest takes place there every Tuesday, Thursday, and Saturday.",
+  "sections": [
+    {
+      "title": "Geography",
+      "text": "Geography [ edit | edit source ] The park is separated into two main areas. The southern part contains several benches and a patch of flowers. Several people rest in this area, including a Teacher with a Persian that gives a Quick Claw to the player . The northern part is circular and resembles a Poké Ball , with a fountain in the center, a semi-circular patch of tall grass to the south and another of long grass to the north, the first instance of this type of grass that is encountered in the games. Trainers can be battled only within these patches of grass, though there are no Trainers to battle during a Bug-Catching Contest . In Generation II , most of the people talk about printing pictures off from the Pokédex , in order to promote the games' connectivity to the Game Boy Printer that was released two years before them. In Generation IV , they instead talk about using the Pokéwalker . In Generation IV , it neighbors the Pokéathlon Dome ."
+    },
+    {
+      "title": "Items",
+      "text": "Items [ edit | edit source ] Item Location Games Quick Claw Gift from the woman with a Persian in the southeast G S C HG SS Parlyz Heal Behind the fence, near the east gate G S C Soothe Bell Behind the fence, near the east gate HG SS TM28 ( Dig ) Behind the fence, in the southwest G S C HG SS Full Heal Behind the fence, between the two flowers at the end of the path near the south gate (hidden) G S C HG SS Full Heal Two tiles north and two tiles east of the northeastern corner of the small fountain near the south gate (hidden) HG SS Shiny Stone Behind the fence, on a cliff in the northeast (requires Rock Climb ) HG SS Nugget Sometimes given out by Pokéfan Beverly if the player has her number (number obtainable with Marill in their party C ) C HG SS Park Ball ×20 From the Contest Helper in either gate , to be used in the Bug-Catching Contest , cannot be kept Tu Th Sa G S C Sport Ball ×20 From the Contest Helper in either gate , to be used in the Bug-Catching Contest , cannot be kept Tu Th Sa HG SS Bug-Catching Contest prizes [ edit | edit source ] For the prizes received by competing in the Bug-Catching Contest, see Bug-Catching Contest → Prizes ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "National-Park",
+    "National Park",
+    "National-Park (location)"
+  ],
+  "updatedAt": 1774214622
+}

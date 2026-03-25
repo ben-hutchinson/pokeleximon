@@ -1,0 +1,82 @@
+{
+  "answerKey": "REVIVE",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4504894,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen I item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "revival",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Gen I revival",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Revives with half HP.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Safari-zone capture tool",
+        "evidence_ref": "lead",
+        "specificity": 0.88
+      },
+      {
+        "text": "Event-only distribution item",
+        "evidence_ref": "Acquisition",
+        "specificity": 0.82
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Event-only distribution item",
+        "evidence_ref": "Acquisition",
+        "mystery_score": 0.7,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Limited event key item",
+        "evidence_ref": "Acquisition",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Safari Zone catcher",
+        "evidence_ref": "lead",
+        "mystery_score": 0.76,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Great Marsh capture tool",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.86,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "event item"
+    ],
+    "connections_descriptors": [
+      "Gen I items"
+    ],
+    "risk_flags": [],
+    "confidence": 0.78
+  },
+  "updatedAt": 1774258002
+}

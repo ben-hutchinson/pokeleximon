@@ -1,0 +1,76 @@
+{
+  "answerKey": "SANDRUSH",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4284627,
+  "evidencePassMode": "second_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen V ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "Sand Rush (Japanese: Sand Paddle) is an Ability introduced in Generation V.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD GtI In the Sandstorm weather condition, it can use a move 2 times at once for only 1 PP. * When the Pokemon uses a move in the Sandstorm weather condition, it uses it 2 times at once but only consumes PP for 1 use! * S MD The Pokemon isn't damaged by a sandstorm. During a sandstorm, it uses a move 2 times at once but only consumes PP for 1 use!",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] During a sandstorm , the Speed stat of Pokemon with this Ability is doubled. A Pokemon with this Ability will take no damage from the sandstorm if it otherwise would. Outside of battle [ edit | edit source ] There are no effects outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] During a sandstorm , the Speed stat of Pokemon with this Ability is doubled. A Pokemon with this Ability will take no damage from the sandstorm if it otherwise would.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Doubles Speed during a sandstorm. Protects against sandstorm damage.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "protective trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Weather-linked trait",
+        "evidence_ref": "lead",
+        "mystery_score": 0.56,
+        "specificity_score": 0.66,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "protective trait",
+      "weather trait"
+    ],
+    "connections_descriptors": [
+      "Protective abilities",
+      "Weather abilities",
+      "Gen V abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774258006
+}

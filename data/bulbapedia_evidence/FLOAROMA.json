@@ -1,0 +1,31 @@
+{
+  "answerKey": "FLOAROMA",
+  "answerDisplay": "FLOAROMA",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Floaroma Town",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Floaroma_Town",
+  "pageId": 13216,
+  "pageRevisionId": 4509898,
+  "leadText": "Floaroma Town (Japanese: ソノオタウン Sonoo Town) is a town in the Sinnoh region, known for its honey and vividly scented flowers that grow everywhere. It is the first area where Berries from non-player characters are available in Generation IV. Notable landmarks of the town include the Pick a Peck of Colors Flower Shop at its center and the Floaroma Meadow found to the north. In Pokémon Platinum, Floaroma Town has wooden arches at its entrances. Floaroma Town is bordered to the south by Route 204, the east by Route 205, and to the north by Fuego Ironworks (though not directly accessible from Floaroma Town itself).",
+  "sections": [
+    {
+      "title": "Slogan",
+      "text": "Slogan [ edit | edit source ] Vivid & Scented (Japanese: あざやかに はなかおる まち The town that smells vividly of flowers. )"
+    },
+    {
+      "title": "History and tradition",
+      "text": "History and tradition [ edit | edit source ] According to the townspeople, Floaroma Town was once a barren and desolate hill. People started planting flowers around it to cheer up the place, but nothing would grow. Then, someone expressed thanks for a blessing of nature, and the whole hill burst into bloom. It is theorized that Shaymin was the cause of the sudden burst of flowers, given it being the Gratitude Pokémon, and its ability to \"instantly transform ruined land into a lush field of flowers,\" according to its Pokédex entry."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Floaroma-Town",
+    "Floaroma Town",
+    "Floaroma",
+    "Floaroma-Town (location)"
+  ],
+  "updatedAt": 1774214013
+}

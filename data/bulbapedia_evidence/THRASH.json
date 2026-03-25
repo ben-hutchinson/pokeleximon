@@ -1,0 +1,37 @@
+{
+  "answerKey": "THRASH",
+  "answerDisplay": "THRASH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Thrash (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Thrash_(move)",
+  "pageId": 3646,
+  "pageRevisionId": 4453582,
+  "leadText": "Thrash (Japanese: あばれる Violent Struggle) is a damage-dealing Normal-type move introduced in Generation I.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generation II to IV 1.3 Generation V onwards Effect [ edit | edit source ] Generation I [ edit | edit source ] Thrash inflicts damage for 3-4 turns, has a base power of 90, and 20 PP . PP is deducted only on the turn Thrash is first called. Once called, even if the move misses, the user will only be able to use Thrash, and will not be able to switch out. After Thrash is finished, the user becomes confused , due to fatigue. If the Thrash duration is disrupted (such as by full paralysis or hurting itself due to confusion ), it will immediately end. The user will only become confused if Thrash is fully executed, without its duration being disrupted. Sleep , freeze , binding , and flinching will pause but not disrupt the duration of Thrash. If a change in accuracy or evasion affects Thrash's accuracy, the decrease in accuracy will be reapplied on each automatic turn. Its accuracy will return to normal when it is selected again. If Thrash misses due to the 99.6% accuracy bug of 100%-accuracy moves when there are no other accuracy or evasion modifiers in effect, or in case said modifiers cancel each other, its accuracy will be unaffected. If Thrash misses during the turn it is selected, its secondary effects will not activate. In Stadium, after the duration of Thrash ends, there will be a notice that the user becomes confused for some time. Generation II to IV [ edit | edit source ] The duration of Thrash is decreased to 2-3 turns. In battles with multiple opponents, the user selects itself as the target, but hits an adjacent opponent that is selected at random upon each use of the move. Thrash can be used as the second move of a Pokémon Contest combination , with the user gaining 4 bonus appeal points if Rage was used in the previous turn. Generation V onwards [ edit | edit source ] The base power of Thrash is increased to 120 and its PP is reduced to 10. It is disrupted if it is not successful due to missing, sleeping , paralysis , freeze , flinching , a Protecting target, Ghost-type , or Wonder Guard immunity. If a disruption occurs on what would have been the final, confusion-inducing turn of Thrash, the user will still become confused."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad Stad2 An attack that lasts two to three turns. Afterwards, the attacker becomes confused. G S C Works 2-3 turns and confuses user. R S E Colo XD A rampage of 2 to 3 turns that confuses the user. FR LG The user rampages about for two to three turns, then becomes confused. D P Pt HG SS PBR B W B2 W2 The user rampages and attacks for two to three turns. It then becomes confused, however. X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user rampages and attacks for two to three turns. The user then becomes confused."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Attacks three times in random directions. MD T D S Makes the user attack 3 times in random directions. B S L ３かいれんぞくで いろいろなほうこうを こうげきする MD GtI It damages an enemy 2 to 3 times in a row. Then you will get the Confused status condition. S MD It damages an enemy 2 to 3 times in a row. After that, you'll get confused."
+    },
+    {
+      "title": "Pokédex entries",
+      "text": "Pokédex entries [ edit | edit source ] Episode Subject Source Entry EP025 Thrash Ash's Pokédex Once Primeape begins its strongest attack , Thrash, it goes completely out of control."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Thrash",
+    "Thrash (move)"
+  ],
+  "updatedAt": 1773327914
+}

@@ -1,0 +1,34 @@
+{
+  "answerKey": "MOLDBREAKER",
+  "answerDisplay": "MOLD BREAKER",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Mold Breaker (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mold_Breaker_(Ability)",
+  "pageId": 17640,
+  "pageRevisionId": 4312299,
+  "leadText": "Mold Breaker (Japanese: かたやぶり Mold-Breaking) is an Ability introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generation V onward 1.1.3 Generation VIII onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Main article: Ignoring Abilities When a Pokémon with Mold Breaker uses a move, the effects of all Pokémon's ignorable Abilities are ignored for the execution of that move. (Ignorable Abilities are most Abilities that could potentially negatively affect the success, damage, or effects of a move if possessed by the target of a move or its allies.) For example, a Pokémon with Mold Breaker that uses Earthquake can hit opponents that have Levitate . In Generation IV, when a Pokémon with Mold Breaker is brought out, the message \" has Mold Breaker! \" is displayed. From Generation V onward, when a Pokémon with Mold Breaker is brought out, the message \" breaks the mold! \" is displayed. Generation IV [ edit | edit source ] Flower Gift will increase the Attack of allies with Mold Breaker, even when they are attacking the ally with Flower Gift. Generation V onward [ edit | edit source ] If a Pokémon with Mold Breaker forces a Pokémon to switch in by using a move that switches the target out (such as Roar or Dragon Tail ), ignorable Abilities are ignored when applying entry hazards . For example, a Pokémon with Levitate switched in this way will be affected by Spikes and Toxic Spikes (unless it is also ungrounded for other reasons); if a Poison-type Pokémon with Levitate is switched in this way, it will remove Toxic Spikes from its side of the field (unless it is also ungrounded for other reasons). If a Pokémon with Mold Breaker attacks, it does not gain Attack due to an ally's Flower Gift. Generation VIII onward [ edit | edit source ] Mold Breaker no longer ignores Dark Aura and Fairy Aura , though it will still ignore Aura Break. Outside of battle [ edit | edit source ] Mold Breaker has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "Contents 1 In battle 1.1 Generation IV 1.2 Generation V onward 1.3 Generation VIII onward In battle [ edit | edit source ] Main article: Ignoring Abilities When a Pokémon with Mold Breaker uses a move, the effects of all Pokémon's ignorable Abilities are ignored for the execution of that move. (Ignorable Abilities are most Abilities that could potentially negatively affect the success, damage, or effects of a move if possessed by the target of a move or its allies.) For example, a Pokémon with Mold Breaker that uses Earthquake can hit opponents that have Levitate . In Generation IV, when a Pokémon with Mold Breaker is brought out, the message \" has Mold Breaker! \" is displayed. From Generation V onward, when a Pokémon with Mold Breaker is brought out, the message \" breaks the mold! \" is displayed. Generation IV [ edit | edit source ] Flower Gift will increase the Attack of allies with Mold Breaker, even when they are attacking the ally with Flower Gift. Generation V onward [ edit | edit source ] If a Pokémon with Mold Breaker forces a Pokémon to switch in by using a move that switches the target out (such as Roar or Dragon Tail ), ignorable Abilities are ignored when applying entry hazards . For example, a Pokémon with Levitate switched in this way will be affected by Spikes and Toxic Spikes (unless it is also ungrounded for other reasons); if a Poison-type Pokémon with Levitate is switched in this way, it will remove Toxic Spikes from its side of the field (unless it is also ungrounded for other reasons). If a Pokémon with Mold Breaker attacks, it does not gain Attack due to an ally's Flower Gift. Generation VIII onward [ edit | edit source ] Mold Breaker no longer ignores Dark Aura and Fairy Aura , though it will still ignore Aura Break."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Prevents the foe's ability from activating when the Pokémon attacks. B S L こうげきしたときに あいての とくせいのこうかを うけない MD GtI Damage dealt by the Pokémon's moves or items is not influenced by the target's Ability. * The Pokémon's moves are not influenced by the target's Ability! For example, it could make a Pokémon with Sturdy faint in one hit! * S MD The Pokémon's moves are not influenced by the target's Ability! For example, it could make a Pokémon with the Sturdy Ability faint in one hit! MD RT DX The Pokémon can deal damage and inflict status conditions on targets regardless of their Abilities. For example, this Pokémon can make a Pokémon with the Sturdy Ability faints in one hit!"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Mold-Breaker",
+    "Mold Breaker",
+    "Mold-Breaker (Ability)"
+  ],
+  "updatedAt": 1774214552
+}

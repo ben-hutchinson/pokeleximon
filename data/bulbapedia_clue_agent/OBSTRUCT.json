@@ -1,0 +1,96 @@
+{
+  "answerKey": "OBSTRUCT",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4270176,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen VIII Dark move",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Dark status move",
+        "evidence_ref": "lead",
+        "specificity": 0.6
+      },
+      {
+        "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokemon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] Main article: Protection Obstruct protects the user from all effects of physical and special moves that target it during the turn it is used. If Obstruct blocks an attack that would make contact with the user, the attacker's Defense stat is lowered by 2 stages. Obstruct causes the Defense stat to drop even if the user of Obstruct was immune to that contact move. (Moves that are blocked do not activate other effects that require making contact, like Rocky Helmet or Rough Skin .) If the user goes last in the turn, the move will fail. The chance that Obstruct will succeed also drops each time the user successfully and consecutively uses Endure , any protection move that only affects the user , Quick Guard , or Wide Guard . Each time, the chance of success is divided by 3. Some moves will do damage through Obstruct . Most damaging Max Moves will only do 25% of their original damage, except G-Max One Blow and G-Max Rapid Flow which do full damage. Moves that break protection , like Feint , will do their full damage and remove the effects of Obstruct. The Ability Unseen Fist allows contact moves to bypass Obstruct. Obstruct is an increased priority move that will go before most attacks in a turn. Generation VIII [ edit | edit source ] Pokemon Brilliant Diamond and Shining Pearl [ edit | edit source ] Obstruct cannot be selected in a battle. Generation IX [ edit | edit source ] Obstruct cannot be selected in a battle.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "priority move",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "priority move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "debuffing move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "protective move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "priority move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.55,
+        "specificity_score": 0.64,
+        "style": "effect"
+      },
+      {
+        "text": "Dark status move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.42,
+        "specificity_score": 0.58,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gen VIII Dark move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.34,
+        "specificity_score": 0.54,
+        "style": "taxonomy"
+      },
+      {
+        "text": "priority move",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.66,
+        "style": "mechanic"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "dark status move"
+    ],
+    "connections_descriptors": [
+      "Priority moves",
+      "Debuffing moves",
+      "Protective moves",
+      "Dark Status moves"
+    ],
+    "risk_flags": [],
+    "confidence": 0.68
+  },
+  "updatedAt": 1774257985
+}

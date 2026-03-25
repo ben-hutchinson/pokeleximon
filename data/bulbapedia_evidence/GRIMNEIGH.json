@@ -1,0 +1,30 @@
+{
+  "answerKey": "GRIMNEIGH",
+  "answerDisplay": "GRIM NEIGH",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Grim Neigh (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Grim_Neigh_(Ability)",
+  "pageId": 257899,
+  "pageRevisionId": 4359114,
+  "leadText": "Grim Neigh (Japanese: くろのいななき Black Neigh) is an Ability introduced during Generation VIII, in The Crown Tundra. It is the signature Ability of Spectrier.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokémon with Grim Neigh directly causes another Pokémon (including allies) to faint by using a damaging move, its Special Attack is increased by one stage. If its Special Attack is already at +6 stages, Grim Neigh will not activate. Outside of battle [ edit | edit source ] Grim Neigh has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] When a Pokémon with Grim Neigh directly causes another Pokémon (including allies) to faint by using a damaging move, its Special Attack is increased by one stage. If its Special Attack is already at +6 stages, Grim Neigh will not activate."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Grim-Neigh",
+    "Grim Neigh",
+    "Grim-Neigh (Ability)"
+  ],
+  "updatedAt": 1773328912
+}

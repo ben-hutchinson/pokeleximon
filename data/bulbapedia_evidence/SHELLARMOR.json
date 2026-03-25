@@ -1,0 +1,38 @@
+{
+  "answerKey": "SHELLARMOR",
+  "answerDisplay": "SHELL ARMOR",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shell Armor (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shell_Armor_(Ability)",
+  "pageId": 4150,
+  "pageRevisionId": 4358219,
+  "leadText": "Shell Armor (Japanese: シェルアーマー Shell Armor) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Shell Armor prevents the Pokémon from receiving a critical hit , even from moves that normally always land one, namely Frost Breath , Storm Throw , Wicked Blow , Surging Strikes , Flower Trick , and any move boosted by Merciless (if the Pokémon is poisoned ) or Laser Focus . Outside of battle [ edit | edit source ] Shell Armor has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Shell Armor prevents the Pokémon from receiving a critical hit , even from moves that normally always land one, namely Frost Breath , Storm Throw , Wicked Blow , Surging Strikes , Flower Trick , and any move boosted by Merciless (if the Pokémon is poisoned ) or Laser Focus ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Blocks critical hits. MD T D S Blocks critical hits on the Pokémon. B S L こうげきを きゅうしょに うけない Conq. The Pokémon is protected against critical hits. MD GtI Moves will not make a critical hit. * Moves don't hit critically! Never ever! * S MD Moves don't hit the Pokémon critically! Never ever! MD RT DX Moves are never critical hits against this Pokémon."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This Ability originated as a TCG Pokémon Power . Together with Protean , these are the only Abilities that more than one first partner Pokémon line can have as their Hidden Ability ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shell-Armor",
+    "Shell Armor",
+    "Shell-Armor (Ability)"
+  ],
+  "updatedAt": 1773326898
+}

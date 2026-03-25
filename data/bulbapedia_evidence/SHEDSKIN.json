@@ -1,0 +1,38 @@
+{
+  "answerKey": "SHEDSKIN",
+  "answerDisplay": "SHED SKIN",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shed Skin (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shed_Skin_(Ability)",
+  "pageId": 4137,
+  "pageRevisionId": 4048099,
+  "leadText": "Shed Skin (Japanese: だっぴ Shed Skin) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation III 1.1.2 Generation IV 1.1.3 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] At the end of each turn, Shed Skin has a chance of curing the Pokémon of a non-volatile status condition . If it cures a status condition, it does so before burn or poison damage is dealt on that turn. Generation III [ edit | edit source ] Shed Skin has a 1/3 chance of curing the Pokémon. In Pokémon Ruby and Sapphire only, due to an oversight , if a Pokémon cures itself of sleep with Shed Skin, it will not be cured of Nightmare even after waking up. Generation IV [ edit | edit source ] Shed Skin has a 30% chance of curing the Pokémon. Generation V onward [ edit | edit source ] Shed Skin has a 1/3 chance of curing the Pokémon. Outside of battle [ edit | edit source ] Shed Skin has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "Contents 1 In battle 1.1 Generation III 1.2 Generation IV 1.3 Generation V onward In battle [ edit | edit source ] At the end of each turn, Shed Skin has a chance of curing the Pokémon of a non-volatile status condition . If it cures a status condition, it does so before burn or poison damage is dealt on that turn. Generation III [ edit | edit source ] Shed Skin has a 1/3 chance of curing the Pokémon. In Pokémon Ruby and Sapphire only, due to an oversight , if a Pokémon cures itself of sleep with Shed Skin, it will not be cured of Nightmare even after waking up. Generation IV [ edit | edit source ] Shed Skin has a 30% chance of curing the Pokémon. Generation V onward [ edit | edit source ] Shed Skin has a 1/3 chance of curing the Pokémon."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Recovers easily from status problems. MD T D S Helps the Pokémon recover more easily from status problems. B S L じぶんが こうどう したあとに わるいじょうたいが なおることがある Conq. The Pokémon may heal its own status ailments. MD GtI Sometimes heals the Pokémon's negative status conditions. * Sometimes it cures every single bad status condition the Pokémon has! * S MD Sometimes it cures every single bad status condition the Pokémon has! MD RT DX This Ability sometimes cures every bad status condition the Pokémon has."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Prior to becoming an Ability, Shed Skin appeared as a TCG Attack ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shed-Skin",
+    "Shed Skin",
+    "Shed-Skin (Ability)"
+  ],
+  "updatedAt": 1773326885
+}

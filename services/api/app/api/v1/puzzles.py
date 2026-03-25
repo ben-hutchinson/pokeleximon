@@ -236,6 +236,7 @@ def put_player_profile(payload: PlayerProfileUpdateRequest, request: Request):
             player_token=token,
             display_name=payload.displayName,
             leaderboard_visible=payload.leaderboardVisible,
+            avatar_preset=payload.avatarPreset,
         )
     except ValueError as exc:
         raise HTTPException(status_code=422, detail=str(exc)) from exc
@@ -326,17 +327,6 @@ def get_leaderboard(
             cursor=cursor,
         )
     }
-
-
-@router.get("/export/text")
-def export_text(
-    gameType: Literal["crossword", "cryptic"] = Query(default="crossword"),
-    date: str | None = Query(default=None, description="YYYY-MM-DD"),
-    puzzleId: str | None = Query(default=None),
-):
-    puzzle = _resolve_export_puzzle(game_type=gameType, date=date, puzzle_id=puzzleId)
-    redacted = sample.redact_puzzle(puzzle)
-    return {"data": build_text_export_payload(redacted), "meta": ResponseMeta(redactedAnswers=True)}
 
 
 @router.get("/export/pdf")

@@ -1,0 +1,34 @@
+{
+  "answerKey": "DIRECLAW",
+  "answerDisplay": "DIRE CLAW",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Dire Claw (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dire_Claw_(move)",
+  "pageId": 268030,
+  "pageRevisionId": 4403589,
+  "leadText": "Dire Claw (Japanese: フェイタルクロー Fatal Claw) is a damage-dealing Poison-type move introduced during Generation VIII, in Pokémon Legends: Arceus. It is the signature move of Sneasler.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Dire Claw inflicts damage and has an increased critical-hit ratio. It has a 50% chance (80% chance in the strong style ) to either poison the target, paralyze it, or make it drowsy . Pokémon Legends: Arceus Category Physical PP 15 Agile Strong Power 60 45 75 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Chance 50% 50% 80% Turns 3 2 4 Crit. Stage +1 +1 +2 May inflict the target with poison, paralysis, or drowsiness Generation IX [ edit | edit source ] Dire Claw's power has been changed from 60 to 80. It has a 50% chance of leaving the target poisoned, paralyzed, or asleep (approximately a 16.67% chance for each status individually), and does not have an increased critical-hit ratio."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description LA The user lashes out at the target with ruinous claws, aiming to land a critical hit. This may also leave the target poisoned, paralyzed, or drowsy. S V The user lashes out at the target with ruinous claws, aiming to land a critical hit. This may also leave the target poisoned, paralyzed, or asleep. * The user lashes out at the target with ruinous claws. This may also leave the target poisoned, paralyzed, or asleep. *"
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Dire Claw is the only Poison-type move that can inflict paralysis or sleep ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Dire-Claw",
+    "Dire Claw",
+    "Dire-Claw (move)"
+  ],
+  "updatedAt": 1773322163
+}

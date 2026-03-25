@@ -1,0 +1,34 @@
+{
+  "answerKey": "SHADOWCHILL",
+  "answerDisplay": "SHADOW CHILL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shadow Chill (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Chill_(move)",
+  "pageId": 9585,
+  "pageRevisionId": 4469687,
+  "leadText": "Shadow Chill (Japanese: ダークフリーズ Dark Freeze) is one of several Shadow moves available only in Pokémon XD: Gale of Darkness. Like other Shadow moves, it is forgotten and replaced with another move once the Shadow Pokémon is purified. It is the signature move of Shadow Articuno.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Shadow Chill is a Shadow version of Ice Beam . It deals damage and has a 10% chance of freezing the target. As Shadow Pokémon cannot be traded, and since Pokémon Contests do not exist in Pokémon XD: Gale of Darkness, Shadow Chill cannot be used in Contests."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description XD A shadowy ice attack that may freeze."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Shadow Chill is the only Shadow move that can cause freezing ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shadow-Chill",
+    "Shadow Chill",
+    "Shadow-Chill (move)"
+  ],
+  "updatedAt": 1773326830
+}

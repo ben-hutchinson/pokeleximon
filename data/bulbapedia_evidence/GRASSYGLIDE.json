@@ -1,0 +1,34 @@
+{
+  "answerKey": "GRASSYGLIDE",
+  "answerDisplay": "GRASSY GLIDE",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Grassy Glide (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Grassy_Glide_(move)",
+  "pageId": 252236,
+  "pageRevisionId": 4415753,
+  "leadText": "Grassy Glide (Japanese: グラススライダー Grass Slider) is a damage-dealing Grass-type move introduced during Generation VIII, in The Isle of Armor. It is TM194 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation VIII [ edit | edit source ] Grassy Glide inflicts damage. If Grassy Terrain is in effect and the user is grounded upon its execution, this move's priority is increased by one. Grassy Glide has a base power of 70. Generation IX [ edit | edit source ] Grassy Glide's base power has been reduced to 60. In Version 2.0.1 of Pokémon Scarlet and Violet , Grassy Glide's power was further reduced to 55."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Sw Sh LA S V Gliding on the ground, the user attacks the target. This move always goes first on Grassy Terrain. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Grassy Glide is the only move whose priority can vary because of its own effect. In Version 2.0.1 of Pokémon Scarlet and Violet , Grassy Glide's base power was reduced from 60 to 55, making it the only move whose base power was changed via a patch to a game."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Grassy-Glide",
+    "Grassy Glide",
+    "Grassy-Glide (move)"
+  ],
+  "updatedAt": 1773323348
+}

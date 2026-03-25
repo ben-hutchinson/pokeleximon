@@ -1,0 +1,33 @@
+{
+  "answerKey": "REVERSAL",
+  "answerDisplay": "REVERSAL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Reversal (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Reversal_(move)",
+  "pageId": 3789,
+  "pageRevisionId": 4469770,
+  "leadText": "Reversal redirects here. For the location in Unova, see Reversal Mountain. Reversal (Japanese: きしかいせい Reversal) is a damage-dealing Fighting-type move introduced in Generation II. It was TR21 in Pokémon Sword and Shield, and is TM134 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Reversal inflicts damage and has no additional effect . Its power is based on the user's current HP as a percentage of its maximum HP, which is higher the lower the user's HP is. Power HP% All other generations Generation IV 20 HP ≥ 68.8% HP ≥ 67.2% 40 35.4% ≤ HP 34.4% ≤ HP 80 20.8% ≤ HP 20.3% ≤ HP 100 10.4% ≤ HP 9.4% ≤ HP 150 4.2% ≤ HP 3.1% ≤ HP 200 HP HP Generation II [ edit | edit source ] Reversal cannot cause a critical hit , and its damage is not varied by a random factor during damage calculation . Generation III onwards [ edit | edit source ] Reversal can now cause a critical hit, and its damage is now varied by a random factor during damage calculation. Reversal can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Endure was used in the previous turn. It is also part of a Contest Spectacular combination and will give an extra three appeal points if the move Endure was used in the prior turn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad2 An attack that increases in power if the user's HP is low. It could turn the tide in battle. G S C Stronger if the user's HP is low. R S E Colo XD Inflicts more damage when the user's HP is down. FR LG D P Pt HG SS PBR B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V An all-out attack that becomes more powerful the less HP the user has."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. The lower the user's HP, the greater the damage it inflicts. B S L てきポケモンに ダメージをあたえる じぶんのＨＰが のこりすくないほど あたえるダメージが おおきい MD GtI S MD MD RT DX It damages an enemy. The lower your HP is, the greater the damage it causes."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Reversal",
+    "Reversal (move)"
+  ],
+  "updatedAt": 1773326396
+}

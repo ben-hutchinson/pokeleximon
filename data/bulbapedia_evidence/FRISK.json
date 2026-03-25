@@ -1,0 +1,33 @@
+{
+  "answerKey": "FRISK",
+  "answerDisplay": "FRISK",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Frisk (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Frisk_(Ability)",
+  "pageId": 14327,
+  "pageRevisionId": 4419443,
+  "leadText": "Frisk (Japanese: おみとおし Unobstructed Sight) is an Ability introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations IV and V 1.1.2 Generation VI 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations IV and V [ edit | edit source ] Frisk allows the Pokémon to see the opponent's held item upon entering battle. If the foe is holding an item, a message identifying the item will be shown right after the Pokémon with Frisk enters the battle. If the foe is not holding an item, no message will appear. In a Double or Triple Battle , an unidentified opponent is randomly chosen and its held item revealed. The item revealed may be from a non-adjacent opponent. Generation VI [ edit | edit source ] Frisk now identifies the held items of all opposing Pokémon, regardless of position, in the order of left to right from that team's perspective. Outside of battle [ edit | edit source ] Frisk has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generations IV and V [ edit | edit source ] Frisk allows the Pokémon to see the opponent's held item upon entering battle. If the foe is holding an item, a message identifying the item will be shown right after the Pokémon with Frisk enters the battle. If the foe is not holding an item, no message will appear. In a Double or Triple Battle , an unidentified opponent is randomly chosen and its held item revealed. The item revealed may be from a non-adjacent opponent. Generation VI [ edit | edit source ] Frisk now identifies the held items of all opposing Pokémon, regardless of position, in the order of left to right from that team's perspective."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Shows if the foe is holding an item when the Pokémon hits it with a regular attack. B S L つうじょうこうげきを したときに あいてが どうぐを もっているかが わかる MD GtI When the Pokémon uses a move on a foe, it will learn the name of the item the foe is holding. * When it uses a move or attack on a foe, the Pokémon will know the name of the item that foe is carrying. * S MD When the Pokémon uses a move or attack on an enemy, the Pokémon will know the name of the item that the enemy is carrying! MD RT DX When the Pokémon attacks an enemy, it will learn the name of the item that the enemy is carrying."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Frisk",
+    "Frisk (Ability)"
+  ],
+  "updatedAt": 1773328886
+}

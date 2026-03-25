@@ -1,0 +1,38 @@
+{
+  "answerKey": "BODYSLAM",
+  "answerDisplay": "BODY SLAM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Body Slam (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Body_Slam_(move)",
+  "pageId": 3642,
+  "pageRevisionId": 4487601,
+  "leadText": "Body Slam (Japanese: のしかかり Lean On) is a damage-dealing Normal-type move introduced in Generation I. It is: TM08 in Generation I TR01 in Pokémon Sword and Shield. TM066 in Pokémon Scarlet and Violet. TM033 in Pokémon Legends: Z-A.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation I 1.2 Generations II to V 1.3 Generation VI onward 1.4 Generation IX 1.4.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Body Slam inflicts damage and has a 30% chance of paralyzing the target. Generation I [ edit | edit source ] Body Slam cannot paralyze Normal-type Pokémon. Generations II to V [ edit | edit source ] Body Slam can now paralyze Normal-type Pokémon. Generation VI onward [ edit | edit source ] Body Slam can no longer paralyze Electric-type Pokémon, due to them now being immune to paralysis . If the target has used Minimize , Body Slam now deals double its regular damage and bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly . Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 85 102 Cooldown 8s Move wind-up time 15 frames Effect duration —s Additional effect Chance 30% — — May paralyze the target."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description Stad A Normal -type attack. Has a one-in-three chance of paralyzing the target if it connects. Stad2 A Normal -type attack. Has a one-in-three chance of paralyzing the target if it hits. G S C An attack that may cause paralysis. R S E Colo XD A full-body slam that may cause paralysis. FR LG The user drops its full body on the foe. It may leave the foe paralyzed. D P Pt HG SS PBR The user drops onto the foe with its full body weight. It may leave the foe paralyzed. B W B2 W2 The user drops onto the target with its full body weight. It may also leave the target with paralysis. X Y OR AS S M US UM P E Sw Sh BD SP LA The user drops onto the target with its full body weight. This may also leave the target with paralysis. S V The user attacks by dropping onto the target with its full body weight. This may also leave the target with paralysis. ZA The user attacks by dropping onto targets with its full body weight. This may also leave targets paralyzed."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also cause paralysis and prevent any attacks or moves. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Paralysis status condition. A Pokémon with the Paralysis status has slowed movement and is incapable of action. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで まひじょうたいにかえる まひじょうたいの ポケモンは わざが だせない Conq. The user drops onto the target with its full body weight. It may also leave the target with paralysis. MD GtI It damages an enemy. It could also cause the Paralysis status condition. With the Paralysis status, the enemy's Travel Speed goes down and it can't attack or use moves. S MD It damages an enemy and could also cause paralysis."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] From Generation IV onwards, Secret Power has the animation of Body Slam if used in a building. Body Slam's Chinese name (泰山压顶 Tàishān Yādǐng ) is a chengyu (成语 chéngyǔ ), a set phrase, usually an idiom or proverb, commonly of four characters. In this case, it literally translates to \"bearing down with the overwhelming weight of Mt. Tai \", Mt. Tai being a 1500 meter (5000 feet) tall mountain in Shandong ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Body-Slam",
+    "Body Slam",
+    "Body-Slam (move)"
+  ],
+  "updatedAt": 1773321274
+}

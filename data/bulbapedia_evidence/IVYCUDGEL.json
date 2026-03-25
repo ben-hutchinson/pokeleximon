@@ -1,0 +1,30 @@
+{
+  "answerKey": "IVYCUDGEL",
+  "answerDisplay": "IVY CUDGEL",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Ivy Cudgel (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ivy_Cudgel_(move)",
+  "pageId": 295909,
+  "pageRevisionId": 4496916,
+  "leadText": "Ivy Cudgel (Japanese: ツタこんぼう Ivy Cudgel) is a damage-dealing Grass-type move introduced during Generation IX, in The Teal Mask. It is the signature move of Ogerpon.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Ivy Cudgel deals damage and has an increased critical hit ratio. The move's type changes depending on Ogerpon 's held mask: Grass type in Teal Mask Form. Water type in Wellspring Mask Form. Fire type in Hearthflame Mask Form. Rock type in Cornerstone Mask Form. If used by a Pokémon other than Ogerpon, Ivy Cudgel will always be a Grass-type move, even if that Pokémon holds one of the masks."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user strikes with an ivy-wrapped cudgel. This move's type changes depending on the mask worn by the user, and it has a heightened chance of landing a critical hit."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ivy-Cudgel",
+    "Ivy Cudgel",
+    "Ivy-Cudgel (move)"
+  ],
+  "updatedAt": 1773324000
+}

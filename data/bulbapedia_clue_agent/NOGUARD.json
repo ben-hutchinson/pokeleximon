@@ -1,0 +1,82 @@
+{
+  "answerKey": "NOGUARD",
+  "status": "ok",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": 4377906,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "Gen IV ability",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
+      {
+        "text": "No Guard (Japanese: No Guard) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Machop's evolutionary line.",
+        "evidence_ref": "lead",
+        "specificity": 0.56
+      },
+      {
+        "text": "Description [ edit | edit source ] Games Description MD T D Allows Pokemon to ignore stat modifications to accuracy and evasion. MD S Allows Pokemon to ignore stat modifications to accuracy and evasiveness. B S L MD GtI Unavailable S MD The hit rate of moves and attacks won't be lowered even if accuracy is lowered or evasiveness is boosted! It has the same effects on you as on your enemies. Abilities that boost evasiveness have no effects, either. MD RT DX When changes to the Pokemon's and its target's accuracy or evasiveness make it more difficult for attacks to land, those changes go away so that the Pokemon can have a fair fight.",
+        "evidence_ref": "Description",
+        "specificity": 0.64
+      },
+      {
+        "text": "Contents 1 Effect 1.1 In battle 1.2 Outside of battle 1.2.1 Generation VIII 1.2.2 Generation IX Effect [ edit | edit source ] In battle [ edit | edit source ] All moves used by or against a Pokemon with this Ability cannot miss. It also allows Pokemon to be hit during the semi-invulnerable turn of Fly , Bounce , Dive , Dig , Shadow Force , Sky Drop , and Phantom Force . It does not bypass type immunities . A Tatsugiri hidden inside a Dondozo 's mouth via the Commander Ability is immune to the effects of No Guard. In Diamond and Pearl , a Pokemon with No Guard can successfully hit a Pokemon that has used Protect or Detect , but only if it uses a move with less than 100% accuracy. The lower the initial accuracy of the move, the higher its chance of breaking through Protect or Detect. Thus, when used against Protect or Detect, moves that never miss (such as Swift and Aerial Ace ) will always be blocked. One-hit knockout moves are exempted from this behavior and will be protected against. This battle mechanic was a bug, and was fixed in Platinum so that most moves are blocked by Protect and Detect. Outside of battle [ edit | edit source ] Outside of battle, if a Pokemon with No Guard is in the first place in the party (even if fainted ), the wild Pokemon encounter rate increases by 100%. It shares this property with Arena Trap and Illuminate . Generation VIII [ edit | edit source ] In Pokemon Sword and Shield , this Ability only affects the rate at which random encounters happen. Generation IX [ edit | edit source ] In Pokemon Scarlet and Violet , this Ability has no effect outside of battle.",
+        "evidence_ref": "Effect",
+        "specificity": 0.72
+      },
+      {
+        "text": "In battle [ edit | edit source ] All moves used by or against a Pokemon with this Ability cannot miss. It also allows Pokemon to be hit during the semi-invulnerable turn of Fly , Bounce , Dive , Dig , Shadow Force , Sky Drop , and Phantom Force . It does not bypass type immunities . A Tatsugiri hidden inside a Dondozo 's mouth via the Commander Ability is immune to the effects of No Guard. In Diamond and Pearl , a Pokemon with No Guard can successfully hit a Pokemon that has used Protect or Detect , but only if it uses a move with less than 100% accuracy. The lower the initial accuracy of the move, the higher its chance of breaking through Protect or Detect. Thus, when used against Protect or Detect, moves that never miss (such as Swift and Aerial Ace ) will always be blocked. One-hit knockout moves are exempted from this behavior and will be protected against. This battle mechanic was a bug, and was fixed in Platinum so that most moves are blocked by Protect and Detect.",
+        "evidence_ref": "In battle",
+        "specificity": 0.72
+      },
+      {
+        "text": "Ensures all moves used by and against the Pokemon hit.",
+        "evidence_ref": "lead",
+        "specificity": 0.62
+      },
+      {
+        "text": "Powers up Dondozo from inside its mouth",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      }
+    ],
+    "crossword_candidates": [
+      {
+        "text": "Powers up Dondozo from inside",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.78,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Enters Dondozo's mouth",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Ally-swallowing boost trait",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.8,
+        "style": "effect"
+      }
+    ],
+    "cryptic_definition_seeds": [
+      "dondozo partner",
+      "mouth commander"
+    ],
+    "connections_descriptors": [
+      "Partner-link abilities",
+      "Gen IV abilities"
+    ],
+    "risk_flags": [],
+    "confidence": 0.74
+  },
+  "updatedAt": 1774257983
+}

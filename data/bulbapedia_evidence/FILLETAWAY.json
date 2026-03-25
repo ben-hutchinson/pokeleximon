@@ -1,0 +1,34 @@
+{
+  "answerKey": "FILLETAWAY",
+  "answerDisplay": "FILLET AWAY",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Fillet Away (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fillet_Away_(move)",
+  "pageId": 277768,
+  "pageRevisionId": 4407357,
+  "leadText": "Fillet Away (Japanese: みをけずる Cut to the Bone) is a non-damaging Normal-type move introduced in Generation IX. It is the signature move of Veluza.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Fillet Away deducts half of the user's maximum HP (rounded down) from its current HP and, in return, it raises the user's Attack , Special Attack , and Speed stats by two stages each. Fillet Away fails if the user's current HP is less than or equal to half its maximum, or if the user's aforementioned stats are all at +6 stages."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S V The user sharply boosts its Attack, Sp. Atk, and Speed stats by using its own HP."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] The move's Japanese name, みをけずる (Mi o Kezuru), which can be translated literally as 'to chip away at one's body,' has the figurative meaning of 'enduring severe hardships,' generally in order to achieve a goal. [ 1 ] ↑ [1]"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Fillet-Away",
+    "Fillet Away",
+    "Fillet-Away (move)"
+  ],
+  "updatedAt": 1773322784
+}

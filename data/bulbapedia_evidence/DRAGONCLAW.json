@@ -1,0 +1,34 @@
+{
+  "answerKey": "DRAGONCLAW",
+  "answerDisplay": "DRAGON CLAW",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Dragon Claw (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Claw_(move)",
+  "pageId": 3948,
+  "pageRevisionId": 4502780,
+  "leadText": "Dragon Claw (Japanese: ドラゴンクロー Dragon Claw) is a damage-dealing Dragon-type move introduced in Generation III. It is: TM02 from Generation III to Pokémon Ultra Sun and Ultra Moon, in Pokémon Brilliant Diamond and Shining Pearl, as well as in Pokémon Legends: Z-A. TR47 in Pokémon Sword and Shield. TM078 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Legends: Arceus 1.2 Generation IX 1.2.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Dragon Claw inflicts damage and has no secondary effect. Dragon Claw can be used as the second move of a Pokémon Contest combination , with the user gaining 2 bonus appeal points if Dragon Dance , Dragon Rage , or DragonBreath was used in the previous turn. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] In Pokémon Legends: Arceus , Dragon Claw's PP was changed from 15 to 10 and it has an increased critical hit ratio. Pokémon Legends: Arceus Category Physical PP 10 Agile Strong Power 80 60 100 Accuracy 100% 100% 100% Action speed modifier Self 0 0 +5 Target 0 +3 0 Additional effect Crit. stage +1 +1 +2 ? ? ? ? Has a high critical-hit ratio Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Physical Accuracy 100% Standard Plus Move Power 80 96 Cooldown 8s Move wind-up time 10 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description R S E Slashes the foe with sharp claws. (move) Hooks and slashes the foe with long, sharp claws. (TM) FR LG Sharp, huge claws hook and slash the foe quickly and with great power. Colo XD Scratches the target with sharp claws. (move) Hooks and slashes the target with long, sharp claws. (TM) D P Pt HG SS PBR The user slashes the foe with huge, sharp claws. (move) Sharp, huge claws hook and slash the foe quickly and with great power. (TM) B W B2 W2 X Y OR AS The user slashes the target with huge, sharp claws. S M US UM P E Sw Sh BD SP The user slashes the target with huge sharp claws. LA The user slashes the target with huge, sharp claws. This move has a heightened chance of landing a critical hit. S V The user slashes the target with huge, sharp claws to inflict damage. ZA The user attacks by slicing targets with huge, sharp claws."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B MD GtI Inflicts damage on the target. B S L てきポケモンに ダメージをあたえる Conq. The user slashes the target with huge, sharp claws. MD GtI It damages an enemy. It damages enemies. * S MD MD RT DX It damages an enemy."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Dragon-Claw",
+    "Dragon Claw",
+    "Dragon-Claw (move)"
+  ],
+  "updatedAt": 1773322264
+}

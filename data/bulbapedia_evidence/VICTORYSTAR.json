@@ -1,0 +1,34 @@
+{
+  "answerKey": "VICTORYSTAR",
+  "answerDisplay": "VICTORY STAR",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Victory Star (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Victory_Star_(Ability)",
+  "pageId": 111642,
+  "pageRevisionId": 4446858,
+  "leadText": "Victory Star (Japanese: しょうりのほし Victory Star) is an Ability introduced in Generation V. It is the signature Ability of Victini.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Victory Star increases the accuracy of moves (that are not one-hit knockout moves ) used by the Pokémon with this Ability and its allies in battle by approximately 10% (or precisely, a factor of 4506/4096) of their original accuracy. Victory Star can stack and does so multiplicatively (which means if there are two ally Pokémon with this Ability, the accuracy increase is 21%). Outside of battle [ edit | edit source ] Victory Star has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Victory Star increases the accuracy of moves (that are not one-hit knockout moves ) used by the Pokémon with this Ability and its allies in battle by approximately 10% (or precisely, a factor of 4506/4096) of their original accuracy. Victory Star can stack and does so multiplicatively (which means if there are two ally Pokémon with this Ability, the accuracy increase is 21%)."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI Raises the accuracy of moves used by the Pokémon and allies standing next to it. * The accuracy of moves goes up! It also affects allies who are next to the Pokémon. * S MD The accuracy of moves goes up! It also has effects on teammates who are next to the Pokémon."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Victory-Star",
+    "Victory Star",
+    "Victory-Star (Ability)"
+  ],
+  "updatedAt": 1773329303
+}

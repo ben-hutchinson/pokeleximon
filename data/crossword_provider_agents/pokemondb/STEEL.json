@@ -1,0 +1,18 @@
+{
+  "answerKey": "STEEL",
+  "answerDisplay": "STEEL",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "The strengths and weaknesses of the this type type in the Pokémon games, and a list of this type type Pokémon.",
+  "score": 0.0,
+  "approved": false,
+  "qualityFlags": [
+    "long_form",
+    "too_long"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/type/steel",
+  "extract": "The strengths and weaknesses of the Steel type in the Pokémon games, and a list of Steel-type Pokémon.",
+  "rankPosition": 1,
+  "updatedAt": 1774213027
+}

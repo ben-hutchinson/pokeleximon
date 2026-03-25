@@ -1,0 +1,30 @@
+{
+  "answerKey": "SHELLTRAP",
+  "answerDisplay": "SHELL TRAP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Shell Trap (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shell_Trap_(move)",
+  "pageId": 215342,
+  "pageRevisionId": 4407210,
+  "leadText": "Shell Trap (Japanese: トラップシェル Trap Shell) is a damage-dealing Fire-type move introduced in Generation VII. It is the signature move of Turtonator.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation VIII 1.1.1 Pokémon Brilliant Diamond and Shining Pearl 1.2 Generation IX Effect [ edit | edit source ] Shell Trap is a decreased priority move. The user sets up a trap at the beginning of the turn, then if it gets hit by an opponent's physical move within the same turn, it will use Shell Trap immediately after that move. Otherwise, when the user's scheduled turn happens at -3 priority, Shell Trap will fail at that time. Encore will fail if the target has an active Shell Trap in waiting. Shell Trap will not be triggered from the Pokémon being hit by an ally's move, having its substitute take a hit, being hit by a move that's receiving a bonus from Sheer Force , being hit after its own turn has already passed (such as by Dragon Tail or another move with priority lower than -3), or being hit by a move that causes it to faint. Due to a glitch , if a Pokémon's use of Shell Trap is preempted by Encore to lock it into another move instead, and the Pokémon is then hit by a physical attack on any turn before Encore ends, the Pokémon's next use of Shell Trap will skip the step of setting a trap, and the move will go off successfully at its normal priority regardless of whether it was hit in the current turn. If the user is affected by Powder and is then hit by an opponent's physical move, it will take damage instead. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Shell Trap cannot be selected in a battle. Generation IX [ edit | edit source ] Shell Trap cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E The user sets a shell trap. If the user is hit by a physical move, the trap will explode and inflict damage on the opposing Pokémon. Sw Sh LA S V The user sets a shell trap. If the user is hit by a physical move, the trap will explode and inflict damage on opposing Pokémon. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Shell-Trap",
+    "Shell Trap",
+    "Shell-Trap (move)"
+  ],
+  "updatedAt": 1773326913
+}

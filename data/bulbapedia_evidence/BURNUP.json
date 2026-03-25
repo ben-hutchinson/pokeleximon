@@ -1,0 +1,34 @@
+{
+  "answerKey": "BURNUP",
+  "answerDisplay": "BURN UP",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Burn Up (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Burn_Up_(move)",
+  "pageId": 218359,
+  "pageRevisionId": 4477898,
+  "leadText": "Burn Up (Japanese: もえつきる Burn Out) is a damage-dealing Fire-type move introduced in Generation VII.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] If used by a Fire-type Pokémon, Burn Up will thaw out the user if it is frozen , and then inflict damage to the target and cause the user to lose its Fire type. Burn Up fails if the user is not Fire-type, making the move always fail after the first use until the Pokémon regains its Fire type (either by switching out, or other type changing effects such as through Protean or Reflect Type ); Burn Up cannot thaw the user if the move would fail (due to the user not being Fire-type). If the user is a pure Fire-type Pokémon, it will become typeless . Like all type changing effects, the Pokémon's type reverts to its default types if it is switched out. A Pokémon with Protean or Libero cannot successfully use Burn Up unless it already is Fire-type; otherwise, Burn Up will fail and Protean or Libero will not activate. A Pokémon that has Terastallized (into either Fire or Stellar Tera type) will not lose its Fire type. Therefore, a Terastallized Burn Up can be used multiple times in a row without needing to switch out. Generation IX [ edit | edit source ] As no available Pokémon can learn Burn Up, it can only be used through Metronome ."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh BD SP LA S V To inflict massive damage, the user burns itself out. After using this move, the user will no longer be Fire type."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Pokémon Scarlet and Violet , if the player views the summary of a Pokémon that is currently typeless through the use of Burn Up, the game will crash. [ 1 ] ↑ https://www.reddit.com/r/pokemon/comments/17jp4gr/obscure_pokémon_fact_day_361/"
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Burn-Up",
+    "Burn Up",
+    "Burn-Up (move)"
+  ],
+  "updatedAt": 1773321428
+}

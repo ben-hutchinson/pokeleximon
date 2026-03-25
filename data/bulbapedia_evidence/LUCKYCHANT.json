@@ -1,0 +1,38 @@
+{
+  "answerKey": "LUCKYCHANT",
+  "answerDisplay": "LUCKY CHANT",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Lucky Chant (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Lucky_Chant_(move)",
+  "pageId": 12734,
+  "pageRevisionId": 4406998,
+  "leadText": "Lucky Chant (Japanese: おまじない Good Luck Charm) is a Normal-type move introduced in Generation IV.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation V to VII 1.3 Generation VIII onwards Effect [ edit | edit source ] Generation IV [ edit | edit source ] Lucky Chant prevents opponents from landing critical hits on the user's party for five turns, even if the move would always result in a critical hit (e.g. Frost Breath ). Generation V to VII [ edit | edit source ] Lucky Chant can now be stolen by Snatch . If powered up by a Normalium Z into Z-Lucky Chant, the user's evasiveness is raised by one stage. Generation VIII onwards [ edit | edit source ] Lucky Chant cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR The user chants an incantation toward the sky, preventing the foe from landing critical hits. B W B2 W2 X Y OR AS The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits. S M US UM P E The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits for five turns. Sw Sh BD SP LA S V This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D Gives the user and team members in the room with a Lucky Chant status, which blocks the Pokémon from taking critical hits. MD S Gives the user and team members in the room a Lucky Chant status, which blocks the Pokémon from taking critical hits. B S L おなじへやの なかまポケモンと じぶんを おまじないじょうたいにかえる こうげきが きゅうしょに あたらなくなる MD GtI You and your teammates in the same room will get the Lucky Chant status, which blocks you from taking critical hits. S MD You and your teammates in the same room will get the Lucky Chant status condition, which blocks you from taking critical hits. MD RT DX You and your teammates in the same room will get the Lucky Chant status condition, which protects you from taking critical hits."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Lucky Chant ending in Battle Revolution. Lucky Chant displays animation when it ends in Pokémon Battle Revolution ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Lucky-Chant",
+    "Lucky Chant",
+    "Lucky-Chant (move)"
+  ],
+  "updatedAt": 1773324518
+}

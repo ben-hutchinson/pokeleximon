@@ -1,0 +1,24 @@
+{
+  "answerKey": "SINNOHVILLA",
+  "status": "no_candidates",
+  "schemaValid": true,
+  "mode": "local",
+  "curatorVersion": "local-curator-v20",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
+  "response": {
+    "fact_nuggets": [
+      {
+        "text": "villa landmark",
+        "evidence_ref": "title",
+        "specificity": 0.68
+      }
+    ],
+    "crossword_candidates": [],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
+    "risk_flags": [],
+    "confidence": 0.25
+  },
+  "updatedAt": 1774258103
+}

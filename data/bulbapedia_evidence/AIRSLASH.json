@@ -1,0 +1,38 @@
+{
+  "answerKey": "AIRSLASH",
+  "answerDisplay": "AIR SLASH",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Air Slash (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Air_Slash_(move)",
+  "pageId": 17458,
+  "pageRevisionId": 4494404,
+  "leadText": "Air Slash (Japanese: エアスラッシュ Air Slash) is a damage-dealing Flying-type move introduced in Generation IV. It was TM95 in Pokémon Sword and Shield, and is TM065 in Pokémon Scarlet and Violet.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 Generation IV 1.2 Generation V 1.3 Generation VI onwards 1.4 Generation VIII 1.4.1 Pokémon Legends: Arceus 1.5 Generation IX 1.5.1 Pokémon Legends: Z-A Effect [ edit | edit source ] Generation IV [ edit | edit source ] Air Slash inflicts damage and has a 30% chance of causing the target to flinch . It can hit non-adjacent opponents in Triple Battles . Air Slash has a PP of 20 in this generation. Generation V [ edit | edit source ] Air Slash is no longer affected by King's Rock . Generation VI onwards [ edit | edit source ] Air Slash's PP was reduced from 20 to 15. If used by a Pokémon with Sharpness , its power is increased by 50%. Generation VIII [ edit | edit source ] Pokémon Legends: Arceus [ edit | edit source ] Air Slash's PP has been reduced to 10. It also lowers the target's action speed . Pokémon Legends: Arceus Category Special PP 10 Agile Strong Power 75 60 90 Accuracy 95% 95% 100% Action speed modifier Self 0 0 +5 Target +3 +5 +3 Additional effect ? ? ? ? ? ? Lowers the target's action speed Generation IX [ edit | edit source ] Pokémon Legends: Z-A [ edit | edit source ] Pokémon Legends: Z-A Category Special Accuracy 95% Standard Plus Move Power 75 90 Cooldown 7s Move wind-up time 20 frames Effect duration —s Additional effect — — — None"
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS PBR B W B2 W2 The user attacks with a blade of air that slices even the sky. It may also make the target flinch. X Y OR AS S M US UM P E Sw Sh BD SP S V The user attacks with a blade of air that slices even the sky. This may also make the target flinch. LA The user attacks with a blade of air that slices even the sky. ZA The user attacks with a blade of air that slices even the sky. This may also make targets flinch."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with the Cringe status condition, making its actions fail. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで ひるみじょうたいにして わざや こうげきを だせなくする MD GtI It damages an enemy. It could also cause the Cringe status condition, which makes the enemy unable to attack or use moves. S MD MD RT DX It damages an enemy. It could also cause the enemy to flinch."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] Despite its name and description, Air Slash is not a wind move . Air Slash originated as a TCG move ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Air-Slash",
+    "Air Slash",
+    "Air-Slash (move)"
+  ],
+  "updatedAt": 1773320734
+}

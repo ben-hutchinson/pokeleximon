@@ -1,0 +1,17 @@
+{
+  "answerKey": "IRONJUGULIS",
+  "answerDisplay": "IRON JUGULIS",
+  "provider": "pokemondb",
+  "status": "ok",
+  "clue": "this Pokémon is a Dark / Flying type Pokémon introduced in Generation 9.",
+  "score": 87.88,
+  "approved": true,
+  "qualityFlags": [
+    "long_form"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://pokemondb.net/pokedex/iron-jugulis",
+  "extract": "Jugulis is a Dark / Flying type Pokémon introduced in Generation 9 .",
+  "rankPosition": 1,
+  "updatedAt": 1774211718
+}

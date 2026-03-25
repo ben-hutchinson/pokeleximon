@@ -1,0 +1,234 @@
+groups:
+  - name: pokeleximon-recording
+    interval: 30s
+    rules:
+      - record: pokeleximon:http_requests:rate5m
+        expr: sum(rate(pokeleximon_http_requests_total[5m]))
+
+      - record: pokeleximon:http_5xx_ratio:rate5m
+        expr: |
+          sum(rate(pokeleximon_http_requests_total{status=~"5.."}[5m]))
+          /
+          clamp_min(sum(rate(pokeleximon_http_requests_total[5m])), 0.001)
+
+      - record: pokeleximon:http_429_ratio:rate5m
+        expr: |
+          sum(rate(pokeleximon_http_requests_total{status="429"}[5m]))
+          /
+          clamp_min(sum(rate(pokeleximon_http_requests_total[5m])), 0.001)
+
+      - record: pokeleximon:http_p95_latency_seconds:5m
+        expr: |
+          histogram_quantile(
+            0.95,
+            sum by (le) (rate(pokeleximon_http_request_duration_seconds_bucket[5m]))
+          )
+
+      - record: pokeleximon:node_cpu_utilization:ratio
+        expr: 1 - avg by (instance) (rate(node_cpu_seconds_total{job="node", mode="idle"}[5m]))
+
+      - record: pokeleximon:node_memory_utilization:ratio
+        expr: 1 - (node_memory_MemAvailable_bytes{job="node"} / node_memory_MemTotal_bytes{job="node"})
+
+      - record: pokeleximon:node_root_filesystem_utilization:ratio
+        expr: |
+          1 - (
+            node_filesystem_avail_bytes{job="node", mountpoint="/", fstype!~"tmpfs|overlay"}
+            /
+            node_filesystem_size_bytes{job="node", mountpoint="/", fstype!~"tmpfs|overlay"}
+          )
+
+  - name: pokeleximon-alerts
+    interval: 30s
+    rules:
+      - alert: PokeleximonApiDown
+        expr: up{job="api"} == 0
+        for: 2m
+        labels:
+          severity: critical
+          scope: platform
+        annotations:
+          summary: API metrics endpoint is down
+          description: Prometheus has not been able to scrape the API on {{ $labels.instance }} for 2 minutes.
+
+      - alert: PokeleximonNodeExporterDown
+        expr: up{job="node"} == 0
+        for: 5m
+        labels:
+          severity: warning
+          scope: platform
+        annotations:
+          summary: Node exporter is down
+          description: Host metrics are unavailable because node-exporter on {{ $labels.instance }} is not being scraped.
+
+      - alert: PokeleximonPostgresExporterDown
+        expr: up{job="postgres"} == 0
+        for: 5m
+        labels:
+          severity: warning
+          scope: data
+        annotations:
+          summary: Postgres exporter is down
+          description: Database metrics are unavailable because postgres-exporter on {{ $labels.instance }} is not being scraped.
+
+      - alert: PokeleximonRedisExporterDown
+        expr: up{job="redis"} == 0
+        for: 5m
+        labels:
+          severity: warning
+          scope: data
+        annotations:
+          summary: Redis exporter is down
+          description: Cache metrics are unavailable because redis-exporter on {{ $labels.instance }} is not being scraped.
+
+      - alert: PokeleximonPostgresDown
+        expr: pg_up == 0
+        for: 2m
+        labels:
+          severity: critical
+          scope: data
+        annotations:
+          summary: Postgres is down
+          description: postgres-exporter reports the primary database as unavailable.
+
+      - alert: PokeleximonRedisDown
+        expr: redis_up == 0
+        for: 2m
+        labels:
+          severity: critical
+          scope: cache
+        annotations:
+          summary: Redis is down
+          description: redis-exporter reports the Redis instance as unavailable.
+
+      - alert: PokeleximonMetricsCollectorFailing
+        expr: pokeleximon_metrics_collection_success == 0
+        for: 5m
+        labels:
+          severity: warning
+          scope: application
+        annotations:
+          summary: Application metrics collector section failing
+          description: The custom metrics section {{ $labels.section }} has failed to collect for 5 minutes. Database-backed Grafana panels may be stale.
+
+      - alert: PokeleximonHigh5xxErrorRate
+        expr: |
+          pokeleximon:http_5xx_ratio:rate5m > 0.05
+          and
+          pokeleximon:http_requests:rate5m > 0.1
+        for: 10m
+        labels:
+          severity: critical
+          scope: application
+        annotations:
+          summary: API 5xx rate is high
+          description: More than 5% of API traffic has returned 5xx responses for 10 minutes.
+
+      - alert: PokeleximonHigh429Rate
+        expr: |
+          pokeleximon:http_429_ratio:rate5m > 0.20
+          and
+          pokeleximon:http_requests:rate5m > 0.25
+        for: 15m
+        labels:
+          severity: warning
+          scope: edge
+        annotations:
+          summary: API rate limiting is elevated
+          description: More than 20% of requests are returning HTTP 429 for 15 minutes. This usually means abuse, a client bug, or limits that are too strict.
+
+      - alert: PokeleximonHighLatencyP95
+        expr: |
+          pokeleximon:http_p95_latency_seconds:5m > 1
+          and
+          pokeleximon:http_requests:rate5m > 0.1
+        for: 15m
+        labels:
+          severity: warning
+          scope: application
+        annotations:
+          summary: API p95 latency is high
+          description: API p95 latency has been above 1 second for 15 minutes.
+
+      - alert: PokeleximonHostHighCpu
+        expr: pokeleximon:node_cpu_utilization:ratio > 0.85
+        for: 15m
+        labels:
+          severity: warning
+          scope: host
+        annotations:
+          summary: Host CPU utilization is high
+          description: CPU utilization has been above 85% for 15 minutes on {{ $labels.instance }}.
+
+      - alert: PokeleximonHostHighMemory
+        expr: pokeleximon:node_memory_utilization:ratio > 0.90
+        for: 15m
+        labels:
+          severity: warning
+          scope: host
+        annotations:
+          summary: Host memory utilization is high
+          description: Memory utilization has been above 90% for 15 minutes on {{ $labels.instance }}.
+
+      - alert: PokeleximonHostDiskFilling
+        expr: pokeleximon:node_root_filesystem_utilization:ratio > 0.85
+        for: 30m
+        labels:
+          severity: warning
+          scope: host
+        annotations:
+          summary: Root filesystem is above 85% used
+          description: Root disk utilization has been above 85% for 30 minutes on {{ $labels.instance }}.
+
+      - alert: PokeleximonHostDiskCritical
+        expr: pokeleximon:node_root_filesystem_utilization:ratio > 0.95
+        for: 10m
+        labels:
+          severity: critical
+          scope: host
+        annotations:
+          summary: Root filesystem is above 95% used
+          description: Root disk utilization has been above 95% for 10 minutes on {{ $labels.instance }}.
+
+      - alert: PokeleximonReserveLow
+        expr: |
+          pokeleximon_puzzle_inventory_count{state="reserve_future"}
+          <
+          on (game_type) pokeleximon_reserve_target{kind="min"}
+        for: 30m
+        labels:
+          severity: warning
+          scope: content
+        annotations:
+          summary: Puzzle reserve below minimum threshold
+          description: Reserve inventory for {{ $labels.game_type }} is below the configured minimum threshold.
+
+      - alert: PokeleximonReserveEmpty
+        expr: pokeleximon_puzzle_inventory_count{state="reserve_future"} == 0
+        for: 15m
+        labels:
+          severity: critical
+          scope: content
+        annotations:
+          summary: Puzzle reserve is empty
+          description: No future reserve puzzles remain for {{ $labels.game_type }}.
+
+      - alert: PokeleximonReserveCoverageLow
+        expr: pokeleximon_reserve_days_covered < 3
+        for: 30m
+        labels:
+          severity: warning
+          scope: content
+        annotations:
+          summary: Reserve date coverage is low
+          description: Fewer than 3 future puzzle dates are covered for {{ $labels.game_type }}.
+
+      - alert: PokeleximonOpenCriticalOperationalAlert
+        expr: pokeleximon_operational_alerts_count{state="open", severity="critical"} > 0
+        for: 5m
+        labels:
+          severity: critical
+          scope: application
+        annotations:
+          summary: Application has open critical operational alerts
+          description: There is at least one open critical operational alert for {{ $labels.game_type }} in the application database.

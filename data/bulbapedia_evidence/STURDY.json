@@ -1,0 +1,33 @@
+{
+  "answerKey": "STURDY",
+  "answerDisplay": "STURDY",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Sturdy (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sturdy_(Ability)",
+  "pageId": 4082,
+  "pageRevisionId": 4456338,
+  "leadText": "Sturdy (Japanese: がんじょう Sturdy) is an Ability introduced in Generation III.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations III and IV 1.1.2 Generation V onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generations III and IV [ edit | edit source ] Sturdy makes the Pokémon unaffected by one-hit knockout moves . Generation V onward [ edit | edit source ] In addition to Sturdy's previous effect, Sturdy now works like a Focus Sash , causing the Pokémon to have 1 HP remaining if another Pokémon's attack or confusion damage would have brought it from full health to 0 HP. Sturdy will activate as long as a Pokémon has full HP before the attack, and therefore it can activate multiple times if the Pokémon is brought back to full health, or if the Pokémon has a maximum of 1 HP . If a Pokémon with Sturdy is holding a Focus Sash, Sturdy will activate first. A Pokémon with Mold Breaker will ignore Sturdy. When a multistrike move hits a Pokémon with Sturdy, Sturdy's effect can only activate for hits while the user has full HP. Destiny Bond and Perish Song will not cause Sturdy to activate. Outside of battle [ edit | edit source ] Sturdy has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] Generations III and IV [ edit | edit source ] Sturdy makes the Pokémon unaffected by one-hit knockout moves . Generation V onward [ edit | edit source ] In addition to Sturdy's previous effect, Sturdy now works like a Focus Sash , causing the Pokémon to have 1 HP remaining if another Pokémon's attack or confusion damage would have brought it from full health to 0 HP. Sturdy will activate as long as a Pokémon has full HP before the attack, and therefore it can activate multiple times if the Pokémon is brought back to full health, or if the Pokémon has a maximum of 1 HP . If a Pokémon with Sturdy is holding a Focus Sash, Sturdy will activate first. A Pokémon with Mold Breaker will ignore Sturdy. When a multistrike move hits a Pokémon with Sturdy, Sturdy's effect can only activate for hits while the user has full HP. Destiny Bond and Perish Song will not cause Sturdy to activate."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Blocks one-hit KO moves. MD T D S Blocks one-hit KO moves on the Pokémon. B S L いちげきで たおれてしまう わざを うけない Conq. The Pokémon is protected against 1-hit KO attacks. MD GtI If the Pokémon's HP is full, no matter how much damage it takes, it will be left with 1 HP. * If the Pokémon's HP is full, it will be left with 1 HP when it takes damage that would normally make it faint! It also protects the Pokémon from one-hit KO moves like Fissure! * S MD If the Pokémon's HP is full, moves that would defeat the Pokémon instead leave the Pokémon with 1 HP! MD RT DX If the Pokémon's HP is full, moves that would defeat the Pokémon instead leave the Pokémon with 1 HP. This is also effective against moves like Fissure that can cause Pokémon to faint with a single hit."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Sturdy",
+    "Sturdy (Ability)"
+  ],
+  "updatedAt": 1773329248
+}

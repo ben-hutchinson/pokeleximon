@@ -1,0 +1,34 @@
+{
+  "answerKey": "MARVELSCALE",
+  "answerDisplay": "MARVEL SCALE",
+  "sourceType": "ability",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Marvel Scale (Ability)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Marvel_Scale_(Ability)",
+  "pageId": 4139,
+  "pageRevisionId": 4512260,
+  "leadText": "Marvel Scale (Japanese: ふしぎなうろこ Marvelous Scale) is an Ability introduced in Generation III. Prior to Generation V, it was the signature Ability of Milotic.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] While the Pokémon with this Ability has a non-volatile status condition , its Defense is increased by 50%. Outside of battle [ edit | edit source ] Marvel Scale has no effect outside of battle."
+    },
+    {
+      "title": "In battle",
+      "text": "In battle [ edit | edit source ] While the Pokémon with this Ability has a non-volatile status condition , its Defense is increased by 50%."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD R B Boosts Defense if there is a status problem. MD T D S Boosts the Pokémon's Defense when it has any status problems. B S L わるいじょうたいに なったときに ぼうぎょが あがる MD GtI Unavailable S MD When the Pokémon gets a bad status condition, its Defense goes up! MD RT DX When the Pokémon gets a bad status condition, such as poison or paralysis, its Defense goes up."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Marvel-Scale",
+    "Marvel Scale",
+    "Marvel-Scale (Ability)"
+  ],
+  "updatedAt": 1774214485
+}

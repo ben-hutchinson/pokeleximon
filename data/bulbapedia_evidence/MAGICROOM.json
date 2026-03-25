@@ -1,0 +1,38 @@
+{
+  "answerKey": "MAGICROOM",
+  "answerDisplay": "MAGIC ROOM",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Magic Room (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Magic_Room_(move)",
+  "pageId": 117188,
+  "pageRevisionId": 4480783,
+  "leadText": "Magic Room (Japanese: マジックルーム Magic Room) is a non-damaging Psychic-type move introduced in Generation V. It was TM72 in Pokémon Sword and Shield.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Generation V [ edit | edit source ] Magic Room suppresses the effect of all items held by the Pokémon on the field. This effect lasts for five turns. Using Magic Room while it is already in effect will remove the effects of Magic Room immediately. Items regain their effects as soon as Magic Room ends. Magic Room prohibits the use of items through Natural Gift and Fling ; however, it does not suppress the effect of Berries consumed through Pluck or Bug Bite . Magic Room does not affect effects that move items, such as Trick and Pickpocket . If a Pokémon uses Judgment , Techno Blast , or Multi-Attack while Magic Room is in effect, it will be a Normal-type move. Magic Room does not negate item effects that affect prize money , experience , effort values , or friendship , such as those of the Amulet Coin , Lucky Egg , Power Weight , or Soothe Bell . However, it does negate the Speed drop from the Macho Brace and Power items (such as the Power Weight). Magic Room cannot negate form-changing effects of items. If a Pokémon is already locked into a move due to a held Choice item ( Choice Scarf , Choice Specs , Choice Band ), if the held Choice item is removed while its effect is negated, the Pokémon will be affected by the Choice item lock glitch . Magic Room has a priority of -7 in this generation, so it will be used after all moves with a normal priority. Generation VI onwards [ edit | edit source ] Magic Room now has a priority of 0. Magic Room does not prevent Pokémon from Mega Evolving with a Mega Stone , undergoing Primal Reversion with a Red Orb or Blue Orb , undergoing Ultra Burst with Ultranecrozium Z , or using a Z-Move with a Z-Crystal . If powered up by a Psychium Z into Z-Magic Room, the user's Special Defense stat is raised by one stage. Magic Room does not cause Poltergeist or Teatime to fail."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA S V The user creates a bizarre area in which Pokémon's held items lose their effects for five turns."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It changes the floor to a Magic Room. In a Magic Room, nobody can use items. S MD It changes the floor to a Magic Room. In a Magic Room, nobody can use items. The status returns to normal after a while or if you use this move again. MD RT DX It changes the floor to a Magic Room condition, where nobody can use items. The status returns to normal after a while or if you use this move again."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] In Generation V, Magic Room had the lowest priority of all moves, along with Trick Room and Wonder Room ."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Magic-Room",
+    "Magic Room",
+    "Magic-Room (move)"
+  ],
+  "updatedAt": 1773324645
+}

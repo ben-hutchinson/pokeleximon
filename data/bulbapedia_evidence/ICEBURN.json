@@ -1,0 +1,38 @@
+{
+  "answerKey": "ICEBURN",
+  "answerDisplay": "ICE BURN",
+  "sourceType": "move",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "first_pass",
+  "status": "ok",
+  "pageTitle": "Ice Burn (move)",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ice_Burn_(move)",
+  "pageId": 117721,
+  "pageRevisionId": 4433875,
+  "leadText": "Ice Burn (Japanese: コールドフレア Cold Flare) is a damage-dealing Ice-type move introduced in Generation V. It is one of the signature moves of White Kyurem.",
+  "sections": [
+    {
+      "title": "Effect",
+      "text": "Effect [ edit | edit source ] Ice Burn deals damage and has a 30% chance of burning the target. Ice Burn does nothing on the turn it is selected, other than state that the user is cloaked in a freezing air. This charge turn can be skipped using a Power Herb . On the following turn, Ice Burn will deal damage, PP will be deducted from it, and it will count as the last move used. Once Ice Burn is selected, the user will not be able to switch out until it is disrupted or fully executed. If Ice Burn is not fully executed, PP will not be deducted from it, and it will not count as the last move used. If the target uses Mirror Move during the turn that the user is charging, Mirror Move will copy the move that the user executed immediately before using Ice Burn (or fail if it cannot). Sleep , freeze , and flinching will pause but not disrupt the duration of Ice Burn. Generation VIII [ edit | edit source ] Pokémon Brilliant Diamond and Shining Pearl [ edit | edit source ] Ice Burn cannot be selected in a battle."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS S M US UM P E Sw Sh LA On the second turn, an ultracold, freezing wind surrounds the target. This may leave the target with a burn. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The turn after using this move, the user surrounds the target with an ultracold, freezing wind to inflict damage. This may also leave the target with a burn."
+    },
+    {
+      "title": "Description",
+      "text": "Description [ edit | edit source ] Games Description MD GtI It damages enemies in the same room. It could also cause the Burn status condition. With the Burn status, they keep taking damage, and their Attack also goes down slightly. S MD You'll get the Ice Burn status condition, which lets you charge power to damage enemies in the same room on the next turn. It could also leave them with a burn."
+    },
+    {
+      "title": "Trivia",
+      "text": "Trivia [ edit | edit source ] This move seems to draw reference to both Reshiram and Kyurem , as it is an Ice-type move and its side-effect is related to the Fire type. Furthermore, in Pokémon Black and White , the animation for the actual attacking part resembles that of Blue Flare , one of Reshiram's signature moves . Freeze Shock , a move variation of Ice Burn, likewise references Kyurem and Zekrom. Ice Burn is tied with Freeze Shock for the highest base power of all Ice-type moves, excluding Z-Moves , Max Moves , and G-Max Moves . A Subzero Slammer based on either of them has the highest base power of all Ice-type moves. Ice Burn is the only Ice-type move that is able to cause burn , excluding Tri Attack and Secret Power that have been changed to Ice-type by Refrigerate . The burn side-effect may be a reference to frostbite , which is similar to a burn. It may also reference sodium acetate , which is commonly called \"hot ice\" due to its superficial similarities to ice but possesses hot temperatures due to the process of crystallization releasing heat. Ice Burn and Freeze Shock are programmed into Pokémon Black and White , but were not legitimately usable prior to the release of Black 2 and White 2, in which a Smeargle that has Sketched the moves can be traded back to Black and White."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Ice-Burn",
+    "Ice Burn",
+    "Ice-Burn (move)"
+  ],
+  "updatedAt": 1773323783
+}

@@ -1,0 +1,31 @@
+{
+  "answerKey": "LACUNOSA",
+  "answerDisplay": "LACUNOSA",
+  "sourceType": "location",
+  "evidenceVersion": "bulbapedia-evidence-v3",
+  "passMode": "second_pass",
+  "status": "ok",
+  "pageTitle": "Lacunosa Town",
+  "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Lacunosa_Town",
+  "pageId": 118089,
+  "pageRevisionId": 4509793,
+  "leadText": "Lacunosa Town (Japanese: カゴメタウン Kagome Town) is a town in the northeastern area of the Unova region. To the west of Lacunosa Town is Route 12 and to the east is Route 13. To the northeast of Lacunosa Town lies the Giant Chasm, which is a location that has affected the residents of the town greatly for many years.",
+  "sections": [
+    {
+      "title": "Slogan",
+      "text": "Slogan [ edit | edit source ] Methodical and Orderly (Japanese: カゴメは 編んでできた 三角形 Kagome is woven triangles. ) B W Methodical and Orderly for Safety (Japanese: カゴメは 編んだ かごの目 魔よけの 三角形 Kagome is the woven lattice with protective triangles. ) B2 W2"
+    },
+    {
+      "title": "The Lacunosa legend",
+      "text": "The Lacunosa legend [ edit | edit source ] A long time ago, it is said that a large meteor came from the sky containing a terrifying monster . It was said that at night the monster would appear in the town along with the cold winds and take away humans and Pokémon to eat them. Eventually, the residents of the town surrounded Lacunosa Town in a wall to keep the monster out and a rule was then set on the town that forbade anyone from leaving at night and encouraged people to stay in their homes. Even though Lacunosa residents claim to no longer believe this old story, they still stay inside of their houses at night and the walls remain standing to this day."
+    }
+  ],
+  "familyPages": [],
+  "titleCandidates": [
+    "Lacunosa-Town",
+    "Lacunosa Town",
+    "Lacunosa",
+    "Lacunosa-Town (location)"
+  ],
+  "updatedAt": 1774214328
+}

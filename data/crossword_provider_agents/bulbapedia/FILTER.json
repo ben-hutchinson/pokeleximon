@@ -1,0 +1,16 @@
+{
+  "answerKey": "FILTER",
+  "answerDisplay": "FILTER",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Gen IV ability",
+  "score": 91.8,
+  "approved": true,
+  "qualityFlags": [
+    "generic_surface"
+  ],
+  "evidenceRef": "lead",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Filter_(Ability)",
+  "extract": "Filter (Japanese: フィルター Filter) is an Ability introduced in Generation IV. Prior to Generation VI, it was the signature Ability of Mime Jr. and Mr. Mime.",
+  "updatedAt": 1774258442
+}

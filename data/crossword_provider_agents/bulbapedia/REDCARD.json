@@ -1,0 +1,14 @@
+{
+  "answerKey": "REDCARD",
+  "answerDisplay": "RED CARD",
+  "provider": "bulbapedia",
+  "status": "ok",
+  "clue": "Boosts recovery from draining moves",
+  "score": 120.52,
+  "approved": true,
+  "qualityFlags": [],
+  "evidenceRef": "Description",
+  "sourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Red_Card",
+  "extract": "The Red Card (Japanese: レッドカード Red Card) is a type of consumable held item introduced in Generation V. If the holder is hit by another Pokémon's damaging move, it switches out the attacker.",
+  "updatedAt": 1774258396
+}
