@@ -96,7 +96,6 @@ function hintStepOne(entry: PuzzleEntry | null): string {
 
 function hintStepTwo(entry: PuzzleEntry | null): string {
   if (!entry) return "Stronger hint unavailable.";
-  const mechanism = mechanismLabel(entry.mechanism);
   const metadata = (entry.wordplayMetadata ?? {}) as Record<string, unknown>;
 
   if (entry.mechanism === "anagram") {

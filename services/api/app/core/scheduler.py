@@ -13,7 +13,7 @@ from app.core.observability import capture_exception
 from app.data import repo
 from app.services.alerting import notify_external_alert
 from app.services.pokeapi_refresh import run_pokeapi_refresh_command
-from app.services.reserve_generator import top_up_reserve
+from app.services.reserve_generator import generate_puzzle_for_date, top_up_reserve
 
 _scheduler: BackgroundScheduler | None = None
 logger = logging.getLogger(__name__)
@@ -21,7 +21,8 @@ logger = logging.getLogger(__name__)
 
 def _publish_daily() -> None:
     tz = ZoneInfo(config.TIMEZONE)
-    today = datetime.now(tz).date().isoformat()
+    today_date = datetime.now(tz).date()
+    today = today_date.isoformat()
     game_types = ["crossword", "cryptic"]
     if config.FEATURE_CONNECTIONS_ENABLED:
         game_types.append("connections")
@@ -32,6 +33,20 @@ def _publish_daily() -> None:
             timezone=tz.key,
             reserve_threshold=config.RESERVE_MIN_COUNT,
         )
+        if result["status"] == "reserve_empty" and config.GENERATOR_ENABLED:
+            logger.info("publish_daily: no reserve for %s on %s, generating daily puzzle", game_type, today)
+            generate_puzzle_for_date(
+                game_type=game_type,
+                target_date=today_date,
+                timezone=tz.key,
+                force=False,
+            )
+            result = repo.publish_next_from_reserve(
+                date_value=today,
+                game_type=game_type,
+                timezone=tz.key,
+                reserve_threshold=config.RESERVE_MIN_COUNT,
+            )
         logger.info(
             "publish_daily: game_type=%s date=%s status=%s reserve=%s threshold=%s",
             game_type,
@@ -136,7 +151,6 @@ def start_scheduler() -> None:
         replace_existing=True,
         max_instances=1,
         misfire_grace_time=300,
-        next_run_time=datetime.now(tz),
     )
     if config.POKEAPI_REFRESH_ENABLED:
         scheduler.add_job(

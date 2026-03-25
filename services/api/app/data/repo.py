@@ -2,47 +2,32 @@ from __future__ import annotations
 
 import json
 import logging
-import random
 import re
 from datetime import date as date_type
 from datetime import datetime
-from datetime import timedelta
 from typing import Any, Literal, cast
 from uuid import uuid4
 from zoneinfo import ZoneInfo
 
 from psycopg.rows import dict_row
 
-from app.core import config
-from app.core.auth import generate_session_token, hash_password, hash_session_token, normalize_username, validate_username, verify_password
 from app.core.cache import get_cache
 from app.core.db import get_db
+from app.data.common import (
+    CompetitiveGameType,
+    PuzzleDict,
+    PuzzleGameType,
+    PublishStatus,
+)
 from app.services.alerting import notify_external_alert
 from app.services.artifact_store import write_json_artifact
 
 
 logger = logging.getLogger(__name__)
 
-PuzzleDict = dict[str, Any]
-PublishStatus = Literal["published", "already_published", "reserve_empty"]
-PuzzleGameType = Literal["crossword", "cryptic", "connections"]
-CompetitiveGameType = Literal["crossword", "cryptic"]
-
 CACHE_TTL_SECONDS = 300
 DATE_TOKEN_RE = re.compile(r"\b\d{4}-\d{2}-\d{2}\b")
 WHITESPACE_RE = re.compile(r"\s+")
-CLUE_FEEDBACK_REASON_TAGS = {
-    "definition_too_obvious",
-    "wordplay_unclear",
-    "surface_awkward",
-    "too_easy",
-    "too_hard",
-    "answer_leak",
-    "not_fair",
-}
-DISPLAY_NAME_ALLOWED_RE = re.compile(r"[^A-Za-z0-9 _-]")
-PUBLIC_SLUG_RE = re.compile(r"[^a-z0-9]+")
-CHALLENGE_CODE_ALPHABET = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789"
 
 
 def _cache_key(prefix: str, *parts: str) -> str:
@@ -97,559 +82,6 @@ def _note_snippet(value: Any, max_len: int = 180) -> str | None:
     if len(collapsed) <= max_len:
         return collapsed
     return f"{collapsed[: max_len - 3].rstrip()}..."
-
-
-def _fallback_display_name(player_token: str) -> str:
-    tail = re.sub(r"[^A-Za-z0-9]", "", player_token)[-6:]
-    if not tail:
-        tail = "PLAYER"
-    return f"Player {tail.upper()}"
-
-
-def _normalize_display_name(value: str | None, *, player_token: str) -> str:
-    candidate = (value or "").strip()
-    if candidate:
-        candidate = DISPLAY_NAME_ALLOWED_RE.sub("", candidate)
-        candidate = WHITESPACE_RE.sub(" ", candidate).strip()
-    if not candidate:
-        candidate = _fallback_display_name(player_token)
-    return candidate[:40]
-
-
-def _generate_player_token() -> str:
-    return f"plr_{uuid4().hex[:24]}"
-
-
-def _slugify_public_name(value: str, *, player_token: str) -> str:
-    base = PUBLIC_SLUG_RE.sub("-", value.strip().lower()).strip("-")
-    if not base:
-        base = PUBLIC_SLUG_RE.sub("-", _fallback_display_name(player_token).lower()).strip("-")
-    return base[:80].strip("-") or f"player-{player_token[-6:].lower()}"
-
-
-def _unique_public_slug(cur: Any, *, display_name: str, player_token: str, exclude_player_token: str | None = None) -> str:
-    base = _slugify_public_name(display_name, player_token=player_token)
-    candidate = base
-    suffix = 2
-    while True:
-        if exclude_player_token is None:
-            cur.execute(
-                "SELECT 1 FROM player_profiles WHERE public_slug = %(public_slug)s LIMIT 1",
-                {"public_slug": candidate},
-            )
-        else:
-            cur.execute(
-                "SELECT 1 FROM player_profiles WHERE public_slug = %(public_slug)s "
-                "AND player_token <> %(exclude_player_token)s "
-                "LIMIT 1",
-                {
-                    "public_slug": candidate,
-                    "exclude_player_token": exclude_player_token,
-                },
-            )
-        if cur.fetchone() is None:
-            return candidate
-        candidate = f"{base[: max(1, 80 - len(str(suffix)) - 1)]}-{suffix}"
-        suffix += 1
-
-
-def _player_profile_payload(row: dict[str, Any] | None, *, player_token: str) -> dict[str, Any]:
-    default_name = _normalize_display_name(None, player_token=player_token)
-    public_slug = ""
-    if row:
-        public_slug = str(row.get("public_slug") or "").strip()
-    if not public_slug:
-        public_slug = _slugify_public_name(default_name, player_token=player_token)
-    return {
-        "playerToken": player_token,
-        "displayName": _normalize_display_name((row or {}).get("display_name"), player_token=player_token),
-        "publicSlug": public_slug,
-        "leaderboardVisible": bool((row or {}).get("leaderboard_visible", True)),
-        "avatarPreset": str((row or {}).get("avatar_preset") or "").strip() or None,
-        "hasAccount": bool((row or {}).get("username")),
-        "createdAt": row["created_at"].isoformat() if row and row.get("created_at") else None,
-        "updatedAt": row["updated_at"].isoformat() if row and row.get("updated_at") else None,
-    }
-
-
-def _parse_cursor_offset(cursor: str | None) -> int:
-    if not cursor:
-        return 0
-    try:
-        value = int(cursor)
-    except ValueError:
-        return 0
-    return max(0, value)
-
-
-def _compute_streak_lengths(dates: list[date_type]) -> tuple[int, int]:
-    if not dates:
-        return 0, 0
-    ordered = sorted(set(dates))
-    best = 1
-    run = 1
-    for index in range(1, len(ordered)):
-        if ordered[index] == ordered[index - 1] + timedelta(days=1):
-            run += 1
-            best = max(best, run)
-        else:
-            run = 1
-
-    current = 1
-    for index in range(len(ordered) - 1, 0, -1):
-        if ordered[index] == ordered[index - 1] + timedelta(days=1):
-            current += 1
-            continue
-        break
-    return current, best
-
-
-def _empty_personal_stats_payload(
-    *,
-    session_ids: list[str],
-    window_days: int,
-    timezone: str,
-    start_date: date_type,
-) -> dict[str, Any]:
-    streak_history = _empty_personal_stats_history(window_days=window_days, start_date=start_date)
-    return {
-        "sessionIds": session_ids,
-        "windowDays": window_days,
-        "timezone": timezone,
-        "crossword": _empty_personal_stats_bucket(),
-        "cryptic": _empty_personal_stats_bucket(),
-        "connections": _empty_personal_stats_bucket(),
-        "historyByGameType": {
-            "crossword": [dict(day) for day in streak_history],
-            "cryptic": [dict(day) for day in streak_history],
-            "connections": [dict(day) for day in streak_history],
-        },
-    }
-
-
-def _empty_personal_stats_bucket() -> dict[str, Any]:
-    return {
-        "pageViews": 0,
-        "completions": 0,
-        "completionRate": None,
-        "medianSolveTimeMs": None,
-        "cleanSolveRate": None,
-        "streakCurrent": 0,
-        "streakBest": 0,
-    }
-
-
-def _empty_personal_stats_history(*, window_days: int, start_date: date_type) -> list[dict[str, Any]]:
-    return [
-        {
-            "date": (start_date + timedelta(days=offset)).isoformat(),
-            "pageViews": 0,
-            "completions": 0,
-            "cleanCompletions": 0,
-        }
-        for offset in range(window_days)
-    ]
-
-
-def _merge_personal_stats_history(
-    *,
-    window_days: int,
-    start_date: date_type,
-    page_view_rows: list[dict[str, Any]] | None = None,
-    completion_rows: list[dict[str, Any]] | None = None,
-) -> list[dict[str, Any]]:
-    history = _empty_personal_stats_history(window_days=window_days, start_date=start_date)
-    by_date = {item["date"]: item for item in history}
-
-    for row in page_view_rows or []:
-        day = row.get("day")
-        if day is None:
-            continue
-        item = by_date.get(day.isoformat())
-        if item is None:
-            continue
-        item["pageViews"] += int(row.get("page_views") or 0)
-
-    for row in completion_rows or []:
-        day = row.get("day")
-        if day is None:
-            continue
-        item = by_date.get(day.isoformat())
-        if item is None:
-            continue
-        item["completions"] += int(row.get("completions") or 0)
-        item["cleanCompletions"] += int(row.get("clean_completions") or 0)
-
-    return history
-
-
-def _table_exists(cur: Any, table_name: str) -> bool:
-    cur.execute(f"SELECT to_regclass('public.{table_name}') AS table_name", {})
-    table_row = cur.fetchone() or {}
-    return bool(table_row.get("table_name"))
-
-
-def _build_personal_stats_bucket(
-    *,
-    page_views: int,
-    page_view_puzzle_count: int,
-    completions: int,
-    completed_puzzles: int | None,
-    clean_completions: int,
-    median_solve_ms: int | None,
-    solved_dates: list[date_type],
-) -> dict[str, Any]:
-    completed_puzzle_count = completions if completed_puzzles is None else completed_puzzles
-    completion_rate = round(completed_puzzle_count / page_view_puzzle_count, 4) if page_view_puzzle_count > 0 else None
-    clean_solve_rate = round(clean_completions / completions, 4) if completions > 0 else None
-    streak_current, streak_best = _compute_streak_lengths(solved_dates)
-    return {
-        "pageViews": page_views,
-        "completions": completions,
-        "completionRate": completion_rate,
-        "medianSolveTimeMs": median_solve_ms,
-        "cleanSolveRate": clean_solve_rate,
-        "streakCurrent": streak_current,
-        "streakBest": streak_best,
-    }
-
-
-def _get_crossword_personal_stats_segment(
-    *,
-    cur: Any,
-    session_ids: list[str],
-    window_days: int,
-    timezone: str,
-    start_date: date_type,
-    today: date_type,
-    start_ts: datetime,
-) -> tuple[dict[str, Any], list[dict[str, Any]]]:
-    if not _table_exists(cur, "crossword_feedback"):
-        return _empty_personal_stats_bucket(), _empty_personal_stats_history(window_days=window_days, start_date=start_date)
-
-    clean_completed_expr = (
-        "("
-        "COALESCE((NULLIF(event_value->>'revealWordCount', ''))::int, 0) + "
-        "COALESCE((NULLIF(event_value->>'revealSquareCount', ''))::int, 0) + "
-        "COALESCE((NULLIF(event_value->>'revealAllCount', ''))::int, 0) = 0 "
-        "AND "
-        "COALESCE((NULLIF(event_value->>'checkEntryCount', ''))::int, 0) + "
-        "COALESCE((NULLIF(event_value->>'checkSquareCount', ''))::int, 0) + "
-        "COALESCE((NULLIF(event_value->>'checkAllCount', ''))::int, 0) <= 2"
-        ")"
-    )
-    clean_completed_series_expr = clean_completed_expr.replace("event_value", "ev.event_value")
-
-    cur.execute(
-        "SELECT "
-        "COUNT(*) FILTER (WHERE event_type = 'page_view')::int AS page_view_count, "
-        "COUNT(*) FILTER (WHERE event_type = 'completed')::int AS completed_count, "
-        "COUNT(DISTINCT CASE WHEN event_type = 'page_view' THEN puzzle_id END)::int AS page_view_puzzle_count, "
-        "COUNT(DISTINCT CASE WHEN event_type = 'completed' THEN puzzle_id END)::int AS completed_puzzle_count, "
-        f"COUNT(*) FILTER (WHERE event_type = 'completed' AND {clean_completed_expr})::int AS clean_completed_count, "
-        "PERCENTILE_CONT(0.5) WITHIN GROUP ("
-        "  ORDER BY (event_value->>'solveMs')::double precision"
-        ") FILTER ("
-        "  WHERE event_type = 'completed' "
-        "  AND (event_value->>'solveMs') ~ '^[0-9]+(\\.[0-9]+)?$'"
-        ") AS median_solve_ms "
-        "FROM crossword_feedback "
-        "WHERE created_at >= %(start_ts)s "
-        "AND session_id = ANY(%(session_ids)s)",
-        {
-            "start_ts": start_ts,
-            "session_ids": session_ids,
-        },
-    )
-    totals_row = cur.fetchone() or {}
-
-    cur.execute(
-        "WITH day_series AS ("
-        "  SELECT generate_series(%(start_date)s::date, %(end_date)s::date, interval '1 day')::date AS day"
-        "), events AS ("
-        "  SELECT (created_at AT TIME ZONE %(timezone)s)::date AS day, event_type, event_value "
-        "  FROM crossword_feedback "
-        "  WHERE created_at >= %(start_ts)s "
-        "    AND session_id = ANY(%(session_ids)s) "
-        "    AND event_type IN ('page_view', 'completed')"
-        ") "
-        "SELECT ds.day, "
-        "COUNT(*) FILTER (WHERE ev.event_type = 'page_view')::int AS page_views, "
-        "COUNT(*) FILTER (WHERE ev.event_type = 'completed')::int AS completions, "
-        f"COUNT(*) FILTER (WHERE ev.event_type = 'completed' AND {clean_completed_series_expr})::int AS clean_completions "
-        "FROM day_series ds "
-        "LEFT JOIN events ev ON ev.day = ds.day "
-        "GROUP BY ds.day "
-        "ORDER BY ds.day ASC",
-        {
-            "start_date": start_date,
-            "end_date": today,
-            "timezone": timezone,
-            "start_ts": start_ts,
-            "session_ids": session_ids,
-        },
-    )
-    history_rows = cur.fetchall()
-
-    cur.execute(
-        "SELECT DISTINCT p.date AS solved_date "
-        "FROM crossword_feedback cf "
-        "JOIN puzzles p ON p.id = cf.puzzle_id "
-        "WHERE cf.created_at >= %(start_ts)s "
-        "AND cf.session_id = ANY(%(session_ids)s) "
-        "AND cf.event_type = 'completed' "
-        "ORDER BY solved_date ASC",
-        {
-            "start_ts": start_ts,
-            "session_ids": session_ids,
-        },
-    )
-    solved_rows = cur.fetchall()
-
-    page_views = int(totals_row.get("page_view_count") or 0)
-    completions = int(totals_row.get("completed_count") or 0)
-    page_view_puzzle_count = int(totals_row.get("page_view_puzzle_count") or 0)
-    completed_puzzle_count = int(totals_row.get("completed_puzzle_count") or 0)
-    clean_completions = int(totals_row.get("clean_completed_count") or 0)
-    median_solve_ms_value = totals_row.get("median_solve_ms")
-    median_solve_ms = int(round(float(median_solve_ms_value))) if median_solve_ms_value is not None else None
-    solved_dates = [row.get("solved_date") for row in solved_rows if row.get("solved_date") is not None]
-
-    return (
-        _build_personal_stats_bucket(
-            page_views=page_views,
-            page_view_puzzle_count=page_view_puzzle_count,
-            completions=completions,
-            completed_puzzles=completed_puzzle_count,
-            clean_completions=clean_completions,
-            median_solve_ms=median_solve_ms,
-            solved_dates=solved_dates,
-        ),
-        [
-            {
-                "date": row["day"].isoformat(),
-                "pageViews": int(row.get("page_views") or 0),
-                "completions": int(row.get("completions") or 0),
-                "cleanCompletions": int(row.get("clean_completions") or 0),
-            }
-            for row in history_rows
-        ],
-    )
-
-
-def _get_competitive_personal_stats_segment(
-    *,
-    cur: Any,
-    game_type: CompetitiveGameType,
-    feedback_table: str,
-    session_ids: list[str],
-    window_days: int,
-    start_date: date_type,
-    end_date: date_type,
-) -> tuple[dict[str, Any], list[dict[str, Any]]]:
-    page_view_totals: dict[str, Any] = {}
-    page_view_rows: list[dict[str, Any]] = []
-    submission_totals: dict[str, Any] = {}
-    submission_rows: list[dict[str, Any]] = []
-
-    if _table_exists(cur, feedback_table):
-        cur.execute(
-            f"SELECT "
-            "COUNT(*) FILTER (WHERE fb.event_type = 'page_view')::int AS page_view_count, "
-            "COUNT(DISTINCT CASE WHEN fb.event_type = 'page_view' THEN fb.puzzle_id END)::int AS page_view_puzzle_count "
-            f"FROM {feedback_table} fb "
-            "JOIN puzzles p ON p.id = fb.puzzle_id "
-            "WHERE p.date >= %(start_date)s "
-            "AND p.date <= %(end_date)s "
-            "AND fb.session_id = ANY(%(session_ids)s)",
-            {
-                "start_date": start_date,
-                "end_date": end_date,
-                "session_ids": session_ids,
-            },
-        )
-        page_view_totals = cur.fetchone() or {}
-
-        cur.execute(
-            f"SELECT p.date AS day, "
-            "COUNT(*) FILTER (WHERE fb.event_type = 'page_view')::int AS page_views "
-            f"FROM {feedback_table} fb "
-            "JOIN puzzles p ON p.id = fb.puzzle_id "
-            "WHERE p.date >= %(start_date)s "
-            "AND p.date <= %(end_date)s "
-            "AND fb.session_id = ANY(%(session_ids)s) "
-            "GROUP BY p.date "
-            "ORDER BY p.date ASC",
-            {
-                "start_date": start_date,
-                "end_date": end_date,
-                "session_ids": session_ids,
-            },
-        )
-        page_view_rows = cur.fetchall()
-
-    if _table_exists(cur, "leaderboard_submissions"):
-        cur.execute(
-            "SELECT "
-            "COUNT(*) FILTER (WHERE completed = true)::int AS completed_count, "
-            "COUNT(*) FILTER (WHERE completed = true AND COALESCE(used_assists, false) = false AND COALESCE(used_reveals, false) = false)::int AS clean_completed_count, "
-            "PERCENTILE_CONT(0.5) WITHIN GROUP ("
-            "  ORDER BY solve_time_ms::double precision"
-            ") FILTER (WHERE completed = true AND solve_time_ms IS NOT NULL) AS median_solve_ms "
-            "FROM leaderboard_submissions "
-            "WHERE game_type = %(game_type)s "
-            "AND puzzle_date >= %(start_date)s "
-            "AND puzzle_date <= %(end_date)s "
-            "AND session_id = ANY(%(session_ids)s)",
-            {
-                "game_type": game_type,
-                "start_date": start_date,
-                "end_date": end_date,
-                "session_ids": session_ids,
-            },
-        )
-        submission_totals = cur.fetchone() or {}
-
-        cur.execute(
-            "SELECT puzzle_date AS day, "
-            "COUNT(*) FILTER (WHERE completed = true)::int AS completions, "
-            "COUNT(*) FILTER (WHERE completed = true AND COALESCE(used_assists, false) = false AND COALESCE(used_reveals, false) = false)::int AS clean_completions "
-            "FROM leaderboard_submissions "
-            "WHERE game_type = %(game_type)s "
-            "AND puzzle_date >= %(start_date)s "
-            "AND puzzle_date <= %(end_date)s "
-            "AND session_id = ANY(%(session_ids)s) "
-            "GROUP BY puzzle_date "
-            "ORDER BY puzzle_date ASC",
-            {
-                "game_type": game_type,
-                "start_date": start_date,
-                "end_date": end_date,
-                "session_ids": session_ids,
-            },
-        )
-        submission_rows = cur.fetchall()
-
-    page_views = int(page_view_totals.get("page_view_count") or 0)
-    page_view_puzzle_count = int(page_view_totals.get("page_view_puzzle_count") or 0)
-    completions = int(submission_totals.get("completed_count") or 0)
-    clean_completions = int(submission_totals.get("clean_completed_count") or 0)
-    median_solve_ms_value = submission_totals.get("median_solve_ms")
-    median_solve_ms = int(round(float(median_solve_ms_value))) if median_solve_ms_value is not None else None
-    solved_dates = [row["day"] for row in submission_rows if row.get("completions")]
-
-    return (
-        _build_personal_stats_bucket(
-            page_views=page_views,
-            page_view_puzzle_count=page_view_puzzle_count,
-            completions=completions,
-            completed_puzzles=completions,
-            clean_completions=clean_completions,
-            median_solve_ms=median_solve_ms,
-            solved_dates=solved_dates,
-        ),
-        _merge_personal_stats_history(
-            window_days=window_days,
-            start_date=start_date,
-            page_view_rows=page_view_rows,
-            completion_rows=submission_rows,
-        ),
-    )
-
-
-def _get_connections_personal_stats_segment(
-    *,
-    cur: Any,
-    session_ids: list[str],
-    window_days: int,
-    start_date: date_type,
-    end_date: date_type,
-) -> tuple[dict[str, Any], list[dict[str, Any]]]:
-    if not _table_exists(cur, "connections_feedback"):
-        return _empty_personal_stats_bucket(), _empty_personal_stats_history(window_days=window_days, start_date=start_date)
-
-    clean_completed_expr = (
-        "(cf.event_value->>'mistakes') ~ '^[0-9]+$' "
-        "AND COALESCE((cf.event_value->>'mistakes')::int, 0) = 0"
-    )
-    clean_completed_series_expr = clean_completed_expr.replace("cf.", "ev.")
-
-    cur.execute(
-        "SELECT "
-        "COUNT(*) FILTER (WHERE cf.event_type = 'page_view')::int AS page_view_count, "
-        "COUNT(*) FILTER (WHERE cf.event_type = 'completed')::int AS completed_count, "
-        "COUNT(DISTINCT CASE WHEN cf.event_type = 'page_view' THEN cf.puzzle_id END)::int AS page_view_puzzle_count, "
-        "COUNT(DISTINCT CASE WHEN cf.event_type = 'completed' THEN cf.puzzle_id END)::int AS completed_puzzle_count, "
-        f"COUNT(*) FILTER (WHERE cf.event_type = 'completed' AND {clean_completed_expr})::int AS clean_completed_count "
-        "FROM connections_feedback cf "
-        "JOIN puzzles p ON p.id = cf.puzzle_id "
-        "WHERE p.date >= %(start_date)s "
-        "AND p.date <= %(end_date)s "
-        "AND cf.session_id = ANY(%(session_ids)s)",
-        {
-            "start_date": start_date,
-            "end_date": end_date,
-            "session_ids": session_ids,
-        },
-    )
-    totals_row = cur.fetchone() or {}
-
-    cur.execute(
-        "WITH day_series AS ("
-        "  SELECT generate_series(%(start_date)s::date, %(end_date)s::date, interval '1 day')::date AS day"
-        "), events AS ("
-        "  SELECT p.date AS day, cf.event_type, cf.event_value "
-        "  FROM connections_feedback cf "
-        "  JOIN puzzles p ON p.id = cf.puzzle_id "
-        "  WHERE p.date >= %(start_date)s "
-        "    AND p.date <= %(end_date)s "
-        "    AND cf.session_id = ANY(%(session_ids)s) "
-        "    AND cf.event_type IN ('page_view', 'completed')"
-        ") "
-        "SELECT ds.day, "
-        "COUNT(*) FILTER (WHERE ev.event_type = 'page_view')::int AS page_views, "
-        "COUNT(*) FILTER (WHERE ev.event_type = 'completed')::int AS completions, "
-        f"COUNT(*) FILTER (WHERE ev.event_type = 'completed' AND {clean_completed_series_expr})::int AS clean_completions "
-        "FROM day_series ds "
-        "LEFT JOIN events ev ON ev.day = ds.day "
-        "GROUP BY ds.day "
-        "ORDER BY ds.day ASC",
-        {
-            "start_date": start_date,
-            "end_date": end_date,
-            "session_ids": session_ids,
-        },
-    )
-    history_rows = cur.fetchall()
-
-    page_views = int(totals_row.get("page_view_count") or 0)
-    completions = int(totals_row.get("completed_count") or 0)
-    page_view_puzzle_count = int(totals_row.get("page_view_puzzle_count") or 0)
-    completed_puzzle_count = int(totals_row.get("completed_puzzle_count") or 0)
-    clean_completions = int(totals_row.get("clean_completed_count") or 0)
-    solved_dates = [row["day"] for row in history_rows if row.get("completions")]
-
-    return (
-        _build_personal_stats_bucket(
-            page_views=page_views,
-            page_view_puzzle_count=page_view_puzzle_count,
-            completions=completions,
-            completed_puzzles=completed_puzzle_count,
-            clean_completions=clean_completions,
-            median_solve_ms=None,
-            solved_dates=solved_dates,
-        ),
-        [
-            {
-                "date": row["day"].isoformat(),
-                "pageViews": int(row.get("page_views") or 0),
-                "completions": int(row.get("completions") or 0),
-                "cleanCompletions": int(row.get("clean_completions") or 0),
-            }
-            for row in history_rows
-        ],
-    )
-
 
 def _invalidate_puzzle_caches(
     game_type: PuzzleGameType,
@@ -1505,57 +937,17 @@ def create_cryptic_feedback(
     client_ts: datetime | None,
     user_agent: str | None,
 ) -> dict[str, Any] | None:
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            cur.execute(
-                "SELECT id FROM puzzles WHERE id = %(id)s AND game_type = 'cryptic' AND published_at IS NOT NULL",
-                {"id": puzzle_id},
-            )
-            puzzle_row = cur.fetchone()
-            if not puzzle_row:
-                return None
+    from app.data.feedback_repo import create_cryptic_feedback as impl
 
-            candidate_to_store = candidate_id
-            if candidate_id is not None:
-                cur.execute(
-                    "SELECT id FROM cryptic_candidates WHERE id = %(id)s AND puzzle_id = %(puzzle_id)s",
-                    {"id": candidate_id, "puzzle_id": puzzle_id},
-                )
-                candidate_row = cur.fetchone()
-                if not candidate_row:
-                    candidate_to_store = None
-
-            cur.execute(
-                "INSERT INTO cryptic_feedback ("
-                "puzzle_id, candidate_id, event_type, session_id, event_value, client_ts, user_agent"
-                ") VALUES ("
-                "%(puzzle_id)s, %(candidate_id)s, %(event_type)s, %(session_id)s, %(event_value)s::json, %(client_ts)s, %(user_agent)s"
-                ") RETURNING id, puzzle_id, candidate_id, event_type, session_id, event_value, client_ts, created_at",
-                {
-                    "puzzle_id": puzzle_id,
-                    "candidate_id": candidate_to_store,
-                    "event_type": event_type,
-                    "session_id": session_id,
-                    "event_value": json.dumps(event_value or {}),
-                    "client_ts": client_ts,
-                    "user_agent": user_agent,
-                },
-            )
-            row = cur.fetchone()
-        conn.commit()
-
-    if not row:
-        return None
-    return {
-        "id": row["id"],
-        "puzzleId": row["puzzle_id"],
-        "candidateId": row["candidate_id"],
-        "eventType": row["event_type"],
-        "sessionId": row["session_id"],
-        "eventValue": row["event_value"],
-        "clientTs": row["client_ts"].isoformat() if row["client_ts"] else None,
-        "createdAt": row["created_at"].isoformat() if row["created_at"] else None,
-    }
+    return impl(
+        puzzle_id=puzzle_id,
+        event_type=event_type,
+        session_id=session_id,
+        event_value=event_value,
+        candidate_id=candidate_id,
+        client_ts=client_ts,
+        user_agent=user_agent,
+    )
 
 
 def create_cryptic_clue_feedback(
@@ -1571,97 +963,19 @@ def create_cryptic_clue_feedback(
     client_ts: datetime | None,
     user_agent: str | None,
 ) -> tuple[dict[str, Any] | None, bool]:
-    clean_reasons = [
-        tag
-        for tag in dict.fromkeys(str(tag).strip().lower() for tag in (reason_tags or []))
-        if tag in CLUE_FEEDBACK_REASON_TAGS
-    ][:5]
-    feedback_payload = {
-        "entryId": str(entry_id).strip() or "a1",
-        "rating": rating,
-        "reasons": clean_reasons,
-        "mechanism": (str(mechanism).strip().lower() or None) if mechanism else None,
-        "clueText": str(clue_text or "").strip()[:500],
-    }
+    from app.data.feedback_repo import create_cryptic_clue_feedback as impl
 
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            cur.execute(
-                "SELECT id FROM puzzles WHERE id = %(id)s AND game_type = 'cryptic' AND published_at IS NOT NULL",
-                {"id": puzzle_id},
-            )
-            puzzle_row = cur.fetchone()
-            if not puzzle_row:
-                return None, False
-
-            candidate_to_store = candidate_id
-            if candidate_id is not None:
-                cur.execute(
-                    "SELECT id FROM cryptic_candidates WHERE id = %(id)s AND puzzle_id = %(puzzle_id)s",
-                    {"id": candidate_id, "puzzle_id": puzzle_id},
-                )
-                candidate_row = cur.fetchone()
-                if not candidate_row:
-                    candidate_to_store = None
-
-            cur.execute(
-                "SELECT id, puzzle_id, candidate_id, event_type, session_id, event_value, client_ts, created_at "
-                "FROM cryptic_feedback "
-                "WHERE puzzle_id = %(puzzle_id)s "
-                "AND event_type = 'clue_feedback' "
-                "AND session_id = %(session_id)s "
-                "AND event_value->>'entryId' = %(entry_id)s "
-                "LIMIT 1",
-                {"puzzle_id": puzzle_id, "session_id": session_id, "entry_id": feedback_payload["entryId"]},
-            )
-            existing = cur.fetchone()
-            if existing:
-                return (
-                    {
-                        "id": existing["id"],
-                        "puzzleId": existing["puzzle_id"],
-                        "candidateId": existing["candidate_id"],
-                        "eventType": existing["event_type"],
-                        "sessionId": existing["session_id"],
-                        "eventValue": existing["event_value"],
-                        "clientTs": existing["client_ts"].isoformat() if existing["client_ts"] else None,
-                        "createdAt": existing["created_at"].isoformat() if existing["created_at"] else None,
-                    },
-                    True,
-                )
-
-            cur.execute(
-                "INSERT INTO cryptic_feedback ("
-                "puzzle_id, candidate_id, event_type, session_id, event_value, client_ts, user_agent"
-                ") VALUES ("
-                "%(puzzle_id)s, %(candidate_id)s, 'clue_feedback', %(session_id)s, %(event_value)s::json, %(client_ts)s, %(user_agent)s"
-                ") RETURNING id, puzzle_id, candidate_id, event_type, session_id, event_value, client_ts, created_at",
-                {
-                    "puzzle_id": puzzle_id,
-                    "candidate_id": candidate_to_store,
-                    "session_id": session_id,
-                    "event_value": json.dumps(feedback_payload),
-                    "client_ts": client_ts,
-                    "user_agent": user_agent,
-                },
-            )
-            row = cur.fetchone()
-        conn.commit()
-
-    if not row:
-        return None, False
-    return (
-        {
-            "id": row["id"],
-            "puzzleId": row["puzzle_id"],
-            "candidateId": row["candidate_id"],
-            "eventType": row["event_type"],
-            "sessionId": row["session_id"],
-            "eventValue": row["event_value"],
-            "clientTs": row["client_ts"].isoformat() if row["client_ts"] else None,
-            "createdAt": row["created_at"].isoformat() if row["created_at"] else None,
-        },
-        False,
+    return impl(
+        puzzle_id=puzzle_id,
+        entry_id=entry_id,
+        rating=rating,
+        reason_tags=reason_tags,
+        session_id=session_id,
+        candidate_id=candidate_id,
+        mechanism=mechanism,
+        clue_text=clue_text,
+        client_ts=client_ts,
+        user_agent=user_agent,
     )
 
 
@@ -1674,45 +988,16 @@ def create_crossword_feedback(
     client_ts: datetime | None,
     user_agent: str | None,
 ) -> dict[str, Any] | None:
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            cur.execute(
-                "SELECT id FROM puzzles WHERE id = %(id)s AND game_type = 'crossword' AND published_at IS NOT NULL",
-                {"id": puzzle_id},
-            )
-            puzzle_row = cur.fetchone()
-            if not puzzle_row:
-                return None
+    from app.data.feedback_repo import create_crossword_feedback as impl
 
-            cur.execute(
-                "INSERT INTO crossword_feedback ("
-                "puzzle_id, event_type, session_id, event_value, client_ts, user_agent"
-                ") VALUES ("
-                "%(puzzle_id)s, %(event_type)s, %(session_id)s, %(event_value)s::json, %(client_ts)s, %(user_agent)s"
-                ") RETURNING id, puzzle_id, event_type, session_id, event_value, client_ts, created_at",
-                {
-                    "puzzle_id": puzzle_id,
-                    "event_type": event_type,
-                    "session_id": session_id,
-                    "event_value": json.dumps(event_value or {}),
-                    "client_ts": client_ts,
-                    "user_agent": user_agent,
-                },
-            )
-            row = cur.fetchone()
-        conn.commit()
-
-    if not row:
-        return None
-    return {
-        "id": row["id"],
-        "puzzleId": row["puzzle_id"],
-        "eventType": row["event_type"],
-        "sessionId": row["session_id"],
-        "eventValue": row["event_value"],
-        "clientTs": row["client_ts"].isoformat() if row["client_ts"] else None,
-        "createdAt": row["created_at"].isoformat() if row["created_at"] else None,
-    }
+    return impl(
+        puzzle_id=puzzle_id,
+        event_type=event_type,
+        session_id=session_id,
+        event_value=event_value,
+        client_ts=client_ts,
+        user_agent=user_agent,
+    )
 
 
 def create_connections_feedback(
@@ -1724,84 +1009,22 @@ def create_connections_feedback(
     client_ts: datetime | None,
     user_agent: str | None,
 ) -> dict[str, Any] | None:
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            cur.execute(
-                "SELECT id FROM puzzles WHERE id = %(id)s AND game_type = 'connections' AND published_at IS NOT NULL",
-                {"id": puzzle_id},
-            )
-            puzzle_row = cur.fetchone()
-            if not puzzle_row:
-                return None
+    from app.data.feedback_repo import create_connections_feedback as impl
 
-            cur.execute(
-                "INSERT INTO connections_feedback ("
-                "puzzle_id, event_type, session_id, event_value, client_ts, user_agent"
-                ") VALUES ("
-                "%(puzzle_id)s, %(event_type)s, %(session_id)s, %(event_value)s::json, %(client_ts)s, %(user_agent)s"
-                ") RETURNING id, puzzle_id, event_type, session_id, event_value, client_ts, created_at",
-                {
-                    "puzzle_id": puzzle_id,
-                    "event_type": event_type,
-                    "session_id": session_id,
-                    "event_value": json.dumps(event_value or {}),
-                    "client_ts": client_ts,
-                    "user_agent": user_agent,
-                },
-            )
-            row = cur.fetchone()
-        conn.commit()
-
-    if not row:
-        return None
-    return {
-        "id": row["id"],
-        "puzzleId": row["puzzle_id"],
-        "eventType": row["event_type"],
-        "sessionId": row["session_id"],
-        "eventValue": row["event_value"],
-        "clientTs": row["client_ts"].isoformat() if row["client_ts"] else None,
-        "createdAt": row["created_at"].isoformat() if row["created_at"] else None,
-    }
+    return impl(
+        puzzle_id=puzzle_id,
+        event_type=event_type,
+        session_id=session_id,
+        event_value=event_value,
+        client_ts=client_ts,
+        user_agent=user_agent,
+    )
 
 
 def get_player_progress(*, player_token: str, key: str) -> dict[str, Any] | None:
-    token = player_token.strip()
-    progress_key = key.strip()
-    if not token or not progress_key:
-        return None
+    from app.data.player_repo import get_player_progress as impl
 
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            cur.execute("SELECT to_regclass('public.player_progress') AS table_name", {})
-            table_row = cur.fetchone() or {}
-            if not table_row.get("table_name"):
-                return None
-
-            cur.execute(
-                "SELECT id, player_token, progress_key, game_type, puzzle_id, progress, client_updated_at, updated_at, created_at "
-                "FROM player_progress "
-                "WHERE player_token = %(player_token)s AND progress_key = %(progress_key)s "
-                "LIMIT 1",
-                {
-                    "player_token": token,
-                    "progress_key": progress_key,
-                },
-            )
-            row = cur.fetchone()
-    if not row:
-        return None
-    return {
-        "id": row["id"],
-        "playerToken": row["player_token"],
-        "key": row["progress_key"],
-        "gameType": row["game_type"],
-        "puzzleId": row["puzzle_id"],
-        "progress": row["progress"] if isinstance(row.get("progress"), dict) else {},
-        "clientUpdatedAt": row["client_updated_at"].isoformat() if row.get("client_updated_at") else None,
-        "updatedAt": row["updated_at"].isoformat() if row.get("updated_at") else None,
-        "createdAt": row["created_at"].isoformat() if row.get("created_at") else None,
-    }
+    return impl(player_token=player_token, key=key)
 
 
 def upsert_player_progress(
@@ -1813,110 +1036,22 @@ def upsert_player_progress(
     progress: dict[str, Any] | None,
     client_updated_at: datetime | None,
 ) -> dict[str, Any] | None:
-    token = player_token.strip()
-    progress_key = key.strip()
-    if not token or not progress_key:
-        return None
+    from app.data.player_repo import upsert_player_progress as impl
 
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            cur.execute("SELECT to_regclass('public.player_progress') AS table_name", {})
-            table_row = cur.fetchone() or {}
-            if not table_row.get("table_name"):
-                return None
-
-            cur.execute(
-                "INSERT INTO player_progress ("
-                "  player_token, progress_key, game_type, puzzle_id, progress, client_updated_at"
-                ") VALUES ("
-                "  %(player_token)s, %(progress_key)s, %(game_type)s, %(puzzle_id)s, %(progress)s::json, %(client_updated_at)s"
-                ") ON CONFLICT (player_token, progress_key) DO UPDATE SET "
-                "  game_type = EXCLUDED.game_type, "
-                "  puzzle_id = EXCLUDED.puzzle_id, "
-                "  progress = CASE "
-                "    WHEN player_progress.client_updated_at IS NULL THEN EXCLUDED.progress "
-                "    WHEN EXCLUDED.client_updated_at IS NULL THEN EXCLUDED.progress "
-                "    WHEN EXCLUDED.client_updated_at >= player_progress.client_updated_at THEN EXCLUDED.progress "
-                "    ELSE player_progress.progress "
-                "  END, "
-                "  client_updated_at = CASE "
-                "    WHEN player_progress.client_updated_at IS NULL THEN EXCLUDED.client_updated_at "
-                "    WHEN EXCLUDED.client_updated_at IS NULL THEN player_progress.client_updated_at "
-                "    WHEN EXCLUDED.client_updated_at >= player_progress.client_updated_at THEN EXCLUDED.client_updated_at "
-                "    ELSE player_progress.client_updated_at "
-                "  END, "
-                "  updated_at = CASE "
-                "    WHEN player_progress.client_updated_at IS NULL THEN NOW() "
-                "    WHEN EXCLUDED.client_updated_at IS NULL THEN NOW() "
-                "    WHEN EXCLUDED.client_updated_at >= player_progress.client_updated_at THEN NOW() "
-                "    ELSE player_progress.updated_at "
-                "  END "
-                "RETURNING id, player_token, progress_key, game_type, puzzle_id, progress, client_updated_at, updated_at, created_at",
-                {
-                    "player_token": token,
-                    "progress_key": progress_key,
-                    "game_type": game_type,
-                    "puzzle_id": puzzle_id,
-                    "progress": json.dumps(progress or {}),
-                    "client_updated_at": client_updated_at,
-                },
-            )
-            row = cur.fetchone()
-        conn.commit()
-
-    if not row:
-        return None
-    return {
-        "id": row["id"],
-        "playerToken": row["player_token"],
-        "key": row["progress_key"],
-        "gameType": row["game_type"],
-        "puzzleId": row["puzzle_id"],
-        "progress": row["progress"] if isinstance(row.get("progress"), dict) else {},
-        "clientUpdatedAt": row["client_updated_at"].isoformat() if row.get("client_updated_at") else None,
-        "updatedAt": row["updated_at"].isoformat() if row.get("updated_at") else None,
-        "createdAt": row["created_at"].isoformat() if row.get("created_at") else None,
-    }
+    return impl(
+        player_token=player_token,
+        key=key,
+        game_type=game_type,
+        puzzle_id=puzzle_id,
+        progress=progress,
+        client_updated_at=client_updated_at,
+    )
 
 
 def get_or_create_player_profile(*, player_token: str) -> dict[str, Any]:
-    token = player_token.strip()
-    if not token:
-        raise ValueError("Missing player token")
-    default_name = _normalize_display_name(None, player_token=token)
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            cur.execute(
-                "SELECT player_token, display_name, public_slug, leaderboard_visible, avatar_preset, created_at, updated_at "
-                "FROM player_profiles WHERE player_token = %(player_token)s LIMIT 1",
-                {"player_token": token},
-            )
-            row = cur.fetchone()
-            if row is None:
-                public_slug = _unique_public_slug(cur, display_name=default_name, player_token=token)
-                cur.execute(
-                    "INSERT INTO player_profiles (player_token, display_name, public_slug, leaderboard_visible, avatar_preset) "
-                    "VALUES (%(player_token)s, %(display_name)s, %(public_slug)s, true, NULL) "
-                    "RETURNING player_token, display_name, public_slug, leaderboard_visible, avatar_preset, created_at, updated_at",
-                    {
-                        "player_token": token,
-                        "display_name": default_name,
-                        "public_slug": public_slug,
-                    },
-                )
-                row = cur.fetchone()
-            cur.execute(
-                "SELECT username FROM player_accounts WHERE player_token = %(player_token)s LIMIT 1",
-                {
-                    "player_token": token,
-                },
-            )
-            account_row = cur.fetchone()
-        conn.commit()
-    merged_row = dict(row or {})
-    if account_row:
-        merged_row["username"] = account_row.get("username")
-    return _player_profile_payload(merged_row, player_token=token)
+    from app.data.player_repo import get_or_create_player_profile as impl
+
+    return impl(player_token=player_token)
 
 
 def update_player_profile(
@@ -1926,220 +1061,14 @@ def update_player_profile(
     leaderboard_visible: bool | None = None,
     avatar_preset: str | None = None,
 ) -> dict[str, Any]:
-    token = player_token.strip()
-    if not token:
-        raise ValueError("Missing player token")
-    current = get_or_create_player_profile(player_token=token)
-    next_display_name = (
-        _normalize_display_name(display_name, player_token=token) if display_name is not None else current["displayName"]
+    from app.data.player_repo import update_player_profile as impl
+
+    return impl(
+        player_token=player_token,
+        display_name=display_name,
+        leaderboard_visible=leaderboard_visible,
+        avatar_preset=avatar_preset,
     )
-    next_visible = bool(leaderboard_visible) if leaderboard_visible is not None else bool(current["leaderboardVisible"])
-    next_avatar_preset = str(avatar_preset or "").strip() or None if avatar_preset is not None else current.get("avatarPreset")
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            public_slug = current["publicSlug"]
-            cur.execute(
-                "UPDATE player_profiles "
-                "SET display_name = %(display_name)s, leaderboard_visible = %(leaderboard_visible)s, "
-                "avatar_preset = %(avatar_preset)s, updated_at = NOW() "
-                "WHERE player_token = %(player_token)s "
-                "RETURNING player_token, display_name, public_slug, leaderboard_visible, avatar_preset, created_at, updated_at",
-                {
-                    "display_name": next_display_name,
-                    "leaderboard_visible": next_visible,
-                    "avatar_preset": next_avatar_preset,
-                    "player_token": token,
-                },
-            )
-            row = cur.fetchone()
-            cur.execute(
-                "SELECT username FROM player_accounts WHERE player_token = %(player_token)s LIMIT 1",
-                {"player_token": token},
-            )
-            account_row = cur.fetchone()
-        conn.commit()
-    if not row:
-        return current
-    merged_row = dict(row)
-    if not merged_row.get("public_slug"):
-        merged_row["public_slug"] = public_slug
-    if account_row:
-        merged_row["username"] = account_row.get("username")
-    return _player_profile_payload(merged_row, player_token=token)
-
-
-def _utcnow() -> datetime:
-    return datetime.now(ZoneInfo("UTC"))
-
-
-def _session_expires_at(now: datetime | None = None) -> datetime:
-    base = now or _utcnow()
-    return base + timedelta(days=max(1, config.AUTH_SESSION_DURATION_DAYS))
-
-
-def _create_auth_session(
-    cur: Any,
-    *,
-    player_token: str,
-    user_agent: str | None,
-    ip_address: str | None,
-) -> str:
-    raw_token = generate_session_token()
-    now = _utcnow()
-    cur.execute(
-        "INSERT INTO player_auth_sessions ("
-        "player_token, session_token_hash, expires_at, user_agent, ip_address, last_seen_at"
-        ") VALUES ("
-        "%(player_token)s, %(session_token_hash)s, %(expires_at)s, %(user_agent)s, %(ip_address)s, %(last_seen_at)s"
-        ")",
-        {
-            "player_token": player_token,
-            "session_token_hash": hash_session_token(raw_token),
-            "expires_at": _session_expires_at(now),
-            "user_agent": user_agent,
-            "ip_address": ip_address,
-            "last_seen_at": now,
-        },
-    )
-    return raw_token
-
-
-def _profile_exists_without_account(cur: Any, player_token: str) -> bool:
-    cur.execute(
-        "SELECT 1 "
-        "FROM player_profiles p "
-        "LEFT JOIN player_accounts a ON a.player_token = p.player_token "
-        "WHERE p.player_token = %(player_token)s AND a.player_token IS NULL "
-        "LIMIT 1",
-        {"player_token": player_token},
-    )
-    return cur.fetchone() is not None
-
-
-def _merge_guest_player_data(cur: Any, *, source_player_token: str, target_player_token: str) -> None:
-    if not source_player_token or source_player_token == target_player_token:
-        return
-
-    cur.execute(
-        "SELECT 1 FROM player_accounts WHERE player_token = %(player_token)s LIMIT 1",
-        {"player_token": source_player_token},
-    )
-    if cur.fetchone() is not None:
-        return
-
-    cur.execute(
-        "SELECT display_name, leaderboard_visible, avatar_preset FROM player_profiles WHERE player_token = %(player_token)s LIMIT 1",
-        {"player_token": source_player_token},
-    )
-    source_profile = cur.fetchone()
-    if source_profile is None:
-        return
-
-    cur.execute(
-        "SELECT display_name, leaderboard_visible, avatar_preset FROM player_profiles WHERE player_token = %(player_token)s LIMIT 1",
-        {"player_token": target_player_token},
-    )
-    target_profile = cur.fetchone() or {}
-
-    cur.execute(
-        "INSERT INTO player_progress (player_token, progress_key, game_type, puzzle_id, progress, client_updated_at) "
-        "SELECT %(target_player_token)s, progress_key, game_type, puzzle_id, progress, client_updated_at "
-        "FROM player_progress WHERE player_token = %(source_player_token)s "
-        "ON CONFLICT (player_token, progress_key) DO UPDATE SET "
-        "  game_type = COALESCE(EXCLUDED.game_type, player_progress.game_type), "
-        "  puzzle_id = COALESCE(EXCLUDED.puzzle_id, player_progress.puzzle_id), "
-        "  progress = CASE "
-        "    WHEN player_progress.client_updated_at IS NULL THEN EXCLUDED.progress "
-        "    WHEN EXCLUDED.client_updated_at IS NULL THEN EXCLUDED.progress "
-        "    WHEN EXCLUDED.client_updated_at >= player_progress.client_updated_at THEN EXCLUDED.progress "
-        "    ELSE player_progress.progress "
-        "  END, "
-        "  client_updated_at = CASE "
-        "    WHEN player_progress.client_updated_at IS NULL THEN EXCLUDED.client_updated_at "
-        "    WHEN EXCLUDED.client_updated_at IS NULL THEN player_progress.client_updated_at "
-        "    WHEN EXCLUDED.client_updated_at >= player_progress.client_updated_at THEN EXCLUDED.client_updated_at "
-        "    ELSE player_progress.client_updated_at "
-        "  END, "
-        "  updated_at = NOW()",
-        {
-            "source_player_token": source_player_token,
-            "target_player_token": target_player_token,
-        },
-    )
-    cur.execute("DELETE FROM player_progress WHERE player_token = %(player_token)s", {"player_token": source_player_token})
-
-    cur.execute(
-        "INSERT INTO leaderboard_submissions ("
-        "player_token, game_type, puzzle_id, puzzle_date, completed, solve_time_ms, used_assists, used_reveals, session_id"
-        ") "
-        "SELECT %(target_player_token)s, game_type, puzzle_id, puzzle_date, completed, solve_time_ms, used_assists, used_reveals, session_id "
-        "FROM leaderboard_submissions WHERE player_token = %(source_player_token)s "
-        "ON CONFLICT (player_token, puzzle_id) DO UPDATE SET "
-        "  game_type = EXCLUDED.game_type, "
-        "  puzzle_date = EXCLUDED.puzzle_date, "
-        "  completed = leaderboard_submissions.completed OR EXCLUDED.completed, "
-        "  solve_time_ms = CASE "
-        "    WHEN leaderboard_submissions.solve_time_ms IS NULL THEN EXCLUDED.solve_time_ms "
-        "    WHEN EXCLUDED.solve_time_ms IS NULL THEN leaderboard_submissions.solve_time_ms "
-        "    WHEN EXCLUDED.solve_time_ms < leaderboard_submissions.solve_time_ms THEN EXCLUDED.solve_time_ms "
-        "    ELSE leaderboard_submissions.solve_time_ms "
-        "  END, "
-        "  used_assists = leaderboard_submissions.used_assists OR EXCLUDED.used_assists, "
-        "  used_reveals = leaderboard_submissions.used_reveals OR EXCLUDED.used_reveals, "
-        "  session_id = COALESCE(EXCLUDED.session_id, leaderboard_submissions.session_id), "
-        "  updated_at = NOW()",
-        {
-            "source_player_token": source_player_token,
-            "target_player_token": target_player_token,
-        },
-    )
-    cur.execute(
-        "DELETE FROM leaderboard_submissions WHERE player_token = %(player_token)s",
-        {"player_token": source_player_token},
-    )
-
-    cur.execute(
-        "INSERT INTO challenge_members (challenge_id, player_token) "
-        "SELECT challenge_id, %(target_player_token)s "
-        "FROM challenge_members WHERE player_token = %(source_player_token)s "
-        "ON CONFLICT (challenge_id, player_token) DO NOTHING",
-        {
-            "source_player_token": source_player_token,
-            "target_player_token": target_player_token,
-        },
-    )
-    cur.execute("DELETE FROM challenge_members WHERE player_token = %(player_token)s", {"player_token": source_player_token})
-
-    cur.execute(
-        "UPDATE challenges SET created_by_token = %(target_player_token)s WHERE created_by_token = %(source_player_token)s",
-        {
-            "source_player_token": source_player_token,
-            "target_player_token": target_player_token,
-        },
-    )
-
-    source_display_name = _normalize_display_name(source_profile.get("display_name"), player_token=source_player_token)
-    target_display_name = _normalize_display_name(target_profile.get("display_name"), player_token=target_player_token)
-    next_display_name = target_display_name
-    if target_display_name == _fallback_display_name(target_player_token) and source_display_name != _fallback_display_name(
-        source_player_token
-    ):
-        next_display_name = source_display_name
-    next_visible = bool(target_profile.get("leaderboard_visible", True)) or bool(source_profile.get("leaderboard_visible", True))
-    next_avatar_preset = str(target_profile.get("avatar_preset") or "").strip() or str(source_profile.get("avatar_preset") or "").strip() or None
-    cur.execute(
-        "UPDATE player_profiles "
-        "SET display_name = %(display_name)s, leaderboard_visible = %(leaderboard_visible)s, "
-        "avatar_preset = %(avatar_preset)s, updated_at = NOW() "
-        "WHERE player_token = %(player_token)s",
-        {
-            "display_name": next_display_name,
-            "leaderboard_visible": next_visible,
-            "avatar_preset": next_avatar_preset,
-            "player_token": target_player_token,
-        },
-    )
-    cur.execute("DELETE FROM player_profiles WHERE player_token = %(player_token)s", {"player_token": source_player_token})
 
 
 def create_player_account(
@@ -2150,83 +1079,14 @@ def create_player_account(
     user_agent: str | None = None,
     ip_address: str | None = None,
 ) -> tuple[dict[str, Any], str]:
-    normalized_username = validate_username(username)
-    password_hash = hash_password(password)
-    guest_token = (guest_player_token or "").strip()
+    from app.data.player_repo import create_player_account as impl
 
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            cur.execute("SELECT 1 FROM player_accounts WHERE username = %(username)s LIMIT 1", {"username": normalized_username})
-            if cur.fetchone() is not None:
-                raise ValueError("Username already exists")
-
-            player_token = guest_token or _generate_player_token()
-            if guest_token:
-                cur.execute("SELECT 1 FROM player_accounts WHERE player_token = %(player_token)s LIMIT 1", {"player_token": guest_token})
-                if cur.fetchone() is not None:
-                    raise ValueError("Guest profile already claimed")
-                cur.execute(
-                    "SELECT player_token, display_name, public_slug, leaderboard_visible, avatar_preset, created_at, updated_at "
-                    "FROM player_profiles WHERE player_token = %(player_token)s LIMIT 1",
-                    {"player_token": player_token},
-                )
-                profile_row = cur.fetchone()
-                if profile_row is None:
-                    default_name = _normalize_display_name(None, player_token=player_token)
-                    public_slug = _unique_public_slug(cur, display_name=default_name, player_token=player_token)
-                    cur.execute(
-                        "INSERT INTO player_profiles (player_token, display_name, public_slug, leaderboard_visible, avatar_preset) "
-                        "VALUES (%(player_token)s, %(display_name)s, %(public_slug)s, true, NULL) "
-                        "RETURNING player_token, display_name, public_slug, leaderboard_visible, avatar_preset, created_at, updated_at",
-                        {
-                            "player_token": player_token,
-                            "display_name": default_name,
-                            "public_slug": public_slug,
-                        },
-                    )
-                    profile_row = cur.fetchone()
-            else:
-                default_name = _normalize_display_name(None, player_token=player_token)
-                public_slug = _unique_public_slug(cur, display_name=default_name, player_token=player_token)
-                cur.execute(
-                    "INSERT INTO player_profiles (player_token, display_name, public_slug, leaderboard_visible, avatar_preset) "
-                    "VALUES (%(player_token)s, %(display_name)s, %(public_slug)s, true, NULL) "
-                    "RETURNING player_token, display_name, public_slug, leaderboard_visible, avatar_preset, created_at, updated_at",
-                    {
-                        "player_token": player_token,
-                        "display_name": default_name,
-                        "public_slug": public_slug,
-                    },
-                )
-                profile_row = cur.fetchone()
-
-            cur.execute(
-                "INSERT INTO player_accounts (player_token, username, password_hash, last_login_at) "
-                "VALUES (%(player_token)s, %(username)s, %(password_hash)s, NOW())",
-                {
-                    "player_token": player_token,
-                    "username": normalized_username,
-                    "password_hash": password_hash,
-                },
-            )
-            raw_session_token = _create_auth_session(
-                cur,
-                player_token=player_token,
-                user_agent=user_agent,
-                ip_address=ip_address,
-            )
-        conn.commit()
-
-    profile = _player_profile_payload({**dict(profile_row or {}), "username": normalized_username}, player_token=player_token)
-    return (
-        {
-            "authenticated": True,
-            "playerToken": player_token,
-            "username": normalized_username,
-            "profile": profile,
-            "mergedGuestToken": guest_token or None,
-        },
-        raw_session_token,
+    return impl(
+        username=username,
+        password=password,
+        guest_player_token=guest_player_token,
+        user_agent=user_agent,
+        ip_address=ip_address,
     )
 
 
@@ -2239,119 +1099,28 @@ def login_player_account(
     user_agent: str | None = None,
     ip_address: str | None = None,
 ) -> tuple[dict[str, Any], str]:
-    normalized_username = validate_username(username)
-    guest_token = (guest_player_token or "").strip()
-    merged_guest_token: str | None = None
+    from app.data.player_repo import login_player_account as impl
 
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            cur.execute(
-                "SELECT a.player_token, a.username, a.password_hash "
-                "FROM player_accounts a WHERE a.username = %(username)s LIMIT 1",
-                {"username": normalized_username},
-            )
-            account_row = cur.fetchone()
-            if account_row is None or not verify_password(str(account_row.get("password_hash") or ""), password):
-                raise ValueError("Invalid username or password")
-
-            player_token = str(account_row["player_token"])
-            if merge_guest_data and guest_token and guest_token != player_token and _profile_exists_without_account(cur, guest_token):
-                _merge_guest_player_data(cur, source_player_token=guest_token, target_player_token=player_token)
-                merged_guest_token = guest_token
-
-            cur.execute(
-                "UPDATE player_accounts SET last_login_at = NOW(), updated_at = NOW() WHERE player_token = %(player_token)s",
-                {"player_token": player_token},
-            )
-            raw_session_token = _create_auth_session(
-                cur,
-                player_token=player_token,
-                user_agent=user_agent,
-                ip_address=ip_address,
-            )
-        conn.commit()
-
-    profile = get_or_create_player_profile(player_token=player_token)
-    return (
-        {
-            "authenticated": True,
-            "playerToken": player_token,
-            "username": normalized_username,
-            "profile": profile,
-            "mergedGuestToken": merged_guest_token,
-        },
-        raw_session_token,
+    return impl(
+        username=username,
+        password=password,
+        guest_player_token=guest_player_token,
+        merge_guest_data=merge_guest_data,
+        user_agent=user_agent,
+        ip_address=ip_address,
     )
 
 
 def get_player_auth_session(*, session_token: str) -> dict[str, Any]:
-    raw_token = (session_token or "").strip()
-    if not raw_token:
-        return {
-            "authenticated": False,
-            "playerToken": None,
-            "username": None,
-            "profile": None,
-            "mergedGuestToken": None,
-        }
+    from app.data.player_repo import get_player_auth_session as impl
 
-    now = _utcnow()
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            cur.execute(
-                "SELECT s.id, s.player_token, a.username "
-                "FROM player_auth_sessions s "
-                "LEFT JOIN player_accounts a ON a.player_token = s.player_token "
-                "WHERE s.session_token_hash = %(session_token_hash)s "
-                "AND s.revoked_at IS NULL "
-                "AND s.expires_at > %(now)s "
-                "LIMIT 1",
-                {
-                    "session_token_hash": hash_session_token(raw_token),
-                    "now": now,
-                },
-            )
-            row = cur.fetchone()
-            if row is None:
-                return {
-                    "authenticated": False,
-                    "playerToken": None,
-                    "username": None,
-                    "profile": None,
-                    "mergedGuestToken": None,
-                }
-            cur.execute(
-                "UPDATE player_auth_sessions SET last_seen_at = %(now)s, expires_at = %(expires_at)s WHERE id = %(id)s",
-                {
-                    "id": row["id"],
-                    "now": now,
-                    "expires_at": _session_expires_at(now),
-                },
-            )
-        conn.commit()
-
-    profile = get_or_create_player_profile(player_token=str(row["player_token"]))
-    return {
-        "authenticated": True,
-        "playerToken": str(row["player_token"]),
-        "username": str(row.get("username") or ""),
-        "profile": profile,
-        "mergedGuestToken": None,
-    }
+    return impl(session_token=session_token)
 
 
 def revoke_player_auth_session(*, session_token: str) -> None:
-    raw_token = (session_token or "").strip()
-    if not raw_token:
-        return
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            cur.execute(
-                "UPDATE player_auth_sessions SET revoked_at = NOW() "
-                "WHERE session_token_hash = %(session_token_hash)s AND revoked_at IS NULL",
-                {"session_token_hash": hash_session_token(raw_token)},
-            )
-        conn.commit()
+    from app.data.player_repo import revoke_player_auth_session as impl
+
+    impl(session_token=session_token)
 
 
 def create_challenge(
@@ -2362,84 +1131,15 @@ def create_challenge(
     date_value: str | None = None,
     timezone: str = "Europe/London",
 ) -> dict[str, Any]:
-    token = player_token.strip()
-    if not token:
-        raise ValueError("Missing player token")
-    get_or_create_player_profile(player_token=token)
+    from app.data.player_repo import create_challenge as impl
 
-    puzzle = get_puzzle_by_id(puzzle_id) if puzzle_id else get_puzzle_by_date(game_type, date_value, timezone=timezone)
-    if puzzle is None:
-        raise ValueError("Puzzle not found")
-    if puzzle.get("gameType") != game_type:
-        raise ValueError("Challenge game type does not match puzzle")
-    resolved_puzzle_id = str(puzzle.get("id"))
-    resolved_puzzle_date = _parse_date(str(puzzle.get("date")))
-
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            cur.execute(
-                "SELECT COUNT(*) AS recent_count "
-                "FROM challenges "
-                "WHERE created_by_token = %(player_token)s "
-                "  AND created_at >= (NOW() - INTERVAL '1 hour')",
-                {"player_token": token},
-            )
-            recent_count = int((cur.fetchone() or {}).get("recent_count") or 0)
-            if recent_count >= 20:
-                raise ValueError("Challenge creation limit reached. Try again shortly.")
-
-            challenge_code = ""
-            for _ in range(12):
-                candidate_code = "".join(random.choice(CHALLENGE_CODE_ALPHABET) for _ in range(8))
-                cur.execute(
-                    "SELECT 1 FROM challenges WHERE challenge_code = %(challenge_code)s LIMIT 1",
-                    {"challenge_code": candidate_code},
-                )
-                if cur.fetchone() is None:
-                    challenge_code = candidate_code
-                    break
-            if not challenge_code:
-                raise RuntimeError("Unable to allocate challenge code")
-
-            cur.execute(
-                "INSERT INTO challenges (challenge_code, game_type, puzzle_id, puzzle_date, created_by_token) "
-                "VALUES (%(challenge_code)s, %(game_type)s, %(puzzle_id)s, %(puzzle_date)s, %(created_by_token)s) "
-                "RETURNING id, challenge_code, game_type, puzzle_id, puzzle_date, created_by_token, created_at",
-                {
-                    "challenge_code": challenge_code,
-                    "game_type": game_type,
-                    "puzzle_id": resolved_puzzle_id,
-                    "puzzle_date": resolved_puzzle_date,
-                    "created_by_token": token,
-                },
-            )
-            row = cur.fetchone()
-            if not row:
-                raise RuntimeError("Challenge insert failed")
-
-            challenge_id = int(row["id"])
-            cur.execute(
-                "INSERT INTO challenge_members (challenge_id, player_token) "
-                "VALUES (%(challenge_id)s, %(player_token)s) "
-                "ON CONFLICT (challenge_id, player_token) DO NOTHING",
-                {"challenge_id": challenge_id, "player_token": token},
-            )
-            cur.execute(
-                "SELECT COUNT(*) AS member_count FROM challenge_members WHERE challenge_id = %(challenge_id)s",
-                {"challenge_id": challenge_id},
-            )
-            member_count = int((cur.fetchone() or {}).get("member_count") or 0)
-        conn.commit()
-    return {
-        "id": challenge_id,
-        "code": row["challenge_code"],
-        "gameType": row["game_type"],
-        "puzzleId": row["puzzle_id"],
-        "puzzleDate": row["puzzle_date"].isoformat() if row.get("puzzle_date") else None,
-        "createdByToken": row["created_by_token"],
-        "memberCount": member_count,
-        "createdAt": row["created_at"].isoformat() if row.get("created_at") else None,
-    }
+    return impl(
+        player_token=player_token,
+        game_type=game_type,
+        puzzle_id=puzzle_id,
+        date_value=date_value,
+        timezone=timezone,
+    )
 
 
 def get_challenge_detail(
@@ -2449,126 +1149,20 @@ def get_challenge_detail(
     limit: int = 25,
     cursor: str | None = None,
 ) -> dict[str, Any] | None:
-    normalized_code = (challenge_code or "").strip().upper()
-    if not normalized_code:
-        return None
-    token = (player_token or "").strip()
-    page_limit = max(1, min(limit, 100))
-    offset = _parse_cursor_offset(cursor)
+    from app.data.player_repo import get_challenge_detail as impl
 
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            cur.execute(
-                "SELECT c.id, c.challenge_code, c.game_type, c.puzzle_id, c.puzzle_date, c.created_by_token, c.created_at, "
-                "  (SELECT COUNT(*) FROM challenge_members cm WHERE cm.challenge_id = c.id) AS member_count "
-                "FROM challenges c "
-                "WHERE c.challenge_code = %(challenge_code)s "
-                "LIMIT 1",
-                {"challenge_code": normalized_code},
-            )
-            challenge_row = cur.fetchone()
-            if not challenge_row:
-                return None
-
-            joined = False
-            if token:
-                cur.execute(
-                    "SELECT 1 FROM challenge_members "
-                    "WHERE challenge_id = %(challenge_id)s AND player_token = %(player_token)s "
-                    "LIMIT 1",
-                    {"challenge_id": challenge_row["id"], "player_token": token},
-                )
-                joined = cur.fetchone() is not None
-
-            cur.execute(
-                "WITH ranked AS ("
-                "  SELECT "
-                "    ROW_NUMBER() OVER (ORDER BY s.solve_time_ms ASC NULLS LAST, s.updated_at ASC, m.player_token ASC) AS rank, "
-                "    m.player_token, "
-                "    COALESCE(NULLIF(p.display_name, ''), %(fallback_prefix)s || UPPER(RIGHT(m.player_token, 6))) AS display_name, "
-                "    p.public_slug, "
-                "    s.solve_time_ms, s.completed, COALESCE(s.used_assists, false) AS used_assists, "
-                "    COALESCE(s.used_reveals, false) AS used_reveals, s.updated_at "
-                "  FROM challenge_members m "
-                "  LEFT JOIN player_profiles p ON p.player_token = m.player_token "
-                "  LEFT JOIN leaderboard_submissions s ON s.player_token = m.player_token "
-                "    AND s.puzzle_id = %(puzzle_id)s "
-                "  WHERE m.challenge_id = %(challenge_id)s "
-                "    AND COALESCE(p.leaderboard_visible, true) = true "
-                "    AND s.completed = true "
-                ") "
-                "SELECT rank, player_token, display_name, public_slug, solve_time_ms, completed, used_assists, used_reveals, updated_at "
-                "FROM ranked "
-                "ORDER BY rank "
-                "OFFSET %(offset)s LIMIT %(limit_plus_one)s",
-                {
-                    "fallback_prefix": "Player ",
-                    "puzzle_id": challenge_row["puzzle_id"],
-                    "challenge_id": challenge_row["id"],
-                    "offset": offset,
-                    "limit_plus_one": page_limit + 1,
-                },
-            )
-            ranked_rows = cur.fetchall()
-
-    has_more = len(ranked_rows) > page_limit
-    visible_rows = ranked_rows[:page_limit]
-    next_cursor = str(offset + page_limit) if has_more else None
-
-    return {
-        "challenge": {
-            "id": challenge_row["id"],
-            "code": challenge_row["challenge_code"],
-            "gameType": challenge_row["game_type"],
-            "puzzleId": challenge_row["puzzle_id"],
-            "puzzleDate": challenge_row["puzzle_date"].isoformat() if challenge_row.get("puzzle_date") else None,
-            "createdByToken": challenge_row["created_by_token"],
-            "memberCount": int(challenge_row.get("member_count") or 0),
-            "createdAt": challenge_row["created_at"].isoformat() if challenge_row.get("created_at") else None,
-        },
-        "joined": joined,
-        "items": [
-            {
-                "rank": int(row["rank"]),
-                "playerToken": row["player_token"],
-                "displayName": row["display_name"],
-                "publicSlug": row.get("public_slug"),
-                "solveTimeMs": int(row["solve_time_ms"]) if row.get("solve_time_ms") is not None else None,
-                "completed": bool(row.get("completed")),
-                "usedAssists": bool(row.get("used_assists")),
-                "usedReveals": bool(row.get("used_reveals")),
-                "updatedAt": row["updated_at"].isoformat() if row.get("updated_at") else None,
-            }
-            for row in visible_rows
-        ],
-        "cursor": next_cursor,
-        "hasMore": has_more,
-    }
+    return impl(
+        challenge_code=challenge_code,
+        player_token=player_token,
+        limit=limit,
+        cursor=cursor,
+    )
 
 
 def join_challenge(*, player_token: str, challenge_code: str, limit: int = 25, cursor: str | None = None) -> dict[str, Any] | None:
-    token = player_token.strip()
-    normalized_code = (challenge_code or "").strip().upper()
-    if not token or not normalized_code:
-        return None
-    get_or_create_player_profile(player_token=token)
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            cur.execute(
-                "SELECT id FROM challenges WHERE challenge_code = %(challenge_code)s LIMIT 1",
-                {"challenge_code": normalized_code},
-            )
-            row = cur.fetchone()
-            if not row:
-                return None
-            cur.execute(
-                "INSERT INTO challenge_members (challenge_id, player_token) "
-                "VALUES (%(challenge_id)s, %(player_token)s) "
-                "ON CONFLICT (challenge_id, player_token) DO NOTHING",
-                {"challenge_id": row["id"], "player_token": token},
-            )
-        conn.commit()
-    return get_challenge_detail(challenge_code=normalized_code, player_token=token, limit=limit, cursor=cursor)
+    from app.data.player_repo import join_challenge as impl
+
+    return impl(player_token=player_token, challenge_code=challenge_code, limit=limit, cursor=cursor)
 
 
 def submit_leaderboard_result(
@@ -2583,82 +1177,19 @@ def submit_leaderboard_result(
     used_reveals: bool = False,
     session_id: str | None = None,
 ) -> dict[str, Any]:
-    token = player_token.strip()
-    resolved_puzzle_id = puzzle_id.strip()
-    if not token or not resolved_puzzle_id:
-        raise ValueError("Missing token or puzzle id")
-    get_or_create_player_profile(player_token=token)
-    resolved_puzzle_date = _parse_date(puzzle_date)
-    normalized_solve_ms = max(0, int(solve_time_ms)) if solve_time_ms is not None else None
-    normalized_session_id = session_id.strip() if isinstance(session_id, str) and session_id.strip() else None
+    from app.data.player_repo import submit_leaderboard_result as impl
 
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            cur.execute(
-                "SELECT COUNT(*) AS recent_count "
-                "FROM leaderboard_submissions "
-                "WHERE player_token = %(player_token)s "
-                "  AND updated_at >= (NOW() - INTERVAL '30 seconds')",
-                {"player_token": token},
-            )
-            recent_count = int((cur.fetchone() or {}).get("recent_count") or 0)
-            if recent_count >= 60:
-                raise ValueError("Leaderboard submission rate limit reached")
-
-            cur.execute(
-                "INSERT INTO leaderboard_submissions ("
-                "  player_token, game_type, puzzle_id, puzzle_date, completed, solve_time_ms, "
-                "  used_assists, used_reveals, session_id"
-                ") VALUES ("
-                "  %(player_token)s, %(game_type)s, %(puzzle_id)s, %(puzzle_date)s, %(completed)s, %(solve_time_ms)s, "
-                "  %(used_assists)s, %(used_reveals)s, %(session_id)s"
-                ") ON CONFLICT (player_token, puzzle_id) DO UPDATE SET "
-                "  game_type = EXCLUDED.game_type, "
-                "  puzzle_date = EXCLUDED.puzzle_date, "
-                "  completed = leaderboard_submissions.completed OR EXCLUDED.completed, "
-                "  solve_time_ms = CASE "
-                "    WHEN leaderboard_submissions.solve_time_ms IS NULL THEN EXCLUDED.solve_time_ms "
-                "    WHEN EXCLUDED.solve_time_ms IS NULL THEN leaderboard_submissions.solve_time_ms "
-                "    WHEN EXCLUDED.solve_time_ms < leaderboard_submissions.solve_time_ms THEN EXCLUDED.solve_time_ms "
-                "    ELSE leaderboard_submissions.solve_time_ms "
-                "  END, "
-                "  used_assists = leaderboard_submissions.used_assists OR EXCLUDED.used_assists, "
-                "  used_reveals = leaderboard_submissions.used_reveals OR EXCLUDED.used_reveals, "
-                "  session_id = COALESCE(EXCLUDED.session_id, leaderboard_submissions.session_id), "
-                "  updated_at = NOW() "
-                "RETURNING id, player_token, game_type, puzzle_id, puzzle_date, completed, solve_time_ms, "
-                "  used_assists, used_reveals, session_id, submitted_at, updated_at",
-                {
-                    "player_token": token,
-                    "game_type": game_type,
-                    "puzzle_id": resolved_puzzle_id,
-                    "puzzle_date": resolved_puzzle_date,
-                    "completed": bool(completed),
-                    "solve_time_ms": normalized_solve_ms,
-                    "used_assists": bool(used_assists),
-                    "used_reveals": bool(used_reveals),
-                    "session_id": normalized_session_id,
-                },
-            )
-            row = cur.fetchone()
-        conn.commit()
-
-    if not row:
-        raise RuntimeError("Leaderboard submission failed")
-    return {
-        "id": int(row["id"]),
-        "playerToken": row["player_token"],
-        "gameType": row["game_type"],
-        "puzzleId": row["puzzle_id"],
-        "puzzleDate": row["puzzle_date"].isoformat() if row.get("puzzle_date") else None,
-        "completed": bool(row.get("completed")),
-        "solveTimeMs": int(row["solve_time_ms"]) if row.get("solve_time_ms") is not None else None,
-        "usedAssists": bool(row.get("used_assists")),
-        "usedReveals": bool(row.get("used_reveals")),
-        "sessionId": row.get("session_id"),
-        "submittedAt": row["submitted_at"].isoformat() if row.get("submitted_at") else None,
-        "updatedAt": row["updated_at"].isoformat() if row.get("updated_at") else None,
-    }
+    return impl(
+        player_token=player_token,
+        game_type=game_type,
+        puzzle_id=puzzle_id,
+        puzzle_date=puzzle_date,
+        completed=completed,
+        solve_time_ms=solve_time_ms,
+        used_assists=used_assists,
+        used_reveals=used_reveals,
+        session_id=session_id,
+    )
 
 
 def get_global_leaderboard(
@@ -2670,665 +1201,49 @@ def get_global_leaderboard(
     limit: int = 25,
     cursor: str | None = None,
 ) -> dict[str, Any]:
-    target_date = _parse_date(date_value) if date_value else datetime.now(ZoneInfo(timezone)).date()
-    if scope == "daily":
-        start_date = target_date
-    else:
-        start_date = target_date - timedelta(days=6)
-    end_date = target_date
+    from app.data.player_repo import get_global_leaderboard as impl
 
-    offset = _parse_cursor_offset(cursor)
-    page_limit = max(1, min(limit, 100))
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            cur.execute(
-                "WITH aggregated AS ("
-                "  SELECT "
-                "    s.player_token, "
-                "    COALESCE(NULLIF(p.display_name, ''), %(fallback_prefix)s || UPPER(RIGHT(s.player_token, 6))) AS display_name, "
-                "    p.public_slug, "
-                "    COUNT(*) AS completions, "
-                "    ROUND(AVG(s.solve_time_ms) FILTER (WHERE s.solve_time_ms IS NOT NULL))::int AS average_solve_time_ms, "
-                "    MIN(s.solve_time_ms) FILTER (WHERE s.solve_time_ms IS NOT NULL) AS best_solve_time_ms "
-                "  FROM leaderboard_submissions s "
-                "  LEFT JOIN player_profiles p ON p.player_token = s.player_token "
-                "  WHERE s.game_type = %(game_type)s "
-                "    AND s.puzzle_date >= %(start_date)s "
-                "    AND s.puzzle_date <= %(end_date)s "
-                "    AND s.completed = true "
-                "    AND COALESCE(p.leaderboard_visible, true) = true "
-                "  GROUP BY s.player_token, p.display_name, p.public_slug"
-                "), ranked AS ("
-                "  SELECT "
-                "    ROW_NUMBER() OVER (ORDER BY completions DESC, average_solve_time_ms ASC NULLS LAST, best_solve_time_ms ASC NULLS LAST, player_token ASC) AS rank, "
-                "    player_token, display_name, public_slug, completions, average_solve_time_ms, best_solve_time_ms "
-                "  FROM aggregated"
-                ") "
-                "SELECT rank, player_token, display_name, public_slug, completions, average_solve_time_ms, best_solve_time_ms "
-                "FROM ranked "
-                "ORDER BY rank "
-                "OFFSET %(offset)s LIMIT %(limit_plus_one)s",
-                {
-                    "fallback_prefix": "Player ",
-                    "game_type": game_type,
-                    "start_date": start_date,
-                    "end_date": end_date,
-                    "offset": offset,
-                    "limit_plus_one": page_limit + 1,
-                },
-            )
-            rows = cur.fetchall()
-
-    has_more = len(rows) > page_limit
-    visible_rows = rows[:page_limit]
-    next_cursor = str(offset + page_limit) if has_more else None
-    return {
-        "scope": scope,
-        "gameType": game_type,
-        "dateFrom": start_date.isoformat(),
-        "dateTo": end_date.isoformat(),
-        "items": [
-            {
-                "rank": int(row["rank"]),
-                "playerToken": row["player_token"],
-                "displayName": row["display_name"],
-                "publicSlug": row.get("public_slug"),
-                "completions": int(row["completions"]),
-                "averageSolveTimeMs": int(row["average_solve_time_ms"]) if row.get("average_solve_time_ms") is not None else None,
-                "bestSolveTimeMs": int(row["best_solve_time_ms"]) if row.get("best_solve_time_ms") is not None else None,
-            }
-            for row in visible_rows
-        ],
-        "cursor": next_cursor,
-        "hasMore": has_more,
-    }
+    return impl(
+        game_type=game_type,
+        scope=scope,
+        date_value=date_value,
+        timezone=timezone,
+        limit=limit,
+        cursor=cursor,
+    )
 
 
 def get_analytics_summary(*, days: int = 30, timezone: str = "Europe/London") -> dict[str, Any]:
-    window_days = max(1, min(days, 365))
-    today = datetime.now(ZoneInfo(timezone)).date()
-    start_date = today - timedelta(days=window_days - 1)
-    start_ts = datetime.combine(start_date, datetime.min.time(), tzinfo=ZoneInfo(timezone))
+    from app.data.stats_repo import get_analytics_summary as impl
 
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            cur.execute(
-                "WITH day_series AS ("
-                "  SELECT generate_series(%(start_date)s::date, %(end_date)s::date, interval '1 day')::date AS day"
-                "), all_events AS ("
-                "  SELECT (created_at AT TIME ZONE %(timezone)s)::date AS day, session_id"
-                "  FROM crossword_feedback"
-                "  WHERE created_at >= %(start_ts)s AND session_id IS NOT NULL"
-                "  UNION ALL "
-                "  SELECT (created_at AT TIME ZONE %(timezone)s)::date AS day, session_id"
-                "  FROM cryptic_feedback"
-                "  WHERE created_at >= %(start_ts)s AND session_id IS NOT NULL"
-                ")"
-                "SELECT ds.day, COALESCE(COUNT(DISTINCT ev.session_id), 0) AS users "
-                "FROM day_series ds "
-                "LEFT JOIN all_events ev ON ev.day = ds.day "
-                "GROUP BY ds.day "
-                "ORDER BY ds.day ASC",
-                {
-                    "start_date": start_date,
-                    "end_date": today,
-                    "timezone": timezone,
-                    "start_ts": start_ts,
-                },
-            )
-            dau_rows = cur.fetchall()
-
-            cur.execute(
-                "SELECT "
-                "COUNT(DISTINCT CASE WHEN event_type = 'page_view' AND session_id IS NOT NULL THEN session_id END) "
-                "  AS page_sessions, "
-                "COUNT(DISTINCT CASE WHEN event_type = 'completed' AND session_id IS NOT NULL THEN session_id END) "
-                "  AS completed_sessions, "
-                "PERCENTILE_CONT(0.5) WITHIN GROUP ("
-                "  ORDER BY (event_value->>'solveMs')::double precision"
-                ") FILTER ("
-                "  WHERE event_type = 'completed' "
-                "  AND (event_value->>'solveMs') ~ '^[0-9]+(\\.[0-9]+)?$'"
-                ") AS median_solve_ms "
-                "FROM crossword_feedback "
-                "WHERE created_at >= %(start_ts)s",
-                {"start_ts": start_ts},
-            )
-            crossword_row = cur.fetchone() or {}
-
-            cur.execute(
-                "WITH session_events AS ("
-                "  SELECT id, session_id, event_type, created_at, "
-                "         BOOL_OR(event_type = 'completed') OVER (PARTITION BY session_id) AS completed_any, "
-                "         ROW_NUMBER() OVER (PARTITION BY session_id ORDER BY created_at DESC, id DESC) AS rn "
-                "  FROM crossword_feedback "
-                "  WHERE created_at >= %(start_ts)s AND session_id IS NOT NULL"
-                ") "
-                "SELECT event_type, COUNT(*)::int AS sessions "
-                "FROM session_events "
-                "WHERE rn = 1 AND completed_any = FALSE "
-                "GROUP BY event_type "
-                "ORDER BY sessions DESC, event_type ASC",
-                {"start_ts": start_ts},
-            )
-            dropoff_rows = cur.fetchall()
-
-    dau_series = [
-        {
-            "date": row["day"].isoformat() if row.get("day") else None,
-            "users": int(row.get("users") or 0),
-        }
-        for row in dau_rows
-    ]
-    dau_values = [item["users"] for item in dau_series]
-    latest_dau = dau_values[-1] if dau_values else 0
-    average_dau = round(sum(dau_values) / max(1, len(dau_values)), 2)
-
-    page_sessions = int(crossword_row.get("page_sessions") or 0)
-    completed_sessions = int(crossword_row.get("completed_sessions") or 0)
-    completion_rate = round(completed_sessions / page_sessions, 4) if page_sessions > 0 else None
-    median_solve_ms_value = crossword_row.get("median_solve_ms")
-    median_solve_ms = int(round(float(median_solve_ms_value))) if median_solve_ms_value is not None else None
-
-    dropoff = [
-        {
-            "eventType": str(row.get("event_type") or ""),
-            "sessions": int(row.get("sessions") or 0),
-        }
-        for row in dropoff_rows
-    ]
-
-    return {
-        "windowDays": window_days,
-        "timezone": timezone,
-        "dailyActiveUsers": {
-            "latest": latest_dau,
-            "average": average_dau,
-            "series": dau_series,
-        },
-        "crossword": {
-            "pageViewSessions": page_sessions,
-            "completedSessions": completed_sessions,
-            "completionRate": completion_rate,
-            "medianSolveTimeMs": median_solve_ms,
-            "dropoffByEventType": dropoff,
-        },
-    }
+    return impl(days=days, timezone=timezone)
 
 
 def get_personal_stats(*, session_ids: list[str], days: int = 30, timezone: str = "Europe/London") -> dict[str, Any]:
-    clean_session_ids = sorted({sid.strip() for sid in session_ids if isinstance(sid, str) and sid.strip()})
-    window_days = max(1, min(days, 365))
-    today = datetime.now(ZoneInfo(timezone)).date()
-    start_date = today - timedelta(days=window_days - 1)
-    start_ts = datetime.combine(start_date, datetime.min.time(), tzinfo=ZoneInfo(timezone))
+    from app.data.stats_repo import get_personal_stats as impl
 
-    if not clean_session_ids:
-        return _empty_personal_stats_payload(
-            session_ids=[],
-            window_days=window_days,
-            timezone=timezone,
-            start_date=start_date,
-        )
-
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            crossword_bucket, crossword_history = _get_crossword_personal_stats_segment(
-                cur=cur,
-                session_ids=clean_session_ids,
-                window_days=window_days,
-                timezone=timezone,
-                start_date=start_date,
-                today=today,
-                start_ts=start_ts,
-            )
-            cryptic_bucket, cryptic_history = _get_competitive_personal_stats_segment(
-                cur=cur,
-                game_type="cryptic",
-                feedback_table="cryptic_feedback",
-                session_ids=clean_session_ids,
-                window_days=window_days,
-                start_date=start_date,
-                end_date=today,
-            )
-            connections_bucket, connections_history = _get_connections_personal_stats_segment(
-                cur=cur,
-                session_ids=clean_session_ids,
-                window_days=window_days,
-                start_date=start_date,
-                end_date=today,
-            )
-
-    return {
-        "sessionIds": clean_session_ids,
-        "windowDays": window_days,
-        "timezone": timezone,
-        "crossword": crossword_bucket,
-        "cryptic": cryptic_bucket,
-        "connections": connections_bucket,
-        "historyByGameType": {
-            "crossword": crossword_history,
-            "cryptic": cryptic_history,
-            "connections": connections_history,
-        },
-    }
-
-
-def _get_player_started_progress_rows(
-    cur: Any,
-    *,
-    player_token: str,
-    game_type: PuzzleGameType,
-    start_date: date_type,
-    end_date: date_type,
-) -> tuple[int, list[dict[str, Any]]]:
-    if not _table_exists(cur, "player_progress"):
-        return 0, []
-    cur.execute(
-        "SELECT COUNT(DISTINCT pp.puzzle_id)::int AS started_count "
-        "FROM player_progress pp "
-        "JOIN puzzles p ON p.id = pp.puzzle_id "
-        "WHERE pp.player_token = %(player_token)s "
-        "AND pp.game_type = %(game_type)s "
-        "AND pp.puzzle_id IS NOT NULL "
-        "AND p.date >= %(start_date)s "
-        "AND p.date <= %(end_date)s",
-        {
-            "player_token": player_token,
-            "game_type": game_type,
-            "start_date": start_date,
-            "end_date": end_date,
-        },
-    )
-    totals_row = cur.fetchone() or {}
-    cur.execute(
-        "SELECT p.date AS day, COUNT(DISTINCT pp.puzzle_id)::int AS page_views "
-        "FROM player_progress pp "
-        "JOIN puzzles p ON p.id = pp.puzzle_id "
-        "WHERE pp.player_token = %(player_token)s "
-        "AND pp.game_type = %(game_type)s "
-        "AND pp.puzzle_id IS NOT NULL "
-        "AND p.date >= %(start_date)s "
-        "AND p.date <= %(end_date)s "
-        "GROUP BY p.date "
-        "ORDER BY p.date ASC",
-        {
-            "player_token": player_token,
-            "game_type": game_type,
-            "start_date": start_date,
-            "end_date": end_date,
-        },
-    )
-    return int(totals_row.get("started_count") or 0), cur.fetchall()
-
-
-def _get_player_competitive_stats_segment(
-    cur: Any,
-    *,
-    player_token: str,
-    game_type: CompetitiveGameType,
-    window_days: int,
-    start_date: date_type,
-    end_date: date_type,
-) -> tuple[dict[str, Any], list[dict[str, Any]]]:
-    started_count, started_rows = _get_player_started_progress_rows(
-        cur,
-        player_token=player_token,
-        game_type=game_type,
-        start_date=start_date,
-        end_date=end_date,
-    )
-
-    completion_totals: dict[str, Any] = {}
-    completion_rows: list[dict[str, Any]] = []
-    if _table_exists(cur, "leaderboard_submissions"):
-        cur.execute(
-            "SELECT "
-            "COUNT(*) FILTER (WHERE completed = true)::int AS completed_count, "
-            "COUNT(*) FILTER (WHERE completed = true AND COALESCE(used_assists, false) = false AND COALESCE(used_reveals, false) = false)::int AS clean_completed_count, "
-            "PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY solve_time_ms::double precision) "
-            "FILTER (WHERE completed = true AND solve_time_ms IS NOT NULL) AS median_solve_ms "
-            "FROM leaderboard_submissions "
-            "WHERE player_token = %(player_token)s "
-            "AND game_type = %(game_type)s "
-            "AND puzzle_date >= %(start_date)s "
-            "AND puzzle_date <= %(end_date)s",
-            {
-                "player_token": player_token,
-                "game_type": game_type,
-                "start_date": start_date,
-                "end_date": end_date,
-            },
-        )
-        completion_totals = cur.fetchone() or {}
-        cur.execute(
-            "SELECT puzzle_date AS day, "
-            "COUNT(*) FILTER (WHERE completed = true)::int AS completions, "
-            "COUNT(*) FILTER (WHERE completed = true AND COALESCE(used_assists, false) = false AND COALESCE(used_reveals, false) = false)::int AS clean_completions "
-            "FROM leaderboard_submissions "
-            "WHERE player_token = %(player_token)s "
-            "AND game_type = %(game_type)s "
-            "AND puzzle_date >= %(start_date)s "
-            "AND puzzle_date <= %(end_date)s "
-            "GROUP BY puzzle_date "
-            "ORDER BY puzzle_date ASC",
-            {
-                "player_token": player_token,
-                "game_type": game_type,
-                "start_date": start_date,
-                "end_date": end_date,
-            },
-        )
-        completion_rows = cur.fetchall()
-
-    completions = int(completion_totals.get("completed_count") or 0)
-    clean_completions = int(completion_totals.get("clean_completed_count") or 0)
-    median_solve_ms_value = completion_totals.get("median_solve_ms")
-    median_solve_ms = int(round(float(median_solve_ms_value))) if median_solve_ms_value is not None else None
-    solved_dates = [row["day"] for row in completion_rows if int(row.get("completions") or 0) > 0]
-
-    return (
-        _build_personal_stats_bucket(
-            page_views=started_count,
-            page_view_puzzle_count=started_count,
-            completions=completions,
-            completed_puzzles=completions,
-            clean_completions=clean_completions,
-            median_solve_ms=median_solve_ms,
-            solved_dates=solved_dates,
-        ),
-        _merge_personal_stats_history(
-            window_days=window_days,
-            start_date=start_date,
-            page_view_rows=started_rows,
-            completion_rows=completion_rows,
-        ),
-    )
-
-
-def _get_player_connections_stats_segment(
-    cur: Any,
-    *,
-    player_token: str,
-    window_days: int,
-    start_date: date_type,
-    end_date: date_type,
-) -> tuple[dict[str, Any], list[dict[str, Any]]]:
-    started_count, started_rows = _get_player_started_progress_rows(
-        cur,
-        player_token=player_token,
-        game_type="connections",
-        start_date=start_date,
-        end_date=end_date,
-    )
-    if not _table_exists(cur, "player_progress"):
-        return _empty_personal_stats_bucket(), _empty_personal_stats_history(window_days=window_days, start_date=start_date)
-
-    cur.execute(
-        "WITH latest AS ("
-        "  SELECT DISTINCT ON (pp.puzzle_id) pp.puzzle_id, pp.progress "
-        "  FROM player_progress pp "
-        "  JOIN puzzles p ON p.id = pp.puzzle_id "
-        "  WHERE pp.player_token = %(player_token)s "
-        "    AND pp.game_type = 'connections' "
-        "    AND pp.puzzle_id IS NOT NULL "
-        "    AND p.date >= %(start_date)s "
-        "    AND p.date <= %(end_date)s "
-        "  ORDER BY pp.puzzle_id, COALESCE(pp.client_updated_at, pp.updated_at) DESC, pp.id DESC"
-        ") "
-        "SELECT "
-        "COUNT(*) FILTER (WHERE latest.progress->>'outcome' = 'completed')::int AS completed_count, "
-        "COUNT(*) FILTER (WHERE latest.progress->>'outcome' = 'completed' "
-        "  AND COALESCE((NULLIF(latest.progress->>'mistakes', ''))::int, 0) = 0)::int AS clean_completed_count "
-        "FROM latest",
-        {
-            "player_token": player_token,
-            "start_date": start_date,
-            "end_date": end_date,
-        },
-    )
-    totals_row = cur.fetchone() or {}
-    cur.execute(
-        "WITH latest AS ("
-        "  SELECT DISTINCT ON (pp.puzzle_id) pp.puzzle_id, p.date AS day, pp.progress "
-        "  FROM player_progress pp "
-        "  JOIN puzzles p ON p.id = pp.puzzle_id "
-        "  WHERE pp.player_token = %(player_token)s "
-        "    AND pp.game_type = 'connections' "
-        "    AND pp.puzzle_id IS NOT NULL "
-        "    AND p.date >= %(start_date)s "
-        "    AND p.date <= %(end_date)s "
-        "  ORDER BY pp.puzzle_id, COALESCE(pp.client_updated_at, pp.updated_at) DESC, pp.id DESC"
-        ") "
-        "SELECT day, "
-        "COUNT(*) FILTER (WHERE latest.progress->>'outcome' = 'completed')::int AS completions, "
-        "COUNT(*) FILTER (WHERE latest.progress->>'outcome' = 'completed' "
-        "  AND COALESCE((NULLIF(latest.progress->>'mistakes', ''))::int, 0) = 0)::int AS clean_completions "
-        "FROM latest "
-        "GROUP BY day "
-        "ORDER BY day ASC",
-        {
-            "player_token": player_token,
-            "start_date": start_date,
-            "end_date": end_date,
-        },
-    )
-    completion_rows = cur.fetchall()
-    completions = int(totals_row.get("completed_count") or 0)
-    clean_completions = int(totals_row.get("clean_completed_count") or 0)
-    solved_dates = [row["day"] for row in completion_rows if int(row.get("completions") or 0) > 0]
-    return (
-        _build_personal_stats_bucket(
-            page_views=started_count,
-            page_view_puzzle_count=started_count,
-            completions=completions,
-            completed_puzzles=completions,
-            clean_completions=clean_completions,
-            median_solve_ms=None,
-            solved_dates=solved_dates,
-        ),
-        _merge_personal_stats_history(
-            window_days=window_days,
-            start_date=start_date,
-            page_view_rows=started_rows,
-            completion_rows=completion_rows,
-        ),
-    )
+    return impl(session_ids=session_ids, days=days, timezone=timezone)
 
 
 def get_player_stats(*, player_token: str, days: int = 30, timezone: str = "Europe/London") -> dict[str, Any]:
-    token = player_token.strip()
-    if not token:
-        raise ValueError("Missing player token")
+    from app.data.stats_repo import get_player_stats as impl
 
-    window_days = max(1, min(days, 365))
-    today = datetime.now(ZoneInfo(timezone)).date()
-    start_date = today - timedelta(days=window_days - 1)
-    payload = _empty_personal_stats_payload(
-        session_ids=[],
-        window_days=window_days,
-        timezone=timezone,
-        start_date=start_date,
-    )
-
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            crossword_bucket, crossword_history = _get_player_competitive_stats_segment(
-                cur,
-                player_token=token,
-                game_type="crossword",
-                window_days=window_days,
-                start_date=start_date,
-                end_date=today,
-            )
-            cryptic_bucket, cryptic_history = _get_player_competitive_stats_segment(
-                cur,
-                player_token=token,
-                game_type="cryptic",
-                window_days=window_days,
-                start_date=start_date,
-                end_date=today,
-            )
-            connections_bucket, connections_history = _get_player_connections_stats_segment(
-                cur,
-                player_token=token,
-                window_days=window_days,
-                start_date=start_date,
-                end_date=today,
-            )
-    payload["crossword"] = crossword_bucket
-    payload["cryptic"] = cryptic_bucket
-    payload["connections"] = connections_bucket
-    payload["historyByGameType"] = {
-        "crossword": crossword_history,
-        "cryptic": cryptic_history,
-        "connections": connections_history,
-    }
-    return payload
+    return impl(player_token=player_token, days=days, timezone=timezone)
 
 
 def get_public_player_profile(*, public_slug: str) -> dict[str, Any] | None:
-    slug = (public_slug or "").strip().lower()
-    if not slug:
-        return None
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            cur.execute(
-                "SELECT p.player_token, p.display_name, p.public_slug, p.leaderboard_visible, p.avatar_preset, "
-                "p.created_at, p.updated_at, a.username "
-                "FROM player_profiles p "
-                "LEFT JOIN player_accounts a ON a.player_token = p.player_token "
-                "WHERE p.public_slug = %(public_slug)s LIMIT 1",
-                {"public_slug": slug},
-            )
-            row = cur.fetchone()
-    if row is None:
-        return None
-    payload = _player_profile_payload(row, player_token=str(row["player_token"]))
-    return {
-        "displayName": payload["displayName"],
-        "publicSlug": payload["publicSlug"],
-        "leaderboardVisible": payload["leaderboardVisible"],
-        "avatarPreset": payload["avatarPreset"],
-        "hasAccount": payload["hasAccount"],
-        "createdAt": payload["createdAt"],
-        "updatedAt": payload["updatedAt"],
-        "playerToken": payload["playerToken"],
-    }
+    from app.data.stats_repo import get_public_player_profile as impl
+
+    return impl(public_slug=public_slug)
 
 
 def get_public_player_stats(*, public_slug: str, days: int = 30, timezone: str = "Europe/London") -> dict[str, Any] | None:
-    profile = get_public_player_profile(public_slug=public_slug)
-    if profile is None:
-        return None
-    stats = get_player_stats(player_token=str(profile["playerToken"]), days=days, timezone=timezone)
-    return {
-        "profile": {
-            "displayName": profile["displayName"],
-            "publicSlug": profile["publicSlug"],
-            "leaderboardVisible": profile["leaderboardVisible"],
-            "avatarPreset": profile.get("avatarPreset"),
-            "hasAccount": profile["hasAccount"],
-            "createdAt": profile["createdAt"],
-            "updatedAt": profile["updatedAt"],
-        },
-        "stats": stats,
-    }
+    from app.data.stats_repo import get_public_player_stats as impl
+
+    return impl(public_slug=public_slug, days=days, timezone=timezone)
 
 
 def get_cryptic_clue_feedback_summary(*, days: int = 30, timezone: str = "Europe/London") -> dict[str, Any]:
-    window_days = max(1, min(days, 365))
-    today = datetime.now(ZoneInfo(timezone)).date()
-    start_date = today - timedelta(days=window_days - 1)
-    start_ts = datetime.combine(start_date, datetime.min.time(), tzinfo=ZoneInfo(timezone))
+    from app.data.stats_repo import get_cryptic_clue_feedback_summary as impl
 
-    with get_db() as conn:
-        with conn.cursor(row_factory=dict_row) as cur:
-            cur.execute(
-                "SELECT "
-                "COUNT(*)::int AS total_count, "
-                "COUNT(*) FILTER (WHERE event_value->>'rating' = 'up')::int AS up_count, "
-                "COUNT(*) FILTER (WHERE event_value->>'rating' = 'down')::int AS down_count "
-                "FROM cryptic_feedback "
-                "WHERE event_type = 'clue_feedback' AND created_at >= %(start_ts)s",
-                {"start_ts": start_ts},
-            )
-            totals_row = cur.fetchone() or {}
-
-            cur.execute(
-                "SELECT "
-                "(created_at AT TIME ZONE %(timezone)s)::date AS day, "
-                "COUNT(*)::int AS total_count, "
-                "COUNT(*) FILTER (WHERE event_value->>'rating' = 'up')::int AS up_count, "
-                "COUNT(*) FILTER (WHERE event_value->>'rating' = 'down')::int AS down_count "
-                "FROM cryptic_feedback "
-                "WHERE event_type = 'clue_feedback' AND created_at >= %(start_ts)s "
-                "GROUP BY day ORDER BY day ASC",
-                {"start_ts": start_ts, "timezone": timezone},
-            )
-            day_rows = cur.fetchall()
-
-            cur.execute(
-                "SELECT "
-                "COALESCE(NULLIF(event_value->>'mechanism', ''), 'unknown') AS clue_type, "
-                "COUNT(*)::int AS total_count, "
-                "COUNT(*) FILTER (WHERE event_value->>'rating' = 'up')::int AS up_count, "
-                "COUNT(*) FILTER (WHERE event_value->>'rating' = 'down')::int AS down_count "
-                "FROM cryptic_feedback "
-                "WHERE event_type = 'clue_feedback' AND created_at >= %(start_ts)s "
-                "GROUP BY clue_type ORDER BY total_count DESC, clue_type ASC",
-                {"start_ts": start_ts},
-            )
-            type_rows = cur.fetchall()
-
-            cur.execute(
-                "SELECT reason_tag, COUNT(*)::int AS count "
-                "FROM ("
-                "  SELECT jsonb_array_elements_text("
-                "    CASE "
-                "      WHEN jsonb_typeof((event_value->'reasons')::jsonb) = 'array' THEN (event_value->'reasons')::jsonb "
-                "      ELSE '[]'::jsonb "
-                "    END"
-                "  ) AS reason_tag "
-                "  FROM cryptic_feedback "
-                "  WHERE event_type = 'clue_feedback' AND created_at >= %(start_ts)s"
-                ") reason_rows "
-                "GROUP BY reason_tag "
-                "ORDER BY count DESC, reason_tag ASC "
-                "LIMIT 20",
-                {"start_ts": start_ts},
-            )
-            reason_rows = cur.fetchall()
-
-    return {
-        "windowDays": window_days,
-        "timezone": timezone,
-        "totalFeedback": int(totals_row.get("total_count") or 0),
-        "ratings": {
-            "up": int(totals_row.get("up_count") or 0),
-            "down": int(totals_row.get("down_count") or 0),
-        },
-        "byDate": [
-            {
-                "date": row["day"].isoformat() if row.get("day") else None,
-                "total": int(row.get("total_count") or 0),
-                "up": int(row.get("up_count") or 0),
-                "down": int(row.get("down_count") or 0),
-            }
-            for row in day_rows
-        ],
-        "byClueType": [
-            {
-                "clueType": str(row.get("clue_type") or "unknown"),
-                "total": int(row.get("total_count") or 0),
-                "up": int(row.get("up_count") or 0),
-                "down": int(row.get("down_count") or 0),
-            }
-            for row in type_rows
-        ],
-        "topReasonTags": [
-            {"reason": str(row.get("reason_tag") or ""), "count": int(row.get("count") or 0)}
-            for row in reason_rows
-            if str(row.get("reason_tag") or "")
-        ],
-    }
+    return impl(days=days, timezone=timezone)

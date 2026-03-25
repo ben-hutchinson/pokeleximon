@@ -9,7 +9,7 @@ import re
 from datetime import date as date_type
 from datetime import datetime, timedelta
 from pathlib import Path
-from typing import Any, Literal
+from typing import Any, Literal, TypedDict
 from uuid import uuid4
 from zoneinfo import ZoneInfo
 
@@ -86,6 +86,14 @@ class QualityGateError(RuntimeError):
                 "warnings": list(self.quality_report.get("warnings", [])),
             }
         return detail
+
+
+class GeneratedPuzzleResult(TypedDict):
+    payload: dict[str, Any]
+    candidate: dict[str, Any] | None
+    quality_report: dict[str, Any] | None
+    quality_bypassed: bool
+    quality_attempts_used: int
 
 
 def _resolve_crossword_csv_path() -> Path:
@@ -1650,6 +1658,133 @@ def _mark_generation_job_failed(
     )
 
 
+def _build_generated_puzzle_result(
+    cur,
+    *,
+    game_type: Literal["crossword", "cryptic", "connections"],
+    target_date: date_type,
+    timezone: str,
+    seed_value: int,
+    crossword_lexicon: list[dict[str, Any]] | None = None,
+    cryptic_lexicon: list[dict[str, Any]] | None = None,
+    existing_answers: set[str] | None = None,
+    allow_crossword_fallback: bool = False,
+) -> GeneratedPuzzleResult:
+    candidate: dict[str, Any] | None = None
+    quality_report: dict[str, Any] | None = None
+    quality_bypassed = False
+    quality_attempts_used = 0
+
+    if game_type == "crossword":
+        if crossword_lexicon is None:
+            raise RuntimeError("crossword_lexicon_unavailable")
+        payload, quality_report, quality_bypassed, quality_attempts_used = _build_governed_crossword_puzzle_payload(
+            target_date=target_date,
+            timezone=timezone,
+            lexicon=crossword_lexicon,
+            seed_value=seed_value,
+            allow_fallback=allow_crossword_fallback,
+        )
+    elif game_type == "cryptic":
+        if cryptic_lexicon is None:
+            raise RuntimeError("cryptic_lexicon_unavailable")
+        candidate = _select_cryptic_candidate_for_date(
+            cryptic_lexicon,
+            target_date=target_date,
+            excluded_answers=existing_answers,
+        )
+        if candidate is None:
+            raise RuntimeError("cryptic_candidate_pool_exhausted")
+        if existing_answers is not None:
+            existing_answers.add(str(candidate.get("answer", "")))
+        payload = _build_single_entry_puzzle_payload(
+            game_type=game_type,
+            target_date=target_date,
+            timezone=timezone,
+            answer=candidate["answer"],
+            clue=candidate["clue"],
+            display_name=candidate["display_name"],
+            source_ref=candidate["source_ref"],
+            mechanism=candidate.get("mechanism"),
+            enumeration=candidate.get("enumeration"),
+            wordplay_plan=candidate.get("wordplay_plan"),
+            wordplay_metadata=candidate.get("wordplay_metadata"),
+        )
+    else:
+        payload, quality_report = _build_connections_puzzle_payload(
+            target_date=target_date,
+            timezone=timezone,
+            seed_value=seed_value,
+        )
+
+    return {
+        "payload": payload,
+        "candidate": candidate,
+        "quality_report": quality_report,
+        "quality_bypassed": quality_bypassed,
+        "quality_attempts_used": quality_attempts_used,
+    }
+
+
+def _persist_generated_puzzle(
+    cur,
+    *,
+    game_type: Literal["crossword", "cryptic", "connections"],
+    generated: GeneratedPuzzleResult,
+    target_date: date_type,
+    job_id: str,
+    ignore_conflicts: bool = False,
+) -> tuple[str, str | None, bool]:
+    payload = generated["payload"]
+    insert_sql = (
+        "INSERT INTO puzzles "
+        "(id, date, game_type, title, published_at, timezone, grid, entries, metadata) "
+        "VALUES ("
+        "%(id)s, %(date)s, %(game_type)s, %(title)s, %(published_at)s, %(timezone)s, "
+        "%(grid)s::json, %(entries)s::json, %(metadata)s::json"
+        ")"
+    )
+    if ignore_conflicts:
+        insert_sql += " ON CONFLICT (id) DO NOTHING"
+    cur.execute(insert_sql, payload)
+    inserted = cur.rowcount == 1
+    puzzle_id = str(payload["id"])
+    artifact_ref: str | None = None
+    if not inserted:
+        return puzzle_id, artifact_ref, False
+
+    artifact_ref = write_json_artifact(
+        artifact_type="puzzles",
+        object_id=puzzle_id,
+        payload=_puzzle_payload_for_artifact(
+            payload=payload,
+            game_type=game_type,
+            job_id=job_id,
+        ),
+    )
+
+    if game_type == "cryptic":
+        candidate = generated["candidate"]
+        if candidate is None:
+            raise RuntimeError("cryptic_candidate_unavailable")
+        _insert_cryptic_candidate_rows(
+            cur,
+            job_id=job_id,
+            puzzle_id=puzzle_id,
+            target_date=target_date,
+            source_ref=candidate.get("source_ref", ""),
+            source_type=candidate.get("source_type", ""),
+            answer_key=candidate.get("answer", ""),
+            answer_display=candidate.get("display_name", ""),
+            clue_text=str(candidate.get("clue", "")),
+            mechanism=str(candidate.get("mechanism", "manual") or "manual"),
+            wordplay_plan=str(candidate.get("wordplay_plan", "") or ""),
+            wordplay_metadata=candidate.get("wordplay_metadata", {}),
+        )
+
+    return puzzle_id, artifact_ref, True
+
+
 def top_up_reserve(
     game_type: Literal["crossword", "cryptic", "connections"],
     target_count: int,
@@ -1701,6 +1836,7 @@ def top_up_reserve(
 
                     crossword_lexicon: list[dict[str, Any]] | None = None
                     cryptic_lexicon: list[dict[str, Any]] | None = None
+                    existing_answers: set[str] | None = None
                     if game_type == "cryptic":
                         cur.execute(
                             "SELECT entries->0->>'answer' AS answer "
@@ -1715,20 +1851,29 @@ def top_up_reserve(
 
                     cryptic_shortfall_count = 0
                     for idx, target_date in enumerate(target_dates):
-                        candidate: dict[str, Any] | None = None
-                        if game_type == "crossword":
-                            if crossword_lexicon is None:
-                                raise RuntimeError("crossword_lexicon_unavailable")
-                            payload, quality_report, quality_bypassed, attempts_used = _build_governed_crossword_puzzle_payload(
+                        try:
+                            generated = _build_generated_puzzle_result(
+                                cur,
+                                game_type=game_type,
                                 target_date=target_date,
                                 timezone=timezone,
-                                lexicon=crossword_lexicon,
                                 seed_value=int(target_date.strftime("%Y%m%d")) + idx,
-                                allow_fallback=True,
+                                crossword_lexicon=crossword_lexicon,
+                                cryptic_lexicon=cryptic_lexicon,
+                                existing_answers=existing_answers,
+                                allow_crossword_fallback=True,
                             )
-                            quality_attempts_total += attempts_used
+                        except RuntimeError as exc:
+                            if game_type == "cryptic" and str(exc) == "cryptic_candidate_pool_exhausted":
+                                cryptic_shortfall_count = len(target_dates) - idx
+                                break
+                            raise
+
+                        quality_report = generated["quality_report"] or {}
+                        if game_type == "crossword":
+                            quality_attempts_total += generated["quality_attempts_used"]
                             quality_evaluated_count += 1
-                            if quality_bypassed:
+                            if generated["quality_bypassed"]:
                                 quality_fallbacks.append(
                                     {
                                         "date": target_date.isoformat(),
@@ -1737,77 +1882,19 @@ def top_up_reserve(
                                         "warnings": quality_report.get("warnings", []),
                                     }
                                 )
-                        elif game_type == "cryptic":
-                            if cryptic_lexicon is None:
-                                raise RuntimeError("cryptic_lexicon_unavailable")
-                            candidate = _select_cryptic_candidate_for_date(
-                                cryptic_lexicon,
-                                target_date=target_date,
-                                excluded_answers=existing_answers,
-                            )
-                            if candidate is None:
-                                cryptic_shortfall_count = len(target_dates) - idx
-                                break
-                            existing_answers.add(str(candidate.get("answer", "")))
-                            payload = _build_single_entry_puzzle_payload(
-                                game_type=game_type,
-                                target_date=target_date,
-                                timezone=timezone,
-                                answer=candidate["answer"],
-                                clue=candidate["clue"],
-                                display_name=candidate["display_name"],
-                                source_ref=candidate["source_ref"],
-                                mechanism=candidate.get("mechanism"),
-                                enumeration=candidate.get("enumeration"),
-                                wordplay_plan=candidate.get("wordplay_plan"),
-                                wordplay_metadata=candidate.get("wordplay_metadata"),
-                            )
-                        else:
-                            payload, _ = _build_connections_puzzle_payload(
-                                target_date=target_date,
-                                timezone=timezone,
-                                seed_value=int(target_date.strftime("%Y%m%d")) + idx,
-                            )
-                        cur.execute(
-                            "INSERT INTO puzzles "
-                            "(id, date, game_type, title, published_at, timezone, grid, entries, metadata) "
-                            "VALUES ("
-                            "%(id)s, %(date)s, %(game_type)s, %(title)s, %(published_at)s, %(timezone)s, "
-                            "%(grid)s::json, %(entries)s::json, %(metadata)s::json"
-                            ") "
-                            "ON CONFLICT (id) DO NOTHING",
-                            payload,
+
+                        _, artifact_ref, was_inserted = _persist_generated_puzzle(
+                            cur,
+                            game_type=game_type,
+                            generated=generated,
+                            target_date=target_date,
+                            job_id=job_id,
+                            ignore_conflicts=True,
                         )
-                        if cur.rowcount == 1:
+                        if was_inserted:
                             inserted += 1
-                            artifact_ref = write_json_artifact(
-                                artifact_type="puzzles",
-                                object_id=str(payload["id"]),
-                                payload=_puzzle_payload_for_artifact(
-                                    payload=payload,
-                                    game_type=game_type,
-                                    job_id=job_id,
-                                ),
-                            )
                             if artifact_ref:
                                 puzzle_artifacts.append(artifact_ref)
-                            if game_type == "cryptic":
-                                if candidate is None:
-                                    raise RuntimeError("cryptic_candidate_unavailable")
-                                _insert_cryptic_candidate_rows(
-                                    cur,
-                                    job_id=job_id,
-                                    puzzle_id=payload["id"],
-                                    target_date=target_date,
-                                    source_ref=candidate.get("source_ref", ""),
-                                    source_type=candidate.get("source_type", ""),
-                                    answer_key=candidate.get("answer", ""),
-                                    answer_display=candidate.get("display_name", ""),
-                                    clue_text=str(candidate.get("clue", "")),
-                                    mechanism=str(candidate.get("mechanism", "manual") or "manual"),
-                                    wordplay_plan=str(candidate.get("wordplay_plan", "") or ""),
-                                    wordplay_metadata=candidate.get("wordplay_metadata", {}),
-                                )
 
                 cur.execute(
                     "SELECT COUNT(*) AS reserve_count "
@@ -1991,15 +2078,11 @@ def generate_puzzle_for_date(
                             {"puzzle_ids": stale_ids},
                         )
 
-                candidate: dict[str, Any] | None = None
+                crossword_lexicon: list[dict[str, Any]] | None = None
+                cryptic_lexicon: list[dict[str, Any]] | None = None
+                existing_answers: set[str] | None = None
                 if game_type == "crossword":
                     crossword_lexicon = _load_crossword_csv_lexicon()
-                    payload, quality_report, quality_bypassed, quality_attempts_used = _build_governed_crossword_puzzle_payload(
-                        target_date=target_date,
-                        timezone=timezone,
-                        lexicon=crossword_lexicon,
-                        seed_value=int(target_date.strftime("%Y%m%d")),
-                    )
                 elif game_type == "cryptic":
                     cur.execute(
                         "SELECT entries->0->>'answer' AS answer "
@@ -2009,70 +2092,27 @@ def generate_puzzle_for_date(
                     )
                     existing_answers = {row["answer"] for row in cur.fetchall() if row.get("answer")}
                     cryptic_lexicon = _load_cryptic_lexicon()
-                    candidate = _select_cryptic_candidate_for_date(
-                        cryptic_lexicon,
-                        target_date=target_date,
-                        excluded_answers=existing_answers,
-                    )
-                    if candidate is None:
-                        raise RuntimeError("cryptic_candidate_pool_exhausted")
-                    payload = _build_single_entry_puzzle_payload(
-                        game_type=game_type,
-                        target_date=target_date,
-                        timezone=timezone,
-                        answer=candidate["answer"],
-                        clue=candidate["clue"],
-                        display_name=candidate["display_name"],
-                        source_ref=candidate["source_ref"],
-                        mechanism=candidate.get("mechanism"),
-                        enumeration=candidate.get("enumeration"),
-                        wordplay_plan=candidate.get("wordplay_plan"),
-                        wordplay_metadata=candidate.get("wordplay_metadata"),
-                    )
-                else:
-                    payload, quality_report = _build_connections_puzzle_payload(
-                        target_date=target_date,
-                        timezone=timezone,
-                        seed_value=int(target_date.strftime("%Y%m%d")),
-                    )
 
-                cur.execute(
-                    "INSERT INTO puzzles "
-                    "(id, date, game_type, title, published_at, timezone, grid, entries, metadata) "
-                    "VALUES ("
-                    "%(id)s, %(date)s, %(game_type)s, %(title)s, %(published_at)s, %(timezone)s, "
-                    "%(grid)s::json, %(entries)s::json, %(metadata)s::json"
-                    ")",
-                    payload,
+                generated = _build_generated_puzzle_result(
+                    cur,
+                    game_type=game_type,
+                    target_date=target_date,
+                    timezone=timezone,
+                    seed_value=int(target_date.strftime("%Y%m%d")),
+                    crossword_lexicon=crossword_lexicon,
+                    cryptic_lexicon=cryptic_lexicon,
+                    existing_answers=existing_answers,
                 )
-                generated_puzzle_id = str(payload["id"])
-                generated_artifact_ref = write_json_artifact(
-                    artifact_type="puzzles",
-                    object_id=generated_puzzle_id,
-                    payload=_puzzle_payload_for_artifact(
-                        payload=payload,
-                        game_type=game_type,
-                        job_id=job_id,
-                    ),
+                quality_report = generated["quality_report"]
+                quality_bypassed = generated["quality_bypassed"]
+                quality_attempts_used = generated["quality_attempts_used"]
+                generated_puzzle_id, generated_artifact_ref, _ = _persist_generated_puzzle(
+                    cur,
+                    game_type=game_type,
+                    generated=generated,
+                    target_date=target_date,
+                    job_id=job_id,
                 )
-
-                if game_type == "cryptic":
-                    if candidate is None:
-                        raise RuntimeError("cryptic_candidate_unavailable")
-                    _insert_cryptic_candidate_rows(
-                        cur,
-                        job_id=job_id,
-                        puzzle_id=generated_puzzle_id,
-                        target_date=target_date,
-                        source_ref=candidate.get("source_ref", ""),
-                        source_type=candidate.get("source_type", ""),
-                        answer_key=candidate.get("answer", ""),
-                        answer_display=candidate.get("display_name", ""),
-                        clue_text=str(candidate.get("clue", "")),
-                        mechanism=str(candidate.get("mechanism", "manual") or "manual"),
-                        wordplay_plan=str(candidate.get("wordplay_plan", "") or ""),
-                        wordplay_metadata=candidate.get("wordplay_metadata", {}),
-                    )
 
                 _complete_generation_job(
                     cur,

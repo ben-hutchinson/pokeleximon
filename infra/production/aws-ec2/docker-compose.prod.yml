@@ -172,11 +172,12 @@ services:
     restart: unless-stopped
     env_file:
       - ${POKELEXIMON_SECRETS_DIR:-/opt/pokeleximon/secrets}/monitoring.env
-    command:
+    entrypoint:
       - /bin/sh
       - -ec
+    command:
       - |
-        receiver_name="null"
+        receiver_name="default"
         webhook_block=""
         if [ -n "$${ALERTMANAGER_WEBHOOK_URL:-}" ]; then
           receiver_name="webhook"
@@ -192,7 +193,7 @@ services:
           group_interval: 10m
           repeat_interval: 4h
         receivers:
-          - name: null
+          - name: default
         EOF
         if [ -n "$${webhook_block}" ]; then
           printf "%b" "$${webhook_block}" >> /tmp/alertmanager.yml

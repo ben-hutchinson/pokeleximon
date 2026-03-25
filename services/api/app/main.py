@@ -1,12 +1,9 @@
 from fastapi import FastAPI, Response
-from dotenv import load_dotenv
 
-load_dotenv()
-
+from app import bootstrap  # noqa: F401
 from app.api.v1.router import router as v1_router
-from app.core import config
 from app.api.v1.models import HealthResponse, ReadyResponse
-from app.core import db, cache, scheduler
+from app.core import cache, config, db, scheduler
 from app.core.metrics import PrometheusMiddleware, init_metrics, render_metrics
 from app.core.observability import init_sentry
 from app.core.rate_limit import ApiRateLimitMiddleware
