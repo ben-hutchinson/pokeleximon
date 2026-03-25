@@ -89,6 +89,7 @@ sudo bash infra/production/aws-ec2/bin/create_secrets.sh --root /opt/pokeleximon
 
 5. Edit `/opt/pokeleximon/app/deploy.env` and set:
    - `SITE_HOST`
+   - `SITE_ADDRESS`
    - `AWS_REGION`
    - `BACKUP_S3_URI`
 6. Edit `/opt/pokeleximon/secrets/api.env` and fill any intentionally blank optional values:
@@ -100,6 +101,8 @@ sudo bash infra/production/aws-ec2/bin/create_secrets.sh --root /opt/pokeleximon
 
 Important:
 
+- `SITE_ADDRESS` should include the scheme. Use `https://your-domain.example` for a real domain.
+- For first boot without DNS, you can temporarily use `SITE_HOST=<public-ip>` and `SITE_ADDRESS=http://<public-ip>`.
 - `DATABASE_URL` must continue to use `db` as the hostname.
 - `REDIS_URL` must continue to use `redis` as the hostname.
 - `PUBLISH_ON_STARTUP` stays `false` in production.

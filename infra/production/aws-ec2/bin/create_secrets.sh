@@ -98,6 +98,7 @@ DB_PASSWORD="$(generate_secret)"
 PROXY_USER="admin"
 PROXY_PASSWORD="$(generate_secret)"
 PROXY_PASSWORD_HASH="$(hash_password "${PROXY_PASSWORD}")"
+PROXY_PASSWORD_HASH_ESCAPED="${PROXY_PASSWORD_HASH//$/$$}"
 GRAFANA_USER="admin"
 GRAFANA_PASSWORD="$(generate_secret)"
 
@@ -129,7 +130,7 @@ text = text.replace(
 path.write_text(text)
 PY
 
-python3 - "${PROXY_TMP_FILE}" "${PROXY_USER}" "${PROXY_PASSWORD_HASH}" <<'PY'
+python3 - "${PROXY_TMP_FILE}" "${PROXY_USER}" "${PROXY_PASSWORD_HASH_ESCAPED}" <<'PY'
 from pathlib import Path
 import sys
 

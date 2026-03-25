@@ -86,6 +86,7 @@ install -d -m 0755 "${RELEASES_DIR}" "${ROOT}/bin"
 log "Extracting release ${RELEASE_ID}"
 mkdir -p "${RELEASE_DIR}"
 tar -xzf "${RELEASE_ARCHIVE}" -C "${RELEASE_DIR}"
+find "${RELEASE_DIR}" -name '._*' -delete
 
 for script_name in backup_postgres.sh create_secrets.sh preflight.sh restore_postgres.sh; do
   install -m 0755 \
@@ -150,9 +151,35 @@ fi
 
 if command -v curl >/dev/null 2>&1; then
   log "Verifying same-origin proxy"
-  if curl -fsS -H "Host: ${SITE_HOST:-localhost}" http://127.0.0.1/health/ready >/dev/null 2>&1; then
+  SITE_SCHEME="https"
+  VERIFY_HOST="${SITE_HOST:-localhost}"
+  if [[ -n "${SITE_ADDRESS:-}" ]]; then
+    case "${SITE_ADDRESS}" in
+      http://*)
+        SITE_SCHEME="http"
+        VERIFY_HOST="${SITE_ADDRESS#http://}"
+        ;;
+      https://*)
+        SITE_SCHEME="https"
+        VERIFY_HOST="${SITE_ADDRESS#https://}"
+        ;;
+      *)
+        VERIFY_HOST="${SITE_ADDRESS}"
+        ;;
+    esac
+    VERIFY_HOST="${VERIFY_HOST%%/*}"
+  fi
+
+  if [[ "${SITE_SCHEME}" == "http" ]]; then
+    if curl -fsS -H "Host: ${VERIFY_HOST}" http://127.0.0.1/health/ready >/dev/null 2>&1; then
+      :
+    else
+      printf 'Proxy health check failed\n' >&2
+      exit 1
+    fi
+  elif curl -fsS -H "Host: ${VERIFY_HOST}" http://127.0.0.1/health/ready >/dev/null 2>&1; then
     :
-  elif curl -kfsS --resolve "${SITE_HOST:-localhost}:443:127.0.0.1" "https://${SITE_HOST:-localhost}/health/ready" >/dev/null 2>&1; then
+  elif curl -kfsS --resolve "${VERIFY_HOST}:443:127.0.0.1" "https://${VERIFY_HOST}/health/ready" >/dev/null 2>&1; then
     :
   else
     printf 'Proxy health check failed\n' >&2

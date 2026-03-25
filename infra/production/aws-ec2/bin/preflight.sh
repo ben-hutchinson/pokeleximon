@@ -114,6 +114,7 @@ fi
 if [[ -f "${PROXY_ENV}" ]]; then
   check_mode "${PROXY_ENV}" "600"
   check_no_pattern "${PROXY_ENV}" 'CHANGE_ME_HASHED_ON_SERVER_ONLY' 'proxy password hash generated'
+  check_no_pattern "${PROXY_ENV}" '^PROXY_BASIC_AUTH_PASSWORD_HASH=\$2' 'proxy password hash escaped for compose env parsing'
 fi
 if [[ -f "${MONITORING_ENV}" ]]; then
   check_mode "${MONITORING_ENV}" "600"

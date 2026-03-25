@@ -1,4 +1,4 @@
-{$SITE_HOST:localhost} {
+{$SITE_ADDRESS:https://localhost} {
     encode zstd gzip
 
     header {

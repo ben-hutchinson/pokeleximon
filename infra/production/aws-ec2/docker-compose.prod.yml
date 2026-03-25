@@ -13,6 +13,7 @@ services:
       - ${POKELEXIMON_SECRETS_DIR:-/opt/pokeleximon/secrets}/proxy.env
     environment:
       SITE_HOST: ${SITE_HOST:-localhost}
+      SITE_ADDRESS: ${SITE_ADDRESS:-https://localhost}
     ports:
       - "80:80"
       - "443:443"
@@ -207,7 +208,7 @@ services:
         condition: service_started
     volumes:
       - ${POKELEXIMON_APP_ROOT:-/opt/pokeleximon/app/current}/infra/production/aws-ec2/monitoring/grafana/provisioning:/etc/grafana/provisioning:ro
-      - ${POKELEXIMON_APP_ROOT:-/opt/pokeleximon/app/current}/infra/production/aws-ec2/monitoring/grafana/dashboards:/etc/grafana/provisioning/dashboards/pokeleximon:ro
+      - ${POKELEXIMON_APP_ROOT:-/opt/pokeleximon/app/current}/infra/production/aws-ec2/monitoring/grafana/dashboards:/var/lib/grafana/dashboards/pokeleximon:ro
       - grafana-data:/var/lib/grafana
 
 volumes:

@@ -5,6 +5,7 @@ import sys
 from logging.config import fileConfig
 from pathlib import Path
 
+import sqlalchemy as sa
 from sqlalchemy import engine_from_config, pool
 from alembic import context
 
@@ -20,6 +21,28 @@ if config.config_file_name is not None:
     fileConfig(config.config_file_name)
 
 target_metadata = Base.metadata
+
+
+def ensure_alembic_version_table(connection) -> None:
+    # Newer revision identifiers exceed Alembic's default VARCHAR(32) width.
+    connection.execute(
+        sa.text(
+            """
+            CREATE TABLE IF NOT EXISTS alembic_version (
+                version_num VARCHAR(255) NOT NULL PRIMARY KEY
+            )
+            """
+        )
+    )
+    connection.execute(
+        sa.text(
+            """
+            ALTER TABLE alembic_version
+            ALTER COLUMN version_num TYPE VARCHAR(255)
+            """
+        )
+    )
+    connection.commit()
 
 
 def get_database_url() -> str:
@@ -53,6 +76,7 @@ def run_migrations_online() -> None:
     )
 
     with connectable.connect() as connection:
+        ensure_alembic_version_table(connection)
         context.configure(connection=connection, target_metadata=target_metadata)
 
         with context.begin_transaction():
