@@ -3,7 +3,7 @@
   "answerDisplay": "COVERT CLOAK",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Covert Cloak",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Covert_Cloak",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Pokémon holding a Covert Cloak are unaffected by the additional effects of other Pokémon's damaging moves, including additional effects provided by Poison Touch , Toxic Chain , Stench , King's Rock , and Razor Fang . For example, a Pokémon holding a Covert Cloak cannot be burned by Flamethrower or made to flinch by Fake Out . Covert Cloak has no effect on status moves (such as Thunder Wave or Leech Seed ). It also doesn't prevent additional effects that apply to the user, so for example a Pokémon using Flame Charge will still be able to increase its own Speed even if it hits a target that is holding a Covert Cloak. Notably, as all moves that cause freezing and flinching are attacking moves, Covert Cloak grants effective immunity to these status conditions. Covert Cloak prevents a Pokémon's burn being cured by Sparkling Aria if it is the only target of the attack (even in battles such as Double Battles , as long as there are no other targets of Sparkling Aria); however, if the attack has multiple targets, all targets will be cured on burn even if they are holding a Covert Cloak. This behavior is unique to Sparkling Aria—for example, Covert Cloak prevents a Pokémon from being paralyzed by Discharge regardless of the number of targets. Covert Cloak does not prevent the removal of stat changes by Clear Smog . Covert Cloak does not prevent itself from being removed with Knock Off ."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods S V Montenevera Delibird Presents ( Levincia Branch) S V ID Item Printer Distribution [ edit | edit source ] As a held item [ edit | edit source ] Games Event Language/Region Distribution period S V Marco Silva's Jumpluff All February 21 to 25, 2025"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Covert Cloak",
     "Covert-Cloak (item)"
   ],
-  "updatedAt": 1773321892
+  "updatedAt": 1774524099
 }

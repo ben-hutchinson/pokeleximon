@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4259068,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "If you were looking for the places where Dynamaxing is possible, see Dynamax. Power Spot (Japanese: Power Spot) is an Ability introduced in Generation VIII. It is the signature Ability of Stonjourner.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Stonjourner",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] The power of moves used by the allies of the Pokemon with Power Spot is increased by 30%. Outside of battle [ edit | edit source ] Power Spot has no effect outside of battle.",
@@ -36,17 +41,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "Gen VIII ability",
+        "text": "Stonjourner's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
-    "connections_descriptors": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
+    "connections_descriptors": [
+      "Gen VIII abilities"
+    ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774257996
+  "updatedAt": 1774525987
 }

@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4359113,
   "evidencePassMode": "first_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Chilling Neigh (Japanese: White Neigh) is an Ability introduced during Generation VIII, in The Crown Tundra. It is the signature Ability of Glastrier.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Glastrier",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Chilling Neigh directly causes another Pokemon (including allies) to faint by using a damaging move, its Attack is increased by one stage. If its Attack is already at +6 stages, Chilling Neigh will not activate. Outside of battle [ edit | edit source ] Chilling Neigh has no effect outside of battle.",
@@ -40,6 +45,13 @@
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Glastrier's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
       {
         "text": "Raises Attack after a knockout",
         "evidence_ref": "Effect",
@@ -73,5 +85,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257934
+  "updatedAt": 1774525959
 }

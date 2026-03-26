@@ -3,7 +3,7 @@
   "answerDisplay": "MAX LURE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Max Lure",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Lure",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] When used from the Bag in the overworld, it increases encounter rates of rarer wild Pokémon , including Shiny Pokémon , for 250 steps . It also causes all wild Pokémon spawned to have a level 1 greater than the highest level normally in the area (for example, if an area's wild Pokémon normally range from level 3 to level 5, all wild Pokémon will be level 6 instead)."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods P E Route 12 , Silph Co. , Pokémon Mansion , Cerulean Cave All Poké Marts (after obtaining 6 Badges ) Hidden recurring item ( Underground Path (Kanto Routes 5–6) , Underground Path (Kanto Routes 7–8) )"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Max Lure",
     "Max-Lure (item)"
   ],
-  "updatedAt": 1773324829
+  "updatedAt": 1774524374
 }

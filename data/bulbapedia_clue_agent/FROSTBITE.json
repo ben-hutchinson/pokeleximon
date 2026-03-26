@@ -3,20 +3,15 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4492317,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
       {
         "text": "Gen V ability",
         "evidence_ref": "lead",
         "specificity": 0.48
-      },
-      {
-        "text": "Status redirects here. For the move category, see status move. Status conditions (Japanese: abnormal condition), also referred to as status problems or status ailments, affect a Pokemon's ability to battle. There are two kinds of status conditions, non-volatile which last until healed, and volatile which last while a Pokemon is in battle. Having Pokrus and being fainted are displayed identically to non-volatile status conditions but are not officially considered such.",
-        "evidence_ref": "lead",
-        "specificity": 0.56
       }
     ],
     "crossword_candidates": [
@@ -33,5 +28,5 @@
     "risk_flags": [],
     "confidence": 0.68
   },
-  "updatedAt": 1774257948
+  "updatedAt": 1774525968
 }

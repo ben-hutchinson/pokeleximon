@@ -557,6 +557,107 @@ def _extract_item_facts(
             specificity=0.88,
             hp=int(flat_hp_match.group(1)),
         )
+    typed_boost_match = re.search(
+        r"(?:increases|boosts|strengthens)(?: the power of)?\s+(?:the first\s+)?([a-z-]+)-type move",
+        searchable,
+        re.IGNORECASE,
+    )
+    if typed_boost_match:
+        move_type = _clean_text(typed_boost_match.group(1).title())
+        one_use = "first" in searchable or "only once" in searchable or "consumed after use" in searchable
+        _add_fact(
+            facts,
+            kind="typed_move_boost_item",
+            text=f"Boosts {move_type}-type moves",
+            evidence_ref="Description" if description else "Effect" if effect_section else "lead",
+            specificity=0.86,
+            move_type=move_type,
+            one_use=one_use,
+        )
+        if one_use:
+            _add_fact(
+                facts,
+                kind="one_use_typed_boost_item",
+                text=f"Boosts the first {move_type}-type move",
+                evidence_ref="Description" if description else "Effect" if effect_section else "lead",
+                specificity=0.9,
+                move_type=move_type,
+            )
+    if "decreases the opponent's accuracy" in searchable or "reduces accuracy" in searchable:
+        _add_fact(
+            facts,
+            kind="accuracy_drop_item",
+            text="Lowers the foe's accuracy",
+            evidence_ref="Description" if description else "Effect" if effect_section else "lead",
+            specificity=0.86,
+        )
+    choice_lock_match = re.search(
+        r"boosts the holder'?s\s+([a-z. ]+?),?\s+but\s+(?:only allows|locks?)",
+        searchable,
+        re.IGNORECASE,
+    )
+    if choice_lock_match or "locks it into only using one move" in searchable:
+        stat = _clean_text((choice_lock_match.group(1) if choice_lock_match else "a stat").replace("Sp.", "Special "))
+        _add_fact(
+            facts,
+            kind="choice_lock_item",
+            text=f"Boosts {stat} but locks one move",
+            evidence_ref="Description" if description else "Effect" if effect_section else "lead",
+            specificity=0.9,
+            stat=stat,
+        )
+    if "wild pokemon encounter rate" in searchable or "repels wild pokemon" in searchable:
+        _add_fact(
+            facts,
+            kind="wild_encounter_reduce",
+            text="Repels wild Pokemon",
+            evidence_ref="Description" if description else "Effect" if effect_section else "lead",
+            specificity=0.84,
+        )
+    if (
+        "all non-volatile status conditions" in searchable
+        or "heals all the status problems" in searchable
+        or "cures a pokemon of all non-volatile status conditions" in searchable
+    ):
+        _add_fact(
+            facts,
+            kind="status_cure_all",
+            text="Cures all major status conditions",
+            evidence_ref="Description" if description else "Effect" if effect_section else "lead",
+            specificity=0.88,
+        )
+        if "confusion" in searchable:
+            _add_fact(
+                facts,
+                kind="status_cure_confusion",
+                text="Also cures confusion",
+                evidence_ref="Description" if description else "Effect" if effect_section else "lead",
+                specificity=0.86,
+            )
+    if "prevents the holder from having its stats lowered" in searchable or "protects the holder from having its stats lowered" in searchable:
+        _add_fact(
+            facts,
+            kind="item_stat_drop_protection",
+            text="Stops other Pokemon from lowering the holder's stats",
+            evidence_ref="Description" if description else "Effect" if effect_section else "lead",
+            specificity=0.9,
+        )
+    if "holder becomes infatuated" in searchable and "becomes infatuated as well" in searchable:
+        _add_fact(
+            facts,
+            kind="infatuation_share_item",
+            text="Passes infatuation to the infatuator",
+            evidence_ref="In battle" if "In battle" in searchable else "Effect" if effect_section else "lead",
+            specificity=0.88,
+        )
+    if "five" in searchable and "ivs" in searchable and "inherited" in searchable:
+        _add_fact(
+            facts,
+            kind="breeding_iv_item",
+            text="Passes down five IVs in breeding",
+            evidence_ref="Effect" if effect_section else "lead",
+            specificity=0.9,
+        )
     soil_dry_match = re.search(r"soil to dry out in\s+(\d+)\s+hours", searchable, re.IGNORECASE)
     if soil_dry_match:
         _add_fact(
@@ -746,6 +847,94 @@ def _extract_item_facts(
         _add_fact(facts, kind="ultra_beast_ball", text="Works best on Ultra Beasts", evidence_ref="Description" if description else "lead", specificity=0.9)
     if "0.1" in searchable or "0.1x" in searchable or "for all other pokemon" in searchable:
         _add_fact(facts, kind="niche_capture", text="Poor catch rate on most targets", evidence_ref="Description" if description else "lead", specificity=0.82)
+    if "additional effects of other pokemon's damaging moves" in searchable or "protecting it from the additional effects of moves" in searchable:
+        _add_fact(
+            facts,
+            kind="secondary_effect_block",
+            text="Blocks added effects from damaging moves",
+            evidence_ref="Description" if description else "Effect" if effect_section else "lead",
+            specificity=0.9,
+        )
+    specific_evolution_match = re.search(
+        r"causes\s+([a-z' -]+)\s+to evolve into\s+([a-z' -]+)",
+        searchable,
+        re.IGNORECASE,
+    )
+    if specific_evolution_match:
+        evolves_from = _clean_text(specific_evolution_match.group(1).title())
+        evolves_to = _clean_text(specific_evolution_match.group(2).title())
+        _add_fact(
+            facts,
+            kind="specific_evolution_item",
+            text=f"Evolves {evolves_from} into {evolves_to}",
+            evidence_ref="Effect" if effect_section else "Description" if description else "lead",
+            specificity=0.9,
+            evolves_from=evolves_from,
+            evolves_to=evolves_to,
+        )
+    if "does a spin while" in searchable and "holding it" in searchable:
+        _add_fact(
+            facts,
+            kind="spin_evolution",
+            text="Requires a spin while held",
+            evidence_ref="Effect" if effect_section else "lead",
+            specificity=0.84,
+        )
+    if "berry-shaped sweet" in searchable:
+        _add_fact(
+            facts,
+            kind="sweet_shape",
+            text="Berry-shaped sweet",
+            evidence_ref="Description" if description else "lead",
+            specificity=0.76,
+        )
+    weather_extension_match = re.search(
+        r"extends the duration of ([a-z]+)",
+        searchable,
+        re.IGNORECASE,
+    )
+    if weather_extension_match:
+        weather = _clean_text(weather_extension_match.group(1).title())
+        _add_fact(
+            facts,
+            kind="weather_extension",
+            text=f"Extends {weather}",
+            evidence_ref="Description" if description else "Effect" if effect_section else "lead",
+            specificity=0.86,
+            weather=weather,
+        )
+    if "switches out when hit" in searchable or "switches out if hit" in searchable or "is switched out after taking damage" in searchable:
+        _add_fact(
+            facts,
+            kind="switch_out_on_hit",
+            text="Switches the holder out after a hit",
+            evidence_ref="Description" if description else "Effect" if effect_section else "lead",
+            specificity=0.86,
+        )
+    if "switches out when its stats are lowered" in searchable or "swaps out when its stats are lowered" in searchable:
+        _add_fact(
+            facts,
+            kind="switch_out_on_stat_drop",
+            text="Switches the holder out after stat drops",
+            evidence_ref="Description" if description else "Effect" if effect_section else "lead",
+            specificity=0.86,
+        )
+    if "raises evasiveness" in searchable or "accuracy of moves used against the holder decreases" in searchable:
+        _add_fact(
+            facts,
+            kind="evasion_item",
+            text="Makes the holder harder to hit",
+            evidence_ref="Description" if description else "Effect" if effect_section else "lead",
+            specificity=0.86,
+        )
+    if "fuse" in searchable and ("reshiram" in searchable or "zekrom" in searchable or "kyurem" in searchable):
+        _add_fact(
+            facts,
+            kind="fusion_item",
+            text="Used for Kyurem fusion",
+            evidence_ref="Description" if description else "Effect" if effect_section else "lead",
+            specificity=0.86,
+        )
     signature_z_match = re.search(
         r"allows\s+([a-z' -]+?)\s+to upgrade\s+([a-z' -]+?)\s+into\s+([a-z' -]+?)(?:[.;]|$)",
         searchable,
@@ -1119,6 +1308,17 @@ def _extract_ability_facts(evidence: dict[str, Any] | None, structured_facts: di
         _add_fact(facts, kind="ability_generation", text=f"{generation} ability", evidence_ref="lead", specificity=0.48, generation=generation)
     if lead:
         _add_fact(facts, kind="ability_summary", text=lead, evidence_ref="lead", specificity=0.56, effect=lead)
+        signature_match = re.search(r"signature Ability of ([A-Za-z' -]+)", lead, re.IGNORECASE)
+        if signature_match:
+            holder = _clean_text(signature_match.group(1).title())
+            _add_fact(
+                facts,
+                kind="signature_holder",
+                text=f"Signature Ability of {holder}",
+                evidence_ref="lead",
+                specificity=0.84,
+                holder_species=holder,
+            )
     if description:
         _add_fact(facts, kind="ability_summary", text=description, evidence_ref="Description", specificity=0.64, effect=description)
     if effect_section:
@@ -1130,6 +1330,173 @@ def _extract_ability_facts(evidence: dict[str, Any] | None, structured_facts: di
     searchable = " ".join(part for part in [lead, description, effect_section, in_battle, effect] if part).lower()
     if "sleeping" in searchable and ("damage" in searchable or "bad dreams" in searchable):
         _add_fact(facts, kind="sleep_punish", text="Damages sleeping foes", evidence_ref="Description" if description else "lead", specificity=0.86)
+    if "consumes a berry" in searchable and "restores" in searchable and "hp" in searchable:
+        _add_fact(
+            facts,
+            kind="berry_consume_heal",
+            text="Restores HP after eating a Berry",
+            evidence_ref="Effect" if effect_section else "Description" if description else "lead",
+            specificity=0.88,
+        )
+    if any(token in searchable for token in ("self-destruct", "explosion", "mind blown", "misty explosion")) and "prevent" in searchable:
+        _add_fact(
+            facts,
+            kind="explosion_block",
+            text="Prevents explosion moves",
+            evidence_ref="Effect" if effect_section else "Description" if description else "lead",
+            specificity=0.9,
+        )
+    if "type changes to match that of the move that hit it" in searchable or "types will be changed to the type of the move that it was hit by" in searchable:
+        _add_fact(
+            facts,
+            kind="hit_type_change",
+            text="Changes type to match the move that hit it",
+            evidence_ref="Effect" if effect_section else "Description" if description else "lead",
+            specificity=0.9,
+        )
+    if ("poison - and steel-type pokemon" in searchable or "poison poison - and steel-type pokemon" in searchable or "regardless of type" in searchable) and "poison" in searchable:
+        _add_fact(
+            facts,
+            kind="poison_any_type",
+            text="Lets poison affect Steel and Poison foes",
+            evidence_ref="Effect" if effect_section else "Description" if description else "lead",
+            specificity=0.88,
+        )
+    if "speed of all other pokemon is decreased by one stage" in searchable:
+        _add_fact(
+            facts,
+            kind="global_speed_drop_on_hit",
+            text="Drops everyone else's Speed when hit",
+            evidence_ref="Effect" if effect_section else "lead",
+            specificity=0.88,
+        )
+    if "effect will activate again at the end of the next turn" in searchable and "berry" in searchable:
+        _add_fact(
+            facts,
+            kind="berry_repeat",
+            text="Makes a Berry activate twice",
+            evidence_ref="Effect" if effect_section else "lead",
+            specificity=0.88,
+        )
+    field_aura_match = re.search(
+        r"increases the power of ([a-z-]+)-type attacks .* all pok[eé]mon on the field",
+        searchable,
+        re.IGNORECASE,
+    )
+    if field_aura_match:
+        move_type = _clean_text(field_aura_match.group(1).title())
+        _add_fact(
+            facts,
+            kind="field_type_aura",
+            text=f"Boosts all {move_type}-type attacks on the field",
+            evidence_ref="Effect" if effect_section else "lead",
+            specificity=0.88,
+            move_type=move_type,
+        )
+    if "strong winds is created" in searchable or "unique weather condition called strong winds" in searchable:
+        _add_fact(
+            facts,
+            kind="strong_winds",
+            text="Summons strong winds",
+            evidence_ref="Effect" if effect_section else "lead",
+            specificity=0.88,
+        )
+    if "raises either the attack stat or special attack stat by one stage depending on the foe" in searchable or "depending on the foe's currently lowest defensive stat" in searchable:
+        _add_fact(
+            facts,
+            kind="download_boost",
+            text="Raises Attack or Special Attack based on the foe's defenses",
+            evidence_ref="Effect" if effect_section else "Description" if description else "lead",
+            specificity=0.9,
+        )
+    if "summons rain in battle as soon as" in searchable or ("summons rain" in searchable and "enters the battle" in searchable):
+        _add_fact(
+            facts,
+            kind="rain_summon",
+            text="Summons rain on entry",
+            evidence_ref="Effect" if effect_section else "lead",
+            specificity=0.88,
+        )
+    typed_heal_match = re.search(
+        r"when a pok[eé]mon with .*? is hit by a ([a-z-]+)-type move .*? its hp is restored",
+        searchable,
+        re.IGNORECASE,
+    )
+    if typed_heal_match:
+        move_type = _clean_text(typed_heal_match.group(1).title())
+        _add_fact(
+            facts,
+            kind="typed_heal_immunity",
+            text=f"Heals from {move_type}-type moves",
+            evidence_ref="Effect" if effect_section else "Description" if description else "lead",
+            specificity=0.9,
+            move_type=move_type,
+        )
+    if "halves the sleep duration" in searchable or "awaken more quickly from sleep" in searchable:
+        _add_fact(
+            facts,
+            kind="sleep_halve",
+            text="Halves sleep duration",
+            evidence_ref="Effect" if effect_section else "Description" if description else "lead",
+            specificity=0.86,
+        )
+    typed_absorb_match = re.search(
+        r"immune to ([a-z-]+)-type moves.*?(?:boosts|powers up).+?([a-z-]+)-type moves",
+        searchable,
+        re.IGNORECASE,
+    )
+    if typed_absorb_match:
+        defense_type = _clean_text(typed_absorb_match.group(1).title())
+        boost_type = _clean_text(typed_absorb_match.group(2).title())
+        _add_fact(
+            facts,
+            kind="typed_immunity_power_up",
+            text=f"Absorbs {defense_type} moves to boost {boost_type} attacks",
+            evidence_ref="In battle" if in_battle else "Effect" if effect_section else "lead",
+            specificity=0.92,
+            defense_type=defense_type,
+            boost_type=boost_type,
+        )
+    if "used a berry" in searchable and ("restored at the end of each turn" in searchable or "restored at the end of the turn" in searchable):
+        _add_fact(
+            facts,
+            kind="berry_restore",
+            text="May restore a used Berry",
+            evidence_ref="In battle" if in_battle else "Effect" if effect_section else "lead",
+            specificity=0.88,
+        )
+    if "if it is raining" in searchable and "cure" in searchable and "status condition" in searchable:
+        _add_fact(
+            facts,
+            kind="rain_status_cure",
+            text="Cures status in rain",
+            evidence_ref="In battle" if in_battle else "Effect" if effect_section else "lead",
+            specificity=0.88,
+        )
+    if "reduces the damage that other allied pokemon receive" in searchable:
+        _add_fact(
+            facts,
+            kind="ally_damage_reduce",
+            text="Reduces damage taken by allies",
+            evidence_ref="In battle" if in_battle else "Effect" if effect_section else "lead",
+            specificity=0.9,
+        )
+    if "see the opponent's held item upon entering battle" in searchable or "see the foe's held item upon entering battle" in searchable:
+        _add_fact(
+            facts,
+            kind="foe_item_reveal",
+            text="Reveals the foe's held item on entry",
+            evidence_ref="In battle" if in_battle else "Effect" if effect_section else "lead",
+            specificity=0.9,
+        )
+    if "doubles the weight of the pokemon" in searchable or "weight is doubled" in searchable:
+        _add_fact(
+            facts,
+            kind="weight_double",
+            text="Doubles the user's weight",
+            evidence_ref="In battle" if in_battle else "Effect" if effect_section else "lead",
+            specificity=0.88,
+        )
     if "faints" in searchable and ("remaining hp" in searchable or "had remaining" in searchable):
         _add_fact(facts, kind="faint_recoil", text="Punishes a knockout blow", evidence_ref="lead", specificity=0.88)
     if "contact move" in searchable and ("damage" in searchable or "attacker" in searchable or "counterattacks" in searchable):
@@ -1276,10 +1643,26 @@ def _extract_location_facts(
     source_display_name = _clean_text(str(answer_row.get("sourceDisplayName") or ""))
     lead = _clean_text(str((evidence or {}).get("leadText") or ""))
     page_title = _clean_text(str((evidence or {}).get("pageTitle") or ""))
+    geography = _section_text(evidence, "Geography")
+    places_of_interest = _section_text(evidence, "Places of interest")
+    items_section = _section_text(evidence, "Items")
+    special_encounters = _section_text(evidence, "Special encounters")
+    section_searchable = " ".join(part for part in [geography, places_of_interest, items_section, special_encounters] if part).lower()
     region = str(structured_facts.get("regionDisplay") or structured_facts.get("region") or "")
     if region:
         _add_fact(facts, kind="region", text=f"{region} location", evidence_ref="lead", specificity=0.5, region=region)
     if lead:
+        located_match = re.search(r"located in ([A-Za-z' -]+)", lead, re.IGNORECASE)
+        if located_match:
+            area = _clean_text(located_match.group(1).title())
+            _add_fact(
+                facts,
+                kind="subregion_site",
+                text=f"Located in {area}",
+                evidence_ref="lead",
+                specificity=0.78,
+                area=area,
+            )
         kind_match = re.search(r"\bis (?:an?|the)?\s*([a-z-]+)\b", lead.lower())
         if kind_match:
             kind = kind_match.group(1)
@@ -1436,7 +1819,165 @@ def _extract_location_facts(
                 evidence_ref="lead",
                 specificity=0.78,
             )
+        if "battle frontier" in lead.lower() and "facility" in lead.lower():
+            _add_fact(
+                facts,
+                kind="battle_facility",
+                text="Battle Frontier facility",
+                evidence_ref="lead",
+                specificity=0.84,
+            )
+        frontier_corner_match = re.search(r"located in the ([a-z-]+(?:\s+[a-z-]+)*) corner of the Battle Frontier", lead, re.IGNORECASE)
+        if frontier_corner_match:
+            corner = _clean_text(frontier_corner_match.group(1).title())
+            _add_fact(
+                facts,
+                kind="frontier_corner",
+                text=f"{corner} Battle Frontier site",
+                evidence_ref="lead",
+                specificity=0.84,
+                corner=corner,
+            )
+        if "one of the six wonders of kitakami" in lead.lower():
+            _add_fact(
+                facts,
+                kind="regional_wonder",
+                text="One of the Six Wonders of Kitakami",
+                evidence_ref="lead",
+                specificity=0.9,
+            )
+        if "apple orchard" in lead.lower():
+            _add_fact(
+                facts,
+                kind="orchard_site",
+                text="Apple orchard",
+                evidence_ref="lead",
+                specificity=0.86,
+            )
+        summit_pool_match = re.search(r"pool located at ([A-Za-z' -]+) summit", lead, re.IGNORECASE)
+        if summit_pool_match:
+            summit = _clean_text(summit_pool_match.group(1).title())
+            _add_fact(
+                facts,
+                kind="summit_pool",
+                text=f"Pool at {summit} summit",
+                evidence_ref="lead",
+                specificity=0.88,
+                summit=summit,
+            )
+        if "battle each other" in lead.lower() and "survival area" in lead.lower():
+            _add_fact(
+                facts,
+                kind="battle_venue",
+                text="Battle venue in the Survival Area",
+                evidence_ref="lead",
+                specificity=0.88,
+            )
+        if "part of the wild area" in lead.lower():
+            _add_fact(
+                facts,
+                kind="wild_area_zone",
+                text="Part of the Wild Area",
+                evidence_ref="lead",
+                specificity=0.82,
+            )
+        if "large lake" in lead.lower():
+            _add_fact(
+                facts,
+                kind="large_lake",
+                text="Large regional lake",
+                evidence_ref="lead",
+                specificity=0.82,
+            )
+        contained_match = re.search(r"contained within it is the ([A-Za-z' -]+)", lead, re.IGNORECASE)
+        if contained_match:
+            subarea = _clean_text(contained_match.group(1).title())
+            _add_fact(
+                facts,
+                kind="contains_subarea",
+                text=f"Contains {subarea}",
+                evidence_ref="lead",
+                specificity=0.84,
+                subarea=subarea,
+            )
+        if "giant tree named dyna tree" in lead.lower() or "infused with dynamax energy" in lead.lower():
+            _add_fact(
+                facts,
+                kind="dynamax_tree",
+                text="Site of the Dyna Tree",
+                evidence_ref="Geography" if _section_text(evidence, "Geography") else "lead",
+                specificity=0.88,
+            )
+        if "crimson mirelands" in lead.lower():
+            _add_fact(
+                facts,
+                kind="hisui_subregion_site",
+                text="Crimson Mirelands area",
+                evidence_ref="lead",
+                specificity=0.82,
+                area="Crimson Mirelands",
+            )
+        if "mt. chimney" in lead.lower() or "mt chimney" in lead.lower():
+            _add_fact(
+                facts,
+                kind="mountain_site",
+                text="Site on Mt. Chimney",
+                evidence_ref="lead",
+                specificity=0.84,
+                mountain="Mt. Chimney",
+            )
+        if "where pokemon contests" in lead.lower():
+            _add_fact(
+                facts,
+                kind="contest_venue",
+                text="Building where Pokemon Contests are held",
+                evidence_ref="lead",
+                specificity=0.86,
+            )
+        if "workplace of pokemon contest judges and announcers" in lead.lower():
+            _add_fact(
+                facts,
+                kind="contest_workplace",
+                text="Workplace of Pokemon Contest judges",
+                evidence_ref="lead",
+                specificity=0.86,
+            )
     titleish = " ".join(part for part in [answer_display, source_display_name, page_title] if part).lower()
+    if "dyna tree" in section_searchable and "dynamax energy" in section_searchable:
+        _add_fact(
+            facts,
+            kind="dynamax_tree",
+            text="Site of the Dyna Tree",
+            evidence_ref="Geography" if geography else "lead",
+            specificity=0.9,
+        )
+    if "dna splicers" in section_searchable:
+        _add_fact(
+            facts,
+            kind="dna_splicers_site",
+            text="Hidden location of the DNA Splicers",
+            evidence_ref="Items" if items_section else "lead",
+            specificity=0.9,
+        )
+    if "socarrat trail" in section_searchable and "contained within it is the socarrat trail" not in lead.lower():
+        _add_fact(
+            facts,
+            kind="contains_subarea",
+            text="Contains Socarrat Trail",
+            evidence_ref="Places of interest" if places_of_interest else "lead",
+            specificity=0.86,
+            subarea="Socarrat Trail",
+        )
+    for keyword in ("gate", "meadow", "plaza", "biome", "pool", "pass", "slope", "shrine", "orchard"):
+        if f" {keyword}" in f" {titleish} ":
+            _add_fact(
+                facts,
+                kind="location_kind",
+                text=f"{keyword} landmark",
+                evidence_ref="title",
+                specificity=0.68,
+                location_kind=keyword,
+            )
     if " mine" in f" {titleish} ":
         _add_fact(facts, kind="location_kind", text="mine landmark", evidence_ref="title", specificity=0.68, location_kind="mine")
     if "cafe" in titleish:
@@ -1445,6 +1986,17 @@ def _extract_location_facts(
         _add_fact(facts, kind="location_kind", text="villa landmark", evidence_ref="title", specificity=0.68, location_kind="villa")
     if titleish.startswith("roaming ") or "(roaming)" in titleish:
         _add_fact(facts, kind="roaming_zone", text="Regional roaming area", evidence_ref="title", specificity=0.72)
+    battle_facility_match = re.search(r"battle\s+([a-z]+)", titleish)
+    if battle_facility_match:
+        facility_name = _clean_text(battle_facility_match.group(1).title())
+        _add_fact(
+            facts,
+            kind="battle_facility",
+            text=f"Battle {facility_name}",
+            evidence_ref="title",
+            specificity=0.8,
+            facility_name=facility_name,
+        )
     return facts
 
 

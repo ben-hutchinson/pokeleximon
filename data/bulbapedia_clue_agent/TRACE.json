@@ -3,20 +3,15 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4301236,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
       {
         "text": "Gen III ability",
         "evidence_ref": "lead",
         "specificity": 0.48
-      },
-      {
-        "text": "Trace () has several referrals: For the rival character from Pokemon: Let's Go, Pikachu! and Let's Go, Eevee!, see Trace (game) For the Ability introduced in Generation III, see Trace (Ability) For the Pokemon the Series character sometimes referred to by this nickname, see Tracey Sketchit",
-        "evidence_ref": "lead",
-        "specificity": 0.56
       },
       {
         "text": "Copies an opponent's ability upon entering battle.",
@@ -38,5 +33,5 @@
     "risk_flags": [],
     "confidence": 0.68
   },
-  "updatedAt": 1774258027
+  "updatedAt": 1774526001
 }

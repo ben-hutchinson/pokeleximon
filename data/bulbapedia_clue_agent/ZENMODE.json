@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4491661,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Zen Mode (Japanese: Daruma Mode) is an Ability introduced in Generation V. It is the signature Ability of Darmanitan and one of the signature Abilities of Galarian Darmanitan.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Darmanitan And One Of The Signature Abilities Of Galarian Darmanitan",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generations V to VI 1.1.2 Generation VII onward 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] If a Darmanitan has this Ability, it is able to change forms in battle, based on its HP . Each form has its own types , base stats , EV yield , height , and weight . This Ability has no effect on any other Pokemon, even one that transforms into Darmanitan. At the end of a turn, if the HP of a Standard Mode Darmanitan with the Ability Zen Mode is 50% HP or less, it will change into its Zen Mode. At the end of a turn, if the HP of a Zen Mode Darmanitan with the Ability Zen Mode is above half, it will change into its Standard Mode. Darmanitan is always in Standard Mode outside of battle. A Zen Mode Darmanitan will change back to Standard Mode when switched out. In Standard Mode, Unovan Darmanitan is Fire-type and Galarian Darmanitan is Ice-type ; in Zen Mode, Unovan Darmanitan is dual-type Fire / Psychic and Galarian Darmanitan is dual-type Ice / Fire . Generations V to VI [ edit | edit source ] If Darmanitan loses Zen Mode or Zen Mode is suppressed with Gastro Acid , it will revert to its Standard Mode and not be able to change form. If Darmanitan gains Zen Mode, at the end of the turn it will change form if its HP is below half. Role Play fails if the target has Zen Mode. Entrainment fails if the user has Zen Mode. Zen Mode cannot be copied by Trace . Generation VII onward [ edit | edit source ] Gastro Acid , Worry Seed , and Simple Beam fail if the target has Zen Mode. Role Play , Skill Swap , Entrainment , and Doodle fail if either Pokemon has Zen Mode. Zen Mode cannot be copied by Trace , Power of Alchemy , or Receiver , replaced by Mummy or Lingering Aroma , suppressed by Core Enforcer or Neutralizing Gas , or traded by Wandering Spirit . Outside of battle [ edit | edit source ] Zen Mode has no effect outside of battle.",
@@ -36,33 +41,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "switching ability",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "switching ability",
-        "evidence_ref": "In battle",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "Gen V ability",
+        "text": "Darmanitan And One Of The Signature Abilities Of Galarian Darmanitan's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
     "connections_descriptors": [
-      "Switching abilities"
+      "Gen V abilities"
     ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774258037
+  "updatedAt": 1774526006
 }

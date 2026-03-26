@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4407486,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Heatproof (Japanese: Heatproof) is an Ability introduced in Generation IV. Prior to Generation VIII, it was the signature Ability of Bronzor and Bronzong.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Bronzor And Bronzong",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD T D S Halves the damage the Pokemon suffers from Fire-type attacks. B S L MD GtI Unavailable S MD The Pokemon takes less damage from Fire-type moves!",
@@ -46,6 +51,13 @@
         "mystery_score": 0.56,
         "specificity_score": 0.66,
         "style": "effect"
+      },
+      {
+        "text": "Bronzor And Bronzong's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
     "cryptic_definition_seeds": [
@@ -58,5 +70,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257954
+  "updatedAt": 1774525972
 }

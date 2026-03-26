@@ -3,7 +3,7 @@
   "answerDisplay": "UNKNOWN",
   "sourceType": "type",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Unknown",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Unknown",
@@ -17,5 +17,5 @@
     "Unknown (type)",
     "Unknown type"
   ],
-  "updatedAt": 1773328191
+  "updatedAt": 1774524844
 }

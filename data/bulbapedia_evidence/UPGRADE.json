@@ -3,7 +3,7 @@
   "answerDisplay": "UP GRADE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Upgrade",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Upgrade",
@@ -20,12 +20,20 @@
       "text": "Effect [ edit | edit source ] If the player offers both a Link Cable and Upgrade at Luminous Cave or Luminous Spring , Porygon can be evolved into Porygon2 . This consumes the Link Cable and Upgrade. If thrown, it will deal 1 damage (2 if sticky ). Using this item in a dungeon will consume it, with no effect."
     },
     {
-      "title": "Description",
-      "text": "Description [ edit | edit source ] Games Description G S C A mysterious box made by Silph Co. R S E Colo XD A peculiar box made by Silph Co. FR LG A transparent device filled with all sorts of data. It is made by Silph Co. D P Pt HG SS B W B2 W2 A transparent device filled with all sorts of data. It was produced by Silph Co. X Y OR AS S M US UM P E Sw Sh BD SP S V A transparent device somehow filled with all sorts of data. It was produced by Silph Co. LA ZA A transparent device somehow filled with all sorts of data. It's loved by a certain Pokémon."
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods G S C Silph Co. R S E Trade FR LG Rocket Warehouse , Trainer Tower (prize for defeating Single Mode) Colo Trade XD Trade D P Pt Eterna City , Route 224 Pt , Team Galactic Eterna Building Pt HG SS Silph Co. PBR Shop (9600 Poké Coupons , after completing Sunny Park Colosseum ) B W Route 15 Route 13 (treasure hunter) B2 W2 Pinwheel Forest , Striaton City Black City (Store 3), Join Avenue ( Antique Shop ), Funfest Mission ( Not-Found Lost Items! ) W2 X Y OR AS Battle Maison (32 BP ) PMC * Balloon Popping (Lv. 1) S M US UM Aether House Battle Tree (32 BP ) Sw Sh IA Training Lowlands Cram-o-matic ( Electric : 72-80 points) BD SP Eterna City Battle Park (5 BP ) LA Trading post (1,000 MP ) Ginkgo Guild cart (randomly sold by Ginter , as \"Mysterious Box\") Space-time distortions S V ID Reward for registering 100 Pokémon in the Blueberry Pokédex Blueberry Academy School Store (250 BP ) Item Printer ZA MD Destroy Floating Poké Balls in hyperspace wild zones with Item Power: Special Distribution [ edit | edit source ] Games Event Language/Region Distribution period PW Pokéwalker Spot items Korean January 7 to 31, 2011"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods MD R B Wish Cave (Kecleon Shop: 88F, 93F) MD T D S Treasure Boxes , Job requests (★3-★9) Happy Outlook (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F), Mt. Mistral (Kecleon Shop: 3F, 5F, 7F, 9F, 11F, 13F, 15F, 17F, 19F), Shimmer Hill (Kecleon Shop: 2F, 4F, 6F, 8F, 10F, 12F, 14F, 16F), Lost Wilderness (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F)"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Starting at level 10, Upgrades can be rarely obtained from Spinning PokéStops or Gyms Opening a Gift While normally rare, from March 21, 2017 onward, the player is guaranteed to find an Evolution item when obtaining the bonus for spinning a Photo Disc for the seventh day in a row. Additionally, the player receives an Upgrade when completing part 5 of the Special Research \"A Ripple in Time\"."
     },
     {
       "title": "Description",
-      "text": "Description [ edit | edit source ] Games Description MD R B It enables a certain kind of Pokémon to evolve. Give it to the Pokémon when it's ready to evolve. MD T D S A mysterious device filled with all sorts of data. It allows a certain kind of Pokémon to evolve."
+      "text": "Description [ edit | edit source ] Games Description G S C A mysterious box made by Silph Co. R S E Colo XD A peculiar box made by Silph Co. FR LG A transparent device filled with all sorts of data. It is made by Silph Co. D P Pt HG SS B W B2 W2 A transparent device filled with all sorts of data. It was produced by Silph Co. X Y OR AS S M US UM P E Sw Sh BD SP S V A transparent device somehow filled with all sorts of data. It was produced by Silph Co. LA ZA A transparent device somehow filled with all sorts of data. It's loved by a certain Pokémon."
     }
   ],
   "familyPages": [],
@@ -34,5 +42,5 @@
     "Up Grade",
     "Up-Grade (item)"
   ],
-  "updatedAt": 1773328201
+  "updatedAt": 1774524849
 }

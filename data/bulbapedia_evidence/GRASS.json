@@ -3,7 +3,7 @@
   "answerDisplay": "GRASS",
   "sourceType": "type",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Grass",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Grass",
@@ -17,5 +17,5 @@
     "Grass (type)",
     "Grass type"
   ],
-  "updatedAt": 1773323333
+  "updatedAt": 1774524244
 }

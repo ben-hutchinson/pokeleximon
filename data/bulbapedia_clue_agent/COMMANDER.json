@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4512535,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "If you were looking for the Trainer class, see Commander (Trainer class). Commander (Japanese: Commander) is an Ability introduced in Generation IX. It is the signature Ability of Tatsugiri.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Tatsugiri",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Contents 1 Effect 1.1 In battle 1.1.1 Pokemon Legends: Z-A 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] When a Tatsugiri with Commander is on the same side of the field as a Dondozo , it will enter the Dondozo's mouth and the Dondozo will have its Attack , Defense , Special Attack , Special Defense , and Speed raised by two stages each. While Tatsugiri is inside Dondozo's mouth, the latter will be unable to switch out (even if Tatsugiri faints) and cannot be forced out . A held Red Card can still be consumed, but will have no effect. The Trainer will not be able to select moves for Tatsugiri, and any opponent's moves (even if it has No Guard ) will miss if Tatsugiri is targeted. Tatsugiri will continue to take damage from sandstorms , as well as status conditions (such as poison ) if it has already gained one prior to entering Dondozo's mouth, and the effect of Perish Song will continue normally. If Dondozo is switched in when Tatsugiri is already on the field, Commander will immediately activate and cancel Tatsugiri's selected move; any moves targeting Tatsugiri that turn will also miss. When Dondozo faints , Tatsugiri returns to its normal position in battle. Commander will not reactivate if Tatsugiri faints and is replaced with another Tatsugiri with Commander; however, Commander can reactivate if Dondozo is revived after fainting. The move Order Up will give Dondozo a stat boost when used, based on the form of Tatsugiri inside its mouth: Curly Form Tatsugiri increases Attack by one stage. Droopy Form Tatsugiri increases Defense by one stage. Stretchy Form Tatsugiri increases Speed by one stage. Commander does not activate in Multi Battles and Tera Raid Battles . Gastro Acid and Worry Seed fail if the target has the Ability Commander. Role Play , Skill Swap , Entrainment , and Doodle fail if either Pokemon has Commander. Commander cannot be copied by Trace , Power of Alchemy , or Receiver . It can however be replaced by Simple Beam . Commander cannot be replaced by Lingering Aroma . Imposter can successfully Transform into a Tatsugiri in Dondozo's mouth. If Dondozo has the ability Contrary , all stats will be lowered instead of raised. Pokemon Legends: Z-A [ edit | edit source ] In Pokemon Legends: Z-A , Abilities do not occur in normal gameplay. However, if Dondozo enters battle while a Tatsugiri that is not Mega-Evolved or fainted is also in the party, Tatsugiri will enter Dondozo's mouth, increasing all of Dondozo's stats and preventing it from being recalled until it is no longer in battle. If multiple valid Tatsugiri are in the party, Dondozo will swallow the leftmost one in party order. Outside of battle [ edit | edit source ] Commander has no effect outside of battle.",
@@ -45,6 +50,13 @@
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Tatsugiri's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
       {
         "text": "Powers up Dondozo from inside",
         "evidence_ref": "Effect",
@@ -78,5 +90,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257936
+  "updatedAt": 1774525960
 }

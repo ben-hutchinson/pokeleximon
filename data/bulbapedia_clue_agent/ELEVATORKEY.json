@@ -3,25 +3,15 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4429738,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
-      {
-        "text": "Gen VI item",
-        "evidence_ref": "lead",
-        "specificity": 0.48
-      },
       {
         "text": "plot advancement",
         "evidence_ref": "lead",
         "specificity": 0.62
-      },
-      {
-        "text": "Gen VI plot advancement",
-        "evidence_ref": "lead",
-        "specificity": 0.54
       },
       {
         "text": "Unlocks the elevator in Lysandre Labs.",
@@ -35,7 +25,7 @@
       },
       {
         "text": "Unlocks progression content",
-        "evidence_ref": "Description",
+        "evidence_ref": "lead",
         "specificity": 0.8
       }
     ],
@@ -56,14 +46,14 @@
       },
       {
         "text": "Unlocks progression content",
-        "evidence_ref": "Description",
+        "evidence_ref": "lead",
         "mystery_score": 0.68,
         "specificity_score": 0.82,
         "style": "effect"
       },
       {
         "text": "Progress-gating key item",
-        "evidence_ref": "Description",
+        "evidence_ref": "lead",
         "mystery_score": 0.64,
         "specificity_score": 0.8,
         "style": "effect"
@@ -87,11 +77,10 @@
       "unlocking item"
     ],
     "connections_descriptors": [
-      "Key items",
-      "Gen VI items"
+      "Key items"
     ],
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257943
+  "updatedAt": 1774525965
 }

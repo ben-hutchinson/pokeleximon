@@ -3,12 +3,12 @@
   "answerDisplay": "FAIRY LOCK",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Fairy Lock (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fairy_Lock_(move)",
   "pageId": 185074,
-  "pageRevisionId": 4500866,
+  "pageRevisionId": 4511425,
   "leadText": "Fairy Lock (Japanese: フェアリーロック Fairy Lock) is a non-damaging Fairy-type move introduced in Generation VI. It is the signature move of Klefki.",
   "sections": [
     {
@@ -30,5 +30,5 @@
     "Fairy Lock",
     "Fairy-Lock (move)"
   ],
-  "updatedAt": 1773322694
+  "updatedAt": 1774524182
 }

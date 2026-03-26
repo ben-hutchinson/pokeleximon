@@ -3,7 +3,7 @@
   "answerDisplay": "TERMINUS CAVE",
   "sourceType": "location",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Terminus Cave",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Terminus_Cave",
@@ -12,8 +12,12 @@
   "leadText": "Terminus Cave (Japanese: 終の洞窟 Terminus Cave) is a cave in eastern Kalos on Route 18. It is the location of the Legendary Pokémon Zygarde in Pokémon X and Y. Although the player can enter the cave as soon as they reach Route 18, they are not allowed to enter Zygarde's chamber until after entering the Hall of Fame, due to an Ace Trainer who is blocking the way.",
   "sections": [
     {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] In Alola , the layout of Resolution Cave 's B1F is identical to Zygarde's chamber's layout in Terminus Cave. In addition, four orb-like items can be found in both caves, with one of them being a hidden Big Nugget . A possible translation for Terminus Cave's Japanese name is \"End Cave\", Resolution Cave's Japanese name. The official Pokémon X and Y guidebook marks the rooms as going downwards (1F, B1F, B2F), but the postgame guide marks the same rooms as going upwards (1F, 2F, 3F)."
+      "title": "Items",
+      "text": "Contents 1 Items 1.1 Small chamber one 1.2 Small chamber two 1.3 B1F (main) 1.4 B2F 1.5 B1F (east) 1.6 Zygarde's chamber (1F) 1.7 Rock Smash 1.8 Natural objects Items [ edit | edit source ] Small chamber one [ edit | edit source ] This chamber is accessible via the entrance at the base of the elevated tracks on Route 18 . Rock Smash is required to reach the entrance. Item Location Games Normal Gem On the stalagmite at the back of the chamber (hidden, reappears occasionally) X Y Dragon Scale In the middle of the chamber X Y Small chamber two [ edit | edit source ] This chamber is accessible via the entrance at the end of the east branch of the elevated tracks on Route 18. Item Location Games TM31 ( Brick Break ) In the back of the chamber X Y B1F (main) [ edit | edit source ] Item Location Games Star Piece At the end of the narrow bridge, on the east branch of the first fork in the path (requires Rock Smash ) X Y Dusk Ball On the small rock just past and southwest of the two ledges on the west branch of the first fork in the path (hidden) X Y Hyper Potion On the stalagmite northwest of the bridge that crosses the west branch of the first fork in the path (hidden) X Y Escape Rope West of the two ledges south of the bridge that Hiker Aaron is walking on X Y Heat Rock In the southwestern-most corner (requires Rock Smash ) X Y Moon Stone In the far north at the end of a narrow path on the east side of the cave, on the north wall (requires Rock Smash ) (hidden) X Y B2F [ edit | edit source ] Item Location Games Iron On a stalagmite on the west side of the cave, just west of the maze-like area north of the entrance from B1F (hidden) X Y Dusk Stone In the far west, west from the maze-like area north of the entrance from B1F X Y X Attack In the northwestern-most corner, past Black Belt Gunnar who is due north of the entrance from B1F X Y Elixir In the far north, after sliding down the east slope northeast of Black Belt Gunnar who is due north of the entrance from B1F (requires Rock Smash ) X Y Full Heal In the far east, east of Black Belt Gunnar who is due north of the entrance from B1F X Y TM30 ( Shadow Ball ) By the mine cart in the pit area in the middle of the cave (requires Rock Smash ) X Y Max Potion Southeast of TM30 ( Shadow Ball ) at the corner of the pit one tier above the mine cart (requires Rock Smash ) (hidden) X Y Dire Hit On the stalagmite behind Pokémon Ranger Lee, southeast of the pit area (hidden) X Y Iron Plate East of the entrance from B1F, via the path around the pit in the middle of the cave X Y B1F (east) [ edit | edit source ] Item Location Games Max Repel On the stalagmite in the northeast (hidden) X Y Reaper Cloth Between the two ledges on the east side X Y Zygarde's chamber (1F) [ edit | edit source ] Item Location Games Griseous Orb Down the northwest path of the chamber X Y Lustrous Orb Down the southeast path of the chamber X Y Adamant Orb Down the southwest path of the chamber X Y Big Nugget Down the northeast path of the chamber, in the middle of the grassy area (hidden) X Y Rock Smash [ edit | edit source ] Item Location Games Big Pearl Randomly found by smashing breakable rocks X Y Ether Randomly found by smashing breakable rocks X Y Hard Stone Randomly found by smashing breakable rocks X Y Heart Scale Randomly found by smashing breakable rocks X Y Max Ether Randomly found by smashing breakable rocks X Y Max Revive Randomly found by smashing breakable rocks X Y Pearl Randomly found by smashing breakable rocks X Y Revive Randomly found by smashing breakable rocks X Y Soft Sand Randomly found by smashing breakable rocks X Y Star Piece Randomly found by smashing breakable rocks X Y Natural objects [ edit | edit source ] Item Location Games Hard Stone Randomly found by using Hyper Voice or Rock Slide on a spiky rock during a battle X Y Float Stone Randomly found by using Hyper Voice or Rock Slide on a spiky rock during a battle X Y Damp Rock Found by using Muddy Water , Surf , or Water Spout on a thin rock during a battle X Y"
+    },
+    {
+      "title": "Small chamber one",
+      "text": "Small chamber one [ edit | edit source ] This chamber is accessible via the entrance at the base of the elevated tracks on Route 18 . Rock Smash is required to reach the entrance. Item Location Games Normal Gem On the stalagmite at the back of the chamber (hidden, reappears occasionally) X Y Dragon Scale In the middle of the chamber X Y"
     }
   ],
   "familyPages": [],
@@ -22,5 +26,5 @@
     "Terminus Cave",
     "Terminus-Cave (location)"
   ],
-  "updatedAt": 1773327894
+  "updatedAt": 1774524810
 }

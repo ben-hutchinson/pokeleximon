@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4512575,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Fluffy (Japanese: Fluffy) is an Ability introduced in Generation VII. Prior to Generation VIII, it was the signature Ability of Stufful and Bewear, and in Generation IX, it is the signature Ability of Greavard and Houndstone.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Stufful And Bewear",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] A Pokemon with Fluffy takes half damage from moves that make contact . It also takes double damage from Fire-type moves. Fire-type moves that make contact will deal regular damage. Moves affected by Long Reach which make contact will deal regular damage. Outside of battle [ edit | edit source ] Fluffy has no effect outside of battle.",
@@ -40,6 +45,13 @@
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Stufful And Bewear's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
       {
         "text": "Punishes contact attackers",
         "evidence_ref": "lead",
@@ -73,5 +85,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257947
+  "updatedAt": 1774525967
 }

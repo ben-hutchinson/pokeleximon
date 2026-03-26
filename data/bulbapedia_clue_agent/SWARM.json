@@ -3,20 +3,15 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4301232,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
       {
         "text": "Gen III ability",
         "evidence_ref": "lead",
         "specificity": 0.48
-      },
-      {
-        "text": "Swarm has several referrals: Swarm (Ability), an Ability introduced in Generation III. Mass outbreak, also known as a swarm, a method of encountering Pokemon that would normally not appear in that area, or that are usually uncommon there. For the skill in Pokemon Shuffle, see Skill (Shuffle) Swarm.",
-        "evidence_ref": "lead",
-        "specificity": 0.56
       },
       {
         "text": "Strengthens bug moves to inflict 1.5 damage at 1/3 max HP or less.",
@@ -38,5 +33,5 @@
     "risk_flags": [],
     "confidence": 0.68
   },
-  "updatedAt": 1774258021
+  "updatedAt": 1774525999
 }

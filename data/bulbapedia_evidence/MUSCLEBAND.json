@@ -3,7 +3,7 @@
   "answerDisplay": "MUSCLE BAND",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Muscle Band",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Muscle_Band",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Boosts the power of the holder's physical moves by 10% (approximated as a multiplier of 4505/4096 from Generation V to Pokémon Scarlet and Violet )."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Battle Park D P / Frontier Pt (48 BP ) HG SS Purchased by the player 's Mom Battle Frontier (48 BP ) B W Event Battle Subway (48 BP ) B2 W2 Battle Subway / PWT (8 BP ) X Y OR AS Battle Maison (48 BP ) S M US UM Konikoni City S M , Route 10 US UM Battle Royal Dome (48 BP ) Sw Sh Hammerlocke Sw Sh IA Challenge Road Cram-o-matic ( Fighting : 32-40 points) BD SP Battle Park (48 BP ) S V Cascarrafa Delibird Presents ( Mesagoza Branch) ZA Reward for completing Side Mission 061: We'll Just Muscle Our Way Through! Racine Construction Distribution [ edit | edit source ] Games Event Language/Region Distribution period S V Summer training support sets Japan July 22 to September 30, 2023 As a held item [ edit | edit source ] Games Event Language/Region Distribution period B W Ash's Scraggy Japanese January 28 to February 10, 2011 Ash's Scraggy Korean June 28 to July 17, 2011 Pokémon Center Tohoku Snivy Japanese December 4 to 18, 2011"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Muscle Band",
     "Muscle-Band (item)"
   ],
-  "updatedAt": 1773325251
+  "updatedAt": 1774524401
 }

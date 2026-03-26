@@ -3,25 +3,15 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4282036,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
-      {
-        "text": "Gen V item",
-        "evidence_ref": "lead",
-        "specificity": 0.48
-      },
       {
         "text": "miracle shooter",
         "evidence_ref": "lead",
         "specificity": 0.62
-      },
-      {
-        "text": "Gen V miracle shooter",
-        "evidence_ref": "lead",
-        "specificity": 0.54
       },
       {
         "text": "Forcibly activates a friendly Pokemons ability.",
@@ -37,33 +27,9 @@
         "text": "Forcibly triggers an ally's Ability",
         "evidence_ref": "lead",
         "specificity": 0.88
-      },
-      {
-        "text": "Restores HP in a pinch",
-        "evidence_ref": "lead",
-        "specificity": 0.84
-      },
-      {
-        "text": "Boosts A Pokemon Currently In Battle By's stats",
-        "evidence_ref": "lead",
-        "specificity": 0.9
       }
     ],
     "crossword_candidates": [
-      {
-        "text": "Pinch-healing berry",
-        "evidence_ref": "lead",
-        "mystery_score": 0.74,
-        "specificity_score": 0.88,
-        "style": "effect"
-      },
-      {
-        "text": "Half-HP recovery berry",
-        "evidence_ref": "lead",
-        "mystery_score": 0.7,
-        "specificity_score": 0.84,
-        "style": "effect"
-      },
       {
         "text": "Miracle Shooter item",
         "evidence_ref": "lead",
@@ -105,40 +71,16 @@
         "mystery_score": 0.64,
         "specificity_score": 0.8,
         "style": "effect"
-      },
-      {
-        "text": "A Pokemon Currently In Battle By Attack boost item",
-        "evidence_ref": "lead",
-        "mystery_score": 0.8,
-        "specificity_score": 0.9,
-        "style": "effect"
-      },
-      {
-        "text": "Power item for A Pokemon Currently In Battle By",
-        "evidence_ref": "lead",
-        "mystery_score": 0.74,
-        "specificity_score": 0.86,
-        "style": "effect"
-      },
-      {
-        "text": "A Pokemon Currently In Battle By-only held item",
-        "evidence_ref": "lead",
-        "mystery_score": 0.72,
-        "specificity_score": 0.84,
-        "style": "effect"
       }
     ],
     "cryptic_definition_seeds": [
-      "healing berry",
-      "ally ability trigger",
-      "a pokemon currently in battle by item"
+      "ally ability trigger"
     ],
     "connections_descriptors": [
-      "Miracle Shooter items",
-      "Gen V items"
+      "Miracle Shooter items"
     ],
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257924
+  "updatedAt": 1774525952
 }

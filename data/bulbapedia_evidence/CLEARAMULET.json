@@ -3,7 +3,7 @@
   "answerDisplay": "CLEAR AMULET",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Clear Amulet",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Clear_Amulet",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Clear Amulet prevents the holder from having its stats lowered by other Pokémon's moves or Abilities . However, this item doesn't protect the user from the effects of Haze or Clear Smog . When held by a holder who has the Ability Magic Bounce , being hit by Parting Shot will still force the holder to switch out."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods S V West Province (Area One) (from a Pokémon League representative after defeating 9 Trainers in the area) Delibird Presents ( Mesagoza Branch, after earning 4 Gym Badges ) Distribution [ edit | edit source ] Games Event Language/Region Distribution period S V Summer training support sets Japan July 22 to September 30, 2023"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Clear Amulet",
     "Clear-Amulet (item)"
   ],
-  "updatedAt": 1773321725
+  "updatedAt": 1774524085
 }

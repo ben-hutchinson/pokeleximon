@@ -3,29 +3,62 @@ import Layout from "../components/Layout";
 import {
   approvePuzzle,
   clearAdminToken,
+  generateDraft,
   generatePuzzle,
+  getDraft,
   getAdminToken,
   getAnalyticsSummary,
   getReserveStatus,
   listAlerts,
   listJobs,
+  publishDraft,
   publishDaily,
   publishPuzzle,
   rollbackDailyPublish,
   rejectPuzzle,
   resolveAlert,
+  saveDraft,
   setAdminToken,
   topUpReserve,
+  validateDraft,
   type AdminAlert,
   type AdminAnalyticsSummary,
+  type AdminDraftPuzzle,
+  type AdminDraftValidationResult,
   type AdminJob,
   type AdminReserveItem,
 } from "../api/admin";
 import type { GameType } from "../api/puzzles";
 import { todayIsoInTimezone } from "../utils/date";
 
+type DraftGameType = Extract<GameType, "crossword" | "cryptic">;
+
 function todayIso() {
   return todayIsoInTimezone();
+}
+
+function tomorrowIso() {
+  const base = new Date(`${todayIso()}T00:00:00Z`);
+  base.setUTCDate(base.getUTCDate() + 1);
+  return base.toISOString().slice(0, 10);
+}
+
+function isDraftGameType(value: GameType): value is DraftGameType {
+  return value === "crossword" || value === "cryptic";
+}
+
+function isReserveGameType(value: GameType): value is "connections" {
+  return value === "connections";
+}
+
+function isRecord(value: unknown): value is Record<string, unknown> {
+  return typeof value === "object" && value !== null && !Array.isArray(value);
+}
+
+function bulbapediaSearchUrl(answer: string) {
+  return `https://bulbapedia.bulbagarden.net/wiki/Special:Search?search=${encodeURIComponent(
+    answer.replace(/\s+/g, "_"),
+  )}`;
 }
 
 function formatTimestamp(value: string | null) {
@@ -46,10 +79,69 @@ function formatDurationMs(value: number | null) {
   return `${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
 }
 
+function summarizeDraftPuzzleForActionResult(puzzle: AdminDraftPuzzle) {
+  return {
+    id: puzzle.id,
+    date: puzzle.date,
+    gameType: puzzle.gameType,
+    title: puzzle.title,
+    publishedAt: puzzle.publishedAt,
+    entryCount: puzzle.entries.length,
+    grid: {
+      width: puzzle.grid.width,
+      height: puzzle.grid.height,
+    },
+  };
+}
+
+function formatActionResult(result: unknown) {
+  const replacer = (_key: string, value: unknown) => {
+    if (isRecord(value)) {
+      const item = value.item;
+      if (item && isRecord(item) && Array.isArray(item.entries) && isRecord(item.grid)) {
+        return {
+          ...value,
+          item: summarizeDraftPuzzleForActionResult(item as unknown as AdminDraftPuzzle),
+        };
+      }
+      const draft = value.draft;
+      if (draft && isRecord(draft) && Array.isArray(draft.entries) && isRecord(draft.grid)) {
+        return {
+          ...value,
+          draft: summarizeDraftPuzzleForActionResult(draft as unknown as AdminDraftPuzzle),
+        };
+      }
+    }
+    return value;
+  };
+
+  const serialized = JSON.stringify(result, replacer, 2);
+  if (!serialized) return "null";
+  return serialized.length > 6000 ? `${serialized.slice(0, 6000)}\n…` : serialized;
+}
+
+function isDraftValidationResult(value: unknown): value is AdminDraftValidationResult {
+  return (
+    isRecord(value) &&
+    typeof value.isPublishable === "boolean" &&
+    Array.isArray(value.hardFailures) &&
+    Array.isArray(value.warnings)
+  );
+}
+
+function extractDraftValidation(value: unknown): AdminDraftValidationResult | null {
+  if (isDraftValidationResult(value)) return value;
+  if (isRecord(value) && isDraftValidationResult(value.structuralQuality)) {
+    return value.structuralQuality;
+  }
+  return null;
+}
+
 export default function Admin() {
   const [adminTokenInput, setAdminTokenInput] = useState(getAdminToken());
   const [gameType, setGameType] = useState<GameType>("crossword");
   const [date, setDate] = useState(todayIso());
+  const [draftDate, setDraftDate] = useState(tomorrowIso());
   const [sourceDate, setSourceDate] = useState("");
   const [rollbackReason, setRollbackReason] = useState("manual rollback from admin-ui");
   const [contestMode, setContestMode] = useState(false);
@@ -64,6 +156,11 @@ export default function Admin() {
   const [alerts, setAlerts] = useState<AdminAlert[]>([]);
   const [analytics, setAnalytics] = useState<AdminAnalyticsSummary | null>(null);
   const [analyticsDays, setAnalyticsDays] = useState(30);
+  const [draftPuzzle, setDraftPuzzle] = useState<AdminDraftPuzzle | null>(null);
+  const [draftValidation, setDraftValidation] = useState<AdminDraftValidationResult | null>(null);
+  const [draftEditor, setDraftEditor] = useState("");
+  const [draftNotes, setDraftNotes] = useState("");
+  const [draftClues, setDraftClues] = useState<Record<string, string>>({});
 
   const [loading, setLoading] = useState(true);
   const [busyAction, setBusyAction] = useState<string | null>(null);
@@ -83,11 +180,11 @@ export default function Admin() {
       return;
     }
 
-    setLoading(true);
-    setError(null);
-    try {
-      const [reserve, jobsRes, alertsRes] = await Promise.all([
-        getReserveStatus(),
+      setLoading(true);
+      setError(null);
+      try {
+        const [reserve, jobsRes, alertsRes] = await Promise.all([
+        getReserveStatus("connections"),
         listJobs({ limit: 40 }),
         listAlerts({ includeResolved: includeResolvedAlerts, limit: 40 }),
       ]);
@@ -121,7 +218,7 @@ export default function Admin() {
     setError(null);
     try {
       const result = await runner();
-      setActionResult(JSON.stringify(result, null, 2));
+      setActionResult(formatActionResult(result));
       await refreshAll();
     } catch (err) {
       setError(err instanceof Error ? err.message : "Action failed");
@@ -131,13 +228,36 @@ export default function Admin() {
   };
 
   const hasAdminToken = Boolean(getAdminToken());
+  const draftModeEnabled = isDraftGameType(gameType);
+  const activeDraftGameType: DraftGameType | null = draftModeEnabled ? gameType : null;
+  const reserveModeEnabled = isReserveGameType(gameType);
+
+  const syncDraft = useCallback((item: AdminDraftPuzzle, validation?: AdminDraftValidationResult | null) => {
+    setDraftPuzzle(item);
+    const editorial = item.metadata.editorial as Record<string, unknown> | undefined;
+    setDraftEditor(typeof editorial?.editor === "string" ? editorial.editor : "");
+    setDraftNotes(typeof editorial?.notes === "string" ? editorial.notes : "");
+    setDraftValidation(validation ?? extractDraftValidation(editorial?.validation));
+    setDraftClues(
+      Object.fromEntries(item.entries.map((entry) => [entry.id, entry.clue ?? ""])),
+    );
+  }, []);
+
+  const draftEditorial = (draftPuzzle?.metadata.editorial as Record<string, unknown> | undefined) ?? undefined;
+  const draftState = typeof draftEditorial?.state === "string" ? draftEditorial.state : "draft";
+  const draftStatusLabel = draftPuzzle?.publishedAt ? "published" : draftState;
+  const draftAlerts = alerts.filter((alert) => {
+    const details = isRecord(alert.details) ? alert.details : {};
+    const alertDate = typeof details.date === "string" ? details.date : null;
+    return alertDate === draftDate && (alert.alertType === "draft_ready" || alert.alertType === "draft_generation_failed");
+  });
 
   return (
     <Layout>
       <section className="page-section" aria-labelledby="admin-heading">
         <div className="section-header">
           <h2 id="admin-heading">Admin Console</h2>
-          <p>Operate generation, publishing, reserve health, jobs, and review actions.</p>
+          <p>Write tomorrow&apos;s crossword and cryptic clues, and manage connections reserve operations when needed.</p>
         </div>
 
         <div className="card admin-controls">
@@ -210,106 +330,114 @@ export default function Admin() {
                 <option value="connections">Connections</option>
               </select>
             </label>
-            <label className="admin-field">
-              <span>Date</span>
-              <input type="date" value={date} onChange={(event) => setDate(event.target.value)} />
-            </label>
-            <label className="admin-field">
-              <span>Rollback Source Date</span>
-              <input
-                type="date"
-                value={sourceDate}
-                onChange={(event) => setSourceDate(event.target.value)}
-                placeholder="optional"
-              />
-            </label>
-            <label className="admin-field">
-              <span>Rollback Reason</span>
-              <input
-                value={rollbackReason}
-                onChange={(event) => setRollbackReason(event.target.value)}
-                placeholder="manual rollback from admin-ui"
-              />
-            </label>
-            <label className="admin-field">
-              <span>Top-up Target</span>
-              <input
-                type="number"
-                min={1}
-                max={365}
-                value={targetCount}
-                onChange={(event) => setTargetCount(Number(event.target.value) || 30)}
-              />
-            </label>
-            <label className="admin-checkbox admin-checkbox--inline">
-              <input
-                type="checkbox"
-                checked={contestMode}
-                onChange={(event) => setContestMode(event.target.checked)}
-              />
-              Contest mode
-            </label>
+            {!reserveModeEnabled ? null : (
+              <>
+                <label className="admin-field">
+                  <span>Date</span>
+                  <input type="date" value={date} onChange={(event) => setDate(event.target.value)} />
+                </label>
+                <label className="admin-field">
+                  <span>Rollback Source Date</span>
+                  <input
+                    type="date"
+                    value={sourceDate}
+                    onChange={(event) => setSourceDate(event.target.value)}
+                    placeholder="optional"
+                  />
+                </label>
+                <label className="admin-field">
+                  <span>Rollback Reason</span>
+                  <input
+                    value={rollbackReason}
+                    onChange={(event) => setRollbackReason(event.target.value)}
+                    placeholder="manual rollback from admin-ui"
+                  />
+                </label>
+                <label className="admin-field">
+                  <span>Top-up Target</span>
+                  <input
+                    type="number"
+                    min={1}
+                    max={365}
+                    value={targetCount}
+                    onChange={(event) => setTargetCount(Number(event.target.value) || 30)}
+                  />
+                </label>
+                <label className="admin-checkbox admin-checkbox--inline">
+                  <input
+                    type="checkbox"
+                    checked={contestMode}
+                    onChange={(event) => setContestMode(event.target.checked)}
+                  />
+                  Contest mode
+                </label>
+              </>
+            )}
           </div>
           <div className="admin-actions">
-            <button
-              className="button"
-              disabled={busyAction !== null || !hasAdminToken}
-              onClick={() => runAction("generate", () => generatePuzzle({ date, gameType, force: true }))}
-            >
-              Generate (Force)
-            </button>
-            <button
-              className="button secondary"
-              disabled={busyAction !== null || !hasAdminToken}
-              onClick={() =>
-                runAction("publish", () =>
-                  publishPuzzle({
-                    date,
-                    gameType,
-                    contestMode,
-                  }),
-                )
-              }
-            >
-              Publish Date
-            </button>
-            <button
-              className="button ghost"
-              disabled={busyAction !== null || !hasAdminToken}
-              onClick={() =>
-                runAction("publish-daily", () =>
-                  publishDaily({
-                    gameType,
-                    contestMode,
-                  }),
-                )
-              }
-            >
-              Publish Daily (Now)
-            </button>
-            <button
-              className="button ghost"
-              disabled={busyAction !== null || !hasAdminToken}
-              onClick={() =>
-                runAction("rollback-daily", () =>
-                  rollbackDailyPublish({
-                    gameType,
-                    date,
-                    sourceDate: sourceDate.trim() || undefined,
-                    reason: rollbackReason.trim() || undefined,
-                  }),
-                )
-              }
-            >
-              Rollback Daily (One-click)
-            </button>
-            <button
-              className="button ghost"
-              disabled={busyAction !== null || !hasAdminToken}
-              onClick={() => runAction("topup", () => topUpReserve({ gameType, targetCount }))}
-            >
-              Top-up Reserve
-            </button>
+            {reserveModeEnabled ? (
+              <>
+                <button
+                  className="button"
+                  disabled={busyAction !== null || !hasAdminToken}
+                  onClick={() => runAction("generate", () => generatePuzzle({ date, gameType, force: true }))}
+                >
+                  Generate (Force)
+                </button>
+                <button
+                  className="button secondary"
+                  disabled={busyAction !== null || !hasAdminToken}
+                  onClick={() =>
+                    runAction("publish", () =>
+                      publishPuzzle({
+                        date,
+                        gameType,
+                        contestMode,
+                      }),
+                    )
+                  }
+                >
+                  Publish Date
+                </button>
+                <button
+                  className="button ghost"
+                  disabled={busyAction !== null || !hasAdminToken}
+                  onClick={() =>
+                    runAction("publish-daily", () =>
+                      publishDaily({
+                        gameType,
+                        contestMode,
+                      }),
+                    )
+                  }
+                >
+                  Publish Daily (Now)
+                </button>
+                <button
+                  className="button ghost"
+                  disabled={busyAction !== null || !hasAdminToken}
+                  onClick={() =>
+                    runAction("rollback-daily", () =>
+                      rollbackDailyPublish({
+                        gameType,
+                        date,
+                        sourceDate: sourceDate.trim() || undefined,
+                        reason: rollbackReason.trim() || undefined,
+                      }),
+                    )
+                  }
+                >
+                  Rollback Daily (One-click)
+                </button>
+                <button
+                  className="button ghost"
+                  disabled={busyAction !== null || !hasAdminToken}
+                  onClick={() => runAction("topup", () => topUpReserve({ gameType, targetCount }))}
+                >
+                  Top-up Reserve
+                </button>
+              </>
+            ) : null}
             <button
               className="button ghost"
               disabled={busyAction !== null || loading || !hasAdminToken}
@@ -319,6 +447,216 @@ export default function Admin() {
             </button>
           </div>
         </div>
+
+        <section className="card">
+          <div className="admin-inline-header">
+            <div>
+              <h3>Daily Draft Editor</h3>
+              <p className="panel__meta">Day-ahead workflow: generate, write, validate, and publish tomorrow&apos;s puzzle before midnight.</p>
+            </div>
+          </div>
+          {!draftModeEnabled ? (
+            <p>Select `crossword` or `cryptic` above to work on the next unpublished draft.</p>
+          ) : (
+            <>
+              <div className="admin-controls__grid">
+                <label className="admin-field">
+                  <span>Draft Date</span>
+                  <input type="date" value={draftDate} onChange={(event) => setDraftDate(event.target.value)} />
+                </label>
+                <label className="admin-field">
+                  <span>Editor</span>
+                  <input value={draftEditor} onChange={(event) => setDraftEditor(event.target.value)} placeholder="optional" />
+                </label>
+                <label className="admin-field">
+                  <span>Draft Notes</span>
+                  <input value={draftNotes} onChange={(event) => setDraftNotes(event.target.value)} placeholder="optional" />
+                </label>
+              </div>
+              <div className="admin-actions">
+                <button
+                  className="button"
+                  disabled={busyAction !== null || !hasAdminToken}
+                  onClick={() =>
+                    runAction("generate-draft", async () => {
+                      if (!activeDraftGameType) return null;
+                      const result = await generateDraft({ date: draftDate, gameType: activeDraftGameType });
+                      const fresh = await getDraft({ date: draftDate, gameType: activeDraftGameType });
+                      syncDraft(fresh.item);
+                      return { ...result, draft: fresh.item };
+                    })
+                  }
+                >
+                  Generate Draft
+                </button>
+                <button
+                  className="button secondary"
+                  disabled={busyAction !== null || !hasAdminToken}
+                  onClick={() =>
+                    runAction("load-draft", async () => {
+                      if (!activeDraftGameType) return null;
+                      const result = await getDraft({ date: draftDate, gameType: activeDraftGameType });
+                      syncDraft(result.item);
+                      return result;
+                    })
+                  }
+                >
+                  Load Draft
+                </button>
+                <button className="button ghost" type="button" onClick={() => setDraftDate(tomorrowIso())}>
+                  Use Tomorrow
+                </button>
+              </div>
+
+              {draftAlerts.length > 0 ? (
+                <div className="admin-list">
+                  {draftAlerts.map((alert) => (
+                    <div key={alert.id} className={`admin-stat ${alert.alertType === "draft_generation_failed" ? "is-warning" : ""}`}>
+                      <div className="admin-stat__title">{alert.alertType}</div>
+                      <div>{alert.message}</div>
+                      <div>{formatTimestamp(alert.createdAt)}</div>
+                    </div>
+                  ))}
+                </div>
+              ) : null}
+
+              {draftPuzzle ? (
+                <>
+                  <div className="admin-inline-header">
+                    <div>
+                      <strong>{draftPuzzle.title}</strong>
+                      <div className="panel__meta">
+                        Status: {draftStatusLabel} · Puzzle ID: {draftPuzzle.id}
+                      </div>
+                    </div>
+                    <div className="admin-actions">
+                      <button
+                        className="button"
+                        disabled={busyAction !== null || !hasAdminToken}
+                        onClick={() =>
+                          runAction("save-draft", async () => {
+                            const result = await saveDraft({
+                              puzzleId: draftPuzzle.id,
+                              entries: draftPuzzle.entries.map((entry) => ({
+                                id: entry.id,
+                                clue: draftClues[entry.id] ?? "",
+                              })),
+                              metadata: {
+                                editor: draftEditor.trim() || undefined,
+                                notes: draftNotes.trim() || undefined,
+                              },
+                            });
+                            syncDraft(result.item, null);
+                            return result;
+                          })
+                        }
+                      >
+                        Save Draft
+                      </button>
+                      <button
+                        className="button secondary"
+                        disabled={busyAction !== null || !hasAdminToken}
+                        onClick={() =>
+                          runAction("validate-draft", async () => {
+                            const result = await validateDraft(draftPuzzle.id);
+                            syncDraft(result.item, result.validation);
+                            return result;
+                          })
+                        }
+                      >
+                        Validate Draft
+                      </button>
+                      <button
+                        className="button secondary"
+                        disabled={busyAction !== null || !hasAdminToken}
+                        onClick={() =>
+                          runAction("publish-draft", async () => {
+                            const saveResult = await saveDraft({
+                              puzzleId: draftPuzzle.id,
+                              entries: draftPuzzle.entries.map((entry) => ({
+                                id: entry.id,
+                                clue: draftClues[entry.id] ?? "",
+                              })),
+                              metadata: {
+                                editor: draftEditor.trim() || undefined,
+                                notes: draftNotes.trim() || undefined,
+                              },
+                            });
+                            syncDraft(saveResult.item, null);
+                            const result = await publishDraft({
+                              puzzleId: draftPuzzle.id,
+                              contestMode,
+                            });
+                            syncDraft(result.item, result.validation);
+                            return result;
+                          })
+                        }
+                      >
+                        Publish Draft
+                      </button>
+                    </div>
+                  </div>
+
+                  {draftValidation ? (
+                    <div className={`admin-stat ${draftValidation.isPublishable ? "" : "is-warning"}`}>
+                      <div className="admin-stat__title">Validation</div>
+                      <div>Publishable: {draftValidation.isPublishable ? "yes" : "no"}</div>
+                      <div>Score: {draftValidation.score ?? "—"}</div>
+                      <div>Hard failures: {Array.isArray(draftValidation.hardFailures) && draftValidation.hardFailures.length ? draftValidation.hardFailures.join(", ") : "none"}</div>
+                      <div>Warnings: {Array.isArray(draftValidation.warnings) && draftValidation.warnings.length ? draftValidation.warnings.join(", ") : "none"}</div>
+                    </div>
+                  ) : null}
+
+                  <div className="admin-table-wrap">
+                    <table className="admin-table">
+                      <thead>
+                        <tr>
+                          <th>ID</th>
+                          <th>No.</th>
+                          <th>Direction</th>
+                          <th>Answer</th>
+                          <th>Enum</th>
+                          <th>Clue</th>
+                          <th>Bulbapedia</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        {draftPuzzle.entries.map((entry) => (
+                          <tr key={entry.id}>
+                            <td>{entry.id}</td>
+                            <td>{entry.number}</td>
+                            <td>{entry.direction}</td>
+                            <td>{entry.answer}</td>
+                            <td>{entry.enumeration ?? entry.length}</td>
+                            <td>
+                              <input
+                                value={draftClues[entry.id] ?? ""}
+                                onChange={(event) =>
+                                  setDraftClues((current) => ({
+                                    ...current,
+                                    [entry.id]: event.target.value,
+                                  }))
+                                }
+                                placeholder="Write clue"
+                              />
+                            </td>
+                            <td>
+                              <a href={bulbapediaSearchUrl(entry.answer)} target="_blank" rel="noreferrer">
+                                Search
+                              </a>
+                            </td>
+                          </tr>
+                        ))}
+                      </tbody>
+                    </table>
+                  </div>
+                </>
+              ) : (
+                <p>No draft loaded for {gameType} on {draftDate}. Generate it first or load an existing unpublished draft.</p>
+              )}
+            </>
+          )}
+        </section>
 
         <section className="card">
           <div className="admin-inline-header">
@@ -374,9 +712,10 @@ export default function Admin() {
           )}
         </section>
 
+        {reserveModeEnabled ? (
         <div className="admin-layout">
           <section className="card">
-            <h3>Reserve</h3>
+            <h3>Connections Reserve</h3>
             {loading ? <p>Loading reserve…</p> : null}
             <div className="admin-list">
               {reserveItems.map((item) => (
@@ -445,6 +784,7 @@ export default function Admin() {
             </div>
           </section>
         </div>
+        ) : null}
 
         <section className="card">
           <h3>Puzzle Review</h3>

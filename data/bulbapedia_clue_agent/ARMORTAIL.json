@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4512547,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Armor Tail (Japanese: Tail Armor) is an Ability introduced in Generation IX. It is the signature Ability of Farigiraf.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Farigiraf",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Event Gen IX Armor Tail activated \" (The wild/opposing) cannot use !\"",
@@ -53,6 +58,13 @@
         "style": "effect"
       },
       {
+        "text": "Farigiraf's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
         "text": "Blocks incoming priority moves",
         "evidence_ref": "Description",
         "mystery_score": 0.78,
@@ -87,5 +99,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257926
+  "updatedAt": 1774525954
 }

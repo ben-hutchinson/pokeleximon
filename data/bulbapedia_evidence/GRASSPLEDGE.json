@@ -3,12 +3,12 @@
   "answerDisplay": "GRASS PLEDGE",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Grass Pledge (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Grass_Pledge_(move)",
   "pageId": 117621,
-  "pageRevisionId": 4475816,
+  "pageRevisionId": 4512265,
   "leadText": "Grass Pledge (Japanese: くさのちかい Grass Oath) is a damage-dealing Grass-type move introduced in Generation V. It is TM146 in Pokémon Scarlet and Violet. Along with Water Pledge and Fire Pledge, Grass Pledge is one of the battle-combo moves. All Grass-type first partner Pokémon and their Evolutions can learn this move.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD GtI UNUSED S MD It damages an enemy. If it's used with Fire Pledge in an Alliance, the enemies in the same room will get the sea of fire condition, and if it's used with Water Pledge, they will get the swamp condition. MD RT DX It damages an enemy. If your teammate is in a position from which it can use Water Pledge, the PP of Water Pledge will be used, but its power increases, and enemies in the same room as you will get the Swamp condition."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] In Pokémon Ultra Sun and Ultra Moon and Pokémon Sword and Shield , Silvally is intended to be able to be taught Grass Pledge, Fire Pledge , and Water Pledge via Move Tutor. However, due to a programming error, the Move Tutor will only offer to teach it Grass Pledge, making it unable to learn the other two moves."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Grass Pledge",
     "Grass-Pledge (move)"
   ],
-  "updatedAt": 1773323345
+  "updatedAt": 1774524249
 }

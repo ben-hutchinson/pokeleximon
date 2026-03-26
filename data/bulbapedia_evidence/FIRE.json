@@ -3,7 +3,7 @@
   "answerDisplay": "FIRE",
   "sourceType": "type",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Fire",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fire",
@@ -17,5 +17,5 @@
     "Fire (type)",
     "Fire type"
   ],
-  "updatedAt": 1773322797
+  "updatedAt": 1774524192
 }

@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4450660,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Fur Coat (Japanese: Fur Coat) is an Ability introduced in Generation VI. Prior to Generation VII, it was the signature Ability of Furfrou. In Generation IX, it is the signature Ability of Alolan Persian.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Furfrou",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description S MD The Pokemon takes less damage from physical moves!",
@@ -41,17 +46,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "Gen VI ability",
+        "text": "Furfrou's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
-    "connections_descriptors": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
+    "connections_descriptors": [
+      "Gen VI abilities"
+    ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774257948
+  "updatedAt": 1774525968
 }

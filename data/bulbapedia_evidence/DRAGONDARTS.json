@@ -3,7 +3,7 @@
   "answerDisplay": "DRAGON DARTS",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Dragon Darts (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Darts_(move)",
@@ -18,10 +18,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description Sw Sh LA The user attacks twice using Dreepy. If there are two targets, this move hits each target once. BD SP This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered. S V The user attacks twice using Dreepy. If there are two opposing Pokémon, this move hits each of them once."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Mimikyu using Dragon Darts in Generation VIII Dragon Darts has some unique animation traits in Generation VIII . The move's animation is different if: The move is used by a Pokémon that is not Dragapult . A Shiny Pokémon uses Dragon Darts, with the Dreepy also appearing as Shiny. It shares this distinction with Mind Blown and Syrup Bomb . Due to the change in the move's animation going into Generation IX , it is no longer possible to see either of these differences."
     }
   ],
   "familyPages": [],
@@ -30,5 +26,5 @@
     "Dragon Darts",
     "Dragon-Darts (move)"
   ],
-  "updatedAt": 1773322269
+  "updatedAt": 1774524136
 }

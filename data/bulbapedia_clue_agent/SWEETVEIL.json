@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4392433,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Sweet Veil (Japanese: Sweet Veil) is an Ability introduced in Generation VI. Prior to Generation VII, it was the signature Ability of Swirlix and Slurpuff.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Swirlix And Slurpuff",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description S MD It protects the Pokemon and its teammates near it from the sleep, napping, yawning, and nightmare status conditions.",
@@ -41,26 +46,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "protective ability",
-        "evidence_ref": "Description",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "Gen VI ability",
+        "text": "Swirlix And Slurpuff's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
     "connections_descriptors": [
-      "Protective abilities"
+      "Gen VI abilities"
     ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774258021
+  "updatedAt": 1774525999
 }

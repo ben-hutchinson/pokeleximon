@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4481999,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Flower Gift (Japanese: Flower Gift) is an Ability introduced in Generation IV. It is the signature Ability of Cherrim.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Cherrim",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the team's Attack and Special Defense in sunny weather. B S L MD GtI Unavailable S MD When it's sunny, the Attack and Sp. Def of teammates in the same room go up!",
@@ -53,6 +58,13 @@
         "style": "effect"
       },
       {
+        "text": "Cherrim's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
         "text": "Weather-linked trait",
         "evidence_ref": "lead",
         "mystery_score": 0.56,
@@ -72,5 +84,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257947
+  "updatedAt": 1774525967
 }

@@ -3,12 +3,12 @@
   "answerDisplay": "TART APPLE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Tart Apple",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tart_Apple",
   "pageId": 244476,
-  "pageRevisionId": 4501218,
+  "pageRevisionId": 4510472,
   "leadText": "The Tart Apple (Japanese: すっぱいりんご Sour Apple) is a type of item introduced in Generation VIII.",
   "sections": [
     {
@@ -18,6 +18,14 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Tart Apples are required to evolve certain Pokémon in Pokémon GO. They are consumed upon use. Applin requires 200 Applin Candy and 20 Tart Apples to evolve into Flapple ."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods Sw Sh Hammerlocke Sw Event Hidden recurring item ( Axew's Eye Sw ) Wild Area News Sh (March 19 to March 25, 2020) Sw Sh IA Hidden recurring item ( Soothing Wetlands , Loop Lagoon ) S V Delibird Presents (after earning 3 Gym Badges ) Sparkling overworld item ( Tagtree Thicket ) S V TM Sparkling overworld item ( Apple Hills ) Distribution [ edit | edit source ] Games Event Language/Region Distribution period Sw Sh The Isle of Armor promotion packs All June 5 to 11, 2020"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Tapping apples that appear near PokéStops can award either Tart Apples, Sweet Apples, or an encounter with a wild Applin. Apples will also have an increased chance of appearing at PokéStops with Mossy Lure Modules ."
     },
     {
       "title": "Description",
@@ -34,5 +42,5 @@
     "Tart Apple",
     "Tart-Apple (item)"
   ],
-  "updatedAt": 1773327829
+  "updatedAt": 1774524804
 }

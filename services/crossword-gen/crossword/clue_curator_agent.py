@@ -103,8 +103,9 @@ def _prompt_payload(
     answer_row: dict[str, Any],
     evidence: dict[str, Any] | None,
     structured_facts: dict[str, Any],
+    editorial_guide: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
-    return {
+    payload = {
         "answer": {
             "answerKey": answer_row.get("answerKey"),
             "answerDisplay": answer_row.get("answerDisplay"),
@@ -131,16 +132,22 @@ def _prompt_payload(
             ],
         },
     }
+    if isinstance(editorial_guide, dict) and editorial_guide:
+        payload["editorialGuide"] = editorial_guide
+    return payload
 
 
-def _developer_prompt() -> str:
-    return (
+def _developer_prompt(*, has_editorial_guide: bool = False) -> str:
+    prompt = (
         "You are an editorial clue curator for a Pokemon-themed crossword app. "
         "Read the provided evidence, extract clue-worthy facts, and write original clue candidates. "
         "Return valid JSON only, following the provided schema exactly. "
         "Never copy source text verbatim. "
         "Prefer clues that are specific, indirect, and solvable by a knowledgeable player."
     )
+    if has_editorial_guide:
+        prompt += " The payload includes an editorial guide with preferred clue patterns and anti-patterns; follow it closely."
+    return prompt
 
 
 def _validate_schema(payload: dict[str, Any]) -> tuple[bool, list[str]]:
@@ -204,11 +211,18 @@ def call_curator(
     timeout_seconds: float = 30.0,
     model: str | None = None,
     base_url: str | None = None,
+    editorial_guide: dict[str, Any] | None = None,
+    prompt_version: str | None = None,
 ) -> dict[str, Any]:
     answer_key = str(answer_row.get("answerKey") or "").upper()
     cached = load_cached_response(cache_dir, answer_key)
     evidence_revision = (evidence or {}).get("pageRevisionId")
-    if cached is not None and cached.get("evidenceRevisionId") == evidence_revision:
+    effective_prompt_version = str(prompt_version or "default")
+    if (
+        cached is not None
+        and cached.get("evidenceRevisionId") == evidence_revision
+        and str(cached.get("promptVersion") or "default") == effective_prompt_version
+    ):
         return cached
     if cache_only:
         return {
@@ -216,6 +230,7 @@ def call_curator(
             "status": "cache_miss",
             "schemaValid": False,
             "errors": ["cache_miss"],
+            "promptVersion": effective_prompt_version,
         }
 
     api_key = os.getenv("OPENAI_API_KEY", "").strip()
@@ -225,16 +240,22 @@ def call_curator(
             "status": "api_key_missing",
             "schemaValid": False,
             "errors": ["api_key_missing"],
+            "promptVersion": effective_prompt_version,
         }
 
     payload = {
         "model": model or os.getenv("OPENAI_MODEL", DEFAULT_OPENAI_MODEL),
         "messages": [
-            {"role": "developer", "content": _developer_prompt()},
+            {"role": "developer", "content": _developer_prompt(has_editorial_guide=bool(editorial_guide))},
             {
                 "role": "user",
                 "content": json.dumps(
-                    _prompt_payload(answer_row=answer_row, evidence=evidence, structured_facts=structured_facts),
+                    _prompt_payload(
+                        answer_row=answer_row,
+                        evidence=evidence,
+                        structured_facts=structured_facts,
+                        editorial_guide=editorial_guide,
+                    ),
                     ensure_ascii=False,
                 ),
             },
@@ -269,6 +290,7 @@ def call_curator(
             "status": "request_error",
             "schemaValid": False,
             "errors": [str(exc)] + ([response_body] if response_body else []),
+            "promptVersion": effective_prompt_version,
         }
 
     content = _extract_message_content(raw)
@@ -281,6 +303,7 @@ def call_curator(
             "schemaValid": False,
             "errors": ["invalid_json"],
             "rawContent": content,
+            "promptVersion": effective_prompt_version,
         }
 
     ok, issues = _validate_schema(parsed if isinstance(parsed, dict) else {})
@@ -291,6 +314,7 @@ def call_curator(
         "errors": issues,
         "model": payload["model"],
         "evidenceRevisionId": evidence_revision,
+        "promptVersion": effective_prompt_version,
         "response": parsed if isinstance(parsed, dict) else {},
         "updatedAt": int(time.time()),
     }

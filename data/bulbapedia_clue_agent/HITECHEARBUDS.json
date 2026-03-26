@@ -3,18 +3,13 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": null,
   "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
       {
         "text": "gameplay",
-        "evidence_ref": "lead",
-        "specificity": 0.62
-      },
-      {
-        "text": "Strange earbuds that allow you to freely control the volume of various sounds.",
         "evidence_ref": "lead",
         "specificity": 0.62
       },
@@ -42,5 +37,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257955
+  "updatedAt": 1774525972
 }

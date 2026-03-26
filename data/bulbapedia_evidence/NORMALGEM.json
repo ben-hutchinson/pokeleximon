@@ -3,7 +3,7 @@
   "answerDisplay": "NORMAL GEM",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Normal Gem",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Normal_Gem",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Generation V [ edit | edit source ] When held by a Pokémon, it increases the power of the first Normal-type move used by 50%, and is consumed after use. Fling will fail if the user is holding a Normal Gem. Struggle will never consume a Normal Gem. Generation VI onward [ edit | edit source ] When held by a Pokémon, it increases the power of the first Normal-type move used by 30% (approximated as a multiplier of 5325/4096 from Generation V to Pokémon Scarlet and Violet ), and is consumed after use. Normal Gem does not increase the damage or get consumed if the Normal move has its type changed by some effect (e.g. Pixilate , Ion Deluge )."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods B W Dust cloud B2 W2 Victory Road Dust cloud ( Chargestone Cave , Mistralton Cave , Clay Tunnel , Twist Mountain , Underground Ruins , Victory Road , Wellspring Cave , Seaside Cave , Giant Chasm ) DW * Icy Cave X Y Event Hidden recurring item ( Terminus Cave ) OR AS Event Rock Smash (except Mirage spots ) S M US UM Hidden recurring item ( Route 15 ) Sw Sh Route 9 Bridge Field ( Digging Duo ) Sw Sh IA Hidden recurring item ( Brawlers' Cave ) Sw Sh CT Hidden recurring item ( Tunnel to the Top ) S V Delibird Presents ( Cascarrafa Branch) Distribution [ edit | edit source ] As a held item [ edit | edit source ] Games Event Language/Region Distribution period X Y Movie Theater Diancie Taiwanese August 29 to October 15, 2014 October 2014 Pokémon American October 16, 2014 to February 28, 2015 November 2014 Diancie PAL October 23, 2014 to February 25, 2015 November 6 to 28, 2014 Cinema Diancie Japanese, Korean Various OR AS Pokémon Center Diancie Japanese December 12 to 31, 2015 X Y OR AS Universe Diancie Japanese, Taiwanese October 15 to November 30, 2015 Pokémon All-Stars Battle Diancie South Korea August 13 to 14, 2016"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Normal Gem",
     "Normal-Gem (item)"
   ],
-  "updatedAt": 1773325407
+  "updatedAt": 1774524417
 }

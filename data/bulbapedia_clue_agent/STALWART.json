@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4081042,
-  "evidencePassMode": "first_pass",
+  "evidencePassMode": "second_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -17,6 +17,11 @@
         "text": "Stalwart redirects here. For the skill in Pokemon Masters EX, see Stalwart (Skill). Stalwart (Japanese: Staunch) is an Ability introduced in Generation VIII. It is the signature Ability of Duraludon and Archaludon.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Duraludon And Archaludon",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Stalwart makes its user's moves ignore the target-redirecting effects of moves (e.g. Rage Powder , Follow Me , and Ally Switch ) and Abilities (e.g. Storm Drain and Lightning Rod ). Outside of battle [ edit | edit source ] Stalwart has no effect outside of battle.",
@@ -36,48 +41,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "draining ability",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "switching ability",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "draining ability",
-        "evidence_ref": "In battle",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "switching ability",
-        "evidence_ref": "In battle",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "Gen VIII ability",
+        "text": "Duraludon And Archaludon's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
     "connections_descriptors": [
-      "Draining abilities",
-      "Switching abilities"
+      "Gen VIII abilities"
     ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774258018
+  "updatedAt": 1774525997
 }

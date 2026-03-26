@@ -3,7 +3,7 @@
   "answerDisplay": "RECEIVER",
   "sourceType": "ability",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Receiver (Ability)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Receiver_(Ability)",
@@ -25,5 +25,5 @@
     "Receiver",
     "Receiver (Ability)"
   ],
-  "updatedAt": 1773326288
+  "updatedAt": 1774524566
 }

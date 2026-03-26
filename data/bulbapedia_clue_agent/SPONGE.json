@@ -3,20 +3,15 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4434307,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
       {
         "text": "Gen V ability",
         "evidence_ref": "lead",
         "specificity": 0.48
-      },
-      {
-        "text": "The Pokemon metagame has a wide range of fanmade terminology for various aspects of the games. These are colloquial terms originating from unofficial sources, and are not found within the games themselves.",
-        "evidence_ref": "lead",
-        "specificity": 0.56
       }
     ],
     "crossword_candidates": [
@@ -33,5 +28,5 @@
     "risk_flags": [],
     "confidence": 0.68
   },
-  "updatedAt": 1774258017
+  "updatedAt": 1774525997
 }

@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4407474,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Motor Drive (Japanese: Electric Engine) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Electivire.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Electivire",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD T D S Lets Pokemon avoid damage of Electric-type attacks, then boosts its Movement Speed. B S L Conq. Raises Speed if hit by an Electric-type move. MD GtI Electric-type moves increase Travel Speed instead of damaging the Pokemon. * Electric-type moves not work on the Pokemon, they will raise its Travel Speed! * S MD Electric-type moves don't work on the Pokemon, and they cause the Pokemon's Travel Speed to go up! MD RT DX The Pokemon absorbs Electric-type moves to raise its Travel Speed.",
@@ -41,41 +46,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "boosting ability",
-        "evidence_ref": "Description",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "protective ability",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "protective ability",
-        "evidence_ref": "In battle",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "Gen IV ability",
+        "text": "Electivire's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
     "connections_descriptors": [
-      "Boosting abilities",
-      "Protective abilities"
+      "Gen IV abilities"
     ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774257978
+  "updatedAt": 1774525982
 }

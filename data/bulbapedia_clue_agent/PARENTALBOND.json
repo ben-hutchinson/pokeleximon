@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4487953,
   "evidencePassMode": "first_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Parental Bond (Japanese: Parent-Child Love) is an Ability introduced in Generation VI. It is the signature Ability of Mega Kangaskhan.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Mega Kangaskhan",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description S MD Kangaskhan and its young will fight together! This Ability can't be changed or sealed! MD RT DX Kangaskhan and its young will fight together! This Ability can't be changed or sealed.",
@@ -50,6 +55,13 @@
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Mega Kangaskhan's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
       {
         "text": "Punishes contact attackers",
         "evidence_ref": "Description",
@@ -106,5 +118,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257990
+  "updatedAt": 1774525985
 }

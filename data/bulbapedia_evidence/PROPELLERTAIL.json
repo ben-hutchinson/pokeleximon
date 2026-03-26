@@ -3,12 +3,12 @@
   "answerDisplay": "PROPELLER TAIL",
   "sourceType": "ability",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Propeller Tail (Ability)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Propeller_Tail_(Ability)",
   "pageId": 244398,
-  "pageRevisionId": 4283071,
+  "pageRevisionId": 4512509,
   "leadText": "Propeller Tail (Japanese: スクリューおびれ Screw Tailfin) is an Ability introduced in Generation VIII. It is the signature Ability of Arrokuda and Barraskewda.",
   "sections": [
     {
@@ -26,5 +26,5 @@
     "Propeller Tail",
     "Propeller-Tail (Ability)"
   ],
-  "updatedAt": 1773326065
+  "updatedAt": 1774524520
 }

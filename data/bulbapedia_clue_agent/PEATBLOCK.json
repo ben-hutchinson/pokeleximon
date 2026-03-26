@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4482376,
-  "evidencePassMode": "first_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": 4514306,
+  "evidencePassMode": "second_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -22,6 +22,11 @@
         "text": "Evolution item",
         "evidence_ref": "lead",
         "specificity": 0.76
+      },
+      {
+        "text": "Evolves Ursaring into Ursaluna When Used During A Full Moon",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
       }
     ],
     "crossword_candidates": [
@@ -38,10 +43,33 @@
         "mystery_score": 0.54,
         "specificity_score": 0.8,
         "style": "family"
+      },
+      {
+        "text": "Evolves Ursaring into Ursaluna When Used During A Full Moon",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.92,
+        "style": "effect"
+      },
+      {
+        "text": "Ursaring evolution item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Held item for Ursaluna When Used During A Full Moon",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
       }
     ],
     "cryptic_definition_seeds": [
-      "evolution item"
+      "evolution item",
+      "ursaring evolution",
+      "ursaluna when used during a full moon item"
     ],
     "connections_descriptors": [
       "Evolution items"
@@ -49,5 +77,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257991
+  "updatedAt": 1774525985
 }

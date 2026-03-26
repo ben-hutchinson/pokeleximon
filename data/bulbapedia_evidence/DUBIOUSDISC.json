@@ -3,7 +3,7 @@
   "answerDisplay": "DUBIOUS DISC",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Dubious Disc",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dubious_Disc",
@@ -20,6 +20,14 @@
       "text": "Effect [ edit | edit source ] If the player offers both a Link Cable and Dubious Disc at Luminous Spring , Porygon2 can be evolved into Porygon-Z . This consumes the Link Cable and Dubious Disc. If thrown, it will deal 1 damage (2 if sticky ). Using this item in a dungeon will consume it, with no effect."
     },
     {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Route 225 , Team Galactic HQ Pt HG SS Route 42 PBR Shop (12000 Poké Coupons , after completing Little Battle ) B W P2 Laboratory Route 13 (treasure hunter) B2 W2 P2 Laboratory Join Avenue ( Antique Shop ), Black City (Store 4), Funfest Mission ( Forgotten Lost Items! ) B2 X Y OR AS Battle Maison (32 BP ) PMC * Balloon Popping (Lv. 1) S M US UM Aether Paradise Battle Tree (32 BP ) Sw Sh IA Workout Sea Cram-o-matic ( Electric : 102-110 points) BD SP Route 225 Battle Park (5 BP ) LA Trading post (1,400 MP ) Ginkgo Guild cart (randomly sold by Ginter , as \"Transparent Mechanism\") Space-time distortions S V ID Polar Biome Reward for registering 110 Pokémon in the Blueberry Pokédex Blueberry Academy School Store (250 BP ) Item Printer ZA MD Destroy Floating Poké Balls in hyperspace wild zones with Item Power: Special Distribution [ edit | edit source ] Games Event Language/Region Distribution period PW Pokéwalker Spot items Korean January 7 to 31, 2011"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods MD T D S Treasure Boxes , Job requests (★3-★9) Happy Outlook (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F), Mt. Mistral (Kecleon Shop: 3F, 5F, 7F, 9F, 11F, 13F, 15F, 17F, 19F), Shimmer Hill (Kecleon Shop: 2F, 4F, 6F, 8F, 10F, 12F, 14F, 16F), Lost Wilderness (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F)"
+    },
+    {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP A transparent device overflowing with dubious data. Its producer is unknown. LA S V ZA A transparent device overflowing with dubious data. It's loved by a certain Pokémon."
     },
@@ -34,5 +42,5 @@
     "Dubious Disc",
     "Dubious-Disc (item)"
   ],
-  "updatedAt": 1773322378
+  "updatedAt": 1774524153
 }

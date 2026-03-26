@@ -3,7 +3,7 @@
   "answerDisplay": "DRAGON ENERGY",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Dragon Energy (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Energy_(move)",
@@ -26,5 +26,5 @@
     "Dragon Energy",
     "Dragon-Energy (move)"
   ],
-  "updatedAt": 1773322269
+  "updatedAt": 1774524137
 }

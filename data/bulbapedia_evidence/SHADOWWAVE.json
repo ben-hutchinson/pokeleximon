@@ -3,7 +3,7 @@
   "answerDisplay": "SHADOW WAVE",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Shadow Wave (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Wave_(move)",
@@ -26,5 +26,5 @@
     "Shadow Wave",
     "Shadow-Wave (move)"
   ],
-  "updatedAt": 1773326860
+  "updatedAt": 1774524687
 }

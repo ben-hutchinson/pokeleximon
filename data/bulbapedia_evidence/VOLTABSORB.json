@@ -3,12 +3,12 @@
   "answerDisplay": "VOLT ABSORB",
   "sourceType": "ability",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Volt Absorb (Ability)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Volt_Absorb_(Ability)",
   "pageId": 4087,
-  "pageRevisionId": 4433632,
+  "pageRevisionId": 4512422,
   "leadText": "Volt Absorb (Japanese: ちくでん Electricity Storage) is an Ability introduced in Generation III.",
   "sections": [
     {
@@ -30,5 +30,5 @@
     "Volt Absorb",
     "Volt-Absorb (Ability)"
   ],
-  "updatedAt": 1773328345
+  "updatedAt": 1774524860
 }

@@ -3,12 +3,12 @@
   "answerDisplay": "POISON JAB",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Poison Jab (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Poison_Jab_(move)",
   "pageId": 17446,
-  "pageRevisionId": 4500918,
+  "pageRevisionId": 4512140,
   "leadText": "Poison Jab (Japanese: どくづき Poison Stab) is a damage-dealing Poison-type move introduced in Generation IV. It is: TM84 from Generation IV to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TM26 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR57 in Pokémon Sword and Shield. TM083 in Pokémon Scarlet and Violet. TM077 in Pokémon Legends: Z-A.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Poisoned status condition, which causes periodic damage. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで どくじょうたいにして いっていターンごとに ダメージをあたえる Conq. The target is stabbed with a tentacle or arm steeped in poison. It may also poison the target. MD GtI It damages an enemy. It could also cause the Poisoned status condition. With the Poisoned status, the enemy keeps taking damage and can't restore its HP naturally. S MD It damages an enemy. It could also make the enemy poisoned."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Poison Jab was the first Generation IV move seen in the animated series ."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Poison Jab",
     "Poison-Jab (move)"
   ],
-  "updatedAt": 1773325883
+  "updatedAt": 1774524468
 }

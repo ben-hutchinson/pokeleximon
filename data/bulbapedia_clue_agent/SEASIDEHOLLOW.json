@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4428792,
   "evidencePassMode": "first_pass",
   "response": {
@@ -14,12 +14,24 @@
         "specificity": 0.5
       },
       {
+        "text": "Located in The Northern Region Of The Cobalt Coastlands Of Hisui",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      },
+      {
         "text": "cave landmark",
         "evidence_ref": "lead",
         "specificity": 0.64
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Located in The Northern Region Of The Cobalt Coastlands Of Hisui",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "theme"
+      },
       {
         "text": "Hisui landmark",
         "evidence_ref": "lead",
@@ -59,5 +71,5 @@
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774258008
+  "updatedAt": 1774525993
 }

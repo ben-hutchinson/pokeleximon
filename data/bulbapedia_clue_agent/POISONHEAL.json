@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4028079,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Poison Heal (Japanese: Poison Heal) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Shroomish and Breloom.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Shroomish And Breloom",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD T D S Enables the Pokemon to recover HP when poisoned rather than taking damage. B S L MD GtI Unavailable S MD The Pokemon takes no damage when it's poisoned or badly poisoned. It also naturally recovers more easily than usual! MD RT DX The Pokemon absorbs the damage it would usually take from being Poisoned or Badly Poisoned, instead restoring its own HP.",
@@ -53,6 +58,13 @@
         "mystery_score": 0.56,
         "specificity_score": 0.66,
         "style": "effect"
+      },
+      {
+        "text": "Shroomish And Breloom's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
     "cryptic_definition_seeds": [
@@ -65,5 +77,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257993
+  "updatedAt": 1774525987
 }

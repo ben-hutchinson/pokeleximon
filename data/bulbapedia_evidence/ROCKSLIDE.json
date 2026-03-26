@@ -3,12 +3,12 @@
   "answerDisplay": "ROCK SLIDE",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Rock Slide (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rock_Slide_(move)",
   "pageId": 3766,
-  "pageRevisionId": 4503907,
+  "pageRevisionId": 4516466,
   "leadText": "Rock Slide (Japanese: いわなだれ Rock Slide) is a damage-dealing Rock-type move introduced in Generation I. It is: TM48 in Generation I. TM80 from Generation IV to Pokémon Ultra Sun and Ultra Moon, and in Pokémon Brilliant Diamond and Shining Pearl. TM22 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee! and Pokémon Sword and Shield. TM086 in Pokémon Scarlet and Violet. TM012 in Pokémon Legends: Z-A.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also cause the target to cringe, making it incapable of action. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Cringe status condition, making its actions fail. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで ひるみじょうたいにして わざや こうげきを だせなくする Conq. Send large rocks crashing into the enemy. It may also cause the target to flinch. MD GtI It damages an enemy. It could also cause the Cringe status condition, which makes the enemy unable to attack or use moves. S MD It damages an enemy. It could also make the enemy flinch."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Lance's Aerodactyl using Rock Slide in Pokémon Gold and Silver In Generation I , Rock Slide was the only Rock-type TM . In the Japanese versions of Pokémon Red, Green, Blue, and Yellow, the girl who gives the player TM48 in exchange for a Soda Pop states that Rock Slide can sometimes cause the enemy to faint (Japanese: たまに あいてを きぜつ させる). In the English version of Pokémon Red and Blue , she makes no reference to fainting, but instead says Rock Slide can \"spook the target sometimes\". This may be a reference to flinching , even though the move could not cause flinching until Generation II . This quote is omitted in the English version of Pokémon Yellow . In Generation II, Champion Lance 's Aerodactyl knows Rock Slide, despite the fact that it couldn't learn the move prior to Generation III . Rock Slide is the only Rock-type move capable of making the target flinch . Cornerstone Mask Ogerpon and Iron Boulder are the only Rock types that are unable to learn Rock Slide."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Rock Slide",
     "Rock-Slide (move)"
   ],
-  "updatedAt": 1773326475
+  "updatedAt": 1774524610
 }

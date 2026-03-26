@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4491168,
   "evidencePassMode": "second_pass",
   "response": {
@@ -32,6 +32,11 @@
         "text": "Held: Dragon-Type moves from holder do 20% more damage. Changes Arceuss and Judgments type to Dragon.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Boosts Dragon-type moves",
+        "evidence_ref": "Description",
+        "specificity": 0.86
       },
       {
         "text": "Species-linked power item",
@@ -67,6 +72,13 @@
         "evidence_ref": "Description",
         "mystery_score": 0.64,
         "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Dragon-move booster",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
         "style": "effect"
       },
       {
@@ -121,6 +133,7 @@
     ],
     "cryptic_definition_seeds": [
       "unlocking item",
+      "dragon booster",
       "the holder's dragon-type moves by item",
       "signature orb"
     ],
@@ -131,5 +144,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257940
+  "updatedAt": 1774525963
 }

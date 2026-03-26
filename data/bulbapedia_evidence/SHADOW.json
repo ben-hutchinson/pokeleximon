@@ -3,7 +3,7 @@
   "answerDisplay": "SHADOW",
   "sourceType": "type",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Shadow",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow",
@@ -17,5 +17,5 @@
     "Shadow (type)",
     "Shadow type"
   ],
-  "updatedAt": 1773326820
+  "updatedAt": 1774524662
 }

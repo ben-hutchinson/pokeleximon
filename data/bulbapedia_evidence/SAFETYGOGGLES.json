@@ -3,7 +3,7 @@
   "answerDisplay": "SAFETY GOGGLES",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Safety Goggles",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Safety_Goggles",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Grants the holder immunity to powder and spore moves and to damage from hail and sandstorm . It also blocks the activation of the Ability Effect Spore ."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods X Y Battle Maison (48 BP ) OR AS Route 111 Battle Maison (48 BP ) S M US UM Haina Desert Night Battle Tree (48 BP ) Sw Sh Route 7 Sw Sh CT Tunnel to the Top S V Delibird Presents ( Levincia Branch, after earning 4 Gym Badges ) S V ID Item Printer Distribution [ edit | edit source ] Games Event Language/Region Distribution period S V Summer training support sets Japan July 22 to September 30, 2023 As a held item [ edit | edit source ] Games Event Language/Region Distribution period S V Paul Chua's Arcanine All June 30 to July 3, 2023 2024 Pokémon World Championships Steenee All August 15 to 30, 2024 Wolfe Glick's Incineroar All June 13 to 20, 2025"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Safety Goggles",
     "Safety-Goggles (item)"
   ],
-  "updatedAt": 1773326595
+  "updatedAt": 1774524651
 }

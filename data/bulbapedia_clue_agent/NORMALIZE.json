@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4483503,
   "evidencePassMode": "first_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Normalize (Japanese: Normal Skin) is an Ability introduced in Generation IV. It is the signature Ability of Skitty and Delcatty.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Skitty And Delcatty",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD T D S Enables the Pokemon to use all of its moves as if they were Normal-type moves. B S L MD GtI Unavailable S MD All moves the Pokemon uses will be Normal type! MD RT DX All moves used by the Pokemon become Normal-type and deal more damage.",
@@ -50,6 +55,13 @@
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Skitty And Delcatty's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
       {
         "text": "Status-blocking trait",
         "evidence_ref": "lead",
@@ -91,5 +103,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257984
+  "updatedAt": 1774525983
 }

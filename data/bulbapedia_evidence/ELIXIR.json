@@ -3,12 +3,12 @@
   "answerDisplay": "ELIXIR",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Elixir",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Elixir",
   "pageId": 12853,
-  "pageRevisionId": 4504971,
+  "pageRevisionId": 4515131,
   "leadText": "The Elixir (Japanese: ピーピーエイダー PP Aider), spelled Elixer in the Generation I and II games, is a type of medicine introduced in Generation I. It restores 10 PP for all of a Pokémon's moves. It is the improved counterpart of the Ether; it has an improved counterpart, the Max Elixir.",
   "sections": [
     {
@@ -18,6 +18,14 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] It fully restores 10 PP to all the moves of the Pokémon that ingests it and restores 5 Belly for it. If thrown, it will grant the same effect as if it was consumed by the Pokémon it hits (it cannot be caught); if it is sticky , it will instead deal 2 damage."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods R B Y R G B Y Route 25 , Pokémon Tower (×2), Silph Co. , Underground Path (Kanto Routes 7–8) G S C Lake of Rage (show large Magikarp ) C Routes 2 , 12 , 44 , and 45 , Mt. Mortar , Dark Cave , Rock Tunnel , Union Cave Mystery Gift Pokémon Pikachu 2 GS (800 W ) R S E Routes 110 E , 111 E , 119 (×2), and 123 , Victory Road Sootopolis City (after showing a large Barboach R S / Seedot E or Shroomish R S / Lotad E ) Trainer Hill E Pickup ( Lv. 61-80 E ) FR LG Route 25 , Pokémon Tower , Silph Co. , Pokémon Mansion , Power Plant , Water Path Colo Shadow PKMN Lab (×3), Snagem Hideout Pickup XD Citadark Isle , Cipher Key Lair , Realgam Tower (Expert Battle Bingo and Battle CD 29 completion prizes) Pickup ( Lv. 61-80) D P Pt Routes 206 D P and 212 (×1 D P /×2 Pt ), Team Galactic HQ , Victory Road D P , Iron Island Pt Pickup ( Lv. 61-80) HG SS Routes 2 , 12 , 44 , and 45 , Mt. Mortar , Dark Cave , Rock Tunnel , Union Cave Pickup ( Lv. 61-80) PW Dim Cave , Quiet Cave , Rally B W Route 6 , Twist Mountain , Chargestone Cave , Lacunosa Town , Mistralton Cave , Relic Castle , Wellspring Cave Pickup ( Lv. 61-80) B2 W2 Routes 6 , 7 , and 9 , Dragonspiral Tower , Reversal Mountain Funfest Mission ( Do a Great Trade-Up! ) Pickup ( Lv. 61-80) DW * Spooky Manor X Y Routes 21 (×2) and 22 , Terminus Cave , Frost Cavern , Coumarine City Lumiose City (from Beauty Anais after defeating her) Pickup ( Lv. 61-80) OR AS Routes 110 , 119 , and 123 , Victory Road Mauville City (after defeating Rotation Girl Circie) Secret Base (\"Pick something up\" with Secret Pal ) Pickup ( Lv. 61-80) S M US UM Route 12 , Brooklet Hill , Vast Poni Canyon US UM , Resolution Cave US UM Pickup ( Lv. 61-80) P E Routes 7 , 17 , and 18 , S.S. Anne , Pokémon Tower , Team Rocket Hideout Hidden recurring item ( Silph Co. ) Sw Sh Route 8 , Slumbering Weald Pickup ( Lv. 41-100) BD SP Routes 206 and 212 , Team Galactic HQ , Victory Road Pickup ( Lv. 41-100) S V Area Zero , Asado Desert , Casseroya Lake , Dalizapa Passage , Glaseado Mountain , East Province (Area Three) , North Province (Area One) , North Province (Area Two) , North Province (Area Three) , South Province (Area One) , South Province (Area Four) , South Province (Area Six) , West Province (Area One) Pickup ( Lv. 41-100) S V TM Apple Hills , Fellhorn Gorge , Kitakami Wilds , Oni Mountain , Oni's Maw , Paradise Barrens , Wistful Fields S V ID Central Plaza , Coastal Biome , Polar Biome , Savanna Biome Blueberry Academy Store (20 BP ) Item Printer"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods S MD Kecleon Shops , Sparkling Floor , dropped by wild Abra"
     },
     {
       "title": "Description",
@@ -33,5 +41,5 @@
     "Elixir",
     "Elixir (item)"
   ],
-  "updatedAt": 1773322542
+  "updatedAt": 1774524172
 }

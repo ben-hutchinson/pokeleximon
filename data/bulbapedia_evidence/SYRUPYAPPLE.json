@@ -3,7 +3,7 @@
   "answerDisplay": "SYRUPY APPLE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Syrupy Apple",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Syrupy_Apple",
@@ -20,6 +20,14 @@
       "text": "Effect [ edit | edit source ] Syrupy Apples are required to evolve certain Pokémon in Pokémon GO. They are consumed upon use. Applin requires 200 and 20 Syrupy Apples to evolve into Dipplin ."
     },
     {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods S V TM Mossfell Confluence (Food Stand)"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Tapping apples that appear near PokéStops can award either Sweet Apples, Tart Apples, Syrupy Apples, or an encounter with a wild Applin. Apples will also have an increased chance of appearing at PokéStops with Mossy Lure Modules ."
+    },
+    {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description S V A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally syrupy."
     },
@@ -34,5 +42,5 @@
     "Syrupy Apple",
     "Syrupy-Apple (item)"
   ],
-  "updatedAt": 1773327767
+  "updatedAt": 1774524799
 }

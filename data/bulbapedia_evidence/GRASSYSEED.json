@@ -3,7 +3,7 @@
   "answerDisplay": "GRASSY SEED",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Grassy Seed",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Grassy_Seed",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] If a Pokémon is holding an Grassy Seed while the field is Grassy Terrain , it consumes the Grassy Seed and its Defense is increased by one stage. The Grassy Seed is consumed even if the holder is not otherwise affected by the terrain (i.e. it is not grounded or in the semi-invulnerable turn of a move). It is not consumed if the holder already has +6 Defense stat stages (unless its Ability is Contrary , in which case it will not activate if the holder has -6 Defense stat stages). If the terrain is changed to Grassy Terrain by Grassy Surge , then immediately changed by another terrain-changing Ability , the Seed is consumed before the other Ability activates; however, if a Pokémon that holds a Grassy Seed and has a terrain-changing Ability is switched in during Grassy Terrain, its Ability activates before its held Seed can. Magic Room and Embargo fade before terrain does, so if Grassy Terrain would dissipate on the same turn as Magic Room or Embargo, the Seed will activate before the terrain dissipates. If multiple Pokémon each hold an Grassy Seed when the field becomes Grassy Terrain, each Pokémon will consume the Grassy Seed before Symbiosis transfers any item (including Grassy Seeds). If a held Grassy Seed did not activate because its holder's Defense is already at +6 (or -6 in the case of Contrary), it will not activate for its current holder until after the terrain is changed, the holder switches out, or its holder (or its holder's Substitute ) loses health. Generation IX [ edit | edit source ] In Generation IX , the Grassy Seed returns to the holder after the battle if it was used. Magic Room will fade before terrain does, but the Grassy Seed will not activate."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods S M Malie Garden Held by wild Bounsweet (5% chance) US UM Route 14 , Malie Garden Held by wild Steenee (5% chance) Sw Sh Wyndon Held by wild Bounsweet , wild Steenee (5% chance each), and wild Tsareena (50% chance) Sw Sh IA Cram-o-matic ( Grass : 2-20 points) S V Delibird Presents ( Cascarrafa Branch, after completing the main storyline) Sparkling overworld item ( West Province (Area Three) ) S V TM Mossfell Confluence Sparkling overworld item ( Mossfell Confluence , Wistful Fields ) Distribution [ edit | edit source ] As a held item [ edit | edit source ] Games Event Language/Region Distribution period US UM Ula'ula Island Shiny Tapu Bulu All March 19, 2019 to April 29, 2019"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Grassy Seed",
     "Grassy-Seed (item)"
   ],
-  "updatedAt": 1773323350
+  "updatedAt": 1774524251
 }

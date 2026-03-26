@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4398531,
   "evidencePassMode": "second_pass",
   "response": {
@@ -12,9 +12,40 @@
         "text": "Galar location",
         "evidence_ref": "lead",
         "specificity": 0.5
+      },
+      {
+        "text": "Located in The South Of The Southern Portion Of The Wild Area",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      },
+      {
+        "text": "Part of the Wild Area",
+        "evidence_ref": "lead",
+        "specificity": 0.82
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Located in The South Of The Southern Portion Of The Wild Area",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "theme"
+      },
+      {
+        "text": "Part of the Wild Area",
+        "evidence_ref": "lead",
+        "mystery_score": 0.76,
+        "specificity_score": 0.86,
+        "style": "theme"
+      },
+      {
+        "text": "Wild Area zone",
+        "evidence_ref": "lead",
+        "mystery_score": 0.7,
+        "specificity_score": 0.82,
+        "style": "theme"
+      },
       {
         "text": "Galar landmark",
         "evidence_ref": "lead",
@@ -24,7 +55,7 @@
       }
     ],
     "cryptic_definition_seeds": [
-      "Pokemon location"
+      "wild area site"
     ],
     "connections_descriptors": [
       "Galar landmarks"
@@ -32,5 +63,5 @@
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774258003
+  "updatedAt": 1774525991
 }

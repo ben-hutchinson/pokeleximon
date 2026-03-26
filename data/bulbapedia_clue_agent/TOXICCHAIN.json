@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4356380,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "If you were looking for the move called Toxic Chain in Japanese, see Malignant Chain (move). Toxic Chain (Japanese: Toxic Chain) is an Ability introduced during Generation IX, in The Teal Mask. It is the signature Ability of the Loyal Three.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of The Loyal Three",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If a Pokemon with this Ability uses a non- status move , there is a 30% chance the target will become badly poisoned . Toxic Chain's chances also apply independently for each hit of a multistrike move . If this Ability triggers when using the move Knock Off on a target with a Lum or Pecha Berry , the Berry will be consumed to cure the poisoning instead of being removed by Knock Off's effect. [ 1 ] Outside of battle [ edit | edit source ] Toxic Chain has no effect outside of battle. https://twitter.com/Theorymon/status/1703176996577321419",
@@ -41,6 +46,13 @@
         "mystery_score": 0.56,
         "specificity_score": 0.66,
         "style": "effect"
+      },
+      {
+        "text": "The Loyal Three's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
     "cryptic_definition_seeds": [
@@ -53,5 +65,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774258026
+  "updatedAt": 1774526001
 }

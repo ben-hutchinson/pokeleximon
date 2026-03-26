@@ -3,7 +3,7 @@
   "answerDisplay": "DARK",
   "sourceType": "type",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Dark",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dark",
@@ -17,5 +17,5 @@
     "Dark (type)",
     "Dark type"
   ],
-  "updatedAt": 1773322015
+  "updatedAt": 1774524108
 }

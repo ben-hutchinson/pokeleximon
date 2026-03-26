@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4365842,
-  "evidencePassMode": "first_pass",
+  "evidencePassMode": "second_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -32,9 +32,28 @@
         "text": "Effect [ edit | edit source ] Clear Amulet prevents the holder from having its stats lowered by other Pokemon's moves or Abilities . However, this item doesn't protect the user from the effects of Haze or Clear Smog . When held by a holder who has the Ability Magic Bounce , being hit by Parting Shot will still force the holder to switch out.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Stops other Pokemon from lowering the holder's stats",
+        "evidence_ref": "Description",
+        "specificity": 0.9
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Prevents the holder's stats from being lowered",
+        "evidence_ref": "Description",
+        "mystery_score": 0.82,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Blocks enemy stat drops",
+        "evidence_ref": "Description",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
       {
         "text": "Held battle item",
         "evidence_ref": "Description",
@@ -44,7 +63,7 @@
       }
     ],
     "cryptic_definition_seeds": [
-      "battle item"
+      "stat-drop shield"
     ],
     "connections_descriptors": [
       "Held battle items",
@@ -53,5 +72,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257935
+  "updatedAt": 1774525959
 }

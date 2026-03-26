@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4392434,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Pastel Veil (Japanese: Pastel Veil) is an Ability introduced in Generation VIII. It is the signature Ability of Galarian Ponyta and Galarian Rapidash.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Galarian Ponyta And Galarian Rapidash",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Pastel Veil prevents the Pokemon with this Ability and its allies from being afflicted by poison . It also heals the poisoned status condition of allies if a Pokemon with this Ability is sent out into battle. Outside of battle [ edit | edit source ] Pastel Veil has no effect outside of battle.",
@@ -41,6 +46,13 @@
         "mystery_score": 0.56,
         "specificity_score": 0.66,
         "style": "effect"
+      },
+      {
+        "text": "Galarian Ponyta And Galarian Rapidash's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
     "cryptic_definition_seeds": [
@@ -53,5 +65,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257990
+  "updatedAt": 1774525985
 }

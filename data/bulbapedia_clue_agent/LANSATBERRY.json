@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4509784,
   "evidencePassMode": "second_pass",
   "response": {
@@ -32,6 +32,11 @@
         "text": "Held: Consumed at 1/4 max HP to boost critical hit ratio by two stages.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Raises critical-hit odds",
+        "evidence_ref": "lead",
+        "specificity": 0.88
       },
       {
         "text": "Poor catch rate on most targets",
@@ -93,6 +98,20 @@
         "style": "restriction"
       },
       {
+        "text": "Critical-hit booster",
+        "evidence_ref": "lead",
+        "mystery_score": 0.76,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Raises crit odds in battle",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
         "text": "Held battle item",
         "evidence_ref": "Description",
         "mystery_score": 0.46,
@@ -110,5 +129,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257960
+  "updatedAt": 1774525976
 }

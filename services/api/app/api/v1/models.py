@@ -112,6 +112,42 @@ class JobResponse(BaseModel):
     status: Literal["queued", "running", "succeeded", "failed"]
 
 
+class DraftEntryUpdate(BaseModel):
+    id: str
+    clue: str
+
+
+class DraftUpdateMetadata(BaseModel):
+    editor: str | None = None
+    notes: str | None = None
+
+
+class DraftUpdateRequest(BaseModel):
+    entries: list[DraftEntryUpdate] = Field(default_factory=list)
+    metadata: DraftUpdateMetadata = Field(default_factory=DraftUpdateMetadata)
+
+
+class DraftPuzzleRecord(BaseModel):
+    id: str
+    date: str
+    gameType: PuzzleGameType
+    title: str
+    publishedAt: str | None = None
+    timezone: str
+    grid: Grid
+    entries: list[Entry]
+    metadata: dict[str, Any] = Field(default_factory=dict)
+
+
+class DraftPuzzleResponse(BaseModel):
+    item: DraftPuzzleRecord
+
+
+class DraftValidationResponse(BaseModel):
+    item: DraftPuzzleRecord
+    validation: dict[str, Any] = Field(default_factory=dict)
+
+
 class PersonalStatsBucket(BaseModel):
     pageViews: int = 0
     completions: int = 0

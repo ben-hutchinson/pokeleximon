@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4410243,
   "evidencePassMode": "second_pass",
   "response": {
@@ -12,14 +12,52 @@
         "text": "Hisui location",
         "evidence_ref": "lead",
         "specificity": 0.5
+      },
+      {
+        "text": "Located in The Western Region Of The Cobalt Coastlands Of Hisui",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      },
+      {
+        "text": "slope landmark",
+        "evidence_ref": "title",
+        "specificity": 0.68
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Located in The Western Region Of The Cobalt Coastlands Of Hisui",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "theme"
+      },
       {
         "text": "Hisui landmark",
         "evidence_ref": "lead",
         "mystery_score": 0.38,
         "specificity_score": 0.5,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Hisui slope",
+        "evidence_ref": "title",
+        "mystery_score": 0.52,
+        "specificity_score": 0.7,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Regional slope",
+        "evidence_ref": "title",
+        "mystery_score": 0.44,
+        "specificity_score": 0.62,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Slope in Hisui",
+        "evidence_ref": "title",
+        "mystery_score": 0.42,
+        "specificity_score": 0.66,
         "style": "taxonomy"
       }
     ],
@@ -27,10 +65,11 @@
       "Pokemon location"
     ],
     "connections_descriptors": [
-      "Hisui landmarks"
+      "Hisui landmarks",
+      "Hisui slopes"
     ],
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774257937
+  "updatedAt": 1774525961
 }

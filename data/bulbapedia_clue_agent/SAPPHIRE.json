@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4300913,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -44,5 +44,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774258006
+  "updatedAt": 1774525992
 }

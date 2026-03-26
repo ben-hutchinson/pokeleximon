@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4200370,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Merciless (Japanese: Brute) is an Ability introduced in Generation VII. It is the signature Ability of Mareanie and Toxapex.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Mareanie And Toxapex",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Attacks used by the Pokemon with this Ability will always become critical hits against poisoned targets, unless that target has Battle Armor or Shell Armor or is under the effects of Lucky Chant . Outside of battle [ edit | edit source ] Merciless has no effect outside of battle.",
@@ -48,6 +53,13 @@
         "mystery_score": 0.56,
         "specificity_score": 0.66,
         "style": "effect"
+      },
+      {
+        "text": "Mareanie And Toxapex's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
     "cryptic_definition_seeds": [
@@ -62,5 +74,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257974
+  "updatedAt": 1774525980
 }

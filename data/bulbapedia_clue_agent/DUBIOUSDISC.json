@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4504924,
-  "evidencePassMode": "first_pass",
+  "evidencePassMode": "second_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -29,12 +29,31 @@
         "specificity": 0.62
       },
       {
+        "text": "Special Poke Ball",
+        "evidence_ref": "lead",
+        "specificity": 0.68
+      },
+      {
         "text": "Evolution item",
         "evidence_ref": "lead",
         "specificity": 0.76
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Special Poke Ball",
+        "evidence_ref": "lead",
+        "mystery_score": 0.52,
+        "specificity_score": 0.68,
+        "style": "family"
+      },
+      {
+        "text": "Special capture ball",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.66,
+        "style": "family"
+      },
       {
         "text": "Evolution item",
         "evidence_ref": "lead",
@@ -51,14 +70,16 @@
       }
     ],
     "cryptic_definition_seeds": [
+      "special ball",
       "evolution item"
     ],
     "connections_descriptors": [
+      "Special Poke Balls",
       "Evolution items",
       "Gen IV items"
     ],
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257942
+  "updatedAt": 1774525964
 }

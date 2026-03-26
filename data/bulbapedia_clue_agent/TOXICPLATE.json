@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4491161,
   "evidencePassMode": "first_pass",
   "response": {
@@ -32,6 +32,11 @@
         "text": "Held: Poison-Type moves from holder do 20% more damage. Changes Arceuss and Judgments type to Poison.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Boosts Poison-type moves",
+        "evidence_ref": "Description",
+        "specificity": 0.86
       },
       {
         "text": "Safari-zone capture tool",
@@ -89,6 +94,13 @@
         "style": "effect"
       },
       {
+        "text": "Poison-move booster",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
         "text": "The Holder'S Poison-Type Moves By Power boost item",
         "evidence_ref": "Effect",
         "mystery_score": 0.8,
@@ -140,6 +152,7 @@
     ],
     "cryptic_definition_seeds": [
       "unlocking item",
+      "poison booster",
       "the holder's poison-type moves by item",
       "signature orb"
     ],
@@ -150,5 +163,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774258026
+  "updatedAt": 1774526001
 }

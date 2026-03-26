@@ -3,7 +3,7 @@
   "answerDisplay": "ROCK POLISH",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Rock Polish (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rock_Polish_(move)",
@@ -30,5 +30,5 @@
     "Rock Polish",
     "Rock-Polish (move)"
   ],
-  "updatedAt": 1773326467
+  "updatedAt": 1774524607
 }

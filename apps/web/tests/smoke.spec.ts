@@ -1,4 +1,4 @@
-import { expect, test, type Page, type Route } from "@playwright/test";
+import { devices, expect, test, type Page, type Route } from "@playwright/test";
 
 const crosswordPuzzle = {
   id: "puz_crossword_smoke",
@@ -70,7 +70,7 @@ const crypticPuzzle = {
       enumeration: "3",
       cells: [[0, 0], [1, 0], [2, 0]],
       mechanism: "anagram",
-      wordplayMetadata: { indicator: "remodeled", fodder: "WE" },
+      wordplayMetadata: { definition: "Legendary psychic Pokemon", indicator: "remodeled", fodder: ["WE"] },
     },
   ],
   metadata: {
@@ -467,8 +467,15 @@ test("main navigation routes render and core interactions work", async ({ page }
   await expect(page).toHaveURL(/\/cryptic$/);
   await expect(page.getByRole("heading", { name: "Cryptic Clue" })).toBeVisible();
   await expect(page.getByRole("link", { name: "Cryptic Archive" })).toBeVisible();
-  await page.getByRole("button", { name: "Hint 1" }).click();
-  await expect(page.getByText("Hint 1 shown.")).toBeVisible();
+  await expect(page.getByText(/Work today.?s clue/i)).toHaveCount(0);
+  await expect(page.locator(".cryptic-entry-tile")).toHaveCount(3);
+  await page.getByRole("button", { name: "Hints" }).click();
+  await page.getByRole("button", { name: "Definition" }).click();
+  await expect(page.getByText(/Legendary psychic Pokemon/i)).toBeVisible();
+  await page.locator(".cryptic-entry-tile").nth(0).click();
+  await page.keyboard.type("MEW");
+  await page.getByRole("button", { name: "Check Answer" }).click();
+  await expect(page.getByText("Correct. Explanation unlocked.")).toBeVisible();
 
   await page.getByRole("link", { name: "Back to home" }).click();
   await homeGameNav.getByRole("link", { name: "Connections" }).click();
@@ -481,6 +488,66 @@ test("main navigation routes render and core interactions work", async ({ page }
   await page.getByRole("button", { name: "Pikachu" }).click();
   await page.getByRole("button", { name: "Submit Group" }).click();
   await expect(page.getByRole("heading", { name: "Starter Pokemon" })).toBeVisible();
+});
+
+test("connections completion collapses the interaction chrome and persists the completed layout", async ({ page }) => {
+  await page.goto("/connections");
+
+  for (const group of connectionsPuzzle.metadata.connections.groups) {
+    for (const label of group.labels) {
+      await page.getByRole("button", { name: label, exact: true }).click();
+    }
+    await page.getByRole("button", { name: "Submit Group" }).click();
+  }
+
+  await expect(page.getByRole("heading", { name: "Completed" })).toBeVisible();
+  await expect(page.locator(".connections-header")).toHaveCount(0);
+  await expect(page.locator(".connections-grid")).toHaveCount(0);
+  await expect(page.getByRole("button", { name: "Submit Group" })).toHaveCount(0);
+
+  const solvedCards = page.locator(".connections-group-card");
+  await expect(solvedCards).toHaveCount(4);
+  await expect(solvedCards.nth(0)).toHaveAttribute("data-difficulty-tone", "yellow");
+  await expect(solvedCards.nth(1)).toHaveAttribute("data-difficulty-tone", "green");
+  await expect(solvedCards.nth(2)).toHaveAttribute("data-difficulty-tone", "blue");
+  await expect(solvedCards.nth(3)).toHaveAttribute("data-difficulty-tone", "purple");
+
+  await page.reload();
+
+  await expect(page.getByRole("heading", { name: "Completed" })).toBeVisible();
+  await expect(page.locator(".connections-header")).toHaveCount(0);
+  await expect(page.locator(".connections-grid")).toHaveCount(0);
+  await expect(page.locator(".connections-group-card")).toHaveCount(4);
+});
+
+test("mobile crossword taps focus a real input and typing advances through cells", async ({ browser }) => {
+  const context = await browser.newContext({ ...devices["iPhone 13"] });
+  const page = await context.newPage();
+
+  try {
+    await mockApi(page);
+    await page.goto("http://127.0.0.1:4173/daily");
+
+    const firstCell = page.locator('[data-cell="0,0"]');
+    const firstInput = page.locator('[data-cell-input="0,0"]');
+
+    await firstCell.click();
+    await expect(firstInput).toBeFocused();
+
+    await page.keyboard.type("C");
+    await expect(page.locator('[data-cell-input="0,0"]')).toHaveValue("C");
+    await expect(page.locator('[data-cell-input="1,0"]')).toBeFocused();
+
+    await page.keyboard.type("A");
+    await expect(page.locator('[data-cell-input="1,0"]')).toHaveValue("A");
+    await expect(page.locator('[data-cell-input="2,0"]')).toBeFocused();
+
+    await page.keyboard.type("T");
+    await expect(page.locator('[data-cell-input="2,0"]')).toHaveValue("T");
+    await expect(page.locator('[data-cell-input="0,1"]')).toBeFocused();
+  } finally {
+    await context.close();
+  }
 });
 
 test("secondary routes render with mocked data", async ({ page }) => {

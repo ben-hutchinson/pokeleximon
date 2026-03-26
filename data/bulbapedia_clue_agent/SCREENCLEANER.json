@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 3853860,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Screen Cleaner (Japanese: Barrier-Free) is an Ability introduced in Generation VIII. It is the signature Ability of Galarian Mr. Mime and Mr. Rime.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Galarian Mr",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Screen Cleaner is sent out, the effects of Light Screen , Reflect , and Aurora Veil end on both sides of the field. Outside of battle [ edit | edit source ] Screen Cleaner has no effect outside of battle.",
@@ -36,17 +41,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "Gen VIII ability",
+        "text": "Galarian Mr's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
-    "connections_descriptors": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
+    "connections_descriptors": [
+      "Gen VIII abilities"
+    ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774258007
+  "updatedAt": 1774525993
 }

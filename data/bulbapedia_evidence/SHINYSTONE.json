@@ -3,7 +3,7 @@
   "answerDisplay": "SHINY STONE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Shiny Stone",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shiny_Stone",
@@ -24,8 +24,16 @@
       "text": "Effect [ edit | edit source ] The Shiny Stone is required to evolve certain Pokémon in Pokémon Sleep. It is consumed upon use. Togetic requires 80 Togepi Candy and a Shiny Stone to evolve into Togekiss ."
     },
     {
-      "title": "Description",
-      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 A peculiar stone that makes certain species of Pokémon evolve. It shines with a dazzling light. X Y OR AS S M US UM P E Sw Sh BD SP LA S V ZA A peculiar stone that can make certain species of Pokémon evolve. It shines with a dazzling light."
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Routes 210 Pt and 228 , Iron Island Pickup ( Lv. 41-100) HG SS National Park Route 14 (gift from Bird Keeper Josh), Bug-Catching Contest first prize (post- National Pokédex ), Pokéathlon Dome (post- National Pokédex , 3000 Pts.) Su Mo We Th Sa PBR Shop (7200 Poké Coupons ) B W Route 6 , Dragonspiral Tower Dust clouds , Black City B / White Forest W (Molly) B2 W2 Route 6 , Abundant Shrine , Dragonspiral Tower , Undella Town Join Avenue ( Antique Shop ), White Forest (Store 3), Funfest Mission ( Find Shining Ores! ) W2 Dust clouds ( Chargestone Cave , Mistralton Cave , Clay Tunnel , Twist Mountain , Underground Ruins , Victory Road , Wellspring Cave , Seaside Cave , Giant Chasm ) Hidden Grottoes ( Routes 6 and 13 ; Abundant Shrine ) DW * Rugged Mountain X Y Route 12 Secret Super Training (An Opening of Lighting-Quick Attacks!), Route 18 (from Psychic Inver ) OR AS Route 121 Mauville City ( Inverse Battle Stop ), Secret Super Training (An Opening of Lighting-Quick Attacks!), Mt. Pyre ( rematch with Fairy Tale Girl Momo), Secret Base (\"Pick up stones\" with Secret Pal ) PMC * Balloon Popping (Lv. 1) S M US UM Malie City S US , Ancient Poni Path Poké Pelago (Isle Aphun - Brilliant-Stone Hunting, Interesting-Item Hunting) Sw Sh Route 8 Hidden recurring item ( Lake of Outrage ) Bridge Field ( Digging Duo ) Poké Job reward (Tiers VII and VIII) Sw Sh IA Hidden recurring item ( Potbottom Desert ) Sw Sh CT Lakeside Cave Hidden recurring item ( Roaring-Sea Caves ) BD SP Route 228 , Iron Island Pickup ( Lv. 11-100) LA Bonechill Wastes (reward for completing Request 74: \"A Bit of Help from Blissey\") Red ore deposits ( Coronet Highlands , Alabaster Icelands ) Trading post (1,200 MP ) Ginkgo Guild cart (randomly sold by Ginter , as \"Dazzling Rock\") Space-time distortions Path of Tenacity S V Socarrat Trail , South Province (Area Six) Reward for registering 150 Pokémon in the Paldea Pokédex Porto Marinada auction Sparkling overworld item ( Alfornada Cavern , Area Zero , Dalizapa Passage ) S V TM Chilling Waterhead S V ID Item Printer ZA Stone Emporium Distribution [ edit | edit source ] Games Event Language/Region Distribution period PW Pokéwalker Spot items Korean January 7 to 31, 2011 S V November 2024 Nintendo newsletter items All November 18, 2024 to December 31, 2025"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods MD T D S Treasure Boxes , Job requests (★3-★9) Happy Outlook (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F), Mt. Mistral (Kecleon Shop: 3F, 5F, 7F, 9F, 11F, 13F, 15F, 17F, 19F), Shimmer Hill (Kecleon Shop: 2F, 4F, 6F, 8F, 10F, 12F, 14F, 16F), Lost Wilderness (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F) MD GtI Treasure Boxes Pokémon Paradise (Sunken Treasure, Beartic Slide, Prize Palace) Skill Treasury , Treasure Trove"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods Sleep Achievement reward Sleep Point Exchange (Regular)"
     }
   ],
   "familyPages": [],
@@ -34,5 +42,5 @@
     "Shiny Stone",
     "Shiny-Stone (item)"
   ],
-  "updatedAt": 1773326940
+  "updatedAt": 1774524700
 }

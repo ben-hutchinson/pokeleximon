@@ -3,7 +3,7 @@
   "answerDisplay": "ROCK",
   "sourceType": "type",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Rock",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rock",
@@ -17,5 +17,5 @@
     "Rock (type)",
     "Rock type"
   ],
-  "updatedAt": 1773326453
+  "updatedAt": 1774524596
 }

@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4505070,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Innards Out (Japanese: Flying Innards) is an Ability introduced in Generation VII. It is the signature Ability of Pyukumuku.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Pyukumuku",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with this Ability is knocked out by an opponent's attack, it deals damage to that opponent equal to the amount of HP it had left before last being hit. If a Pokemon with this Ability faints through Future Sight or Doom Desire , Innards Out will only activate if the user of the move is still on the field. If a Pokemon with this Ability moves first and is then knocked out by Core Enforcer , Innards Out will not activate. If Innards Out causes two opposing Pokemon to faint at the same time, and neither party has any remaining Pokemon, then the Pokemon that activated Innards Out loses. If a Pokemon with this ability is knocked out by a multistrike move (including a move that becomes multistrike due to Parental Bond ), the total HP dealt by all strikes will be added together and countered back all at once. Outside of battle [ edit | edit source ] Innards Out has no effect outside of battle.",
@@ -40,6 +45,13 @@
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Pyukumuku's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
       {
         "text": "Punishes a knockout blow",
         "evidence_ref": "lead",
@@ -73,5 +85,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257957
+  "updatedAt": 1774525973
 }

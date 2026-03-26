@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4226943,
   "evidencePassMode": "second_pass",
   "response": {
@@ -27,9 +27,21 @@
         "text": "near a regional town",
         "evidence_ref": "lead",
         "specificity": 0.58
+      },
+      {
+        "text": "Site on Mt. Chimney",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Site on Mt. Chimney",
+        "evidence_ref": "lead",
+        "mystery_score": 0.78,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
       {
         "text": "Hoenn landmark",
         "evidence_ref": "lead",
@@ -76,5 +88,5 @@
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774257945
+  "updatedAt": 1774525966
 }

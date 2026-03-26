@@ -3,7 +3,7 @@
   "answerDisplay": "LOADED DICE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Loaded Dice",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Loaded_Dice",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Loaded Dice causes multi-strike moves used by the holder to always hit at least four times, if possible. It causes Triple Kick , Triple Axel , and Population Bomb used by the holder to only perform one accuracy check. It causes the holder's Population Bomb to hit four to ten times (with an even chance of each number of hits)."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods S V East Province (Area One) (from a Pokémon League representative after defeating 5 Trainers in the area) Delibird Presents ( Levincia Branch) S V ID Item Printer Distribution [ edit | edit source ] Games Event Language/Region Distribution period S V Lotte World Mall battle item set South Korea April 29 to May 31, 2023"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Loaded Dice",
     "Loaded-Dice (item)"
   ],
-  "updatedAt": 1773324443
+  "updatedAt": 1774524349
 }

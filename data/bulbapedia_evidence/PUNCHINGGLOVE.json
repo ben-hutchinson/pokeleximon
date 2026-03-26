@@ -3,7 +3,7 @@
   "answerDisplay": "PUNCHING GLOVE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Punching Glove",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Punching_Glove",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Punching Glove increases the power of punching moves by 10% and prevents contact with targets done by those moves. This item's effect additionally stacks with Iron Fist ."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods S V Zapapico (from a Pokémon League representative after defeating 7 Trainers in East Province (Area Three) ) Delibird Presents ( Mesagoza Branch, after earning 4 Gym Badges )"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Punching Glove",
     "Punching-Glove (item)"
   ],
-  "updatedAt": 1773326112
+  "updatedAt": 1774524541
 }

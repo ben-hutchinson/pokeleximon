@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4484912,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Surge Surfer (Japanese: Surf Tail) is an Ability introduced in Generation VII. It is the signature Ability of Alolan Raichu.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Alolan Raichu",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When the battlefield is under the effects of Electric Terrain , Surge Surfer doubles the Speed of Pokemon with this Ability. Outside of battle [ edit | edit source ] Surge Surfer has no effect outside of battle.",
@@ -36,17 +41,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "Gen VII ability",
+        "text": "Alolan Raichu's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
-    "connections_descriptors": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
+    "connections_descriptors": [
+      "Gen VII abilities"
+    ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774258021
+  "updatedAt": 1774525998
 }

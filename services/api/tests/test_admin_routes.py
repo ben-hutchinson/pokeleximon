@@ -23,6 +23,14 @@ class AdminRouteTests(unittest.TestCase):
         self.assertIn('@router.post("/publish/daily")', source)
         self.assertIn("contestMode", source)
 
+    def test_draft_routes_exist(self):
+        source = ADMIN_FILE.read_text(encoding="utf-8")
+        self.assertIn('@router.post("/drafts/generate")', source)
+        self.assertIn('@router.get("/drafts"', source)
+        self.assertIn('@router.put("/drafts/{puzzle_id}"', source)
+        self.assertIn('@router.post("/drafts/{puzzle_id}/validate"', source)
+        self.assertIn('@router.post("/drafts/{puzzle_id}/publish"', source)
+
 
 if __name__ == "__main__":
     unittest.main()

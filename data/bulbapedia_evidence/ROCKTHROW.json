@@ -3,7 +3,7 @@
   "answerDisplay": "ROCK THROW",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Rock Throw (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rock_Throw_(move)",
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. B S L てきポケモンに ダメージをあたえる MD GtI S MD MD RT DX It damages an enemy."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] In Generation III, Secret Power has the animation of Rock Throw if used on a rocky surface. From Generation IV onwards, Secret Power additionally has the animation of Rock Throw if used in a cave ."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Rock Throw",
     "Rock-Throw (move)"
   ],
-  "updatedAt": 1773326479
+  "updatedAt": 1774524614
 }

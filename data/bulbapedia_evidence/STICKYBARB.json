@@ -3,7 +3,7 @@
   "answerDisplay": "STICKY BARB",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Sticky Barb",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sticky_Barb",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] At the end of the turn, the Sticky Barb damages the holder by 12.5% of its maximum HP each turn. If a Pokémon with no held item hits a Pokémon holding a Sticky Barb with a contact move, including Knock Off , the Sticky Barb will transfer to the Pokémon that used the move (even if the original holder has the Sticky Hold Ability). If the transfer target has a substitute , Sticky Barb will not transfer. The Sticky Barb does not damage Pokémon with the Ability Magic Guard ."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Veilstone Department Store Held by wild Cacnea and wild Cacturne (5% chance each) HG SS Vermilion City Held by wild Cacnea and wild Cacturne (5% chance each) B W Held by wild Ferroseed (5% chance) B2 W2 Route 20 Autumn Held by wild Cacturne and wild Ferroseed (5% chance each) DW * Rugged Mountain X Y Held by wild Ferroseed and wild Cacturne (5% chance each) OR AS Held by wild Cacnea (5% chance) S M US UM Fishing at Poni Island ( Seafolk Village , Poni Wilds S M , Poni Breaker Coast , Poni Meadow , Poni Gauntlet ) Sw Sh Bridge Field ( Digging Duo ) Held by wild Ferroseed and wild Ferrothorn (5% chance each) Sw Sh CT Hidden recurring item ( Ballimere Lake ) BD SP Veilstone Department Store Held by wild Cacnea and wild Cacturne (5% chance each) S V Delibird Presents ( Levincia Branch, after completing the main storyline)"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Sticky Barb",
     "Sticky-Barb (item)"
   ],
-  "updatedAt": 1773327579
+  "updatedAt": 1774524764
 }

@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4504899,
-  "evidencePassMode": "first_pass",
+  "evidencePassMode": "second_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -32,9 +32,71 @@
         "text": "Evolution item",
         "evidence_ref": "lead",
         "specificity": 0.76
+      },
+      {
+        "text": "Bug-Catching Contest ball",
+        "evidence_ref": "lead",
+        "specificity": 0.9
+      },
+      {
+        "text": "Evolves Vulpix To Evolve Into Ninetales Causes Growlithe To Evolve Into Arcanine Causes Hisuian Growlithe To Evolve Into Hisuian Arcanine Causes Eevee into Flareon The Fire Stone Cannot Be Used To Evolve The Partner Eevee Or Eevee With The Gigantamax Factor Into Flareon",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      },
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "Acquisition",
+        "specificity": 0.74
+      },
+      {
+        "text": "Event-only distribution item",
+        "evidence_ref": "Acquisition",
+        "specificity": 0.82
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "Acquisition",
+        "mystery_score": 0.66,
+        "specificity_score": 0.8,
+        "style": "family"
+      },
+      {
+        "text": "Exchangeable collectible",
+        "evidence_ref": "Acquisition",
+        "mystery_score": 0.62,
+        "specificity_score": 0.78,
+        "style": "family"
+      },
+      {
+        "text": "Event-only distribution item",
+        "evidence_ref": "Acquisition",
+        "mystery_score": 0.7,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Limited event key item",
+        "evidence_ref": "Acquisition",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Bug-Catching Contest ball",
+        "evidence_ref": "lead",
+        "mystery_score": 0.76,
+        "specificity_score": 0.9,
+        "style": "family"
+      },
+      {
+        "text": "National Park contest ball",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.88,
+        "style": "family"
+      },
       {
         "text": "Evolution item",
         "evidence_ref": "lead",
@@ -48,9 +110,33 @@
         "mystery_score": 0.54,
         "specificity_score": 0.8,
         "style": "family"
+      },
+      {
+        "text": "Evolves Vulpix To Evolve Into Ninetales Causes Growlithe To Evolve Into Arcanine Causes Hisuian Growlithe To Evolve Into Hisuian Arcanine Causes Eevee into Flareon The Fire Stone Cannot Be Used To Evolve The Partner Eevee Or Eevee With The Gigantamax Factor Into Flareon",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.92,
+        "style": "effect"
+      },
+      {
+        "text": "Vulpix To Evolve Into Ninetales Causes Growlithe To Evolve Into Arcanine Causes Hisuian Growlithe To Evolve Into Hisuian Arcanine Causes Eevee evolution item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Held item for Flareon The Fire Stone Cannot Be Used To Evolve The Partner Eevee Or Eevee With The Gigantamax Factor Into Flareon",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
       }
     ],
     "cryptic_definition_seeds": [
+      "exchange item",
+      "event item",
+      "contest ball",
       "evolution item"
     ],
     "connections_descriptors": [
@@ -60,5 +146,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257946
+  "updatedAt": 1774525966
 }

@@ -3,17 +3,21 @@
   "answerDisplay": "PEAT BLOCK",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Peat Block",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Peat_Block",
   "pageId": 268331,
-  "pageRevisionId": 4482376,
+  "pageRevisionId": 4514306,
   "leadText": "The Peat Block (Japanese: ピートブロック Peat Block) is a type of item introduced in Pokémon Legends: Arceus. It allows Ursaring to evolve into Ursaluna.",
   "sections": [
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Causes Ursaring to evolve into Ursaluna when used during a full moon. This consumes the Peat Block."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods LA Galaxy Hall (reward for completing Request 86: \"Gone Astray...in the Icelands\") Ginkgo Guild cart (randomly sold by Ginter , as \"Hunk of Coal\") Sometimes found by Ursaluna Space-time distortions"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Peat Block",
     "Peat-Block (item)"
   ],
-  "updatedAt": 1773325687
+  "updatedAt": 1774524443
 }

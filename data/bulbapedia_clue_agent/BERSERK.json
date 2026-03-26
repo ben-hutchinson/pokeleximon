@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4512567,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Berserk (Japanese: Frenzy) is an Ability introduced in Generation VII. Prior to Generation VIII, it was the signature Ability of Drampa. In Generation IX, it is the signature Ability of Galarian Moltres.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Drampa",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Each time the HP of a Pokemon with Berserk is reduced below half due to being targeted by a damaging move, its Special Attack is raised by one stage. If the HP of a Pokemon with Berserk drops below half but is about to be restored to above half due to a held item such as a Sitrus Berry , Berserk will activate before the HP is restored. However, if the move that hits the Pokemon with Berserk is a multistrike move , the item will be consumed immediately after the hit that drops the HP to below half, so Berserk will only activate if the HP is still below half after all the strikes and after the activation of the held item. If the HP falls below half due to indirect damage, such as one caused by Leech Seed , status conditions, or weather, Berserk won't activate. Berserk will not activate if the Pokemon's HP is reduced below half by a move affected by Sheer Force . Outside of battle [ edit | edit source ] Berserk has no effect outside of battle.",
@@ -53,6 +58,13 @@
         "style": "effect"
       },
       {
+        "text": "Drampa's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
         "text": "Raises Special Attack below half HP",
         "evidence_ref": "lead",
         "mystery_score": 0.76,
@@ -87,5 +99,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257929
+  "updatedAt": 1774525956
 }

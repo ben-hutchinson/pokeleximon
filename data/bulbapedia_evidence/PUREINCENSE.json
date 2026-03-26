@@ -3,7 +3,7 @@
   "answerDisplay": "PURE INCENSE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Pure Incense",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Pure_Incense",
@@ -16,16 +16,16 @@
       "text": "Effect [ edit | edit source ] In the overworld [ edit | edit source ] If held by the first member in the player 's party , it lowers the encounter rate of wild Pokémon by a third. Breeding [ edit | edit source ] If held by either parent of a pairing in Pokémon Day Care or the Pokémon Nursery that would produce a Chimecho Egg , a Chingling Egg is produced instead."
     },
     {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Route 221 HG SS Mt. Silver Cave B W Driftveil Market (post- National Pokédex ) B2 W2 Driftveil Market X Y Coumarine City Incense shop OR AS Slateport City Market S M US UM Konikoni City Incense stall Sw Sh Hulbury Incense merchant BD SP Route 221"
+    },
+    {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party. X Y OR AS S M US UM P E Sw Sh BD SP LA An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the head of the party. S V An item to be held by a Pokémon. It helps keep wild Pokémon away when the holder is the head of the party."
     },
     {
       "title": "In the core series games",
       "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.2.1 In the overworld 1.2.2 Breeding 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price D P Pt HG SS BD SP N/A $ 4,800 B W B2 W2 X Y OR AS $ 9,600 $ 4,800 S M US UM Sw Sh $ 6,000 $ 3,000 Effect [ edit | edit source ] In the overworld [ edit | edit source ] If held by the first member in the player 's party , it lowers the encounter rate of wild Pokémon by a third. Breeding [ edit | edit source ] If held by either parent of a pairing in Pokémon Day Care or the Pokémon Nursery that would produce a Chimecho Egg , a Chingling Egg is produced instead. Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party. X Y OR AS S M US UM P E Sw Sh BD SP LA An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the head of the party. S V An item to be held by a Pokémon. It helps keep wild Pokémon away when the holder is the head of the party. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Route 221 HG SS Mt. Silver Cave B W Driftveil Market (post- National Pokédex ) B2 W2 Driftveil Market X Y Coumarine City Incense shop OR AS Slateport City Market S M US UM Konikoni City Incense stall Sw Sh Hulbury Incense merchant BD SP Route 221"
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Pure Incense can be obtained in Pokémon Sword and Shield , despite Chingling and Chimecho not existing in those games."
     }
   ],
   "familyPages": [],
@@ -34,5 +34,5 @@
     "Pure Incense",
     "Pure-Incense (item)"
   ],
-  "updatedAt": 1773326123
+  "updatedAt": 1774524545
 }

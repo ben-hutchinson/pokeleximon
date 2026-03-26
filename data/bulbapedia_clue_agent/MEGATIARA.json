@@ -3,61 +3,39 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4505306,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
-      {
-        "text": "Gen VI item",
-        "evidence_ref": "lead",
-        "specificity": 0.48
-      },
       {
         "text": "unused",
         "evidence_ref": "lead",
         "specificity": 0.62
       },
       {
-        "text": "Gen VI unused",
-        "evidence_ref": "lead",
-        "specificity": 0.54
-      },
-      {
-        "text": "Effect [ edit | edit source ] The Key Stone allows the player to Mega Evolve their Pokemon if they hold the appropriate Mega Stone . A Trainer can only Mega Evolve one Pokemon per battle (or only have one Mega-Evolved Pokemon at any given moment ZA ).",
+        "text": "Unused NPC Key Stone.",
         "evidence_ref": "lead",
         "specificity": 0.62
-      },
-      {
-        "text": "Unlocks progression content",
-        "evidence_ref": "Description",
-        "specificity": 0.8
       }
     ],
     "crossword_candidates": [
       {
-        "text": "Unlocks progression content",
-        "evidence_ref": "Description",
-        "mystery_score": 0.68,
-        "specificity_score": 0.82,
-        "style": "effect"
-      },
-      {
-        "text": "Progress-gating key item",
-        "evidence_ref": "Description",
-        "mystery_score": 0.64,
-        "specificity_score": 0.8,
-        "style": "effect"
+        "text": "unused",
+        "evidence_ref": "lead",
+        "mystery_score": 0.35,
+        "specificity_score": 0.52,
+        "style": "category"
       }
     ],
     "cryptic_definition_seeds": [
-      "unlocking item"
+      "unused"
     ],
     "connections_descriptors": [
-      "Gen VI items"
+      "Unused"
     ],
     "risk_flags": [],
-    "confidence": 0.78
+    "confidence": 0.68
   },
-  "updatedAt": 1774257973
+  "updatedAt": 1774525980
 }

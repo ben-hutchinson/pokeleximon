@@ -3,12 +3,12 @@
   "answerDisplay": "WATER GUN",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Water Gun (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Water_Gun_(move)",
   "pageId": 3664,
-  "pageRevisionId": 4504414,
+  "pageRevisionId": 4514641,
   "leadText": "Water Gun (Japanese: みずでっぽう Water Gun) is a damage-dealing Water-type move introduced in Generation I. It is TM12 in Generation I.",
   "sections": [
     {
@@ -21,11 +21,7 @@
     },
     {
       "title": "Description",
-      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. B S L てきポケモンに ダメージをあたえる Conq. The enemy is blasted with a forceful shot of water. MD GtI It damages an enemy. S MD MD RT DX It damages an enemy. It reaches up to 2 tiles away."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] The glitch Pokémon MissingNo. is able to learn two copies of this move at the same time. Water Gun was the first move shown to be used in the Pokémon Adventures manga."
+      "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. B S L てきポケモンに ダメージをあたえる Conq. The enemy is blasted with a forceful shot of water. MD GtI It damages an enemy. S MD MD RT DX It damages an enemy. It reaches up to 2 tiles away. Pokopia Blasts a shot of water in front of you, moistening dry or withered things. This move can also put out fires."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Water Gun",
     "Water-Gun (move)"
   ],
-  "updatedAt": 1773328412
+  "updatedAt": 1774524875
 }

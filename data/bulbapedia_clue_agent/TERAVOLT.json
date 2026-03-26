@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4465202,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Teravolt (Japanese: Teravoltage) is an Ability introduced in Generation V. It is the signature Ability of Zekrom and Black Kyurem.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Zekrom And Black Kyurem",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description Conq. Moves can be used regardless of enemy Abilities. MD GtI Damage dealt by the Pokemon's moves is not influenced by the foe's Ability. * The Pokemon's moves are not influenced by the target's Ability! Electric-type moves can damage even a Pokemon with the Volt Absorb Ability. * S MD The Pokemon's moves are not influenced by the target's Ability! For example, Electric-type moves can damage even a Pokemon with the Volt Absorb Ability.",
@@ -41,17 +46,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "Gen V ability",
+        "text": "Zekrom And Black Kyurem's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
-    "connections_descriptors": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
+    "connections_descriptors": [
+      "Gen V abilities"
+    ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774258024
+  "updatedAt": 1774526000
 }

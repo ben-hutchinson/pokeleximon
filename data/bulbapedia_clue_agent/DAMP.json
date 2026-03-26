@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4499448,
   "evidencePassMode": "second_pass",
   "response": {
@@ -37,21 +37,46 @@
         "text": "Prevents self destruct, explosion, and aftermath from working while the Pokemon is in battle.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Prevents explosion moves",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
       }
     ],
     "crossword_candidates": [
       {
-        "text": "Gen III ability",
-        "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "text": "Prevents Explosion and Self-Destruct",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.92,
+        "style": "effect"
+      },
+      {
+        "text": "Explosion-blocking trait",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Stops self-destructing moves",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "effect"
       }
     ],
-    "cryptic_definition_seeds": [],
-    "connections_descriptors": [],
+    "cryptic_definition_seeds": [
+      "explosion blocker",
+      "blast stopper"
+    ],
+    "connections_descriptors": [
+      "Explosion-blocking abilities",
+      "Gen III abilities"
+    ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774257938
+  "updatedAt": 1774525961
 }

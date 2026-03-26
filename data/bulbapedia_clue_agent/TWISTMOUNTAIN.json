@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4491906,
   "evidencePassMode": "first_pass",
   "response": {
@@ -12,6 +12,11 @@
         "text": "Unova location",
         "evidence_ref": "lead",
         "specificity": 0.5
+      },
+      {
+        "text": "Located in The Unova Region To The North Of Route",
+        "evidence_ref": "lead",
+        "specificity": 0.78
       },
       {
         "text": "city landmark",
@@ -46,6 +51,13 @@
         "mystery_score": 0.54,
         "specificity_score": 0.72,
         "style": "taxonomy"
+      },
+      {
+        "text": "Located in The Unova Region To The North Of Route",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "theme"
       },
       {
         "text": "Unova landmark",
@@ -93,5 +105,5 @@
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774258028
+  "updatedAt": 1774526002
 }

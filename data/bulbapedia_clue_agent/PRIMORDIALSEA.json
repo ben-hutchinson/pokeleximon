@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4446869,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Primordial Sea (Japanese: Sea of the Beginning) is an Ability introduced during Generation VI, in Pokemon Omega Ruby and Alpha Sapphire. It is the signature Ability of Primal Kyogre.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Primal Kyogre",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description S MD The floor will have heavy rain! MD RT DX The floor will have Heavy Rain.",
@@ -46,6 +51,13 @@
     ],
     "crossword_candidates": [
       {
+        "text": "Primal Kyogre's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
         "text": "Weather-linked trait",
         "evidence_ref": "lead",
         "mystery_score": 0.56,
@@ -63,5 +75,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257996
+  "updatedAt": 1774525988
 }

@@ -3,8 +3,8 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4485792,
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
   "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
@@ -17,77 +17,25 @@
         "text": "Allows the player to summon a Ride Pokemon.",
         "evidence_ref": "lead",
         "specificity": 0.62
-      },
-      {
-        "text": "Special Poke Ball",
-        "evidence_ref": "lead",
-        "specificity": 0.68
-      },
-      {
-        "text": "Two-wheeled travel item",
-        "evidence_ref": "lead",
-        "specificity": 0.72
-      },
-      {
-        "text": "Unlocks progression content",
-        "evidence_ref": "lead",
-        "specificity": 0.8
       }
     ],
     "crossword_candidates": [
       {
-        "text": "Unlocks progression content",
+        "text": "unused",
         "evidence_ref": "lead",
-        "mystery_score": 0.68,
-        "specificity_score": 0.82,
-        "style": "effect"
-      },
-      {
-        "text": "Progress-gating key item",
-        "evidence_ref": "lead",
-        "mystery_score": 0.64,
-        "specificity_score": 0.8,
-        "style": "effect"
-      },
-      {
-        "text": "Special Poke Ball",
-        "evidence_ref": "lead",
-        "mystery_score": 0.52,
-        "specificity_score": 0.68,
-        "style": "family"
-      },
-      {
-        "text": "Special capture ball",
-        "evidence_ref": "lead",
-        "mystery_score": 0.5,
-        "specificity_score": 0.66,
-        "style": "family"
-      },
-      {
-        "text": "Two-wheeled travel item",
-        "evidence_ref": "lead",
-        "mystery_score": 0.66,
-        "specificity_score": 0.78,
-        "style": "utility"
-      },
-      {
-        "text": "Ride for quick travel",
-        "evidence_ref": "lead",
-        "mystery_score": 0.6,
-        "specificity_score": 0.74,
-        "style": "utility"
+        "mystery_score": 0.35,
+        "specificity_score": 0.52,
+        "style": "category"
       }
     ],
     "cryptic_definition_seeds": [
-      "unlocking item",
-      "special ball",
-      "travel gear"
+      "unused"
     ],
     "connections_descriptors": [
-      "Special Poke Balls"
+      "Unused"
     ],
     "risk_flags": [],
-    "confidence": 0.78
+    "confidence": 0.68
   },
-  "updatedAt": 1774258002
+  "updatedAt": 1774525990
 }

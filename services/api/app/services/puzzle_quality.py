@@ -208,3 +208,127 @@ def evaluate_crossword_publishability(
             "minWordLengthStdDev": MIN_WORD_LENGTH_STDDEV,
         },
     }
+
+
+def evaluate_crossword_structure(
+    *,
+    grid: dict[str, Any],
+    entries: list[dict[str, Any]],
+    metadata: dict[str, Any] | None = None,
+) -> dict[str, Any]:
+    metadata = metadata or {}
+    hard_failures: list[str] = []
+    warnings: list[str] = []
+
+    total_cells = max(1, len(grid.get("cells", [])))
+    open_cells = 0
+    for cell in grid.get("cells", []):
+        if not bool(cell.get("isBlock", False)):
+            open_cells += 1
+    fill_ratio = open_cells / total_cells
+
+    entry_count = len(entries)
+    across_count = sum(1 for entry in entries if entry.get("direction") == "across")
+    down_count = sum(1 for entry in entries if entry.get("direction") == "down")
+    direction_balance = (
+        min(across_count, down_count) / max(across_count, down_count)
+        if max(across_count, down_count) > 0
+        else 0.0
+    )
+
+    answers = [str(entry.get("answer", "")) for entry in entries]
+    normalized_answers = [_normalize(answer) for answer in answers if answer]
+    unique_answer_ratio = len(set(normalized_answers)) / max(1, len(normalized_answers))
+
+    answer_lengths: list[int] = []
+    for entry in entries:
+        length = entry.get("length")
+        if isinstance(length, int):
+            answer_lengths.append(length)
+            continue
+        answer_lengths.append(len(str(entry.get("answer", ""))))
+    short_answer_ratio = sum(1 for length in answer_lengths if length <= 4) / max(1, len(answer_lengths))
+    word_length_stddev = _stddev(answer_lengths)
+
+    cell_usage: dict[tuple[int, int], int] = {}
+    for entry in entries:
+        for coord in entry.get("cells", []):
+            if not isinstance(coord, (list, tuple)) or len(coord) != 2:
+                continue
+            try:
+                x = int(coord[0])
+                y = int(coord[1])
+            except (TypeError, ValueError):
+                continue
+            key = (x, y)
+            cell_usage[key] = cell_usage.get(key, 0) + 1
+    intersection_cells = sum(1 for count in cell_usage.values() if count >= 2)
+    intersection_ratio = intersection_cells / max(1, open_cells)
+
+    theme_tags = {str(tag).strip().lower() for tag in metadata.get("themeTags", [])}
+    has_pokemon_theme = "pokemon" in theme_tags
+
+    if entry_count < MIN_ENTRY_COUNT:
+        hard_failures.append("entry_count_below_minimum")
+    if fill_ratio < MIN_FILL_RATIO or fill_ratio > MAX_FILL_RATIO:
+        hard_failures.append("fill_ratio_out_of_range")
+    if intersection_ratio < MIN_INTERSECTION_RATIO:
+        hard_failures.append("intersection_ratio_too_low")
+    if direction_balance < MIN_DIRECTION_BALANCE:
+        hard_failures.append("direction_balance_too_low")
+    if unique_answer_ratio < 1.0:
+        hard_failures.append("duplicate_answers_detected")
+    if short_answer_ratio > MAX_SHORT_ANSWER_RATIO:
+        hard_failures.append("short_answer_ratio_too_high")
+    if word_length_stddev < MIN_WORD_LENGTH_STDDEV:
+        hard_failures.append("word_length_balance_too_flat")
+    if not has_pokemon_theme:
+        if str(metadata.get("source", "")).strip().lower() == "curated":
+            hard_failures.append("missing_pokemon_theme_tag")
+        else:
+            warnings.append("missing_pokemon_theme_tag")
+
+    if metadata.get("source") != "curated":
+        warnings.append("metadata_source_not_curated")
+    if word_length_stddev > 4.5:
+        warnings.append("word_length_spread_high")
+    if fill_ratio < 0.52:
+        warnings.append("fill_ratio_sparse")
+    if fill_ratio > 0.75:
+        warnings.append("fill_ratio_dense")
+
+    score = 100.0
+    score -= abs(fill_ratio - 0.62) * 120.0
+    score -= abs(intersection_ratio - 0.28) * 90.0
+    score -= (1.0 - min(1.0, direction_balance)) * 25.0
+    score -= max(0.0, short_answer_ratio - 0.35) * 60.0
+    score -= len(hard_failures) * 8.0
+    score = max(0.0, min(100.0, score))
+
+    return {
+        "isPublishable": len(hard_failures) == 0,
+        "score": round(score, 2),
+        "hardFailures": hard_failures,
+        "warnings": warnings,
+        "metrics": {
+            "entryCount": entry_count,
+            "acrossCount": across_count,
+            "downCount": down_count,
+            "fillRatio": round(fill_ratio, 4),
+            "intersectionRatio": round(intersection_ratio, 4),
+            "directionBalance": round(direction_balance, 4),
+            "uniqueAnswerRatio": round(unique_answer_ratio, 4),
+            "shortAnswerRatio": round(short_answer_ratio, 4),
+            "wordLengthStdDev": round(word_length_stddev, 4),
+            "hasPokemonTheme": has_pokemon_theme,
+        },
+        "thresholds": {
+            "minEntryCount": MIN_ENTRY_COUNT,
+            "fillRatioMin": MIN_FILL_RATIO,
+            "fillRatioMax": MAX_FILL_RATIO,
+            "minIntersectionRatio": MIN_INTERSECTION_RATIO,
+            "minDirectionBalance": MIN_DIRECTION_BALANCE,
+            "maxShortAnswerRatio": MAX_SHORT_ANSWER_RATIO,
+            "minWordLengthStdDev": MIN_WORD_LENGTH_STDDEV,
+        },
+    }

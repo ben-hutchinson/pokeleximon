@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4491173,
   "evidencePassMode": "first_pass",
   "response": {
@@ -27,9 +27,21 @@
         "text": "near a regional town",
         "evidence_ref": "lead",
         "specificity": 0.58
+      },
+      {
+        "text": "Crimson Mirelands area",
+        "evidence_ref": "lead",
+        "specificity": 0.82
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Crimson Mirelands area",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.84,
+        "style": "theme"
+      },
       {
         "text": "Ancient regional ruins",
         "evidence_ref": "lead",
@@ -84,5 +96,5 @@
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774258016
+  "updatedAt": 1774525996
 }

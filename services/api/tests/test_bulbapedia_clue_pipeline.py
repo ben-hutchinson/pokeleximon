@@ -36,6 +36,15 @@ class _FakeResponse:
 
 
 class BulbapediaCluePipelineTests(unittest.TestCase):
+    def test_title_candidates_include_mixed_hyphen_variants(self) -> None:
+        candidates = bulbapedia_evidence.title_candidates(
+            answer_display="NEVER MELT ICE",
+            source_type="item",
+            canonical_slug="never-melt-ice",
+        )
+        self.assertIn("Never-Melt Ice", candidates)
+        self.assertIn("Never Melt-Ice", candidates)
+
     def test_fetch_bulbapedia_evidence_resolves_sections_and_uses_cache(self) -> None:
         responses = [
             {
@@ -92,6 +101,45 @@ class BulbapediaCluePipelineTests(unittest.TestCase):
                     cache_dir=Path(temp_dir),
                 )
             self.assertEqual(cached["pageRevisionId"], 12345)
+
+    def test_fetch_bulbapedia_evidence_uses_search_fallback_for_title_mismatch(self) -> None:
+        def fake_resolve(title: str, _timeout: float) -> dict[str, object] | None:
+            if title == "Dragon's Maw (Ability)":
+                return {
+                    "pageId": 77,
+                    "title": "Dragon's Maw (Ability)",
+                    "fullUrl": "https://bulbapedia.bulbagarden.net/wiki/Dragon%27s_Maw_(Ability)",
+                    "lastRevid": 456,
+                }
+            return None
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            with patch.object(bulbapedia_evidence, "resolve_page_metadata", side_effect=fake_resolve) as mocked_resolve:
+                with patch.object(
+                    bulbapedia_evidence,
+                    "search_page_titles",
+                    return_value=["Dragon's Maw (Ability)"],
+                ) as mocked_search:
+                    with patch.object(
+                        bulbapedia_evidence,
+                        "fetch_lead_text",
+                        return_value="Dragon's Maw is an Ability introduced in Generation VIII.",
+                    ):
+                        with patch.object(bulbapedia_evidence, "fetch_sections", return_value=[]):
+                            evidence = bulbapedia_evidence.fetch_bulbapedia_evidence(
+                                answer_key="DRAGONSMAW",
+                                answer_display="DRAGONS MAW",
+                                source_type="ability",
+                                canonical_slug="dragons-maw",
+                                structured_facts={},
+                                cache_dir=Path(temp_dir),
+                            )
+
+        self.assertEqual(evidence["status"], "ok")
+        self.assertEqual(evidence["pageTitle"], "Dragon's Maw (Ability)")
+        self.assertEqual(evidence["pageRevisionId"], 456)
+        self.assertGreaterEqual(mocked_resolve.call_count, 2)
+        mocked_search.assert_called()
 
     def test_second_pass_item_evidence_uses_family_page_and_cache_mode(self) -> None:
         responses = [

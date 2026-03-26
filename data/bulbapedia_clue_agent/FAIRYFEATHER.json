@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4482374,
   "evidencePassMode": "first_pass",
   "response": {
@@ -34,6 +34,16 @@
         "specificity": 0.62
       },
       {
+        "text": "Boosts Fairy-type moves",
+        "evidence_ref": "Description",
+        "specificity": 0.86
+      },
+      {
+        "text": "Boosts the first Fairy-type move",
+        "evidence_ref": "Description",
+        "specificity": 0.9
+      },
+      {
         "text": "Boosts Fairy moves for The Holder'",
         "evidence_ref": "Description",
         "specificity": 0.9
@@ -45,6 +55,27 @@
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Boosts the first Fairy-type move",
+        "evidence_ref": "Description",
+        "mystery_score": 0.82,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "One-use Fairy booster",
+        "evidence_ref": "Description",
+        "mystery_score": 0.76,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Fairy-move booster",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
       {
         "text": "The Holder'S Fairy-Type Moves By Power boost item",
         "evidence_ref": "Effect",
@@ -96,6 +127,7 @@
       }
     ],
     "cryptic_definition_seeds": [
+      "fairy booster",
       "the holder's fairy-type moves by item",
       "signature orb"
     ],
@@ -106,5 +138,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257945
+  "updatedAt": 1774525966
 }

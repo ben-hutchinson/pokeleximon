@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4471598,
   "evidencePassMode": "first_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Stance Change (Japanese: Battle Switch) is an Ability introduced in Generation VI. It is the signature Ability of Aegislash.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Aegislash",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description S MD If the Pokemon uses an attack move, its Forme changes to Blade Forme, and its Attack and Sp. Atk go up while its Defense and Sp. Def go down. The Pokemon can return its Forme to Shield Forme by using King's Shield. This Ability can neither be changed nor sealed!",
@@ -53,6 +58,13 @@
         "style": "effect"
       },
       {
+        "text": "Aegislash's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
         "text": "Status-blocking trait",
         "evidence_ref": "lead",
         "mystery_score": 0.68,
@@ -86,5 +98,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774258018
+  "updatedAt": 1774525997
 }

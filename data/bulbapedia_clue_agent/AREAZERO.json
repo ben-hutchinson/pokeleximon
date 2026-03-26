@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4492796,
   "evidencePassMode": "second_pass",
   "response": {
@@ -25,6 +25,20 @@
         "evidence_ref": "lead",
         "mystery_score": 0.38,
         "specificity_score": 0.5,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Paldea route connector",
+        "evidence_ref": "lead",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Connector gate in Paldea",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.78,
         "style": "taxonomy"
       },
       {
@@ -59,5 +73,5 @@
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774257926
+  "updatedAt": 1774525954
 }

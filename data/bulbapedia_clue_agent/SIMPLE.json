@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4107730,
   "evidencePassMode": "first_pass",
   "response": {
@@ -12,6 +12,11 @@
         "text": "Simple (Japanese: Simple) is an Ability introduced in Generation IV. In Generation IX, it is the signature Ability of Numel.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Numel",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IV 1.1.2 Generation V onward 1.1.2.1 Generation VII 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation IV [ edit | edit source ] Simple doubles the effectiveness of stat stages. For example, if Defense Curl is used, the screen will display that the user's Defense has increased by one stage and the game will store the user's Defense stage as +1, but the effect of that +1 stage will be equal to the effect of two regular stages and the user's Defense will be doubled during damage calculation. Similarly, if Tail Whip is used on this Pokemon, its Defense stat will fall one stage, but the effect will be treated as two. The effect of stat stages cannot exceed their usual cap. For example, a Pokemon with Simple that has obtained +3 Defense stages will have quadrupled their Defense stat in damage calculation (the usual effect of +6 Defense); they can still continue to use a move like Defense Curl up to three more times to boost their Defense stage to +6, but these three additional stages will have no greater effect during damage calculation. The same applies to -3 Defense. Because the stage numbers in-game have not changed, a Pokemon that uses Psych Up on a target with Simple only copies the stored (not doubled) stat stages. If a Pokemon uses Baton Pass to switch to a target with Simple, the target's passed stat stages will essentially gain double effect; if a Pokemon with Simple uses Baton Pass to a target without Simple, the target will not obtain any doubled stages. Similarly, if a Pokemon boosts its stats and then acquires Simple through a move like Skill Swap , its pre-existing effective stat changes will be doubled (barring caps) until it loses Simple. Generation V onward [ edit | edit source ] Simple now directly doubles the number of stages that a stat is increased or decreased when the move, Ability, or item is used. For example, if Defense Curl is used, the screen will display that the user's Defense has increased by two stages (\"sharply rose\") and the game will store the user's Defense stage as +2, doubling the user's Defense as expected. Similarly, Tail Whip targeting a Pokemon with Simple will cause its Defense to directly drop by two stages. As a result, moves like Defense Curl can only be used up to three times before they will fail (as the user's Defense stage will be the maximum of +6). If Psych Up is used on a target with Simple, the doubled stages will be copied. Using Baton Pass to a recipient with Simple will not cause the recipient to receive stat stages of double effect; if a Simple Pokemon uses Baton Pass itself, it will transfer the doubled stat stages. Similarly, if a Pokemon boosts its stats and then receives Simple through a move like Skill Swap, its pre-existing stat changes will not be doubled and nothing further will happen if it loses Simple. If a move used by a Pokemon with Mold Breaker , Teravolt , or Turboblaze would change a stat stage of a Pokemon with Simple, the stat changes will not be doubled. The move Simple Beam can change the target Pokemon's Ability to Simple. Generation VII [ edit | edit source ] Stat stage increases caused by the Z-Power effects of status Z-Moves are not modified by Simple. However, the stat stage increases as a result of Extreme Evoboost and Clangorous Soulblaze are modified. Outside of battle [ edit | edit source ] Simple has no effect outside of battle.",
@@ -30,6 +35,13 @@
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Numel's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
       {
         "text": "Copies an ally's stat changes",
         "evidence_ref": "Effect",
@@ -62,5 +74,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774258012
+  "updatedAt": 1774525994
 }

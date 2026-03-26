@@ -3,12 +3,12 @@
   "answerDisplay": "POISON STING",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Poison Sting (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Poison_Sting_(move)",
   "pageId": 3649,
-  "pageRevisionId": 4500904,
+  "pageRevisionId": 4512147,
   "leadText": "Poison Sting (Japanese: どくばり Poison Needle) is a damage-dealing Poison-type move introduced in Generation I.",
   "sections": [
     {
@@ -30,5 +30,5 @@
     "Poison Sting",
     "Poison-Sting (move)"
   ],
-  "updatedAt": 1773325889
+  "updatedAt": 1774524474
 }

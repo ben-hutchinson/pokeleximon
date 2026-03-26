@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4419736,
   "evidencePassMode": "second_pass",
   "response": {
@@ -22,9 +22,28 @@
         "text": "near a regional town",
         "evidence_ref": "lead",
         "specificity": 0.58
+      },
+      {
+        "text": "One of the Six Wonders of Kitakami",
+        "evidence_ref": "lead",
+        "specificity": 0.9
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "One of Kitakami's Six Wonders",
+        "evidence_ref": "lead",
+        "mystery_score": 0.82,
+        "specificity_score": 0.92,
+        "style": "theme"
+      },
+      {
+        "text": "Kitakami wonder site",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "theme"
+      },
       {
         "text": "Paldea landmark",
         "evidence_ref": "lead",
@@ -62,14 +81,15 @@
       }
     ],
     "cryptic_definition_seeds": [
-      "Pokemon location"
+      "regional wonder"
     ],
     "connections_descriptors": [
+      "Kitakami wonders",
       "Paldea landmarks",
       "Paldea towns"
     ],
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774257959
+  "updatedAt": 1774525975
 }

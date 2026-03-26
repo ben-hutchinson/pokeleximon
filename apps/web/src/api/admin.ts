@@ -1,5 +1,7 @@
 import type { GameType } from "./puzzles";
 
+type ReserveGameType = Extract<GameType, "connections">;
+
 type AdminFetchOptions = RequestInit & {
   query?: Record<string, string | number | boolean | null | undefined>;
 };
@@ -53,7 +55,7 @@ async function adminFetch<T>(path: string, options: AdminFetchOptions = {}) {
 }
 
 export type AdminReserveItem = {
-  gameType: GameType;
+  gameType: ReserveGameType;
   today: string;
   remaining: number;
   threshold: number;
@@ -76,7 +78,7 @@ export type AdminJob = {
 export type AdminAlert = {
   id: number;
   alertType: string;
-  gameType: GameType;
+  gameType: string;
   severity: string;
   message: string;
   details: Record<string, unknown>;
@@ -112,7 +114,44 @@ export type AdminAnalyticsSummary = {
   };
 };
 
-export async function generatePuzzle(params: { date: string; gameType: GameType; force?: boolean }) {
+export type AdminDraftPuzzle = {
+  id: string;
+  date: string;
+  gameType: GameType;
+  title: string;
+  publishedAt: string | null;
+  timezone: string;
+  grid: {
+    width: number;
+    height: number;
+    cells: Array<Record<string, unknown>>;
+  };
+  entries: Array<{
+    id: string;
+    direction: "across" | "down";
+    number: number;
+    answer: string;
+    clue: string;
+    length: number;
+    cells: Array<[number, number]>;
+    sourceRef?: string | null;
+    mechanism?: string | null;
+    enumeration?: string | null;
+    wordplayPlan?: string | null;
+    wordplayMetadata?: Record<string, unknown> | null;
+  }>;
+  metadata: Record<string, unknown>;
+};
+
+export type AdminDraftValidationResult = {
+  isPublishable: boolean;
+  score?: number | null;
+  hardFailures: string[];
+  warnings: string[];
+  metrics?: Record<string, unknown>;
+};
+
+export async function generatePuzzle(params: { date: string; gameType: ReserveGameType; force?: boolean }) {
   return adminFetch<{ jobId: string; status: string }>("/generate", {
     method: "POST",
     query: {
@@ -123,7 +162,55 @@ export async function generatePuzzle(params: { date: string; gameType: GameType;
   });
 }
 
-export async function publishPuzzle(params: { date: string; gameType: GameType; contestMode?: boolean }) {
+export async function generateDraft(params: { date?: string; gameType: Extract<GameType, "crossword" | "cryptic"> }) {
+  return adminFetch<Record<string, unknown>>("/drafts/generate", {
+    method: "POST",
+    query: {
+      date: params.date,
+      gameType: params.gameType,
+    },
+  });
+}
+
+export async function getDraft(params: { date?: string; gameType: Extract<GameType, "crossword" | "cryptic"> }) {
+  return adminFetch<{ item: AdminDraftPuzzle }>("/drafts", {
+    query: {
+      date: params.date,
+      gameType: params.gameType,
+    },
+  });
+}
+
+export async function saveDraft(params: {
+  puzzleId: string;
+  entries: Array<{ id: string; clue: string }>;
+  metadata?: { editor?: string; notes?: string };
+}) {
+  return adminFetch<{ item: AdminDraftPuzzle }>(`/drafts/${params.puzzleId}`, {
+    method: "PUT",
+    body: JSON.stringify({
+      entries: params.entries,
+      metadata: params.metadata ?? {},
+    }),
+  });
+}
+
+export async function validateDraft(puzzleId: string) {
+  return adminFetch<{ item: AdminDraftPuzzle; validation: AdminDraftValidationResult }>(`/drafts/${puzzleId}/validate`, {
+    method: "POST",
+  });
+}
+
+export async function publishDraft(params: { puzzleId: string; contestMode?: boolean }) {
+  return adminFetch<{ item: AdminDraftPuzzle; validation: AdminDraftValidationResult }>(`/drafts/${params.puzzleId}/publish`, {
+    method: "POST",
+    query: {
+      contestMode: params.contestMode,
+    },
+  });
+}
+
+export async function publishPuzzle(params: { date: string; gameType: ReserveGameType; contestMode?: boolean }) {
   return adminFetch<Record<string, unknown>>("/publish", {
     method: "POST",
     query: {
@@ -134,7 +221,7 @@ export async function publishPuzzle(params: { date: string; gameType: GameType; 
   });
 }
 
-export async function publishDaily(params: { gameType: GameType; date?: string; contestMode?: boolean }) {
+export async function publishDaily(params: { gameType: ReserveGameType; date?: string; contestMode?: boolean }) {
   return adminFetch<Record<string, unknown>>("/publish/daily", {
     method: "POST",
     query: {
@@ -146,7 +233,7 @@ export async function publishDaily(params: { gameType: GameType; date?: string; 
 }
 
 export async function rollbackDailyPublish(params: {
-  gameType: GameType;
+  gameType: ReserveGameType;
   date?: string;
   sourceDate?: string;
   reason?: string;
@@ -163,13 +250,13 @@ export async function rollbackDailyPublish(params: {
   });
 }
 
-export async function getReserveStatus(gameType?: GameType) {
+export async function getReserveStatus(gameType?: ReserveGameType) {
   return adminFetch<{ items: AdminReserveItem[]; timezone: string }>("/reserve", {
     query: { gameType },
   });
 }
 
-export async function topUpReserve(params: { gameType?: GameType; targetCount?: number }) {
+export async function topUpReserve(params: { gameType?: ReserveGameType; targetCount?: number }) {
   return adminFetch<{ items: Record<string, unknown>[]; errors: Record<string, unknown>[]; timezone: string }>(
     "/reserve/topup",
     {

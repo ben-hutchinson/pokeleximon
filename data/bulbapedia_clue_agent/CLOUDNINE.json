@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4377382,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Cloud Nine (Japanese: No Weather) is an Ability introduced in Generation III. Prior to Generation V, it was the signature Ability of Psyduck and Golduck.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Psyduck And Golduck",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD R B Changes the weather to clear. MD T D S Changes the weather to a clear condition. B S L MD GtI Unavailable S MD It changes the floor to have ineffective weather! MD RT DX This Ability causes the floor to have Ineffective Weather, removing the effects of weather.",
@@ -50,6 +55,13 @@
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Psyduck And Golduck's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
       {
         "text": "Cancels weather effects",
         "evidence_ref": "Description",
@@ -92,5 +104,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257936
+  "updatedAt": 1774525960
 }

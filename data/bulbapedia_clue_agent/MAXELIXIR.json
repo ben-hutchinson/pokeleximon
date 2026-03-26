@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4504967,
-  "evidencePassMode": "first_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": 4516003,
+  "evidencePassMode": "second_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -27,54 +27,37 @@
         "text": "Restores PP to full for each move.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Event-only distribution item",
+        "evidence_ref": "Acquisition",
+        "specificity": 0.82
       }
     ],
     "crossword_candidates": [
       {
-        "text": "healing item",
-        "evidence_ref": "lead",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
+        "text": "Event-only distribution item",
+        "evidence_ref": "Acquisition",
+        "mystery_score": 0.7,
+        "specificity_score": 0.84,
         "style": "effect"
       },
       {
-        "text": "healing item",
-        "evidence_ref": "lead",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
+        "text": "Limited event key item",
+        "evidence_ref": "Acquisition",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
         "style": "effect"
-      },
-      {
-        "text": "healing item",
-        "evidence_ref": "lead",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "pp recovery",
-        "evidence_ref": "lead",
-        "mystery_score": 0.35,
-        "specificity_score": 0.52,
-        "style": "category"
-      },
-      {
-        "text": "Gen I pp recovery",
-        "evidence_ref": "lead",
-        "mystery_score": 0.34,
-        "specificity_score": 0.54,
-        "style": "taxonomy"
       }
     ],
     "cryptic_definition_seeds": [
-      "pp recovery"
+      "event item"
     ],
     "connections_descriptors": [
-      "Healing items",
-      "Pp Recovery"
+      "Gen I items"
     ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.78
   },
-  "updatedAt": 1774257971
+  "updatedAt": 1774525979
 }

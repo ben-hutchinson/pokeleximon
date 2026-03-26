@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4503090,
   "evidencePassMode": "first_pass",
   "response": {
@@ -12,6 +12,11 @@
         "text": "Kanto location",
         "evidence_ref": "lead",
         "specificity": 0.5
+      },
+      {
+        "text": "Located in Southwestern Kanto",
+        "evidence_ref": "lead",
+        "specificity": 0.78
       },
       {
         "text": "town landmark",
@@ -50,6 +55,13 @@
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Located in Southwestern Kanto",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "theme"
+      },
       {
         "text": "Kanto landmark",
         "evidence_ref": "lead",
@@ -111,5 +123,5 @@
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774257989
+  "updatedAt": 1774525985
 }

@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4300511,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -22,16 +22,6 @@
         "text": "Story or event key item",
         "evidence_ref": "lead",
         "specificity": 0.66
-      },
-      {
-        "text": "Unlocks progression content",
-        "evidence_ref": "lead",
-        "specificity": 0.8
-      },
-      {
-        "text": "Opens Locked Doors In The Goldenrod Tunnel",
-        "evidence_ref": "lead",
-        "specificity": 0.86
       }
     ],
     "crossword_candidates": [
@@ -50,34 +40,6 @@
         "style": "family"
       },
       {
-        "text": "Unlocks progression content",
-        "evidence_ref": "lead",
-        "mystery_score": 0.68,
-        "specificity_score": 0.82,
-        "style": "effect"
-      },
-      {
-        "text": "Progress-gating key item",
-        "evidence_ref": "lead",
-        "mystery_score": 0.64,
-        "specificity_score": 0.8,
-        "style": "effect"
-      },
-      {
-        "text": "Opens Locked Doors In The Goldenrod Tunnel",
-        "evidence_ref": "lead",
-        "mystery_score": 0.78,
-        "specificity_score": 0.9,
-        "style": "effect"
-      },
-      {
-        "text": "Key for Locked Doors In The Goldenrod Tunnel",
-        "evidence_ref": "lead",
-        "mystery_score": 0.7,
-        "specificity_score": 0.84,
-        "style": "effect"
-      },
-      {
         "text": "Story-progress key item",
         "evidence_ref": "lead",
         "mystery_score": 0.62,
@@ -93,7 +55,7 @@
       }
     ],
     "cryptic_definition_seeds": [
-      "unlocking item"
+      "battle item"
     ],
     "connections_descriptors": [
       "Key items"
@@ -101,5 +63,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257928
+  "updatedAt": 1774525955
 }

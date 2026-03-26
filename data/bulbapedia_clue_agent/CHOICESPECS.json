@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4484501,
-  "evidencePassMode": "first_pass",
+  "evidencePassMode": "second_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -32,9 +32,35 @@
         "text": "Held: Increases Special Attack by 50%, but restricts the holder to only one move.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Boosts special attack but locks one move",
+        "evidence_ref": "Description",
+        "specificity": 0.9
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Boosts Sp. Atk but locks one move",
+        "evidence_ref": "Description",
+        "mystery_score": 0.82,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Sp. Atk-boosting Choice item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.76,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Single-move-locking held item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
       {
         "text": "Held battle item",
         "evidence_ref": "Description",
@@ -44,7 +70,8 @@
       }
     ],
     "cryptic_definition_seeds": [
-      "battle item"
+      "choice item",
+      "move-locking gear"
     ],
     "connections_descriptors": [
       "Held battle items",
@@ -53,5 +80,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257935
+  "updatedAt": 1774525959
 }

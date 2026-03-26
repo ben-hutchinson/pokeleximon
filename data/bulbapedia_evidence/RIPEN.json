@@ -3,7 +3,7 @@
   "answerDisplay": "RIPEN",
   "sourceType": "ability",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Ripen (Ability)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ripen_(Ability)",
@@ -25,5 +25,5 @@
     "Ripen",
     "Ripen (Ability)"
   ],
-  "updatedAt": 1773326439
+  "updatedAt": 1774524593
 }

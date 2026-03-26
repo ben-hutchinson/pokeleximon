@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4407505,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Honey Gather (Japanese: Honey Gather) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Combee.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Combee",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD T D S Improves the chances of finding Nectar in Treasure Boxes. B S L MD GtI Unavailable S MD When the Pokemon goes to a different floor, it may pick up Nectar! But if it is already holding an item, it won't pick up anything.",
@@ -41,17 +46,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "Gen IV ability",
+        "text": "Combee's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
-    "connections_descriptors": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
+    "connections_descriptors": [
+      "Gen IV abilities"
+    ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774257955
+  "updatedAt": 1774525972
 }

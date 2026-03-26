@@ -88,6 +88,30 @@ class CrosswordQualityGateTests(unittest.TestCase):
 
         self.assertEqual(ctx.exception.code, "crossword_disallowed_clue_content_detected")
 
+    def test_draft_governed_builder_uses_structural_gate(self):
+        payload = {"id": "puz_test", "grid": "{}", "entries": "[]", "metadata": "{}"}
+        report = {
+            "isPublishable": False,
+            "score": 38.0,
+            "hardFailures": ["intersection_ratio_too_low"],
+            "warnings": ["fill_ratio_sparse"],
+        }
+
+        with (
+            patch.object(reserve_generator, "_build_crossword_puzzle_payload", return_value=payload),
+            patch.object(reserve_generator, "_attach_crossword_structural_report", return_value=report),
+        ):
+            with self.assertRaises(reserve_generator.QualityGateError) as ctx:
+                reserve_generator._build_governed_crossword_draft_payload(
+                    target_date=date(2026, 3, 3),
+                    timezone="Europe/London",
+                    lexicon=[],
+                    seed_value=20260303,
+                    max_attempts=1,
+                )
+
+        self.assertEqual(ctx.exception.code, "crossword_structure_gate_rejected")
+
 
 if __name__ == "__main__":
     unittest.main()

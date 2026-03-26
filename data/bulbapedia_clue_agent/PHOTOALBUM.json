@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4301341,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -17,37 +17,25 @@
         "text": "Stores photos from your adventure.",
         "evidence_ref": "lead",
         "specificity": 0.62
-      },
-      {
-        "text": "Unlocks progression content",
-        "evidence_ref": "lead",
-        "specificity": 0.8
       }
     ],
     "crossword_candidates": [
       {
-        "text": "Unlocks progression content",
+        "text": "unused",
         "evidence_ref": "lead",
-        "mystery_score": 0.68,
-        "specificity_score": 0.82,
-        "style": "effect"
-      },
-      {
-        "text": "Progress-gating key item",
-        "evidence_ref": "lead",
-        "mystery_score": 0.64,
-        "specificity_score": 0.8,
-        "style": "effect"
+        "mystery_score": 0.35,
+        "specificity_score": 0.52,
+        "style": "category"
       }
     ],
     "cryptic_definition_seeds": [
-      "unlocking item"
+      "unused"
     ],
     "connections_descriptors": [
-      "Battle items"
+      "Unused"
     ],
     "risk_flags": [],
-    "confidence": 0.78
+    "confidence": 0.68
   },
-  "updatedAt": 1774257992
+  "updatedAt": 1774525986
 }

@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4259074,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Rocky Payload (Japanese: Rock Transport) is an Ability introduced in Generation IX. It is the signature Ability of Bombirdier.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Bombirdier",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If a Rock-type move is used by a Pokemon with this Ability, its Attack or Special Attack stat is multiplied by 1.5 during damage calculation, effectively increasing damage dealt by 50%. Outside of battle [ edit | edit source ] Rocky Payload has no effect outside of battle.",
@@ -36,17 +41,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "Gen IX ability",
+        "text": "Bombirdier's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
-    "connections_descriptors": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
+    "connections_descriptors": [
+      "Gen IX abilities"
+    ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774258003
+  "updatedAt": 1774525991
 }

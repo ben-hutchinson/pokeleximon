@@ -3,17 +3,21 @@
   "answerDisplay": "POWER HERB",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Power Herb",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Power_Herb",
   "pageId": 20717,
-  "pageRevisionId": 4483217,
+  "pageRevisionId": 4513311,
   "leadText": "The Power Herb (Japanese: パワフルハーブ Powerful Herb) is a type of held item introduced in Generation IV. It allows the holder to execute a move with a charging turn in one turn.",
   "sections": [
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] If the holder uses a move that has a charging turn (except Sky Drop ), immediately after charging the move the user consumes the Power Herb and executes the final stage of the move. Because the charging stage is still performed, the Defense boost from Skull Bash and the Special Attack boost from Meteor Beam and Electro Shot are still applied. If a Pokémon uses Solar Beam or Solar Blade during harsh sunlight or Electro Shot during rain , it will not consume its held Power Herb. Moves affected [ edit | edit source ] Move Type Category Bounce Flying Physical Dig Ground Physical Dive Water Physical Electro Shot Electric Special Fly Flying Physical Freeze Shock Ice Physical Geomancy Fairy Status Ice Burn Ice Special Meteor Beam Rock Special Phantom Force Ghost Physical Razor Wind Normal Special Shadow Force Ghost Physical Skull Bash Normal Physical Sky Attack Flying Physical Solar Beam Grass Special Solar Blade Grass Physical"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Battle Park D P / Frontier Pt (32 BP ) HG SS Route 34 Battle Frontier (32 BP ) PW Winner's Path B W Battle Subway (32 BP ) B2 W2 Battle Subway / PWT (16 BP ) X Y Battle Maison (32 BP ) Grass OR AS Battle Maison (32 BP ) Held by wild Seedot and wild Nuzleaf (5% chance each) OR S M US UM Poni Meadow , Lush Jungle (held by Totem Lurantis ) Battle Tree (24 BP ) Held by wild Nuzleaf (5% chance) US UM Sw Sh Route 10 Battle Tower (15 BP ) Held by wild Seedot , wild Nuzleaf , and wild Shiftry (5% chance each) Sw Pickup ( Lv. 21-100) Sw Sh CT Hidden recurring item ( Ballimere Lake ) BD SP Battle Park (15 BP ) Held by wild Seedot and wild Nuzleaf (5% chance each) Pickup ( Lv. 21-100) S V Delibird Presents ( Cascarrafa Branch, after completing the main storyline) Sparkling overworld item ( North Province (Area Two) ) Pickup ( Lv. 21-100)"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Power Herb",
     "Power-Herb (item)"
   ],
-  "updatedAt": 1773326004
+  "updatedAt": 1774524504
 }

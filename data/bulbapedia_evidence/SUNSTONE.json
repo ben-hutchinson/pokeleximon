@@ -3,12 +3,12 @@
   "answerDisplay": "SUN STONE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Sun Stone",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sun_Stone",
   "pageId": 9804,
-  "pageRevisionId": 4504954,
+  "pageRevisionId": 4506170,
   "leadText": "The Sun Stone (Japanese: たいようのいし Sun Stone) is a type of Evolution stone introduced in Generation II.",
   "sections": [
     {
@@ -20,12 +20,20 @@
       "text": "Effect [ edit | edit source ] Can be used to evolve one of several Pokémon by offering it at the Luminous Cave R B or Luminous Spring T D S or by using it in a dungeon GtI . This consumes the Sun Stone. Causes Gloom to evolve into Bellossom Causes Sunkern to evolve into Sunflora Causes Cottonee to evolve into Whimsicott Causes Petilil to evolve into Lilligant If thrown, it will deal 1 R B T D S /2 GtI damage (2 if sticky ). In Red Rescue Team, Blue Rescue Team, Explorers of Time, Explorers of Darkness, and Explorers of Sky, using this item in a dungeon will consume it, with no effect."
     },
     {
-      "title": "Description",
-      "text": "Description [ edit | edit source ] Games Description G S C Evolves certain kinds of Pok é mon . R S E Colo XD Makes certain species of Pok é mon evolve. FR LG A peculiar stone that makes certain species of Pok é mon evolve. It is as red as the sun. D P Pt A peculiar stone that makes certain species of Pokémon evolve. It is as red as the sun. * An odd stone needed for evolution. It is as red as the sun. * HG SS B W B2 W2 A peculiar stone that makes certain species of Pokémon evolve. It is as red as the sun. X Y OR AS S M US UM P E Sw Sh BD SP LA S V ZA A peculiar stone that can make certain species of Pokémon evolve. It burns as red as the evening sun."
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods G S C Bug-Catching Contest first prize R S E Mossdeep Space Center Held by wild Solrock (5% chance) R E FR LG Ruin Valley Colo Trade XD Trade D P Pt Valor Lakefront Pt , Mt. Coronet Pt Underground Held by wild Solrock (5% chance) HG SS Route 13 (gift from Camper Tanner), Bug-Catching Contest first prize, Pokéathlon Dome (post- National Pokédex ) (3000 Pts.) Su Mo Fr Pickup ( Lv. 31-100) Held by wild Solrock (5% chance) PW Volcano Path , Amity Meadow B W Nimbasa City , Relic Castle Dust clouds Pickup ( Lv. 31-100) Black City B / White Forest W (Lena) Held by wild Solrock (5% chance) B2 W2 Nimbasa City , Relic Castle , Giant Chasm , Pinwheel Forest Pickup ( Lv. 31-100) Join Avenue ( Antique Shop ) Funfest Mission ( What is the Best Price? ) B2 Held by wild Solrock (5% chance) Dust clouds ( Chargestone Cave , Mistralton Cave , Clay Tunnel , Twist Mountain , Underground Ruins , Victory Road , Wellspring Cave , Seaside Cave , Giant Chasm ) Hidden Grottoes ( Routes 6 and 13 ; Abundant Shrine ) Transfer from Dream Radar DW * Rugged Mountain PDR Dream Clouds (after catching Tornadus ) X Y Route 13 , Anistar City , Shalour City Pickup ( Lv. 31-100) Secret Super Training (Drag Down Hydreigon!), Route 18 (from Psychic Inver ) Held by wild Solrock (5% chance) OR AS Mossdeep Space Center Pickup ( Lv. 31-100) Mauville City ( Inverse Battle Stop ), Secret Super Training (Drag Down Hydreigon!), Route 115 (rematch with Expert Timothy), Secret Base (\"Pick up stones\" with Secret Pal ) Held by wild Solrock (5% chance) OR PMC * Balloon Popping (Lv. 2) S M US UM Blush Mountain , Haina Desert S US Poké Pelago (Isle Aphun - Brilliant-Stone Hunting, Interesting-Item Hunting) Pickup ( Lv. 11-100) Sw Sh Dusty Bowl Pickup ( Lv. 11-100) Bridge Field ( Digging Duo ) Poké Job reward (Tiers V, VI, and IX) Held by wild Solrock (5% chance) Sw Sw Sh IA Fields of Honor Hidden recurring item ( Potbottom Desert ) Sw Sh CT Hidden recurring item ( Ballimere Lake ) BD SP Grand Underground Held by wild Solrock BD (5% chance) LA Jubilife Village (reward for completing Request 85: \"At Home under the Eaves\") Trading post (1,000 MP ) Ginkgo Guild cart (randomly sold by Ginter , as \"Sunlike Rock\") Space-time distortions S V Area Zero , East Province (Area Three) , West Province (Area One) Artazon (Sunflora Hide & Seek reward) Porto Marinada auction Sparkling overworld item ( Asado Desert ) Pickup ( Lv. 11-100) S V TM Paradise Barrens S V ID Item Printer ZA South Boulevard (reward for completing Side Mission 093: \"Finding a Place for Heliolisk\") Stone Emporium Distribution [ edit | edit source ] Games Event Language/Region Distribution period S V November 2024 Nintendo newsletter items All November 18, 2024 to December 31, 2025 As a held item [ edit | edit source ] Games Event Language/Region Distribution period R S Evolution Stone Promotion Gloom United States August 30 to September 4, 2003"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods MD R B Solar Cave (1-20F) Unknown Dungeon (Mystery Dungeon) MD T D S Golden Chamber ( Deluxe Box ) Treasure Boxes , Job requests (★3-★9) Mystifying Forest (Kecleon Shop: 5F, 7F, 9F, 11F, 13F), Lake Afar (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F, B21F, B23F), Midnight Forest (Kecleon Shop: B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F, B21F, B23F) MD GtI Treasure Boxes Pokémon Paradise (Sunken Treasure, Beartic Slide, Prize Palace) Skill Treasury , Treasure Trove"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Starting at level 10, Sun Stones can be rarely obtained from: Spinning PokéStops or Gyms Opening a Gift While normally rare, from March 21, 2017 onward, the player is guaranteed to find an Evolution item when obtaining the bonus for spinning a Photo Disc for the seventh day in a row. Additionally, the player receives a Sun Stone when completing part 2 of the Special Research \"A Ripple in Time\"."
     },
     {
       "title": "Description",
-      "text": "Description [ edit | edit source ] Games Description MD R B It enables certain kinds of Pokémon to evolve. Give it to the Pokémon when it's ready to evolve. MD T D S An odd stone that glows with sunny warmth. It allows certain kinds of Pokémon to evolve. MD GtI An odd stone that glows with sunny warmth. It helps certain kinds of Pokémon to evolve."
+      "text": "Description [ edit | edit source ] Games Description G S C Evolves certain kinds of Pok é mon . R S E Colo XD Makes certain species of Pok é mon evolve. FR LG A peculiar stone that makes certain species of Pok é mon evolve. It is as red as the sun. D P Pt A peculiar stone that makes certain species of Pokémon evolve. It is as red as the sun. * An odd stone needed for evolution. It is as red as the sun. * HG SS B W B2 W2 A peculiar stone that makes certain species of Pokémon evolve. It is as red as the sun. X Y OR AS S M US UM P E Sw Sh BD SP LA S V ZA A peculiar stone that can make certain species of Pokémon evolve. It burns as red as the evening sun."
     }
   ],
   "familyPages": [],
@@ -34,5 +42,5 @@
     "Sun Stone",
     "Sun-Stone (item)"
   ],
-  "updatedAt": 1773327667
+  "updatedAt": 1774524777
 }

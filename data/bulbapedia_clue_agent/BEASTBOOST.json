@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4259065,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Beast Boost (Japanese: Beast Boost) is an Ability introduced in Generation VII. It is the signature Ability of the Ultra Beasts.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of The Ultra Beasts",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Beast Boost directly causes another Pokemon (including allies) to faint by using a damaging move, its highest stat (other than HP ) is increased by one stage for each Pokemon knocked out by that move execution. If this stat is already at +6 stages, Beast Boost will not activate (not even in the case of a tie of two or more stats). For determining the highest stat, Beast Boost does not take into account stat stages, held items, or reductions due to status conditions ; however, it does consider the effects of Power Split , Guard Split , Power Trick , Wonder Room , and Speed Swap . In the case of a tie between multiple stats, it increases one stat, prioritized in this order: Attack , Defense , Special Attack , Special Defense , and Speed . If the Pokemon fainting ends the battle, Beast Boost will not activate. Beast Boost activates after the Pokemon gains Attack from Fell Stinger . If a Pokemon with Beast Boost defeats a Pokemon with Mummy using a contact move, the Pokemon's Ability will become Mummy before Beast Boost has the opportunity to activate. Outside of battle [ edit | edit source ] Beast Boost has no effect outside of battle.",
@@ -46,6 +51,13 @@
         "mystery_score": 0.56,
         "specificity_score": 0.66,
         "style": "effect"
+      },
+      {
+        "text": "The Ultra Beasts's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       },
       {
         "text": "Raises its highest stat after a knockout",
@@ -82,5 +94,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257929
+  "updatedAt": 1774525955
 }

@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4419735,
   "evidencePassMode": "second_pass",
   "response": {
@@ -12,25 +12,79 @@
         "text": "Paldea location",
         "evidence_ref": "lead",
         "specificity": 0.5
+      },
+      {
+        "text": "One of the Six Wonders of Kitakami",
+        "evidence_ref": "lead",
+        "specificity": 0.9
+      },
+      {
+        "text": "pass landmark",
+        "evidence_ref": "title",
+        "specificity": 0.68
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "One of Kitakami's Six Wonders",
+        "evidence_ref": "lead",
+        "mystery_score": 0.82,
+        "specificity_score": 0.92,
+        "style": "theme"
+      },
+      {
+        "text": "Kitakami wonder site",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "theme"
+      },
       {
         "text": "Paldea landmark",
         "evidence_ref": "lead",
         "mystery_score": 0.38,
         "specificity_score": 0.5,
         "style": "taxonomy"
+      },
+      {
+        "text": "Paldea mountain pass",
+        "evidence_ref": "title",
+        "mystery_score": 0.66,
+        "specificity_score": 0.82,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Paldea pass",
+        "evidence_ref": "title",
+        "mystery_score": 0.52,
+        "specificity_score": 0.7,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Regional pass",
+        "evidence_ref": "title",
+        "mystery_score": 0.44,
+        "specificity_score": 0.62,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Pass in Paldea",
+        "evidence_ref": "title",
+        "mystery_score": 0.42,
+        "specificity_score": 0.66,
+        "style": "taxonomy"
       }
     ],
     "cryptic_definition_seeds": [
-      "Pokemon location"
+      "regional wonder"
     ],
     "connections_descriptors": [
-      "Paldea landmarks"
+      "Kitakami wonders",
+      "Paldea landmarks",
+      "Paldea passs"
     ],
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774257957
+  "updatedAt": 1774525973
 }

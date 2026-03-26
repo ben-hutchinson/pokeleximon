@@ -3,7 +3,7 @@
   "answerDisplay": "PINK NECTAR",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Pink Nectar",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Pink_Nectar",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] When used from the Bag on an Oricorio , it changes it to Pa'u Style . It can only be used outside of battle. It is consumed after use."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods S M US UM Royal Avenue (×2, daily) Day S V Delibird Presents (after earning 3 Gym Badges )"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Pink Nectar",
     "Pink-Nectar (item)"
   ],
-  "updatedAt": 1773325821
+  "updatedAt": 1774524451
 }

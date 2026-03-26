@@ -3,12 +3,12 @@
   "answerDisplay": "BUG BUZZ",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Bug Buzz (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bug_Buzz_(move)",
   "pageId": 18884,
-  "pageRevisionId": 4498414,
+  "pageRevisionId": 4510897,
   "leadText": "Bug Buzz (Japanese: むしのさざめき Insect Noise) is a damage-dealing Bug-type move introduced in Generation IV. It is: TR61 in Pokémon Sword and Shield. TM62 in Pokémon Brilliant Diamond and Shining Pearl. TM162 in Pokémon Scarlet and Violet.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on enemies within a 1-tile range. It may also reduce their Special Defense by 1 level. B S L まわりの てきポケモンに ダメージをあたえる しかも いっていのかくりつで とくぼうを １だんかいさげる MD GtI It damages nearby enemies. It could also lower their Special Defense. S MD MD RT DX It damages nearby enemies. It could also lower their Sp. Def."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Bug Buzz is the only Bug-type sound-based move . Despite the descriptions of this move stating that the usage of wings is required, Pokémon that lack wings can still learn this attack. However, in Generation IV , when this move was first introduced, all Pokémon that could learn this move did have wings."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Bug Buzz",
     "Bug-Buzz (move)"
   ],
-  "updatedAt": 1773321388
+  "updatedAt": 1774524067
 }

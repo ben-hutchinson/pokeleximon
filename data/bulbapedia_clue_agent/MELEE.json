@@ -3,20 +3,15 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4467912,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
       {
         "text": "Gen V ability",
         "evidence_ref": "lead",
         "specificity": 0.48
-      },
-      {
-        "text": "Melee redirects here. For the game that was known in Japanese as \"Melee! Pokemon Scramble\", see Pokemon Rumble Super Smash Bros. Melee (Japanese: Great Fray Smash Brothers DX) is a fighting game for the Nintendo GameCube and the sequel to the Nintendo 64 title Super Smash Bros. It, like its predecessor, pits Nintendo's many mascots against one another, and this time includes four Pokemon as playable characters, as opposed to the two featured in the previous game. Only Pikachu is available at the start, but eventually Jigglypuff, Pichu, and Mewtwo can be unlocked.",
-        "evidence_ref": "lead",
-        "specificity": 0.56
       }
     ],
     "crossword_candidates": [
@@ -33,5 +28,5 @@
     "risk_flags": [],
     "confidence": 0.68
   },
-  "updatedAt": 1774257973
+  "updatedAt": 1774525980
 }

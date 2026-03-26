@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4322546,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Pixilate (Japanese: Fairy Skin) is an Ability introduced in Generation VI. From Generation VIII onward, it is the signature Ability of Sylveon.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Sylveon",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description S MD Normal-type moves that the Pokemon uses become Fairy type and deal more damage! MD RT DX Normal-type moves used by the Pokemon become Fairy type and deal more damage.",
@@ -46,6 +51,13 @@
     ],
     "crossword_candidates": [
       {
+        "text": "Sylveon's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
         "text": "Weather-linked trait",
         "evidence_ref": "lead",
         "mystery_score": 0.56,
@@ -63,5 +75,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257993
+  "updatedAt": 1774525986
 }

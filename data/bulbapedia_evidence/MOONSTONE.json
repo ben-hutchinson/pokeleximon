@@ -3,7 +3,7 @@
   "answerDisplay": "MOON STONE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Moon Stone",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Moon_Stone",
@@ -24,8 +24,16 @@
       "text": "Effect [ edit | edit source ] The Moon Stone is required to evolve certain Pokémon in Pokémon Sleep. It is consumed upon use. Clefairy requires 80 Clefairy Candy and a Moon Stone to evolve into Clefable . Jigglypuff requires 80 Jigglypuff Candy and a Moon Stone to evolve into Wigglytuff . Munna requires 80 Munna Candy and a Moon Stone to evolve into Musharna ."
     },
     {
-      "title": "Description",
-      "text": "Description [ edit | edit source ] Games Description Stad A Stone used for making certain kinds of Pok é mon evolve. G S C Evolves certain kinds of Pok é mon . R S E Colo XD Makes certain species of Pok é mon evolve. FR LG A peculiar stone that makes certain species of Pok é mon evolve. It is as black as the night sky. D P Pt A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky. * An odd stone needed for evolution. It is as black as the night sky. * HG SS B W B2 W2 A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky. X Y OR AS S M US UM P E Sw Sh BD SP A peculiar stone that can make certain species of Pokémon evolve. It is as black as the night sky. LA S V ZA A peculiar stone that can make certain species of Pokémon evolve. It is dark like the night sky."
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods R G B Y R B Y Route 2 , Mt. Moon (×2), Rocket Hideout , Pokémon Mansion G S C Tohjo Falls , Ruins of Alph C Purchased by the player 's Mom Mt. Moon Square Mo Night Held by wild Clefairy (2% chance) R S E Meteor Falls Held by wild Lunatone (5% chance) S FR LG Mt. Moon (×2), Rocket Hideout , Pokémon Mansion , Joyful Game Corner Held by wild Clefairy (5% chance) Colo XD Trade D P Pt Eterna City Pt , Mt. Coronet Pt Underground Held by wild Lunatone , wild Clefairy , and wild Cleffa (5% chance each) HG SS Tohjo Falls , Ruins of Alph Purchased by the player 's Mom Mt. Moon Square Mo Night , Bug-Catching Contest first prize (post- National Pokédex ), Pokéathlon Dome (3000 Pts.) Mo We Pickup ( Lv. 41-100) Held by wild Clefairy and wild Lunatone (5% chance each) PW Volcano Path , Night Sky's Edge , Amity Meadow B W Pinwheel Forest , Twist Mountain Dust clouds Pickup ( Lv. 41-100) Black City B / White Forest W (Rosa) Held by wild Clefairy , wild Clefable , and wild Lunatone (5% chance each) B2 W2 Route 6 , Giant Chasm Pickup ( Lv. 41-100) Join Avenue ( Antique Shop ) Funfest Mission ( What is the Real Price? ) W2 Held by wild Clefairy , wild Clefable , and wild Lunatone (5% chance each) Dust clouds ( Chargestone Cave , Mistralton Cave , Clay Tunnel , Twist Mountain , Underground Ruins , Victory Road , Wellspring Cave , Seaside Cave , Giant Chasm ) Hidden Grottoes ( Routes 6 and 13 ; Abundant Shrine ) Transfer from Dream Radar DW * Rugged Mountain PDR Dream Clouds (after catching Tornadus ) X Y Reflection Cave , Terminus Cave Pickup ( Lv. 41-100) Secret Super Training (Drag Down Hydreigon!), Route 18 (from Psychic Inver ) Held by wild Lunatone (5% chance) OR AS Meteor Falls Pickup ( Lv. 41-100) Mauville City ( Inverse Battle Stop ), Secret Super Training (Drag Down Hydreigon!), Jagged Pass ( rematch with Expert Shelby), Secret Base (\"Pick up stones\" with Secret Pal ) Held by wild Clefairy and wild Lunatone AS (5% chance each) PMC * Balloon Popping (Lv. 3) S M US UM Route 13 , Haina Desert M UM Poké Pelago (Isle Aphun - Brilliant-Stone Hunting, Interesting-Item Hunting) Pickup ( Lv. 11-100) Held by wild Cleffa , wild Clefairy , and wild Jigglypuff (5% chance each) P E Hidden recurring item ( Mt. Moon , Saffron City ) Sw Sh Dusty Bowl Pickup ( Lv. 11-100) Bridge Field ( Digging Duo ) Poké Job reward (Tiers V, VI, and IX) Held by wild Cleffa , wild Clefairy , wild Clefable , and wild Lunatone Sh (5% chance each) Sw Sh IA Hidden recurring item ( Brawlers' Cave ) Sw Sh CT Tunnel to the Top Hidden recurring item ( Tunnel to the Top ) BD SP Grand Underground Held by wild Lunatone SP , wild Clefairy , and wild Cleffa (5% chance each) LA Trading post (1,000 MP ) Ginkgo Guild cart (randomly sold by Ginter , as \"Moonlike Rock\") Space-time distortions Sometimes found by Ursaluna S V South Province (Area Three) , West Province (Area Two) Reward for registering 210 Pokémon in the Paldea Pokédex Porto Marinada auction Sparkling overworld item ( Asado Desert ) Pickup ( Lv. 11-100) S V TM Mossfell Confluence Sparkling overworld item ( Crystal Pool , Oni Mountain , Oni's Maw ) S V ID Item Printer ZA Bleu Plaza (appears after completing Side Mission 100: \"Starmie on High\") Stone Emporium Distribution [ edit | edit source ] Games Event Language/Region Distribution period S V November 2024 Nintendo newsletter items All November 18, 2024 to December 31, 2025 As a held item [ edit | edit source ] Games Event Language/Region Distribution period Sw Sh Otsukimi Clefairy Japan September 3 to 30, 2022 BD SP Otsukimi Clefairy Japan September 3 to 30, 2022"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods MD R B Solar Cave (1-20F), Wish Cave (Kecleon Shop: 13, 26, 33, 41, 49, 59, 65, 71, 78, 83, 88, 93F) Unknown Dungeon (Mystery Dungeon) MD T D S Treasure Boxes , Job requests (★3-★9) Mystifying Forest (Kecleon Shop: 5F, 7F, 9F, 11F, 13F), Lake Afar (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F, B21F, B23F), Midnight Forest (Kecleon Shop: B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F, B21F, B23F) MD GtI Treasure Boxes Pokémon Paradise (Sunken Treasure, Beartic Slide, Prize Palace) Skill Treasury , Treasure Trove"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods Sleep Achievement reward Sleep Point Exchange (Regular)"
     }
   ],
   "familyPages": [],
@@ -34,5 +42,5 @@
     "Moon Stone",
     "Moon-Stone (item)"
   ],
-  "updatedAt": 1773325158
+  "updatedAt": 1774524394
 }

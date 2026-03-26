@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4446785,
   "evidencePassMode": "first_pass",
   "response": {
@@ -32,6 +32,11 @@
         "text": "Story or event key item",
         "evidence_ref": "lead",
         "specificity": 0.66
+      },
+      {
+        "text": "Evolves Nebby into Solgaleo",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
       },
       {
         "text": "Unlocks progression content",
@@ -81,10 +86,33 @@
         "mystery_score": 0.58,
         "specificity_score": 0.72,
         "style": "family"
+      },
+      {
+        "text": "Evolves Nebby into Solgaleo",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.92,
+        "style": "effect"
+      },
+      {
+        "text": "Nebby evolution item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Held item for Solgaleo",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
       }
     ],
     "cryptic_definition_seeds": [
-      "unlocking item"
+      "unlocking item",
+      "nebby evolution",
+      "solgaleo item"
     ],
     "connections_descriptors": [
       "Key items",
@@ -93,5 +121,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774258020
+  "updatedAt": 1774525998
 }

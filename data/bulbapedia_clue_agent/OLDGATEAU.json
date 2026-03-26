@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4504970,
-  "evidencePassMode": "first_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": 4516504,
+  "evidencePassMode": "second_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -27,32 +27,49 @@
         "text": "Cures any status ailment and confusion.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Cures all major status conditions",
+        "evidence_ref": "Description",
+        "specificity": 0.88
+      },
+      {
+        "text": "Also cures confusion",
+        "evidence_ref": "Description",
+        "specificity": 0.86
       }
     ],
     "crossword_candidates": [
       {
-        "text": "status cures",
-        "evidence_ref": "lead",
-        "mystery_score": 0.35,
-        "specificity_score": 0.52,
-        "style": "category"
+        "text": "Cures all major status conditions",
+        "evidence_ref": "Description",
+        "mystery_score": 0.82,
+        "specificity_score": 0.9,
+        "style": "effect"
       },
       {
-        "text": "Gen IV status cures",
-        "evidence_ref": "lead",
-        "mystery_score": 0.34,
-        "specificity_score": 0.54,
-        "style": "taxonomy"
+        "text": "Full status remedy",
+        "evidence_ref": "Description",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Also cures confusion",
+        "evidence_ref": "Description",
+        "mystery_score": 0.7,
+        "specificity_score": 0.84,
+        "style": "effect"
       }
     ],
     "cryptic_definition_seeds": [
-      "status cures"
+      "status panacea"
     ],
     "connections_descriptors": [
-      "Status Cures"
+      "Gen IV items"
     ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.78
   },
-  "updatedAt": 1774257986
+  "updatedAt": 1774525984
 }

@@ -1,46 +1,18 @@
 {
   "answerKey": "MRPOKEMON",
-  "status": "ok",
+  "status": "no_candidates",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4309667,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
-    "fact_nuggets": [
-      {
-        "text": "house landmark",
-        "evidence_ref": "lead",
-        "specificity": 0.64
-      },
-      {
-        "text": "route landmark",
-        "evidence_ref": "lead",
-        "specificity": 0.64
-      },
-      {
-        "text": "Site on Route 30",
-        "evidence_ref": "lead",
-        "specificity": 0.86
-      }
-    ],
-    "crossword_candidates": [
-      {
-        "text": "Site on Route 30",
-        "evidence_ref": "lead",
-        "mystery_score": 0.54,
-        "specificity_score": 0.72,
-        "style": "taxonomy"
-      }
-    ],
-    "cryptic_definition_seeds": [
-      "Pokemon location"
-    ],
-    "connections_descriptors": [
-      "Pokemon locations"
-    ],
+    "fact_nuggets": [],
+    "crossword_candidates": [],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
     "risk_flags": [],
-    "confidence": 0.77
+    "confidence": 0.25
   },
-  "updatedAt": 1774257979
+  "updatedAt": 1774525982
 }

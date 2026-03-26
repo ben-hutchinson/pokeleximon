@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4410225,
   "evidencePassMode": "second_pass",
   "response": {
@@ -14,17 +14,53 @@
         "specificity": 0.5
       },
       {
+        "text": "Located in The Eastern Region Of The Crimson Mirelands Of Hisui",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      },
+      {
         "text": "meadow landmark",
         "evidence_ref": "lead",
         "specificity": 0.64
+      },
+      {
+        "text": "Crimson Mirelands area",
+        "evidence_ref": "lead",
+        "specificity": 0.82
+      },
+      {
+        "text": "meadow landmark",
+        "evidence_ref": "title",
+        "specificity": 0.68
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Located in The Eastern Region Of The Crimson Mirelands Of Hisui",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "theme"
+      },
+      {
+        "text": "Crimson Mirelands area",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.84,
+        "style": "theme"
+      },
       {
         "text": "Hisui landmark",
         "evidence_ref": "lead",
         "mystery_score": 0.38,
         "specificity_score": 0.5,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Hisui meadow",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.78,
         "style": "taxonomy"
       },
       {
@@ -59,5 +95,5 @@
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774257941
+  "updatedAt": 1774525963
 }

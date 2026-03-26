@@ -3,7 +3,7 @@
   "answerDisplay": "FLUFFY TAIL",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Fluffy Tail",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fluffy_Tail",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] When used from the Bag during a battle with a wild Pokémon , it allows the player to escape instantly regardless of any factors that would otherwise prevent escape. In Pokémon XD: Gale of Darkness , it cannot be used to escape from wild Pokémon at Poké Spots ."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods R S E Verdanturf Town Poké Mart , Lilycove Department Store Trainer Hill E Battle Pyramid (cannot be kept) E FR LG Trade Colo XD Trade D P Pt Trade HG SS Trade PW Resort B W Black City B (Emi) B2 W2 Nacrene City Su Accumula Town (daily, show the Lass a Pokémon with the requested height ) X Y Trade OR AS Lilycove Department Store"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Fluffy Tail",
     "Fluffy-Tail (item)"
   ],
-  "updatedAt": 1773322931
+  "updatedAt": 1774524210
 }

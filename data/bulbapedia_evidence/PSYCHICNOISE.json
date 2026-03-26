@@ -3,7 +3,7 @@
   "answerDisplay": "PSYCHIC NOISE",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Psychic Noise (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Psychic_Noise_(move)",
@@ -26,5 +26,5 @@
     "Psychic Noise",
     "Psychic-Noise (move)"
   ],
-  "updatedAt": 1773326081
+  "updatedAt": 1774524534
 }

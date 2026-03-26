@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4359108,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Quick Draw (Japanese: Quick Draw) is an Ability introduced during Generation VIII, in The Isle of Armor. It is the signature Ability of Galarian Slowbro.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Galarian Slowbro",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If a Pokemon with this Ability selects a damaging move, it has a 30% chance of going first in its priority bracket. If the Ability activates, this is announced at the start of the turn (after move selection). This probability is separate to the probability of a held Quick Claw activating, although if Quick Draw activates, a held Quick Claw will not. If a Pokemon has both Quick Draw and a Quick Claw and uses a damaging move, it has a 44% chance of either activating. A Pokemon's held Custap Berry will never activate on a turn in which its Quick Draw activates, but it may still activate in a later turn in which its Quick Draw does not activate. If either Quick Draw or Quick Claw activate on the same turn for multiple different Pokemon, their moves are performed in standard Speed order within their priority bracket. Outside of battle [ edit | edit source ] Quick Draw has no effect outside of battle.",
@@ -36,33 +41,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "priority ability",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "priority ability",
-        "evidence_ref": "In battle",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "Gen VIII ability",
+        "text": "Galarian Slowbro's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
     "connections_descriptors": [
-      "Priority abilities"
+      "Gen VIII abilities"
     ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774257998
+  "updatedAt": 1774525989
 }

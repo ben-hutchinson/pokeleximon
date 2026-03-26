@@ -3,7 +3,7 @@
   "answerDisplay": "MUSCLE WING",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Muscle Feather",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Muscle_Feather",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] When used from the Bag on a Pokémon, adds 1 Attack EV to the target Pokémon per use. It also increases the Pokémon's friendship a little. The Muscle Feather is consumed upon use and cannot be used in battle."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods B W Driftveil Drawbridge , Marvelous Bridge ( Flying Pokémon's shadow ) B2 W2 Driftveil Drawbridge , Marvelous Bridge ( Flying Pokémon's shadow ) Black Tower / White Treehollow (Area 6-9 reward) DW * Dream Park X Y Secret Super Training Battle Institute OR AS Secret Super Training PMC * Graffiti Eraser (Lv. 1) S M US UM Ambush encounters ( Braviary S US / Mandibuzz M UM in Poni Plains ; Altaria in Ultra Space Wilds US UM ) Sw Sh Hidden recurring item ( Route 5 , Motostoke Outskirts ) Sw Sh IA Hidden recurring item ( Soothing Wetlands , Honeycalm Sea ) Sw Sh CT Hidden recurring item ( Frigid Sea ) S V Porto Marinada auction Tera Raid Battles (1★, 2★, 3★, 4★, 5★, 6★) Sparkling overworld item ( South Province (Area Five) , West Province (Area Two) , Casseroya Lake ) S V TM Sparkling overworld item ( Crystal Pool , Fellhorn Gorge , Kitakami Wilds ) Ogre Oustin' (all difficulties) S V ID Sparkling overworld item ( Canyon Biome , Coastal Biome , Polar Biome , Savanna Biome )"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Muscle Wing",
     "Muscle-Wing (item)"
   ],
-  "updatedAt": 1773325255
+  "updatedAt": 1774524405
 }

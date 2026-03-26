@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4487560,
-  "evidencePassMode": "first_pass",
+  "evidencePassMode": "second_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -32,6 +32,16 @@
         "text": "Evolution item",
         "evidence_ref": "lead",
         "specificity": 0.76
+      },
+      {
+        "text": "Evolves Milcery into Alcremie With A Love Sweet When The Player Does A Spin While Milcery Is Holding It",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      },
+      {
+        "text": "Requires a spin while held",
+        "evidence_ref": "Effect",
+        "specificity": 0.84
       }
     ],
     "crossword_candidates": [
@@ -48,10 +58,47 @@
         "mystery_score": 0.54,
         "specificity_score": 0.8,
         "style": "family"
+      },
+      {
+        "text": "Evolves Milcery into Alcremie With A Love Sweet When The Player Does A Spin While Milcery Is Holding It",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.92,
+        "style": "effect"
+      },
+      {
+        "text": "Milcery evolution item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Held item for Alcremie With A Love Sweet When The Player Does A Spin While Milcery Is Holding It",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Requires a spin while held",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Spin-to-evolve held item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.7,
+        "specificity_score": 0.82,
+        "style": "effect"
       }
     ],
     "cryptic_definition_seeds": [
-      "evolution item"
+      "evolution item",
+      "milcery evolution",
+      "alcremie with a love sweet when the player does a spin while milcery is holding it item"
     ],
     "connections_descriptors": [
       "Evolution items",
@@ -60,5 +107,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257965
+  "updatedAt": 1774525977
 }

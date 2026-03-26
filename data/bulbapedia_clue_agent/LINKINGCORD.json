@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4485885,
   "evidencePassMode": "first_pass",
   "response": {
@@ -27,6 +27,11 @@
         "text": "Poor catch rate on most targets",
         "evidence_ref": "Description",
         "specificity": 0.82
+      },
+      {
+        "text": "Evolves Kadabra To Evolve Into Alakazam Causes Machoke To Evolve Into Machamp Causes Graveler To Evolve Into Golem Causes Haunter into Gengar Effect",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
       }
     ],
     "crossword_candidates": [
@@ -45,6 +50,27 @@
         "style": "family"
       },
       {
+        "text": "Evolves Kadabra To Evolve Into Alakazam Causes Machoke To Evolve Into Machamp Causes Graveler To Evolve Into Golem Causes Haunter into Gengar Effect",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.92,
+        "style": "effect"
+      },
+      {
+        "text": "Kadabra To Evolve Into Alakazam Causes Machoke To Evolve Into Machamp Causes Graveler To Evolve Into Golem Causes Haunter evolution item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Held item for Gengar Effect",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
         "text": "Poor on most other targets",
         "evidence_ref": "Description",
         "mystery_score": 0.68,
@@ -53,7 +79,9 @@
       }
     ],
     "cryptic_definition_seeds": [
-      "evolution item"
+      "evolution item",
+      "kadabra to evolve into alakazam causes machoke to evolve into machamp causes graveler to evolve into golem causes haunter evolution",
+      "gengar effect item"
     ],
     "connections_descriptors": [
       "Evolution items"
@@ -61,5 +89,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257963
+  "updatedAt": 1774525977
 }

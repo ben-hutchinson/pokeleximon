@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4505174,
   "evidencePassMode": "second_pass",
   "response": {
@@ -32,21 +32,46 @@
         "text": "Causes the Pokemon to reuse an already consumed Berry at the end of the next turn.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Makes a Berry activate twice",
+        "evidence_ref": "Effect",
+        "specificity": 0.88
       }
     ],
     "crossword_candidates": [
       {
-        "text": "Gen IX ability",
-        "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "text": "Makes a Berry trigger twice",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.82,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Re-chews a Berry next turn",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Double-Berry trait",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
       }
     ],
-    "cryptic_definition_seeds": [],
-    "connections_descriptors": [],
+    "cryptic_definition_seeds": [
+      "double berry",
+      "second chew"
+    ],
+    "connections_descriptors": [
+      "Berry-repeating abilities",
+      "Gen IX abilities"
+    ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774257938
+  "updatedAt": 1774525961
 }

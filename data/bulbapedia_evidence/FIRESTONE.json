@@ -3,7 +3,7 @@
   "answerDisplay": "FIRE STONE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Fire Stone",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fire_Stone",
@@ -24,8 +24,16 @@
       "text": "Effect [ edit | edit source ] The Fire Stone is required to evolve certain Pokémon in Pokémon Sleep. It is consumed upon use. Vulpix requires 80 Vulpix Candy and a Fire Stone to evolve into Ninetales . Growlithe requires 80 Growlithe Candy and a Fire Stone to evolve into Arcanine . Eevee requires 80 Eevee Candy and a Fire Stone to evolve into Flareon ."
     },
     {
-      "title": "Description",
-      "text": "Description [ edit | edit source ] Games Description Stad A Stone used for making certain kinds of Pok é mon evolve. G S C Evolves certain kinds of Pok é mon . R S E Colo XD Makes certain species of Pok é mon evolve. FR LG A peculiar stone that makes certain species of Pok é mon evolve. It is colored orange. D P Pt A peculiar stone that makes certain species of Pokémon evolve. It is colored orange. * An odd stone needed for evolution. It is colored orange. * HG SS B W B2 W2 A peculiar stone that makes certain species of Pokémon evolve. It is colored orange. X Y OR AS S M US UM P E Sw Sh BD SP LA A peculiar stone that can make certain species of Pokémon evolve. The stone has a fiery orange heart. S V ZA A peculiar stone that can make certain species of Pokémon evolve. It has a fiery orange heart."
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods R G B Y R B Y Celadon Department Store G S C Sea Cottage (from Bill's grandfather ) Mystery Gift , Route 36 (gift from Schoolboy Alan) C R S E Fiery Path Route 124 (trade for Red Shard with Treasure Hunter ) FR LG Mt. Ember (×2) Celadon Department Store Colo Trade XD S.S. Libra , Gateon Port Trade D P Pt Fuego Ironworks (×2 D P , ×1 Pt ), Solaceon Ruins Pt , Stark Mountain Pt Transfer from My Pokémon Ranch (held by Hayley's Vulpix ) Underground Ranch Hayley's trades (held by Vulpix ) HG SS Sea Cottage (from Bill's grandfather ) Route 36 (gift from School Kid Alan), Bug-Catching Contest first prize (post- National Pokédex ), Pokéathlon Dome (2500 Pts.) Su Tu Th PW Warm Beach B W Castelia City , Desert Resort Dust clouds , Black City B / White Forest W (Vincent) B2 W2 Lentimas Town , Desert Resort Battle Subway / Pokémon World Tournament (3 BP ), Join Avenue ( Antique Shop ), Black City (Store 2), Funfest Missions Dust clouds ( Chargestone Cave , Mistralton Cave , Clay Tunnel , Twist Mountain , Underground Ruins , Victory Road , Wellspring Cave , Seaside Cave , Giant Chasm ) Hidden Grottoes ( Routes 2 , 3 , 5 , 6 , 7 , 9 , 13 , 18 , 22 , and 23 ; Floccesy Ranch ; Giant Chasm ; Abundant Shrine ; Lostlorn Forest ; Pinwheel Forest ) Transfer from Dream Radar DW * Rugged Mountain , Pokémon Café Forest PDR Dream Clouds (after catching Thundurus ) X Y Route 9 , Route 13 Lumiose City ( Stone Emporium ), Secret Super Training (The Fire Stone Cup Begins!, The Battle for the Best: Version X! X , and The Battle for the Best: Version Y! Y ), Route 18 (from Psychic Inver ) Spiky rocks OR AS Fiery Path Route 124 (trade for Red Shard with Treasure Hunter ), Mauville City ( Inverse Battle Stop ), Secret Super Training (The Fire Stone Cup Begins!, The Battle for the Best!), Route 114 ( rematch with Kindler Bernie), Secret Base (\"Pick up stones\" with Secret Pal ) PMC * Balloon Popping (Lv. 1) S M US UM Paniola Ranch US UM , Diglett's Tunnel Konikoni City , Poké Pelago (Isle Aphun - Brilliant-Stone Hunting, Interesting-Item Hunting) P E Route 8 , Pokémon Mansion Celadon Department Store Found by Rock-type walking Pokémon ( Rock Tunnel and Victory Road ) Sw Sh Motostoke Riverbank Hidden recurring item ( Lake of Outrage ) Bridge Field ( Digging Duo ) Poké Job reward (Tiers III, IV, and IX) Sw Sh IA Potbottom Desert Sw Sh CT Hidden recurring item ( Tunnel to the Top ) Max Raid Battles ( Ballimere Lake ) BD SP Fuego Ironworks (×2) Grand Underground LA Red ore deposits ( Obsidian Fieldlands , Crimson Mirelands , Cobalt Coastlands ) Black ore deposits ( Cobalt Coastlands ) Trading post (1,000 MP ) Ginkgo Guild cart (randomly sold by Ginter , as \"Flame-Patterned Rock\") Space-time distortions Path of Tenacity S V Area Zero , East Province (Area Two) , East Province (Area Three) Reward for registering 60 Pokémon in the Paldea Pokédex Delibird Presents (after earning 3 Gym Badges ) Tera Raid Battles (1★, 2★, 3★, 4★, 5★) Sparkling overworld item ( East Province (Area Three) ) S V TM Oni Mountain Sparkling overworld item ( Wistful Fields ) S V ID Item Printer ZA Autumnal Avenue (reward for completing Side Mission 026: \"Burn, Litleo, Burn\") Bleu Sector 3 (reward for completing Side Mission 057: \"The Camerupt Entrepreneur\") Stone Emporium Distribution [ edit | edit source ] Games Event Language/Region Distribution period PW Pokéwalker Spot items Korean January 7 to 31, 2011 S V PokéDoko Eevee Evolution items All July 14 to September 30, 2024 November 2024 Nintendo newsletter items All November 18, 2024 to December 31, 2025"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods MD R B Fiery Field (29F) MD T D S Treasure Boxes , Job requests (★3-★9) Mystifying Forest (Kecleon Shop: 5F, 7F, 9F, 11F, 13F), Lake Afar (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F, B21F, B23F), Midnight Forest (Kecleon Shop: B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F, B21F, B23F) MD GtI Treasure Boxes Pokémon Paradise (Sunken Treasure, Beartic Slide, Prize Palace) Skill Treasury , Treasure Trove"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods Sleep Achievement reward Sleep Point Exchange (Regular)"
     }
   ],
   "familyPages": [],
@@ -34,5 +42,5 @@
     "Fire Stone",
     "Fire-Stone (item)"
   ],
-  "updatedAt": 1773322815
+  "updatedAt": 1774524202
 }

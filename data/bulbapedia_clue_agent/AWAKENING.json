@@ -3,25 +3,15 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4504934,
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
   "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
       {
-        "text": "Gen I item",
-        "evidence_ref": "lead",
-        "specificity": 0.48
-      },
-      {
         "text": "status cures",
         "evidence_ref": "lead",
         "specificity": 0.62
-      },
-      {
-        "text": "Gen I status cures",
-        "evidence_ref": "lead",
-        "specificity": 0.54
       },
       {
         "text": "Cures sleep.",
@@ -30,28 +20,28 @@
       },
       {
         "text": "Wakes a sleeping Pokemon",
-        "evidence_ref": "Description",
+        "evidence_ref": "lead",
         "specificity": 0.84
       }
     ],
     "crossword_candidates": [
       {
         "text": "Wakes a sleeping Pokemon",
-        "evidence_ref": "Description",
+        "evidence_ref": "lead",
         "mystery_score": 0.74,
         "specificity_score": 0.84,
         "style": "effect"
       },
       {
         "text": "Sleep remedy",
-        "evidence_ref": "Description",
+        "evidence_ref": "lead",
         "mystery_score": 0.7,
         "specificity_score": 0.8,
         "style": "effect"
       },
       {
         "text": "Sleep-curing item",
-        "evidence_ref": "Description",
+        "evidence_ref": "lead",
         "mystery_score": 0.66,
         "specificity_score": 0.8,
         "style": "effect"
@@ -61,10 +51,10 @@
       "sleep cure"
     ],
     "connections_descriptors": [
-      "Gen I items"
+      "Battle items"
     ],
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257927
+  "updatedAt": 1774525954
 }

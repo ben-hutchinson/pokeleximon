@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4381731,
   "evidencePassMode": "second_pass",
   "response": {
@@ -12,6 +12,11 @@
         "text": "Kalos location",
         "evidence_ref": "lead",
         "specificity": 0.5
+      },
+      {
+        "text": "Located in Kiloude City In The Kalos Region",
+        "evidence_ref": "lead",
+        "specificity": 0.78
       },
       {
         "text": "city landmark",
@@ -37,9 +42,42 @@
         "text": "tower landmark",
         "evidence_ref": "lead",
         "specificity": 0.74
+      },
+      {
+        "text": "Battle Maison",
+        "evidence_ref": "title",
+        "specificity": 0.8
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Battle Frontier's Maison",
+        "evidence_ref": "title",
+        "mystery_score": 0.78,
+        "specificity_score": 0.9,
+        "style": "theme"
+      },
+      {
+        "text": "Gen IV battle maison",
+        "evidence_ref": "title",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "theme"
+      },
+      {
+        "text": "Battle Frontier facility",
+        "evidence_ref": "title",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
+        "text": "Located in Kiloude City In The Kalos Region",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "theme"
+      },
       {
         "text": "Kalos landmark",
         "evidence_ref": "lead",
@@ -77,14 +115,15 @@
       }
     ],
     "cryptic_definition_seeds": [
-      "Pokemon location"
+      "battle facility"
     ],
     "connections_descriptors": [
+      "Battle Frontier facilities",
       "Kalos landmarks",
       "Kalos citys"
     ],
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774257928
+  "updatedAt": 1774525955
 }

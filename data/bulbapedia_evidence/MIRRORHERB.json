@@ -3,12 +3,12 @@
   "answerDisplay": "MIRROR HERB",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Mirror Herb",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mirror_Herb",
   "pageId": 273860,
-  "pageRevisionId": 4485915,
+  "pageRevisionId": 4514283,
   "leadText": "Mirror Herb (Japanese: ものまねハーブ Imitation Herb) is a type of item introduced in Generation IX.",
   "sections": [
     {
@@ -18,6 +18,10 @@
     {
       "title": "In battle",
       "text": "In battle [ edit | edit source ] Just after an opponent has a stat increase, the holder consumes the Mirror Herb and gets the same stat increase. If multiple stats of the opponent are increased in a single move, (for instance by using Clangorous Soul while holding a Throat Spray ), all of the stat increases are copied."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods S V Delibird Presents ( Cascarrafa Branch)"
     },
     {
       "title": "Description",
@@ -34,5 +38,5 @@
     "Mirror Herb",
     "Mirror-Herb (item)"
   ],
-  "updatedAt": 1773325100
+  "updatedAt": 1774524388
 }

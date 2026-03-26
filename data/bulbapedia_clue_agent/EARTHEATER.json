@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4289470,
   "evidencePassMode": "second_pass",
   "response": {
@@ -19,6 +19,11 @@
         "specificity": 0.56
       },
       {
+        "text": "Signature Ability of Orthworm",
+        "evidence_ref": "lead",
+        "specificity": 0.84
+      },
+      {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Earth Eater is hit by a Ground-type move , its HP is restored by one quarter of its maximum HP, and the move will have no effect on that Pokemon (if a Pokemon with this Ability already has full HP, the Ground-type move will do nothing). Earth Eater will not activate if the Pokemon is protected from the Ground-type move. Outside of battle [ edit | edit source ] Earth Eater has no effect outside of battle.",
         "evidence_ref": "Effect",
         "specificity": 0.72
@@ -32,6 +37,11 @@
         "text": "Restores HP when hit by a Ground-type move.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Heals from Ground-type moves",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
       }
     ],
     "crossword_candidates": [
@@ -41,17 +51,48 @@
         "mystery_score": 0.56,
         "specificity_score": 0.66,
         "style": "effect"
+      },
+      {
+        "text": "Orthworm's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
+        "text": "Heals from Ground-type moves",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.82,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Ground-immunity that restores HP",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Recovers when struck by Ground",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.7,
+        "specificity_score": 0.84,
+        "style": "effect"
       }
     ],
     "cryptic_definition_seeds": [
-      "healing trait"
+      "healing trait",
+      "ground eater",
+      "ground heal"
     ],
     "connections_descriptors": [
       "Healing abilities",
+      "Ground healing abilities",
       "Gen IX abilities"
     ],
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257942
+  "updatedAt": 1774525964
 }

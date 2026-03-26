@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4494793,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Bulletproof (Japanese: Bulletproof) is an Ability introduced in Generation VI. Prior to Generation VII, it was the signature Ability of Chespin's evolutionary line.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Chespin'S Evolutionary Line",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Contents 1 Effect 1.1 In battle 1.1.1 Affected moves 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Pokemon with Bulletproof are not affected by ball and bomb moves . This even prevents being healed by an ally's Pollen Puff . Affected moves [ edit | edit source ] Move Type Cat. VI VII VIII IX Acid Spray Poison Special Aura Sphere Fighting Special Barrage Normal Physical Beak Blast Flying Physical Bullet Seed Grass Physical Egg Bomb Normal Physical Electro Ball Electric Special Energy Ball Grass Special Focus Blast Fighting Special Gyro Ball Steel Physical Ice Ball Ice Physical Magnet Bomb Steel Physical Mist Ball Psychic Special Mud Bomb Ground Special Octazooka Water Special Pollen Puff Bug Special Pyro Ball Fire Physical Rock Blast Rock Physical Rock Wrecker Rock Physical Searing Shot Fire Special Seed Bomb Grass Physical Syrup Bomb Grass Special Shadow Ball Ghost Special Sludge Bomb Poison Special Weather Ball Normal Special Zap Cannon Electric Special Outside of battle [ edit | edit source ] Bulletproof has no effect outside of battle.",
@@ -48,6 +53,13 @@
         "style": "effect"
       },
       {
+        "text": "Chespin'S Evolutionary Line's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
         "text": "Weather-linked trait",
         "evidence_ref": "lead",
         "mystery_score": 0.56,
@@ -67,5 +79,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257932
+  "updatedAt": 1774525957
 }

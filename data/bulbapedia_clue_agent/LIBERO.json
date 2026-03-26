@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4165808,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Libero (Japanese: Libero) is an Ability introduced in Generation VIII. It is the signature Ability of Scorbunny's evolutionary line.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Scorbunny'S Evolutionary Line",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation VIII 1.1.2 Generation IX 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation VIII [ edit | edit source ] Immediately before using any move (except Struggle ), a Pokemon with Libero as its Ability will change its type to be the same type as the move it is using. Libero always causes the user to become a single-type Pokemon. Because Libero activates prior to executing a move, the user will receive same-type attack bonus on every move it uses (except Struggle) regardless of the move's type and will always hit with the move Toxic . When using a move that calls another move (such as Nature Power ), the type of the called move will be considered. When using a move that can change type or if the move has been affected by Electrify , the type it changes to will be considered. When using a move that changes the user's type, such as Reflect Type , first Libero changes the user's type to the type of the move, then the move will either fail or change the user's type again. When using Curse (unless its type is changed by Electrify ), if the user is not already Ghost-type prior to the activation of Libero, Libero will change the user to Ghost-type, then the user will use the Ghost-type effect of Curse on itself (regardless of Crafty Shield and Follow Me or Rage Powder ). Libero will not activate if the move fails (unless it fails due to the activation of Libero), if the execution is interrupted entirely (such as by the effect of infatuation or confusion ), if the user is already the same single type as the move being used, or if the move is prevented by heavy rain or extremely harsh sunlight . Libero will activate even if the move misses, is blocked by a protection move , or fails to affect the opponent. Libero will still change the user's type when using Roar , Whirlwind , Trick-or-Treat , and Forest's Curse , regardless of whether the move successfully executes or not. The user's new type remains in effect until changed again or until the user is switched out; negating or replacing the Ability does not change the user back to their original type. Generation IX [ edit | edit source ] Libero only activates once per switch in. If the user Terastallizes , the effects of Libero will be nullified. Outside of battle [ edit | edit source ] Libero has no effect outside of battle.",
@@ -41,6 +46,13 @@
     ],
     "crossword_candidates": [
       {
+        "text": "Scorbunny'S Evolutionary Line's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
         "text": "Weather-linked trait",
         "evidence_ref": "lead",
         "mystery_score": 0.56,
@@ -58,5 +70,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257962
+  "updatedAt": 1774525976
 }

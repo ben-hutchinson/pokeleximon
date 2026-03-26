@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4407454,
   "evidencePassMode": "first_pass",
   "response": {
@@ -39,6 +39,11 @@
         "specificity": 0.62
       },
       {
+        "text": "Prevents explosion moves",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      },
+      {
         "text": "Punishes contact attackers",
         "evidence_ref": "Description",
         "specificity": 0.86
@@ -50,6 +55,27 @@
         "evidence_ref": "lead",
         "mystery_score": 0.56,
         "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Prevents Explosion and Self-Destruct",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.92,
+        "style": "effect"
+      },
+      {
+        "text": "Explosion-blocking trait",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Stops self-destructing moves",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
         "style": "effect"
       },
       {
@@ -76,16 +102,18 @@
     ],
     "cryptic_definition_seeds": [
       "protective trait",
-      "contact backlash",
-      "contact punisher"
+      "explosion blocker",
+      "blast stopper",
+      "contact backlash"
     ],
     "connections_descriptors": [
       "Protective abilities",
+      "Explosion-blocking abilities",
       "Contact-punishing abilities",
       "Gen III abilities"
     ],
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774258003
+  "updatedAt": 1774525991
 }

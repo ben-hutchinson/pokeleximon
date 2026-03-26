@@ -3,7 +3,7 @@
   "answerDisplay": "WATER",
   "sourceType": "type",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Water",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Water",
@@ -17,5 +17,5 @@
     "Water (type)",
     "Water type"
   ],
-  "updatedAt": 1773328403
+  "updatedAt": 1774524864
 }

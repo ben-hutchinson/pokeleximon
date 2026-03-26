@@ -3,7 +3,7 @@
   "answerDisplay": "FULL INCENSE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Full Incense",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Full_Incense",
@@ -20,6 +20,10 @@
       "text": "In battle [ edit | edit source ] Forces the holder to move last in its priority bracket, regardless of its Speed . This item is unaffected by Trick Room . If a Full Incense is gained, lost, or suppressed, then it will not affect turn order until the beginning of the next turn. Generation IV [ edit | edit source ] If multiple Pokémon holding a Lagging Tail or Full Incense use moves with the same priority, the Pokémon with the lower Speed will move first (regardless of Trick Room). A Pokémon with Stall moves before Pokémon holding a Lagging Tail or Full Incense. If a Pokémon with Stall also holds a Lagging Tail or Full Incense, Stall does not affect when the Pokémon moves. Generation V onward [ edit | edit source ] If multiple Pokémon with the Ability Stall or that are holding a Lagging Tail or Full Incense use moves with the same priority, the Pokémon move relatively according to Speed (the order is reversed during Trick Room)."
     },
     {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Veilstone City HG SS Mt. Mortar B W Driftveil Market (post- National Pokédex ) B2 W2 Driftveil Market X Y Coumarine City Incense shop OR AS Slateport City Market S M US UM Konikoni City Incense stall Sw Sh Hulbury Incense merchant BD SP Veilstone City Distribution [ edit | edit source ] As a held item [ edit | edit source ] Games Event Language/Region Distribution period S M US UM Nihonbashi Snorlax Japan March 14 to April 22, 2018"
+    },
+    {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 An item to be held by a Pokémon. It is an exotic-smelling incense that makes the holder bloated and slow moving. X Y OR AS S M US UM P E Sw Sh BD SP LA An item to be held by a Pokémon. This exotic-smelling incense makes the holder bloated and slow moving. S V An item to be held by a Pokémon. This incense has a curious aroma that makes the holder move slower than usual."
     },
@@ -34,5 +38,5 @@
     "Full Incense",
     "Full-Incense (item)"
   ],
-  "updatedAt": 1773323045
+  "updatedAt": 1774524225
 }

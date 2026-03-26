@@ -1,65 +1,18 @@
 {
   "answerKey": "HONEY",
-  "status": "ok",
+  "status": "no_candidates",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4481108,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
-    "fact_nuggets": [
-      {
-        "text": "Gen IV item",
-        "evidence_ref": "lead",
-        "specificity": 0.48
-      },
-      {
-        "text": "Contents 1 Effect 1.1 Generation IV-VII 1.1.1 Oddities 1.2 Generation VIII onward Effect [ edit | edit source ] Generation IV-VII [ edit | edit source ] When used in tall grass , caves , or while surfing , Honey triggers a wild Pokemon battle (like Sweet Scent as a field move ). In Generation VI , this will trigger a Horde Encounter if they are present in the area; however, in Pokemon X and Y , it cannot cause a wild encounter if the overworld weather is not clear. In Sinnoh , Honey can be slathered on Honey Trees in order to attract wild Pokemon. Oddities [ edit | edit source ] In Pokemon Diamond and Pearl only, using Honey (or Sweet Scent) inside a shop or Pok Mart will cause the descriptive text of purchasable items to vanish until the player opens the \"SELL\" menu or leaves the shop. This is known as the Pok Mart text glitch . Generation VIII onward [ edit | edit source ] In Pokemon Sword and Shield and Pokemon Scarlet and Violet , Honey serves no practical purpose other than to be sold. In Pokemon Brilliant Diamond and Shining Pearl , Honey can again be used to trigger a wild Pokemon battle in tall grass or caves , and can be slathered on Honey Trees in order to attract wild Pokemon. Effect [ edit | edit source ] Honey can be used as an ingredient in cooking , with a base Strength of 101. It can be used to cook the following recipes: Name Recipe Minimum pot size \" Egg Bomb \" Curry Honey 12 Fancy Apple 11 Fancy Egg 8 Soft Potato 4 35 Mild Honey Curry Honey 7 7 \" Calm Mind \" Fruit Salad Fancy Apple 21 Honey 16 Greengrass Corn 12 49 \" Steadfast \" Ginger Cookies Honey 14 Warming Ginger 12 Soothing Cacao 5 Fancy Egg 4 35 Craft Soda Pop Honey 9 9 Jigglypuff 's Fruity Flan Honey 20 Fancy Egg 15 Fancy Apple 10 Moomoo Milk 10 55 \" Lovely Kiss \" Smoothie Fancy Apple 11 Moomoo Milk 9 Honey 7 Soothing Cacao 8 35 \" Sweet Scent \" Chocolate Cake Honey 9 Soothing Cacao 8 Moomoo Milk 7 24 Big Malasada Pure Oil 10 Moomoo Milk 7 Honey 6 23 \" Flower Gift \" Macarons Soothing Cacao 25 Fancy Egg 25 Honey 17 Moomoo Milk 10 77 Clodsire clair Soothing Cacao 30 Moomoo Milk 26 Rousing Coffee 24 Honey 22 102",
-        "evidence_ref": "lead",
-        "specificity": 0.62
-      },
-      {
-        "text": "Safari-zone capture tool",
-        "evidence_ref": "lead",
-        "specificity": 0.88
-      },
-      {
-        "text": "Used for berry recipes or blending",
-        "evidence_ref": "Effect",
-        "specificity": 0.82
-      }
-    ],
-    "crossword_candidates": [
-      {
-        "text": "Berry-blending ingredient",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.68,
-        "specificity_score": 0.82,
-        "style": "family"
-      },
-      {
-        "text": "Safari Zone catcher",
-        "evidence_ref": "lead",
-        "mystery_score": 0.76,
-        "specificity_score": 0.88,
-        "style": "effect"
-      },
-      {
-        "text": "Great Marsh capture tool",
-        "evidence_ref": "lead",
-        "mystery_score": 0.72,
-        "specificity_score": 0.86,
-        "style": "effect"
-      }
-    ],
-    "cryptic_definition_seeds": [
-      "berry ingredient"
-    ],
-    "connections_descriptors": [
-      "Gen IV items"
-    ],
+    "fact_nuggets": [],
+    "crossword_candidates": [],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
     "risk_flags": [],
-    "confidence": 0.78
+    "confidence": 0.25
   },
-  "updatedAt": 1774257955
+  "updatedAt": 1774525972
 }

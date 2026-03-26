@@ -3,7 +3,7 @@
   "answerDisplay": "WISE GLASSES",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Wise Glasses",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Wise_Glasses",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Boosts the power of the holder's special moves by 10% (approximated as a multiplier of 4505/4096 from Generation V to Pokémon Scarlet and Violet )."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Celestic Town Night HG SS Pewter City PBR Shop (7200 Poké Coupons , after viewing all battle tutorials) B W Battle Subway (48 BP ) B2 W2 Battle Subway / PWT (8 BP ) X Y OR AS Battle Maison (48 BP ) S M US UM Route 1 ( Trainers' School ) Night US UM Battle Royal Dome (48 BP ) Sw Sh Hammerlocke Sw Sh CT Hidden recurring item ( Frostpoint Field ) BD SP Celestic Town Night S V Levincia Delibird Presents ( Mesagoza Branch) Distribution [ edit | edit source ] Games Event Language/Region Distribution period S V Summer training support sets Japan July 22 to September 30, 2023"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Wise Glasses",
     "Wise-Glasses (item)"
   ],
-  "updatedAt": 1773328536
+  "updatedAt": 1774524909
 }

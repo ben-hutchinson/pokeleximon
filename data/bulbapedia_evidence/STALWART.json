@@ -3,7 +3,7 @@
   "answerDisplay": "STALWART",
   "sourceType": "ability",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Stalwart (Ability)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Stalwart_(Ability)",
@@ -25,5 +25,5 @@
     "Stalwart",
     "Stalwart (Ability)"
   ],
-  "updatedAt": 1773327504
+  "updatedAt": 1774524731
 }

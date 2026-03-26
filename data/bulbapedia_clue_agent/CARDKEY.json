@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4300763,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -29,7 +29,7 @@
         "specificity": 0.8
       },
       {
-        "text": "Opens Locked Doors At Silph Co",
+        "text": "Opens Doors In The Radio Tower",
         "evidence_ref": "lead",
         "specificity": 0.86
       }
@@ -64,14 +64,14 @@
         "style": "effect"
       },
       {
-        "text": "Opens Locked Doors At Silph Co",
+        "text": "Opens Doors In The Radio Tower",
         "evidence_ref": "lead",
         "mystery_score": 0.78,
         "specificity_score": 0.9,
         "style": "effect"
       },
       {
-        "text": "Key for Locked Doors At Silph Co",
+        "text": "Key for Doors In The Radio Tower",
         "evidence_ref": "lead",
         "mystery_score": 0.7,
         "specificity_score": 0.84,
@@ -101,5 +101,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257933
+  "updatedAt": 1774525958
 }

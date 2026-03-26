@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4468663,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -14,29 +14,9 @@
         "specificity": 0.5
       },
       {
-        "text": "town landmark",
-        "evidence_ref": "lead",
-        "specificity": 0.64
-      },
-      {
-        "text": "village landmark",
-        "evidence_ref": "lead",
-        "specificity": 0.64
-      },
-      {
         "text": "gate landmark",
-        "evidence_ref": "lead",
-        "specificity": 0.64
-      },
-      {
-        "text": "route landmark",
-        "evidence_ref": "lead",
-        "specificity": 0.64
-      },
-      {
-        "text": "near a regional town",
-        "evidence_ref": "lead",
-        "specificity": 0.58
+        "evidence_ref": "title",
+        "specificity": 0.68
       }
     ],
     "crossword_candidates": [
@@ -48,32 +28,39 @@
         "style": "taxonomy"
       },
       {
-        "text": "Unova town",
-        "evidence_ref": "lead",
+        "text": "Unova route connector",
+        "evidence_ref": "title",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Connector gate in Unova",
+        "evidence_ref": "title",
+        "mystery_score": 0.62,
+        "specificity_score": 0.78,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Unova gate",
+        "evidence_ref": "title",
         "mystery_score": 0.52,
         "specificity_score": 0.7,
         "style": "taxonomy"
       },
       {
-        "text": "Regional town",
-        "evidence_ref": "lead",
+        "text": "Regional gate",
+        "evidence_ref": "title",
         "mystery_score": 0.44,
         "specificity_score": 0.62,
         "style": "taxonomy"
       },
       {
-        "text": "Town in Unova",
-        "evidence_ref": "lead",
+        "text": "Gate in Unova",
+        "evidence_ref": "title",
         "mystery_score": 0.42,
         "specificity_score": 0.66,
         "style": "taxonomy"
-      },
-      {
-        "text": "Town-side landmark",
-        "evidence_ref": "lead",
-        "mystery_score": 0.42,
-        "specificity_score": 0.58,
-        "style": "theme"
       }
     ],
     "cryptic_definition_seeds": [
@@ -81,10 +68,10 @@
     ],
     "connections_descriptors": [
       "Unova landmarks",
-      "Unova towns"
+      "Unova gates"
     ],
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774257983
+  "updatedAt": 1774525983
 }

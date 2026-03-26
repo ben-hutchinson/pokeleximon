@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4512580,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Full Metal Body (Japanese: Metal Protect) is an Ability introduced in Generation VII. It is the signature Ability of Solgaleo.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Solgaleo",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Full Metal Body prevents stat reduction caused by other Pokemon's moves and Abilities (such as Scary Face and Intimidate ), including Sticky Web . Full Metal Body does not prevent self-inflicted stat reductions such as from moves like Superpower or Shell Smash . Full Metal Body only protects from effects that lower stat stages, so it does not prevent stat reduction from items like the Iron Ball , the status conditions paralysis or burn , or the moves Guard Split or Power Split . Full Metal Body does not prevent stat stages being directly modified by Haze , Clear Smog , Heart Swap , Guard Swap , Power Swap , Baton Pass , or Topsy-Turvy . It does not prevent Spectral Thief from stealing (i.e. resetting) positive stat changes. Unlike White Smoke and Clear Body , this Ability cannot be ignored by moves or Abilities . It can still be changed or suppressed. Outside of battle [ edit | edit source ] Full Metal Body has no effect outside of battle.",
@@ -58,6 +63,13 @@
         "mystery_score": 0.56,
         "specificity_score": 0.66,
         "style": "effect"
+      },
+      {
+        "text": "Solgaleo's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       },
       {
         "text": "Protects stats from drops",
@@ -118,5 +130,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257948
+  "updatedAt": 1774525968
 }

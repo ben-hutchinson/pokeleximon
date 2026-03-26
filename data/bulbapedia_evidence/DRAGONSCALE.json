@@ -3,7 +3,7 @@
   "answerDisplay": "DRAGON SCALE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Dragon Scale",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Scale",
@@ -24,8 +24,16 @@
       "text": "In battle [ edit | edit source ] In Pokémon Gold, Silver , and Crystal , it increases the power of Dragon-type moves by 10% when held due to an oversight (while the Dragon Fang —the item which was intended to have this effect—has no effect). In Pokémon Stadium 2 , both Dragon Fang and Dragon Scale boost the power of Dragon-type moves. From Generation III onward, Dragon Scale has no effect in battle."
     },
     {
-      "title": "Description",
-      "text": "Description [ edit | edit source ] Games Description G S C A rare dragon-type item. R S E Colo XD A strange scale held by Dragon -type Pok é mon . FR LG A thick and tough scale. A Dragon -type Pok é mon may be holding it. D P Pt HG SS B W B2 W2 A thick and tough scale. Dragon-type Pokémon may be holding this item when caught. X Y OR AS S M US UM P E Sw Sh BD SP LA S V A very tough and inflexible scale. Dragon-type Pokémon may be holding this item when caught."
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods G S C Mt. Mortar Held by wild Horsea , wild Seadra , wild Dratini , and wild Dragonair (2% chance each) R S E Held by wild Horsea and wild Bagon (5% chance each) FR LG Water Path , Trainer Tower (prize for defeating Double Mode) Trade Colo Trade XD Trade D P Pt Held by wild Horsea , wild Seadra , wild Dratini , and wild Dragonair (5% chance each) HG SS Mt. Mortar Pokéathlon Dome (2500 Pts. - post- National Pokédex ) We Fr Held by wild Horsea , wild Seadra , wild Dratini , and wild Dragonair (5% chance each) PW Winner's Path (held by wild Horsea ) B W Route 18 Route 13 (treasure hunter) Held by wild Horsea , wild Seadra , wild Dratini , wild Dragonair , wild Dragonite , and wild Kingdra (5% chance each) B2 W2 Victory Road Join Avenue ( Antique Shop ); White Forest (Store 3) Held by wild Horsea , wild Seadra , wild Dratini , wild Dragonair , wild Dragonite , and wild Kingdra (5% chance each) X Y Terminus Cave Held by wild Horsea , wild Seadra , wild Dratini , and wild Dragonair (5% chance each) OR AS Sky Pillar Held by wild Horsea and wild Seadra (5% chance each) PMC * Balloon Popping (Lv. 2) S M US UM Kantonian Gym US UM Battle Tree (32 BP ) Held by wild Dratini , wild Dragonair and wild Dragonite (5% chance each) Sw Sh IA Honeycalm Sea Hidden recurring item ( Insular Sea ) Cram-o-matic ( Dragon : 72-80 points) Held by wild Horsea (5% chance) Sw Sh CT Hidden recurring item ( Three-Point Pass ) Held by wild Dratini (5% chance) BD SP Held by wild Horsea , wild Seadra , wild Dratini , and wild Dragonair (5% chance each) S V ID Coastal Biome Reward for registering 170 Pokémon in the Blueberry Pokédex Blueberry Academy School Store (250 BP ) Item Printer Distribution [ edit | edit source ] As a held item [ edit | edit source ] Games Event Language/Region Distribution period R S Dragon Week Seadra United States September 29 to October 3, 2003 EX-Dragon TCG Prerelease Promotion Seadra United States November 22 to 28, 2003 D P Nintendo of Korea Rayquaza Korean May 31 to July 17, 2008"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods MD R B Wyvern Hill (29-30F) MD T D S Treasure Boxes , Job requests (★3-★9) Happy Outlook (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F), Mt. Mistral (Kecleon Shop: 3F, 5F, 7F, 9F, 11F, 13F, 15F, 17F, 19F), Shimmer Hill (Kecleon Shop: 2F, 4F, 6F, 8F, 10F, 12F, 14F, 16F), Lost Wilderness (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F)"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Starting at level 10, Dragon Scales can be rarely obtained from Spinning PokéStops or Gyms Opening a Gift While normally rare, from March 21, 2017 onward, the player is guaranteed to find an Evolution item when obtaining the bonus for spinning a Photo Disc for the seventh day in a row. Additionally, the player receives a Dragon Scale when completing part 6 of the Special Research \"A Ripple in Time\"."
     }
   ],
   "familyPages": [],
@@ -34,5 +42,5 @@
     "Dragon Scale",
     "Dragon-Scale (item)"
   ],
-  "updatedAt": 1773322291
+  "updatedAt": 1774524147
 }

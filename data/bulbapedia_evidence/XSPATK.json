@@ -3,17 +3,21 @@
   "answerDisplay": "X SP ATK",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "X Sp. Atk",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/X_Sp._Atk",
   "pageId": 184521,
-  "pageRevisionId": 4480977,
+  "pageRevisionId": 4516434,
   "leadText": "The X Sp. Atk (Japanese: スペシャルアップ Special Up), known as X Special prior to Generation VI, is a type of battle item introduced in Generation I. It temporarily boosts a Pokémon's Special Attack stat. In Generation I, it boosted the Special stat.",
   "sections": [
     {
       "title": "Effect",
       "text": "Contents 1 Effect 1.1 Generation I 1.2 Generations II to VI 1.3 Generation VII onward Effect [ edit | edit source ] Generation I [ edit | edit source ] When used from the Bag during battle, it raises the Special of a Pokémon currently in battle by 1 level. Generations II to VI [ edit | edit source ] When used from the Bag during battle, it raises the Special Attack of a Pokémon currently in battle by 1 level. It also increases the Pokémon's friendship a little. Generation VII onward [ edit | edit source ] When used from the Bag during battle, it raises the Special Attack of a Pokémon currently in battle by 2 levels. It also increases the Pokémon's friendship a little."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods R B Y / R G B Y Underground Path (Kanto Routes 5–6) Celadon Department Store G S C Route 45 G S , Team Rocket's Hideout C , Victory Road G S , Underground Path (Kanto Routes 5–6) Goldenrod Department Store , Celadon Department Store R S E Route 116 Verdanturf , Fallarbor Poké Marts , Lilycove Department Store FR LG Silph Co. Celadon Department Store Colo Phenac Poké Mart XD Pyrite Poké Mart D P Pt Team Galactic Eterna Building Pt Veilstone Department Store HG SS Team Rocket HQ , Underground Path (Kanto Routes 5–6) Goldenrod Department Store , Celadon Department Store PW Suburban Area B W Nacrene City , Shopping Mall Nine B2 W2 Castelia Sewers Nacrene City , Shopping Mall Nine Join Avenue ( Market ) X Y Route 6 , Parfum Palace , Cyllage City , Shalour City , Snowbelle City Santalune City Poké Mart OR AS Routes 116 and 120 Slateport City Poké Mart , Lilycove Department Store (Level 3) S M US UM Route 2 US UM , Brooklet Hill , Lush Jungle S M , Aether Paradise , Poni Grove , Vast Poni Canyon S M Route 2 , Route 5 US UM , Route 8 , and Hau'oli Poké Marts Festival Plaza ( Battle Store ) M UM P E Silph Co. All Poké Marts (after obtaining 1 Badge ), Celadon Department Store Sw Sh Route 5 , Circhester , Stow-on-Side , Wyndon Motostoke Poké Mart BD SP Veilstone Department Store S V Alfornada Cavern , Glaseado Mountain , Tagtree Thicket , East Province (Area One) , East Province (Area Three) , North Province (Area One) , North Province (Area Two) , South Province (Area Two) , South Province (Area Five) Chansey Supply S V TM Apple Hills , Kitakami Wilds S V ID Canyon Biome , Coastal Biome Vending machines ( Terarium )"
     },
     {
       "title": "Description",
@@ -34,5 +38,5 @@
     "X Sp Atk",
     "X-Sp-Atk (item)"
   ],
-  "updatedAt": 1773328618
+  "updatedAt": 1774524928
 }

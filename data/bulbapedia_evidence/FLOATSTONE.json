@@ -3,7 +3,7 @@
   "answerDisplay": "FLOAT STONE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Float Stone",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Float_Stone",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Halves the weight of the holder. Autotomize is applied before other weight-modifying effects, including the Float Stone. A Pokémon's weight cannot be reduced below 0.1 kg. This has no effect on the Heavy Ball , which uses the Pokémon's species' weight rather than its current weight."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods B W Opelucid City B2 W2 Opelucid City , Twist Mountain Join Avenue ( Antique Shop ) DW * Rugged Mountain X Y Spiky rocks OR AS Rustboro City Secret Base (\"Search for treasure\" with Secret Pal ) S M US UM Wela Volcano Park US UM Battle Royal Dome (48 BP ), Poké Pelago (Isle Aphun - Brilliant-Stone Hunting, Interesting-Item Hunting) Sw Sh Bridge Field ( Digging Duo ) Sw Sh IA Cram-o-matic ( Rock : 2-20 points) Sw Sh CT Hidden recurring item ( Giant's Bed ) S V Sparkling overworld item ( South Province (Area Three) , South Province (Area Five) ) S V ID Sparkling overworld item ( Canyon Biome , Coastal Biome , Savanna Biome )"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Float Stone",
     "Float-Stone (item)"
   ],
-  "updatedAt": 1773322897
+  "updatedAt": 1774524205
 }

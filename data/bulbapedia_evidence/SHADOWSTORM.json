@@ -3,7 +3,7 @@
   "answerDisplay": "SHADOW STORM",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Shadow Storm (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Storm_(move)",
@@ -18,10 +18,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description XD A shadowy aura is used to whip up a vicious tornado."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Shadow Storm has the same power , accuracy , and targeting as Surf in Pokémon XD (the only game this move appears in)."
     }
   ],
   "familyPages": [],
@@ -30,5 +26,5 @@
     "Shadow Storm",
     "Shadow-Storm (move)"
   ],
-  "updatedAt": 1773326857
+  "updatedAt": 1774524684
 }

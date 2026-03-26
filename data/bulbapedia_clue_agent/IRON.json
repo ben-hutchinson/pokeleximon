@@ -1,92 +1,18 @@
 {
   "answerKey": "IRON",
-  "status": "ok",
+  "status": "no_candidates",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4403493,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
-    "fact_nuggets": [
-      {
-        "text": "Gen I item",
-        "evidence_ref": "lead",
-        "specificity": 0.48
-      },
-      {
-        "text": "Contents 1 Effect 1.1 Generation I to II 1.2 Generation III to VII 1.3 Generation VIII onward Effect [ edit | edit source ] Generation I to II [ edit | edit source ] When used from the Bag on a Pokemon, adds 2560 Defense Stat Experience to the target Pokemon per use, until it has 25600 Defense Stat Experience. In Generation II , it also increases the Pokemon's friendship a little. The Iron is consumed upon use and cannot be used in battle. Generation III to VII [ edit | edit source ] When used from the Bag on a Pokemon, adds 10 Defense EVs to the target Pokemon per use, until it has 100 Defense EVs. It also increases the Pokemon's friendship a little. The Iron is consumed upon use and cannot be used in battle. Generation VIII onward [ edit | edit source ] Iron can now be used even on a Pokemon that has 100 Defense EVs or more, allowing the Defense EVs to be raised to the single-stat cap of 252 or the total cap of 510 this way. Effect [ edit | edit source ] A consumable item that raises the Defense of Pokemon that ingests it by 3 and restores 5 Belly for it. If thrown, it will grant the same effect as if it was consumed by the Pokemon it hits (it cannot be caught); if it is sticky , it will also deal 2 damage. Iron can be blended into a drink at Spinda's Juice Bar , although it has no special effects.",
-        "evidence_ref": "lead",
-        "specificity": 0.62
-      },
-      {
-        "text": "Safari-zone capture tool",
-        "evidence_ref": "lead",
-        "specificity": 0.88
-      },
-      {
-        "text": "Used for berry recipes or blending",
-        "evidence_ref": "Effect",
-        "specificity": 0.82
-      },
-      {
-        "text": "Boosts Pokemon That Ingests It By's stats",
-        "evidence_ref": "Effect",
-        "specificity": 0.9
-      }
-    ],
-    "crossword_candidates": [
-      {
-        "text": "Berry-blending ingredient",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.68,
-        "specificity_score": 0.82,
-        "style": "family"
-      },
-      {
-        "text": "Safari Zone catcher",
-        "evidence_ref": "lead",
-        "mystery_score": 0.76,
-        "specificity_score": 0.88,
-        "style": "effect"
-      },
-      {
-        "text": "Great Marsh capture tool",
-        "evidence_ref": "lead",
-        "mystery_score": 0.72,
-        "specificity_score": 0.86,
-        "style": "effect"
-      },
-      {
-        "text": "Pokemon That Ingests It By Defense boost item",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.8,
-        "specificity_score": 0.9,
-        "style": "effect"
-      },
-      {
-        "text": "Power item for Pokemon That Ingests It By",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.74,
-        "specificity_score": 0.86,
-        "style": "effect"
-      },
-      {
-        "text": "Pokemon That Ingests It By-only held item",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.72,
-        "specificity_score": 0.84,
-        "style": "effect"
-      }
-    ],
-    "cryptic_definition_seeds": [
-      "berry ingredient",
-      "pokemon that ingests it by item"
-    ],
-    "connections_descriptors": [
-      "Gen I items"
-    ],
+    "fact_nuggets": [],
+    "crossword_candidates": [],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
     "risk_flags": [],
-    "confidence": 0.78
+    "confidence": 0.25
   },
-  "updatedAt": 1774257957
+  "updatedAt": 1774525974
 }

@@ -3,12 +3,12 @@
   "answerDisplay": "WATER PULSE",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Water Pulse (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Water_Pulse_(move)",
   "pageId": 3963,
-  "pageRevisionId": 4502779,
+  "pageRevisionId": 4512019,
   "leadText": "Water Pulse (Japanese: みずのはどう Water Pulse) is a damage-dealing Water-type move introduced in Generation III. It is: TM03 in Generations III and IV and in Pokémon Brilliant Diamond and Shining Pearl. TM011 in Pokémon Scarlet and Violet. TM041 in Pokémon Legends: Z-A.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target, even at a distance. It may also leave the target confused. MD T D S Inflicts damage on the target, even at a distance. It may also afflict the target with a Confused status. B S L はなれたポケモンに ダメージをあたえる しかも いっていのかくりつで こんらんじょうたいにかえる Conq. A pulse of water is ejected at the target, confusing them. MD GtI It damages even a faraway Pokémon. It could also cause the Confused status condition. The Confused status impairs its sense of direction. S MD It damages a Pokémon, even one far away. It could also make the enemy confused."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] From Generation III onwards, Secret Power has the animation of Water Pulse if used on water . Water Pulse is the only Water-type move capable of inflicting confusion."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Water Pulse",
     "Water-Pulse (move)"
   ],
-  "updatedAt": 1773328419
+  "updatedAt": 1774524882
 }

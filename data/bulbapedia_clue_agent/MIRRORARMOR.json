@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 3830059,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Mirror Armor (Japanese: Mirror Armor) is an Ability introduced in Generation VIII. It is the signature Ability of Corviknight.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Corviknight",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Mirror Armor reflects the stat-lowering effects of moves and Abilities back to the user. Mirror Armor cannot reflect the stat-lowering effect of Octolock or an effect that was just reflected by an opponent's Mirror Armor. Stat-lowering effects of moves reflected by Magic Bounce are still reflected back. If multiple Pokemon, including the Pokemon with this Ability, would have their stats lowered by the same effect, only the stat drop that would have applied to the Pokemon with this Ability is reflected. If the Pokemon with this Ability is affected by Sticky Web , the effect is reflected back to the Pokemon which set it up. If Pokemon which set up Sticky Web is not on the field, no Pokemon have their Speed lowered. Outside of battle [ edit | edit source ] Mirror Armor has no effect outside of battle.",
@@ -41,6 +46,13 @@
         "mystery_score": 0.56,
         "specificity_score": 0.66,
         "style": "effect"
+      },
+      {
+        "text": "Corviknight's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
     "cryptic_definition_seeds": [
@@ -53,5 +65,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257977
+  "updatedAt": 1774525981
 }

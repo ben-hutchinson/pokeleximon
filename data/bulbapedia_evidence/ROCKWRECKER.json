@@ -3,7 +3,7 @@
   "answerDisplay": "ROCK WRECKER",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Rock Wrecker (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rock_Wrecker_(move)",
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target, even at a distance. But it also afflicts the user with a Paused status condition. A Pokémon with the Paused status is incapable of action. B S L はなれたポケモンに ダメージをあたえる しかし じぶんが ようすみじょうたいに なってしまう ようすみじょうたいの ポケモンは こうどうできない Conq. The user launches a huge boulder at the enemy to attack. Cannot be used 2 turns in a row. MD GtI It damages even a faraway Pokémon. But it also causes the Recoil status condition, which prevents you from doing anything on the next turn. S MD It damages a Pokémon, even one far away, but it also makes you recoil, which prevents you from doing anything on the next turn."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Rock Wrecker is tied with Head Smash for having the highest base power of all Rock-type moves, excluding Z-Moves , Max Moves , and G-Max Moves . A Continental Crush based on either of them has the highest base power of all Rock-type moves."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Rock Wrecker",
     "Rock-Wrecker (move)"
   ],
-  "updatedAt": 1773326485
+  "updatedAt": 1774524621
 }

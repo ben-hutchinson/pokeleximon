@@ -3,17 +3,21 @@
   "answerDisplay": "STELLAR",
   "sourceType": "type",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Stellar (type)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Stellar_(type)",
   "pageId": 300840,
-  "pageRevisionId": 4496751,
+  "pageRevisionId": 4516066,
   "leadText": "The Stellar type (Japanese: ステラタイプ Stellar type) is a type that exists only in Generation IX. Unlike other types, no Pokémon or moves bear it naturally, and it is exclusive to Terastallized Pokémon. Stellar-type moves are super effective against other Tera Pokémon. In Pokémon Scarlet and Violet, it was revealed that the Stellar type and the Terastal phenomenon were created by Terapagos. Pokémon gain the Stellar Tera Type due to the influence of the crystals found in the Area Zero Underdepths.",
   "sections": [
     {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] The Stellar type's icon is similar to Terastal Form Terapagos 's shell seen from above. This is likely due to the shell displaying all of the other types's icons on it, similar to how the Stellar type can be considered a \"mix\" of all other types. The Stellar type is the only type: To be exclusive to a transformation mechanic . Without a type-boosting held item , damage-reducing Berry , gem , memory , or Plate . To be introduced mid- generation instead of at the beginning of a generation. Written in katakana, ステラタイプ ( Sutera type ) is an anagram of テラスタイプ ( Terasu Type ), the Japanese word for Tera Type. Stellar-type moves can only be resisted by the Tera Shell and Wonder Guard Abilities, the latter of which is unavailable in Pokémon Scarlet and Violet . Stellar-type moves have some similarity to Shadow moves . They are both exclusive to a single pair of games. They are both exclusive to a variation of a Pokémon created for those games (Terastal phenomenon and Shadow Pokémon ). They both have special type interactions with that variation. Neither has any special interactions with other types. Pokémon who can use these moves have the same type interactions as their original forms, except for against the moves themselves."
+      "title": "Battle properties",
+      "text": "Battle properties [ edit | edit source ] Offensive properties of Stellar-type moves Super effective (×2) Not very effective (×½) No effect (×0) Terastallized Pokémon None None Uniquely, the Stellar type has no defensive properties, as a Stellar-type Tera Pokémon will always retain its original type 's defensive characteristics. Outside of Terastallizing, any attempts to change a Pokémon's type into the Stellar type (such as the moves Conversion 2 or Reflect Type ) will fail. Becoming Stellar-type is a form of Terastalization and as such, Stellar-type Pokémon are in practice always weak to Stellar-type moves , in addition to any weaknesses of their original type. If a Pokémon is hacked to have the Stellar type without Terastallizing, it is treated as a Poison-type Pokémon defensively. [ 1 ] Additional effects [ edit | edit source ] When a Pokémon Terastallizes into the Stellar type, it gains an attack boost for every move's type, but only once per type; 2× for the Pokémon's original types and 1.2× (4915/4096) for every other type, including Stellar. After a move is used, no other moves of that same type will receive this boost from being Terastallized. In Tera Raid Battles , all moves will be boosted in this manner without limit. In its Stellar Form , Terapagos similarly retains this boost at all times. Stellar-type Tera Blast gains increased power at the cost of lowering the user's Attack and Special Attack stats by one stage, and Stellar-type Tera Starstorm changes to hit multiple opponents. Other moves cannot be changed into the Stellar type. A Pokémon that Terastallizes into the Stellar type will be unable to use Transform . Imposter will also fail to activate. ↑ https://twitter.com/Sibuna_Switch/status/1827463371383328877"
+    },
+    {
+      "title": "Additional effects",
+      "text": "Additional effects [ edit | edit source ] When a Pokémon Terastallizes into the Stellar type, it gains an attack boost for every move's type, but only once per type; 2× for the Pokémon's original types and 1.2× (4915/4096) for every other type, including Stellar. After a move is used, no other moves of that same type will receive this boost from being Terastallized. In Tera Raid Battles , all moves will be boosted in this manner without limit. In its Stellar Form , Terapagos similarly retains this boost at all times. Stellar-type Tera Blast gains increased power at the cost of lowering the user's Attack and Special Attack stats by one stage, and Stellar-type Tera Starstorm changes to hit multiple opponents. Other moves cannot be changed into the Stellar type. A Pokémon that Terastallizes into the Stellar type will be unable to use Transform . Imposter will also fail to activate."
     }
   ],
   "familyPages": [],
@@ -22,5 +26,5 @@
     "Stellar (type)",
     "Stellar type"
   ],
-  "updatedAt": 1773327574
+  "updatedAt": 1774524756
 }

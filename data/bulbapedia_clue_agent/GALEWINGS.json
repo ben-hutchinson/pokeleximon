@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4345509,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Gale Wings (Japanese: Gale Wings) is an Ability introduced in Generation VI. It is the signature Ability of Fletchling's evolutionary line.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Fletchling'S Evolutionary Line",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation VI 1.1.2 Generation VII onwards 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation VI [ edit | edit source ] Gale Wings increases the priority of Flying-type moves by one. Affected Flying-type attacks and offensive status moves can be blocked by Quick Guard . This Ability does not increase the priority of Flying-type Hidden Power , Natural Gift , or Judgment , as they are treated as Normal-type moves before being used. Generation VII onwards [ edit | edit source ] Gale Wings now only activates if the user has full HP when the move is selected. It does not increase the priority of Flying-type Tera Blast . Outside of battle [ edit | edit source ] Gale Wings has no effect outside of battle.",
@@ -48,6 +53,13 @@
         "mystery_score": 0.56,
         "specificity_score": 0.66,
         "style": "effect"
+      },
+      {
+        "text": "Fletchling'S Evolutionary Line's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
     "cryptic_definition_seeds": [
@@ -62,5 +74,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257948
+  "updatedAt": 1774525968
 }

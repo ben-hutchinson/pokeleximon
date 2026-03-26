@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4499423,
   "evidencePassMode": "second_pass",
   "response": {
@@ -37,6 +37,11 @@
         "text": "Protects against fire moves. Once one has been blocked, the Pokemon's own Fire moves inflict 1.5 damage until it leaves battle.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Absorbs Fire moves to boost Fire attacks",
+        "evidence_ref": "In battle",
+        "specificity": 0.92
       }
     ],
     "crossword_candidates": [
@@ -46,17 +51,41 @@
         "mystery_score": 0.56,
         "specificity_score": 0.66,
         "style": "effect"
+      },
+      {
+        "text": "Absorbs Fire-type moves",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.82,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Boosts Fire-type moves after a Fire hit",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.76,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Fire-absorbing power-up trait",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.7,
+        "specificity_score": 0.84,
+        "style": "effect"
       }
     ],
     "cryptic_definition_seeds": [
-      "protective trait"
+      "protective trait",
+      "fire absorber",
+      "fire booster"
     ],
     "connections_descriptors": [
       "Protective abilities",
+      "Absorbing abilities",
       "Gen III abilities"
     ],
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257946
+  "updatedAt": 1774525967
 }

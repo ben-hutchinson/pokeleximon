@@ -3,25 +3,15 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4505570,
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
   "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
       {
-        "text": "Gen II item",
-        "evidence_ref": "lead",
-        "specificity": 0.48
-      },
-      {
         "text": "evolution",
         "evidence_ref": "lead",
         "specificity": 0.62
-      },
-      {
-        "text": "Gen II evolution",
-        "evidence_ref": "lead",
-        "specificity": 0.54
       },
       {
         "text": "Traded on a Porygon: Holder evolves into Porygon2.",
@@ -54,11 +44,10 @@
       "evolution item"
     ],
     "connections_descriptors": [
-      "Evolution items",
-      "Gen II items"
+      "Evolution items"
     ],
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774258029
+  "updatedAt": 1774526002
 }

@@ -3,12 +3,12 @@
   "answerDisplay": "ICE BALL",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Ice Ball (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ice_Ball_(move)",
   "pageId": 3912,
-  "pageRevisionId": 4412440,
+  "pageRevisionId": 4511365,
   "leadText": "Ice Ball (Japanese: アイスボール Ice Ball) is a damage-dealing Ice-type move introduced in Generation III. Prior to Generation VI, it was the signature move of Spheal's evolutionary line, but other Pokémon could still inherit it via breeding.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD R B Hits the target in succession until it misses. Its power rises with every hit. It may hit up to five times. MD T D S Inflicts damage on the target with attacks that continue in a single turn until one misses. Its power rises after each hit, and it can last for a maximum of 5 attacks. B S L はずれるまでれんぞくこうげきして こうげきが あたるたびに いりょくが あがる さいだい ５かいれんぞくこうげき Conq. The user continually rolls into the target several times. It becomes stronger each time it hits. MD GtI UNUSED S MD It damages an enemy up to 5 times, until one misses. Power goes up even more after you use Defense Curl! MD RT DX It damages an enemy up to 5 times or until it misses. The power goes up after you use Defense Curl."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Excluding signature moves and Z-Moves , Ice Ball is the only Ice-type move to not be usable in Pokémon Sword and Shield . The animation of Ice Ball changes depending on the game it appears in: In the core series games and several spin-off games , it resembles a throwable ice ball. In Pokémon Battle Revolution , it resembles a rolling ball covered in ice."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Ice Ball",
     "Ice-Ball (move)"
   ],
-  "updatedAt": 1773323775
+  "updatedAt": 1774524281
 }

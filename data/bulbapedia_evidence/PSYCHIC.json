@@ -3,7 +3,7 @@
   "answerDisplay": "PSYCHIC",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Psychic",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Psychic",
@@ -16,5 +16,5 @@
     "Psychic",
     "Psychic (move)"
   ],
-  "updatedAt": 1773326076
+  "updatedAt": 1774524525
 }

@@ -3,12 +3,12 @@
   "answerDisplay": "DRAGON CLAW",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Dragon Claw (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Claw_(move)",
   "pageId": 3948,
-  "pageRevisionId": 4502780,
+  "pageRevisionId": 4514147,
   "leadText": "Dragon Claw (Japanese: ドラゴンクロー Dragon Claw) is a damage-dealing Dragon-type move introduced in Generation III. It is: TM02 from Generation III to Pokémon Ultra Sun and Ultra Moon, in Pokémon Brilliant Diamond and Shining Pearl, as well as in Pokémon Legends: Z-A. TR47 in Pokémon Sword and Shield. TM078 in Pokémon Scarlet and Violet.",
   "sections": [
     {
@@ -30,5 +30,5 @@
     "Dragon Claw",
     "Dragon-Claw (move)"
   ],
-  "updatedAt": 1773322264
+  "updatedAt": 1774524132
 }

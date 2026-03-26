@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4469199,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Download (Japanese: Download) is an Ability introduced in Generation IV. Prior to Generation V and in Generation IX, it is the signature Ability of Porygon's evolutionary line.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Porygon'S Evolutionary Line",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the Pokemon's Attack or Special Attack when it attacks. B S L MD GtI Unavailable S MD The Pokemon's Attack or Sp. Atk sometimes goes up when the Pokemon uses a move on an enemy. If the enemy's Defense is higher than its Sp. Def, Sp. Atk goes up, and if its Sp. Def is higher, Attack goes up! MD RT DX The Pokemon's Attack or Sp. Atk sometimes goes up when the Pokemon uses a move on an enemy. Which one gets raised is based on the enemy's stats.",
@@ -37,6 +42,11 @@
         "text": "Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Raises Attack or Special Attack based on the foe's defenses",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
       }
     ],
     "crossword_candidates": [
@@ -46,17 +56,48 @@
         "mystery_score": 0.56,
         "specificity_score": 0.66,
         "style": "effect"
+      },
+      {
+        "text": "Porygon'S Evolutionary Line's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
+        "text": "Raises Attack or Sp. Atk on entry",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Reads the foe's weaker defense",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Entry boost based on enemy defenses",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.7,
+        "specificity_score": 0.84,
+        "style": "effect"
       }
     ],
     "cryptic_definition_seeds": [
-      "boosting trait"
+      "boosting trait",
+      "defense reader",
+      "adaptive entry boost"
     ],
     "connections_descriptors": [
       "Boosting abilities",
+      "Entry-boosting abilities",
       "Gen IV abilities"
     ],
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257940
+  "updatedAt": 1774525963
 }

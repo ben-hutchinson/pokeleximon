@@ -3,12 +3,12 @@
   "answerDisplay": "MAX ELIXIR",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Max Elixir",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Elixir",
   "pageId": 12854,
-  "pageRevisionId": 4504967,
+  "pageRevisionId": 4516003,
   "leadText": "The Max Elixir (Japanese: ピーピーマックス PP Max), spelled Max Elixer in the Generation I and II games, is a type of medicine introduced in Generation I. It fully restores PP for all of a Pokémon's moves. It is the improved counterpart of both the Max Ether and the Elixir.",
   "sections": [
     {
@@ -18,6 +18,14 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] It fully restores the PP of all the moves of the Pokémon that ingests it and restores 5 Belly for it. In Pokémon Super Mystery Dungeon, it removes the sealed status from the Pokémon. If thrown, it will grant the same effect as if it was consumed by the Pokémon it hits (it cannot be caught); if it is sticky , it will also deal 2 damage. The Max Elixir can be blended into a drink at Spinda's Juice Bar ; it can trigger a medium IQ boost, result in a recruitment , result in an Egg gift, or unlock a new dungeon. In Explorers of Sky, it has the corresponding Lookalike Item Mix Elixir ."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods R B Y R G B Y Route 17 , Power Plant , Seafoam Islands , Cerulean Cave (×1 R B /×2 Y ) G S C Route 26 , Bell Tower , Dragon's Den , Mt. Silver Cave , Whirl Islands Mystery Gift R S E Magma Hideout R / Aqua Hideout S E , Magma Hideout E , Victory Road Pickup ( Lv. 91-100 E ) FR LG Routes 17 and 23 , Power Plant , Berry Forest , Cerulean Cave , Sevault Canyon Colo Snagem Hideout XD Citadark Isle , Realgam Tower (Extra Battle Bingo completion prize) Pickup ( Lv. 91-100) D P Pt Valley Windworks , Victory Road (×1 D P /×2 Pt ), Mt. Coronet (×1 D P ,/×2 Pt ), Stark Mountain (×2) Pickup ( Lv. 91-100) HG SS Routes 17 , 19 , and 26 , Bell Tower , Dragon's Den (×2), Mt. Silver Cave , Cerulean Cave , Whirl Islands Pickup ( Lv. 91-100) PW Treehouse , Quiet Cave B W Routes 8 , 14 , and 18 , Wellspring Cave , Dragonspiral Tower , Moor of Icirrus , Giant Chasm Route 15 (held by in-game trade Rotom ) Pickup ( Lv. 91-100) B2 W2 Castelia City , Pinwheel Forest , Plasma Frigate , Victory Road (×2) Route 15 (held by in-game trade Rotom ) Join Avenue ( Raffle Shop ) Funfest Mission ( Exciting Trading! / Exhilarating Trading! ) Pickup ( Lv. 91-100) X Y Route 22 , Victory Road Lost Hotel ( shaking trash cans ) Pickup ( Lv. 91-100) OR AS Team Magma Hideout OR / Team Aqua Hideout AS , Victory Road , Sootopolis City (×2), Mirage Island (north of Route 124 ), Mirage Forest (west of Route 105 ) Pickup ( Lv. 91-100) S M US UM Hau'oli Cemetery US UM , Haina Desert S M , Mount Lanakila , Poni Grove US UM , Poni Gauntlet S M Festival Plaza ( Lottery shop : sixth prize, haunted houses ) Pickup ( Lv. 81-100) P E Silph Co. , Pokémon Mansion (×2), Cerulean Cave Sw Sh Route 9 Pickup ( Lv. 61-100) Sw Sh CT Snowslide Slope Watt Trader (Highlight Item, 980 W ) BD SP Valley Windworks , Victory Road , Mt. Coronet , Stark Mountain (×2) Pickup ( Lv. 61-100) LA Crafting : 1 Max Ether and 2 King's Leaves S V Alfornada Cavern , Area Zero , Asado Desert , Casseroya Lake , Dalizapa Passage , East Province (Area One) , East Province (Area Three) , Glaseado Mountain , North Province (Area One) , North Province (Area Two) , North Province (Area Three) , South Province (Area Six) , West Province (Area One) Pickup ( Lv. 61-100) S V ID Area Zero Underdepths Blueberry Academy Store (60 BP ) Item Printer Distribution [ edit | edit source ] Games Event Language/Region Distribution period S V Pokémon Get Challenge 2024 items All November 22, 2024 to May 31, 2025 The Great Pokémon Get Operation 2024 items All November 22, 2024 to May 31, 2025"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods MD R B Mt. Steel , Sinister Woods , Silent Chasm , Mt. Thunder , Great Canyon , Lapis Cave , Rock Path , Snow Path , Frosty Forest , Mt. Freeze , Stormy Sea , Silver Trench , Fiery Field , Lightning Field , Northwind Field , Western Cave , Northern Range , Pitfall Valley , Buried Relic , Wish Cave , Wyvern Hill , Solar Cave , Darknight Relic , Unown Relic , Joyous Tower , Purity Forest , Oddity Cave , Remains Island Kecleon Shop ( Mt. Blaze , Frosty Forest, Magma Cavern , Northern Range, Pitfall Valley, Wish Cave, Wyvern Hill, Joyous Tower, Purity Forest, Oddity Cave, Remains Island) Pokémon Square shop Job reward (E-★) MD T D S Treasure Memo floor ( Treasure Boxes ), Sentry Duty Treasure Town Kecleon Shop , Treasure Boxes , Job requests (E-★4) Prize Ticket Win prize, Silver Ticket Loss prize, Gold Ticket Loss prize, Prism Ticket Loss prize, All dungeons except Beach Cave , Northern Desert , Quicksand Cave , Quicksand Pit , Shimmer Desert , and World Abyss MD GtI Post Town merchants, Paradise Facilities , Treasure Boxes , Various dungeons S MD Kecleon Shops , Sparkling Floor , certain post-story dungeons"
     },
     {
       "title": "Description",
@@ -34,5 +42,5 @@
     "Max Elixir",
     "Max-Elixir (item)"
   ],
-  "updatedAt": 1773324810
+  "updatedAt": 1774524367
 }

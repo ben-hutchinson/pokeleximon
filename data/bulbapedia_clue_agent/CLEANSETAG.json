@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4492659,
-  "evidencePassMode": "first_pass",
+  "evidencePassMode": "second_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -32,9 +32,28 @@
         "text": "Prevents wild encounters of level lower than your partys lead Pokemon.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Repels wild Pokemon",
+        "evidence_ref": "Description",
+        "specificity": 0.84
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Repels wild Pokemon",
+        "evidence_ref": "Description",
+        "mystery_score": 0.8,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Cuts wild encounter rate",
+        "evidence_ref": "Description",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
       {
         "text": "Held battle item",
         "evidence_ref": "Description",
@@ -44,7 +63,7 @@
       }
     ],
     "cryptic_definition_seeds": [
-      "battle item"
+      "encounter repellent"
     ],
     "connections_descriptors": [
       "Held battle items",
@@ -53,5 +72,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257935
+  "updatedAt": 1774525959
 }

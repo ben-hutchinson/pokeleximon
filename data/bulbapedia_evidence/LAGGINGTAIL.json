@@ -3,7 +3,7 @@
   "answerDisplay": "LAGGING TAIL",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Lagging Tail",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Lagging_Tail",
@@ -16,16 +16,16 @@
       "text": "Effect [ edit | edit source ] Forces the holder to move last in its priority bracket, regardless of its Speed . This item is unaffected by Trick Room . If a Lagging Tail is gained, lost, or suppressed, then it will not affect turn order until the beginning of the next turn. Generation IV [ edit | edit source ] If multiple Pokémon holding a Lagging Tail or Full Incense use moves with the same priority, the Pokémon with the lower Speed will move first (regardless of Trick Room). A Pokémon with Stall moves before Pokémon holding a Lagging Tail or Full Incense . If a Pokémon with Stall also holds a Lagging Tail or Full Incense, Stall does not affect when the Pokémon moves. Generation V onward [ edit | edit source ] If multiple Pokémon with the Ability Stall or that are holding a Lagging Tail or Full Incense use moves with the same priority, the Pokémon move relatively according to Speed (the order is reversed during Trick Room)."
     },
     {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Route 226 Held by wild Slowpoke and wild Lickitung (5% chance each) HG SS Route 47 Held by wild Slowpoke and wild Lickitung (5% chance each) B W Held by wild Slowpoke and wild Lickitung (5% chance each) B2 W2 Held by wild Slowpoke , wild Lickitung , and wild Lickilicky (5% chance each) DW * Pleasant Forest X Y Held by wild Slowpoke and wild Lickitung (5% chance each) OR AS Held by wild Slowpoke (5% chance) S M US UM Held by wild Slowpoke and wild Lickitung US UM (5% chance) Sw Sh Bridge Field ( Digging Duo ) Held by wild Cufant and wild Copperajah (5% chance each) Sw Sh IA Held by wild Slowpoke (5% chance) BD SP Route 226 Held by wild Slowpoke and wild Lickitung (5% chance each) S V Delibird Presents ( Levincia Branch, after completing the main storyline)"
+    },
+    {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual. S V An item to be held by a Pokémon. A tail of something, this item is tremendously heavy and makes the holder move slower than usual."
     },
     {
       "title": "In the core series games",
       "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.2.1 Generation IV 1.2.2 Generation V onward 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price D P Pt HG SS B W B2 W2 X Y OR AS BD SP N/A $ 100 S M US UM Sw Sh N/A $ 2,000 S V $ 20,000 $ 5,000 Effect [ edit | edit source ] Forces the holder to move last in its priority bracket, regardless of its Speed . This item is unaffected by Trick Room . If a Lagging Tail is gained, lost, or suppressed, then it will not affect turn order until the beginning of the next turn. Generation IV [ edit | edit source ] If multiple Pokémon holding a Lagging Tail or Full Incense use moves with the same priority, the Pokémon with the lower Speed will move first (regardless of Trick Room). A Pokémon with Stall moves before Pokémon holding a Lagging Tail or Full Incense . If a Pokémon with Stall also holds a Lagging Tail or Full Incense, Stall does not affect when the Pokémon moves. Generation V onward [ edit | edit source ] If multiple Pokémon with the Ability Stall or that are holding a Lagging Tail or Full Incense use moves with the same priority, the Pokémon move relatively according to Speed (the order is reversed during Trick Room). Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP LA An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual. S V An item to be held by a Pokémon. A tail of something, this item is tremendously heavy and makes the holder move slower than usual. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Route 226 Held by wild Slowpoke and wild Lickitung (5% chance each) HG SS Route 47 Held by wild Slowpoke and wild Lickitung (5% chance each) B W Held by wild Slowpoke and wild Lickitung (5% chance each) B2 W2 Held by wild Slowpoke , wild Lickitung , and wild Lickilicky (5% chance each) DW * Pleasant Forest X Y Held by wild Slowpoke and wild Lickitung (5% chance each) OR AS Held by wild Slowpoke (5% chance) S M US UM Held by wild Slowpoke and wild Lickitung US UM (5% chance) Sw Sh Bridge Field ( Digging Duo ) Held by wild Cufant and wild Copperajah (5% chance each) Sw Sh IA Held by wild Slowpoke (5% chance) BD SP Route 226 Held by wild Slowpoke and wild Lickitung (5% chance each) S V Delibird Presents ( Levincia Branch, after completing the main storyline)"
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Lagging Tail's sprite resembles the tail of Onix ."
     }
   ],
   "familyPages": [],
@@ -34,5 +34,5 @@
     "Lagging Tail",
     "Lagging-Tail (item)"
   ],
-  "updatedAt": 1773324224
+  "updatedAt": 1774524324
 }

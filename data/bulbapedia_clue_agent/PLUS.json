@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4259146,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Plus (Japanese: Plus) is an Ability introduced in Generation III. Prior to Generation V, it was the signature Ability of Plusle.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Plusle",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD R B Boosts Special Attack if there is a Pokemon with the Minus ability. MD T D S Boosts the Pokemon's Special Attack when a Pokemon with the Minus ability is nearby. B S L MD GtI Raises Special Attack when an ally with the Plus or Minus Ability is nearby. * If a teammate in the same room has the Plus or Minus Ability, the Pokemon's Special Attack will go up! * S MD If a teammate in the same room has the Plus or Minus Ability, the Pokemon's Sp. Atk goes up! MD RT DX If a teammate in the same room has the Plus or Minus Ability, the Pokemon's Sp. Atk goes up.",
@@ -41,40 +46,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "boosting ability",
-        "evidence_ref": "Description",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "boosting ability",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "boosting ability",
-        "evidence_ref": "In battle",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "Gen III ability",
+        "text": "Plusle's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
     "connections_descriptors": [
-      "Boosting abilities"
+      "Gen III abilities"
     ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774257993
+  "updatedAt": 1774525986
 }

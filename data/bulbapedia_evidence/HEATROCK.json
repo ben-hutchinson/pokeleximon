@@ -3,7 +3,7 @@
   "answerDisplay": "HEAT ROCK",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Heat Rock",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Heat_Rock",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] If the Pokémon holding this item creates harsh sunlight with the moves Sunny Day or Max Flare , or the Abilities Drought or Orichalcum Pulse , it lasts eight turns instead of five turns. (Prior to Generation VI , it has no effect on Drought, which creates harsh sunlight with indefinite length in those games.) In the Generation VII games, if harsh sunlight has its duration extended by the Heat Rock, the turn counter on the user interface for these effects will indicate that it lasts for 8 turns for the player whose Pokémon used the move, while it will display that it lasts for 5 turns for their opponent. After 5 turns of harsh sunlight have passed, the user interface will display that it lasts for 8 turns for both players."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Underground HG SS Trade PW Icy Mountain Rd. B W B2 W2 Route 8 (once per day, in the daytime) DW * Icy Cave X Y Route 13 , Terminus Cave Round rocks OR AS Weather Institute S M US UM Malie City Battle Royal Dome (48 BP ) Sw Sh Hammerlocke Bridge Field ( Digging Duo ) Sw Sh IA Loop Lagoon Sw Sh CT Hidden recurring item ( Tunnel to the Top ) BD SP Grand Underground S V Delibird Presents ( Cascarrafa Branch, after earning 4 Gym Badges ) Sparkling overworld item ( East Province (Area Three) )"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Heat Rock",
     "Heat-Rock (item)"
   ],
-  "updatedAt": 1773323596
+  "updatedAt": 1774524271
 }

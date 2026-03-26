@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4504902,
-  "evidencePassMode": "first_pass",
+  "evidencePassMode": "second_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -29,12 +29,93 @@
         "specificity": 0.62
       },
       {
+        "text": "Safari-zone capture tool",
+        "evidence_ref": "lead",
+        "specificity": 0.88
+      },
+      {
         "text": "Evolution item",
         "evidence_ref": "lead",
         "specificity": 0.76
+      },
+      {
+        "text": "Bug-Catching Contest ball",
+        "evidence_ref": "lead",
+        "specificity": 0.9
+      },
+      {
+        "text": "Evolves Gloom To Evolve Into Vileplume Causes Weepinbell To Evolve Into Victreebel Causes Hisuian Voltorb To Evolve Into Hisuian Electrode Causes Exeggcute into Exeggutor",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      },
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "Acquisition",
+        "specificity": 0.74
+      },
+      {
+        "text": "Event-only distribution item",
+        "evidence_ref": "Acquisition",
+        "specificity": 0.82
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "Acquisition",
+        "mystery_score": 0.66,
+        "specificity_score": 0.8,
+        "style": "family"
+      },
+      {
+        "text": "Exchangeable collectible",
+        "evidence_ref": "Acquisition",
+        "mystery_score": 0.62,
+        "specificity_score": 0.78,
+        "style": "family"
+      },
+      {
+        "text": "Event-only distribution item",
+        "evidence_ref": "Acquisition",
+        "mystery_score": 0.7,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Limited event key item",
+        "evidence_ref": "Acquisition",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "effect"
+      },
+      {
+        "text": "Safari Zone catcher",
+        "evidence_ref": "lead",
+        "mystery_score": 0.76,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Great Marsh capture tool",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Bug-Catching Contest ball",
+        "evidence_ref": "lead",
+        "mystery_score": 0.76,
+        "specificity_score": 0.9,
+        "style": "family"
+      },
+      {
+        "text": "National Park contest ball",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.88,
+        "style": "family"
+      },
       {
         "text": "Evolution item",
         "evidence_ref": "lead",
@@ -48,9 +129,26 @@
         "mystery_score": 0.54,
         "specificity_score": 0.8,
         "style": "family"
+      },
+      {
+        "text": "Evolves Gloom To Evolve Into Vileplume Causes Weepinbell To Evolve Into Victreebel Causes Hisuian Voltorb To Evolve Into Hisuian Electrode Causes Exeggcute into Exeggutor",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.92,
+        "style": "effect"
+      },
+      {
+        "text": "Gloom To Evolve Into Vileplume Causes Weepinbell To Evolve Into Victreebel Causes Hisuian Voltorb To Evolve Into Hisuian Electrode Causes Exeggcute evolution item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
       }
     ],
     "cryptic_definition_seeds": [
+      "exchange item",
+      "event item",
+      "contest ball",
       "evolution item"
     ],
     "connections_descriptors": [
@@ -60,5 +158,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257961
+  "updatedAt": 1774525976
 }

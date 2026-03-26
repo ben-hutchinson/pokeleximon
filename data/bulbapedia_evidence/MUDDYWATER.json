@@ -3,12 +3,12 @@
   "answerDisplay": "MUDDY WATER",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Muddy Water (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Muddy_Water_(move)",
   "pageId": 3941,
-  "pageRevisionId": 4496878,
+  "pageRevisionId": 4516452,
   "leadText": "Muddy Water (Japanese: だくりゅう Muddy Stream) is a damage-dealing Water-type move introduced in Generation III. Prior to Generation IV, it was the signature move of Marshtomp and Swampert. It is: TR45 in Pokémon Sword and Shield. TM209 in Pokémon Scarlet and Violet. TM140 in Pokémon Legends: Z-A.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also lower the target's Accuracy by one level. MD T D S Inflicts damage on the target. It may also reduce the target's accuracy by 1 level. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで めいちゅうを １だんかいさげる MD GtI It damages all Pokémon in the same room except you. It could also lower their accuracy. S MD It damages all Pokémon in the same room as you except for you. It could also lower their accuracy."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Surf and Muddy Water have had similar in-game animations since the latter's introduction, with the only difference being the color. This move originated as a TCG attack ."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Muddy Water",
     "Muddy-Water (move)"
   ],
-  "updatedAt": 1773325217
+  "updatedAt": 1774524398
 }

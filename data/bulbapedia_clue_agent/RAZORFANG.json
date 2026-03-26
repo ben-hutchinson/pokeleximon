@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4491198,
-  "evidencePassMode": "first_pass",
+  "evidencePassMode": "second_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -32,9 +32,35 @@
         "text": "Held: Damaging moves gain a 10% chance to make their target flinch. Held by a Gligar while levelling up: Holder evolves into Gliscor.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Evolves Gligar into Gliscor When Leveled Up At Night While Holding It",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Evolves Gligar into Gliscor When Leveled Up At Night While Holding It",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.92,
+        "style": "effect"
+      },
+      {
+        "text": "Gligar evolution item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Held item for Gliscor When Leveled Up At Night While Holding It",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
       {
         "text": "Held battle item",
         "evidence_ref": "Description",
@@ -44,7 +70,8 @@
       }
     ],
     "cryptic_definition_seeds": [
-      "battle item"
+      "gligar evolution",
+      "gliscor when leveled up at night while holding it item"
     ],
     "connections_descriptors": [
       "Held battle items",
@@ -53,5 +80,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774258000
+  "updatedAt": 1774525989
 }

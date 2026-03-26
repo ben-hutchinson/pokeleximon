@@ -3,12 +3,12 @@
   "answerDisplay": "ICE BEAM",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Ice Beam (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ice_Beam_(move)",
   "pageId": 63007,
-  "pageRevisionId": 4503634,
+  "pageRevisionId": 4515614,
   "leadText": "Ice Beam (Japanese: れいとうビーム Freezing Beam) is a damage-dealing Ice-type move introduced in Generation I. It is: TM13 in Generation I, from Generation III to Pokémon Ultra Sun and Ultra Moon, in Pokémon Brilliant Diamond and Shining Pearl, as well as in Pokémon Legends: Z-A. TM55 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR05 in Pokémon Sword and Shield. TM135 in Pokémon Scarlet and Violet.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target, even at a distance. It may also leave the target frozen and incapable of action. MD T D MD S * Inflicts damage on the target, even at a distance. It may also afflict the targeted enemy with a Frozen status condition. A Pokémon with the Frozen status is incapable of action. MD S * Inflicts damage on the target, even at a distance. It may also afflict the target with a Frozen status condition. A Pokémon with the Frozen status is incapable of action. B S L はなれたポケモンに ダメージをあたえる いっていのかくりつで こおりじょうたいにかえる こおりじょうたいの ポケモンは こうどうできない Conq. The target is struck with an icy-cold beam of energy. It may also freeze the target solid. MD GtI It damages even a faraway Pokémon. It could also cause the Frozen status condition. With the Frozen status, the Pokémon can't do anything. S MD It damages a Pokémon, even one far away. It could also make the enemy frozen."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Though Ice Beam freezes its targets very often in the animated series , it has a very low chance of freezing the opponent in the games (10%). Every Ice-type Pokémon can learn this move except for Snom , Chien-Pao , and Frost Rotom ."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Ice Beam",
     "Ice-Beam (move)"
   ],
-  "updatedAt": 1773323777
+  "updatedAt": 1774524283
 }

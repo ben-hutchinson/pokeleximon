@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4491197,
   "evidencePassMode": "first_pass",
   "response": {
@@ -29,12 +29,38 @@
         "specificity": 0.62
       },
       {
+        "text": "Evolves Johtonian Sneasel into Weavile When Leveled Up At Night",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      },
+      {
         "text": "Boosts The Holder By One Stage's stats",
         "evidence_ref": "Effect",
         "specificity": 0.9
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Evolves Johtonian Sneasel into Weavile When Leveled Up At Night",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.92,
+        "style": "effect"
+      },
+      {
+        "text": "Johtonian Sneasel evolution item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Held item for Weavile When Leveled Up At Night",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
       {
         "text": "The Holder By One Stage Critical Hit Ratio boost item",
         "evidence_ref": "Effect",
@@ -58,6 +84,8 @@
       }
     ],
     "cryptic_definition_seeds": [
+      "johtonian sneasel evolution",
+      "weavile when leveled up at night item",
       "the holder by one stage item"
     ],
     "connections_descriptors": [
@@ -66,5 +94,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774258000
+  "updatedAt": 1774525989
 }

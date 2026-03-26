@@ -3,7 +3,7 @@
   "answerDisplay": "PROTECTOR",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Protector",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Protector",
@@ -20,6 +20,14 @@
       "text": "Effect [ edit | edit source ] If the player offers both a Link Cable and Protector at Luminous Spring , Rhydon can be evolved into Rhyperior . This consumes the Link Cable and Protector. If thrown, it will deal 1 damage (2 if sticky ). Using this item in a dungeon will consume it, with no effect."
     },
     {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Route 228 , Iron Island Pt HG SS Mt. Mortar PBR Shop (12000 Poké Coupons , after completing Little Battle ) B W Route 11 Route 13 (treasure hunter) B2 W2 Wellspring Cave Join Avenue ( Antique Shop ), Black City (Store 1) X Y Lost Hotel Battle Maison (32 BP ) OR AS Battle Maison (32 BP ) PMC * Balloon Popping (Lv. 3) S M US UM Paniola Town Battle Tree (32 BP ) Sw Sh Route 9 Hammerlocke (10 BP ), Stow-on-Side (bargain shop) Sw Sh IA Potbottom Desert Cram-o-matic ( Rock : 62-70 points) BD SP Route 228 Battle Park (5 BP ) LA Trading post (1,400 MP ) Ginkgo Guild cart (randomly sold by Ginter , as \"Unwieldy Armor\") Space-time distortions S V ID Savanna Biome Reward for registering 160 Pokémon in the Blueberry Pokédex Blueberry Academy School Store (250 BP ) Item Printer"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods MD T D S Treasure Boxes , Job requests (★3-★9) Happy Outlook (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F), Mt. Mistral (Kecleon Shop: 3F, 5F, 7F, 9F, 11F, 13F, 15F, 17F, 19F), Shimmer Hill (Kecleon Shop: 2F, 4F, 6F, 8F, 10F, 12F, 14F, 16F), Lost Wilderness (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F)"
+    },
+    {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 A protective item of some sort. It is extremely stiff and heavy. It is loved by a certain Pokémon. X Y OR AS S M US UM P E Sw Sh BD SP LA S V A protective item of some sort. It is extremely stiff and heavy. It's loved by a certain Pokémon."
     },
@@ -33,5 +41,5 @@
     "Protector",
     "Protector (item)"
   ],
-  "updatedAt": 1773326071
+  "updatedAt": 1774524523
 }

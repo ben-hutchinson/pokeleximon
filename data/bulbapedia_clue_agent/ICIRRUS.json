@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4509983,
   "evidencePassMode": "second_pass",
   "response": {
@@ -12,6 +12,11 @@
         "text": "Unova location",
         "evidence_ref": "lead",
         "specificity": 0.5
+      },
+      {
+        "text": "Located in Northwestern Unova",
+        "evidence_ref": "lead",
+        "specificity": 0.78
       },
       {
         "text": "city landmark",
@@ -40,6 +45,13 @@
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Located in Northwestern Unova",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "theme"
+      },
       {
         "text": "Unova landmark",
         "evidence_ref": "lead",
@@ -86,5 +98,5 @@
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774257956
+  "updatedAt": 1774525973
 }

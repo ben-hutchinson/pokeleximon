@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": null,
   "evidencePassMode": "first_pass",
   "response": {
@@ -12,16 +12,6 @@
         "text": "standard balls",
         "evidence_ref": "lead",
         "specificity": 0.62
-      },
-      {
-        "text": "Doesn't fly far, but is more effective if the Pokemon hasn't noticed the player.",
-        "evidence_ref": "lead",
-        "specificity": 0.62
-      },
-      {
-        "text": "Best on unnoticed targets",
-        "evidence_ref": "lead",
-        "specificity": 0.88
       },
       {
         "text": "Special Poke Ball",
@@ -43,20 +33,6 @@
         "mystery_score": 0.5,
         "specificity_score": 0.66,
         "style": "family"
-      },
-      {
-        "text": "Best on unwary targets",
-        "evidence_ref": "lead",
-        "mystery_score": 0.78,
-        "specificity_score": 0.88,
-        "style": "effect"
-      },
-      {
-        "text": "Stealth capture tool",
-        "evidence_ref": "lead",
-        "mystery_score": 0.72,
-        "specificity_score": 0.84,
-        "style": "effect"
       }
     ],
     "cryptic_definition_seeds": [
@@ -68,5 +44,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257960
+  "updatedAt": 1774525975
 }

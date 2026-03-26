@@ -3,25 +3,15 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4504891,
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
   "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
       {
-        "text": "Gen II item",
-        "evidence_ref": "lead",
-        "specificity": 0.48
-      },
-      {
         "text": "loot",
         "evidence_ref": "lead",
         "specificity": 0.62
-      },
-      {
-        "text": "Gen II loot",
-        "evidence_ref": "lead",
-        "specificity": 0.54
       },
       {
         "text": "Sell for 1000 Pokdollars, or to Ore Collector for 2000 Pokdollars.",
@@ -49,10 +39,10 @@
       "battle item"
     ],
     "connections_descriptors": [
-      "Gen II items"
+      "Battle items"
     ],
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774258018
+  "updatedAt": 1774525997
 }

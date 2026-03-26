@@ -3,30 +3,15 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4504972,
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
   "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
       {
-        "text": "Gen IV item",
-        "evidence_ref": "lead",
-        "specificity": 0.48
-      },
-      {
-        "text": "Held battle item",
-        "evidence_ref": "Description",
-        "specificity": 0.7
-      },
-      {
         "text": "training",
         "evidence_ref": "lead",
         "specificity": 0.62
-      },
-      {
-        "text": "Gen IV training",
-        "evidence_ref": "lead",
-        "specificity": 0.54
       },
       {
         "text": "Held: Doubles the money earned from a battle. Does not stack with Amulet Coin. Breeding: Chansey and Blissey beget a Happiny Egg.",
@@ -35,76 +20,41 @@
       },
       {
         "text": "Doubles prize money",
-        "evidence_ref": "Description",
+        "evidence_ref": "lead",
         "specificity": 0.86
-      },
-      {
-        "text": "Boosts Prize Money Received After Battle If The Holder Takes Part In The Battle's stats",
-        "evidence_ref": "Effect",
-        "specificity": 0.9
       }
     ],
     "crossword_candidates": [
       {
         "text": "Doubles prize money",
-        "evidence_ref": "Description",
+        "evidence_ref": "lead",
         "mystery_score": 0.76,
         "specificity_score": 0.86,
         "style": "effect"
       },
       {
         "text": "Battle-payout doubler",
-        "evidence_ref": "Description",
+        "evidence_ref": "lead",
         "mystery_score": 0.7,
         "specificity_score": 0.82,
         "style": "effect"
       },
       {
         "text": "Money-boosting held item",
-        "evidence_ref": "Description",
+        "evidence_ref": "lead",
         "mystery_score": 0.66,
         "specificity_score": 0.78,
         "style": "effect"
-      },
-      {
-        "text": "Prize Money Received After Battle If The Holder Takes Part In The Battle Amount boost item",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.8,
-        "specificity_score": 0.9,
-        "style": "effect"
-      },
-      {
-        "text": "Power item for Prize Money Received After Battle If The Holder Takes Part In The Battle",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.74,
-        "specificity_score": 0.86,
-        "style": "effect"
-      },
-      {
-        "text": "Prize Money Received After Battle If The Holder Takes Part In The Battle-only held item",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.72,
-        "specificity_score": 0.84,
-        "style": "effect"
-      },
-      {
-        "text": "Held battle item",
-        "evidence_ref": "Description",
-        "mystery_score": 0.46,
-        "specificity_score": 0.68,
-        "style": "category"
       }
     ],
     "cryptic_definition_seeds": [
-      "money doubler",
-      "prize money received after battle if the holder takes part in the battle item"
+      "money doubler"
     ],
     "connections_descriptors": [
-      "Held battle items",
-      "Gen IV items"
+      "Battle items"
     ],
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257965
+  "updatedAt": 1774525977
 }

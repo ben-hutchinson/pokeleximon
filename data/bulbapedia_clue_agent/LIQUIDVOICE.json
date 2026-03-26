@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4512568,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Liquid Voice (Japanese: Moist Voice) is an Ability introduced in Generation VII. It is the signature Ability of Popplio's evolutionary line.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Popplio'S Evolutionary Line",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Contents 1 Effect 1.1 In battle 1.1.1 Affected moves 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Liquid Voice turns the Pokemon's sound-based moves into Water-type moves. Affected moves [ edit | edit source ] The table below lists the moves affected by Liquid Voice, as well as the Pokemon that can have Liquid Voice and learn those moves. Move Type Cat. Pow. Acc. Learned by Alluring Voice Fairy Special 80 100 Confide Normal Status Disarming Voice Fairy Special 40 Echoed Voice Normal Special 40 100 Growl Normal Status 100 Hyper Voice Normal Special 90 100 Perish Song Normal Status Psychic Noise Psychic Special 75 100 Round Normal Special 60 100 Sing Normal Status 55 Snore Normal Special 50 100 Uproar Normal Special 90 100 Although other sound-based moves are also affected by the Ability, they cannot be learned by any Pokemon with Liquid Voice. They may, however, be called via Metronome , Mirror Move , Copycat , or Mimic , or be used by a Pokemon that gained Liquid Voice by an Ability like Trace or Receiver or a move such as Skill Swap or Role Play . Outside of battle [ edit | edit source ] Liquid Voice has no effect outside of battle.",
@@ -40,6 +45,13 @@
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Popplio'S Evolutionary Line's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
       {
         "text": "Status-blocking trait",
         "evidence_ref": "lead",
@@ -72,5 +84,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257964
+  "updatedAt": 1774525977
 }

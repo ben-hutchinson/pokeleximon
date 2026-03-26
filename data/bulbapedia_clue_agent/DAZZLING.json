@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4512576,
   "evidencePassMode": "second_pass",
   "response": {
@@ -12,6 +12,11 @@
         "text": "Dazzling (Japanese: Vivid Body) is an Ability introduced in Generation VII. It is the signature Ability of Bruxish.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Bruxish",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Event Gen VII Gen VIII Gen IX Dazzling activated \" (The wild/The opposing/Totem) cannot use !\" \" (The wild/opposing/ 's) cannot use !\" \" (The wild/opposing) cannot use !\"",
@@ -40,6 +45,13 @@
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Bruxish's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
       {
         "text": "Status-blocking trait",
         "evidence_ref": "lead",
@@ -95,5 +107,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257939
+  "updatedAt": 1774525961
 }

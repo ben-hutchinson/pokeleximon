@@ -3,7 +3,7 @@
   "answerDisplay": "ROCKY HELMET",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Rocky Helmet",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rocky_Helmet",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] If a Pokémon uses a move that makes contact with a Pokémon holding a Rocky Helmet, the Pokémon that used the move takes damage equal to 1/6 of its maximum HP . Each individual strike from a multistrike move that makes contact will activate the Rocky Helmet. If a Pokémon using Thief , Covet , or Knock Off or that has the Ability Magician faints due to the target's held Rocky Helmet, it cannot steal or remove the target's Rocky Helmet. Generations V and VI [ edit | edit source ] In link battles and battle facilities, if two Trainers ' Pokémon faint at the same time due to a held Rocky Helmet, the Trainer whose Pokémon held the Rocky Helmet wins. Generation VII onward [ edit | edit source ] Due to a bug , in version 1.0 of Pokémon Sun and Moon , in link battles and battle facilities, if two Trainers' Pokémon faint at the same time due to a held Rocky Helmet, the Trainer whose Pokémon held the Rocky Helmet wins. From version 1.1 of Pokémon Sun and Moon onward, the Trainer whose Pokémon did not hold the Rocky Helmet wins."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods B W Cold Storage B2 W2 Pokémon World Tournament , Relic Passage X Y Ambrette Town OR AS Weather Institute S M US UM Battle Tree (48 BP ) Sw Sh Stow-on-Side Sw Sh IA Potbottom Desert Cram-o-matic ( Rock : 72-80 points) S V Zapapico South Province (Area Four) (from a Pokémon League representative after defeating 5 Trainers in the area) Delibird Presents ( Mesagoza Branch, after earning 4 Gym Badges ) ZA Reward for completing Side Mission 092: The Beldum Blockade Racine Construction Distribution [ edit | edit source ] As a held item [ edit | edit source ] Games Event Language/Region Distribution period X Y Spooky 2014 Super Size Pumpkaboo American, PAL October 1 to 31, 2014 S V Ray Yamanaka's Amoonguss All June 21 to September 30, 2025"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Rocky Helmet",
     "Rocky-Helmet (item)"
   ],
-  "updatedAt": 1773326487
+  "updatedAt": 1774524625
 }

@@ -1,51 +1,18 @@
 {
   "answerKey": "TAPU",
-  "status": "ok",
+  "status": "no_candidates",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4487348,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
-    "fact_nuggets": [
-      {
-        "text": "village landmark",
-        "evidence_ref": "lead",
-        "specificity": 0.64
-      },
-      {
-        "text": "island landmark",
-        "evidence_ref": "lead",
-        "specificity": 0.64
-      },
-      {
-        "text": "island location",
-        "evidence_ref": "lead",
-        "specificity": 0.66
-      },
-      {
-        "text": "villa landmark",
-        "evidence_ref": "title",
-        "specificity": 0.68
-      }
-    ],
-    "crossword_candidates": [
-      {
-        "text": "Island location",
-        "evidence_ref": "lead",
-        "mystery_score": 0.46,
-        "specificity_score": 0.66,
-        "style": "theme"
-      }
-    ],
-    "cryptic_definition_seeds": [
-      "Pokemon location"
-    ],
-    "connections_descriptors": [
-      "Island locations"
-    ],
+    "fact_nuggets": [],
+    "crossword_candidates": [],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
     "risk_flags": [],
-    "confidence": 0.77
+    "confidence": 0.25
   },
-  "updatedAt": 1774258022
+  "updatedAt": 1774525999
 }

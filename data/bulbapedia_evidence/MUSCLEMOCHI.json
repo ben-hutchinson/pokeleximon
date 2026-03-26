@@ -3,7 +3,7 @@
   "answerDisplay": "MUSCLE MOCHI",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Muscle Mochi",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Muscle_Mochi",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] If used from the Bag on a Pokémon, it increases that Pokémon's Attack EVs by 10."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods S V TM Ogre Oustin'"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Muscle Mochi",
     "Muscle-Mochi (item)"
   ],
-  "updatedAt": 1773325253
+  "updatedAt": 1774524403
 }

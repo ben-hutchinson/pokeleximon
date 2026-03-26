@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4423391,
   "evidencePassMode": "second_pass",
   "response": {
@@ -12,9 +12,40 @@
         "text": "Hoenn location",
         "evidence_ref": "lead",
         "specificity": 0.5
+      },
+      {
+        "text": "Site on Mt. Chimney",
+        "evidence_ref": "lead",
+        "specificity": 0.84
+      },
+      {
+        "text": "Hidden location of the DNA Splicers",
+        "evidence_ref": "Items",
+        "specificity": 0.9
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Hidden location of the DNA Splicers",
+        "evidence_ref": "Items",
+        "mystery_score": 0.82,
+        "specificity_score": 0.9,
+        "style": "theme"
+      },
+      {
+        "text": "Kyurem fusion item hideout",
+        "evidence_ref": "Items",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "theme"
+      },
+      {
+        "text": "Site on Mt. Chimney",
+        "evidence_ref": "lead",
+        "mystery_score": 0.78,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
       {
         "text": "Hoenn landmark",
         "evidence_ref": "lead",
@@ -24,7 +55,7 @@
       }
     ],
     "cryptic_definition_seeds": [
-      "Pokemon location"
+      "fusion-item hideout"
     ],
     "connections_descriptors": [
       "Hoenn landmarks"
@@ -32,5 +63,5 @@
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774257950
+  "updatedAt": 1774525969
 }

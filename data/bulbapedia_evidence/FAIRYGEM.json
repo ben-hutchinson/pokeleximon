@@ -3,7 +3,7 @@
   "answerDisplay": "FAIRY GEM",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Fairy Gem",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fairy_Gem",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] When held by a Pokémon, it increases the power of the first Fairy-type move used by 30%, and is consumed after use. Fling will fail if the user is holding a Fairy Gem."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] The Fairy Gem has not been obtainable in any game."
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Fairy Gem",
     "Fairy-Gem (item)"
   ],
-  "updatedAt": 1773322693
+  "updatedAt": 1774524180
 }

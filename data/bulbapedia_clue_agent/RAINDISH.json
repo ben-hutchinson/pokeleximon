@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4478039,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Rain Dish (Japanese: Rain Saucer) is an Ability introduced in Generation III. Prior to Generation V, it was the signature Ability of Lotad's evolutionary line.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Lotad'S Evolutionary Line",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD R B Improves HP gain if it is raining. MD T D S Boosts the Pokemon's natural HP healing when it is raining. B S L MD GtI Unavailable S MD It helps the Pokemon restore HP naturally when the weather is rain! MD RT DX Theis Ability helps the Pokemon restore HP naturally more quickly when the weather condition is Rain or Heavy Rain.",
@@ -46,6 +51,13 @@
     ],
     "crossword_candidates": [
       {
+        "text": "Lotad'S Evolutionary Line's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
         "text": "Weather-linked trait",
         "evidence_ref": "lead",
         "mystery_score": 0.56,
@@ -63,5 +75,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257999
+  "updatedAt": 1774525989
 }

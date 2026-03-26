@@ -3,7 +3,7 @@
   "answerDisplay": "ICE HEAL",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Ice Heal",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ice_Heal",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] When used from the Bag on a Pokémon, it cures a Pokémon from freezing ."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods R G B Y R B Y Vermilion , Lavender Poké Marts ; Celadon Department Store G S C Team Rocket's Hideout , Ice Path Ecruteak , Olivine Poké Marts ; Celadon Department Store , Goldenrod Department Store R S E Lavaridge Town , Shoal Cave Verdanturf Poké Mart ; Lilycove Department Store FR LG Seafoam Islands Vermilion , Lavender , Four Island Poké Marts ; Celadon Department Store Hidden recurring item ( Underground Path (Kanto Routes 5–6) , Underground Path (Kanto Routes 7–8) ) Colo In the player 's Bag at the start of the game Phenac , Pyrite Poké Marts ; Outskirt Stand XD Realgam Tower ( Battle CD 06 completion prize) Phenac , Agate , Gateon Poké Marts D P Pt Route 216 D P , Mt. Coronet Pt All Poké Marts (after obtaining 1 Badge ), Celestic Town shop , Veilstone Department Store HG SS Ice Path , Seafoam Islands All Poké Marts (after obtaining 1 Badge ), Celadon Department Store , Goldenrod Department Store PW Refreshing Field (900+ steps), Volcano Path (100+ steps) B W Cold Storage All Poké Marts (after obtaining 1 Badge ), Shopping Mall Nine B2 W2 All Poké Marts (after obtaining 1 Badge ), Shopping Mall Nine Funfest Mission ( Exciting Trading! / Exhilarating Trading! ) X Y Route 12 , Frost Cavern All Poké Marts (after obtaining 1 Badge ) OR AS Lavaridge Town , Shoal Cave All Poké Marts (after obtaining 1 Badge ), Lilycove Department Store S M US UM All Poké Marts , Thrifty Megamart P E Seafoam Islands All Poké Marts , Celadon Department Store Sw Sh All Poké Marts Sw Sh IA Armor Station Poké Mart Sw Sh CT Crown Tundra Station Poké Mart Hidden recurring item ( Slippery Slope , Snowslide Slope , Tunnel to the Top ) BD SP Route 216 All Poké Marts (after obtaining 1 Badge ), Celestic Town shop , Veilstone Department Store , Ramanas Park shop S V Casseroya Lake , Glaseado Mountain , North Province (Area One) , South Province (Area Four) , South Province (Area Five) , West Province (Area One) All Poké Marts S V TM Apple Hills , Fellhorn Gorge , Kitakami Road , Kitakami Wilds , Loyalty Plaza , Paradise Barrens , Reveler's Road , Wistful Fields Peachy's S V ID Vending machines ( Terarium ) ZA Wild Zone 12 (×3; reward for completing Side Mission 052: \"Numel Frozen Solid\") All Pokémon Centers Distribution [ edit | edit source ] Games Event Language/Region Distribution period S M Pokémon Center Alolan Vulpix items Japan February 13 to May 13, 2017"
     },
     {
       "title": "Description",
@@ -34,5 +38,5 @@
     "Ice Heal",
     "Ice-Heal (item)"
   ],
-  "updatedAt": 1773323795
+  "updatedAt": 1774524292
 }

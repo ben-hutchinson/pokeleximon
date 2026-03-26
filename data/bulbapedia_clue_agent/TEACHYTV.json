@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": null,
   "evidencePassMode": "first_pass",
   "response": {
@@ -42,5 +42,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774258023
+  "updatedAt": 1774525999
 }

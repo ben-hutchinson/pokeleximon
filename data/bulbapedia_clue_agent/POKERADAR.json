@@ -3,25 +3,15 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4491200,
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
   "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
       {
-        "text": "Gen IV item",
-        "evidence_ref": "lead",
-        "specificity": 0.48
-      },
-      {
         "text": "gameplay",
         "evidence_ref": "lead",
         "specificity": 0.62
-      },
-      {
-        "text": "Gen IV gameplay",
-        "evidence_ref": "lead",
-        "specificity": 0.54
       },
       {
         "text": "Use to track down rare or shiny Pokemon. 50 steps to recharge.",
@@ -29,81 +19,12 @@
         "specificity": 0.62
       },
       {
-        "text": "Unlocks a Hidden Ability",
-        "evidence_ref": "In the core series games",
-        "specificity": 0.94
-      },
-      {
         "text": "Adventure utility item",
         "evidence_ref": "lead",
         "specificity": 0.58
-      },
-      {
-        "text": "Two-wheeled travel item",
-        "evidence_ref": "lead",
-        "specificity": 0.72
-      },
-      {
-        "text": "Poor catch rate on most targets",
-        "evidence_ref": "Description",
-        "specificity": 0.82
-      },
-      {
-        "text": "Unlocks progression content",
-        "evidence_ref": "Description",
-        "specificity": 0.8
       }
     ],
     "crossword_candidates": [
-      {
-        "text": "Unlocks a hidden trait",
-        "evidence_ref": "In the core series games",
-        "mystery_score": 0.78,
-        "specificity_score": 0.94,
-        "style": "effect"
-      },
-      {
-        "text": "Turns a standard trait rare",
-        "evidence_ref": "In the core series games",
-        "mystery_score": 0.76,
-        "specificity_score": 0.88,
-        "style": "effect"
-      },
-      {
-        "text": "Unlocks progression content",
-        "evidence_ref": "Description",
-        "mystery_score": 0.68,
-        "specificity_score": 0.82,
-        "style": "effect"
-      },
-      {
-        "text": "Progress-gating key item",
-        "evidence_ref": "Description",
-        "mystery_score": 0.64,
-        "specificity_score": 0.8,
-        "style": "effect"
-      },
-      {
-        "text": "Poor on most other targets",
-        "evidence_ref": "Description",
-        "mystery_score": 0.68,
-        "specificity_score": 0.82,
-        "style": "restriction"
-      },
-      {
-        "text": "Two-wheeled travel item",
-        "evidence_ref": "lead",
-        "mystery_score": 0.66,
-        "specificity_score": 0.78,
-        "style": "utility"
-      },
-      {
-        "text": "Ride for quick travel",
-        "evidence_ref": "lead",
-        "mystery_score": 0.6,
-        "specificity_score": 0.74,
-        "style": "utility"
-      },
       {
         "text": "Adventure utility item",
         "evidence_ref": "lead",
@@ -113,18 +34,13 @@
       }
     ],
     "cryptic_definition_seeds": [
-      "hidden-trait changer",
-      "trait-altering item",
-      "unlocking item",
-      "travel gear"
+      "battle item"
     ],
     "connections_descriptors": [
-      "Hidden Ability items",
-      "Ability-changing items",
-      "Gen IV items"
+      "Battle items"
     ],
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257994
+  "updatedAt": 1774525987
 }

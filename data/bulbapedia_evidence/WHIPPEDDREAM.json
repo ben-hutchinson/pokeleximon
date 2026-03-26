@@ -3,7 +3,7 @@
   "answerDisplay": "WHIPPED DREAM",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Whipped Dream",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Whipped_Dream",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Held item [ edit | edit source ] Causes Swirlix to evolve into Slurpuff when traded while holding it. This consumes the Whipped Dream."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods X Y Route 12 , Cyllage City X Battle Maison (32 BP ) OR AS Battle Maison (32 BP ) PMC * Balloon Popping (Lv. 3) S M US UM Konikoni City Battle Tree (32 BP ) Sw Sh Hammerlocke (10 BP ) Battle Café Sw Sh IA Cram-o-matic ( Fairy : 72-80 points) ZA Shutterbug Café (×2; reward for completing Side Mission 014: \"Slurpuff's Café Visit\") Infinite Z-A Royale Distribution [ edit | edit source ] Games Event Language/Region Distribution period Sw Sh The Isle of Armor promotion packs All June 5 to 11, 2020 Pokémon Center Alcremie Sweets Japan November 1, 2021 to October 31, 2022"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Whipped Dream",
     "Whipped-Dream (item)"
   ],
-  "updatedAt": 1773328470
+  "updatedAt": 1774524899
 }

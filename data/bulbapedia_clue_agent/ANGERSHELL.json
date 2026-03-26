@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4088684,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Anger Shell (Japanese: Anger Shell) is an Ability introduced in Generation IX. It is the signature Ability of Klawf.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Klawf",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When the Pokemon's HP falls from over 50% to 50% or lower as a result of an attack from another Pokemon, its Attack , Special Attack , and Speed rise by one stage each, while its Defense and Special Defense fall by one stage each. Non-attack damage (e.g., due to a status condition , recoil , or Life Orb ) does not activate Anger Shell. If hit by a multistrike move , Anger Shell activates only after all strikes are finished. Outside of battle [ edit | edit source ] Anger Shell has no effect outside of battle.",
@@ -48,6 +53,13 @@
         "mystery_score": 0.56,
         "specificity_score": 0.66,
         "style": "effect"
+      },
+      {
+        "text": "Klawf's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
     "cryptic_definition_seeds": [
@@ -62,5 +74,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257925
+  "updatedAt": 1774525953
 }

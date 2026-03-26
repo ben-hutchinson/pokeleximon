@@ -3,7 +3,7 @@
   "answerDisplay": "LEAF STONE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Leaf Stone",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Leaf_Stone",
@@ -24,8 +24,16 @@
       "text": "Effect [ edit | edit source ] The Leaf Stone is required to evolve certain Pokémon in Pokémon Sleep. It is consumed upon use. Weepinbell requires 80 Bellsprout Candy and a Leaf Stone to evolve into Victreebel . Eevee requires 80 Eevee Candy and a Leaf Stone to evolve into Leafeon ."
     },
     {
-      "title": "Description",
-      "text": "Description [ edit | edit source ] Games Description Stad A Stone used for making certain kinds of Pok é mon evolve. G S C Evolves certain kinds of Pok é mon . R S E Colo XD Makes certain species of Pok é mon evolve. FR LG A peculiar stone that makes certain species of Pok é mon evolve. It has a leaf pattern. D P Pt HG SS B W B2 W2 A peculiar stone that makes certain species of Pokémon evolve. It has a leaf pattern. X Y OR AS S M US UM P E Sw Sh BD SP LA S V ZA A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable leaf pattern."
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods R G B Y R B Y Celadon Department Store G S C Sea Cottage (from Bill's grandfather ) Route 34 (gift from Picnicker Gina) C , Mystery Gift R S E Route 119 Route 124 (trade for Green Shard with Treasure Hunter ) FR LG Safari Zone (×2) Celadon Department Store Colo Trade XD Cipher Lab Trade D P Pt Route 225 Pt , Great Marsh Pt , Floaroma Meadow Underground HG SS Viridian Forest , Sea Cottage (from Bill's grandfather ) Route 34 (gift from Picnicker Gina), Bug-Catching Contest first prize (post- National Pokédex ), Pokéathlon Dome (2500 Pts.) Tu Th Sa B W Route 6 (×2), Castelia City Dust clouds , Black City B / White Forest W (Karenna) B2 W2 Route 7 , Lostlorn Forest Battle Subway / Pokémon World Tournament (3 BP ), Join Avenue ( Antique Shop ), White Forest (Store 1), Funfest Missions Dust clouds ( Chargestone Cave , Mistralton Cave , Clay Tunnel , Twist Mountain , Underground Ruins , Victory Road , Wellspring Cave , Seaside Cave , Giant Chasm ) Hidden Grottoes ( Routes 2 , 3 , 5 , 6 , 7 , 9 , 13 , 18 , 22 , and 23 ; Floccesy Ranch ; Giant Chasm ; Abundant Shrine ; Lostlorn Forest ; Pinwheel Forest ) Transfer from Dream Radar DW * Rugged Mountain PDR Dream Clouds (after catching Thundurus ) X Y Route 8 , Laverre City Lumiose City ( Stone Emporium ), Secret Super Training (The Leaf Stone Cup Begins!, The Battle for the Best: Version X! X , and The Battle for the Best: Version Y! Y ), Route 18 (from Psychic Inver ) Spiky rocks OR AS Route 119 Route 124 (trade for Green Shard with Treasure Hunter ), Mauville City ( Inverse Battle Stop ), Secret Super Training (The Leaf Stone Cup Begins!, The Battle for the Best!), Route 118 (rematch with Aroma Lady Rose), Secret Base (\"Pick up stones\" with Secret Pal ) PMC * Balloon Popping (Lv. 3) S M US UM Konikoni City , Poké Pelago (Isle Aphun - Brilliant-Stone Hunting, Interesting-Item Hunting) P E Route 2 , Victory Road Celadon Department Store Sw Sh Turffield Hidden recurring item ( Lake of Outrage ) Bridge Field ( Digging Duo ) Poké Job reward (Tiers III, IV, and IX) Sw Sh IA Forest of Focus Sw Sh CT Hidden recurring item ( Ballimere Lake ) Max Raid Battles ( Ballimere Lake ) BD SP Floaroma Meadow Grand Underground LA Jubilife Village (reward for completing Request 73: \"Which Is the Real Burmy?\") Ginkgo Landing (reward for completing Request 106: \"Adaman's Hope\") Leaf piles ( Crimson Mirelands , Cobalt Coastlands , Coronet Highlands ) Trading post (1,000 MP ) Ginkgo Guild cart (randomly sold by Ginter , as \"Leaf-Imprinted Rock\") Space-time distortions S V Tagtree Thicket Artazon (Sunflora Hide & Seek reward) Delibird Presents (after earning 3 Gym Badges ) Tera Raid Battles (1★, 2★, 3★, 4★, 5★) Sparkling overworld item ( Tagtree Thicket ) S V TM Kitakami Wilds Sparkling overworld item ( Wistful Fields ) S V ID Item Printer ZA Vernal Avenue (reward for completing Side Mission 044: \"Vanillite’s Fragrant Snow\") Stone Emporium Distribution [ edit | edit source ] Games Event Language/Region Distribution period PW Pokéwalker Spot items Korean January 7 to 31, 2011 S V PokéDoko Eevee Evolution items All July 14 to September 30, 2024 November 2024 Nintendo newsletter items All November 18, 2024 to December 31, 2025 As a held item [ edit | edit source ] Games Event Language/Region Distribution period R S Evolution Stone Promotion Gloom United States August 30 to September 4, 2003"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods MD R B Wish Cave (Kecleon Shop: 13, 26, 33, 41, 49, 59, 65, 71, 78, 83, 88, 93F) MD T D S Treasure Boxes , Job requests (★3-★9) Mystifying Forest (Kecleon Shop: 5F, 7F, 9F, 11F, 13F), Lake Afar (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F, B21F, B23F), Midnight Forest (Kecleon Shop: B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F, B21F, B23F) MD GtI Treasure Boxes Pokémon Paradise (Sunken Treasure, Beartic Slide, Prize Palace) Skill Treasury , Treasure Trove"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods Sleep Achievement reward Sleep Point Exchange (Regular)"
     }
   ],
   "familyPages": [],
@@ -34,5 +42,5 @@
     "Leaf Stone",
     "Leaf-Stone (item)"
   ],
-  "updatedAt": 1773324314
+  "updatedAt": 1774524340
 }

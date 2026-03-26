@@ -3,7 +3,7 @@
   "answerDisplay": "STICKY HOLD",
   "sourceType": "ability",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Sticky Hold (Ability)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sticky_Hold_(Ability)",
@@ -30,5 +30,5 @@
     "Sticky Hold",
     "Sticky-Hold (Ability)"
   ],
-  "updatedAt": 1773327580
+  "updatedAt": 1774524767
 }

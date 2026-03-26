@@ -30,6 +30,8 @@ type ConnectionsProgressSnapshot = {
   statusMessage: string;
 };
 
+type ConnectionsDifficultyTone = "yellow" | "green" | "blue" | "purple" | "neutral";
+
 function getOrCreateConnectionsSessionId() {
   const existing = localStorage.getItem(SESSION_KEY);
   if (existing) return existing;
@@ -79,6 +81,19 @@ function normalizeTileOrder(order: string[], allTileIds: string[]): string[] {
   return [...valid, ...missing];
 }
 
+function getConnectionsDifficultyTone(difficulty: string | null | undefined): ConnectionsDifficultyTone {
+  const normalizedDifficulty = (difficulty ?? "").toLowerCase();
+  switch (normalizedDifficulty) {
+    case "yellow":
+    case "green":
+    case "blue":
+    case "purple":
+      return normalizedDifficulty as Exclude<ConnectionsDifficultyTone, "neutral">;
+    default:
+      return "neutral";
+  }
+}
+
 export default function Connections() {
   const { playerToken } = useAuth();
   const [searchParams] = useSearchParams();
@@ -113,13 +128,16 @@ export default function Connections() {
   const groupById = useMemo(() => new Map(allGroups.map((group) => [group.id, group])), [allGroups]);
   const solvedGroupIdSet = useMemo(() => new Set(solvedGroupIds), [solvedGroupIds]);
   const canInteract = outcome === "in_progress";
+  const showCompletedLayout = outcome === "completed";
 
   const orderedSolvedGroups = useMemo(() => {
-    const rankById = new Map(difficultyOrder.map((value, index) => [value, index]));
+    const rankByDifficulty = new Map(difficultyOrder.map((value, index) => [value, index]));
     return solvedGroupIds
       .map((groupId) => groupById.get(groupId))
       .filter((group): group is NonNullable<typeof group> => Boolean(group))
-      .sort((left, right) => (rankById.get(left.id) ?? 999) - (rankById.get(right.id) ?? 999));
+      .sort(
+        (left, right) => (rankByDifficulty.get(left.difficulty) ?? 999) - (rankByDifficulty.get(right.difficulty) ?? 999),
+      );
   }, [difficultyOrder, groupById, solvedGroupIds]);
 
   const unsolvedTiles = useMemo(
@@ -508,60 +526,72 @@ export default function Connections() {
           </div>
         ) : (
           <div className="connections-shell">
-            <div className="card connections-header">
-              <div className="connections-header__meta">
-                <span className="tag">{puzzle.metadata.difficulty}</span>
-                <span className="timer-chip">
-                  <span className="timer-chip__label">Mistakes</span>
-                  <span className="timer-chip__value">
-                    {mistakes}/{MAX_MISTAKES}
-                  </span>
-                </span>
-                <span className="streak-chip">
-                  <span className="streak-chip__label">Solved Groups</span>
-                  <span className="streak-chip__value">{solvedGroupIds.length}/4</span>
-                </span>
-              </div>
-              <div className="connections-actions">
-                <button className="button secondary" onClick={submitSelection} disabled={!canInteract || selectedTileIds.length !== 4}>
-                  Submit Group
-                </button>
-                <button className="button ghost" onClick={shuffleTiles} disabled={!canInteract}>
-                  Shuffle
-                </button>
-                <button className="button ghost" onClick={clearSelection} disabled={!canInteract || selectedTileIds.length === 0}>
-                  Clear
-                </button>
-              </div>
-              <p className="connections-status" role="status" aria-live="polite">
-                {statusMessage}
-              </p>
-            </div>
-
-            <div className="card">
-              <div className="connections-grid" role="grid" aria-label="Connections tiles">
-                {unsolvedTiles.map((tile) => {
-                  const selected = selectedTileIds.includes(tile.id);
-                  return (
+            {!showCompletedLayout ? (
+              <>
+                <div className="card connections-header">
+                  <div className="connections-header__meta">
+                    <span className="tag">{puzzle.metadata.difficulty}</span>
+                    <span className="timer-chip">
+                      <span className="timer-chip__label">Mistakes</span>
+                      <span className="timer-chip__value">
+                        {mistakes}/{MAX_MISTAKES}
+                      </span>
+                    </span>
+                    <span className="streak-chip">
+                      <span className="streak-chip__label">Solved Groups</span>
+                      <span className="streak-chip__value">{solvedGroupIds.length}/4</span>
+                    </span>
+                  </div>
+                  <div className="connections-actions">
                     <button
-                      key={tile.id}
-                      type="button"
-                      className={`connections-tile${selected ? " is-selected" : ""}`}
-                      aria-pressed={selected}
-                      onClick={() => toggleTile(tile.id)}
-                      disabled={!canInteract}
+                      className="button secondary"
+                      onClick={submitSelection}
+                      disabled={!canInteract || selectedTileIds.length !== 4}
                     >
-                      {tile.label}
+                      Submit Group
                     </button>
-                  );
-                })}
-              </div>
-            </div>
+                    <button className="button ghost" onClick={shuffleTiles} disabled={!canInteract}>
+                      Shuffle
+                    </button>
+                    <button className="button ghost" onClick={clearSelection} disabled={!canInteract || selectedTileIds.length === 0}>
+                      Clear
+                    </button>
+                  </div>
+                  <p className="connections-status" role="status" aria-live="polite">
+                    {statusMessage}
+                  </p>
+                </div>
+
+                <div className="card">
+                  <div className="connections-grid" role="grid" aria-label="Connections tiles">
+                    {unsolvedTiles.map((tile) => {
+                      const selected = selectedTileIds.includes(tile.id);
+                      return (
+                        <button
+                          key={tile.id}
+                          type="button"
+                          className={`connections-tile${selected ? " is-selected" : ""}`}
+                          aria-pressed={selected}
+                          onClick={() => toggleTile(tile.id)}
+                          disabled={!canInteract}
+                        >
+                          {tile.label}
+                        </button>
+                      );
+                    })}
+                  </div>
+                </div>
+              </>
+            ) : null}
 
             {orderedSolvedGroups.length > 0 ? (
               <div className="connections-solved">
                 {orderedSolvedGroups.map((group) => (
-                  <article key={group.id} className="card connections-group-card">
+                  <article
+                    key={group.id}
+                    className="card connections-group-card"
+                    data-difficulty-tone={getConnectionsDifficultyTone(group.difficulty)}
+                  >
                     <h3>{group.title}</h3>
                     <p>{group.labels.join(" • ")}</p>
                   </article>
@@ -584,7 +614,11 @@ export default function Connections() {
                 <h3>Revealed Groups</h3>
                 <div className="connections-solved">
                   {revealedGroups.map((group) => (
-                    <article key={group.id} className="card connections-group-card">
+                    <article
+                      key={group.id}
+                      className="card connections-group-card"
+                      data-difficulty-tone={getConnectionsDifficultyTone(group.difficulty)}
+                    >
                       <h3>{group.title}</h3>
                       <p>{group.labels.join(" • ")}</p>
                     </article>

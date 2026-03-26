@@ -3,17 +3,21 @@
   "answerDisplay": "CRACKED POT",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Cracked Pot",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Cracked_Pot",
   "pageId": 244477,
-  "pageRevisionId": 4501216,
+  "pageRevisionId": 4510531,
   "leadText": "The Cracked Pot (Japanese: われたポット Cracked Pot) is a type of item introduced in Generation VIII.",
   "sections": [
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Causes Phony Form Sinistea to evolve into Phony Form Polteageist upon use. This consumes the item."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods Sw Sh Stow-on-Side Event Stow-on-Side (bargain shop) Sw Sh IA Cram-o-matic ( Ghost : 92-100 points) Sw Sh CT Giant's Bed Hidden recurring item ( Giant's Bed , Snowslide Slope ) Max Raid Battles ( Giant's Bed , Old Cemetery , Ballimere Lake ) S V Socarrat Trail , South Province (Area Two) Porto Marinada auction S V ID Item Printer Distribution [ edit | edit source ] Games Event Language/Region Distribution period Sw Sh The Isle of Armor promotion packs All June 5 to 11, 2020"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Cracked Pot",
     "Cracked-Pot (item)"
   ],
-  "updatedAt": 1773321904
+  "updatedAt": 1774524102
 }

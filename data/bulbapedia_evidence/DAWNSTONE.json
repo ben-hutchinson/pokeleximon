@@ -3,7 +3,7 @@
   "answerDisplay": "DAWN STONE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Dawn Stone",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dawn_Stone",
@@ -24,8 +24,16 @@
       "text": "Effect [ edit | edit source ] The Dawn Stone is required to evolve certain Pokémon in Pokémon Sleep. It is consumed upon use. Male Kirlia requires 80 Ralts Candy and a Dawn Stone to evolve into Gallade ."
     },
     {
-      "title": "Description",
-      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 A peculiar stone that makes certain species of Pokémon evolve. It sparkles like eyes. X Y OR AS S M US UM P E Sw Sh BD SP LA S V ZA A peculiar stone that can make certain species of Pokémon evolve. It sparkles like a glittering eye."
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Routes 212 Pt and 225 , Mt. Coronet Pickup ( Lv. 51-100) HG SS Mt. Silver Cave Silph Co. (held by in-game trade Beldum ) Route 17 (gift from Biker Aiden), Bug-Catching Contest first prize (post- National Pokédex ), Pokéathlon Dome (post-National Pokédex) (3000 Pts.) Tu We Fr Sa PBR Shop (7200 Poké Coupons ) B W Route 10 Dust clouds , Black City B / White Forest W (Grace) B2 W2 Route 2 , Dreamyard , Moor of Icirrus Join Avenue ( Antique Shop ), Black City (Store 4) Funfest Mission ( Do a Great Trade-Up! ) Dust clouds ( Chargestone Cave , Mistralton Cave , Clay Tunnel , Twist Mountain , Underground Ruins , Victory Road , Wellspring Cave , Seaside Cave , Giant Chasm ) Hidden Grotto ( Route 3 ) Transfer from Dream Radar DW * Rugged Mountain PDR Dream Clouds (Simulator β) X Y Route 3 Secret Super Training (Those Long Shots Are No Long Shot!), Route 18 (from Psychic Inver ) OR AS Victory Road Mauville City ( Inverse Battle Stop ), Secret Super Training (Those Long Shots Are No Long Shot!), Sea Mauville ( rematch with Mysterious Sisters Scall & Ion), Secret Base (\"Pick up stones\" with Secret Pal ) PMC * Balloon Popping (Lv. 1) S M US UM Hau'oli City S M , Royal Avenue US UM Poké Pelago (Isle Aphun - Brilliant-Stone Hunting, Interesting-Item Hunting) Sw Sh Giant's Cap Hidden recurring item ( Lake of Outrage ) Bridge Field ( Digging Duo ) Sw Sh CT Ballimere Lake Hidden recurring item ( Old Cemetery ) BD SP Route 225 , Mount Coronet Pickup ( Lv. 11-100) LA Galaxy Hall (reward for completing Request 82: \"Traces of a Lost Village\") Obsidian Fieldlands (reward for completing Request 102: \"Daybreak\") Blue ore deposits ( Coronet Highlands , Alabaster Icelands ) Trading post (1,200 MP ) Ginkgo Guild cart (randomly sold by Ginter , as \"Eye-Like Rock\") Space-time distortions S V East Province (Area Three) , West Province (Area Three) Reward for registering 270 Pokémon in the Paldea Pokédex Porto Marinada auction Sparkling overworld item ( Glaseado Mountain ) S V TM Oni Mountain S V ID Sparkling overworld item ( Canyon Biome ) Item Printer ZA Bleu Sector 3 (reward for completing Side Mission 090: \"Froslass’s Unfinished Business\") Stone Emporium Distribution [ edit | edit source ] Games Event Language/Region Distribution period PW Pokéwalker Spot items Korean January 7 to 31, 2011 S V November 2024 Nintendo newsletter items All November 18, 2024 to December 31, 2025"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods MD T D S Treasure Boxes , Job requests (★3-★9) Happy Outlook (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F), Mt. Mistral (Kecleon Shop: 3F, 5F, 7F, 9F, 11F, 13F, 15F, 17F, 19F), Shimmer Hill (Kecleon Shop: 2F, 4F, 6F, 8F, 10F, 12F, 14F, 16F), Lost Wilderness (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F)"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods Sleep Sleep Point Exchange (Regular)"
     }
   ],
   "familyPages": [],
@@ -34,5 +42,5 @@
     "Dawn Stone",
     "Dawn-Stone (item)"
   ],
-  "updatedAt": 1773322047
+  "updatedAt": 1774524115
 }

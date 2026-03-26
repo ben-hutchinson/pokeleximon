@@ -3,61 +3,54 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4454947,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
-      {
-        "text": "Gen I item",
-        "evidence_ref": "lead",
-        "specificity": 0.48
-      },
       {
         "text": "pp recovery",
         "evidence_ref": "lead",
         "specificity": 0.62
       },
       {
-        "text": "Gen I pp recovery",
-        "evidence_ref": "lead",
-        "specificity": 0.54
-      },
-      {
         "text": "Restores 10 PP for one move.",
         "evidence_ref": "lead",
         "specificity": 0.62
-      },
-      {
-        "text": "Event-only distribution item",
-        "evidence_ref": "Acquisition",
-        "specificity": 0.82
       }
     ],
     "crossword_candidates": [
       {
-        "text": "Event-only distribution item",
-        "evidence_ref": "Acquisition",
-        "mystery_score": 0.7,
-        "specificity_score": 0.84,
+        "text": "healing item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
         "style": "effect"
       },
       {
-        "text": "Limited event key item",
-        "evidence_ref": "Acquisition",
-        "mystery_score": 0.64,
-        "specificity_score": 0.8,
+        "text": "healing item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
         "style": "effect"
+      },
+      {
+        "text": "pp recovery",
+        "evidence_ref": "lead",
+        "mystery_score": 0.35,
+        "specificity_score": 0.52,
+        "style": "category"
       }
     ],
     "cryptic_definition_seeds": [
-      "event item"
+      "pp recovery"
     ],
     "connections_descriptors": [
-      "Gen I items"
+      "Healing items",
+      "Pp Recovery"
     ],
     "risk_flags": [],
-    "confidence": 0.78
+    "confidence": 0.68
   },
-  "updatedAt": 1774257944
+  "updatedAt": 1774525965
 }

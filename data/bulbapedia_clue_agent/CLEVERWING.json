@@ -3,25 +3,15 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4491796,
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
   "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
       {
-        "text": "Gen V item",
-        "evidence_ref": "lead",
-        "specificity": 0.48
-      },
-      {
         "text": "vitamins",
         "evidence_ref": "lead",
         "specificity": 0.62
-      },
-      {
-        "text": "Gen V vitamins",
-        "evidence_ref": "lead",
-        "specificity": 0.54
       },
       {
         "text": "Increases Special Defense effort by 1.",
@@ -36,13 +26,6 @@
         "mystery_score": 0.35,
         "specificity_score": 0.52,
         "style": "category"
-      },
-      {
-        "text": "Gen V vitamins",
-        "evidence_ref": "lead",
-        "mystery_score": 0.34,
-        "specificity_score": 0.54,
-        "style": "taxonomy"
       }
     ],
     "cryptic_definition_seeds": [
@@ -54,5 +37,5 @@
     "risk_flags": [],
     "confidence": 0.68
   },
-  "updatedAt": 1774257935
+  "updatedAt": 1774525959
 }

@@ -3,15 +3,20 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": null,
-  "evidencePassMode": "second_pass",
+  "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
       {
         "text": "Kalos location",
         "evidence_ref": "lead",
         "specificity": 0.5
+      },
+      {
+        "text": "gate landmark",
+        "evidence_ref": "title",
+        "specificity": 0.68
       }
     ],
     "crossword_candidates": [
@@ -21,16 +26,52 @@
         "mystery_score": 0.38,
         "specificity_score": 0.5,
         "style": "taxonomy"
+      },
+      {
+        "text": "Kalos route connector",
+        "evidence_ref": "title",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Connector gate in Kalos",
+        "evidence_ref": "title",
+        "mystery_score": 0.62,
+        "specificity_score": 0.78,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Kalos gate",
+        "evidence_ref": "title",
+        "mystery_score": 0.52,
+        "specificity_score": 0.7,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Regional gate",
+        "evidence_ref": "title",
+        "mystery_score": 0.44,
+        "specificity_score": 0.62,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Gate in Kalos",
+        "evidence_ref": "title",
+        "mystery_score": 0.42,
+        "specificity_score": 0.66,
+        "style": "taxonomy"
       }
     ],
     "cryptic_definition_seeds": [
       "Pokemon location"
     ],
     "connections_descriptors": [
-      "Kalos landmarks"
+      "Kalos landmarks",
+      "Kalos gates"
     ],
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774258446
+  "updatedAt": 1774525993
 }

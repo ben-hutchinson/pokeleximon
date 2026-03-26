@@ -3,12 +3,12 @@
   "answerDisplay": "DRAGON CHEER",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Dragon Cheer (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Cheer_(move)",
   "pageId": 300824,
-  "pageRevisionId": 4415787,
+  "pageRevisionId": 4514148,
   "leadText": "Dragon Cheer (Japanese: ドラゴンエール Dragon Yell) is a non-damaging Dragon-type move introduced during Generation IX, in The Indigo Disk. It is TM226 in Pokémon Scarlet and Violet.",
   "sections": [
     {
@@ -18,10 +18,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description S V The user raises its allies’ morale with a draconic cry so that their future attacks have a heightened chance of landing critical hits. This rouses Dragon types more."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Dragon Cheer was temporarily banned in official tournaments, due to the bug in Scarlet and Violet 3.0.0 that caused the boost to remain on switching out. The ban was lifted on the release of 3.0.1. [ 1 ] Despite its name and description, Dragon Cheer is not a sound-based move . ↑ https://x.com/playpokemon/status/1752860378877596077"
     }
   ],
   "familyPages": [],
@@ -30,5 +26,5 @@
     "Dragon Cheer",
     "Dragon-Cheer (move)"
   ],
-  "updatedAt": 1773322264
+  "updatedAt": 1774524130
 }

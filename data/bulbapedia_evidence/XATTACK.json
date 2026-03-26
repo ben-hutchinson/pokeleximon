@@ -3,7 +3,7 @@
   "answerDisplay": "X ATTACK",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "X Attack",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/X_Attack",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Generations I to VI [ edit | edit source ] When used from the Bag during battle, it raises the Attack of a Pokémon currently in battle by 1 level. From Generation II onward, it also increases the Pokémon's friendship a little. Generation VII onward [ edit | edit source ] When used from the Bag during battle, it raises the Attack of a Pokémon currently in battle by 2 levels. It also increases the Pokémon's friendship a little."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods R B Y / R G B Y Celadon Department Store G S C Union Cave , Ilex Forest C Violet , Blackthorn , Cerulean , Saffron Poké Marts ; Goldenrod Department Store , Celadon Department Store R S E Petalburg Woods , Rustboro City (held by in-game trade Makuhita ) R S Petalburg , Rustboro , Mauville , Fallarbor , Mossdeep , Sootopolis Poké Marts , Lilycove Department Store Pickup ( Lv. 1-70 E ) FR LG S.S. Anne Celadon Department Store Colo Phenac Poké Mart XD Pyrite Poké Mart Pickup ( Lv. 1-70) D P Pt Route 205 D P , Trainers' School Pt Veilstone Department Store HG SS Route 39 ( Moomoo Farm ), Union Cave , Ilex Forest Goldenrod and Celadon Department Stores PW Suburban Area , Town Outskirts B W Nimbasa City Nacrene City , Shopping Mall Nine B2 W2 Floccesy Ranch Nacrene City , Shopping Mall Nine Join Avenue ( Market ) X Y Santalune City Trainers' School (×3), Victory Road , Terminus Cave , Ambrette Town , Route 5 , Camphrier Town Santalune City Poké Mart OR AS Route 104 , Petalburg Woods , Cave of Origin , Rustboro City (held by in-game trade Makuhita ) Slateport City Poké Mart , Lilycove Department Store (Level 3) S M US UM Routes 2 (×1 S M /×2 US UM ), 12 , and 17 , Hau'oli City Marina , Lush Jungle , Diglett's Tunnel , Ten Carat Hill , Vast Poni Canyon , Team Rocket's Castle US UM Route 2 , Route 5 US UM , Route 8 , and Hau'oli Poké Marts Festival Plaza ( Battle Store ) P E Pokémon Tower , Silph Co. All Poké Marts (after obtaining 1 Badge ), Celadon Department Store Sw Sh Route 10 , Turffield , Hammerlocke Motostoke Poké Mart BD SP Route 205 Veilstone Department Store S V Cascarrafa , Cortondo , Area Zero , Casseroya Lake , Dalizapa Passage , Glaseado Mountain , Navi Squad's Base , East Province (Area One) , East Province (Area Three) , North Province (Area One) , North Province (Area Two) , South Province (Area One) , South Province (Area Two) , South Province (Area Six) , West Province (Area One) Chansey Supply S V TM Fellhorn Gorge , Mossui Town S V ID Polar Biome , Savanna Biome Vending machines ( Terarium )"
     },
     {
       "title": "Description",
@@ -34,5 +38,5 @@
     "X Attack",
     "X-Attack (item)"
   ],
-  "updatedAt": 1773328604
+  "updatedAt": 1774524919
 }

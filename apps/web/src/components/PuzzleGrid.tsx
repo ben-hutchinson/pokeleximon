@@ -16,6 +16,8 @@ type GridSnapshot = {
   pencilMode: boolean;
 };
 
+type CellInputMode = "append" | "replace";
+
 const GRID_STORAGE_VERSION = 2;
 
 export type Direction = "across" | "down";
@@ -147,6 +149,7 @@ export default function PuzzleGrid({
   const skipProgressBumpRef = useRef(false);
   const hydratedRef = useRef(false);
   const cloudSaveTimeoutRef = useRef<number | null>(null);
+  const cellInputRefs = useRef(new Map<string, HTMLInputElement>());
 
   const effectivePencilMode = pencilMode ?? internalPencilMode;
 
@@ -327,10 +330,34 @@ export default function PuzzleGrid({
       .map((pos) => pos.key);
   }, [gridCells, isBlock]);
 
+  const registerCellInputRef = useCallback((key: string, element: HTMLInputElement | null) => {
+    if (element) {
+      cellInputRefs.current.set(key, element);
+      return;
+    }
+    cellInputRefs.current.delete(key);
+  }, []);
+
   const focusCell = useCallback((key: string) => {
     requestAnimationFrame(() => {
-      const el = document.querySelector<HTMLElement>(`[data-cell="${key}"]`);
-      el?.focus();
+      const input = cellInputRefs.current.get(key);
+      if (!input) return;
+      input.focus();
+      try {
+        const cursorPos = input.value.length;
+        input.setSelectionRange(cursorPos, cursorPos);
+      } catch {
+        // Ignore browsers that reject manual selection for this input type.
+      }
+    });
+  }, []);
+
+  const clearCellValue = useCallback((key: string) => {
+    setValues((prev) => ({ ...prev, [key]: "" }));
+    setPencilValues((prev) => {
+      const next = { ...prev };
+      delete next[key];
+      return next;
     });
   }, []);
 
@@ -413,18 +440,73 @@ export default function PuzzleGrid({
       const [x, y] = prevKey.split(",").map(Number);
       setSelected({ x, y, key: prevKey });
       focusCell(prevKey);
-      setValues((prev) => ({ ...prev, [prevKey as string]: "" }));
-      setPencilValues((prev) => {
-        const next = { ...prev };
-        delete next[prevKey as string];
-        return next;
-      });
+      clearCellValue(prevKey);
     },
-    [direction, entryMaps, orderAcross, orderDown, focusCell, resolveDirectionForCell],
+    [clearCellValue, direction, entryMaps, orderAcross, orderDown, focusCell, resolveDirectionForCell],
+  );
+
+  const commitCellInput = useCallback(
+    (pos: CellPos, rawValue: string, mode: CellInputMode) => {
+      const expected = normalizeCellValue(cellSolutions.get(pos.key) ?? "");
+      const rebus = expected.length > 1;
+      const currentValue = normalizeCellValue(values[pos.key] ?? "");
+      const maxLen = Math.max(1, expected.length || 6);
+      const normalizedRawValue = normalizeCellValue(rawValue);
+
+      let nextValue = "";
+      if (mode === "append") {
+        const baseValue = rebus && currentValue.length < maxLen ? currentValue : "";
+        nextValue = normalizeCellValue(`${baseValue}${normalizedRawValue}`).slice(0, maxLen);
+      } else if (rebus) {
+        nextValue = normalizedRawValue.slice(0, maxLen);
+      } else {
+        nextValue = normalizedRawValue.slice(-1);
+      }
+
+      if (!nextValue) {
+        if (currentValue) {
+          clearCellValue(pos.key);
+        }
+        return;
+      }
+
+      if (!hasTrackedFirstInput) {
+        setHasTrackedFirstInput(true);
+        onFirstInput?.();
+      }
+
+      if (autoCheck && expected) {
+        if (rebus) {
+          if (!expected.startsWith(nextValue)) {
+            return;
+          }
+        } else if (nextValue !== expected) {
+          clearCellValue(pos.key);
+          return;
+        }
+      }
+
+      setValues((prev) => ({ ...prev, [pos.key]: nextValue }));
+      setPencilValues((prev) => ({ ...prev, [pos.key]: effectivePencilMode }));
+
+      if (!rebus || (expected && nextValue.length >= expected.length)) {
+        moveNextInEntry(pos);
+      }
+    },
+    [
+      autoCheck,
+      cellSolutions,
+      clearCellValue,
+      effectivePencilMode,
+      hasTrackedFirstInput,
+      moveNextInEntry,
+      onFirstInput,
+      values,
+    ],
   );
 
   const handleKey = useCallback(
-    (event: React.KeyboardEvent<HTMLDivElement>, pos: CellPos) => {
+    (event: React.KeyboardEvent<HTMLInputElement>, pos: CellPos) => {
       const key = event.key;
       if (key === " ") {
         event.preventDefault();
@@ -468,12 +550,7 @@ export default function PuzzleGrid({
           return;
         }
         if (currentValue.length === 1) {
-          setValues((prev) => ({ ...prev, [pos.key]: "" }));
-          setPencilValues((prev) => {
-            const next = { ...prev };
-            delete next[pos.key];
-            return next;
-          });
+          clearCellValue(pos.key);
           return;
         }
         movePrevInEntry(pos);
@@ -483,57 +560,24 @@ export default function PuzzleGrid({
 
       if (/^[a-zA-Z0-9]$/.test(key)) {
         event.preventDefault();
-        const token = normalizeCellValue(key);
-        if (!token) return;
-
-        if (!hasTrackedFirstInput) {
-          setHasTrackedFirstInput(true);
-          onFirstInput?.();
-        }
-
-        const expected = normalizeCellValue(cellSolutions.get(pos.key) ?? "");
-        const rebus = expected.length > 1;
-        const currentValue = normalizeCellValue(values[pos.key] ?? "");
-        const maxLen = Math.max(1, expected.length || 6);
-        const baseValue = rebus && currentValue.length < maxLen ? currentValue : "";
-        const nextValue = normalizeCellValue(`${baseValue}${token}`).slice(0, maxLen);
-
-        if (autoCheck && expected) {
-          if (rebus) {
-            if (!expected.startsWith(nextValue)) {
-              return;
-            }
-          } else if (nextValue !== expected) {
-            setValues((prev) => ({ ...prev, [pos.key]: "" }));
-            setPencilValues((prev) => {
-              const next = { ...prev };
-              delete next[pos.key];
-              return next;
-            });
-            return;
-          }
-        }
-
-        setValues((prev) => ({ ...prev, [pos.key]: nextValue }));
-        setPencilValues((prev) => ({ ...prev, [pos.key]: effectivePencilMode }));
-
-        if (!rebus || (expected && nextValue.length >= expected.length)) {
-          moveNextInEntry(pos);
-        }
+        commitCellInput(pos, key, "append");
       }
     },
     [
-      autoCheck,
-      cellSolutions,
-      hasTrackedFirstInput,
+      clearCellValue,
+      commitCellInput,
       moveSelection,
-      moveNextInEntry,
       movePrevInEntry,
       entryMaps,
-      onFirstInput,
       values,
-      effectivePencilMode,
     ],
+  );
+
+  const handleCellInputChange = useCallback(
+    (event: React.ChangeEvent<HTMLInputElement>, pos: CellPos) => {
+      commitCellInput(pos, event.target.value, "replace");
+    },
+    [commitCellInput],
   );
 
   useEffect(() => {
@@ -885,7 +929,6 @@ export default function PuzzleGrid({
                 } ${value ? "is-filled" : ""} ${activeWord ? "is-active" : ""} ${pencil ? "is-pencil" : ""} ${
                   rebusCell || value.length > 1 ? "is-rebus" : ""
                 }`}
-                tabIndex={isTabStop ? 0 : -1}
                 role="gridcell"
                 aria-label={cellLabel}
                 aria-rowindex={pos.y + 1}
@@ -905,8 +948,27 @@ export default function PuzzleGrid({
                     setSelected(pos);
                   }
                 }}
-                onKeyDown={(event) => handleKey(event, pos)}
               >
+                {!blocked ? (
+                  <input
+                    ref={(element) => registerCellInputRef(pos.key, element)}
+                    className="crossword-cell__input"
+                    type="text"
+                    inputMode="text"
+                    autoCapitalize="characters"
+                    autoComplete="off"
+                    autoCorrect="off"
+                    spellCheck={false}
+                    enterKeyHint="next"
+                    aria-label={cellLabel}
+                    aria-describedby={gridDescriptionId}
+                    value={value}
+                    tabIndex={isTabStop ? 0 : -1}
+                    data-cell-input={pos.key}
+                    onKeyDown={(event) => handleKey(event, pos)}
+                    onChange={(event) => handleCellInputChange(event, pos)}
+                  />
+                ) : null}
                 {!blocked && clueNumbers.has(pos.key) ? <span className="cell-number">{clueNumbers.get(pos.key)}</span> : null}
                 {!blocked ? <span className="cell-value">{value}</span> : null}
               </div>

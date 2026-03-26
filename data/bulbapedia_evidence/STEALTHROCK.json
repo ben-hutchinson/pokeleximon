@@ -3,12 +3,12 @@
   "answerDisplay": "STEALTH ROCK",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Stealth Rock (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Stealth_Rock_(move)",
   "pageId": 15760,
-  "pageRevisionId": 4462282,
+  "pageRevisionId": 4516264,
   "leadText": "Stealth Rock (Japanese: ステルスロック Stealth Rock) is a non-damaging Rock-type move introduced in Generation IV. It is: TM76 in Generation IV and in Pokémon Brilliant Diamond and Shining Pearl. TM56 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR76 in Pokémon Sword and Shield. TM116 in Pokémon Scarlet and Violet. TM037 in Pokémon Legends: Z-A.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD T D Turns the user's tile into a Stealth Rock trap. A Stealth Rock trap inflicts damage on enemies that step on it. MD S Turns the user's tile into a Stealth Rock trap. A Stealth Rock trap is invisible when created and inflicts damage on enemies that step on it. B S L あしもとに わな『ステルスロック』を つくる わな『ステルスロック』を ふんでしまった てきポケモンは ダメージをうける MD GtI S MD It creates a Stealth Rock trap on your tile. * It turns your tile into an invisible Stealth Rock trap. A Stealth Rock trap damages enemies that step on it. *"
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Stealth Rock is the only Rock-type Cool move."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Stealth Rock",
     "Stealth-Rock (move)"
   ],
-  "updatedAt": 1773327545
+  "updatedAt": 1774524738
 }

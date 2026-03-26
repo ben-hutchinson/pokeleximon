@@ -106,7 +106,11 @@ def build_cryptic_payload(target_date: date, tz_name: str) -> dict[str, object]:
                     "enumeration": "3",
                     "cells": [[0, 0], [1, 0], [2, 0]],
                     "mechanism": "anagram",
-                    "wordplayMetadata": {"indicator": "remodeled", "fodder": "WE"},
+                    "wordplayMetadata": {
+                        "definition": "Legendary psychic Pokemon",
+                        "indicator": "remodeled",
+                        "fodder": ["WE"],
+                    },
                 }
             ]
         ),

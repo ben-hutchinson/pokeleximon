@@ -3,52 +3,23 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4491300,
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
   "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
-      {
-        "text": "Gen IV item",
-        "evidence_ref": "lead",
-        "specificity": 0.48
-      },
       {
         "text": "event items",
         "evidence_ref": "lead",
         "specificity": 0.62
       },
       {
-        "text": "Gen IV event items",
-        "evidence_ref": "lead",
-        "specificity": 0.54
-      },
-      {
         "text": "Cures sailors son of nightmares in Canalave City.",
         "evidence_ref": "lead",
         "specificity": 0.62
-      },
-      {
-        "text": "Unlocks progression content",
-        "evidence_ref": "Description",
-        "specificity": 0.8
       }
     ],
     "crossword_candidates": [
-      {
-        "text": "Unlocks progression content",
-        "evidence_ref": "Description",
-        "mystery_score": 0.68,
-        "specificity_score": 0.82,
-        "style": "effect"
-      },
-      {
-        "text": "Progress-gating key item",
-        "evidence_ref": "Description",
-        "mystery_score": 0.64,
-        "specificity_score": 0.8,
-        "style": "effect"
-      },
       {
         "text": "Event-only key item",
         "evidence_ref": "lead",
@@ -65,13 +36,13 @@
       }
     ],
     "cryptic_definition_seeds": [
-      "unlocking item"
+      "battle item"
     ],
     "connections_descriptors": [
-      "Gen IV items"
+      "Battle items"
     ],
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257966
+  "updatedAt": 1774525978
 }

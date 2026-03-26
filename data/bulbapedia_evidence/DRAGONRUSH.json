@@ -3,12 +3,12 @@
   "answerDisplay": "DRAGON RUSH",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Dragon Rush (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Rush_(move)",
   "pageId": 18885,
-  "pageRevisionId": 4487409,
+  "pageRevisionId": 4514146,
   "leadText": "Dragon Rush (Japanese: ドラゴンダイブ Dragon Dive) is a damage-dealing Dragon-type move introduced in Generation IV.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Cringe status condition, making its actions fail. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで ひるみじょうたいにして わざや こうげきを だせなくする Conq. The user tackles the target while exhibiting overwhelming menace. It may also make the target flinch. MD GtI It damages an enemy. It could also cause the Cringe status condition, which makes the enemy unable to attack or use moves. It damages even faraway Pokémon. It could also cause the Cringe status condition, which makes the enemies unable to attack or use moves. * S MD It damages an enemy. It could also cause the enemy to flinch."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] In Italian, the Lake of Outrage is named after this move."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Dragon Rush",
     "Dragon-Rush (move)"
   ],
-  "updatedAt": 1773322288
+  "updatedAt": 1774524145
 }

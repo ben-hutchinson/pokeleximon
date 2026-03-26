@@ -3,7 +3,7 @@
   "answerDisplay": "MAGMARIZER",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Magmarizer",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Magmarizer",
@@ -20,6 +20,14 @@
       "text": "Effect [ edit | edit source ] If the player offers both a Link Cable and Magmarizer at Luminous Spring , Magmar can be evolved into Magmortar . This consumes the Link Cable and Magmarizer. If thrown, it will deal 1 damage (2 if sticky ). Using this item in a dungeon will consume it, with no effect."
     },
     {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Route 214 Pt Held by wild Magby (5% D /50% P chance) and wild Magmar Pt (5% chance) HG SS Cinnabar Island PW Amity Meadow B W Route 13 (treasure hunter) B2 W2 Plasma Frigate B2 Join Avenue ( Antique Shop ), Funfest Mission ( Forgotten Lost Items! ) B2 X Y Battle Maison (32 BP ) OR AS Battle Maison (32 BP ) Held by wild Magby (5% chance) PMC * Balloon Popping (Lv. 2) S M US UM Seafolk Village Battle Tree (32 BP ) Held by wild Magby and wild Magmar (5% chance each) Sw Sh CT Tunnel to the Top Snowslide Slope Watt Trader (Highlight Item, 4,980 W ) Held by wild Magby , wild Magmar , and wild Magmortar (5% chance each) BD SP Held by wild Magby SP (5% chance) LA Trading post (1,400 MP ) Ginkgo Guild cart (randomly sold by Ginter , as \"Magma Box\") Space-time distortions S V ID Reward for registering 140 Pokémon in the Blueberry Pokédex Blueberry Academy School Store (250 BP ) Item Printer Distribution [ edit | edit source ] As a held item [ edit | edit source ] Games Event Language/Region Distribution period D P Pokémon Festa 2006 Magmar Japanese November 25, 2006 to January 31, 2007 B W Trade for Evolution! Magmar Japanese October 10 to November 28, 2010 X Spring 2014 Magmar PAL Various"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods MD T D S Treasure Boxes , Job requests (★3-★9) Happy Outlook (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F), Mt. Mistral (Kecleon Shop: 3F, 5F, 7F, 9F, 11F, 13F, 15F, 17F, 19F), Shimmer Hill (Kecleon Shop: 2F, 4F, 6F, 8F, 10F, 12F, 14F, 16F), Lost Wilderness (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F)"
+    },
+    {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon. X Y OR AS S M US UM P E Sw Sh BD SP LA S V A box packed with a tremendous amount of magma energy. It's loved by a certain Pokémon."
     },
@@ -33,5 +41,5 @@
     "Magmarizer",
     "Magmarizer (item)"
   ],
-  "updatedAt": 1773324660
+  "updatedAt": 1774524363
 }

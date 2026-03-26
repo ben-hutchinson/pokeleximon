@@ -1,9 +1,9 @@
 {
   "answerKey": "CASTELIACONE",
-  "answerDisplay": "CASTELIACONE",
+  "answerDisplay": "CASTELIA CONE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Casteliacone",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Casteliacone",
@@ -16,22 +16,23 @@
       "text": "Effect [ edit | edit source ] When used from the Bag on a Pokémon, it cures a Pokémon of all non-volatile status conditions ( poison , paralysis , sleep , burn , freeze ) and confusion . Other uses [ edit | edit source ] In Omega Ruby and Alpha Sapphire , if held by a nicknamed Regice in the party, along with Regirock and Registeel , allows to spawn Regigigas in Island Cave , during the daytime after defeating/catching Groudon OR / Kyogre AS ."
     },
     {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods B W Castelia City Tu Spring Summer Autumn B2 W2 Castelia City (maximum of either 1 or 12 a day) X Y Trade OR AS Trick House (×2), Mauville City (Mauville Hills - Apartment 14; requires Regice in the party ) S M US UM Pokémon Center Café We Festival Plaza ( General Store ) Sw Sh Battle Café Sw Sh CT Max Raid Battles ( Giant's Bed , Old Cemetery , Ballimere Lake ) Distribution [ edit | edit source ] Games Event Language/Region Distribution period S M Pokémon Center Alolan Vulpix items Japan February 13 to May 13, 2017 US UM 7-Eleven Casteliacone Japanese December 18, 2017 to March 31, 2018 Sw Sh Pokémon Center Alcremie Sweets Japan November 1, 2021 to October 31, 2022"
+    },
+    {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS Castelia City's specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon. S M US UM P E Sw Sh BD SP LA Castelia City's specialty, soft-serve ice cream. It can be used once to heal all the status conditions of a Pokémon. S V Castelia City's specialty: soft-serve ice cream. It can be used to cure any status condition a Pokémon may have."
     },
     {
       "title": "In the core series games",
       "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.2.1 Other uses 1.3 Description 1.4 Acquisition 1.4.1 Distribution In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price B W B2 W2 $ 100 $ 50 X Y OR AS N/A $ 50 S M US UM N/A $ 175 In the Generation V games, the Casteliacone can be sold to the gourmet maniac on Route 5 for $ 2000. In Pokémon Omega Ruby and Alpha Sapphire , the player can purchase a Casteliacone from a Fairy Tale Girl for $ 200 in Mauville City once if the player has a Regice in the party . Effect [ edit | edit source ] When used from the Bag on a Pokémon, it cures a Pokémon of all non-volatile status conditions ( poison , paralysis , sleep , burn , freeze ) and confusion . Other uses [ edit | edit source ] In Omega Ruby and Alpha Sapphire , if held by a nicknamed Regice in the party, along with Regirock and Registeel , allows to spawn Regigigas in Island Cave , during the daytime after defeating/catching Groudon OR / Kyogre AS . Description [ edit | edit source ] Games Description B W B2 W2 X Y OR AS Castelia City's specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon. S M US UM P E Sw Sh BD SP LA Castelia City's specialty, soft-serve ice cream. It can be used once to heal all the status conditions of a Pokémon. S V Castelia City's specialty: soft-serve ice cream. It can be used to cure any status condition a Pokémon may have. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods B W Castelia City Tu Spring Summer Autumn B2 W2 Castelia City (maximum of either 1 or 12 a day) X Y Trade OR AS Trick House (×2), Mauville City (Mauville Hills - Apartment 14; requires Regice in the party ) S M US UM Pokémon Center Café We Festival Plaza ( General Store ) Sw Sh Battle Café Sw Sh CT Max Raid Battles ( Giant's Bed , Old Cemetery , Ballimere Lake ) Distribution [ edit | edit source ] Games Event Language/Region Distribution period S M Pokémon Center Alolan Vulpix items Japan February 13 to May 13, 2017 US UM 7-Eleven Casteliacone Japanese December 18, 2017 to March 31, 2018 Sw Sh Pokémon Center Alcremie Sweets Japan November 1, 2021 to October 31, 2022"
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] The Casteliacone's appearance in its Pokémon Global Link artwork and Pokémon Journeys: The Series resembles Vanillite ."
     }
   ],
   "familyPages": [],
   "titleCandidates": [
     "Casteliacone",
+    "Castelia Cone",
     "Casteliacone (item)"
   ],
-  "updatedAt": 1773321512
+  "updatedAt": 1774524073
 }

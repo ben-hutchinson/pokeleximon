@@ -3,8 +3,8 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4505246,
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
   "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
@@ -12,16 +12,6 @@
         "text": "Paldea location",
         "evidence_ref": "lead",
         "specificity": 0.5
-      },
-      {
-        "text": "island landmark",
-        "evidence_ref": "lead",
-        "specificity": 0.64
-      },
-      {
-        "text": "island location",
-        "evidence_ref": "lead",
-        "specificity": 0.66
       }
     ],
     "crossword_candidates": [
@@ -31,46 +21,16 @@
         "mystery_score": 0.38,
         "specificity_score": 0.5,
         "style": "taxonomy"
-      },
-      {
-        "text": "Paldea island",
-        "evidence_ref": "lead",
-        "mystery_score": 0.52,
-        "specificity_score": 0.7,
-        "style": "taxonomy"
-      },
-      {
-        "text": "Regional island",
-        "evidence_ref": "lead",
-        "mystery_score": 0.44,
-        "specificity_score": 0.62,
-        "style": "taxonomy"
-      },
-      {
-        "text": "Island in Paldea",
-        "evidence_ref": "lead",
-        "mystery_score": 0.42,
-        "specificity_score": 0.66,
-        "style": "taxonomy"
-      },
-      {
-        "text": "Island location",
-        "evidence_ref": "lead",
-        "mystery_score": 0.46,
-        "specificity_score": 0.66,
-        "style": "theme"
       }
     ],
     "cryptic_definition_seeds": [
       "Pokemon location"
     ],
     "connections_descriptors": [
-      "Paldea landmarks",
-      "Paldea islands",
-      "Island locations"
+      "Paldea landmarks"
     ],
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774257994
+  "updatedAt": 1774525987
 }

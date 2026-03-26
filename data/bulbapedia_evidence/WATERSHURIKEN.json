@@ -3,12 +3,12 @@
   "answerDisplay": "WATER SHURIKEN",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Water Shuriken (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Water_Shuriken_(move)",
   "pageId": 184462,
-  "pageRevisionId": 4483153,
+  "pageRevisionId": 4511429,
   "leadText": "Water Shuriken (Japanese: みずしゅりけん Water Shuriken) is a damage-dealing Water-type multistrike move introduced in Generation VI. It is the signature move of Accelgor in Generation VIII and Greninja in Generation IX.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description Super Smash Bros. for Nintendo 3DS/Wii U Unleash a water shuriken. Charge it with B. * S MD It damages an enemy 2 to 5 times in a row. It reaches up to 2 tiles away."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Water Shuriken is the only move to have its category changed since Generation IV (prior to which categories were not assigned to moves individually, but to their types ). Water Shuriken is the only multistrike move to have an increased priority. Prior to Generation IX , it was also the only one to be a special move ."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Water Shuriken",
     "Water-Shuriken (move)"
   ],
-  "updatedAt": 1773328420
+  "updatedAt": 1774524886
 }

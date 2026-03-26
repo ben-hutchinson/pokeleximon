@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4351233,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Battery redirects here. For the held item, see Cell Battery. Battery (Japanese: Battery) is an Ability introduced in Generation VII. It is the signature Ability of Charjabug.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Charjabug",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability increases the Special Attack of allies when they use special moves by approximately 30%, or more precisely, 5325/4096. Outside of battle [ edit | edit source ] Battery has no effect outside of battle.",
@@ -40,6 +45,13 @@
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Charjabug's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
       {
         "text": "Boosts allies' Special Attack",
         "evidence_ref": "Effect",
@@ -73,5 +85,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257928
+  "updatedAt": 1774525955
 }

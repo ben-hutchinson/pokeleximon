@@ -3,7 +3,7 @@
   "answerDisplay": "OPPORTUNIST",
   "sourceType": "ability",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Opportunist (Ability)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Opportunist_(Ability)",
@@ -25,5 +25,5 @@
     "Opportunist",
     "Opportunist (Ability)"
   ],
-  "updatedAt": 1773325519
+  "updatedAt": 1774524427
 }

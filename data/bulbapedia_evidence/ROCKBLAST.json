@@ -3,7 +3,7 @@
   "answerDisplay": "ROCK BLAST",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Rock Blast (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rock_Blast_(move)",
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It hits two to five times in succession. MD T D S Inflicts damage on the target using 2 to 5 attacks in a single turn. B S L てきポケモンに ２〜５かいれんぞくで ダメージを あたえる Conq. The target is attacked with rocks thrown forcefully two to five times in a row. MD GtI S MD MD RT DX It damages an enemy 2 to 5 times in a row."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Rock Blast is the only Rock-type multistrike move ."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Rock Blast",
     "Rock-Blast (move)"
   ],
-  "updatedAt": 1773326456
+  "updatedAt": 1774524599
 }

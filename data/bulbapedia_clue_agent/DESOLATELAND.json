@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4475089,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Desolate Land (Japanese: Land of the End) is an Ability introduced during Generation VI, in Pokemon Omega Ruby and Alpha Sapphire. It is the signature Ability of Primal Groudon.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Primal Groudon",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description S MD The floor will get harsh sunlight! MD RT DX The floor will have Extremely Harsh Sunlight.",
@@ -46,6 +51,13 @@
     ],
     "crossword_candidates": [
       {
+        "text": "Primal Groudon's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
         "text": "Weather-linked trait",
         "evidence_ref": "lead",
         "mystery_score": 0.56,
@@ -63,5 +75,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257939
+  "updatedAt": 1774525962
 }

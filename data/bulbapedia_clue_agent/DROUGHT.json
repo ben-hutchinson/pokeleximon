@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4486387,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Drought (Japanese: Drought) is an Ability introduced in Generation III. Prior to Generation V, it was the signature Ability of Groudon.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Groudon",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD R B Changes the weather to sunny. MD T D S Changes the weather to a sunny condition. B S L MD GtI Unavailable S MD The weather on the floor will be sunny! MD RT DX The weather condition on the floor will be Sunny.",
@@ -46,6 +51,13 @@
     ],
     "crossword_candidates": [
       {
+        "text": "Groudon's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
         "text": "Weather-linked trait",
         "evidence_ref": "lead",
         "mystery_score": 0.56,
@@ -63,5 +75,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257941
+  "updatedAt": 1774525963
 }

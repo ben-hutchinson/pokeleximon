@@ -3,7 +3,7 @@
   "answerDisplay": "SLOWPOKE TAIL",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Slowpoke Tail",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Slowpoke_Tail",
@@ -20,6 +20,14 @@
       "text": "Effect [ edit | edit source ] Slowpoke Tail can be used as an ingredient in cooking , with a base Strength of 342. It can be used to cook the following recipes: Name Recipe Minimum pot size Grilled Tail Curry Slowpoke Tail ×8 Fiery Herb ×25 33 Slowpoke Tail Pepper Salad Fiery Herb ×10 Slowpoke Tail ×10 Pure Oil ×15 35"
     },
     {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods G S C Just a Souvenir Shop (before exposing Team Rocket )"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Slowpoke Tail can be gathered by the player's helper Pokémon."
+    },
+    {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description G S C Very tasty. Sell high. HG SS B W B2 W2 A very tasty tail of something. It sells for a high price. X Y OR AS S M US UM P E Sw Sh BD SP LA S V A very tasty tail of something. It can be sold at a high price to shops."
     },
@@ -34,5 +42,5 @@
     "Slowpoke Tail",
     "Slowpoke-Tail (item)"
   ],
-  "updatedAt": 1773327161
+  "updatedAt": 1774524707
 }

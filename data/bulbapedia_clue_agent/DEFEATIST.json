@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4419935,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Defeatist (Japanese: Timid) is an Ability introduced in Generation V. It is the signature Ability of Archen and Archeops.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Archen And Archeops",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD GtI When its HP is half or lower, the Pokemon does less damage. * When the Pokemon's HP is down to half or lower, its moves do less damage! * S MD When the Pokemon's HP is down to half or lower, the Pokemon's moves do less damage!",
@@ -41,26 +46,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "debuffing ability",
-        "evidence_ref": "Description",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "Gen V ability",
+        "text": "Archen And Archeops's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
     "connections_descriptors": [
-      "Debuffing abilities"
+      "Gen V abilities"
     ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774257939
+  "updatedAt": 1774525962
 }

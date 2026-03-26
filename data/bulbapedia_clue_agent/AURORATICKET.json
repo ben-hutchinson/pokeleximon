@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4504462,
   "evidencePassMode": "first_pass",
   "response": {
@@ -29,6 +29,11 @@
         "specificity": 0.62
       },
       {
+        "text": "Story or event key item",
+        "evidence_ref": "lead",
+        "specificity": 0.66
+      },
+      {
         "text": "Unlocks progression content",
         "evidence_ref": "Description",
         "specificity": 0.8
@@ -40,6 +45,20 @@
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Story or event key item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.62,
+        "specificity_score": 0.76,
+        "style": "family"
+      },
+      {
+        "text": "Unlocking key item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.58,
+        "specificity_score": 0.72,
+        "style": "family"
+      },
       {
         "text": "Unlocks progression content",
         "evidence_ref": "Description",
@@ -88,10 +107,11 @@
       "event item"
     ],
     "connections_descriptors": [
+      "Key items",
       "Gen III items"
     ],
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257927
+  "updatedAt": 1774525954
 }

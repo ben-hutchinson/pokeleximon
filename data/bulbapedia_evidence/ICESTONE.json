@@ -3,7 +3,7 @@
   "answerDisplay": "ICE STONE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Ice Stone",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ice_Stone",
@@ -20,6 +20,14 @@
       "text": "Effect [ edit | edit source ] The Ice Stone is required to evolve certain Pokémon in Pokémon Sleep. It is consumed upon use. Alolan Vulpix requires 80 Vulpix Candy and an Ice Stone to evolve into Alolan Ninetales . Eevee requires 80 Eevee Candy and an Ice Stone to evolve into Glaceon ."
     },
     {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods S M US UM Po Town Poké Pelago (Isle Aphun - Brilliant-Stone Hunting, Interesting-Item Hunting) P E Pokémon Tower , Seafoam Islands Celadon Department Store Found by Ice-type walking Pokémon ( Seafoam Islands ) Sw Sh Route 9 Hidden recurring item ( Lake of Outrage ) Bridge Field ( Digging Duo ) Sw Sh CT Path to the Peak Hidden recurring item ( Slippery Slope , Snowslide Slope , Path to the Peak ) Max Raid Battles ( Ballimere Lake ) LA Diamond Settlement (reward for completing Request 107: \"Irida's Wish\") Snow piles ( Alabaster Icelands ) Trading post (1,000 MP ) Ginkgo Guild cart (randomly sold by Ginter , as \"Snow-Patterned Rock\") Space-time distortions S V Glaseado Mountain , Dalizapa Passage Sparkling overworld item ( Glaseado Mountain ) S V ID Sparkling overworld item ( Polar Biome ) Item Printer ZA Wild Zone 12 (reward for completing Side Mission 102: \"A Chilling Challenge\") Stone Emporium Distribution [ edit | edit source ] Games Event Language/Region Distribution period S M Pokémon Center Alolan Vulpix items Japan February 13 to May 13, 2017 S V PokéDoko Eevee Evolution items All July 14 to September 30, 2024 November 2024 Nintendo newsletter items All November 18, 2024 to December 31, 2025"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods Sleep Achievement reward Sleep Point Exchange (Regular)"
+    },
+    {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh BD SP A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable snowflake pattern. LA S V ZA A peculiar stone that can make certain species of Pokémon evolve. It has a snowflake pattern in it."
     },
@@ -34,5 +42,5 @@
     "Ice Stone",
     "Ice-Stone (item)"
   ],
-  "updatedAt": 1773323815
+  "updatedAt": 1774524300
 }

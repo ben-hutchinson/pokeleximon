@@ -3,7 +3,7 @@
   "answerDisplay": "DRAGON",
   "sourceType": "type",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Dragon",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dragon",
@@ -17,5 +17,5 @@
     "Dragon (type)",
     "Dragon type"
   ],
-  "updatedAt": 1773322251
+  "updatedAt": 1774524129
 }

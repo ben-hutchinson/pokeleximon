@@ -3,12 +3,12 @@
   "answerDisplay": "VITAL SPIRIT",
   "sourceType": "ability",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Vital Spirit (Ability)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Vital_Spirit_(Ability)",
   "pageId": 4147,
-  "pageRevisionId": 4462599,
+  "pageRevisionId": 4512242,
   "leadText": "Vital Spirit (Japanese: やるき Willingness) is an Ability introduced in Generation III.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD R B Prevents sleep. MD T D Protects the Pokémon from being put to sleep. MD S Protects the Pokémon from being made to sleep. B S L ねむらない MD GtI The Pokémon is filled with energy. It won't get sleepy. * The Pokémon is protected from the Sleep, Napping, Yawning, and Nightmare status conditions! * S MD The Pokémon is protected from the sleep, napping, yawning, and nightmare status conditions! MD RT DX The Pokémon is protected from the Sleep, Napping, Yawning, and Nightmare conditions."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] It is one of three Abilities that prevent sleeping , the others being Insomnia and Sweet Veil ."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Vital Spirit",
     "Vital-Spirit (Ability)"
   ],
-  "updatedAt": 1773328327
+  "updatedAt": 1774524856
 }

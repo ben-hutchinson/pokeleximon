@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 3829602,
   "evidencePassMode": "second_pass",
   "response": {
@@ -32,21 +32,39 @@
         "text": "Decreases all direct damage taken by friendly Pokemon to 0.75.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Reduces damage taken by allies",
+        "evidence_ref": "In battle",
+        "specificity": 0.9
       }
     ],
     "crossword_candidates": [
       {
-        "text": "Gen V ability",
-        "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "text": "Reduces damage taken by allies",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.8,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Protective ally-screen trait",
+        "evidence_ref": "In battle",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
       }
     ],
-    "cryptic_definition_seeds": [],
-    "connections_descriptors": [],
+    "cryptic_definition_seeds": [
+      "ally guard",
+      "teammate protector"
+    ],
+    "connections_descriptors": [
+      "Ally-protecting abilities",
+      "Gen V abilities"
+    ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774257947
+  "updatedAt": 1774525968
 }

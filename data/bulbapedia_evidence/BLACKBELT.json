@@ -3,7 +3,7 @@
   "answerDisplay": "BLACK BELT",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Black Belt",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Black_Belt",
@@ -17,5 +17,5 @@
     "Black Belt",
     "Black-Belt (item)"
   ],
-  "updatedAt": 1773321198
+  "updatedAt": 1774524059
 }

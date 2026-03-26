@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4453244,
   "evidencePassMode": "second_pass",
   "response": {
@@ -37,21 +37,46 @@
         "text": "Makes sleep pass twice as quickly.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Halves sleep duration",
+        "evidence_ref": "Effect",
+        "specificity": 0.86
       }
     ],
     "crossword_candidates": [
       {
-        "text": "Gen III ability",
-        "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "text": "Halves sleep duration",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Wakes up unusually fast",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Quick-waking trait",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.8,
+        "style": "effect"
       }
     ],
-    "cryptic_definition_seeds": [],
-    "connections_descriptors": [],
+    "cryptic_definition_seeds": [
+      "fast sleeper",
+      "quick waking"
+    ],
+    "connections_descriptors": [
+      "Sleep-shortening abilities",
+      "Gen III abilities"
+    ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774257942
+  "updatedAt": 1774525964
 }

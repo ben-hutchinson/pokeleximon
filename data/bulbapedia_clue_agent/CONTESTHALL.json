@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4451471,
   "evidencePassMode": "second_pass",
   "response": {
@@ -12,9 +12,40 @@
         "text": "Sinnoh location",
         "evidence_ref": "lead",
         "specificity": 0.5
+      },
+      {
+        "text": "Building where Pokemon Contests are held",
+        "evidence_ref": "lead",
+        "specificity": 0.86
+      },
+      {
+        "text": "Workplace of Pokemon Contest judges",
+        "evidence_ref": "lead",
+        "specificity": 0.86
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Building where Pokemon Contests are held",
+        "evidence_ref": "lead",
+        "mystery_score": 0.8,
+        "specificity_score": 0.9,
+        "style": "theme"
+      },
+      {
+        "text": "Pokemon Contest venue",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "theme"
+      },
+      {
+        "text": "Workplace of Contest judges",
+        "evidence_ref": "lead",
+        "mystery_score": 0.76,
+        "specificity_score": 0.86,
+        "style": "theme"
+      },
       {
         "text": "Sinnoh landmark",
         "evidence_ref": "lead",
@@ -24,7 +55,7 @@
       }
     ],
     "cryptic_definition_seeds": [
-      "Pokemon location"
+      "contest venue"
     ],
     "connections_descriptors": [
       "Sinnoh landmarks"
@@ -32,5 +63,5 @@
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774257936
+  "updatedAt": 1774525960
 }

@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4503697,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Gulp Missile (Japanese: Gulp Missile) is an Ability introduced in Generation VIII. It is the signature Ability of Cramorant.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Cramorant",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation IX 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] If a Cramorant with Gulp Missile uses Surf or Dive , it catches prey and changes its form depending on its remaining HP. If its HP is over half, it catches an Arrokuda and changes into its Gulping Form . If its HP is under half, it instead catches a Pikachu and changes into its Gorging Form . If hit by an attack in either form, Cramorant spits out its catch at the attacker, dealing damage equal to of the attacker's maximum HP and inflicting a secondary effect depending on its catch: Arrokuda lowers the attacker's Defense by one stage, while Pikachu paralyzes it. Cramorant returns to its base form after spitting out its catch. If the attacker has Magic Guard , it will take no damage, but still trigger the cutscene and take the Defense drop or paralysis. If Cramorant Dynamaxes while it has a catch in its mouth, it reverts to its base form (without spitting its catch). Even if a Dynamaxed Cramorant uses Surf or Dive (only possible as a wild Pokemon in a Max Raid Battle ), it will not change into its Gulping or Gorging Form. Gastro Acid , Worry Seed , and Simple Beam fail if the target has Gulp Missile. Role Play , Skill Swap , Entrainment , and Doodle fail if either Pokemon has Gulp Missile. Gulp Missile cannot be copied by Trace or replace Receiver . Gulp Missile cannot be suppressed by Neutralizing Gas . Gulp Missile cannot be replaced by Mummy or Lingering Aroma . If a Pokemon with Imposter copies a Cramorant, or a Pokemon with Transform transforms into a Cramorant, Gulp Missile will not activate when using Surf or Dive . Generation IX [ edit | edit source ] Starting from Version 3.0.0 of Pokemon Scarlet and Violet , Gulp Missile can now be copied by Trace, be swapped using Skill Swap or Wandering Spirit , and replace Receiver. Outside of battle [ edit | edit source ] Gulp Missile has no effect outside of battle.",
@@ -36,48 +41,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "paralyzing ability",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "debuffing ability",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "paralyzing ability",
-        "evidence_ref": "In battle",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "debuffing ability",
-        "evidence_ref": "In battle",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "Gen VIII ability",
+        "text": "Cramorant's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
     "connections_descriptors": [
-      "Paralyzing abilities",
-      "Debuffing abilities"
+      "Gen VIII abilities"
     ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774257953
+  "updatedAt": 1774525971
 }

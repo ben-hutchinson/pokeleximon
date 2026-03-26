@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4499016,
-  "evidencePassMode": "first_pass",
+  "evidencePassMode": "second_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -32,9 +32,33 @@
         "text": "Evolution item",
         "evidence_ref": "lead",
         "specificity": 0.76
+      },
+      {
+        "text": "Evolves Alolan Sandshrew To Evolve Into Alolan Sandslash Causes Alolan Vulpix To Evolve Into Alolan Ninetales Causes Eevee into Glaceon",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      },
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "Acquisition",
+        "specificity": 0.74
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Tradable exchange item",
+        "evidence_ref": "Acquisition",
+        "mystery_score": 0.66,
+        "specificity_score": 0.8,
+        "style": "family"
+      },
+      {
+        "text": "Exchangeable collectible",
+        "evidence_ref": "Acquisition",
+        "mystery_score": 0.62,
+        "specificity_score": 0.78,
+        "style": "family"
+      },
       {
         "text": "Evolution item",
         "evidence_ref": "lead",
@@ -48,10 +72,34 @@
         "mystery_score": 0.54,
         "specificity_score": 0.8,
         "style": "family"
+      },
+      {
+        "text": "Evolves Alolan Sandshrew To Evolve Into Alolan Sandslash Causes Alolan Vulpix To Evolve Into Alolan Ninetales Causes Eevee into Glaceon",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.92,
+        "style": "effect"
+      },
+      {
+        "text": "Alolan Sandshrew To Evolve Into Alolan Sandslash Causes Alolan Vulpix To Evolve Into Alolan Ninetales Causes Eevee evolution item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Held item for Glaceon",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
       }
     ],
     "cryptic_definition_seeds": [
-      "evolution item"
+      "exchange item",
+      "evolution item",
+      "alolan sandshrew to evolve into alolan sandslash causes alolan vulpix to evolve into alolan ninetales causes eevee evolution",
+      "glaceon item"
     ],
     "connections_descriptors": [
       "Evolution items",
@@ -60,5 +108,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257956
+  "updatedAt": 1774525973
 }

@@ -3,7 +3,7 @@
   "answerDisplay": "RED NECTAR",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Red Nectar",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Red_Nectar",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] When used from the Bag on an Oricorio , it changes it to Baile Style . It can only be used outside of battle. It is consumed after use."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods S M US UM Ula'ula Meadow (×2, daily) S V Delibird Presents (after earning 3 Gym Badges ) Held by wild Oricorio (Baile Style) (5% chance)"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Red Nectar",
     "Red-Nectar (item)"
   ],
-  "updatedAt": 1773326305
+  "updatedAt": 1774524569
 }

@@ -3,28 +3,13 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4266630,
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
   "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
       {
-        "text": "Gen IX item",
-        "evidence_ref": "lead",
-        "specificity": 0.48
-      },
-      {
         "text": "gameplay",
-        "evidence_ref": "lead",
-        "specificity": 0.62
-      },
-      {
-        "text": "Gen IX gameplay",
-        "evidence_ref": "lead",
-        "specificity": 0.54
-      },
-      {
-        "text": "Effect [ edit | edit source ] The Teal Style Card gives the player more options at certain clothing stores and at hair salons.",
         "evidence_ref": "lead",
         "specificity": 0.62
       },
@@ -37,11 +22,6 @@
         "text": "Adventure utility item",
         "evidence_ref": "lead",
         "specificity": 0.58
-      },
-      {
-        "text": "Unlocks progression content",
-        "evidence_ref": "Description",
-        "specificity": 0.8
       }
     ],
     "crossword_candidates": [
@@ -60,20 +40,6 @@
         "style": "family"
       },
       {
-        "text": "Unlocks progression content",
-        "evidence_ref": "Description",
-        "mystery_score": 0.68,
-        "specificity_score": 0.82,
-        "style": "effect"
-      },
-      {
-        "text": "Progress-gating key item",
-        "evidence_ref": "Description",
-        "mystery_score": 0.64,
-        "specificity_score": 0.8,
-        "style": "effect"
-      },
-      {
         "text": "Adventure utility item",
         "evidence_ref": "lead",
         "mystery_score": 0.4,
@@ -82,14 +48,13 @@
       }
     ],
     "cryptic_definition_seeds": [
-      "unlocking item"
+      "battle item"
     ],
     "connections_descriptors": [
-      "Key items",
-      "Gen IX items"
+      "Key items"
     ],
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774258023
+  "updatedAt": 1774525999
 }

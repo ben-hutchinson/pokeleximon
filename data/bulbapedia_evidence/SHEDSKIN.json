@@ -3,7 +3,7 @@
   "answerDisplay": "SHED SKIN",
   "sourceType": "ability",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Shed Skin (Ability)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shed_Skin_(Ability)",
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD R B Recovers easily from status problems. MD T D S Helps the Pokémon recover more easily from status problems. B S L じぶんが こうどう したあとに わるいじょうたいが なおることがある Conq. The Pokémon may heal its own status ailments. MD GtI Sometimes heals the Pokémon's negative status conditions. * Sometimes it cures every single bad status condition the Pokémon has! * S MD Sometimes it cures every single bad status condition the Pokémon has! MD RT DX This Ability sometimes cures every bad status condition the Pokémon has."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Prior to becoming an Ability, Shed Skin appeared as a TCG Attack ."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Shed Skin",
     "Shed-Skin (Ability)"
   ],
-  "updatedAt": 1773326885
+  "updatedAt": 1774524696
 }

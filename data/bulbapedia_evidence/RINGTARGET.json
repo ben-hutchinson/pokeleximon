@@ -3,7 +3,7 @@
   "answerDisplay": "RING TARGET",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Ring Target",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ring_Target",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] The holder loses its type immunities to attacking moves. It does not affect other type-based immunities, such as Grass-type Pokémon being immune to powder and spore moves , but does make Ground-type Pokémon vulnerable to Thunder Wave . Flying-type Pokémon become vulnerable to Ground-type moves, but are otherwise considered ungrounded ."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods B W B2 W2 Opelucid City X Y OR AS Battle Maison (32 BP ) S M US UM Battle Tree (16 BP ) Sw Sh Stow-on-Side (bargain shop) Sw Sh IA Cram-o-matic ( Ghost : 32-40 points) S V Delibird Presents ( Levincia Branch, after completing the main storyline)"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Ring Target",
     "Ring-Target (item)"
   ],
-  "updatedAt": 1773326432
+  "updatedAt": 1774524590
 }

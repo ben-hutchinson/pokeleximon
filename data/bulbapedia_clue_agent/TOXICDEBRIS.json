@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4492289,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Toxic Debris (Japanese: Scattered Poison) is an Ability introduced in Generation IX. It is the signature Ability of Glimmet and Glimmora.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Glimmet And Glimmora",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with this Ability is hit by a physical move , Toxic Spikes are set on the opposing side of the field. If an attack would cause more than two layers of Toxic Spikes to be set or hits the substitute instead, the Ability does not activate. If a Pokemon with this Ability is hit by a physical multistrike move (such as Fury Swipes ), each hit will activate this Ability. Outside of battle [ edit | edit source ] Toxic Debris has no effect outside of battle.",
@@ -48,6 +53,13 @@
         "mystery_score": 0.56,
         "specificity_score": 0.66,
         "style": "effect"
+      },
+      {
+        "text": "Glimmet And Glimmora's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
     "cryptic_definition_seeds": [
@@ -60,5 +72,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774258026
+  "updatedAt": 1774526001
 }

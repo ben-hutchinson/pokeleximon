@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4514101,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Aroma Veil (Japanese: Aroma Veil) is an Ability introduced in Generation VI. Prior to Generation VIII, it was the signature Ability of Spritzee and Aromatisse.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Spritzee And Aromatisse",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Aroma Veil prevents the Pokemon with this Ability and its allies (including non-adjacent allies) from being afflicted by Taunt , Torment , Encore , Disable , Cursed Body , Heal Block and Psychic Noise , and infatuation . Despite being a move that also prevents the use of moves, Imprison is not affected by this Ability. Psychic Noise will only inflict damage; its secondary effect will not activate against Pokemon with this Ability. Outside of battle [ edit | edit source ] Aroma Veil has no effect outside of battle.",
@@ -46,6 +51,13 @@
         "mystery_score": 0.56,
         "specificity_score": 0.66,
         "style": "effect"
+      },
+      {
+        "text": "Spritzee And Aromatisse's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       },
       {
         "text": "Protects allies from mental moves",
@@ -82,5 +94,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257926
+  "updatedAt": 1774525954
 }

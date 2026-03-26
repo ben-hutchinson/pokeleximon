@@ -3,7 +3,7 @@
   "answerDisplay": "ROOM SERVICE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Room Service",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Room_Service",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] If the move Trick Room is used while a Pokémon is holding Room Service, the Room Service is consumed, causing the holder's Speed to drop by one stage. Additionally, Room Service will also be consumed if a Pokémon holding it switches in while Trick Room is already in effect, similar to Electric Seed and the other terrain seeds."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods Sw Sh Battle Tower (15 BP ) Sw Sh IA Cram-o-matic ( Fairy : 62-70 points) Sw Sh CT Giant's Bed S V Delibird Presents ( Levincia Branch, after completing the main storyline)"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Room Service",
     "Room-Service (item)"
   ],
-  "updatedAt": 1773326507
+  "updatedAt": 1774524630
 }

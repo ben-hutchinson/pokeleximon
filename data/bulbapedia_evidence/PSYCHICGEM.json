@@ -3,7 +3,7 @@
   "answerDisplay": "PSYCHIC GEM",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Psychic Gem",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Psychic_Gem",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Generation V [ edit | edit source ] When held by a Pokémon, it increases the power of the first Psychic-type move used by 50%, and is consumed after use. Fling will fail if the user is holding a Psychic Gem. Generation VI onward [ edit | edit source ] When held by a Pokémon, it increases the power of the first Psychic-type move used by 30%, and is consumed after use."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods B W Dust cloud B2 W2 Dreamyard Dust cloud ( Chargestone Cave , Mistralton Cave , Clay Tunnel , Twist Mountain , Underground Ruins , Victory Road , Wellspring Cave , Seaside Cave , Giant Chasm ) DW * Icy Cave"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Psychic Gem",
     "Psychic-Gem (item)"
   ],
-  "updatedAt": 1773326080
+  "updatedAt": 1774524531
 }

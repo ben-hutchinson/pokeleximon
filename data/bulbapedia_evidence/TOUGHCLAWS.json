@@ -3,12 +3,12 @@
   "answerDisplay": "TOUGH CLAWS",
   "sourceType": "ability",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Tough Claws (Ability)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Tough_Claws_(Ability)",
   "pageId": 183536,
-  "pageRevisionId": 4497727,
+  "pageRevisionId": 4512559,
   "leadText": "Tough Claws (Japanese: かたいツメ Tough Claws) is an Ability introduced in Generation VI.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description S MD Contact moves such as Take Down and Scratch become more powerful! MD RT DX Contact moves, such as Take Down and Scratch, become more powerful."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Tough Claws is the Ability of three Mega-Evolved Pokémon, tying with Magic Bounce for the most common Ability amongst Mega-Evolved Pokémon."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Tough Claws",
     "Tough-Claws (Ability)"
   ],
-  "updatedAt": 1773328040
+  "updatedAt": 1774524831
 }

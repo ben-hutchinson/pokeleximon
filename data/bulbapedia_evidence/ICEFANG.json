@@ -3,12 +3,12 @@
   "answerDisplay": "ICE FANG",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Ice Fang (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ice_Fang_(move)",
   "pageId": 12433,
-  "pageRevisionId": 4452066,
+  "pageRevisionId": 4511314,
   "leadText": "Ice Fang (Japanese: こおりのキバ Ice Fang) is a damage-dealing Ice-type move introduced in Generation IV. It is: TM67 in Pokémon Sword and Shield. TM010 in Pokémon Scarlet and Violet. TM015 in Pokémon Legends: Z-A. It can be thought of as a counterpart to Fire Fang and Thunder Fang, having similar names and effects.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Frozen status condition or a Cringe status condition. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで こおりじょうたい ひるみじょうたいに かえる MD GtI It damages an enemy. It could also cause the Frozen or Cringe status condition. S MD It damages an enemy. It could make the enemy frozen or cause it to flinch."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Ice Fang is the only Ice-type move not to be Beautiful ."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Ice Fang",
     "Ice-Fang (move)"
   ],
-  "updatedAt": 1773323788
+  "updatedAt": 1774524285
 }

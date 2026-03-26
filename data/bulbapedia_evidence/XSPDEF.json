@@ -3,7 +3,7 @@
   "answerDisplay": "X SP DEF",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "X Sp. Def",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/X_Sp._Def",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Generations IV to VI [ edit | edit source ] When used from the Bag during battle, it raises the Special Defense of a Pokémon currently in battle by 1 level. In Generation VI , it also increases the Pokémon's friendship a little. Generation VII onward [ edit | edit source ] When used from the Bag during battle, it raises the Special Defense of a Pokémon currently in battle by 2 levels. It also increases the Pokémon's friendship a little."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Route 205 Pt Veilstone Department Store HG SS Team Rocket HQ Goldenrod Department Store , Celadon Department Store PW Suburban Area , Town Outskirts B W Nacrene City , Shopping Mall Nine B2 W2 Castelia Sewers Nacrene City , Shopping Mall Nine Join Avenue ( Market ) X Y Route 7 , Frost Cavern Santalune City Poké Mart OR AS Slateport City Poké Mart , Lilycove Department Store (Level 3) S M US UM Paniola Ranch US UM , Ula'ula Meadow , Vast Poni Canyon US UM Route 2 , Route 5 US UM , Route 8 , and Hau'oli Poké Marts Festival Plaza ( Battle Store ) M UM P E Route 24 , Saffron City , Power Plant All Poké Marts (after obtaining 1 Badge ), Celadon Department Store Sw Sh Hulbury Motostoke Poké Mart BD SP Veilstone Department Store S V Alfornada , Glaseado Mountain , East Province (Area Three) , North Province (Area One) , North Province (Area Two) , South Province (Area Three) , South Province (Area Four) , South Province (Area Five) , South Province (Area Six) , West Province (Area One) , West Province (Area Two) Chansey Supply S V TM Infernal Pass , Mossfell Confluence S V ID Savanna Biome Vending machines ( Terarium )"
     },
     {
       "title": "Description",
@@ -34,5 +38,5 @@
     "X Sp Def",
     "X-Sp-Def (item)"
   ],
-  "updatedAt": 1773328619
+  "updatedAt": 1774524932
 }

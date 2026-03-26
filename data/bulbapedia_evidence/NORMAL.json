@@ -3,17 +3,21 @@
   "answerDisplay": "NORMAL",
   "sourceType": "type",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Normal (type)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Normal_(type)",
   "pageId": 1090,
-  "pageRevisionId": 4501180,
+  "pageRevisionId": 4513201,
   "leadText": "Normal redirects here. For the glitch Normal type, see List of glitch types in Generation II → Normal. For one of the ranges a move can have, see Range. The Normal type (Japanese: ノーマルタイプ Normal type) is one of the eighteen types. Normal-type moves are not super effective against any Pokémon, while Normal-type Pokémon are weak to Fighting-type moves.",
   "sections": [
     {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Generation I introduced the most Normal-type Pokémon of any generation , with 22 (24 if Clefairy and Clefable , who had their type changed from Generation VI onward, are counted). Generation VI introduced the fewest Normal-type Pokémon, with eight. Generation I introduced the most Normal-type moves of any generation, with 78 (counting Gust , Karate Chop , Bite , and Sand-Attack , which had their type changed from Generation II onward). Generation VI introduced the fewest Normal-type moves, with eight. With 202 Normal-type moves , this type has the most moves available. Additionally, there are two unique Normal-type Max Moves ( Max Strike and Max Guard , not including G-Max Moves ), the most of any type. The Normal type is the only type that has more moves than Pokémon. The Normal type is tied with the Electric type for the fewest defensive weaknesses, with them both having just one. The Normal type is the only type that does not have any resistances. On average, Normal-type Pokémon have the lowest base Defense of all types. The Normal type is the only type that is not super effective against any other type. The Normal type has the fewest non-neutral type relations, with only four. It takes non-neutral damage from the least types, those being two, and is tied with Dragon for dealing non-neutral damage to the least types, those being three. Interestingly, it seems the Normal type was originally going to be super effective against the Dark type, as seen in the Pokémon Gold and Silver Spaceworld demo. This may have merely been a placeholder type matchup, however. Ghost and Normal are the only types that are mutually immune to each other. No Pokémon gains the Normal type upon evolving . It shares this distinction with the Bug type. Additionally, no Pokémon gains the Normal type upon changing forms, unless it is reverting to its base form. Normal/ Flying is the most abundant dual-type combination. Normal has the most unused type combinations at four, as there are no Normal-type Pokémon that are also part Steel , Rock , Bug , and Ice . This makes Normal the only type that has not been paired up with Steel . In contests , the Normal type has the most moves that can jam . Generation VI added the most new type combinations for Normal, the most dual-typed Normal Pokémon (if Pokémon retyped as Normal/ Fairy are counted), the first dual-typed Pokémon with Normal as a secondary type, and the fewest Normal/Flying-type Pokémon (with only one ) of any generation that introduced Pokémon with that type combination; Generation VIII did not introduce any. Prior to Generation VI, Normal was only present as a secondary type for Pokéstar Studio opponents, or on Glitch Pokémon (notably Red/Blue MissingNo. ). Normal is the only type to have ever lost Pokémon, having lost Clefairy, Clefable, Cleffa , Togepi , Togetic , Snubbull , Granbull , and Togekiss when the Fairy type was introduced in Generation VI . Additionally, it is the only type to have the same number of Pokémon in two consecutive generations. For the purpose of the Purify Chamber , Normal is considered strong against itself, even though in battle, it is not. The Normal-type is frequently associated with type changing: More Pokémon lose the Normal type upon evolving than any other type, with a total of five (twelve if all of Eevee 's Evolutions are counted separately). Eight Normal-type Pokémon have at least one signature move or a signature Ability which involves changing their type. Most moves which involve changing the user's type or with a varying damage type are Normal-type. Most Abilities that change a move's type affect Normal-type moves. Normal-type attacks are completely unresisted during an Inverse Battle . Normal is the only type with no Paradox Pokémon . Ash Ketchum has never beaten a Normal-type Gym Leader on his first try in the animated series . In Pokémon Shuffle , Normal is the only type that lacks immunities to status conditions ."
+      "title": "Battle properties",
+      "text": "Battle properties [ edit | edit source ] Note: Type effectiveness multipliers may vary in other games outside the core series . Offensive properties of Normal-type moves Super effective (×2) Not very effective (×½) No effect (×0) None Rock Steel Ghost Defensive properties of Normal-type Pokémon Weak to (×2) Resists (×½) Immune to (×0) Fighting None Ghost The Steel type was introduced in Generation II . Additional effects [ edit | edit source ] If the user has the Ability Scrappy or Mind's Eye , or the target is under the effect of the moves Foresight or Odor Sleuth , Normal-type moves will deal ×1 damage to Ghost-type Pokémon . In Generation I , Normal-type Pokémon cannot be paralyzed by Body Slam . Normal-type Pokémon are also affected by Night Shade , despite the move being Ghost-type, which the Normal type is normally immune to. From Generation II onwards, Normal-type Pokémon can be paralyzed by Body Slam and are unaffected by Night Shade."
+    },
+    {
+      "title": "Additional effects",
+      "text": "Additional effects [ edit | edit source ] If the user has the Ability Scrappy or Mind's Eye , or the target is under the effect of the moves Foresight or Odor Sleuth , Normal-type moves will deal ×1 damage to Ghost-type Pokémon . In Generation I , Normal-type Pokémon cannot be paralyzed by Body Slam . Normal-type Pokémon are also affected by Night Shade , despite the move being Ghost-type, which the Normal type is normally immune to. From Generation II onwards, Normal-type Pokémon can be paralyzed by Body Slam and are unaffected by Night Shade."
     }
   ],
   "familyPages": [],
@@ -22,5 +26,5 @@
     "Normal (type)",
     "Normal type"
   ],
-  "updatedAt": 1773325405
+  "updatedAt": 1774524413
 }

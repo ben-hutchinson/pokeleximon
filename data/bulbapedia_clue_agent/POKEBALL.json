@@ -3,8 +3,8 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4492448,
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
   "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
@@ -19,56 +19,12 @@
         "specificity": 0.62
       },
       {
-        "text": "Thrown far and works on high-flying targets",
-        "evidence_ref": "lead",
-        "specificity": 0.88
-      },
-      {
-        "text": "Best on unnoticed targets",
-        "evidence_ref": "lead",
-        "specificity": 0.88
-      },
-      {
-        "text": "Safari-zone capture tool",
-        "evidence_ref": "lead",
-        "specificity": 0.88
-      },
-      {
         "text": "Special Poke Ball",
         "evidence_ref": "lead",
         "specificity": 0.68
-      },
-      {
-        "text": "Bug-Catching Contest ball",
-        "evidence_ref": "lead",
-        "specificity": 0.9
-      },
-      {
-        "text": "Poor catch rate on most targets",
-        "evidence_ref": "Description",
-        "specificity": 0.82
-      },
-      {
-        "text": "Unlocks progression content",
-        "evidence_ref": "Description",
-        "specificity": 0.8
       }
     ],
     "crossword_candidates": [
-      {
-        "text": "Unlocks progression content",
-        "evidence_ref": "Description",
-        "mystery_score": 0.68,
-        "specificity_score": 0.82,
-        "style": "effect"
-      },
-      {
-        "text": "Progress-gating key item",
-        "evidence_ref": "Description",
-        "mystery_score": 0.64,
-        "specificity_score": 0.8,
-        "style": "effect"
-      },
       {
         "text": "Special Poke Ball",
         "evidence_ref": "lead",
@@ -82,68 +38,10 @@
         "mystery_score": 0.5,
         "specificity_score": 0.66,
         "style": "family"
-      },
-      {
-        "text": "Long-range catcher for flying targets",
-        "evidence_ref": "lead",
-        "mystery_score": 0.8,
-        "specificity_score": 0.9,
-        "style": "effect"
-      },
-      {
-        "text": "Catcher for high-flying targets",
-        "evidence_ref": "lead",
-        "mystery_score": 0.78,
-        "specificity_score": 0.88,
-        "style": "effect"
-      },
-      {
-        "text": "Best on unwary targets",
-        "evidence_ref": "lead",
-        "mystery_score": 0.78,
-        "specificity_score": 0.88,
-        "style": "effect"
-      },
-      {
-        "text": "Stealth capture tool",
-        "evidence_ref": "lead",
-        "mystery_score": 0.72,
-        "specificity_score": 0.84,
-        "style": "effect"
-      },
-      {
-        "text": "Safari Zone catcher",
-        "evidence_ref": "lead",
-        "mystery_score": 0.76,
-        "specificity_score": 0.88,
-        "style": "effect"
-      },
-      {
-        "text": "Great Marsh capture tool",
-        "evidence_ref": "lead",
-        "mystery_score": 0.72,
-        "specificity_score": 0.86,
-        "style": "effect"
-      },
-      {
-        "text": "Bug-Catching Contest ball",
-        "evidence_ref": "lead",
-        "mystery_score": 0.76,
-        "specificity_score": 0.9,
-        "style": "family"
-      },
-      {
-        "text": "National Park contest ball",
-        "evidence_ref": "lead",
-        "mystery_score": 0.72,
-        "specificity_score": 0.88,
-        "style": "family"
       }
     ],
     "cryptic_definition_seeds": [
-      "unlocking item",
-      "special ball",
-      "contest ball"
+      "special ball"
     ],
     "connections_descriptors": [
       "Special Poke Balls"
@@ -151,5 +49,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257994
+  "updatedAt": 1774525987
 }

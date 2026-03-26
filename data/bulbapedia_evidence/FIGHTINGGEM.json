@@ -3,7 +3,7 @@
   "answerDisplay": "FIGHTING GEM",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Fighting Gem",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fighting_Gem",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Generation V [ edit | edit source ] When held by a Pokémon, it increases the power of the first Fighting-type move used by 50%, and is consumed after use. Fling will fail if the user is holding a Fighting Gem. Generation VI onward [ edit | edit source ] When held by a Pokémon, it increases the power of the first Fighting-type move used by 30%, and is consumed after use."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods B W Event Dust cloud B2 W2 Pinwheel Forest Dust cloud ( Chargestone Cave , Mistralton Cave , Clay Tunnel , Twist Mountain , Underground Ruins , Victory Road , Wellspring Cave , Seaside Cave , Giant Chasm ) DW * Icy Cave Distribution [ edit | edit source ] As a held item [ edit | edit source ] Games Event Language/Region Distribution period B W Trade for Evolution! Pokémon Japanese October 10 to November 28, 2010 B W B2 W2 Do Heun's Hitmontop Korean August 17 to 18, 2013"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Fighting Gem",
     "Fighting-Gem (item)"
   ],
-  "updatedAt": 1773322780
+  "updatedAt": 1774524191
 }

@@ -3,12 +3,12 @@
   "answerDisplay": "WATER ABSORB",
   "sourceType": "ability",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Water Absorb (Ability)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Water_Absorb_(Ability)",
   "pageId": 4088,
-  "pageRevisionId": 4486634,
+  "pageRevisionId": 4512159,
   "leadText": "Water Absorb (Japanese: ちょすい Water Storage) is an Ability introduced in Generation III.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD R B Restores HP if hit by a Water-type move. MD T D S Restores the Pokémon's HP if the Pokémon is hit by a Water-type move. B S L みずタイプの わざを うけると ＨＰが かいふくする Conq. Restores HP if hit by a Water-type move. MD GtI Water-type moves restore HP instead of damaging the Pokémon. * The Pokémon absorbs Water-type moves, which restore its HP! * S MD The Pokémon absorbs Water-type moves, which restore its HP! MD RT DX The Pokémon absorbs Water-type moves to restore its HP."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Water Absorb is the first Ability of its variations to be shown in the animated series ."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Water Absorb",
     "Water-Absorb (Ability)"
   ],
-  "updatedAt": 1773328406
+  "updatedAt": 1774524868
 }

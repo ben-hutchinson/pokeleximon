@@ -3,7 +3,7 @@
   "answerDisplay": "POWER BELT",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Power Belt",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Power_Belt",
@@ -20,6 +20,10 @@
       "text": "In battle [ edit | edit source ] Generation IV-VI [ edit | edit source ] A Pokémon holding this item gains 4 Defense EVs whenever it gains experience in battle (EVs are awarded for each Pokémon knocked out in Horde Battles despite experience being gained all at once); its effect is doubled by Pokérus . (In Generation IV , level 100 Pokémon cannot gain EVs in battle; from Generation V onward, they gain EVs whenever they would earn experience.) The Speed stat of the Pokémon holding this item is halved in battle. Generation VII onwards [ edit | edit source ] A Pokémon holding this item now gains 8 Defense EVs instead of 4 whenever it gains experience during battle."
     },
     {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Battle Park D P / Battle Frontier Pt (16 BP ) HG SS Battle Frontier (16 BP ) B W Battle Subway (16 BP ) B2 W2 Plasma Frigate W2 Battle Subway / PWT (16 BP ) X Y OR AS Battle Maison (16 BP ) PMC * Graffiti Eraser (Lv. 2) S M US UM Royal Avenue US UM Battle Royal Dome (16 BP ) Sw Sh Hammerlocke (10 BP ) Wild Area News BD SP Battle Park (10 BP ) S V Delibird Presents ZA Side Mission 039: Slowpoke for Slowpoke Quasartico Inc."
+    },
+    {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description D P Pt A Pokémon hold item that promotes Defense gain on leveling, but reduces the Speed stat. HG SS B W B2 W2 A Pokémon held item that promotes Defense gain on leveling, but reduces the Speed stat. X Y OR AS S M US UM P E Sw Sh BD SP LA An item to be held by a Pokémon. It reduces Speed but allows the holder's Defense stat to grow more after battling. S V An item to be held by a Pokémon. Holding this belt reduces a Pokémon's Speed in battle but allows its Defense stat to grow more quickly."
     },
@@ -34,5 +38,5 @@
     "Power Belt",
     "Power-Belt (item)"
   ],
-  "updatedAt": 1773325997
+  "updatedAt": 1774524495
 }

@@ -8,7 +8,7 @@ from typing import Any
 from crossword.clue_fact_extractor import extract_clue_facts
 from crossword.clue_surface_generator import generate_curated_payload
 
-CURATOR_VERSION = "local-curator-v20"
+CURATOR_VERSION = "local-curator-v23"
 
 
 def cache_path(cache_dir: Path, answer_key: str) -> Path:

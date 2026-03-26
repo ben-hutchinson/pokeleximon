@@ -3,7 +3,7 @@
   "answerDisplay": "LIGHT CLAY",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Light Clay",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Light_Clay",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] If the Pokémon holding this item uses Light Screen , Reflect , or Aurora Veil , the effects of those moves last eight turns instead of five turns. If one of these moves is stolen by Snatch , the duration depends on whether the Pokémon that ultimately uses the move holds the Light Clay (regardless of whether the original user held it). In the Generation VII games, if these effects have their duration extended by the Light Clay, the turn counter on the user interface for these effects will indicate that it lasts for 8 turns for the player whose Pokémon used the move, while it will display that it lasts for 5 turns for their opponent. After 5 turns of that effect have passed, the user interface will display that it lasts for 8 turns for both players."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Mt. Coronet Underground HG SS Route 9 PBR Shop (7200 Poké Coupons ) B W Held by wild Golett (5% chance) B2 W2 Route 4 W2 Held by wild Golurk (5% chance) DW * Icy Cave X Y Held by wild Golett and wild Golurk (5% chance each) OR AS Held by wild Baltoy and wild Claydol (5% chance each) S M US UM Sandy Cave US UM Poké Pelago (Isle Aphun - Brilliant-Stone Hunting, Interesting-Item Hunting) Held by wild Baltoy UM , wild Golett US , wild Mudbray , and wild Mudsdale (5% chance each) Sw Sh Route 6 Bridge Field ( Digging Duo ) Battle Tower (15 BP ) Held by wild Baltoy , wild Claydol , wild Golett , wild Golurk , wild Mudbray , and wild Mudsdale (5% chance each) Sw Sh IA Cram-o-matic ( Ground : 52-60 points) Sw Sh CT Hidden recurring item ( Ballimere Lake ) BD SP Mount Coronet Grand Underground Battle Park (15 BP ) S V Alfornada Delibird Presents ( Cascarrafa branch) S V ID Item Printer Distribution [ edit | edit source ] As a held item [ edit | edit source ] Games Event Language/Region Distribution period S V Chaiyawat Traiwichcha's Grimmsnarl All July 27 to August 18, 2023"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Light Clay",
     "Light-Clay (item)"
   ],
-  "updatedAt": 1773324391
+  "updatedAt": 1774524344
 }

@@ -8,6 +8,13 @@ SCHEDULER_FILE = Path(__file__).resolve().parents[1] / "app" / "core" / "schedul
 
 
 class SchedulerRefreshTests(unittest.TestCase):
+    def test_scheduler_declares_draft_generation_job_and_cron_builder(self):
+        source = SCHEDULER_FILE.read_text(encoding="utf-8")
+        self.assertIn("_build_draft_generation_trigger", source)
+        self.assertIn("_generate_daily_drafts", source)
+        self.assertIn('id="draft_generation"', source)
+        self.assertIn("DRAFT_GENERATION_CRON", source)
+
     def test_scheduler_declares_refresh_job_and_cron_builder(self):
         source = SCHEDULER_FILE.read_text(encoding="utf-8")
         self.assertIn("_build_refresh_trigger", source)

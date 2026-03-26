@@ -1,23 +1,40 @@
 from __future__ import annotations
 
 from datetime import date as date_type
-from datetime import datetime
+from datetime import datetime, timedelta
 from typing import Literal
-from fastapi import APIRouter, Depends, HTTPException, Query
+from fastapi import APIRouter, Body, Depends, HTTPException, Query
 from zoneinfo import ZoneInfo
 
-from app.api.v1.models import JobResponse
+from app.api.v1.models import DraftPuzzleResponse, DraftUpdateRequest, DraftValidationResponse, JobResponse
 from app.core import config
 from app.core.observability import capture_exception
 from app.core.security import require_admin_auth
 from app.data import repo
-from app.services.reserve_generator import QualityGateError, generate_cryptic_preview, generate_puzzle_for_date, top_up_reserve
+from app.data.repo import DraftValidationError
+from app.services.reserve_generator import (
+    QualityGateError,
+    generate_cryptic_preview,
+    generate_draft_for_date,
+    generate_puzzle_for_date,
+    top_up_reserve,
+)
 
 router = APIRouter(prefix="/admin", tags=["admin"], dependencies=[Depends(require_admin_auth)])
 
 
+def _resolve_target_date(date_value: str | None) -> date_type:
+    if date_value is None:
+        tz = ZoneInfo(config.TIMEZONE)
+        return datetime.now(tz).date() + timedelta(days=1)
+    try:
+        return date_type.fromisoformat(date_value)
+    except ValueError as exc:
+        raise HTTPException(status_code=400, detail="Invalid date format. Expected YYYY-MM-DD.") from exc
+
+
 @router.post("/generate", response_model=JobResponse)
-def generate_puzzle(date: str, gameType: Literal["crossword", "cryptic", "connections"], force: bool = False):
+def generate_puzzle(date: str, gameType: Literal["connections"], force: bool = False):
     try:
         target_date = date_type.fromisoformat(date)
     except ValueError as exc:
@@ -39,10 +56,75 @@ def generate_puzzle(date: str, gameType: Literal["crossword", "cryptic", "connec
     return {"jobId": result["jobId"], "status": result["status"]}
 
 
+@router.post("/drafts/generate")
+def generate_draft(date: str | None = None, gameType: Literal["crossword", "cryptic"] = Query(...)):
+    target_date = _resolve_target_date(date)
+    try:
+        return generate_draft_for_date(
+            game_type=gameType,
+            target_date=target_date,
+            timezone=config.TIMEZONE,
+        )
+    except Exception as exc:
+        capture_exception(exc)
+        raise HTTPException(status_code=500, detail="Draft generation failed") from exc
+
+
+@router.get("/drafts", response_model=DraftPuzzleResponse)
+def get_draft(date: str | None = None, gameType: Literal["crossword", "cryptic"] = Query(...)):
+    target_date = _resolve_target_date(date)
+    item = repo.get_draft_by_date(game_type=gameType, date_value=target_date)
+    if item is None:
+        raise HTTPException(status_code=404, detail="Draft not found")
+    return {"item": item}
+
+
+@router.put("/drafts/{puzzle_id}", response_model=DraftPuzzleResponse)
+def save_draft(puzzle_id: str, payload: DraftUpdateRequest = Body(...)):
+    try:
+        item = repo.save_draft_puzzle(
+            puzzle_id=puzzle_id,
+            entry_updates=[row.model_dump() for row in payload.entries],
+            editor=payload.metadata.editor,
+            notes=payload.metadata.notes,
+        )
+    except ValueError as exc:
+        raise HTTPException(status_code=422, detail=str(exc)) from exc
+    if item is None:
+        raise HTTPException(status_code=404, detail="Draft not found")
+    return {"item": item}
+
+
+@router.post("/drafts/{puzzle_id}/validate", response_model=DraftValidationResponse)
+def validate_draft(puzzle_id: str):
+    item = repo.validate_draft_puzzle(puzzle_id)
+    if item is None:
+        raise HTTPException(status_code=404, detail="Draft not found")
+    return item
+
+
+@router.post("/drafts/{puzzle_id}/publish", response_model=DraftValidationResponse)
+def publish_draft(
+    puzzle_id: str,
+    contestMode: bool | None = Query(default=None),
+):
+    try:
+        item = repo.publish_draft_puzzle(
+            puzzle_id=puzzle_id,
+            timezone=config.TIMEZONE,
+            contest_mode=contestMode,
+        )
+    except DraftValidationError as exc:
+        raise HTTPException(status_code=422, detail=exc.detail) from exc
+    if item is None:
+        raise HTTPException(status_code=404, detail="Draft not found")
+    return item
+
+
 @router.post("/publish")
 def publish_puzzle(
     date: str,
-    gameType: Literal["crossword", "cryptic", "connections"],
+    gameType: Literal["connections"],
     contestMode: bool | None = Query(default=None),
 ):
     return repo.publish_next_from_reserve(
@@ -56,7 +138,7 @@ def publish_puzzle(
 
 @router.post("/publish/daily")
 def publish_daily(
-    gameType: Literal["crossword", "cryptic", "connections"],
+    gameType: Literal["connections"],
     date: str | None = None,
     contestMode: bool | None = Query(default=None),
 ):
@@ -75,7 +157,7 @@ def publish_daily(
 
 @router.post("/publish/rollback")
 def rollback_daily_publish(
-    gameType: Literal["crossword", "cryptic", "connections"],
+    gameType: Literal["connections"],
     date: str | None = None,
     sourceDate: str | None = None,
     reason: str = Query(default="manual rollback"),
@@ -100,8 +182,8 @@ def rollback_daily_publish(
 
 
 @router.get("/reserve")
-def reserve_status(gameType: Literal["crossword", "cryptic", "connections"] | None = None):
-    game_types = (gameType,) if gameType else ("crossword", "cryptic", "connections")
+def reserve_status(gameType: Literal["connections"] | None = None):
+    game_types = (gameType,) if gameType else ("connections",)
     items = [
         repo.get_reserve_status(
             game_type=gt,
@@ -129,10 +211,10 @@ def cryptic_clue_feedback_summary(
 
 @router.post("/reserve/topup")
 def topup_reserve(
-    gameType: Literal["crossword", "cryptic", "connections"] | None = Query(default=None),
+    gameType: Literal["connections"] | None = Query(default=None),
     targetCount: int | None = Query(default=None, ge=1, le=365),
 ):
-    game_types = (gameType,) if gameType else ("crossword", "cryptic", "connections")
+    game_types = (gameType,) if gameType else ("connections",)
     target = targetCount if targetCount is not None else config.RESERVE_TARGET_COUNT
     items = []
     errors = []

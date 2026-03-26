@@ -3,12 +3,12 @@
   "answerDisplay": "ICE PUNCH",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Ice Punch (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ice_Punch_(move)",
   "pageId": 3616,
-  "pageRevisionId": 4485255,
+  "pageRevisionId": 4512911,
   "leadText": "Ice Punch (Japanese: れいとうパンチ Freezing Punch) is a damage-dealing Ice-type move introduced in Generation I. It is: TM33 in Generation II. TM35 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TM04 in Pokémon Sword and Shield. TM069 in Pokémon Scarlet and Violet. TM024 in Pokémon Legends: Z-A. It can be thought of as a counterpart to Fire Punch and Thunder Punch, having similar names and effects.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also leave the target frozen and incapable of action. MD T D S Inflicts damage on the target. It may also afflict the targeted enemy with a Frozen status condition. A Pokémon with the Frozen status is incapable of action. B S L てきポケモンに ダメージをあたえる いっていのかくりつで こおりじょうたいにかえる こおりじょうたいの ポケモンは こうどうできない MD GtI UNUSED S MD It damages an enemy. It could also make the enemy frozen."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Blaziken using Ice Punch Wooper can learn this move despite lacking hands. During the Omega Ruby and Alpha Sapphire pre-release period, Blaziken was shown to be able to use this move. However, the Official Japanese Pokémon website posted an apology shortly after the games' release confirming Blaziken could not know the move after all."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Ice Punch",
     "Ice-Punch (move)"
   ],
-  "updatedAt": 1773323804
+  "updatedAt": 1774524294
 }

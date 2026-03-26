@@ -3,7 +3,7 @@
   "answerDisplay": "GHOST",
   "sourceType": "type",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Ghost",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ghost",
@@ -17,5 +17,5 @@
     "Ghost (type)",
     "Ghost type"
   ],
-  "updatedAt": 1773323158
+  "updatedAt": 1774524234
 }

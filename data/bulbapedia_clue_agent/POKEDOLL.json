@@ -3,61 +3,39 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4492803,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
-      {
-        "text": "Gen I item",
-        "evidence_ref": "lead",
-        "specificity": 0.48
-      },
       {
         "text": "spelunking",
         "evidence_ref": "lead",
         "specificity": 0.62
       },
       {
-        "text": "Gen I spelunking",
-        "evidence_ref": "lead",
-        "specificity": 0.54
-      },
-      {
         "text": "Ends a wild battle.",
         "evidence_ref": "lead",
         "specificity": 0.62
-      },
-      {
-        "text": "Tradable exchange item",
-        "evidence_ref": "Acquisition",
-        "specificity": 0.74
       }
     ],
     "crossword_candidates": [
       {
-        "text": "Tradable exchange item",
-        "evidence_ref": "Acquisition",
-        "mystery_score": 0.66,
-        "specificity_score": 0.8,
-        "style": "family"
-      },
-      {
-        "text": "Exchangeable collectible",
-        "evidence_ref": "Acquisition",
-        "mystery_score": 0.62,
-        "specificity_score": 0.78,
-        "style": "family"
+        "text": "spelunking",
+        "evidence_ref": "lead",
+        "mystery_score": 0.35,
+        "specificity_score": 0.52,
+        "style": "category"
       }
     ],
     "cryptic_definition_seeds": [
-      "exchange item"
+      "spelunking"
     ],
     "connections_descriptors": [
-      "Gen I items"
+      "Spelunking"
     ],
     "risk_flags": [],
-    "confidence": 0.78
+    "confidence": 0.68
   },
-  "updatedAt": 1774257994
+  "updatedAt": 1774525987
 }

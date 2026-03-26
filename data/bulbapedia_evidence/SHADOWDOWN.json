@@ -3,7 +3,7 @@
   "answerDisplay": "SHADOW DOWN",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Shadow Down (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Down_(move)",
@@ -26,5 +26,5 @@
     "Shadow Down",
     "Shadow-Down (move)"
   ],
-  "updatedAt": 1773326833
+  "updatedAt": 1774524673
 }

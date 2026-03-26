@@ -1,61 +1,18 @@
 {
   "answerKey": "LUMIOSE",
-  "status": "ok",
+  "status": "no_candidates",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4501299,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
-    "fact_nuggets": [
-      {
-        "text": "city landmark",
-        "evidence_ref": "lead",
-        "specificity": 0.64
-      },
-      {
-        "text": "gate landmark",
-        "evidence_ref": "lead",
-        "specificity": 0.64
-      },
-      {
-        "text": "route landmark",
-        "evidence_ref": "lead",
-        "specificity": 0.64
-      },
-      {
-        "text": "tower landmark",
-        "evidence_ref": "lead",
-        "specificity": 0.64
-      },
-      {
-        "text": "urban landmark",
-        "evidence_ref": "lead",
-        "specificity": 0.56
-      },
-      {
-        "text": "tower landmark",
-        "evidence_ref": "lead",
-        "specificity": 0.74
-      }
-    ],
-    "crossword_candidates": [
-      {
-        "text": "Urban landmark",
-        "evidence_ref": "lead",
-        "mystery_score": 0.42,
-        "specificity_score": 0.58,
-        "style": "theme"
-      }
-    ],
-    "cryptic_definition_seeds": [
-      "Pokemon location"
-    ],
-    "connections_descriptors": [
-      "Pokemon locations"
-    ],
+    "fact_nuggets": [],
+    "crossword_candidates": [],
+    "cryptic_definition_seeds": [],
+    "connections_descriptors": [],
     "risk_flags": [],
-    "confidence": 0.77
+    "confidence": 0.25
   },
-  "updatedAt": 1774257966
+  "updatedAt": 1774525978
 }

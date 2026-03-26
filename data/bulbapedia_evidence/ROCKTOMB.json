@@ -3,12 +3,12 @@
   "answerDisplay": "ROCK TOMB",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Rock Tomb (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Rock_Tomb_(move)",
   "pageId": 3928,
-  "pageRevisionId": 4500909,
+  "pageRevisionId": 4512095,
   "leadText": "Rock Tomb (Japanese: がんせきふうじ Rock Seal) is a damage-dealing Rock-type move introduced in Generation III. It is: TM39 from Generation III to Pokémon Ultra Sun and Ultra Moon, as well as in Pokémon Brilliant Diamond and Shining Pearl. TM48 in Pokémon Sword and Shield. TM036 in Pokémon Scarlet and Violet.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It also lowers the target's Movement Speed by one level. MD T D S Inflicts damage on the target. It may also reduce the target's Movement Speed by 1 level. B S L てきポケモンに ダメージをあたえる しかも いどうそくどを １だんかいさげる Conq. Bombard the enemy with rocks. It may also reduce the target's Range. MD GtI S MD MD RT DX It damages an enemy. It also lowers the enemy's Travel Speed."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Rock Tomb is the only Rock-type Clever move. In Pokémon Ruby, Sapphire , and Emerald , and in Pokémon Colosseum and Pokémon XD , the TM description erroneously indicates that using Rock Tomb will not always lower the target's Speed. In Pokémon Diamond and Pearl : The TM description erroneously states that using Rock Tomb can cause the target to flinch . When this move is used in a Double Battle , it appears to attack the Pokémon opposite of what the player has chosen. However, the damage is done to the Pokémon initially selected."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Rock Tomb",
     "Rock-Tomb (move)"
   ],
-  "updatedAt": 1773326482
+  "updatedAt": 1774524618
 }

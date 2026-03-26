@@ -3,7 +3,7 @@
   "answerDisplay": "X ACCURACY",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "X Accuracy",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/X_Accuracy",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Contents 1 Effect 1.1 Generations I to II 1.2 Generations III to VI 1.3 Generation VII onward Effect [ edit | edit source ] Generations I to II [ edit | edit source ] When used from the Bag during battle, it makes the Pokémon's moves ignore accuracy checks. It also allows one-hit knockout moves to always hit but will still fail if the target has a higher Speed (in Generation I) or level (in Generation II) than the user. Generations III to VI [ edit | edit source ] When used from the Bag during battle, it raises the accuracy of a Pokémon currently in battle by 1 level. It also increases the Pokémon's friendship a little. One-hit knockout moves are no longer affected by X Accuracy. Generation VII onward [ edit | edit source ] When used from the Bag during battle, it raises the accuracy of a Pokémon currently in battle by 2 levels. It also increases the Pokémon's friendship a little. One-hit knockout moves are unaffected by X Accuracy."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods R B Y / R G B Y Pokémon Tower , Silph Co. Celadon Department Store G S C Sprout Tower C , Team Rocket's Hideout G S , Mt. Silver Cave G S , Rock Tunnel Goldenrod Department Store , Celadon Department Store R S E Route 104 Mauville Poké Mart , Lilycove Department Store FR LG Pokémon Tower Celadon Department Store Colo Phenac Poké Mart XD Realgam Tower ( Battle CD 35 completion prize) Pyrite Poké Mart D P Pt Routes 209 D P and 218 Pt Veilstone Department Store HG SS Sprout Tower , Rock Tunnel Goldenrod and Celadon Department Stores PW Suburban Area , Town Outskirts B W Route 4 Nacrene City , Shopping Mall Nine B2 W2 Virbank Complex Nacrene City , Shopping Mall Nine Join Avenue ( Market ) X Y Routes 10 , 13 , and 20 Santalune City Poké Mart OR AS Slateport City Poké Mart , Lilycove Department Store (Level 3) S M US UM Routes 9 and 10 US UM Route 2 , Route 5 US UM , Route 8 , and Hau'oli Poké Marts Festival Plaza ( Battle Store ) M UM P E Underground Path (Kanto Routes 7–8) , Pokémon Mansion All Poké Marts (after obtaining 1 Badge ), Celadon Department Store Hidden recurring item ( Team Rocket Hideout , Silph Co. ) Sw Sh Route 4 , Motostoke Southern Hammerlocke Poké Mart BD SP Route 209 Veilstone Department Store S V Cascarrafa , Levincia , Alfornada Cavern , Tagtree Thicket , East Province (Area Three) , North Province (Area One) , North Province (Area Two) , South Province (Area Three) , South Province (Area Four) , South Province (Area Five) , West Province (Area One) Chansey Supply S V ID Vending machines ( Terarium )"
     },
     {
       "title": "Description",
@@ -34,5 +38,5 @@
     "X Accuracy",
     "X-Accuracy (item)"
   ],
-  "updatedAt": 1773328602
+  "updatedAt": 1774524915
 }

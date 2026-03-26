@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4407537,
   "evidencePassMode": "second_pass",
   "response": {
@@ -37,6 +37,11 @@
         "text": "Restores HP upon eating a Berry, in addition to the Berry's effect.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Restores HP after eating a Berry",
+        "evidence_ref": "Effect",
+        "specificity": 0.88
       }
     ],
     "crossword_candidates": [
@@ -46,17 +51,41 @@
         "mystery_score": 0.56,
         "specificity_score": 0.66,
         "style": "effect"
+      },
+      {
+        "text": "Restores HP after a Berry",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Berry-eating heal trait",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Heals when it consumes a Berry",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.76,
+        "specificity_score": 0.88,
+        "style": "effect"
       }
     ],
     "cryptic_definition_seeds": [
-      "healing trait"
+      "healing trait",
+      "berry healer",
+      "berry-fed recovery"
     ],
     "connections_descriptors": [
       "Healing abilities",
+      "Berry-healing abilities",
       "Gen VI abilities"
     ],
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257934
+  "updatedAt": 1774525959
 }

@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4446858,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Victory Star (Japanese: Victory Star) is an Ability introduced in Generation V. It is the signature Ability of Victini.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Victini",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD GtI Raises the accuracy of moves used by the Pokemon and allies standing next to it. * The accuracy of moves goes up! It also affects allies who are next to the Pokemon. * S MD The accuracy of moves goes up! It also has effects on teammates who are next to the Pokemon.",
@@ -41,26 +46,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "boosting ability",
-        "evidence_ref": "Description",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "Gen V ability",
+        "text": "Victini's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
     "connections_descriptors": [
-      "Boosting abilities"
+      "Gen V abilities"
     ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774258030
+  "updatedAt": 1774526003
 }

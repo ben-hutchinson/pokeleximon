@@ -3,17 +3,21 @@
   "answerDisplay": "CHIPPED POT",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Chipped Pot",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Chipped_Pot",
   "pageId": 244478,
-  "pageRevisionId": 4501217,
+  "pageRevisionId": 4510532,
   "leadText": "The Chipped Pot (Japanese: かけたポット Chipped Pot) is a type of item introduced in Generation VIII.",
   "sections": [
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Causes Antique Form Sinistea to evolve into Antique Form Polteageist upon use. This consumes the item."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods Sw Sh Event Stow-on-Side (bargain shop) Sw Sh CT Ballimere Lake Hidden recurring item ( Giant's Bed , Snowslide Slope ) Max Raid Battles (3★, 4★, 5★; Giant's Bed , Old Cemetery , Ballimere Lake ) S V Porto Marinada Porto Marinada auction S V ID Item Printer Distribution [ edit | edit source ] Games Event Language/Region Distribution period Sw Sh The Isle of Armor promotion packs All June 5 to 11, 2020"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Chipped Pot",
     "Chipped-Pot (item)"
   ],
-  "updatedAt": 1773321673
+  "updatedAt": 1774524078
 }

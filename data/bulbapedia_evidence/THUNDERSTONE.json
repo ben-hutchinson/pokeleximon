@@ -3,12 +3,12 @@
   "answerDisplay": "THUNDER STONE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Thunder Stone",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Thunder_Stone",
   "pageId": 9807,
-  "pageRevisionId": 4504901,
+  "pageRevisionId": 4513471,
   "leadText": "The Thunder Stone (Japanese: かみなりのいし Lightning Stone), formatted Thunderstone prior to Generation VI, is a type of Evolution stone introduced in Generation I.",
   "sections": [
     {
@@ -24,8 +24,16 @@
       "text": "Effect [ edit | edit source ] The Thunder Stone is required to evolve certain Pokémon in Pokémon Sleep. It is consumed upon use. Pikachu requires 80 Pikachu Candy and a Thunder Stone to evolve into Raichu . Magneton requires 80 Magnemite Candy and a Thunder Stone to evolve into Magnezone . Eevee requires 80 Eevee Candy and a Thunder Stone to evolve into Jolteon . Charjabug requires 80 Grubbin Candy and a Thunder Stone to evolve into Vikavolt ."
     },
     {
-      "title": "Description",
-      "text": "Description [ edit | edit source ] Games Description Stad A Stone used for making certain kinds of Pok é mon evolve. G S C Evolves certain kinds of Pok é mon . R S E Colo XD Makes certain species of Pok é mon evolve. FR LG A peculiar stone that makes certain species of Pok é mon evolve. It has a thunderbolt pattern. D P Pt A peculiar stone that makes certain species of Pokémon evolve. It has a thunderbolt pattern. * HG SS B W B2 W2 A peculiar stone that makes certain species of Pokémon evolve. It has a thunderbolt pattern. X Y OR AS S M US UM P E Sw Sh BD SP LA S V ZA A peculiar stone that can make certain species of Pokémon evolve. It has a distinct thunderbolt pattern."
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods R G B Y R B Y Celadon Department Store G S C Sea Cottage (from Bill's grandfather ) Route 38 (gift from Lass Dana) C , Mystery Gift R S E New Mauville Route 124 (trade for Yellow Shard with Treasure Hunter ) FR LG Power Plant (×2) Celadon Department Store Colo Trade XD Gateon Port Trade D P Pt Solaceon Ruins Pt , Sunyshore City , Route 229 Pt Underground HG SS Sea Cottage (from Bill's grandfather ) Route 38 (gift from Lass Dana), Bug-Catching Contest first prize (post- National Pokédex ), Pokéathlon Dome (2500 Pts.) We Th Sa PW Yellow Forest B W Chargestone Cave , Shopping Mall Nine Dust clouds , Black City B / White Forest W (Ken) B2 W2 Nimbasa City , Chargestone Cave Battle Subway / Pokémon World Tournament (3 BP ), Join Avenue ( Antique Shop ), Black City (Store 1), Funfest Missions Dust clouds ( Chargestone Cave , Mistralton Cave , Clay Tunnel , Twist Mountain , Underground Ruins , Victory Road , Wellspring Cave , Seaside Cave , Giant Chasm ) Hidden Grottoes ( Routes 2 , 3 , 5 , 6 , 7 , 9 , 13 , 18 , 22 , and 23 ; Floccesy Ranch ; Giant Chasm ; Abundant Shrine ; Lostlorn Forest ; Pinwheel Forest ) Transfer from Dream Radar DW * Rugged Mountain , Pokémon Café Forest PDR Dream Clouds (after catching Thundurus ) X Y Routes 10 and 11 Secret Super Training (Follow Those Fleeing Goals!, The Battle for the Best: Version X! X , and The Battle for the Best: Version Y! Y ), Route 18 (from Psychic Inver ) Spiky rocks OR AS New Mauville Route 124 (trade for Yellow Shard with Treasure Hunter ), Mauville City ( Inverse Battle Stop ), Secret Super Training (Follow Those Fleeing Goals!, The Battle for the Best!), Route 117 (rematch with Triathlete Dylan), Route 118 (rematch with Guitarist Dalton), Secret Base (\"Pick up stones\" with Secret Pal ) PMC * Balloon Popping (Lv. 2) S M Route 8 Konikoni City , Poké Pelago (Isle Aphun - Brilliant-Stone Hunting, Interesting-Item Hunting) US UM Route 9 , Paniola Ranch US UM , Ultra Plant (×6) Konikoni City , Poké Pelago (Isle Aphun - Brilliant-Stone Hunting, Interesting-Item Hunting) P E Route 10 , Power Plant Celadon Department Store Found by Rock-type walking Pokémon ( Rock Tunnel ) Sw Sh North Lake Miloch Hidden recurring item ( Lake of Outrage ) Bridge Field ( Digging Duo ) Poké Job reward (Tiers V, VI, and IX) Sw Sh CT Hidden recurring item ( Three-Point Pass ) Max Raid Battles ( Ballimere Lake ) BD SP Sunyshore City Grand Underground LA Black ore deposits ( Obsidian Fieldlands , Crimson Mirelands , Cobalt Coastlands ) Blue ore deposits ( Crimson Mirelands , Cobalt Coastlands ) Trading post (1,000 MP ) Ginkgo Guild cart (randomly sold by Ginter , as \"Lightning-Bolt Rock\") Space-time distortions S V Levincia , Casseroya Lake , West Province (Area One) Reward for registering 30 Pokémon in the Paldea Pokédex Delibird Presents (after earning 3 Gym Badges ) Tera Raid Battles (1★, 2★, 3★, 4★, 5★) Sparkling overworld item ( East Province (Area Three) ) S V TM Wistful Fields S V ID Item Printer ZA Bleu Sector 5 (reward for completing Side Mission 053: \"The Most Electrifying Eelektrik\") Stone Emporium Distribution [ edit | edit source ] Games Event Language/Region Distribution period PW Pokéwalker Spot items Korean January 7 to 31, 2011 S V PokéDoko Eevee Evolution items All July 14 to September 30, 2024 November 2024 Nintendo newsletter items All November 18, 2024 to December 31, 2025 As a held item [ edit | edit source ] Games Event Language/Region Distribution period R S Evolution Stone Promotion Pikachu United States August 30 to September 4, 2003"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods MD R B Lightning Field (29F) Unknown Dungeon (Mystery Dungeon) MD T D S Treasure Boxes , Job requests (★3-★9) Mystifying Forest (Kecleon Shop: 5F, 7F, 9F, 11F, 13F), Lake Afar (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F, B21F, B23F), Midnight Forest (Kecleon Shop: B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F, B21F, B23F) MD GtI Treasure Boxes Pokémon Paradise (Sunken Treasure, Beartic Slide, Prize Palace) Skill Treasury , Treasure Trove"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods Sleep Achievement reward Sleep Point Exchange (Regular)"
     }
   ],
   "familyPages": [],
@@ -34,5 +42,5 @@
     "Thunder Stone",
     "Thunder-Stone (item)"
   ],
-  "updatedAt": 1773327935
+  "updatedAt": 1774524821
 }

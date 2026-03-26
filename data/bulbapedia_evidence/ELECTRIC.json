@@ -3,17 +3,21 @@
   "answerDisplay": "ELECTRIC",
   "sourceType": "type",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Electric (type)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Electric_(type)",
   "pageId": 1119,
-  "pageRevisionId": 4501210,
+  "pageRevisionId": 4513196,
   "leadText": "Electric redirects here. For the P25 Music song, see Electric (song). The Electric type (Japanese: でんきタイプ Electric type) is one of the eighteen types. Electric-type moves are super effective against Flying- and Water-type Pokémon, while Electric-type Pokémon are weak to Ground-type moves.",
   "sections": [
     {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Generation IX introduced the most Electric-type Pokémon of any generation , with twelve, and Generation VI introduced the fewest, with three. Generation VII and VIII introduced the most Electric-type moves of any generation, each with nine, and Generation II introduced the fewest, with two. The Electric type is tied with Ice for having the fewest Pokémon capable of Mega Evolution , with five. Generation III is the only generation that introduced no dual-type Electric-type Pokémon. Generation VI is the only generation that introduced no pure Electric-type Pokémon. Pokémon Sword and Shield and Pokémon Legends: Arceus are the only games not to include a major Electric-type specialist. The Electric type is tied with the Normal type for having the fewest weaknesses. All Electric-type moves introduced in Generation I have names beginning with the word \"Thunder\". In the first season of the animated series and during much of Generation I , the Rock-type was often wrongly assumed to be unaffected by Electric-type attacks. This was likely due to the fact that at the time, most Rock-type Pokémon (namely the Geodude and Rhyhorn Evolution lines, and Onix ) were part Ground-type and thus immune to Electric-type moves. However, the only Rock-type Pokémon who aren't also Ground-type around at the time (the then five Fossil Pokémon ) were actually weak to them. In Pokémon the Series , Ground-type Pokémon's immunity to Electric-type attacks was treated inconsistently during the original series and early parts of the Ruby and Sapphire series , notably during the Pokémon the Series: The Beginning episode Showdown at Pewter City , where Ash's Pikachu was able to hurt Brock's Onix by simply having his voltage raised and Onix being doused in water. The move Soak , introduced in Generation V , has exactly the effect of the latter. In Tree's a Crowd , Brock states that Grass-type Pokémon resist Electric-type moves due to being able to diffuse the electricity into trees and the ground. He also explains that if Grass-type Pokémon are in the air, they cannot diffuse the electricity from Electric-type attacks, thereby dealing normally effective damage."
+      "title": "Battle properties",
+      "text": "Battle properties [ edit | edit source ] Note: Type effectiveness multipliers may vary in other games outside the core series . Offensive properties of Electric-type moves Super effective (×2) Not very effective (×½) No effect (×0) Flying Water Grass Electric Dragon Ground Defensive properties of Electric-type Pokémon Weak to (×2) Resists (×½) Immune to (×0) Ground Flying Electric Steel None The Steel type was introduced in Generation II . Additional effects [ edit | edit source ] In Generation I , Electric-type Pokémon cannot get paralyzed by damage-dealing Electric-type moves , but can get paralyzed by other means. From Generation VI onward, Electric-type Pokémon cannot get paralyzed at all. When the move Mud Sport (introduced in Generation III ) is in effect, the power of Electric-type moves is decreased by 67% (50% prior to Generation V ). When Electric Terrain (introduced in Generation VI ) is in effect, the power of Electric-type moves is increased by 30% (50% prior to Generation VIII ) if the user is grounded . All Normal-type moves become Electric-type moves when affected by the moves Ion Deluge (introduced in Generation VI) or Plasma Fists (introduced in Pokémon Ultra Sun and Ultra Moon ). If the target is affected by the move Electrify (introduced in Generation VI) before it uses a move, the target's move becomes Electric-type for that turn. Only Electric-type Pokémon can use the move Double Shock , which will cause the user to no longer be Electric-type unless Terastalized ."
+    },
+    {
+      "title": "Additional effects",
+      "text": "Additional effects [ edit | edit source ] In Generation I , Electric-type Pokémon cannot get paralyzed by damage-dealing Electric-type moves , but can get paralyzed by other means. From Generation VI onward, Electric-type Pokémon cannot get paralyzed at all. When the move Mud Sport (introduced in Generation III ) is in effect, the power of Electric-type moves is decreased by 67% (50% prior to Generation V ). When Electric Terrain (introduced in Generation VI ) is in effect, the power of Electric-type moves is increased by 30% (50% prior to Generation VIII ) if the user is grounded . All Normal-type moves become Electric-type moves when affected by the moves Ion Deluge (introduced in Generation VI) or Plasma Fists (introduced in Pokémon Ultra Sun and Ultra Moon ). If the target is affected by the move Electrify (introduced in Generation VI) before it uses a move, the target's move becomes Electric-type for that turn. Only Electric-type Pokémon can use the move Double Shock , which will cause the user to no longer be Electric-type unless Terastalized ."
     }
   ],
   "familyPages": [],
@@ -22,5 +26,5 @@
     "Electric (type)",
     "Electric type"
   ],
-  "updatedAt": 1773322511
+  "updatedAt": 1774524165
 }

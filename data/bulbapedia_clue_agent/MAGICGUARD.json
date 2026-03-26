@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4320909,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Magic Guard (Japanese: Magic Guard) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Clefairy's evolutionary line.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Clefairy'S Evolutionary Line",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD T D S Protects the Pokemon from all damage except from direct attacks. B S L MD GtI Unavailable S MD The Pokemon is protected from most indirect damage, such as damage from a sandstorm, a Blast Trap, or getting poisoned. But it takes damage from attack moves. MD RT DX The Pokemon won't take damage from things like the Sandstorm weather condition, Blast Traps, or getting Poisoned.",
@@ -39,6 +44,11 @@
         "specificity": 0.62
       },
       {
+        "text": "Prevents explosion moves",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      },
+      {
         "text": "Weather-linked trait",
         "evidence_ref": "lead",
         "specificity": 0.66
@@ -55,6 +65,34 @@
         "evidence_ref": "lead",
         "mystery_score": 0.56,
         "specificity_score": 0.66,
+        "style": "effect"
+      },
+      {
+        "text": "Clefairy'S Evolutionary Line's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
+        "text": "Prevents Explosion and Self-Destruct",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.92,
+        "style": "effect"
+      },
+      {
+        "text": "Explosion-blocking trait",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
+      {
+        "text": "Stops self-destructing moves",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
         "style": "effect"
       },
       {
@@ -88,11 +126,13 @@
     ],
     "cryptic_definition_seeds": [
       "protective trait",
-      "status immunity",
-      "weather trait"
+      "explosion blocker",
+      "blast stopper",
+      "status immunity"
     ],
     "connections_descriptors": [
       "Protective abilities",
+      "Explosion-blocking abilities",
       "Status-blocking abilities",
       "Weather abilities",
       "Gen IV abilities"
@@ -100,5 +140,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257967
+  "updatedAt": 1774525978
 }

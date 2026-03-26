@@ -3,12 +3,12 @@
   "answerDisplay": "QUICK FEET",
   "sourceType": "ability",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Quick Feet (Ability)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Quick_Feet_(Ability)",
   "pageId": 14251,
-  "pageRevisionId": 4273605,
+  "pageRevisionId": 4512288,
   "leadText": "Quick Feet (Japanese: はやあし Quick Feet) is an Ability introduced in Generation IV.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD T D S Boosts the Pokémon's Movement Speed when it has any status problems. B S L わるいじょうたいに なると いどうそくどが あがる MD GtI Unavailable S MD When the Pokémon gets a bad status condition, its Travel Speed goes up! MD RT DX When the Pokémon gets a bad status condition, like poison or paralysis, its Travel Speed goes up for a while."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Although the Ability was introduced in Generation IV , no Generation IV Pokémon can have Quick Feet. This Ability originated as a TCG Poké-BODY ."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Quick Feet",
     "Quick-Feet (Ability)"
   ],
-  "updatedAt": 1773326176
+  "updatedAt": 1774524553
 }

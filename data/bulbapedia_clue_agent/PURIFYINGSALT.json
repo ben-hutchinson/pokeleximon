@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4238246,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Purifying Salt (Japanese: Purifying Salt) is an Ability introduced in Generation IX. It is the signature Ability of Nacli's evolutionary line.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Nacli'S Evolutionary Line",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Purifying Salt grants the Pokemon immunity from all non-volatile status conditions and halves the Attack and Special Attack of an attacking Pokemon during damage calculation if targeted by a Ghost-type move. Rest fails if used by a Pokemon with Purifying Salt. If the Pokemon has a status condition and gains this Ability, the status condition will not be cured and remains in effect. Outside of battle [ edit | edit source ] Purifying Salt has no effect outside of battle.",
@@ -41,6 +46,13 @@
         "mystery_score": 0.56,
         "specificity_score": 0.66,
         "style": "effect"
+      },
+      {
+        "text": "Nacli'S Evolutionary Line's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
     "cryptic_definition_seeds": [
@@ -53,5 +65,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257997
+  "updatedAt": 1774525988
 }

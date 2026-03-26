@@ -3,39 +3,54 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": null,
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": 4448759,
   "evidencePassMode": "second_pass",
   "response": {
     "fact_nuggets": [
+      {
+        "text": "Gen VIII item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
       {
         "text": "revival",
         "evidence_ref": "lead",
         "specificity": 0.62
       },
       {
-        "text": "Honey that Dynamax Vespiquen produces. Adding this honey to Max Soup makes the taste very smooth. It also has the same effect as a Max Revive.",
+        "text": "Gen VIII revival",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
+        "text": "Effect [ edit | edit source ] When used from the Bag on a fainted Pokemon, it revives the Pokemon and restores all of the Pokemon's HP . Additional effect [ edit | edit source ] It is required as an additional Max Soup ingredient to give or remove Urshifu 's Gigantamax Factor .",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Used for berry recipes or blending",
+        "evidence_ref": "Effect",
+        "specificity": 0.82
       }
     ],
     "crossword_candidates": [
       {
-        "text": "revival",
-        "evidence_ref": "lead",
-        "mystery_score": 0.35,
-        "specificity_score": 0.52,
-        "style": "category"
+        "text": "Berry-blending ingredient",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "family"
       }
     ],
     "cryptic_definition_seeds": [
-      "revival"
+      "berry ingredient"
     ],
     "connections_descriptors": [
-      "Revival"
+      "Gen VIII items"
     ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.78
   },
-  "updatedAt": 1774258444
+  "updatedAt": 1774525980
 }

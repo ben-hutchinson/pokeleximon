@@ -3,7 +3,7 @@
   "answerDisplay": "FIGHTING",
   "sourceType": "type",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Fighting",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fighting",
@@ -17,5 +17,5 @@
     "Fighting (type)",
     "Fighting type"
   ],
-  "updatedAt": 1773322778
+  "updatedAt": 1774524188
 }

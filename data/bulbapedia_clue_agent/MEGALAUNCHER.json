@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4512557,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Mega Launcher (Japanese: Mega Launcher) is an Ability introduced in Generation VI. Since Generation VIII, it is the signature Ability of Clauncher and Clawitzer.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Clauncher And Clawitzer",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description S MD Water Pulse, Dark Pulse, Dragon Pulse, and Aura Sphere become more powerful! MD RT DX Aura Sphere and moves with \"Pulse\" in their names become more powerful.",
@@ -45,6 +50,13 @@
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Clauncher And Clawitzer's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
       {
         "text": "Status-blocking trait",
         "evidence_ref": "lead",
@@ -77,5 +89,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257973
+  "updatedAt": 1774525980
 }

@@ -3,12 +3,12 @@
   "answerDisplay": "MAX ETHER",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Max Ether",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Ether",
   "pageId": 12852,
-  "pageRevisionId": 4480916,
+  "pageRevisionId": 4514596,
   "leadText": "The Max Ether (Japanese: ピーピーリカバー PP Recover) is a type of medicine introduced in Generation I. It fully restores PP for one of a Pokémon's moves. It is the improved counterpart of the Ether; it has an improved counterpart, the Max Elixir.",
   "sections": [
     {
@@ -20,12 +20,20 @@
       "text": "Effect [ edit | edit source ] It fully restores the PP of one of the moves of the Pokémon that ingests it. If thrown, it will grant the same effect as if it was consumed by the Pokémon it hits (it cannot be caught)."
     },
     {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods R B Y R G B Y Routes 10 and 23 , Vermilion City , S.S. Anne G S C Routes 2 , 17 G S , 41 C , and 43 , Goldenrod Underground , Cianwood City , Lake of Rage , Mt. Mortar C Mystery Gift R S E Routes 113 and 119 , Rusturf Tunnel , Mt. Pyre Quiz Lady E FR LG Routes 10 and 23 , Vermilion City , Rock Tunnel , Rocket Hideout , Berry Forest Colo Snagem Hideout XD Citadark Isle , S.S. Libra , Realgam Tower (Regular Battle Bingo and Battle CD 38 and 39 completion prizes) D P Pt Routes 212 Pt and 215 Pt , Valor Lakefront D P , Wayward Cave , Mt. Coronet D P , Iron Island (×2) D P , Victory Road D P HG SS Routes 17 , 41 , and 43 , Goldenrod Tunnel , Mt. Mortar , Dark Cave , Viridian Forest , Mt. Silver Cave Rock Smash PW Dim Cave , Treehouse , Rally B W Routes 1 , 3 , 7 , 9 , and 13 , Challenger's Cave , Mistralton City , Moor of Icirrus B2 W2 Route 13 , Desert Resort , Village Bridge Join Avenue ( Raffle Shop ) DW * Spooky Manor X Y Route 18 , Victory Road , Pokémon Village , Poké Ball Factory , Shalour City Rock Smash (except Glittering Cave ) OR AS Routes 113 and 119 , Rusturf Tunnel , Mt. Pyre , Jagged Pass , Battle Resort , Mirage Cave (south of Route 107 ) Rock Smash (except Mirage spots ) S M US UM Diglett's Tunnel , Poni Grove S M Festival Plaza ( Lottery shop : seventh prize) P E Silph Co. , Pokémon Mansion Sw Sh Route 2 Pickup ( Lv. 21-70) Poké Job reward (Tiers VIII and IX) Sw Sh IA Hidden recurring item ( Potbottom Desert ) Sw Sh CT Hidden recurring item ( Tunnel to the Top ) BD SP Valor Lakefront , Wayward Cave , Mt. Coronet , Iron Island (×2), Victory Road Pickup ( Lv. 21-70) LA Crafting : 1 Leppa Berry and 2 Pep-Up Plants S V Levincia , Alfornada Cavern , Area Zero , Asado Desert , Casseroya Lake , Dalizapa Passage , Glaseado Mountain , Tagtree Thicket , East Province (Area One) , East Province (Area Three) , North Province (Area One) , North Province (Area Two) , South Province (Area Two) , South Province (Area Three) , South Province (Area Four) , South Province (Area Five) , South Province (Area Six) Pickup ( Lv. 21-70) S V TM Apple Hills , Fellhorn Gorge , Infernal Pass , Mossfell Confluence , Paradise Barrens , Reveler's Road , Wistful Fields S V ID Canyon Biome , Central Plaza , Polar Biome , Savanna Biome , Torchlit Labyrinth Blueberry Academy Store (15 BP ) Item Printer"
+    },
+    {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description Stad Fully restores the PP of the selected move. G S C Fully restores PP of one move. R S E Colo XD Fully restores the PP of a selected move. FR LG Fully restores a selected move's PP for one Pok é mon . D P Pt HG SS B W B2 W2 It fully restores the PP of a single selected move that has been learned by the target Pokémon. X Y OR AS S M US UM This medicine can fully restore the PP of a single selected move that has been learned by a Pokémon. P E Sw Sh BD SP This medicine can be used to fully restore the PP of a single selected move that has been learned by a Pokémon. LA This medicine can be used to fully restore the PP of a single selected move that a Pokémon knows. S V A medicine that can be used to fully restore the max PP of a single move that a Pokémon knows."
     },
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD RT DX A drink that completely restores the PP of one of your moves."
+    },
+    {
+      "title": "In the core series games",
+      "text": "Contents 1 In the core series games 1.1 Price 1.2 Effect 1.3 Description 1.4 Acquisition In the core series games [ edit | edit source ] Price [ edit | edit source ] Games Cost Sell price R G B Y / R B Y N/A $ 0 G S C R S E FR LG D P Pt HG SS B W B2 W2 X Y OR AS S M US UM P E Sw Sh BD SP N/A $ 1,000 LA S V N/A $ 500 Effect [ edit | edit source ] When used from the Bag on a Pokémon, it fully restores the PP of one of its moves . Description [ edit | edit source ] Games Description Stad Fully restores the PP of the selected move. G S C Fully restores PP of one move. R S E Colo XD Fully restores the PP of a selected move. FR LG Fully restores a selected move's PP for one Pok é mon . D P Pt HG SS B W B2 W2 It fully restores the PP of a single selected move that has been learned by the target Pokémon. X Y OR AS S M US UM This medicine can fully restore the PP of a single selected move that has been learned by a Pokémon. P E Sw Sh BD SP This medicine can be used to fully restore the PP of a single selected move that has been learned by a Pokémon. LA This medicine can be used to fully restore the PP of a single selected move that a Pokémon knows. S V A medicine that can be used to fully restore the max PP of a single move that a Pokémon knows. Acquisition [ edit | edit source ] Games Finite methods Repeatable methods R B Y R G B Y Routes 10 and 23 , Vermilion City , S.S. Anne G S C Routes 2 , 17 G S , 41 C , and 43 , Goldenrod Underground , Cianwood City , Lake of Rage , Mt. Mortar C Mystery Gift R S E Routes 113 and 119 , Rusturf Tunnel , Mt. Pyre Quiz Lady E FR LG Routes 10 and 23 , Vermilion City , Rock Tunnel , Rocket Hideout , Berry Forest Colo Snagem Hideout XD Citadark Isle , S.S. Libra , Realgam Tower (Regular Battle Bingo and Battle CD 38 and 39 completion prizes) D P Pt Routes 212 Pt and 215 Pt , Valor Lakefront D P , Wayward Cave , Mt. Coronet D P , Iron Island (×2) D P , Victory Road D P HG SS Routes 17 , 41 , and 43 , Goldenrod Tunnel , Mt. Mortar , Dark Cave , Viridian Forest , Mt. Silver Cave Rock Smash PW Dim Cave , Treehouse , Rally B W Routes 1 , 3 , 7 , 9 , and 13 , Challenger's Cave , Mistralton City , Moor of Icirrus B2 W2 Route 13 , Desert Resort , Village Bridge Join Avenue ( Raffle Shop ) DW * Spooky Manor X Y Route 18 , Victory Road , Pokémon Village , Poké Ball Factory , Shalour City Rock Smash (except Glittering Cave ) OR AS Routes 113 and 119 , Rusturf Tunnel , Mt. Pyre , Jagged Pass , Battle Resort , Mirage Cave (south of Route 107 ) Rock Smash (except Mirage spots ) S M US UM Diglett's Tunnel , Poni Grove S M Festival Plaza ( Lottery shop : seventh prize) P E Silph Co. , Pokémon Mansion Sw Sh Route 2 Pickup ( Lv. 21-70) Poké Job reward (Tiers VIII and IX) Sw Sh IA Hidden recurring item ( Potbottom Desert ) Sw Sh CT Hidden recurring item ( Tunnel to the Top ) BD SP Valor Lakefront , Wayward Cave , Mt. Coronet , Iron Island (×2), Victory Road Pickup ( Lv. 21-70) LA Crafting : 1 Leppa Berry and 2 Pep-Up Plants S V Levincia , Alfornada Cavern , Area Zero , Asado Desert , Casseroya Lake , Dalizapa Passage , Glaseado Mountain , Tagtree Thicket , East Province (Area One) , East Province (Area Three) , North Province (Area One) , North Province (Area Two) , South Province (Area Two) , South Province (Area Three) , South Province (Area Four) , South Province (Area Five) , South Province (Area Six) Pickup ( Lv. 21-70) S V TM Apple Hills , Fellhorn Gorge , Infernal Pass , Mossfell Confluence , Paradise Barrens , Reveler's Road , Wistful Fields S V ID Canyon Biome , Central Plaza , Polar Biome , Savanna Biome , Torchlit Labyrinth Blueberry Academy Store (15 BP ) Item Printer"
     }
   ],
   "familyPages": [],
@@ -34,5 +42,5 @@
     "Max Ether",
     "Max-Ether (item)"
   ],
-  "updatedAt": 1773324812
+  "updatedAt": 1774524370
 }

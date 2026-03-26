@@ -3,8 +3,8 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4490350,
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
   "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
@@ -12,16 +12,6 @@
         "text": "Unova location",
         "evidence_ref": "lead",
         "specificity": 0.5
-      },
-      {
-        "text": "cave landmark",
-        "evidence_ref": "lead",
-        "specificity": 0.64
-      },
-      {
-        "text": "route landmark",
-        "evidence_ref": "lead",
-        "specificity": 0.64
       }
     ],
     "crossword_candidates": [
@@ -31,38 +21,16 @@
         "mystery_score": 0.38,
         "specificity_score": 0.5,
         "style": "taxonomy"
-      },
-      {
-        "text": "Unova cave",
-        "evidence_ref": "lead",
-        "mystery_score": 0.52,
-        "specificity_score": 0.7,
-        "style": "taxonomy"
-      },
-      {
-        "text": "Regional cave",
-        "evidence_ref": "lead",
-        "mystery_score": 0.44,
-        "specificity_score": 0.62,
-        "style": "taxonomy"
-      },
-      {
-        "text": "Cave in Unova",
-        "evidence_ref": "lead",
-        "mystery_score": 0.42,
-        "specificity_score": 0.66,
-        "style": "taxonomy"
       }
     ],
     "cryptic_definition_seeds": [
       "Pokemon location"
     ],
     "connections_descriptors": [
-      "Unova landmarks",
-      "Unova caves"
+      "Unova landmarks"
     ],
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774258027
+  "updatedAt": 1774526001
 }

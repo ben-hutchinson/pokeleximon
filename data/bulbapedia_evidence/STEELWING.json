@@ -3,12 +3,12 @@
   "answerDisplay": "STEEL WING",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Steel Wing (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Steel_Wing_(move)",
   "pageId": 3822,
-  "pageRevisionId": 4452092,
+  "pageRevisionId": 4511071,
   "leadText": "Steel Wing (Japanese: はがねのつばさ Steel Wing) is a damage-dealing Steel-type move introduced in Generation II. It is: TM47 from Generation II to Generation IV, and in Pokémon Brilliant Diamond and Shining Pearl. TM51 from Generation VI to Pokémon Ultra Sun and Ultra Moon. TM30 in Pokémon Sword and Shield. It is the signature move of Skarmory in Generation V, but other Pokémon could still inherit it via breeding.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also raise the user's Defense by one level. MD T D S Inflicts damage on the target. It may also boost the user's Defense by 1 level. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで じぶんの ぼうぎょを １だんかいあげる MD GtI UNUSED S MD It damages an enemy. It could also boost your Defense. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Doduo , Dodrio , Leavanny , Elgyem , Beheeyem , Drakloak , and Dragapult can learn this move despite not having any visible wings. Mew can also learn this move, despite not having any visible wings, but it can be explained by the fact that Mew can learn every TM move. Steel Wing is Steven Stone 's favorite move."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Steel Wing",
     "Steel-Wing (move)"
   ],
-  "updatedAt": 1773327569
+  "updatedAt": 1774524754
 }

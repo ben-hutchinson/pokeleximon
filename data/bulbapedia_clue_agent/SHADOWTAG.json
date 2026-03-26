@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4407389,
   "evidencePassMode": "first_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Shadow Tag (Japanese: Stepping on Shadows) is an Ability introduced in Generation III. Prior to Generation V, it was the signature Ability of Wynaut and Wobbuffet.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Wynaut And Wobbuffet",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Immobilizes attackers. B S L MD GtI Unavailable S MD Enemy Pokemon next to the Pokemon can't move! It has no effect on Ghost-type Pokemon and Pokemon with the Run Away or Shadow Tag Ability. MD RT DX Enemies next to the Pokemon can't walk. This Ability has no effect on Ghost-type Pokemon and Pokemon with the Run Away or Shadow Tag Ability.",
@@ -53,6 +58,13 @@
         "style": "effect"
       },
       {
+        "text": "Wynaut And Wobbuffet's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
         "text": "Prevents escape",
         "evidence_ref": "Description",
         "mystery_score": 0.76,
@@ -87,5 +99,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774258009
+  "updatedAt": 1774525993
 }

@@ -3,7 +3,7 @@
   "answerDisplay": "SHADOW END",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Shadow End (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_End_(move)",
@@ -18,10 +18,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description XD A shadowy aura ram attack that also rebounds on the user."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Shadow End has the highest power of all Shadow moves , with 120 base power, and is tied with Shadow Panic for the lowest accuracy, with only 60% accuracy. Shadow End is the only Shadow move in Pokémon XD: Gale of Darkness that causes recoil damage. Shadow End is used exclusively by Shadow Pokémon owned by Greevil and his two bodyguards/sons Ardos and Eldes ."
     }
   ],
   "familyPages": [],
@@ -30,5 +26,5 @@
     "Shadow End",
     "Shadow-End (move)"
   ],
-  "updatedAt": 1773326835
+  "updatedAt": 1774524676
 }

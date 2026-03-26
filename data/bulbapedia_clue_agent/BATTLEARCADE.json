@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4381726,
   "evidencePassMode": "second_pass",
   "response": {
@@ -12,9 +12,50 @@
         "text": "Sinnoh location",
         "evidence_ref": "lead",
         "specificity": 0.5
+      },
+      {
+        "text": "Located in The Southeastern Corner Of The Battle Frontier",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      },
+      {
+        "text": "Battle Frontier facility",
+        "evidence_ref": "lead",
+        "specificity": 0.84
+      },
+      {
+        "text": "Southeastern Battle Frontier site",
+        "evidence_ref": "lead",
+        "specificity": 0.84
+      },
+      {
+        "text": "Battle Arcade",
+        "evidence_ref": "title",
+        "specificity": 0.8
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Battle Frontier facility",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
+        "text": "Southeastern Battle Frontier site",
+        "evidence_ref": "lead",
+        "mystery_score": 0.76,
+        "specificity_score": 0.9,
+        "style": "theme"
+      },
+      {
+        "text": "Located in The Southeastern Corner Of The Battle Frontier",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "theme"
+      },
       {
         "text": "Sinnoh landmark",
         "evidence_ref": "lead",
@@ -24,13 +65,14 @@
       }
     ],
     "cryptic_definition_seeds": [
-      "Pokemon location"
+      "battle facility"
     ],
     "connections_descriptors": [
+      "Battle Frontier facilities",
       "Sinnoh landmarks"
     ],
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774257928
+  "updatedAt": 1774525955
 }

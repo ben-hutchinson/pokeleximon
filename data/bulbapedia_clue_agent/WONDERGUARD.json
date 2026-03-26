@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4475356,
   "evidencePassMode": "first_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Wonder Guard (Japanese: Mysterious Protection) is an Ability introduced in Generation III. It is the signature Ability of Shedinja.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Shedinja",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD R B Only super-effective moves can inflict damage. MD T D * Protects the Pokemon from all damaging moves but super-effective ones. MD T D * Protects the Pokemon from all Move damage except when super-effective. MD S Protects the Pokemon from all move damage except when super effective. B S L MD GtI Unavailable S MD The Pokemon takes no damage from attacks or moves that are not super effective. But it takes damage from weather and traps! MD RT DX The Pokemon takes no damage from attacks or moves that are not super effectivebut it takes damage from other things, such as weather and traps.",
@@ -65,6 +70,13 @@
         "style": "effect"
       },
       {
+        "text": "Shedinja's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
         "text": "Status-blocking trait",
         "evidence_ref": "lead",
         "mystery_score": 0.68,
@@ -107,5 +119,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774258034
+  "updatedAt": 1774526005
 }

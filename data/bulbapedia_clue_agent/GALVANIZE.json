@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4430264,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Galvanize (Japanese: Electric Skin) is an Ability introduced in Generation VII. It is the signature Ability of Alolan Geodude's evolutionary line.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Alolan Geodude'S Evolutionary Line",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Contents 1 Effect 1.1 In battle 1.1.1 Generation VII 1.1.2 Affected moves 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] Generation VII [ edit | edit source ] Galvanize causes all Normal-type moves used by the Pokemon to become Electric-type and receive a 20% power boost. Normal-type moves that become Electric-type in this manner can activate Lightning Rod , Volt Absorb , and Motor Drive . If a move is affected by Galvanize and is used under Electric Terrain , it will receive an additional 30% power boost from Electric Terrain (50% prior to Generation VIII ). Affected moves [ edit | edit source ] The table below lists the moves affected by Galvanize, as well as the Pokemon that can have Galvanize and learn those moves. Move Type Cat. Power and Boost Learned by Body Slam Normal Physical 85 102 Double-Edge Normal Physical 120 144 Echoed Voice Normal Special 40 48 Explosion Normal Physical 250 300 Facade Normal Physical 70 84 Flail Normal Physical Frustration Normal Physical Giga Impact Normal Physical 150 180 Hyper Beam Normal Special 150 180 Return Normal Physical Rock Climb Normal Physical 90 108 Round Normal Special 60 72 Self-Destruct Normal Physical 200 240 Snore Normal Special 50 60 Tackle Normal Physical 40 48 Take Down Normal Physical 90 108 Tera Blast Normal Special 80 96 Although the following moves are affected by the Ability, they currently cannot be learned by any Pokemon with Galvanize. They may, however, be called via Metronome , Mirror Move , Copycat , or Mimic , or be used by a Pokemon that gained Galvanize by an Ability like Trace or Receiver or a move such as Skill Swap or Role Play . Move Type Cat. Power and Boost Barrage Normal Physical 15 18 Bide Normal Physical Bind Normal Physical 15 18 Blood Moon Normal Special 140 168 Boomburst Normal Special 140 168 Chip Away Normal Physical 70 84 Comet Punch Normal Physical 18 21.6 Constrict Normal Physical 10 12 Covet Normal Physical 60 72 Crush Claw Normal Physical 75 90 Crush Grip Normal Physical Cut Normal Physical 50 60 Dizzy Punch Normal Physical 70 84 Double Hit Normal Physical 35 42 Double Slap Normal Physical 15 18 Egg Bomb Normal Physical 100 120 Endeavor Normal Physical Extreme Speed Normal Physical 80 96 Fake Out Normal Physical 40 48 False Swipe Normal Physical 40 48 Feint Normal Physical 30 36 Fury Attack Normal Physical 15 18 Fury Swipes Normal Physical 18 21.6 Guillotine Normal Physical Head Charge Normal Physical 120 144 Headbutt Normal Physical 70 84 Hold Back Normal Physical 40 48 Horn Attack Normal Physical 65 78 Horn Drill Normal Physical Hyper Drill Normal Physical 100 120 Hyper Fang Normal Physical 80 96 Hyper Voice Normal Special 90 108 Judgment Normal Special 100 120 Last Resort Normal Physical 140 168 Mega Kick Normal Physical 120 144 Mega Punch Normal Physical 80 96 Multi-Attack Normal Physical 120 144 Pay Day Normal Physical 40 48 Population Bomb Normal Physical 20 24 Pound Normal Physical 40 48 Present Normal Physical Pulverizing Pancake Normal Physical 210 252 Quick Attack Normal Physical 40 48 Rage Normal Physical 20 24 Raging Bull Normal Physical 90 108 Rapid Spin Normal Physical 50 60 Razor Wind Normal Special 80 96 Relic Song Normal Special 75 90 Retaliate Normal Physical 70 84 Revelation Dance Normal Special 90 108 Scratch Normal Physical 40 48 Secret Power Normal Physical 70 84 Skull Bash Normal Physical 130 156 Slam Normal Physical 80 96 Slash Normal Physical 70 84 Smelling Salts Normal Physical 70 84 Sonic Boom Normal Special Spike Cannon Normal Physical 20 24 Spit Up Normal Special Stomp Normal Physical 65 78 Strength Normal Physical 80 96 Struggle Normal Physical 50 60 Super Fang Normal Physical Swift Normal Special 60 72 Tail Slap Normal Physical 25 30 Techno Blast Normal Special 120 144 Terrain Pulse Normal Special 50 60 Thrash Normal Physical 120 144 Tri Attack Normal Special 80 96 Trump Card Normal Special Uproar Normal Special 90 108 Veevee Volley Normal Physical Vise Grip Normal Physical 55 66 Weather Ball Normal Special 50 60 Wrap Normal Physical 15 18 Wring Out Normal Special Outside of battle [ edit | edit source ] Galvanize has no effect outside of battle.",
@@ -41,6 +46,13 @@
     ],
     "crossword_candidates": [
       {
+        "text": "Alolan Geodude'S Evolutionary Line's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
         "text": "Weather-linked trait",
         "evidence_ref": "lead",
         "mystery_score": 0.56,
@@ -58,5 +70,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257948
+  "updatedAt": 1774525968
 }

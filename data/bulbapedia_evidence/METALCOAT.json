@@ -3,7 +3,7 @@
   "answerDisplay": "METAL COAT",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Metal Coat",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Metal_Coat",
@@ -26,6 +26,14 @@
     {
       "title": "In battle",
       "text": "In battle [ edit | edit source ] Generations II and III [ edit | edit source ] Increases the power of Steel-type moves used by the holder by 10%. Generation IV onward [ edit | edit source ] Increases the power of Steel-type moves used by the holder by 20%."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods G S C S.S. Aqua , Kanto Power Plant (held by in-game trade Magneton ) C Held by wild Magnemite (2% chance) R S E Held by wild Magnemite and wild Magneton (5% chance each) Colo Held by Shadow Metagross Trade XD Held by Shadow Magneton Trade FR LG Memorial Pillar , Trainer Tower (prize for defeating Knockout Mode) Trade D P Pt Iron Island (from Byron ), Iron Island Pt Held by wild Magnemite , wild Magneton Pt , wild Steelix , wild Beldum , wild Bronzor , and wild Bronzong (5% chance each) HG SS S.S. Aqua , Kanto Power Plant (held by in-game trade Magneton ) Pokéathlon Dome (2500 Pts.) Tu Fr Sa Held by wild Magnemite , wild Magneton , wild Steelix , wild Beldum , wild Metang , wild Bronzor , and wild Bronzong (5% chance each) B W Twist Mountain Route 13 (treasure hunter) Held by wild Magnemite , wild Metang , wild Metagross , and wild Bronzong (5% chance each) B2 W2 Chargestone Cave , Clay Tunnel Join Avenue ( Antique Shop ), Black City (Store 2) Funfest Mission ( Do a Great Trade-Up! ) Held by wild Magnemite , wild Magneton , wild Metang , wild Metagross , wild Bronzor , wild Bronzong , and wild Magnezone (5% chance each) DW * Rugged Mountain X Y Poké Ball Factory Held by wild Magneton , wild Metang , and wild Bronzong (5% chance each) OR AS New Mauville Held by wild Magnemite , wild Skarmory , and wild Bronzor (5% chance each) PMC * Balloon Popping (Lv. 1) S M US UM Poni Gauntlet US UM Held by wild Magnemite , wild Skarmory , and wild Beldum (5% chance each) Sw Sh Stow-on-Side Bridge Field ( Digging Duo ) Stow-on-Side (bargain shop) Held by wild Steelix , wild Bronzor , and wild Bronzong (5% chance each) Sw Sh IA Challenge Road Cram-o-matic ( Steel : 62-70 points) Held by wild Magnemite and wild Magneton (5% chance each) Sw Sh CT Hidden recurring item ( Giant's Bed ) Held by wild Beldum , wild Metang , and wild Metagross (5% chance each) BD SP Iron Island (from Byron ) Held by wild Magnemite , wild Steelix , wild Skarmory , wild Beldum , wild Bronzor , and wild Bronzong (5% chance each) LA Trading post (1,000 MP ) Ginkgo Guild cart (randomly sold by Ginter , as \"Metallic Spread\") Space-time distortions S V Delibird Presents ( Levincia Branch), Porto Marinada auction S V ID Item Printer ZA Rewards for completing Side Mission 101: \"Steadfast as Steel\" and Side Mission 114: \"A Feather from Skarmory\" Infinite Z-A Royale Racine Construction Distribution [ edit | edit source ] As a held item [ edit | edit source ] Games Event Language/Region Distribution period D P PalCity Lucario Japanese Various B W Trade for Evolution! Scyther Japanese October 10 to November 28, 2010"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods MD R B Southern Cavern (49-50F) MD T D S Treasure Boxes , Job requests (★3-★9) Mystifying Forest (Kecleon Shop: 5F, 7F, 9F, 11F, 13F), Lake Afar (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F, B21F, B23F), Midnight Forest (Kecleon Shop: B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F, B21F, B23F)"
     }
   ],
   "familyPages": [],
@@ -34,5 +42,5 @@
     "Metal Coat",
     "Metal-Coat (item)"
   ],
-  "updatedAt": 1773324971
+  "updatedAt": 1774524380
 }

@@ -1,52 +1,18 @@
 {
   "answerKey": "THRUST",
-  "status": "ok",
+  "status": "no_candidates",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4452130,
-  "evidencePassMode": "second_pass",
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
+  "evidencePassMode": "first_pass",
   "response": {
-    "fact_nuggets": [
-      {
-        "text": "Arm Thrust (Japanese: Thrust) is a damage-dealing Fighting-type multistrike move introduced in Generation III. Prior to Generation V, it was one of the signature moves of Makuhita and Hariyama.",
-        "evidence_ref": "lead",
-        "specificity": 0.56
-      },
-      {
-        "text": "Description [ edit | edit source ] Games Description R S E Straight-arm punches that strike the foe 2 to 5 times. FR LG A quick flurry of straight-arm punches that hit two to five times. Colo XD Straight-arm punches that hit the target 2 to 5 times. D P Pt HG SS PBR B W B2 W2 The user looses a flurry of open-palmed arm thrusts that hit two to five times in a row. X Y OR AS S M US UM P E Sw Sh BD SP LA The user lets loose a flurry of open-palmed arm thrusts that hit two to five times in a row. S V The user attacks the target with open-palmed arm thrusts. This move hits two to five times in a row. Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It hits two to five times in succession. MD T D S Inflicts damage on the target using 2 to 5 attacks in a single turn. B S L MD GtI S MD MD RT DX It damages an enemy 2 to 5 times in a row.",
-        "evidence_ref": "Description",
-        "specificity": 0.64
-      },
-      {
-        "text": "Effect [ edit | edit source ] Generations III and IV [ edit | edit source ] Arm Thrust inflicts damage, hitting the target 2-5 times per use. There is a 37.5% chance that it will hit 2 times, a 37.5% chance that it will hit 3 times, a 12.5% chance that it will hit 4 times, and a 12.5% chance that it will hit 5 times. Each strike made has an equal chance to be a critical hit . Arm Thrust may continue attacking after breaking a substitute. Bide and Counter will only acknowledge the last strike of this move. If the target has an Ability that activates upon contact , each strike counts individually, enabling the Ability to activate multiple times. Pokemon with the Ability Skill Link will always hit five times when using Arm Thrust unless it misses. Arm Thrust can be used as the second move of a Pokemon Contest combination , with the user gaining 2 bonus appeal points if Fake Out or Focus Energy was used in the previous turn. If the user is holding a King's Rock or Razor Fang , each consecutive hit has an equal chance to cause the opponent to flinch . Generation V onwards [ edit | edit source ] There is now a 35% chance that it will hit 2 times, a 35% chance it will hit 3 times, a 15% chance it will hit 4 times, and a 15% chance it will hit 5 times. The average total base power is now 46.5. If a Focus Sash activates before the last strike is dealt, the following strike will cause the defending Pokemon to faint. A Focus Band can still activate repeatedly to prevent fainting, but each chance is independent. Sturdy will activate with each hit if the defending Pokemon has a maximum HP of 1. If the target has Weak Armor or Stamina , each strike will activate it. If the target is holding a Rocky Helmet , the user is damaged for each strike.",
-        "evidence_ref": "Effect",
-        "specificity": 0.72
-      }
-    ],
-    "crossword_candidates": [
-      {
-        "text": "critical-hit ability",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "flinch-causing ability",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      }
-    ],
+    "fact_nuggets": [],
+    "crossword_candidates": [],
     "cryptic_definition_seeds": [],
-    "connections_descriptors": [
-      "Critical-Hit abilities",
-      "Flinch-Causing abilities"
-    ],
+    "connections_descriptors": [],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.25
   },
-  "updatedAt": 1774258024
+  "updatedAt": 1774526000
 }

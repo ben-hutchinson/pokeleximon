@@ -3,7 +3,7 @@
   "answerDisplay": "SHADOW RAVE",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Shadow Rave (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Rave_(move)",
@@ -26,5 +26,5 @@
     "Shadow Rave",
     "Shadow-Rave (move)"
   ],
-  "updatedAt": 1773326849
+  "updatedAt": 1774524681
 }

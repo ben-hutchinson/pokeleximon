@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 3830105,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Mycelium Might (Japanese: Hyphal Power) is an Ability introduced in Generation IX. It is the signature Ability of Toedscool and Toedscruel.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Toedscool And Toedscruel",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Mycelium Might uses a status move , it always moves last within its priority bracket, and the effects of all Pokemon's ignorable Abilities are ignored for the execution of that move. (Ignorable Abilities are most Abilities that could potentially negatively affect the success, damage, or effects of a move if possessed by the target of a move or its allies.) For example, a Pokemon with Mycelium Might that uses Screech will move last in its priority bracket, but can affect opponents that have Big Pecks , Clear Body , or Soundproof . Outside of battle [ edit | edit source ] Mycelium Might has no effect outside of battle.",
@@ -36,33 +41,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "priority ability",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "priority ability",
-        "evidence_ref": "In battle",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "Gen IX ability",
+        "text": "Toedscool And Toedscruel's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
     "connections_descriptors": [
-      "Priority abilities"
+      "Gen IX abilities"
     ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774257980
+  "updatedAt": 1774525982
 }

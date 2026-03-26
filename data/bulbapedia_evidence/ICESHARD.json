@@ -3,12 +3,12 @@
   "answerDisplay": "ICE SHARD",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Ice Shard (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ice_Shard_(move)",
   "pageId": 14539,
-  "pageRevisionId": 4441110,
+  "pageRevisionId": 4516080,
   "leadText": "Ice Shard (Japanese: こおりのつぶて Ice Pebble) is a damage-dealing Ice-type move introduced in Generation IV.",
   "sections": [
     {
@@ -30,5 +30,5 @@
     "Ice Shard",
     "Ice-Shard (move)"
   ],
-  "updatedAt": 1773323811
+  "updatedAt": 1774524296
 }

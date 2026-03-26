@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4457760,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Wind Power (Japanese: Wind-Powered Electricity) is an Ability introduced in Generation IX. It is the signature Ability of Wattrel and Kilowattrel.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Wattrel And Kilowattrel",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Contents 1 Effect 1.1 In battle 1.1.1 Affected moves 1.2 Outside of battle Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Wind Power is hit by a wind move or when Tailwind takes effect, it becomes charged , boosting the power of the next Electric-type move it uses. When this Ability is triggered, the message \" Being hit by charged with power! \" is displayed, even if it causes the Pokemon with Wind Power to faint. If the opposing wind move causes the Pokemon to faint, Wind Power displays the message before the Pokemon faints. Despite being classified as a wind move, Sandstorm , due to the move targeting the field, is the only one that does not interact with Wind Power at all. Affected moves [ edit | edit source ] Move Type Cat. IX Aeroblast Flying Special Air Cutter Flying Special Bleakwind Storm Flying Special Blizzard Ice Special Fairy Wind Fairy Special Gust Flying Special Heat Wave Fire Special Hurricane Flying Special Icy Wind Ice Special Petal Blizzard Grass Physical Sandsear Storm Ground Special Sandstorm Rock Status Springtide Storm Fairy Special Tailwind Flying Status Twister Dragon Special Whirlwind Normal Status Wildbolt Storm Electric Special Outside of battle [ edit | edit source ] Wind Power has no effect outside of battle.",
@@ -41,6 +46,13 @@
     ],
     "crossword_candidates": [
       {
+        "text": "Wattrel And Kilowattrel's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
         "text": "Weather-linked trait",
         "evidence_ref": "lead",
         "mystery_score": 0.56,
@@ -58,5 +70,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774258034
+  "updatedAt": 1774526005
 }

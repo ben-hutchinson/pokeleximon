@@ -3,17 +3,21 @@
   "answerDisplay": "X DEFENSE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "X Defense",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/X_Defense",
   "pageId": 184520,
-  "pageRevisionId": 4480971,
+  "pageRevisionId": 4516435,
   "leadText": "The X Defense (Japanese: ディフェンダー Defender), known as X Defend prior to Generation VI, is a type of battle item introduced in Generation I. It temporarily boosts a Pokémon's Defense stat.",
   "sections": [
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Generations I to VI [ edit | edit source ] When used from the Bag during battle, it raises the Defense of a Pokémon currently in battle by 1 level. From Generation II onward, it also increases the Pokémon's friendship a little. Generation VII onward [ edit | edit source ] When used from the Bag during battle, it raises the Defense of a Pokémon currently in battle by 2 levels. It also increases the Pokémon's friendship a little."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods R B Y / R G B Y Celadon Department Store G S C Sprout Tower G S , Union Cave , Rock Tunnel Violet , Blackthorn , Cerulean , Saffron Poké Marts ; Goldenrod Department Store , Celadon Department Store R S E Rustboro City Petalburg , Rustboro , Mauville , Fallarbor , Mossdeep , Sootopolis Poké Marts ; Lilycove Department Store FR LG Route 11 Celadon Department Store Colo Phenac Poké Mart XD Pyrite Poké Mart D P Pt Route 203 Pt , Oreburgh Mine D P Veilstone Department Store HG SS Union Cave , Rock Tunnel Goldenrod Department Store , Celadon Department Store PW Suburban Area , Icy Mountain Rd. B W Dreamyard Nacrene City , Shopping Mall Nine B2 W2 Aspertia City Nacrene City , Shopping Mall Nine Join Avenue ( Market ) X Y Routes 9 , 15 , and 18 , Santalune City Trainers' School (×3), Cyllage City , Victory Road Santalune City Poké Mart OR AS Rustboro City , Granite Cave , Mauville City , Jagged Pass Slateport City Poké Mart , Lilycove Department Store (Level 3) S M US UM Hau'oli City Marina , Lush Jungle , Paniola Ranch US UM , Poni Plains , Verdant Cavern , Vast Poni Canyon (×1 S M /×2 US UM ) Route 2 , Route 5 US UM , Route 8 , and Hau'oli Poké Marts Festival Plaza ( Battle Store ) P E Route 11 , Pewter City , Underground Path (Kanto Routes 7–8) All Poké Marts (after obtaining 1 Badge ), Celadon Department Store Sw Sh Routes 3 and 8 Motostoke Poké Mart BD SP Oreburgh Mine Veilstone Department Store S V Area Zero , Dalizapa Passage , Glaseado Mountain , East Province (Area One) , East Province (Area Three) , North Province (Area One) , North Province (Area Two) , North Province (Area Three) , South Province (Area One) , South Province (Area Three) , South Province (Area Five) , West Province (Area One) , West Province (Area Two) Chansey Supply S V TM Oni Mountain S V ID Coastal Biome , Polar Biome Vending machines ( Terarium )"
     },
     {
       "title": "Description",
@@ -34,5 +38,5 @@
     "X Defense",
     "X-Defense (item)"
   ],
-  "updatedAt": 1773328610
+  "updatedAt": 1774524924
 }

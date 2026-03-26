@@ -3,7 +3,7 @@
   "answerDisplay": "DUSK STONE",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Dusk Stone",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dusk_Stone",
@@ -24,8 +24,16 @@
       "text": "Effect [ edit | edit source ] The Dusk Stone is required to evolve certain Pokémon in Pokémon Sleep. It is consumed upon use. Murkrow requires 80 Murkrow Candy and a Dusk Stone to evolve into Honchkrow ."
     },
     {
-      "title": "Description",
-      "text": "Description [ edit | edit source ] Games Description D P Pt HG SS B W B2 W2 A peculiar stone that makes certain species of Pokémon evolve. It is as dark as dark can be. X Y OR AS S M US UM P E Sw Sh BD SP LA A peculiar stone that can make certain species of Pokémon evolve. It holds shadows as dark as can be. S V ZA A peculiar stone that can make certain species of Pokémon evolve. It holds dark shadows within it."
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Wayward Cave Pt , Galactic Warehouse , Victory Road Pickup ( Lv. 31-100) HG SS Cerulean Cave Route 17 (gift from Biker Reese), Bug-Catching Contest first prize (post- National Pokédex ), Pokéathlon Dome (post- National Pokédex , 3000 Pts.) Mo Tu Th Fr Sa PBR Shop (7200 Poké Coupons ) B W Route 10 , Mistralton Cave Dust clouds , Black City B / White Forest W (Herman) B2 W2 Strange House , Victory Road , Twist Mountain Join Avenue ( Antique Shop ), Black City (Store 3), Funfest Mission ( Find Mysterious Ores! ) B2 Dust clouds ( Chargestone Cave , Mistralton Cave , Clay Tunnel , Twist Mountain , Underground Ruins , Victory Road , Wellspring Cave , Seaside Cave , Giant Chasm ) Hidden Grottoes ( Routes 6 and 13 ; Abundant Shrine ) DW * Rugged Mountain X Y Laverre City , Terminus Cave Secret Super Training (Watch Out! That's One Tricky Second Half!), Route 18 (from Psychic Inver ) OR AS Mauville City ( Inverse Battle Stop ), Secret Super Training (Watch Out! That's One Tricky Second Half!), Mt. Pyre ( rematch with Hex Maniac Valerie), Secret Base (\"Pick up stones\" with Secret Pal ) PMC * Balloon Popping (Lv. 3) S M US UM Malie City M UM , Poni Wilds Poké Pelago (Isle Aphun - Brilliant-Stone Hunting, Interesting-Item Hunting) Sw Sh Stow-on-Side Hidden recurring item ( Lake of Outrage ) Bridge Field ( Digging Duo ) Poké Job reward (Tiers VII and VIII) Sw Sh IA Hidden recurring item ( Brawlers' Cave ) Sw Sh CT Snowslide Slope Hidden recurring item ( Roaring-Sea Caves ) BD SP Galactic Warehouse , Victory Road Pickup ( Lv. 11-100) LA Jubilife Village (from Vessa for collecting 30 wisps ) Black ore deposits ( Coronet Highlands , Alabaster Icelands ) Trading post (1,200 MP ) Ginkgo Guild cart (randomly sold by Ginter , as \"Deep-Dark Rock\") Space-time distortions S V Montenevera , Area Zero , West Province (Area One) Reward for registering 130 Pokémon in the Paldea Pokédex Porto Marinada auction Sparkling overworld item ( Alfornada Cavern , Area Zero , Dalizapa Passage ) S V TM Timeless Woods S V ID Item Printer ZA Rouge Street (reward for completing Side Mission 083: \"Honedge’s Cutting Edge\") Stone Emporium Distribution [ edit | edit source ] Games Event Language/Region Distribution period PW Pokéwalker Spot items Korean January 7 to 31, 2011 S V November 2024 Nintendo newsletter items All November 18, 2024 to December 31, 2025"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods MD T D S Treasure Boxes , Job requests (★3-★9) Happy Outlook (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F), Mt. Mistral (Kecleon Shop: 3F, 5F, 7F, 9F, 11F, 13F, 15F, 17F, 19F), Shimmer Hill (Kecleon Shop: 2F, 4F, 6F, 8F, 10F, 12F, 14F, 16F), Lost Wilderness (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F) MD GtI Treasure Boxes Pokémon Paradise (Sunken Treasure, Beartic Slide, Prize Palace) Skill Treasury , Treasure Trove"
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods Sleep Sleep Point Exchange (Regular)"
     }
   ],
   "familyPages": [],
@@ -34,5 +42,5 @@
     "Dusk Stone",
     "Dusk-Stone (item)"
   ],
-  "updatedAt": 1773322420
+  "updatedAt": 1774524156
 }

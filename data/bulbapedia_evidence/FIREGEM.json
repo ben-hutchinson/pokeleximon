@@ -3,7 +3,7 @@
   "answerDisplay": "FIRE GEM",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Fire Gem",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fire_Gem",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Generation V [ edit | edit source ] When held by a Pokémon, it increases the power of the first Fire-type move used by 50%, and is consumed after use. Fling will fail if the user is holding a Fire Gem. Fire Pledge will never consume a Fire Gem. Generation VI onward [ edit | edit source ] When held by a Pokémon, it increases the power of the first Fire-type move used by 30%, and is consumed after use."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods B W Event Dust cloud B2 W2 Reversal Mountain W2 , Accumula Town (if the player chose Tepig ) Dust cloud ( Chargestone Cave , Mistralton Cave , Clay Tunnel , Twist Mountain , Underground Ruins , Victory Road , Wellspring Cave , Seaside Cave , Giant Chasm ) DW * Icy Cave Distribution [ edit | edit source ] As a held item [ edit | edit source ] Games Event Language/Region Distribution period B W Eind Victini Japanese, Korean April 16 to August 31, 2011 December 22, 2011 to January 8, 2012 Movie 14 Victini English, French, German, Italian, Spanish Various B2 Ruby and Sapphire Anniversary Groudon Japanese November 21, 2012 to January 10, 2013"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Fire Gem",
     "Fire-Gem (item)"
   ],
-  "updatedAt": 1773322802
+  "updatedAt": 1774524194
 }

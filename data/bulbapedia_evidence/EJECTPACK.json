@@ -3,7 +3,7 @@
   "answerDisplay": "EJECT PACK",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Eject Pack",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Eject_Pack",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] If any of the holder's stats is lowered (including by the use of its own moves such as Overheat ), the Eject Pack is consumed and the holder automatically switches out . If the holder is switched in while Sticky Web is set on its side of the field, it will immediately switch out again. Because only one Pokémon can switch out per move, a Pokémon's held Eject Pack will not activate if it is hit by Parting Shot . If multiple Pokémon's held Eject Buttons and Eject Packs would activate at once, only the held item of the fastest among these Pokémon will activate."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods Sw Sh Battle Tower (20 BP ) Sw Sh CT Snowslide Slope S V Delibird Presents ( Levincia Branch, after earning 4 Gym Badges )"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Eject Pack",
     "Eject-Pack (item)"
   ],
-  "updatedAt": 1773322493
+  "updatedAt": 1774524161
 }

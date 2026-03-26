@@ -3,7 +3,7 @@
   "answerDisplay": "EJECT BUTTON",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Eject Button",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Eject_Button",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] If the holder is hit by a damaging move and does not faint , it consumes the Eject Button and is immediately switched out for a Pokémon of its Trainer 's choice. It does not activate if the holder is a wild Pokémon or its Trainer has no Pokémon to switch in. The Eject Button will not activate if a Pokémon's substitute takes the hit instead. If a move is affected by the effect of Sheer Force , that move will not activate the Eject Button. The Eject Button activates after the last strike of a multistrike move . If multiple Pokémon, each holding an Eject Button, are hit by a single attack, only the fastest holder's held Eject Button will activate. Suction Cups , trapping moves , Abilities , and Dynamax do not prevent a Pokémon being switched out by the Eject Button. The Eject Button will be removed from the holder by Knock Off , Thief , Covet , or Magician before it has the opportunity to activate. If a Pokémon steals an Eject Button due to Pickpocket , that Eject Button cannot activate for that same attack. If a Pokémon holding an Eject Button is hit by Dragon Tail or Circle Throw , it is forced to switch out or flee before its held Eject Button has the opportunity to activate. If U-turn or Volt Switch causes a Pokémon's held Eject Button to activate, the Pokémon that used the move is not switched out. If a Pokémon with Emergency Exit or Wimp Out holds an Eject Button, the Eject Button activates before the Ability has the opportunity to. Generation VI [ edit | edit source ] The Eject Button is involved in the Symbiosis Eject Button glitch . If an ally's Eject Button is consumed, Symbiosis will activate and transfer an item to that ally after it switches out but before its replacement is sent out. Any item transferred in response to an Eject Button activating cannot activate at this time. Generation VII [ edit | edit source ] The Eject Button activating can no longer trigger Symbiosis."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods B W Battle Subway (32 BP ) B2 W2 Twist Mountain Winter Battle Subway / PWT (16 BP ) X Y OR AS Battle Maison (32 BP ) S M US UM Festival Plaza US UM Battle Tree (32 BP ) Sw Sh Event Battle Tower (20 BP ) S V Delibird Presents ( Levincia Branch) Distribution [ edit | edit source ] As a held item [ edit | edit source ] Games Event Language/Region Distribution period Sw Sh Wonseok Jung's Grimmsnarl All June 11 to 12, 2022 Kohei Fujida's Sableye All June 11 to 12, 2022"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Eject Button",
     "Eject-Button (item)"
   ],
-  "updatedAt": 1773322490
+  "updatedAt": 1774524159
 }

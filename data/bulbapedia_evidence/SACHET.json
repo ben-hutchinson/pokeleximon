@@ -3,7 +3,7 @@
   "answerDisplay": "SACHET",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Sachet",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Sachet",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Held item [ edit | edit source ] Causes Spritzee to evolve into Aromatisse when traded while holding it. This consumes the Sachet."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods X Y Route 12 , Cyllage City Y Battle Maison (32 BP ) OR AS Battle Maison (32 BP ) PMC * Balloon Popping (Lv. 2) S M US UM Konikoni City Battle Tree (32 BP ) Sw Sh Hammerlocke (10 BP ) Battle Café Sw Sh IA Cram-o-matic ( Fairy : 52-60 points) ZA Reward for completing Side Mission 10: \"Skiddo's Fragrant Leaves\" Infinite Z-A Royale Distribution [ edit | edit source ] Games Event Language/Region Distribution period Sw Sh The Isle of Armor promotion packs All June 5 to 11, 2020 Pokémon Center Alcremie Sweets Japan November 1, 2021 to October 31, 2022"
     },
     {
       "title": "Description",
@@ -29,5 +33,5 @@
     "Sachet",
     "Sachet (item)"
   ],
-  "updatedAt": 1773326583
+  "updatedAt": 1774524648
 }

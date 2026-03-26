@@ -3,12 +3,12 @@
   "answerDisplay": "FIRE PLEDGE",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Fire Pledge (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fire_Pledge_(move)",
   "pageId": 117620,
-  "pageRevisionId": 4475819,
+  "pageRevisionId": 4512102,
   "leadText": "Fire Pledge (Japanese: ほのおのちかい Flame Oath) is a damage-dealing Fire-type move introduced in Generation V. It is TM144 in Pokémon Scarlet and Violet. Along with Water Pledge and Grass Pledge, Fire Pledge is one of the battle-combo moves. All Fire-type first partner Pokémon and their Evolutions can learn this move.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD GtI UNUSED S MD It damages an enemy. If it's used with Water Pledge in an Alliance, you and your teammates will get the rainbow condition, and if it's used with Grass Pledge, the enemies in the same room will get the sea of fire condition. MD RT DX It damages an enemy. If your teammate is in a position from which it can use Grass Pledge, the PP of Grass Pledge will be used, but its power increases, and enemies in the same room as you will get the Sea of Fire condition."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] In Pokémon Ultra Sun and Ultra Moon and in Pokémon Sword and Shield , Silvally is programmed to be able to be taught Fire Pledge. However, the Move Tutor will only ever offer to teach it Grass Pledge , making Fire Pledge and Water Pledge unable to be learned legitimately."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Fire Pledge",
     "Fire-Pledge (move)"
   ],
-  "updatedAt": 1773322810
+  "updatedAt": 1774524197
 }

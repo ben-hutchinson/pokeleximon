@@ -22,7 +22,7 @@ from app.core.cache import get_cache
 from app.core.db import get_db
 from app.services.alerting import notify_external_alert
 from app.services.artifact_store import write_json_artifact
-from app.services.puzzle_quality import evaluate_crossword_publishability
+from app.services.puzzle_quality import evaluate_crossword_publishability, evaluate_crossword_structure
 
 
 GENERATOR_VERSION = "reserve-generator-0.3"
@@ -94,6 +94,25 @@ class GeneratedPuzzleResult(TypedDict):
     quality_report: dict[str, Any] | None
     quality_bypassed: bool
     quality_attempts_used: int
+
+
+def _build_editorial_metadata(
+    *,
+    state: Literal["draft", "validated", "published"],
+    editor: str | None = None,
+    notes: str | None = None,
+    generated_at: str | None = None,
+    last_edited_at: str | None = None,
+    validation: dict[str, Any] | None = None,
+) -> dict[str, Any]:
+    return {
+        "state": state,
+        "editor": editor,
+        "notes": notes,
+        "generatedAt": generated_at,
+        "lastEditedAt": last_edited_at,
+        "validation": validation,
+    }
 
 
 def _resolve_crossword_csv_path() -> Path:
@@ -695,8 +714,62 @@ def _load_crossword_csv_lexicon() -> list[dict[str, Any]]:
                 "answer": answer,
                 "clues": clues,
                 "enumeration": enumeration_by_answer.get(answer, str(len(answer))),
+                "source_ref": f"csv://wordlist_crossword_answer_clue.csv#{answer}",
             }
         )
+    if not entries:
+        raise RuntimeError("crossword_csv_empty")
+    return entries
+
+
+def _load_crossword_answer_inventory() -> list[dict[str, Any]]:
+    if not CROSSWORD_CSV_PATH.exists():
+        raise FileNotFoundError(f"Missing crossword CSV at {CROSSWORD_CSV_PATH}")
+    entries_by_answer: dict[str, dict[str, Any]] = {}
+    with CROSSWORD_CSV_PATH.open(newline="") as handle:
+        reader = csv.reader(handle)
+        first_row = next(reader, None)
+        if first_row is None:
+            raise RuntimeError("crossword_csv_empty")
+        header_map = _csv_header_map(first_row)
+        use_header = "answer" in header_map
+        rows = reader if use_header else [first_row, *reader]
+        for row in rows:
+            if not row:
+                continue
+
+            def _cell(name: str, fallback_idx: int | None = None) -> str:
+                if use_header:
+                    idx = header_map.get(name)
+                    if idx is None or idx >= len(row):
+                        return ""
+                    return _normalize_clue_whitespace(row[idx])
+                if fallback_idx is None or fallback_idx >= len(row):
+                    return ""
+                return _normalize_clue_whitespace(row[fallback_idx])
+
+            raw_answer = _cell("answer", 0).upper()
+            answer = _normalize_answer(raw_answer)
+            if not answer or len(answer) < 4 or len(answer) > 15:
+                continue
+
+            enumeration = _cell("enumeration") or _enumeration_from_display_answer(raw_answer, answer)
+            source_ref = _cell("source_ref") or f"csv://wordlist_crossword_answer_clue.csv#{answer}"
+            existing = entries_by_answer.get(answer)
+            if existing is None:
+                entries_by_answer[answer] = {
+                    "answer": answer,
+                    "enumeration": enumeration or str(len(answer)),
+                    "source_ref": source_ref,
+                }
+                continue
+            existing_enumeration = str(existing.get("enumeration", "")).strip()
+            if (("," in enumeration or "-" in enumeration) and "," not in existing_enumeration and "-" not in existing_enumeration):
+                existing["enumeration"] = enumeration
+            if not str(existing.get("source_ref", "")).strip() and source_ref:
+                existing["source_ref"] = source_ref
+
+    entries = [entries_by_answer[key] for key in sorted(entries_by_answer.keys())]
     if not entries:
         raise RuntimeError("crossword_csv_empty")
     return entries
@@ -936,7 +1009,31 @@ def _materialize_crossword_lexicon_for_run(
             continue
         digest = hashlib.sha256(f"{answer}:{seed_value}".encode("utf-8")).hexdigest()
         clue = clean_clues[int(digest[:8], 16) % len(clean_clues)]
-        selected_rows.append({"answer": answer, "clue": clue, "enumeration": enumeration})
+        selected_rows.append(
+            {
+                "answer": answer,
+                "clue": clue,
+                "enumeration": enumeration,
+                "source_ref": str(row.get("source_ref", "")).strip() or f"csv://wordlist_crossword_answer_clue.csv#{answer}",
+            }
+        )
+    return selected_rows
+
+
+def _materialize_crossword_lexicon_for_draft(lexicon: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    selected_rows: list[dict[str, Any]] = []
+    for row in lexicon:
+        answer = str(row.get("answer", "")).strip()
+        if not answer:
+            continue
+        selected_rows.append(
+            {
+                "answer": answer,
+                "clue": "",
+                "enumeration": str(row.get("enumeration", "")).strip() or str(len(answer)),
+                "source_ref": str(row.get("source_ref", "")).strip() or f"csv://wordlist_crossword_answer_clue.csv#{answer}",
+            }
+        )
     return selected_rows
 
 
@@ -1055,7 +1152,17 @@ def _try_build_crossword_layout(
         return (overlap, len(answer))
 
     starter = max(pool, key=starter_score)
-    placed: list[dict[str, Any]] = [{"answer": starter["answer"], "clue": starter["clue"], "x": 0, "y": 0, "direction": "across"}]
+    placed: list[dict[str, Any]] = [
+        {
+            "answer": starter["answer"],
+            "clue": starter["clue"],
+            "enumeration": starter.get("enumeration"),
+            "source_ref": starter.get("source_ref"),
+            "x": 0,
+            "y": 0,
+            "direction": "across",
+        }
+    ]
     used = {str(starter["answer"])}
 
     def maybe_within_bounds(candidate: list[dict[str, Any]]) -> bool:
@@ -1094,6 +1201,7 @@ def _try_build_crossword_layout(
                         "answer": answer,
                         "clue": row["clue"],
                         "enumeration": row.get("enumeration"),
+                        "source_ref": row.get("source_ref"),
                         "x": start_x,
                         "y": start_y,
                         "direction": direction,
@@ -1121,9 +1229,14 @@ def _build_crossword_puzzle_payload(
     timezone: str,
     lexicon: list[dict[str, Any]],
     seed_value: int,
+    draft_mode: bool = False,
 ) -> dict[str, Any]:
     rng = random.Random(seed_value)
-    selected_lexicon = _materialize_crossword_lexicon_for_run(lexicon, seed_value=seed_value)
+    selected_lexicon = (
+        _materialize_crossword_lexicon_for_draft(lexicon)
+        if draft_mode
+        else _materialize_crossword_lexicon_for_run(lexicon, seed_value=seed_value)
+    )
     if not selected_lexicon:
         raise RuntimeError("crossword_csv_empty")
     layout: list[dict[str, Any]] | None = None
@@ -1157,6 +1270,7 @@ def _build_crossword_puzzle_payload(
                 "answer": item["answer"],
                 "clue": item["clue"],
                 "enumeration": item.get("enumeration"),
+                "source_ref": item.get("source_ref"),
                 "direction": item["direction"],
                 "x": int(item["x"]) - min_x,
                 "y": int(item["y"]) - min_y,
@@ -1185,7 +1299,7 @@ def _build_crossword_puzzle_payload(
                 "clue": str(entry["clue"]),
                 "length": len(answer),
                 "cells": cells,
-                "sourceRef": f"csv://wordlist_crossword_answer_clue.csv#{answer}",
+                "sourceRef": str(entry.get("source_ref", "")).strip() or f"csv://wordlist_crossword_answer_clue.csv#{answer}",
                 "enumeration": str(entry.get("enumeration") or len(answer)),
             }
         )
@@ -1251,6 +1365,59 @@ def _build_crossword_puzzle_payload(
     }
 
 
+def _build_crossword_draft_payload(
+    *,
+    target_date: date_type,
+    timezone: str,
+    lexicon: list[dict[str, Any]],
+    seed_value: int,
+) -> dict[str, Any]:
+    governed_payload, quality_report, quality_attempts_used = _build_governed_crossword_draft_payload(
+        target_date=target_date,
+        timezone=timezone,
+        lexicon=lexicon,
+        seed_value=seed_value,
+    )
+    entries = _decode_payload_json_field(governed_payload, "entries")
+    metadata = _decode_payload_json_field(governed_payload, "metadata")
+    if not isinstance(entries, list) or not isinstance(metadata, dict):
+        raise RuntimeError("crossword_draft_payload_structure_invalid")
+    blank_entries: list[dict[str, Any]] = []
+    for entry in entries:
+        if not isinstance(entry, dict):
+            continue
+        blank_entry = dict(entry)
+        blank_entry["clue"] = ""
+        blank_entries.append(blank_entry)
+    generated_at = datetime.now(ZoneInfo("UTC")).isoformat()
+    metadata["editorial"] = _build_editorial_metadata(
+        state="draft",
+        generated_at=generated_at,
+        validation={
+            "structuralQuality": {
+                "isPublishable": bool(quality_report.get("isPublishable", False)),
+                "score": quality_report.get("score"),
+                "hardFailures": list(quality_report.get("hardFailures", [])),
+                "warnings": list(quality_report.get("warnings", [])),
+                "attemptsUsed": quality_attempts_used,
+            }
+        },
+    )
+    title = f"Crossword Draft {target_date.isoformat()} · Worksheet"
+    puzzle_id = f"puz_crossword_{target_date.strftime('%Y%m%d')}_{uuid4().hex[:10]}"
+    return {
+        "id": puzzle_id,
+        "date": target_date,
+        "game_type": "crossword",
+        "title": title,
+        "published_at": None,
+        "timezone": timezone,
+        "grid": governed_payload["grid"],
+        "entries": json.dumps(blank_entries),
+        "metadata": json.dumps(metadata),
+    }
+
+
 def _decode_payload_json_field(payload: dict[str, Any], field: str) -> dict[str, Any] | list[Any]:
     raw_value = payload[field]
     if isinstance(raw_value, str):
@@ -1275,6 +1442,23 @@ def _attach_crossword_quality_report(payload: dict[str, Any]) -> dict[str, Any]:
         metadata=metadata,
     )
     metadata["qualityReport"] = report
+    payload["metadata"] = json.dumps(metadata)
+    return report
+
+
+def _attach_crossword_structural_report(payload: dict[str, Any]) -> dict[str, Any]:
+    grid = _decode_payload_json_field(payload, "grid")
+    entries = _decode_payload_json_field(payload, "entries")
+    metadata = _decode_payload_json_field(payload, "metadata")
+    if not isinstance(grid, dict) or not isinstance(entries, list) or not isinstance(metadata, dict):
+        raise RuntimeError("crossword_payload_structure_invalid")
+
+    report = evaluate_crossword_structure(
+        grid=grid,
+        entries=entries,
+        metadata=metadata,
+    )
+    metadata["structuralQualityReport"] = report
     payload["metadata"] = json.dumps(metadata)
     return report
 
@@ -1324,6 +1508,47 @@ def _build_governed_crossword_puzzle_payload(
     raise QualityGateError(
         code=code,
         message="Crossword puzzle rejected by quality gate after retry budget exhausted.",
+        quality_report=best_report,
+        attempts_used=max(1, max_attempts),
+    )
+
+
+def _build_governed_crossword_draft_payload(
+    *,
+    target_date: date_type,
+    timezone: str,
+    lexicon: list[dict[str, Any]],
+    seed_value: int,
+    max_attempts: int = MAX_CROSSWORD_QUALITY_ATTEMPTS,
+) -> tuple[dict[str, Any], dict[str, Any], int]:
+    best_payload: dict[str, Any] | None = None
+    best_report: dict[str, Any] | None = None
+
+    for attempt in range(max(1, max_attempts)):
+        candidate_seed = seed_value + (attempt * QUALITY_RETRY_SEED_DELTA)
+        candidate_payload = _build_crossword_puzzle_payload(
+            target_date=target_date,
+            timezone=timezone,
+            lexicon=lexicon,
+            seed_value=candidate_seed,
+            draft_mode=True,
+        )
+        report = _attach_crossword_structural_report(candidate_payload)
+        if best_report is None or float(report.get("score", 0.0)) > float(best_report.get("score", 0.0)):
+            best_payload = candidate_payload
+            best_report = report
+        if bool(report.get("isPublishable", False)):
+            return candidate_payload, report, attempt + 1
+
+    if best_payload is None or best_report is None:
+        raise QualityGateError(
+            code="crossword_structure_evaluation_failed",
+            message="Crossword structural evaluation failed before a draft candidate was produced.",
+            attempts_used=max(1, max_attempts),
+        )
+    raise QualityGateError(
+        code="crossword_structure_gate_rejected",
+        message="Crossword draft rejected because no structurally clean grid was produced.",
         quality_report=best_report,
         attempts_used=max(1, max_attempts),
     )
@@ -1380,6 +1605,70 @@ def _build_single_entry_puzzle_payload(
         "generatorVersion": GENERATOR_VERSION,
     }
     title = f"{game_type.title()} Reserve {target_date.isoformat()} · {display_name}"
+    puzzle_id = f"puz_{game_type}_{target_date.strftime('%Y%m%d')}_{uuid4().hex[:10]}"
+    return {
+        "id": puzzle_id,
+        "date": target_date,
+        "game_type": game_type,
+        "title": title,
+        "published_at": None,
+        "timezone": timezone,
+        "grid": json.dumps({"width": width, "height": height, "cells": cells}),
+        "entries": json.dumps(entries),
+        "metadata": json.dumps(metadata),
+    }
+
+
+def _build_single_entry_draft_payload(
+    *,
+    game_type: Literal["crossword", "cryptic"],
+    target_date: date_type,
+    timezone: str,
+    answer: str,
+    display_name: str,
+    source_ref: str,
+    enumeration: str | None = None,
+) -> dict[str, Any]:
+    width = 15
+    height = 15
+    start_x = (width - len(answer)) // 2
+    y = height // 2
+    cells = [
+        {
+            "x": start_x + i,
+            "y": y,
+            "isBlock": False,
+            "solution": ch,
+            "entryIdAcross": "a1",
+            "entryIdDown": None,
+        }
+        for i, ch in enumerate(answer)
+    ]
+    entries = [
+        {
+            "id": "a1",
+            "direction": "across",
+            "number": 1,
+            "answer": answer,
+            "clue": "",
+            "length": len(answer),
+            "cells": [[start_x + i, y] for i in range(len(answer))],
+            "sourceRef": source_ref,
+            "enumeration": enumeration,
+            "mechanism": None,
+            "wordplayPlan": None,
+            "wordplayMetadata": None,
+        }
+    ]
+    generated_at = datetime.now(ZoneInfo("UTC")).isoformat()
+    metadata = {
+        "difficulty": _difficulty(len(answer)),
+        "themeTags": ["pokemon", "draft", game_type],
+        "source": "curated",
+        "generatorVersion": GENERATOR_VERSION,
+        "editorial": _build_editorial_metadata(state="draft", generated_at=generated_at),
+    }
+    title = f"{game_type.title()} Draft {target_date.isoformat()} · {display_name}"
     puzzle_id = f"puz_{game_type}_{target_date.strftime('%Y%m%d')}_{uuid4().hex[:10]}"
     return {
         "id": puzzle_id,
@@ -1733,6 +2022,7 @@ def _persist_generated_puzzle(
     generated: GeneratedPuzzleResult,
     target_date: date_type,
     job_id: str,
+    persist_candidate_row: bool = True,
     ignore_conflicts: bool = False,
 ) -> tuple[str, str | None, bool]:
     payload = generated["payload"]
@@ -1763,7 +2053,7 @@ def _persist_generated_puzzle(
         ),
     )
 
-    if game_type == "cryptic":
+    if game_type == "cryptic" and persist_candidate_row:
         candidate = generated["candidate"]
         if candidate is None:
             raise RuntimeError("cryptic_candidate_unavailable")
@@ -1783,6 +2073,172 @@ def _persist_generated_puzzle(
         )
 
     return puzzle_id, artifact_ref, True
+
+
+def generate_draft_for_date(
+    *,
+    game_type: Literal["crossword", "cryptic"],
+    target_date: date_type,
+    timezone: str,
+) -> dict[str, Any]:
+    job_id = f"job_draft_generate_{game_type}_{uuid4().hex[:10]}"
+    job_model_version = f"{GENERATOR_VERSION}:{game_type}:draft"
+
+    existing_puzzle_id: str | None = None
+    generated_puzzle_id: str | None = None
+    generated_artifact_ref: str | None = None
+
+    try:
+        with get_db() as conn:
+            cursor_kwargs = {"row_factory": dict_row} if dict_row is not None else {}
+            with conn.cursor(**cursor_kwargs) as cur:
+                _insert_generation_job(
+                    cur,
+                    job_id=job_id,
+                    job_date=target_date,
+                    model_version=job_model_version,
+                    job_type="draft_generate",
+                )
+
+                cur.execute(
+                    "SELECT id FROM puzzles "
+                    "WHERE game_type = %(game_type)s AND date = %(date)s AND published_at IS NULL",
+                    {"game_type": game_type, "date": target_date},
+                )
+                stale_ids = [str(row["id"]) for row in cur.fetchall() if row.get("id")]
+                if stale_ids:
+                    existing_puzzle_id = stale_ids[0]
+                    if game_type == "cryptic":
+                        cur.execute(
+                            "DELETE FROM cryptic_candidates WHERE puzzle_id = ANY(%(puzzle_ids)s)",
+                            {"puzzle_ids": stale_ids},
+                        )
+                    cur.execute(
+                        "DELETE FROM puzzles WHERE id = ANY(%(puzzle_ids)s)",
+                        {"puzzle_ids": stale_ids},
+                    )
+
+                if game_type == "crossword":
+                    payload = _build_crossword_draft_payload(
+                        target_date=target_date,
+                        timezone=timezone,
+                        lexicon=_load_crossword_answer_inventory(),
+                        seed_value=int(target_date.strftime("%Y%m%d")),
+                    )
+                    generated: GeneratedPuzzleResult = {
+                        "payload": payload,
+                        "candidate": None,
+                        "quality_report": None,
+                        "quality_bypassed": False,
+                        "quality_attempts_used": 0,
+                    }
+                else:
+                    cryptic_lexicon = _load_cryptic_lexicon()
+                    cur.execute(
+                        "SELECT entries->0->>'answer' AS answer "
+                        "FROM puzzles "
+                        "WHERE game_type = %(game_type)s AND date >= %(today)s",
+                        {"game_type": game_type, "today": datetime.now(ZoneInfo(timezone)).date()},
+                    )
+                    existing_answers = {row["answer"] for row in cur.fetchall() if row.get("answer")}
+                    candidate = _select_cryptic_candidate_for_date(
+                        cryptic_lexicon,
+                        target_date=target_date,
+                        excluded_answers=existing_answers,
+                    )
+                    if candidate is None:
+                        raise RuntimeError("cryptic_candidate_pool_exhausted")
+                    payload = _build_single_entry_draft_payload(
+                        game_type=game_type,
+                        target_date=target_date,
+                        timezone=timezone,
+                        answer=candidate["answer"],
+                        display_name=candidate["display_name"],
+                        source_ref=candidate["source_ref"],
+                        enumeration=candidate.get("enumeration"),
+                    )
+                    generated = {
+                        "payload": payload,
+                        "candidate": candidate,
+                        "quality_report": None,
+                        "quality_bypassed": False,
+                        "quality_attempts_used": 0,
+                    }
+
+                generated_puzzle_id, generated_artifact_ref, _ = _persist_generated_puzzle(
+                    cur,
+                    game_type=game_type,
+                    generated=generated,
+                    target_date=target_date,
+                    job_id=job_id,
+                    persist_candidate_row=False,
+                )
+
+                _complete_generation_job(
+                    cur,
+                    job_id=job_id,
+                    status="succeeded",
+                    logs=json.dumps(
+                        {
+                            "gameType": game_type,
+                            "date": target_date.isoformat(),
+                            "action": "draft_generated",
+                            "puzzleId": generated_puzzle_id,
+                            "replacedPuzzleId": existing_puzzle_id,
+                            "rankerModelVersion": None,
+                            "artifactRefs": [generated_artifact_ref] if generated_artifact_ref else [],
+                        }
+                    ),
+                )
+            conn.commit()
+    except Exception as exc:
+        _mark_generation_job_failed(
+            job_id=job_id,
+            job_date=target_date,
+            error_message=f"{type(exc).__name__}: {exc}",
+            model_version=job_model_version,
+            job_type="draft_generate",
+        )
+        try:
+            from app.data import repo as repo_module
+
+            repo_module.create_operational_alert(
+                alert_type="draft_generation_failed",
+                game_type=game_type,
+                severity="error",
+                message=f"Draft generation failed for {game_type} on {target_date.isoformat()}",
+                details={
+                    "jobId": job_id,
+                    "gameType": game_type,
+                    "date": target_date.isoformat(),
+                    "error": f"{type(exc).__name__}: {exc}",
+                },
+                dedupe_key=f"draft_generation_failed:{game_type}:{target_date.isoformat()}",
+            )
+        except Exception:
+            pass
+        raise
+
+    try:
+        from app.data import repo as repo_module
+
+        repo_module.maybe_emit_draft_ready_notification(
+            date_value=target_date,
+            timezone=timezone,
+        )
+    except Exception:
+        pass
+
+    return {
+        "jobId": job_id,
+        "status": "succeeded",
+        "gameType": game_type,
+        "date": target_date.isoformat(),
+        "action": "draft_generated",
+        "puzzleId": generated_puzzle_id,
+        "replacedPuzzleId": existing_puzzle_id,
+        "rankerModelVersion": None,
+    }
 
 
 def top_up_reserve(

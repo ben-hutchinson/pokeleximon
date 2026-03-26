@@ -3,7 +3,7 @@
   "answerDisplay": "SHADOW MIST",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Shadow Mist (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Mist_(move)",
@@ -26,5 +26,5 @@
     "Shadow Mist",
     "Shadow-Mist (move)"
   ],
-  "updatedAt": 1773326844
+  "updatedAt": 1774524678
 }

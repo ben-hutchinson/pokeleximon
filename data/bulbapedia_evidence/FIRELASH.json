@@ -3,12 +3,12 @@
   "answerDisplay": "FIRE LASH",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Fire Lash (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fire_Lash_(move)",
   "pageId": 218355,
-  "pageRevisionId": 4403468,
+  "pageRevisionId": 4511417,
   "leadText": "Fire Lash (Japanese: ほのおのムチ Flame Lash) is a damage-dealing Fire-type move introduced in Generation VII. Prior to Generation VIII, it was the signature move of Heatmor. In Generation IX, it is the signature move of Salazzle.",
   "sections": [
     {
@@ -18,10 +18,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh LA S V The user strikes the target with a burning lash. This also lowers the target's Defense stat. BD SP This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Despite being Heatmor 's former signature move , it was introduced in Generation VII , in which Heatmor could not be obtained except through the use of Pokémon Bank ."
     }
   ],
   "familyPages": [],
@@ -30,5 +26,5 @@
     "Fire Lash",
     "Fire-Lash (move)"
   ],
-  "updatedAt": 1773322806
+  "updatedAt": 1774524195
 }

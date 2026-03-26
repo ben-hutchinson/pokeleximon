@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4377906,
   "evidencePassMode": "first_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "No Guard (Japanese: No Guard) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Machop's evolutionary line.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Machop'S Evolutionary Line",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD T D Allows Pokemon to ignore stat modifications to accuracy and evasion. MD S Allows Pokemon to ignore stat modifications to accuracy and evasiveness. B S L MD GtI Unavailable S MD The hit rate of moves and attacks won't be lowered even if accuracy is lowered or evasiveness is boosted! It has the same effects on you as on your enemies. Abilities that boost evasiveness have no effects, either. MD RT DX When changes to the Pokemon's and its target's accuracy or evasiveness make it more difficult for attacks to land, those changes go away so that the Pokemon can have a fair fight.",
@@ -45,6 +50,13 @@
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Machop'S Evolutionary Line's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
       {
         "text": "Powers up Dondozo from inside",
         "evidence_ref": "Effect",
@@ -78,5 +90,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257983
+  "updatedAt": 1774525983
 }

@@ -3,7 +3,7 @@
   "answerDisplay": "SHADOW BLITZ",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Shadow Blitz (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Blitz_(move)",
@@ -26,5 +26,5 @@
     "Shadow Blitz",
     "Shadow-Blitz (move)"
   ],
-  "updatedAt": 1773326824
+  "updatedAt": 1774524664
 }

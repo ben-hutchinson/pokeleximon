@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4504960,
   "evidencePassMode": "first_pass",
   "response": {
@@ -29,12 +29,38 @@
         "specificity": 0.62
       },
       {
+        "text": "Evolves Clamperl into Gorebyss When Traded While Holding It",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      },
+      {
         "text": "Boosts Special Defense Of A Clamperl's stats",
         "evidence_ref": "Effect",
         "specificity": 0.9
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Evolves Clamperl into Gorebyss When Traded While Holding It",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.92,
+        "style": "effect"
+      },
+      {
+        "text": "Clamperl evolution item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Held item for Gorebyss When Traded While Holding It",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
       {
         "text": "Special Defense Of A Clamperl Its Special Defense . Outside boost item",
         "evidence_ref": "Effect",
@@ -58,6 +84,8 @@
       }
     ],
     "cryptic_definition_seeds": [
+      "clamperl evolution",
+      "gorebyss when traded while holding it item",
       "special defense of a clamperl item"
     ],
     "connections_descriptors": [
@@ -66,5 +94,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257939
+  "updatedAt": 1774525962
 }

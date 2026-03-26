@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4505571,
-  "evidencePassMode": "first_pass",
+  "evidencePassMode": "second_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -27,32 +27,58 @@
         "text": "Held: Steel-Type moves from holder do 20% more damage.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Boosts Steel-type moves",
+        "evidence_ref": "Effect",
+        "specificity": 0.86
+      },
+      {
+        "text": "Evolves Onix To Evolve Into Steelix And Scyther into Scizor When Traded While Holding It",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
       }
     ],
     "crossword_candidates": [
       {
-        "text": "type enhancement",
-        "evidence_ref": "lead",
-        "mystery_score": 0.35,
-        "specificity_score": 0.52,
-        "style": "category"
+        "text": "Evolves Onix To Evolve Into Steelix And Scyther into Scizor When Traded While Holding It",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.92,
+        "style": "effect"
       },
       {
-        "text": "Gen II type enhancement",
-        "evidence_ref": "lead",
-        "mystery_score": 0.34,
-        "specificity_score": 0.54,
-        "style": "taxonomy"
+        "text": "Onix To Evolve Into Steelix And Scyther evolution item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Held item for Scizor When Traded While Holding It",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
+      },
+      {
+        "text": "Steel-move booster",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
       }
     ],
     "cryptic_definition_seeds": [
-      "type enhancement"
+      "onix to evolve into steelix and scyther evolution",
+      "scizor when traded while holding it item",
+      "steel booster"
     ],
     "connections_descriptors": [
-      "Type Enhancement"
+      "Gen II items"
     ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.78
   },
-  "updatedAt": 1774257974
+  "updatedAt": 1774525980
 }

@@ -3,7 +3,7 @@
   "answerDisplay": "SHADOW BREAK",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Shadow Break (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Break_(move)",
@@ -26,5 +26,5 @@
     "Shadow Break",
     "Shadow-Break (move)"
   ],
-  "updatedAt": 1773326828
+  "updatedAt": 1774524667
 }

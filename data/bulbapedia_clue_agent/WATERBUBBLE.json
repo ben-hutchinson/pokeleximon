@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4407543,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Water Bubble (Japanese: Water Bubble) is an Ability introduced in Generation VII. It is the signature Ability of Dewpider and Araquanid.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Dewpider And Araquanid",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Water Bubble halves the damage dealt to the Pokemon with this Ability by Fire-type attacks and doubles the power of Water-type moves used by the Pokemon with this Ability. It also prevents the Pokemon with the Ability from being burned . A Pokemon with Water Bubble will be cured of burn if it is burned while in battle (such as if it gains the Ability by an effect like Skill Swap , or is burned by a Pokemon with an Ability like Mold Breaker ). Outside of battle [ edit | edit source ] Water Bubble has no effect outside of battle.",
@@ -41,6 +46,13 @@
         "mystery_score": 0.56,
         "specificity_score": 0.66,
         "style": "effect"
+      },
+      {
+        "text": "Dewpider And Araquanid's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
     "cryptic_definition_seeds": [
@@ -53,5 +65,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774258032
+  "updatedAt": 1774526004
 }

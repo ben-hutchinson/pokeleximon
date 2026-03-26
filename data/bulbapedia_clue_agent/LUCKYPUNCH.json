@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4492802,
   "evidencePassMode": "first_pass",
   "response": {
@@ -29,12 +29,31 @@
         "specificity": 0.62
       },
       {
+        "text": "Raises critical-hit odds",
+        "evidence_ref": "lead",
+        "specificity": 0.88
+      },
+      {
         "text": "Boosts Critical Hit Ratio Of A Chansey's stats",
         "evidence_ref": "Effect",
         "specificity": 0.9
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Critical-hit booster",
+        "evidence_ref": "lead",
+        "mystery_score": 0.76,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Raises crit odds in battle",
+        "evidence_ref": "lead",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
       {
         "text": "Critical Hit Ratio Of A Chansey Critical Hit Ratio boost item",
         "evidence_ref": "Effect",
@@ -66,5 +85,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257965
+  "updatedAt": 1774525977
 }

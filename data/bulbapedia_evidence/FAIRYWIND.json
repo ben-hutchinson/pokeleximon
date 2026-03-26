@@ -3,12 +3,12 @@
   "answerDisplay": "FAIRY WIND",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Fairy Wind (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Fairy_Wind_(move)",
   "pageId": 180354,
-  "pageRevisionId": 4440949,
+  "pageRevisionId": 4511423,
   "leadText": "Fairy Wind (Japanese: ようせいのかぜ Fairy Wind) is a damage-dealing Fairy-type move introduced in Generation VI.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description S MD MD RT DX It damages an enemy."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Gardevoir using Fairy Wind Fairy Wind is one of the few moves to be adjusted in-between Pokémon Super Mystery Dungeon and Pokémon Mystery Dungeon: Rescue Team DX . In Super Mystery Dungeon, it has a one-tile radius, but in Rescue Team DX, it has a two-tile radius. Prior to the release of Pokémon X and Y , a trailer at E3 2013 showed Gardevoir using Fairy Wind. However, Gardevoir cannot learn Fairy Wind in the final release of the game."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Fairy Wind",
     "Fairy-Wind (move)"
   ],
-  "updatedAt": 1773322699
+  "updatedAt": 1774524184
 }

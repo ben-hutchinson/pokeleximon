@@ -3,8 +3,8 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4301176,
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
   "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
@@ -44,5 +44,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257991
+  "updatedAt": 1774525985
 }

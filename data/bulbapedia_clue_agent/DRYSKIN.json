@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4388192,
   "evidencePassMode": "second_pass",
   "response": {
@@ -39,12 +39,38 @@
         "specificity": 0.62
       },
       {
+        "text": "Heals from Water-type moves",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
+      },
+      {
         "text": "Weather-linked trait",
         "evidence_ref": "lead",
         "specificity": 0.66
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Heals from Water-type moves",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.82,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Water-immunity that restores HP",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Recovers when struck by Water",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.7,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
       {
         "text": "Weather-linked trait",
         "evidence_ref": "lead",
@@ -54,14 +80,17 @@
       }
     ],
     "cryptic_definition_seeds": [
+      "water eater",
+      "water heal",
       "weather trait"
     ],
     "connections_descriptors": [
+      "Water healing abilities",
       "Weather abilities",
       "Gen IV abilities"
     ],
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257942
+  "updatedAt": 1774525964
 }

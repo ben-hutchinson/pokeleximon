@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4491726,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Forecast (Japanese: Temperamental) is an Ability introduced in Generation III. It is the signature Ability of Castform.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Castform",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD R B The Pokemon's type changes with the weather. MD T D S Changes the Pokemon's type based on the weather. B S L MD GtI Unavailable S MD The Pokemon changes its type depending on the weather. If it's sunny, it changes to Fire type. If it's rain, it changes to Water type. If it's hail, it changes to Ice type. MD RT DX The Pokemon changes its type depending on the weather. During Sunny weather or Extremely Harsh Sunlight, it changes to Fire type. During Rain or Heavy Rain, it changes to Water type. During Hail, it changes to Ice type.",
@@ -46,6 +51,13 @@
     ],
     "crossword_candidates": [
       {
+        "text": "Castform's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
         "text": "Weather-linked trait",
         "evidence_ref": "lead",
         "mystery_score": 0.56,
@@ -63,5 +75,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257947
+  "updatedAt": 1774525967
 }

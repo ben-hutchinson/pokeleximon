@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4442406,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Ice Scales (Japanese: Ice Scales) is an Ability introduced in Generation VIII. It is the signature Ability of Snom and Frosmoth.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Snom And Frosmoth",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] Ice Scales halves damage from special moves that hit Pokemon with this Ability, including from special moves that use the target's Defense stat (like Psyshock ). It has no effect on moves that deal direct damage . Outside of battle [ edit | edit source ] Ice Scales has no effect outside of battle.",
@@ -36,17 +41,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "Gen VIII ability",
+        "text": "Snom And Frosmoth's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
-    "connections_descriptors": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
+    "connections_descriptors": [
+      "Gen VIII abilities"
+    ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774257956
+  "updatedAt": 1774525973
 }

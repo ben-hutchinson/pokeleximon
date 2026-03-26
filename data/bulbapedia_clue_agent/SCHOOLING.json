@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 3899574,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Schooling (Japanese: Schooling) is an Ability introduced in Generation VII. It is the signature Ability of Wishiwashi.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Wishiwashi",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] If Wishiwashi is level 20 or higher and its HP is above 25% when it is sent out or at the end of a turn, it will change into its School Form. At the end of a turn, if its HP is equal to 25% or below, it will change back to its Solo Form. Gastro Acid , Worry Seed , and Simple Beam fail if the target has the Ability Schooling. Role Play , Skill Swap , Entrainment , and Doodle fail if either Pokemon has Schooling. Schooling cannot be copied by Trace , Power of Alchemy , or Receiver . Schooling cannot be replaced by Mummy or Lingering Aroma , or suppressed by Core Enforcer or Neutralizing Gas . If a Pokemon other than Wishiwashi obtains Schooling with Imposter or Transform , the Pokemon will not change forms. Outside of battle [ edit | edit source ] Schooling has no effect outside of battle.",
@@ -36,17 +41,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "Gen VII ability",
+        "text": "Wishiwashi's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
-    "connections_descriptors": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
+    "connections_descriptors": [
+      "Gen VII abilities"
+    ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774258007
+  "updatedAt": 1774525992
 }

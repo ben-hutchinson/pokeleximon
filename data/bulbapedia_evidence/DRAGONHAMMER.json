@@ -3,12 +3,12 @@
   "answerDisplay": "DRAGON HAMMER",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Dragon Hammer (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Hammer_(move)",
   "pageId": 216555,
-  "pageRevisionId": 4403484,
+  "pageRevisionId": 4514143,
   "leadText": "Dragon Hammer (Japanese: ドラゴンハンマー Dragon Hammer) is a damage-dealing Dragon-type move introduced in Generation VII. In Generation VII, it was the signature move of Alolan Exeggutor, but other Pokémon could still inherit it via breeding.",
   "sections": [
     {
@@ -18,10 +18,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description S M US UM P E Sw Sh BD SP LA The user uses its body like a hammer to attack the target and inflict damage. S V The user wields its body like a hammer to attack the target and inflict damage."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] In Generation IX , its animation is similar to Ice Hammer and Gigaton Hammer when not used by Tinkaton , but with a rose-colored hammer instead of blue or silver, respectively."
     }
   ],
   "familyPages": [],
@@ -30,5 +26,5 @@
     "Dragon Hammer",
     "Dragon-Hammer (move)"
   ],
-  "updatedAt": 1773322275
+  "updatedAt": 1774524141
 }

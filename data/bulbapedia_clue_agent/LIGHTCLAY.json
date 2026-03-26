@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4483214,
-  "evidencePassMode": "first_pass",
+  "evidencePassMode": "second_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -32,9 +32,28 @@
         "text": "Held: Light Screen and Reflect used by the holder last 8 rounds instead of 5.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Extends Barrier",
+        "evidence_ref": "Description",
+        "specificity": 0.86
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Extends barrier",
+        "evidence_ref": "Description",
+        "mystery_score": 0.78,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Barrier lengthener",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
       {
         "text": "Held battle item",
         "evidence_ref": "Description",
@@ -44,7 +63,7 @@
       }
     ],
     "cryptic_definition_seeds": [
-      "battle item"
+      "barrier extender"
     ],
     "connections_descriptors": [
       "Held battle items",
@@ -53,5 +72,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257963
+  "updatedAt": 1774525977
 }

@@ -3,12 +3,12 @@
   "answerDisplay": "DRAGON TAIL",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Dragon Tail (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Tail_(move)",
   "pageId": 117269,
-  "pageRevisionId": 4494541,
+  "pageRevisionId": 4514144,
   "leadText": "Dragon Tail (Japanese: ドラゴンテール Dragon Tail) is a damage-dealing Dragon-type move introduced in Generation V. It is: TM82 from Generation V to Pokémon Ultra Sun and Ultra Moon. TM17 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TM044 in Pokémon Scarlet and Violet.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description Conq. The user knocks away the target, causing it to be switched out for a different Pokémon. MD GtI It damages and blows away an enemy straight back. It causes more damage if the enemy crashes into a wall or a Pokémon. It damages and blows away nearby enemies straight back. It causes more damage if they crash into walls or Pokémon. * S MD MD RT DX It damages an enemy and blows the enemy away in a straight line. It causes more damage if the enemy crashes into a wall or a Pokémon."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Naganadel (in Generation VII ) and Shelgon (in Generation IX ) can both learn Dragon Tail despite lacking a proper tail. In Generation IX, Skrelp can learn Dragon Tail via TM , but its evolved form Dragalge cannot."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Dragon Tail",
     "Dragon-Tail (move)"
   ],
-  "updatedAt": 1773322295
+  "updatedAt": 1774524150
 }

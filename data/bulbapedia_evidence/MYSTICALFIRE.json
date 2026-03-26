@@ -3,12 +3,12 @@
   "answerDisplay": "MYSTICAL FIRE",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Mystical Fire (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Mystical_Fire_(move)",
   "pageId": 184464,
-  "pageRevisionId": 4493869,
+  "pageRevisionId": 4511430,
   "leadText": "Mystical Fire (Japanese: マジカルフレイム Magical Flame) is a damage-dealing Fire-type move introduced in Generation VI. It was TM92 in Pokémon Sword and Shield.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description S MD MD RT DX It damages an enemy. It also lowers the enemy's Sp. Atk."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Mystical Fire is the only Fire-type move that was introduced in Generation VI ."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Mystical Fire",
     "Mystical-Fire (move)"
   ],
-  "updatedAt": 1773325266
+  "updatedAt": 1774524408
 }

@@ -3,7 +3,7 @@
   "answerDisplay": "DAMP MULCH",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Damp Mulch",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Damp_Mulch",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Generation IV [ edit | edit source ] Makes soil dry out 50% slower, but causes growth time of a Berry plant to be 150% of usual. Generation V onward [ edit | edit source ] The Damp Mulch serves no practical purpose other than to be sold."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods D P Pt Route 208 ( Berry Master 's house) HG SS Goldenrod Flower Shop (after acquiring the Berry Pots ) B W Trade B2 W2 Hidden Grottoes , Join Avenue ( Flower Shop ), Funfest Missions"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Damp Mulch",
     "Damp-Mulch (item)"
   ],
-  "updatedAt": 1773322011
+  "updatedAt": 1774524105
 }

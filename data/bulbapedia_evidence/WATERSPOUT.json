@@ -3,12 +3,12 @@
   "answerDisplay": "WATER SPOUT",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Water Spout (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Water_Spout_(move)",
   "pageId": 3934,
-  "pageRevisionId": 4406917,
+  "pageRevisionId": 4512117,
   "leadText": "Water Spout (Japanese: しおふき Water Spout) is a damage-dealing Water-type move introduced in Generation III.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD R B MD T D S Inflicts damage on the target. The higher the user's HP, the greater the damage. B S L てきポケモンに ダメージをあたえる じぶんのＨＰが のこりすくないほど あたえるダメージが ちいさい MD GtI UNUSED S MD It damages nearby enemies. The more HP you have, the greater the damage caused. MD RT DX It damages nearby enemies. The less HP you have, the less powerful this attack will be."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Water Spout is tied with Hydro Cannon for having the highest base power of all Water-type attacks, excluding Z-Moves , Max Moves , and G-Max Moves . A Hydro Vortex based on either of them has the highest base power of all Water-type moves. In Generation III , the magnitude and duration of the enemy's shaking in the Water Spout attack animation depends on the calculated base power. This is not bounded by full power; if the user's HP is above its max HP, for example with Pomeg glitch , the enemy will shake further and longer than intended."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Water Spout",
     "Water-Spout (move)"
   ],
-  "updatedAt": 1773328424
+  "updatedAt": 1774524889
 }

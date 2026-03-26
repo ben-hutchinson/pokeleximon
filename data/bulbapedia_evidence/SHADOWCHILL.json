@@ -3,7 +3,7 @@
   "answerDisplay": "SHADOW CHILL",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Shadow Chill (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Chill_(move)",
@@ -18,10 +18,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description XD A shadowy ice attack that may freeze."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Shadow Chill is the only Shadow move that can cause freezing ."
     }
   ],
   "familyPages": [],
@@ -30,5 +26,5 @@
     "Shadow Chill",
     "Shadow-Chill (move)"
   ],
-  "updatedAt": 1773326830
+  "updatedAt": 1774524669
 }

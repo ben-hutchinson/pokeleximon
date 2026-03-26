@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4419718,
   "evidencePassMode": "second_pass",
   "response": {
@@ -12,9 +12,40 @@
         "text": "Paldea location",
         "evidence_ref": "lead",
         "specificity": 0.5
+      },
+      {
+        "text": "Located in Kitakami",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      },
+      {
+        "text": "Apple orchard",
+        "evidence_ref": "lead",
+        "specificity": 0.86
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Paldea apple orchard",
+        "evidence_ref": "lead",
+        "mystery_score": 0.8,
+        "specificity_score": 0.9,
+        "style": "theme"
+      },
+      {
+        "text": "Large apple orchard",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "theme"
+      },
+      {
+        "text": "Located in Kitakami",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "theme"
+      },
       {
         "text": "Paldea landmark",
         "evidence_ref": "lead",
@@ -24,13 +55,14 @@
       }
     ],
     "cryptic_definition_seeds": [
-      "Pokemon location"
+      "apple orchard"
     ],
     "connections_descriptors": [
+      "Orchard locations",
       "Paldea landmarks"
     ],
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774257926
+  "updatedAt": 1774525953
 }

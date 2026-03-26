@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4492589,
-  "evidencePassMode": "first_pass",
+  "evidencePassMode": "second_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -27,40 +27,45 @@
         "text": "Held: Damaging moves gain a 10% chance to make their target flinch. Traded on a Poliwhirl: Holder evolves into Politoed. Traded on a Slowpoke: Holder evolves into Slowking.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Evolves Poliwhirl To Evolve Into Politoed And Slowpoke into Slowking When Traded While Holding It",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
       }
     ],
     "crossword_candidates": [
       {
-        "text": "flinch-causing item",
-        "evidence_ref": "lead",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
+        "text": "Evolves Poliwhirl To Evolve Into Politoed And Slowpoke into Slowking When Traded While Holding It",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.92,
         "style": "effect"
       },
       {
-        "text": "held items",
-        "evidence_ref": "lead",
-        "mystery_score": 0.35,
-        "specificity_score": 0.52,
-        "style": "category"
+        "text": "Poliwhirl To Evolve Into Politoed And Slowpoke evolution item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
       },
       {
-        "text": "Gen II held items",
-        "evidence_ref": "lead",
-        "mystery_score": 0.34,
-        "specificity_score": 0.54,
-        "style": "taxonomy"
+        "text": "Held item for Slowking When Traded While Holding It",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
       }
     ],
     "cryptic_definition_seeds": [
-      "held items"
+      "poliwhirl to evolve into politoed and slowpoke evolution",
+      "slowking when traded while holding it item"
     ],
     "connections_descriptors": [
-      "Flinch-Causing items",
-      "Held Items"
+      "Gen II items"
     ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.78
   },
-  "updatedAt": 1774257959
+  "updatedAt": 1774525975
 }

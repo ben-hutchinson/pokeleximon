@@ -3,7 +3,7 @@
   "answerDisplay": "PSYCHIC FANGS",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Psychic Fangs (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Psychic_Fangs_(move)",
@@ -26,5 +26,5 @@
     "Psychic Fangs",
     "Psychic-Fangs (move)"
   ],
-  "updatedAt": 1773326077
+  "updatedAt": 1774524527
 }

@@ -3,17 +3,21 @@
   "answerDisplay": "GROUND",
   "sourceType": "type",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Ground (type)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Ground_(type)",
   "pageId": 1153,
-  "pageRevisionId": 4497120,
+  "pageRevisionId": 4513206,
   "leadText": "Ground redirects here. For the Egg Group formerly known as the Ground Egg Group, see Field (Egg Group). The Ground type (Japanese: じめんタイプ Ground type) is one of the eighteen types. Ground-type moves are super effective against Electric-, Fire-, Poison-, Rock-, and Steel-type Pokémon, while Ground-type Pokémon are weak to Grass-, Ice-, and Water-type moves.",
   "sections": [
     {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Generation I introduced the most Ground-type Pokémon of any Generation, with 14, and Generation VI introduced the fewest, with two. Generations I, VI, and VIII introduced the most Ground-type moves of any Generation, with five each, while Generations IV and V introduced the fewest, with two each. Generation IX is the only generation to not introduce a Ground-type move. Generations VI and IX are the only Generations to not introduce a pure Ground-type Pokémon. Despite being immune to Electric-type moves, Ground-type Pokémon can still become paralyzed , though this includes those holding a Ring Target that can be afflicted by Thunder Wave . The Ground type has the highest ratio of super effective offensive matchups over resistances; with five weaknesses opposed to two resistances and one immunity. The Ground type is tied with the Fighting type for the most super effective matchups. In the animated series, Ground-type Pokémon's immunity to Electric-type attacks is treated inconsistently, sometimes upheld and sometimes ignored. Pokémon the Series (in particular Showdown at Pewter City ) also implies that Ground's immunity to Electric has a limit depending on the voltage, as Brock's Onix , when first fighting Pikachu, was completely unaffected by Pikachu's electricity, but in the rematch, Pikachu's electric attacks, having been boosted at an abandoned hydroelectric plant, were giving Onix a noticeable degree of pain, although it still was not enough to completely incapacitate it, as well as environmental factors (such as water being sprayed on it). In Pokémon the Series on multiple occasions, like in Showdown in Pewter City , Sick Daze , and Right On, Rhydon! , Ground and Rock -type Pokémon are said to have strong aversion to water and generally being wet. Rhydon is often presented as an exception to this rule due to its ability to use the move Surf . Each type that resists Flying is weak to Ground, and vice versa. Each type that resists Fairy is also weak to Ground. More Pokémon are immune to Ground-type moves than any other type, as Flying-type Pokémon and Pokémon with the Ability Levitate and Earth Eater are immune to Ground-type moves. The Ground type is the only type in the Generation II games and their remakes that a notable Trainer does not specialize in . Out of all the types, the Ground type has the most moves ineligible for Sky Battles , with 12. The Ground and Flying types are tied with having the fewest notable type specialists, with only five each. The Ground type has been paired up with every other type except for Fairy."
+      "title": "Battle properties",
+      "text": "Battle properties [ edit | edit source ] Note: Type effectiveness multipliers may vary in other games outside the core series . Offensive properties of Ground-type moves Super effective (×2) Not very effective (×½) No effect (×0) Poison Rock Fire Electric Steel Bug Grass Flying Defensive properties of Ground-type Pokémon Weak to (×2) Resists (×½) Immune to (×0) Water Grass Ice Poison Rock Electric The Steel type was introduced in Generation II . Additional effects [ edit | edit source ] Ground-type Pokémon are immune to Thunder Wave , unless they are holding the Ring Target , introduced in Generation V . Ground-type Pokémon are also immune to damage from the sandstorm weather condition, introduced in Generation II , which also increases the power of Ground-type moves by 30% if they have the Ability Sand Force . From Generation II onwards, Ground-type moves cannot hit Pokémon under the effects of Magnet Rise or Telekinesis , the Air Balloon item , or the Abilities Levitate or Earth Eater , though all Pokémon except those with Earth Eater lose their immunity to Ground-type moves when they are grounded (such as by holding an Iron Ball or being under the effects of the moves Ingrain ( Generation IV onward), Gravity , Smack Down , or Thousand Arrows ). Ground-type moves will also affect Flying-type Pokémon when they lose their ungrounded status."
+    },
+    {
+      "title": "Additional effects",
+      "text": "Additional effects [ edit | edit source ] Ground-type Pokémon are immune to Thunder Wave , unless they are holding the Ring Target , introduced in Generation V . Ground-type Pokémon are also immune to damage from the sandstorm weather condition, introduced in Generation II , which also increases the power of Ground-type moves by 30% if they have the Ability Sand Force . From Generation II onwards, Ground-type moves cannot hit Pokémon under the effects of Magnet Rise or Telekinesis , the Air Balloon item , or the Abilities Levitate or Earth Eater , though all Pokémon except those with Earth Eater lose their immunity to Ground-type moves when they are grounded (such as by holding an Iron Ball or being under the effects of the moves Ingrain ( Generation IV onward), Gravity , Smack Down , or Thousand Arrows ). Ground-type moves will also affect Flying-type Pokémon when they lose their ungrounded status."
     }
   ],
   "familyPages": [],
@@ -22,5 +26,5 @@
     "Ground (type)",
     "Ground type"
   ],
-  "updatedAt": 1773323417
+  "updatedAt": 1774524253
 }

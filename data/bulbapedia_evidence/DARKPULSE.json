@@ -3,12 +3,12 @@
   "answerDisplay": "DARK PULSE",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Dark Pulse (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dark_Pulse_(move)",
   "pageId": 17448,
-  "pageRevisionId": 4487954,
+  "pageRevisionId": 4512104,
   "leadText": "Dark Pulse (Japanese: あくのはどう Evil Pulse) is a damage-dealing Dark-type move introduced in Generation IV. It is: TM79 in Generation IV and Pokémon Brilliant Diamond and Shining Pearl. TM97 from Generation VI to Pokémon Ultra Sun and Ultra Moon. TM20 in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!. TR58 in Pokémon Sword and Shield. TM094 in Pokémon Scarlet and Violet. TM090 in Pokémon Legends: Z-A.",
   "sections": [
     {
@@ -30,5 +30,5 @@
     "Dark Pulse",
     "Dark-Pulse (move)"
   ],
-  "updatedAt": 1773322026
+  "updatedAt": 1774524113
 }

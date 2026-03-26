@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4465198,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Stamina redirects here. For other uses, see Stamina (disambiguation). Stamina (Japanese: Stamina) is an Ability introduced in Generation VII. Prior to Generation IX, it was the signature Ability of Mudbray and Mudsdale.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Mudbray And Mudsdale",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Stamina is hit by an attack, its Defense rises by one stage. If a Pokemon with this Ability is hit by a multistrike move (such as Fury Swipes ), each hit activates this Ability. Outside of battle [ edit | edit source ] Stamina has no effect outside of battle.",
@@ -41,6 +46,13 @@
         "mystery_score": 0.56,
         "specificity_score": 0.66,
         "style": "effect"
+      },
+      {
+        "text": "Mudbray And Mudsdale's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
     "cryptic_definition_seeds": [
@@ -53,5 +65,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774258018
+  "updatedAt": 1774525997
 }

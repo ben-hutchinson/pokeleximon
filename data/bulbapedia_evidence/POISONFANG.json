@@ -3,12 +3,12 @@
   "answerDisplay": "POISON FANG",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Poison Fang (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Poison_Fang_(move)",
   "pageId": 3916,
-  "pageRevisionId": 4500954,
+  "pageRevisionId": 4512149,
   "leadText": "Poison Fang (Japanese: どくどくのキバ Excessive Poison Fang) is a damage-dealing Poison-type move introduced in Generation III. It is TM123 in Pokémon Legends: Z-A.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD R B Inflicts damage on the target. It may also leave the target badly poisoned, damaging it over several turns. MD T D S Inflicts damage on the target. It may also give the targeted enemy a Badly Poisoned status condition, which inflicts damage every few turns. B S L てきポケモンに ダメージをあたえる しかも いっていのかくりつで もうどくじょうたいにして いっていターンごとに ダメージを あたえる Conq. The user bites the enemy with toxic fangs. It may also leave the target badly poisoned. MD GtI UNUSED S MD It damages an enemy. It could also make the enemy badly poisoned."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Prior to Generation IX , Poison Fang was the only move with a chance to badly poison as a secondary effect."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Poison Fang",
     "Poison-Fang (move)"
   ],
-  "updatedAt": 1773325874
+  "updatedAt": 1774524456
 }

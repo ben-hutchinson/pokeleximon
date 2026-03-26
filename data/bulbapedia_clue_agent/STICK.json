@@ -3,68 +3,55 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4504976,
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
   "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
-      {
-        "text": "Gen II item",
-        "evidence_ref": "lead",
-        "specificity": 0.48
-      },
       {
         "text": "species specific",
         "evidence_ref": "lead",
         "specificity": 0.62
       },
       {
-        "text": "Gen II species specific",
-        "evidence_ref": "lead",
-        "specificity": 0.54
-      },
-      {
         "text": "Raises Farfetchds critical hit ratio by two stages.",
         "evidence_ref": "lead",
         "specificity": 0.62
-      },
-      {
-        "text": "Boosts Critical Hit Ratio Of A Farfetch'D Or Sirfetch'D's stats",
-        "evidence_ref": "Effect",
-        "specificity": 0.9
       }
     ],
     "crossword_candidates": [
       {
-        "text": "Critical Hit Ratio Of A Farfetch'D Or Sirfetch'D Critical Hit Ratio boost item",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.8,
-        "specificity_score": 0.9,
+        "text": "critical-hit item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
         "style": "effect"
       },
       {
-        "text": "Power item for Critical Hit Ratio Of A Farfetch'D Or Sirfetch'D",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.74,
-        "specificity_score": 0.86,
+        "text": "boosting item",
+        "evidence_ref": "lead",
+        "mystery_score": 0.5,
+        "specificity_score": 0.62,
         "style": "effect"
       },
       {
-        "text": "Critical Hit Ratio Of A Farfetch'D Or Sirfetch'D-only held item",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.72,
-        "specificity_score": 0.84,
-        "style": "effect"
+        "text": "species specific",
+        "evidence_ref": "lead",
+        "mystery_score": 0.35,
+        "specificity_score": 0.52,
+        "style": "category"
       }
     ],
     "cryptic_definition_seeds": [
-      "critical hit ratio of a farfetch'd or sirfetch'd item"
+      "species specific"
     ],
     "connections_descriptors": [
-      "Gen II items"
+      "Critical-Hit items",
+      "Boosting items",
+      "Species Specific"
     ],
     "risk_flags": [],
-    "confidence": 0.78
+    "confidence": 0.68
   },
-  "updatedAt": 1774258019
+  "updatedAt": 1774525998
 }

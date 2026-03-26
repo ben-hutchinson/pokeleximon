@@ -3,7 +3,7 @@
   "answerDisplay": "MAX HONEY",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Max Honey",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Max_Honey",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] When used from the Bag on a fainted Pokémon, it revives the Pokémon and restores all of the Pokémon's HP . Additional effect [ edit | edit source ] It is required as an additional Max Soup ingredient to give or remove Urshifu 's Gigantamax Factor ."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods Sw Sh IA Honeycalm Island (from the story event Max Raid Battle with Dynamax Vespiquen ) Various Max Raid Battles with Combee and Vespiquen on Honeycalm Island"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Max Honey",
     "Max-Honey (item)"
   ],
-  "updatedAt": 1773324823
+  "updatedAt": 1774524372
 }

@@ -21,6 +21,7 @@ from app.data.common import (
 )
 from app.services.alerting import notify_external_alert
 from app.services.artifact_store import write_json_artifact
+from app.services.puzzle_quality import _clue_has_disallowed_content, _normalize
 
 
 logger = logging.getLogger(__name__)
@@ -28,6 +29,12 @@ logger = logging.getLogger(__name__)
 CACHE_TTL_SECONDS = 300
 DATE_TOKEN_RE = re.compile(r"\b\d{4}-\d{2}-\d{2}\b")
 WHITESPACE_RE = re.compile(r"\s+")
+
+
+class DraftValidationError(RuntimeError):
+    def __init__(self, detail: dict[str, Any]):
+        super().__init__("draft_validation_failed")
+        self.detail = detail
 
 
 def _cache_key(prefix: str, *parts: str) -> str:
@@ -111,6 +118,157 @@ def _row_to_puzzle(row: dict[str, Any]) -> PuzzleDict:
     }
 
 
+def _normalize_clue_text(value: Any) -> str:
+    return WHITESPACE_RE.sub(" ", str(value or "")).strip()
+
+
+def _draft_edit_link(date_value: date_type, game_type: str) -> str:
+    return f"/admin?date={date_value.isoformat()}&gameType={game_type}"
+
+
+def _validate_cryptic_draft_entries(entries: list[dict[str, Any]]) -> dict[str, Any]:
+    hard_failures: list[str] = []
+    warnings: list[str] = []
+    blank_clue_count = 0
+    clue_leak_count = 0
+    disallowed_clue_count = 0
+
+    if len(entries) != 1:
+        hard_failures.append("entry_count_invalid")
+
+    for entry in entries:
+        answer = str(entry.get("answer", ""))
+        clue = _normalize_clue_text(entry.get("clue", ""))
+        if not clue:
+            blank_clue_count += 1
+            continue
+        answer_norm = _normalize(answer)
+        clue_norm = _normalize(clue)
+        if len(answer_norm) >= 3 and answer_norm and answer_norm in clue_norm:
+            clue_leak_count += 1
+        if _clue_has_disallowed_content(clue):
+            disallowed_clue_count += 1
+        if len(clue) < 12:
+            warnings.append("clue_surface_short")
+
+    if blank_clue_count > 0:
+        hard_failures.append("blank_clues_present")
+    if clue_leak_count > 0:
+        hard_failures.append("clue_leaks_answer_text")
+    if disallowed_clue_count > 0:
+        hard_failures.append("clue_contains_disallowed_content")
+
+    score = 100.0 - (blank_clue_count * 40.0) - (clue_leak_count * 25.0) - (disallowed_clue_count * 25.0)
+    score = max(0.0, min(100.0, score))
+
+    return {
+        "isPublishable": len(hard_failures) == 0,
+        "score": round(score, 2),
+        "hardFailures": hard_failures,
+        "warnings": warnings,
+        "metrics": {
+            "entryCount": len(entries),
+            "blankClueCount": blank_clue_count,
+            "clueLeakCount": clue_leak_count,
+            "disallowedClueCount": disallowed_clue_count,
+        },
+    }
+
+
+def _validate_crossword_draft_entries(entries: list[dict[str, Any]]) -> dict[str, Any]:
+    hard_failures: list[str] = []
+    warnings: list[str] = []
+
+    clues = [_normalize_clue_text(entry.get("clue", "")) for entry in entries]
+    answers = [str(entry.get("answer", "")) for entry in entries]
+    normalized_answers = [_normalize(answer) for answer in answers if answer]
+    normalized_clues = [_normalize(clue) for clue in clues if clue]
+
+    blank_clue_count = sum(1 for clue in clues if not clue)
+    clue_leak_count = 0
+    disallowed_clue_count = 0
+    for answer, clue in zip(answers, clues, strict=False):
+        answer_norm = _normalize(answer)
+        clue_norm = _normalize(clue)
+        if clue and len(answer_norm) >= 4 and answer_norm and answer_norm in clue_norm:
+            clue_leak_count += 1
+        if clue and _clue_has_disallowed_content(clue):
+            disallowed_clue_count += 1
+
+    unique_clue_ratio = len(set(normalized_clues)) / max(1, len(normalized_clues))
+    unique_answer_ratio = len(set(normalized_answers)) / max(1, len(normalized_answers))
+
+    if blank_clue_count > 0:
+        hard_failures.append("blank_clues_present")
+    if unique_answer_ratio < 1.0:
+        hard_failures.append("duplicate_answers_detected")
+    if unique_clue_ratio < 0.85:
+        hard_failures.append("duplicate_clues_detected")
+    if clue_leak_count > 0:
+        hard_failures.append("clue_leaks_answer_text")
+    if disallowed_clue_count > 0:
+        hard_failures.append("clue_contains_disallowed_content")
+    if len(entries) < 12:
+        warnings.append("entry_count_below_recommended_minimum")
+
+    score = 100.0
+    score -= blank_clue_count * 25.0
+    score -= (1.0 - min(1.0, unique_clue_ratio)) * 45.0
+    score -= clue_leak_count * 20.0
+    score -= disallowed_clue_count * 25.0
+    score = max(0.0, min(100.0, score))
+
+    return {
+        "isPublishable": len(hard_failures) == 0,
+        "score": round(score, 2),
+        "hardFailures": hard_failures,
+        "warnings": warnings,
+        "metrics": {
+            "entryCount": len(entries),
+            "uniqueAnswerRatio": round(unique_answer_ratio, 4),
+            "uniqueClueRatio": round(unique_clue_ratio, 4),
+            "blankClueCount": blank_clue_count,
+            "clueLeakCount": clue_leak_count,
+            "disallowedClueCount": disallowed_clue_count,
+        },
+        "thresholds": {
+            "minUniqueClueRatio": 0.85,
+        },
+    }
+
+
+def _validate_draft_payload(*, game_type: str, grid: dict[str, Any], entries: list[dict[str, Any]], metadata: dict[str, Any]) -> dict[str, Any]:
+    if game_type == "crossword":
+        del grid, metadata
+        return _validate_crossword_draft_entries(entries)
+    return _validate_cryptic_draft_entries(entries)
+
+
+def _editorial_metadata_for_update(
+    metadata: dict[str, Any],
+    *,
+    state: Literal["draft", "validated", "published"],
+    editor: str | None = None,
+    notes: str | None = None,
+    validation: dict[str, Any] | None = None,
+    generated_at: str | None = None,
+    last_edited_at: str | None = None,
+    published_at: str | None = None,
+) -> dict[str, Any]:
+    current = metadata.get("editorial") if isinstance(metadata.get("editorial"), dict) else {}
+    updated = dict(current)
+    updated["state"] = state
+    updated["editor"] = editor if editor is not None else current.get("editor")
+    updated["notes"] = notes if notes is not None else current.get("notes")
+    updated["generatedAt"] = generated_at if generated_at is not None else current.get("generatedAt")
+    updated["lastEditedAt"] = last_edited_at if last_edited_at is not None else current.get("lastEditedAt")
+    updated["validation"] = validation
+    if published_at is not None:
+        updated["publishedAt"] = published_at
+    metadata["editorial"] = updated
+    return metadata
+
+
 def get_puzzle_by_date(
     game_type: PuzzleGameType,
     date: str | None,
@@ -166,6 +324,43 @@ def get_puzzle_by_id(puzzle_id: str) -> PuzzleDict | None:
     puzzle = _row_to_puzzle(row)
     _cache_set(cache_key, puzzle)
     return puzzle
+
+
+def get_draft_by_date(
+    *,
+    game_type: PuzzleGameType,
+    date_value: str | date_type,
+) -> PuzzleDict | None:
+    target_date = _parse_date(date_value)
+    with get_db() as conn:
+        with conn.cursor(row_factory=dict_row) as cur:
+            cur.execute(
+                "SELECT id, date, game_type, title, published_at, timezone, grid, entries, metadata "
+                "FROM puzzles "
+                "WHERE game_type = %(game_type)s AND date = %(date)s AND published_at IS NULL "
+                "ORDER BY created_at DESC "
+                "LIMIT 1",
+                {"game_type": game_type, "date": target_date},
+            )
+            row = cur.fetchone()
+    if not row:
+        return None
+    return _row_to_puzzle(row)
+
+
+def get_draft_by_id(puzzle_id: str) -> PuzzleDict | None:
+    with get_db() as conn:
+        with conn.cursor(row_factory=dict_row) as cur:
+            cur.execute(
+                "SELECT id, date, game_type, title, published_at, timezone, grid, entries, metadata "
+                "FROM puzzles "
+                "WHERE id = %(id)s AND published_at IS NULL",
+                {"id": puzzle_id},
+            )
+            row = cur.fetchone()
+    if not row:
+        return None
+    return _row_to_puzzle(row)
 
 
 def get_archive(
@@ -771,6 +966,345 @@ def resolve_operational_alert(
         "resolutionNote": row["resolution_note"],
         "createdAt": row["created_at"].isoformat() if row["created_at"] else None,
     }
+
+
+def create_operational_alert(
+    *,
+    alert_type: str,
+    game_type: str,
+    severity: str,
+    message: str,
+    details: dict[str, Any],
+    dedupe_key: str,
+) -> tuple[dict[str, Any], bool]:
+    with get_db() as conn:
+        with conn.cursor(row_factory=dict_row) as cur:
+            cur.execute(
+                "SELECT id FROM operational_alerts WHERE dedupe_key = %(dedupe_key)s FOR UPDATE",
+                {"dedupe_key": dedupe_key},
+            )
+            existing = cur.fetchone()
+            if existing is None:
+                cur.execute(
+                    "INSERT INTO operational_alerts "
+                    "(alert_type, game_type, severity, message, details, dedupe_key) "
+                    "VALUES (%(alert_type)s, %(game_type)s, %(severity)s, %(message)s, %(details)s::json, %(dedupe_key)s) "
+                    "RETURNING id, alert_type, game_type, severity, message, details, dedupe_key, "
+                    "resolved_at, resolved_by, resolution_note, created_at",
+                    {
+                        "alert_type": alert_type,
+                        "game_type": game_type,
+                        "severity": severity,
+                        "message": message,
+                        "details": json.dumps(details),
+                        "dedupe_key": dedupe_key,
+                    },
+                )
+                row = cur.fetchone()
+                created = True
+            else:
+                cur.execute(
+                    "UPDATE operational_alerts "
+                    "SET alert_type = %(alert_type)s, game_type = %(game_type)s, severity = %(severity)s, "
+                    "message = %(message)s, details = %(details)s::json, resolved_at = NULL, resolved_by = NULL, resolution_note = NULL "
+                    "WHERE dedupe_key = %(dedupe_key)s "
+                    "RETURNING id, alert_type, game_type, severity, message, details, dedupe_key, "
+                    "resolved_at, resolved_by, resolution_note, created_at",
+                    {
+                        "alert_type": alert_type,
+                        "game_type": game_type,
+                        "severity": severity,
+                        "message": message,
+                        "details": json.dumps(details),
+                        "dedupe_key": dedupe_key,
+                    },
+                )
+                row = cur.fetchone()
+                created = False
+        conn.commit()
+
+    item = {
+        "id": row["id"],
+        "alertType": row["alert_type"],
+        "gameType": row["game_type"],
+        "severity": row["severity"],
+        "message": row["message"],
+        "details": row["details"],
+        "dedupeKey": row["dedupe_key"],
+        "resolvedAt": row["resolved_at"].isoformat() if row["resolved_at"] else None,
+        "resolvedBy": row["resolved_by"],
+        "resolutionNote": row["resolution_note"],
+        "createdAt": row["created_at"].isoformat() if row["created_at"] else None,
+    }
+    return item, created
+
+
+def maybe_emit_draft_ready_notification(*, date_value: str | date_type, timezone: str = "Europe/London") -> dict[str, Any] | None:
+    target_date = _parse_date(date_value)
+    with get_db() as conn:
+        with conn.cursor(row_factory=dict_row) as cur:
+            cur.execute(
+                "SELECT id, game_type, metadata "
+                "FROM puzzles "
+                "WHERE published_at IS NULL AND date = %(date)s AND game_type IN ('crossword', 'cryptic')",
+                {"date": target_date},
+            )
+            rows = cur.fetchall()
+
+    by_game_type = {str(row["game_type"]): row for row in rows}
+    if "crossword" not in by_game_type or "cryptic" not in by_game_type:
+        return None
+
+    details = {
+        "date": target_date.isoformat(),
+        "status": "draft_ready",
+        "drafts": [
+            {
+                "gameType": "crossword",
+                "puzzleId": by_game_type["crossword"]["id"],
+                "editPath": _draft_edit_link(target_date, "crossword"),
+            },
+            {
+                "gameType": "cryptic",
+                "puzzleId": by_game_type["cryptic"]["id"],
+                "editPath": _draft_edit_link(target_date, "cryptic"),
+            },
+        ],
+        "adminPath": f"/admin?date={target_date.isoformat()}",
+        "timezone": timezone,
+    }
+    item, created = create_operational_alert(
+        alert_type="draft_ready",
+        game_type="crossword+cryptic",
+        severity="info",
+        message=f"Crossword and cryptic drafts are ready for {target_date.isoformat()}",
+        details=details,
+        dedupe_key=f"draft_ready:{target_date.isoformat()}",
+    )
+    if created:
+        notify_external_alert(
+            event_type="draft_ready",
+            severity="info",
+            message=f"Crossword and cryptic drafts are ready for {target_date.isoformat()}",
+            details=details,
+        )
+    return item
+
+
+def save_draft_puzzle(
+    *,
+    puzzle_id: str,
+    entry_updates: list[dict[str, Any]],
+    editor: str | None = None,
+    notes: str | None = None,
+) -> PuzzleDict | None:
+    now = datetime.now(ZoneInfo("UTC")).isoformat()
+    with get_db() as conn:
+        with conn.cursor(row_factory=dict_row) as cur:
+            cur.execute(
+                "SELECT id, date, game_type, title, published_at, timezone, grid, entries, metadata "
+                "FROM puzzles WHERE id = %(id)s AND published_at IS NULL FOR UPDATE",
+                {"id": puzzle_id},
+            )
+            row = cur.fetchone()
+            if not row:
+                return None
+
+            entries = row["entries"] if isinstance(row.get("entries"), list) else []
+            metadata = row["metadata"] if isinstance(row.get("metadata"), dict) else {}
+            updates_by_id = {
+                str(item.get("id", "")).strip(): _normalize_clue_text(item.get("clue", ""))
+                for item in entry_updates
+                if str(item.get("id", "")).strip()
+            }
+            if not updates_by_id:
+                raise ValueError("No draft entry updates supplied")
+
+            known_ids = {str(entry.get("id", "")).strip() for entry in entries if isinstance(entry, dict)}
+            unknown_ids = sorted(entry_id for entry_id in updates_by_id.keys() if entry_id not in known_ids)
+            if unknown_ids:
+                raise ValueError(f"Unknown draft entry ids: {', '.join(unknown_ids)}")
+
+            updated_entries: list[dict[str, Any]] = []
+            for entry in entries:
+                if not isinstance(entry, dict):
+                    continue
+                updated = dict(entry)
+                entry_id = str(updated.get("id", "")).strip()
+                if entry_id in updates_by_id:
+                    updated["clue"] = updates_by_id[entry_id]
+                updated_entries.append(updated)
+
+            metadata = _editorial_metadata_for_update(
+                dict(metadata),
+                state="draft",
+                editor=editor,
+                notes=notes,
+                validation=None,
+                generated_at=None,
+                last_edited_at=now,
+            )
+
+            cur.execute(
+                "UPDATE puzzles "
+                "SET entries = %(entries)s::json, metadata = %(metadata)s::json "
+                "WHERE id = %(id)s "
+                "RETURNING id, date, game_type, title, published_at, timezone, grid, entries, metadata",
+                {
+                    "id": puzzle_id,
+                    "entries": json.dumps(updated_entries),
+                    "metadata": json.dumps(metadata),
+                },
+            )
+            updated_row = cur.fetchone()
+        conn.commit()
+
+    _invalidate_puzzle_caches(cast(PuzzleGameType, updated_row["game_type"]), cast(date_type, updated_row["date"]), puzzle_id)
+    return _row_to_puzzle(updated_row)
+
+
+def validate_draft_puzzle(puzzle_id: str) -> dict[str, Any] | None:
+    validated_at = datetime.now(ZoneInfo("UTC")).isoformat()
+    with get_db() as conn:
+        with conn.cursor(row_factory=dict_row) as cur:
+            cur.execute(
+                "SELECT id, date, game_type, title, published_at, timezone, grid, entries, metadata "
+                "FROM puzzles WHERE id = %(id)s AND published_at IS NULL FOR UPDATE",
+                {"id": puzzle_id},
+            )
+            row = cur.fetchone()
+            if not row:
+                return None
+
+            grid = row["grid"] if isinstance(row.get("grid"), dict) else {}
+            entries = row["entries"] if isinstance(row.get("entries"), list) else []
+            metadata = row["metadata"] if isinstance(row.get("metadata"), dict) else {}
+            report = _validate_draft_payload(
+                game_type=str(row["game_type"]),
+                grid=grid,
+                entries=entries,
+                metadata=dict(metadata),
+            )
+
+            metadata = _editorial_metadata_for_update(
+                dict(metadata),
+                state="validated" if bool(report.get("isPublishable", False)) else "draft",
+                validation={**report, "validatedAt": validated_at},
+                last_edited_at=None,
+            )
+            cur.execute(
+                "UPDATE puzzles "
+                "SET metadata = %(metadata)s::json "
+                "WHERE id = %(id)s "
+                "RETURNING id, date, game_type, title, published_at, timezone, grid, entries, metadata",
+                {
+                    "id": puzzle_id,
+                    "metadata": json.dumps(metadata),
+                },
+            )
+            updated_row = cur.fetchone()
+        conn.commit()
+
+    _invalidate_puzzle_caches(cast(PuzzleGameType, updated_row["game_type"]), cast(date_type, updated_row["date"]), puzzle_id)
+    return {"item": _row_to_puzzle(updated_row), "validation": report}
+
+
+def publish_draft_puzzle(
+    *,
+    puzzle_id: str,
+    timezone: str = "Europe/London",
+    contest_mode: bool | None = None,
+) -> dict[str, Any] | None:
+    published_at = datetime.now(ZoneInfo(timezone))
+    with get_db() as conn:
+        with conn.cursor(row_factory=dict_row) as cur:
+            cur.execute(
+                "SELECT id, date, game_type, title, published_at, timezone, grid, entries, metadata "
+                "FROM puzzles WHERE id = %(id)s AND published_at IS NULL FOR UPDATE",
+                {"id": puzzle_id},
+            )
+            row = cur.fetchone()
+            if not row:
+                return None
+
+            grid = row["grid"] if isinstance(row.get("grid"), dict) else {}
+            entries = row["entries"] if isinstance(row.get("entries"), list) else []
+            metadata = row["metadata"] if isinstance(row.get("metadata"), dict) else {}
+            report = _validate_draft_payload(
+                game_type=str(row["game_type"]),
+                grid=grid,
+                entries=entries,
+                metadata=dict(metadata),
+            )
+            if not bool(report.get("isPublishable", False)):
+                raise DraftValidationError(
+                    {
+                        "code": "draft_not_publishable",
+                        "message": "Draft is not publishable.",
+                        "validation": report,
+                    }
+                )
+
+            metadata = dict(metadata)
+            if contest_mode is not None:
+                metadata["contestMode"] = contest_mode
+            metadata = _editorial_metadata_for_update(
+                metadata,
+                state="published",
+                validation={**report, "validatedAt": published_at.isoformat()},
+                published_at=published_at.isoformat(),
+            )
+            cur.execute(
+                "UPDATE puzzles "
+                "SET published_at = %(published_at)s, timezone = %(timezone)s, metadata = %(metadata)s::json "
+                "WHERE id = %(id)s "
+                "RETURNING id, date, game_type, title, published_at, timezone, grid, entries, metadata",
+                {
+                    "id": puzzle_id,
+                    "published_at": published_at,
+                    "timezone": timezone,
+                    "metadata": json.dumps(metadata),
+                },
+            )
+            updated_row = cur.fetchone()
+
+            if str(updated_row["game_type"]) == "cryptic" and entries:
+                entry = entries[0] if isinstance(entries[0], dict) else {}
+                answer = str(entry.get("answer", "")).strip()
+                clue = _normalize_clue_text(entry.get("clue", ""))
+                cur.execute(
+                    "INSERT INTO cryptic_candidates ("
+                    "job_id, puzzle_id, target_date, source_ref, source_type, answer_key, answer_display, "
+                    "clue_text, mechanism, wordplay_plan, validator_passed, validator_issues, rank_score, rank_position, selected"
+                    ") VALUES ("
+                    "%(job_id)s, %(puzzle_id)s, %(target_date)s, %(source_ref)s, %(source_type)s, %(answer_key)s, %(answer_display)s, "
+                    "%(clue_text)s, %(mechanism)s, %(wordplay_plan)s::json, true, %(validator_issues)s::json, 100.0, 1, true"
+                    ")",
+                    {
+                        "job_id": f"manual_publish_{puzzle_id}",
+                        "puzzle_id": puzzle_id,
+                        "target_date": updated_row["date"],
+                        "source_ref": str(entry.get("sourceRef", "")).strip() or f"manual://draft#{answer}",
+                        "source_type": "manual-draft",
+                        "answer_key": answer,
+                        "answer_display": answer,
+                        "clue_text": clue,
+                        "mechanism": str(entry.get("mechanism", "manual") or "manual").strip().lower(),
+                        "wordplay_plan": json.dumps(
+                            {
+                                "text": str(entry.get("wordplayPlan", "") or ""),
+                                "metadata": entry.get("wordplayMetadata", {})
+                                if isinstance(entry.get("wordplayMetadata"), dict)
+                                else {},
+                            }
+                        ),
+                        "validator_issues": json.dumps([]),
+                    },
+                )
+        conn.commit()
+
+    _invalidate_puzzle_caches(cast(PuzzleGameType, updated_row["game_type"]), cast(date_type, updated_row["date"]), puzzle_id)
+    return {"item": _row_to_puzzle(updated_row), "validation": report}
 
 
 def list_generation_jobs(

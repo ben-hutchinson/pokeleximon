@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4299121,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Seed Sower (Japanese: Self-Sowing Seeds) is an Ability introduced in Generation IX. It is the signature Ability of Arboliva.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Arboliva",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with Seed Sower is hit by a damaging move, it summons Grassy Terrain for five turns, unless Grassy Terrain is already present. This can be extended to eight turns if the Pokemon is holding a Terrain Extender . If hit by a multistrike move , the first strike will activate it. Seed Sower activates before the effect of the moves Steel Roller and Ice Spinner is triggered, thus removing the grassy terrain. Outside of battle [ edit | edit source ] Seed Sower has no effect outside of battle.",
@@ -36,17 +41,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "Gen IX ability",
+        "text": "Arboliva's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
-    "connections_descriptors": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
+    "connections_descriptors": [
+      "Gen IX abilities"
+    ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774258008
+  "updatedAt": 1774525993
 }

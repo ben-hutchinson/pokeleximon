@@ -3,8 +3,8 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": 4470855,
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": null,
   "evidencePassMode": "first_pass",
   "response": {
     "fact_nuggets": [
@@ -12,16 +12,6 @@
         "text": "sandwich ingredients",
         "evidence_ref": "lead",
         "specificity": 0.62
-      },
-      {
-        "text": "Pokemon item from the main series games.",
-        "evidence_ref": "lead",
-        "specificity": 0.62
-      },
-      {
-        "text": "Special Poke Ball",
-        "evidence_ref": "lead",
-        "specificity": 0.68
       },
       {
         "text": "Used for berry recipes or blending",
@@ -36,31 +26,16 @@
         "mystery_score": 0.68,
         "specificity_score": 0.82,
         "style": "family"
-      },
-      {
-        "text": "Special Poke Ball",
-        "evidence_ref": "lead",
-        "mystery_score": 0.52,
-        "specificity_score": 0.68,
-        "style": "family"
-      },
-      {
-        "text": "Special capture ball",
-        "evidence_ref": "lead",
-        "mystery_score": 0.5,
-        "specificity_score": 0.66,
-        "style": "family"
       }
     ],
     "cryptic_definition_seeds": [
-      "berry ingredient",
-      "special ball"
+      "berry ingredient"
     ],
     "connections_descriptors": [
-      "Special Poke Balls"
+      "Battle items"
     ],
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257980
+  "updatedAt": 1774525982
 }

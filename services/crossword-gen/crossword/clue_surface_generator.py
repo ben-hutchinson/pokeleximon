@@ -659,6 +659,55 @@ def _item_payload(facts: list[dict[str, Any]]) -> dict[str, Any]:
         candidates.append(_candidate("Evolution-trigger item", ref, 0.54, 0.8, "family"))
         cryptic.append("evolution item")
         descriptors.append("Evolution items")
+    if by_kind.get("specific_evolution_item"):
+        fact = by_kind["specific_evolution_item"][0]
+        ref = str(fact.get("evidence_ref") or "lead")
+        evolves_from = str(fact.get("evolves_from") or "a Pokemon")
+        evolves_to = str(fact.get("evolves_to") or "an evolution")
+        candidates.append(_candidate(f"Evolves {evolves_from} into {evolves_to}", ref, 0.8, 0.92, "effect"))
+        candidates.append(_candidate(f"{evolves_from} evolution item", ref, 0.74, 0.86, "effect"))
+        candidates.append(_candidate(f"Held item for {evolves_to}", ref, 0.68, 0.82, "effect"))
+        cryptic.extend([f"{evolves_from.lower()} evolution", f"{evolves_to.lower()} item"])
+    if by_kind.get("spin_evolution"):
+        ref = str(by_kind["spin_evolution"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Requires a spin while held", ref, 0.74, 0.86, "effect"))
+        candidates.append(_candidate("Spin-to-evolve held item", ref, 0.7, 0.82, "effect"))
+    if by_kind.get("sweet_shape"):
+        ref = str(by_kind["sweet_shape"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Berry-shaped sweet", ref, 0.72, 0.82, "theme"))
+    if by_kind.get("secondary_effect_block"):
+        ref = str(by_kind["secondary_effect_block"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Blocks extra move effects", ref, 0.82, 0.9, "effect"))
+        candidates.append(_candidate("Ignores secondary effects", ref, 0.76, 0.88, "effect"))
+        candidates.append(_candidate("Fake Out flinch blocker", ref, 0.72, 0.84, "effect"))
+        cryptic.extend(["secondary-effect shield", "covert protection"])
+    if by_kind.get("weather_extension"):
+        fact = by_kind["weather_extension"][0]
+        weather = str(fact.get("weather") or "weather")
+        ref = str(fact.get("evidence_ref") or "lead")
+        candidates.append(_candidate(f"Extends {weather.lower()}", ref, 0.78, 0.88, "effect"))
+        candidates.append(_candidate(f"{weather} lengthener", ref, 0.72, 0.84, "effect"))
+        cryptic.append(f"{weather.lower()} extender")
+    if by_kind.get("switch_out_on_hit"):
+        ref = str(by_kind["switch_out_on_hit"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Switches the holder out after a hit", ref, 0.8, 0.88, "effect"))
+        candidates.append(_candidate("Hit-triggered pivot item", ref, 0.72, 0.84, "effect"))
+        cryptic.extend(["pivot button", "forced switch item"])
+    if by_kind.get("switch_out_on_stat_drop"):
+        ref = str(by_kind["switch_out_on_stat_drop"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Switches out after stat drops", ref, 0.8, 0.88, "effect"))
+        candidates.append(_candidate("Stat-drop escape item", ref, 0.72, 0.84, "effect"))
+        cryptic.extend(["escape pack", "stat-drop pivot"])
+    if by_kind.get("evasion_item"):
+        ref = str(by_kind["evasion_item"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Makes the holder harder to hit", ref, 0.76, 0.88, "effect"))
+        candidates.append(_candidate("Evasiveness-boosting held item", ref, 0.7, 0.82, "effect"))
+        cryptic.append("evasion item")
+    if by_kind.get("fusion_item"):
+        ref = str(by_kind["fusion_item"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Used for Kyurem fusion", ref, 0.82, 0.9, "effect"))
+        candidates.append(_candidate("Reshiram/Zekrom fusion item", ref, 0.74, 0.86, "effect"))
+        cryptic.append("fusion item")
     if by_kind.get("triggered_stat_boost"):
         fact = by_kind["triggered_stat_boost"][0]
         stat = _pretty_stat(str(fact.get("stat") or "a stat"))
@@ -743,6 +792,56 @@ def _item_payload(facts: list[dict[str, Any]]) -> dict[str, Any]:
         if hp:
             candidates.append(_candidate(f"Restores {hp} HP", ref, 0.72, 0.84, "effect"))
             candidates.append(_candidate(f"{hp}-HP restorative", ref, 0.68, 0.82, "effect"))
+    if by_kind.get("typed_move_boost_item"):
+        fact = by_kind["typed_move_boost_item"][0]
+        ref = str(fact.get("evidence_ref") or "lead")
+        move_type = str(fact.get("move_type") or "typed")
+        one_use = bool(fact.get("one_use"))
+        if one_use:
+            candidates.append(_candidate(f"Boosts the first {move_type}-type move", ref, 0.82, 0.9, "effect"))
+            candidates.append(_candidate(f"One-use {move_type} booster", ref, 0.76, 0.86, "effect"))
+        candidates.append(_candidate(f"{move_type}-move booster", ref, 0.72, 0.84, "effect"))
+        cryptic.append(f"{move_type.lower()} booster")
+    if by_kind.get("accuracy_drop_item"):
+        ref = str(by_kind["accuracy_drop_item"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Lowers the foe's accuracy", ref, 0.8, 0.9, "effect"))
+        candidates.append(_candidate("Accuracy-cutting held item", ref, 0.72, 0.84, "effect"))
+        cryptic.append("accuracy reducer")
+    if by_kind.get("choice_lock_item"):
+        fact = by_kind["choice_lock_item"][0]
+        ref = str(fact.get("evidence_ref") or "lead")
+        stat = _compact_stat(str(fact.get("stat") or "a stat"))
+        candidates.append(_candidate(f"Boosts {stat} but locks one move", ref, 0.82, 0.9, "effect"))
+        candidates.append(_candidate(f"{stat}-boosting Choice item", ref, 0.76, 0.88, "effect"))
+        candidates.append(_candidate("Single-move-locking held item", ref, 0.72, 0.84, "effect"))
+        cryptic.extend(["choice item", "move-locking gear"])
+    if by_kind.get("wild_encounter_reduce"):
+        ref = str(by_kind["wild_encounter_reduce"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Repels wild Pokemon", ref, 0.8, 0.88, "effect"))
+        candidates.append(_candidate("Cuts wild encounter rate", ref, 0.74, 0.86, "effect"))
+        cryptic.append("encounter repellent")
+    if by_kind.get("status_cure_all"):
+        ref = str(by_kind["status_cure_all"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Cures all major status conditions", ref, 0.82, 0.9, "effect"))
+        candidates.append(_candidate("Full status remedy", ref, 0.74, 0.86, "effect"))
+        if by_kind.get("status_cure_confusion"):
+            candidates.append(_candidate("Also cures confusion", ref, 0.7, 0.84, "effect"))
+        cryptic.append("status panacea")
+    if by_kind.get("item_stat_drop_protection"):
+        ref = str(by_kind["item_stat_drop_protection"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Prevents the holder's stats from being lowered", ref, 0.82, 0.9, "effect"))
+        candidates.append(_candidate("Blocks enemy stat drops", ref, 0.74, 0.86, "effect"))
+        cryptic.append("stat-drop shield")
+    if by_kind.get("infatuation_share_item"):
+        ref = str(by_kind["infatuation_share_item"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Passes infatuation back", ref, 0.82, 0.9, "effect"))
+        candidates.append(_candidate("Shares attraction with the infatuator", ref, 0.74, 0.86, "effect"))
+        cryptic.append("love-link item")
+    if by_kind.get("breeding_iv_item"):
+        ref = str(by_kind["breeding_iv_item"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Passes down five IVs in breeding", ref, 0.84, 0.92, "effect"))
+        candidates.append(_candidate("Breeding IV-transfer item", ref, 0.74, 0.86, "effect"))
+        cryptic.append("breeding item")
     if by_kind.get("fossil_revival"):
         fact = by_kind["fossil_revival"][0]
         revived = str(fact.get("revived_species") or "a fossil Pokemon")
@@ -887,6 +986,100 @@ def _location_payload(facts: list[dict[str, Any]]) -> dict[str, Any]:
             candidates.append(_candidate(f"{route} beach house", ref, 0.74, 0.88, "taxonomy"))
         elif route:
             candidates.append(_candidate(f"Site on {route}", ref, 0.54, 0.72, "taxonomy"))
+    if by_kind.get("battle_facility"):
+        fact = by_kind["battle_facility"][0]
+        ref = str(fact.get("evidence_ref") or "lead")
+        facility_name = str(fact.get("facility_name") or "").strip()
+        if facility_name:
+            candidates.append(_candidate(f"Battle Frontier's {facility_name}", ref, 0.78, 0.9, "theme"))
+            candidates.append(_candidate(f"Gen IV battle {facility_name.lower()}", ref, 0.72, 0.84, "theme"))
+        candidates.append(_candidate("Battle Frontier facility", ref, 0.74, 0.88, "theme"))
+        cryptic.append("battle facility")
+        descriptors.append("Battle Frontier facilities")
+    if by_kind.get("frontier_corner"):
+        fact = by_kind["frontier_corner"][0]
+        ref = str(fact.get("evidence_ref") or "lead")
+        corner = str(fact.get("corner") or "").strip()
+        if corner:
+            candidates.append(_candidate(f"{corner} Battle Frontier site", ref, 0.76, 0.9, "theme"))
+    if by_kind.get("regional_wonder"):
+        ref = str(by_kind["regional_wonder"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("One of Kitakami's Six Wonders", ref, 0.82, 0.92, "theme"))
+        candidates.append(_candidate("Kitakami wonder site", ref, 0.72, 0.84, "theme"))
+        cryptic.append("regional wonder")
+        descriptors.append("Kitakami wonders")
+    if by_kind.get("orchard_site"):
+        ref = str(by_kind["orchard_site"][0].get("evidence_ref") or "lead")
+        if by_kind.get("region"):
+            region = str(by_kind["region"][0].get("region") or "").title()
+            candidates.append(_candidate(f"{region} apple orchard", ref, 0.8, 0.9, "theme"))
+        candidates.append(_candidate("Large apple orchard", ref, 0.74, 0.86, "theme"))
+        cryptic.append("apple orchard")
+        descriptors.append("Orchard locations")
+    if by_kind.get("summit_pool"):
+        fact = by_kind["summit_pool"][0]
+        ref = str(fact.get("evidence_ref") or "lead")
+        summit = str(fact.get("summit") or "").strip()
+        if summit:
+            candidates.append(_candidate(f"Pool atop {summit}", ref, 0.82, 0.9, "theme"))
+        candidates.append(_candidate("Mountain-summit pool", ref, 0.72, 0.84, "theme"))
+        cryptic.append("summit pool")
+    if by_kind.get("subregion_site"):
+        fact = by_kind["subregion_site"][0]
+        ref = str(fact.get("evidence_ref") or "lead")
+        area = str(fact.get("area") or "").strip()
+        if area:
+            candidates.append(_candidate(f"Located in {area}", ref, 0.68, 0.82, "theme"))
+    if by_kind.get("battle_venue"):
+        ref = str(by_kind["battle_venue"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Battle venue in the Survival Area", ref, 0.82, 0.9, "theme"))
+        candidates.append(_candidate("Buck's battle spot", ref, 0.72, 0.84, "theme"))
+        cryptic.append("battle venue")
+    if by_kind.get("wild_area_zone"):
+        ref = str(by_kind["wild_area_zone"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Part of the Wild Area", ref, 0.76, 0.86, "theme"))
+        candidates.append(_candidate("Wild Area zone", ref, 0.7, 0.82, "theme"))
+        cryptic.append("wild area site")
+    if by_kind.get("large_lake"):
+        ref = str(by_kind["large_lake"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Large regional lake", ref, 0.74, 0.84, "theme"))
+        cryptic.append("large lake")
+    if by_kind.get("contains_subarea"):
+        fact = by_kind["contains_subarea"][0]
+        ref = str(fact.get("evidence_ref") or "lead")
+        subarea = str(fact.get("subarea") or "").strip()
+        if subarea:
+            candidates.append(_candidate(f"Contains {subarea}", ref, 0.78, 0.88, "theme"))
+    if by_kind.get("dynamax_tree"):
+        ref = str(by_kind["dynamax_tree"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Site of the Dyna Tree", ref, 0.82, 0.9, "theme"))
+        candidates.append(_candidate("Hill with a giant Dynamax tree", ref, 0.74, 0.86, "theme"))
+        cryptic.append("dynamax tree site")
+    if by_kind.get("dna_splicers_site"):
+        ref = str(by_kind["dna_splicers_site"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Hidden location of the DNA Splicers", ref, 0.82, 0.9, "theme"))
+        candidates.append(_candidate("Kyurem fusion item hideout", ref, 0.74, 0.86, "theme"))
+        cryptic.append("fusion-item hideout")
+    if by_kind.get("hisui_subregion_site"):
+        fact = by_kind["hisui_subregion_site"][0]
+        ref = str(fact.get("evidence_ref") or "lead")
+        area = str(fact.get("area") or "").strip()
+        if area:
+            candidates.append(_candidate(f"{area} area", ref, 0.74, 0.84, "theme"))
+    if by_kind.get("mountain_site"):
+        fact = by_kind["mountain_site"][0]
+        ref = str(fact.get("evidence_ref") or "lead")
+        mountain = str(fact.get("mountain") or "").strip()
+        if mountain:
+            candidates.append(_candidate(f"Site on {mountain}", ref, 0.78, 0.88, "theme"))
+    if by_kind.get("contest_venue"):
+        ref = str(by_kind["contest_venue"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Building where Pokemon Contests are held", ref, 0.8, 0.9, "theme"))
+        candidates.append(_candidate("Pokemon Contest venue", ref, 0.74, 0.86, "theme"))
+        cryptic.append("contest venue")
+    if by_kind.get("contest_workplace"):
+        ref = str(by_kind["contest_workplace"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Workplace of Contest judges", ref, 0.76, 0.86, "theme"))
     if by_kind.get("legendary_rest"):
         ref = str(by_kind["legendary_rest"][0].get("evidence_ref") or "lead")
         candidates.append(_candidate("Tower where weather legends rest", ref, 0.8, 0.92, "theme"))
@@ -946,6 +1139,19 @@ def _location_payload(facts: list[dict[str, Any]]) -> dict[str, Any]:
         kind = str(location_kind[0].get("location_kind") or "landmark")
         region = str(by_kind["region"][0].get("region") or "").title()
         ref = str(location_kind[0].get("evidence_ref") or "lead")
+        if kind == "gate":
+            candidates.append(_candidate(f"{region} route connector", ref, 0.64, 0.8, "taxonomy"))
+            candidates.append(_candidate(f"Connector gate in {region}", ref, 0.62, 0.78, "taxonomy"))
+        if kind == "meadow":
+            candidates.append(_candidate(f"{region} meadow", ref, 0.62, 0.78, "taxonomy"))
+        if kind == "plaza":
+            candidates.append(_candidate(f"{region} plaza", ref, 0.62, 0.78, "taxonomy"))
+        if kind == "biome":
+            candidates.append(_candidate(f"{region} biome", ref, 0.64, 0.8, "taxonomy"))
+        if kind == "pool":
+            candidates.append(_candidate(f"{region} pool landmark", ref, 0.64, 0.8, "taxonomy"))
+        if kind == "pass":
+            candidates.append(_candidate(f"{region} mountain pass", ref, 0.66, 0.82, "taxonomy"))
         candidates.append(_candidate(f"{region} {kind}", ref, 0.52, 0.7, "taxonomy"))
         candidates.append(_candidate(f"Regional {kind}", ref, 0.44, 0.62, "taxonomy"))
         candidates.append(_candidate(f"{kind.title()} in {region}", ref, 0.42, 0.66, "taxonomy"))
@@ -1017,6 +1223,140 @@ def _ability_payload(facts: list[dict[str, Any]]) -> dict[str, Any]:
         if "raise" in lowered and "power" in lowered:
             candidates.append(_candidate("Boosts move power after typing shift", ref, 0.68, 0.76, "effect"))
             risk_flags.append("effect_paraphrase")
+    if by_kind.get("signature_holder"):
+        fact = by_kind["signature_holder"][0]
+        holder = str(fact.get("holder_species") or "").strip()
+        ref = str(fact.get("evidence_ref") or "lead")
+        if holder:
+            candidates.append(_candidate(f"{holder}'s signature Ability", ref, 0.74, 0.88, "theme"))
+    if by_kind.get("berry_consume_heal"):
+        ref = str(by_kind["berry_consume_heal"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Restores HP after a Berry", ref, 0.8, 0.9, "effect"))
+        candidates.append(_candidate("Berry-eating heal trait", ref, 0.72, 0.84, "effect"))
+        candidates.append(_candidate("Heals when it consumes a Berry", ref, 0.76, 0.88, "effect"))
+        cryptic.extend(["berry healer", "berry-fed recovery"])
+        descriptors.append("Berry-healing abilities")
+    if by_kind.get("explosion_block"):
+        ref = str(by_kind["explosion_block"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Prevents Explosion and Self-Destruct", ref, 0.8, 0.92, "effect"))
+        candidates.append(_candidate("Explosion-blocking trait", ref, 0.72, 0.84, "effect"))
+        candidates.append(_candidate("Stops self-destructing moves", ref, 0.74, 0.88, "effect"))
+        cryptic.extend(["explosion blocker", "blast stopper"])
+        descriptors.append("Explosion-blocking abilities")
+    if by_kind.get("hit_type_change"):
+        ref = str(by_kind["hit_type_change"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Changes type when hit", ref, 0.8, 0.88, "effect"))
+        candidates.append(_candidate("Becomes the attack's type", ref, 0.74, 0.86, "effect"))
+        candidates.append(_candidate("Hit-triggered type shift", ref, 0.7, 0.82, "effect"))
+        cryptic.extend(["type shift", "reactive typing"])
+        descriptors.append("Type-shifting abilities")
+    if by_kind.get("poison_any_type"):
+        ref = str(by_kind["poison_any_type"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Lets poison affect Steel-types", ref, 0.82, 0.9, "effect"))
+        candidates.append(_candidate("Poisons even Poison foes", ref, 0.74, 0.86, "effect"))
+        candidates.append(_candidate("Bypasses poison immunity", ref, 0.72, 0.84, "effect"))
+        cryptic.extend(["poison immunity breaker", "toxin bypass"])
+        descriptors.append("Poison-bypassing abilities")
+    if by_kind.get("global_speed_drop_on_hit"):
+        ref = str(by_kind["global_speed_drop_on_hit"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Drops everyone else's Speed when hit", ref, 0.82, 0.9, "effect"))
+        candidates.append(_candidate("Hit-triggered Speed drop", ref, 0.74, 0.86, "effect"))
+        candidates.append(_candidate("Slows the whole field after contact", ref, 0.7, 0.82, "effect"))
+        cryptic.extend(["fieldwide slowdown", "speed-dropping fluff"])
+        descriptors.append("Field-slowing abilities")
+    if by_kind.get("berry_repeat"):
+        ref = str(by_kind["berry_repeat"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Makes a Berry trigger twice", ref, 0.82, 0.9, "effect"))
+        candidates.append(_candidate("Re-chews a Berry next turn", ref, 0.74, 0.86, "effect"))
+        candidates.append(_candidate("Double-Berry trait", ref, 0.68, 0.82, "effect"))
+        cryptic.extend(["double berry", "second chew"])
+        descriptors.append("Berry-repeating abilities")
+    if by_kind.get("field_type_aura"):
+        fact = by_kind["field_type_aura"][0]
+        move_type = str(fact.get("move_type") or "typed")
+        ref = str(fact.get("evidence_ref") or "lead")
+        candidates.append(_candidate(f"Boosts all {move_type}-type attacks", ref, 0.8, 0.9, "effect"))
+        candidates.append(_candidate(f"Fieldwide {move_type} aura", ref, 0.74, 0.86, "effect"))
+        candidates.append(_candidate(f"Empowers everyone's {move_type} moves", ref, 0.72, 0.84, "effect"))
+        cryptic.extend([f"{move_type.lower()} aura", "fieldwide aura"])
+        descriptors.append("Aura abilities")
+    if by_kind.get("strong_winds"):
+        ref = str(by_kind["strong_winds"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Summons strong winds", ref, 0.8, 0.9, "effect"))
+        candidates.append(_candidate("Creates a unique weather state", ref, 0.72, 0.84, "effect"))
+        candidates.append(_candidate("Weather of strong winds", ref, 0.68, 0.82, "effect"))
+        cryptic.extend(["strong winds", "stormcaller"])
+        descriptors.append("Weather-setting abilities")
+    if by_kind.get("download_boost"):
+        ref = str(by_kind["download_boost"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Raises Attack or Sp. Atk on entry", ref, 0.8, 0.9, "effect"))
+        candidates.append(_candidate("Reads the foe's weaker defense", ref, 0.74, 0.86, "effect"))
+        candidates.append(_candidate("Entry boost based on enemy defenses", ref, 0.7, 0.84, "effect"))
+        cryptic.extend(["defense reader", "adaptive entry boost"])
+        descriptors.append("Entry-boosting abilities")
+    if by_kind.get("rain_summon"):
+        ref = str(by_kind["rain_summon"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Summons rain on entry", ref, 0.8, 0.9, "effect"))
+        candidates.append(_candidate("Automatic rainmaker", ref, 0.74, 0.84, "effect"))
+        candidates.append(_candidate("Rain Dance on switch-in", ref, 0.72, 0.84, "effect"))
+        cryptic.extend(["rainmaker", "entry rain"])
+        descriptors.append("Rain abilities")
+    if by_kind.get("typed_heal_immunity"):
+        fact = by_kind["typed_heal_immunity"][0]
+        move_type = str(fact.get("move_type") or "typed")
+        ref = str(fact.get("evidence_ref") or "lead")
+        candidates.append(_candidate(f"Heals from {move_type}-type moves", ref, 0.82, 0.9, "effect"))
+        candidates.append(_candidate(f"{move_type}-immunity that restores HP", ref, 0.74, 0.88, "effect"))
+        candidates.append(_candidate(f"Recovers when struck by {move_type}", ref, 0.7, 0.84, "effect"))
+        cryptic.extend([f"{move_type.lower()} eater", f"{move_type.lower()} heal"])
+        descriptors.append(f"{move_type} healing abilities")
+    if by_kind.get("typed_immunity_power_up"):
+        fact = by_kind["typed_immunity_power_up"][0]
+        ref = str(fact.get("evidence_ref") or "lead")
+        defense_type = str(fact.get("defense_type") or "typed")
+        boost_type = str(fact.get("boost_type") or defense_type)
+        candidates.append(_candidate(f"Absorbs {defense_type}-type moves", ref, 0.82, 0.9, "effect"))
+        candidates.append(_candidate(f"Boosts {boost_type}-type moves after a {defense_type} hit", ref, 0.76, 0.88, "effect"))
+        candidates.append(_candidate(f"{defense_type}-absorbing power-up trait", ref, 0.7, 0.84, "effect"))
+        cryptic.extend([f"{defense_type.lower()} absorber", f"{boost_type.lower()} booster"])
+        descriptors.append("Absorbing abilities")
+    if by_kind.get("berry_restore"):
+        ref = str(by_kind["berry_restore"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("May restore a used Berry", ref, 0.8, 0.9, "effect"))
+        candidates.append(_candidate("Berry-regrowing trait", ref, 0.72, 0.84, "effect"))
+        cryptic.extend(["berry restore", "harvest trait"])
+        descriptors.append("Berry-restoring abilities")
+    if by_kind.get("rain_status_cure"):
+        ref = str(by_kind["rain_status_cure"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Cures status in rain", ref, 0.8, 0.9, "effect"))
+        candidates.append(_candidate("Rain-washing ailment trait", ref, 0.72, 0.84, "effect"))
+        cryptic.extend(["rain cure", "storm cleanse"])
+        descriptors.append("Rain-linked abilities")
+    if by_kind.get("ally_damage_reduce"):
+        ref = str(by_kind["ally_damage_reduce"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Reduces damage taken by allies", ref, 0.8, 0.9, "effect"))
+        candidates.append(_candidate("Protective ally-screen trait", ref, 0.72, 0.84, "effect"))
+        cryptic.extend(["ally guard", "teammate protector"])
+        descriptors.append("Ally-protecting abilities")
+    if by_kind.get("foe_item_reveal"):
+        ref = str(by_kind["foe_item_reveal"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Reveals the foe's held item on entry", ref, 0.82, 0.9, "effect"))
+        candidates.append(_candidate("Item-sniffing switch-in trait", ref, 0.72, 0.84, "effect"))
+        cryptic.extend(["item reveal", "item sniffer"])
+        descriptors.append("Scouting abilities")
+    if by_kind.get("weight_double"):
+        ref = str(by_kind["weight_double"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Doubles the user's weight", ref, 0.8, 0.88, "effect"))
+        candidates.append(_candidate("Weight-doubling trait", ref, 0.72, 0.82, "effect"))
+        cryptic.extend(["heavy body", "weight booster"])
+        descriptors.append("Weight-changing abilities")
+    if by_kind.get("sleep_halve"):
+        ref = str(by_kind["sleep_halve"][0].get("evidence_ref") or "lead")
+        candidates.append(_candidate("Halves sleep duration", ref, 0.8, 0.88, "effect"))
+        candidates.append(_candidate("Wakes up unusually fast", ref, 0.72, 0.82, "effect"))
+        candidates.append(_candidate("Quick-waking trait", ref, 0.68, 0.8, "effect"))
+        cryptic.extend(["fast sleeper", "quick waking"])
+        descriptors.append("Sleep-shortening abilities")
     if by_kind.get("sleep_punish"):
         ref = str(by_kind["sleep_punish"][0].get("evidence_ref") or "lead")
         candidates.append(_candidate("Damages sleeping foes", ref, 0.78, 0.86, "effect"))

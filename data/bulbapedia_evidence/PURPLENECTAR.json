@@ -3,7 +3,7 @@
   "answerDisplay": "PURPLE NECTAR",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Purple Nectar",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Purple_Nectar",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] When used from the Bag on an Oricorio , it changes it to Sensu Style . It can only be used outside of battle. It is consumed after use."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods S M US UM Poni Meadow (×2, daily) S V Delibird Presents (after earning 3 Gym Badges )"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Purple Nectar",
     "Purple-Nectar (item)"
   ],
-  "updatedAt": 1773326129
+  "updatedAt": 1774524549
 }

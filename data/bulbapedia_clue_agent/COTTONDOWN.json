@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4070550,
   "evidencePassMode": "second_pass",
   "response": {
@@ -19,6 +19,11 @@
         "specificity": 0.56
       },
       {
+        "text": "Signature Ability of Gossifleur And Eldegoss",
+        "evidence_ref": "lead",
+        "specificity": 0.84
+      },
+      {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] When a Pokemon with this Ability is hit by a damaging move, the Speed of all other Pokemon is decreased by one stage. If a Pokemon with this Ability is hit by a multistrike move (such as Fury Swipes ), each hit activates this Ability. Outside of battle [ edit | edit source ] Cotton Down has no effect outside of battle.",
         "evidence_ref": "Effect",
         "specificity": 0.72
@@ -32,21 +37,53 @@
         "text": "When Ignores moves and abilities that draw in moves.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Drops everyone else's Speed when hit",
+        "evidence_ref": "Effect",
+        "specificity": 0.88
       }
     ],
     "crossword_candidates": [
       {
-        "text": "Gen VIII ability",
+        "text": "Gossifleur And Eldegoss's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
+        "text": "Drops everyone else's Speed when hit",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.82,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Hit-triggered Speed drop",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Slows the whole field after contact",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.7,
+        "specificity_score": 0.82,
+        "style": "effect"
       }
     ],
-    "cryptic_definition_seeds": [],
-    "connections_descriptors": [],
+    "cryptic_definition_seeds": [
+      "fieldwide slowdown",
+      "speed-dropping fluff"
+    ],
+    "connections_descriptors": [
+      "Field-slowing abilities",
+      "Gen VIII abilities"
+    ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774257937
+  "updatedAt": 1774525960
 }

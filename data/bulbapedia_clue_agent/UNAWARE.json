@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4407503,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "This article is about the Ability that involves stat changes. For the Ability with a synonymous meaning, see Oblivious (Ability). Unaware (Japanese: Airhead) is an Ability introduced in Generation IV. Prior to Generation V, it was the signature Ability of Bidoof and Bibarel.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Bidoof And Bibarel",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD T D S Enables the Pokemon to ignore a foe's stat modifications. B S L Conq. Ignores any stat changes in enemy Pokemon. MD GtI Ignores the other Pokemon's stat changes. * The changes to other Pokemon's stats are ignored when the Pokemon attacks or is attacked! * S MD The changes to other Pokemon's stats are ignored when the Pokemon attacks or is attacked!",
@@ -41,33 +46,21 @@
     ],
     "crossword_candidates": [
       {
-        "text": "burning ability",
-        "evidence_ref": "Effect",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "burning ability",
-        "evidence_ref": "In battle",
-        "mystery_score": 0.5,
-        "specificity_score": 0.62,
-        "style": "effect"
-      },
-      {
-        "text": "Gen IV ability",
+        "text": "Bidoof And Bibarel's signature Ability",
         "evidence_ref": "lead",
-        "mystery_score": 0.3,
-        "specificity_score": 0.42,
-        "style": "taxonomy"
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
       }
     ],
-    "cryptic_definition_seeds": [],
+    "cryptic_definition_seeds": [
+      "battle ability"
+    ],
     "connections_descriptors": [
-      "Burning abilities"
+      "Gen IV abilities"
     ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.74
   },
-  "updatedAt": 1774258029
+  "updatedAt": 1774526002
 }

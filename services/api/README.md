@@ -82,6 +82,8 @@ Set reserve controls in `.env`:
 - `SENTRY_RELEASE` backend Sentry release label
 - `SCHEDULER_ENABLED` enable/disable scheduler jobs (`true`/`false`)
 - `PUBLISH_ON_STARTUP` publish today's puzzle once when API boots (`true`/`false`)
+- `DRAFT_GENERATION_ENABLED` enable scheduled next-day draft generation (`true`/`false`)
+- `DRAFT_GENERATION_CRON` cron schedule for next-day draft generation (5-field crontab, default `"0 9 * * *"`, Europe/London)
 - `RESERVE_MIN_COUNT` low-reserve alert threshold (default `5`)
 - `RESERVE_TARGET_COUNT` desired unpublished reserve size per game (default `30`)
 - `RESERVE_TOPUP_INTERVAL_MINUTES` generator cadence (default `60`)
@@ -155,11 +157,12 @@ Base: `/api/v1`
 - `POST /admin/puzzles/{id}/reject`
 
 ## Reserve Generator Worker
-- Scheduler runs reserve top-up periodically when `GENERATOR_ENABLED=true`.
+- Scheduler runs reserve top-up periodically for `connections` when `GENERATOR_ENABLED=true`.
+- Scheduler generates the next day's crossword and cryptic drafts at `09:00` Europe/London by default when `DRAFT_GENERATION_ENABLED=true`, and the existing `draft_ready` webhook fires after both drafts exist.
 - Optional scheduler job can run the PokeAPI snapshot/artifact refresh command when
   `POKEAPI_REFRESH_ENABLED=true`.
-- Crossword reserve loads curated answer/clue rows from `/app/data/wordlist_crossword_answer_clue.csv` (or `CROSSWORD_CSV_PATH` override).
-- Cryptic reserve loads curated answer/clue rows from `/app/cryptic_clues.json` by default, with legacy CSV fallback at `/app/data/wordlist_cryptic_answer_clue.csv`.
+- Crossword draft generation loads its answer inventory from `/app/data/wordlist_crossword_answer_clue.csv` (or `CROSSWORD_CSV_PATH` override).
+- Cryptic draft generation selects answers from `/app/cryptic_clues.json` by default, with legacy CSV fallback at `/app/data/wordlist_cryptic_answer_clue.csv`.
 - `CRYPTIC_CLUES_PATH` can point at either the curated JSON file or the legacy CSV file.
 - Canonical decision record: `/Users/ben.hutchinson/code/pokeleximon/docs/adr/0001-crossword-curated-csv-source.md`.
 - Crossword generation now applies a publishability governance pass (fill ratio, clue uniqueness, intersection density, direction balance, word-length balance, and answer leakage checks) with bounded retries.

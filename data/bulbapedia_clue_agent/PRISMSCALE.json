@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4491673,
   "evidencePassMode": "first_pass",
   "response": {
@@ -37,6 +37,11 @@
         "text": "Evolution item",
         "evidence_ref": "lead",
         "specificity": 0.76
+      },
+      {
+        "text": "Evolves Feebas into Milotic When Traded While Holding It",
+        "evidence_ref": "Effect",
+        "specificity": 0.9
       }
     ],
     "crossword_candidates": [
@@ -67,11 +72,34 @@
         "mystery_score": 0.54,
         "specificity_score": 0.8,
         "style": "family"
+      },
+      {
+        "text": "Evolves Feebas into Milotic When Traded While Holding It",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.8,
+        "specificity_score": 0.92,
+        "style": "effect"
+      },
+      {
+        "text": "Feebas evolution item",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Held item for Milotic When Traded While Holding It",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "effect"
       }
     ],
     "cryptic_definition_seeds": [
       "special ball",
-      "evolution item"
+      "evolution item",
+      "feebas evolution",
+      "milotic when traded while holding it item"
     ],
     "connections_descriptors": [
       "Special Poke Balls",
@@ -81,5 +109,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257996
+  "updatedAt": 1774525988
 }

@@ -3,7 +3,7 @@
   "answerDisplay": "BUG BITE",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Bug Bite (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Bug_Bite_(move)",
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD T D S Inflicts damage on the target. If the enemy has a beneficial food item, such as a Berry, the user steals and eats it, gaining its effect. B S L てきポケモンに ダメージをあたえる あいてが きのみなどを もっていれば それを じぶんに つかう Conq. The user bites the target. If the target is holding an item, the user eats it and gains its effect. MD GtI It damages an enemy. If the enemy has food, you eat it. S MD MD RT DX It damages an enemy. If the enemy is carrying any food, you'll eat it."
-    },
-    {
-      "title": "Trivia",
-      "text": "Trivia [ edit | edit source ] Bug Bite is the only Bug-type Tough move. Despite its name, Bug Bite is not a biting move and does not receive a power boost when used by a Pokémon with Strong Jaw ."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Bug Bite",
     "Bug-Bite (move)"
   ],
-  "updatedAt": 1773321386
+  "updatedAt": 1774524066
 }

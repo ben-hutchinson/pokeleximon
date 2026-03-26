@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4341823,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Mummy (Japanese: Mummy) is an Ability introduced in Generation V. It is the signature Ability of Yamask and Cofagrigus.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Yamask And Cofagrigus",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD GtI Changes the Ability of the Pokemon that hit it with a direct attack to Mummy. * When the Pokemon is hit with a direct attack like Tackle or Scratch, the attacker's Ability becomes Mummy! * S MD When the Pokemon is hit with a contact move like Vine Whip or Iron Tail, the attacker's Ability becomes Mummy!",
@@ -45,6 +50,13 @@
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Yamask And Cofagrigus's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
       {
         "text": "Punishes contact attackers",
         "evidence_ref": "Description",
@@ -78,5 +90,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257980
+  "updatedAt": 1774525982
 }

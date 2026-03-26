@@ -3,12 +3,12 @@
   "answerDisplay": "DRAGON DANCE",
   "sourceType": "move",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Dragon Dance (move)",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Dance_(move)",
   "pageId": 3960,
-  "pageRevisionId": 4474118,
+  "pageRevisionId": 4514081,
   "leadText": "If you were looking for the skill in Pokémon Shuffle, see Skill (Shuffle) → Dancing Dragons. Dragon Dance (Japanese: りゅうのまい Dragon Dance) is a non-damaging Dragon-type move introduced in Generation III. It was TR51 in Pokémon Sword and Shield, and is TM100 in Pokémon Scarlet and Violet.",
   "sections": [
     {
@@ -22,10 +22,6 @@
     {
       "title": "Description",
       "text": "Description [ edit | edit source ] Games Description MD R B Boosts the user's Attack and Movement Speed by one level. MD T D S Boosts the user's Attack and Movement Speed by 1 level. B S L じぶんの こうげき いどうそくどを １だんかいあげる MD GtI It boosts your Attack and Travel Speed. (The stat changes return to normal when you go to the next floor or step on a Wonder Tile.) S MD It boosts your Attack and Travel Speed. The stats return to normal when you go to the next floor or step on a Wonder Tile."
-    },
-    {
-      "title": "Pokédex entries",
-      "text": "Pokédex entries [ edit | edit source ] Episode Subject Source Entry JN010 Dragon Dance Goh's Rotom Phone Dragon Dance, a move that combines concentration and rhythmic movement to increase the physical skills of a Pokémon."
     }
   ],
   "familyPages": [],
@@ -34,5 +30,5 @@
     "Dragon Dance",
     "Dragon-Dance (move)"
   ],
-  "updatedAt": 1773322266
+  "updatedAt": 1774524134
 }

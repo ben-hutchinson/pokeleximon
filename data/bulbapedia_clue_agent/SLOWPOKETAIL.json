@@ -3,39 +3,54 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
-  "evidenceRevisionId": null,
+  "curatorVersion": "local-curator-v23",
+  "evidenceRevisionId": 4491597,
   "evidencePassMode": "second_pass",
   "response": {
     "fact_nuggets": [
+      {
+        "text": "Gen VI item",
+        "evidence_ref": "lead",
+        "specificity": 0.48
+      },
       {
         "text": "unused",
         "evidence_ref": "lead",
         "specificity": 0.62
       },
       {
+        "text": "Gen VI unused",
+        "evidence_ref": "lead",
+        "specificity": 0.54
+      },
+      {
         "text": "A tasty tail that sells for a high price.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Used for berry recipes or blending",
+        "evidence_ref": "Effect",
+        "specificity": 0.82
       }
     ],
     "crossword_candidates": [
       {
-        "text": "unused",
-        "evidence_ref": "lead",
-        "mystery_score": 0.35,
-        "specificity_score": 0.52,
-        "style": "category"
+        "text": "Berry-blending ingredient",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "family"
       }
     ],
     "cryptic_definition_seeds": [
-      "unused"
+      "berry ingredient"
     ],
     "connections_descriptors": [
-      "Unused"
+      "Gen VI items"
     ],
     "risk_flags": [],
-    "confidence": 0.68
+    "confidence": 0.78
   },
-  "updatedAt": 1774258446
+  "updatedAt": 1774525995
 }

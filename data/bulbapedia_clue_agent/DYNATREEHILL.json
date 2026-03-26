@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4395958,
   "evidencePassMode": "second_pass",
   "response": {
@@ -12,9 +12,28 @@
         "text": "Galar location",
         "evidence_ref": "lead",
         "specificity": 0.5
+      },
+      {
+        "text": "Site of the Dyna Tree",
+        "evidence_ref": "Geography",
+        "specificity": 0.9
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Site of the Dyna Tree",
+        "evidence_ref": "Geography",
+        "mystery_score": 0.82,
+        "specificity_score": 0.9,
+        "style": "theme"
+      },
+      {
+        "text": "Hill with a giant Dynamax tree",
+        "evidence_ref": "Geography",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "theme"
+      },
       {
         "text": "Galar landmark",
         "evidence_ref": "lead",
@@ -24,7 +43,7 @@
       }
     ],
     "cryptic_definition_seeds": [
-      "Pokemon location"
+      "dynamax tree site"
     ],
     "connections_descriptors": [
       "Galar landmarks"
@@ -32,5 +51,5 @@
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774257942
+  "updatedAt": 1774525964
 }

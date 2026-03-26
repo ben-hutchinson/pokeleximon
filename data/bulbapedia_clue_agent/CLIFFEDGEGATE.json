@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4380498,
   "evidencePassMode": "second_pass",
   "response": {
@@ -62,6 +62,11 @@
         "text": "urban landmark",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "gate landmark",
+        "evidence_ref": "title",
+        "specificity": 0.68
       }
     ],
     "crossword_candidates": [
@@ -126,5 +131,5 @@
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774257935
+  "updatedAt": 1774525959
 }

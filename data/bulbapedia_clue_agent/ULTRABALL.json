@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4500558,
   "evidencePassMode": "first_pass",
   "response": {
@@ -42,6 +42,11 @@
         "text": "Poor catch rate on most targets",
         "evidence_ref": "Description",
         "specificity": 0.82
+      },
+      {
+        "text": "Used for Kyurem fusion",
+        "evidence_ref": "Description",
+        "specificity": 0.86
       }
     ],
     "crossword_candidates": [
@@ -74,6 +79,20 @@
         "style": "effect"
       },
       {
+        "text": "Used for Kyurem fusion",
+        "evidence_ref": "Description",
+        "mystery_score": 0.82,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Reshiram/Zekrom fusion item",
+        "evidence_ref": "Description",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
         "text": "Poor on most other targets",
         "evidence_ref": "Description",
         "mystery_score": 0.68,
@@ -82,7 +101,8 @@
       }
     ],
     "cryptic_definition_seeds": [
-      "special ball"
+      "special ball",
+      "fusion item"
     ],
     "connections_descriptors": [
       "Special Poke Balls",
@@ -91,5 +111,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774258029
+  "updatedAt": 1774526002
 }

@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4484468,
   "evidencePassMode": "first_pass",
   "response": {
@@ -34,12 +34,31 @@
         "specificity": 0.62
       },
       {
+        "text": "Extends Multiturn",
+        "evidence_ref": "Description",
+        "specificity": 0.86
+      },
+      {
         "text": "Boosts trapping-move damage",
         "evidence_ref": "Description",
         "specificity": 0.86
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Extends multiturn",
+        "evidence_ref": "Description",
+        "mystery_score": 0.78,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "Multiturn lengthener",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
       {
         "text": "Boosts trapping-move damage",
         "evidence_ref": "Description",
@@ -70,6 +89,7 @@
       }
     ],
     "cryptic_definition_seeds": [
+      "multiturn extender",
       "trap booster"
     ],
     "connections_descriptors": [
@@ -79,5 +99,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774257953
+  "updatedAt": 1774525970
 }

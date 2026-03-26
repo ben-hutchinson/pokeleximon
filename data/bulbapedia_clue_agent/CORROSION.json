@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4240013,
   "evidencePassMode": "second_pass",
   "response": {
@@ -19,6 +19,11 @@
         "specificity": 0.56
       },
       {
+        "text": "Signature Ability of Salandit And Salazzle",
+        "evidence_ref": "lead",
+        "specificity": 0.84
+      },
+      {
         "text": "Effect [ edit | edit source ] In battle [ edit | edit source ] This Ability effect may be in need of research. Reason: - does Corrosion + G-Max Stun Shock still do 50%-50% between paralyze/poison on both Steel and Poison opponents You can discuss this on the talk page. Corrosion allows the user to inflict poison on Pokemon regardless of type, allowing them to poison Poison - and Steel-type Pokemon. (It has no effect on Steel-type Pokemon's immunity to Poison-type damaging moves.) A Pokemon with Corrosion can poison Poison- and Steel-type Pokemon if it uses Baneful Bunker , Psycho Shift while poisoned, or Fling while holding a Toxic Orb or a Poison Barb . If a Pokemon with Corrosion uses G-Max Malodor , it can poison Pokemon on the target's side of the field even if they are Poison- or Steel-type (despite Steel-type Pokemon being immune to Poison-type moves). [ 1 ] If a Poison- or Steel-type Pokemon with Corrosion holds a Toxic Orb , it will badly poison itself. Corrosion cannot bypass moves or Abilities that prevent poisoning, such as Safeguard or Immunity . This Ability has no effect on Toxic Spikes . If the Pokemon with this Ability uses Magic Coat to reflect a status move that inflicts poison, the reflected move will be able to poison Poison- or Steel-type Pokemon. Conversely, moves used by a Pokemon with Corrosion that are reflected by Magic Coat or Magic Bounce will not be able to poison Poison- or Steel-type Pokemon. If a Poison- or Steel-type Pokemon with this Ability poisons a target with Synchronize , Synchronize does not gain the ability to poison Poison- or Steel-type Pokemon. Outside of battle [ edit | edit source ] Corrosion has no effect outside of battle. https://www.smogon.com/forums/threads/sword-shield-battle-mechanics-research.3655528/page-45#post-8440929",
         "evidence_ref": "Effect",
         "specificity": 0.72
@@ -32,6 +37,11 @@
         "text": "This Pokemon can inflict poison on Poison and Steel Pokemon.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Lets poison affect Steel and Poison foes",
+        "evidence_ref": "Effect",
+        "specificity": 0.88
       }
     ],
     "crossword_candidates": [
@@ -41,17 +51,48 @@
         "mystery_score": 0.56,
         "specificity_score": 0.66,
         "style": "effect"
+      },
+      {
+        "text": "Salandit And Salazzle's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
+      {
+        "text": "Lets poison affect Steel-types",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.82,
+        "specificity_score": 0.9,
+        "style": "effect"
+      },
+      {
+        "text": "Poisons even Poison foes",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.74,
+        "specificity_score": 0.86,
+        "style": "effect"
+      },
+      {
+        "text": "Bypasses poison immunity",
+        "evidence_ref": "Effect",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
       }
     ],
     "cryptic_definition_seeds": [
-      "poisoning trait"
+      "poisoning trait",
+      "poison immunity breaker",
+      "toxin bypass"
     ],
     "connections_descriptors": [
       "Poisoning abilities",
+      "Poison-bypassing abilities",
       "Gen VII abilities"
     ],
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257937
+  "updatedAt": 1774525960
 }

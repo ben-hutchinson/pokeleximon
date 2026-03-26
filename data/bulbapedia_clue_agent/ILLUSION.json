@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4471389,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Illusion (Japanese: Illusion) is an Ability introduced in Generation V. It is the signature Ability of Zorua, Zoroark, and their Hisuian forms.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Zorua",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description Conq. Appears disguised as an allied Pokemon. MD GtI Appears disguised as a different foe. This Ability has no effect for the Pokemon or a teammate. * The Pokemon appears disguised as a different foe! This Ability doesn't do anything when * S MD The Pokemon appears disguised as a strong enemy and actually becomes a little bit stronger! If an enemy Pokemon uses it, it disguises itself as another enemy Pokemon!",
@@ -50,6 +55,13 @@
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Zorua's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
       {
         "text": "Status-blocking trait",
         "evidence_ref": "lead",
@@ -91,5 +103,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257956
+  "updatedAt": 1774525973
 }

@@ -3,9 +3,9 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4484456,
-  "evidencePassMode": "first_pass",
+  "evidencePassMode": "second_pass",
   "response": {
     "fact_nuggets": [
       {
@@ -32,9 +32,28 @@
         "text": "Held: Sandstorm by the holder lasts 8 rounds instead of 5.",
         "evidence_ref": "lead",
         "specificity": 0.62
+      },
+      {
+        "text": "Extends The",
+        "evidence_ref": "Description",
+        "specificity": 0.86
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Extends the",
+        "evidence_ref": "Description",
+        "mystery_score": 0.78,
+        "specificity_score": 0.88,
+        "style": "effect"
+      },
+      {
+        "text": "The lengthener",
+        "evidence_ref": "Description",
+        "mystery_score": 0.72,
+        "specificity_score": 0.84,
+        "style": "effect"
+      },
       {
         "text": "Held battle item",
         "evidence_ref": "Description",
@@ -44,7 +63,7 @@
       }
     ],
     "cryptic_definition_seeds": [
-      "battle item"
+      "the extender"
     ],
     "connections_descriptors": [
       "Held battle items",
@@ -53,5 +72,5 @@
     "risk_flags": [],
     "confidence": 0.78
   },
-  "updatedAt": 1774258015
+  "updatedAt": 1774525996
 }

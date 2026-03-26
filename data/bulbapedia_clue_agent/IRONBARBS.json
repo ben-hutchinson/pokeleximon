@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4514028,
   "evidencePassMode": "second_pass",
   "response": {
@@ -17,6 +17,11 @@
         "text": "Iron Barbs (Japanese: Iron Thorns) is an Ability introduced in Generation V. Prior to Generation VII, it was the signature Ability of Ferroseed and Ferrothorn.",
         "evidence_ref": "lead",
         "specificity": 0.56
+      },
+      {
+        "text": "Signature Ability of Ferroseed And Ferrothorn",
+        "evidence_ref": "lead",
+        "specificity": 0.84
       },
       {
         "text": "Description [ edit | edit source ] Games Description MD GtI Unavailable S MD When the Pokemon is hit with a contact move like Tackle or Scratch, the attacker is damaged a little!",
@@ -45,6 +50,13 @@
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Ferroseed And Ferrothorn's signature Ability",
+        "evidence_ref": "lead",
+        "mystery_score": 0.74,
+        "specificity_score": 0.88,
+        "style": "theme"
+      },
       {
         "text": "Punishes contact attackers",
         "evidence_ref": "Description",
@@ -78,5 +90,5 @@
     "risk_flags": [],
     "confidence": 0.74
   },
-  "updatedAt": 1774257957
+  "updatedAt": 1774525974
 }

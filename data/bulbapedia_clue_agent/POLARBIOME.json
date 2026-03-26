@@ -3,7 +3,7 @@
   "status": "ok",
   "schemaValid": true,
   "mode": "local",
-  "curatorVersion": "local-curator-v20",
+  "curatorVersion": "local-curator-v23",
   "evidenceRevisionId": 4419747,
   "evidencePassMode": "second_pass",
   "response": {
@@ -12,14 +12,59 @@
         "text": "Paldea location",
         "evidence_ref": "lead",
         "specificity": 0.5
+      },
+      {
+        "text": "Located in The Unova Region'S Blueberry Academy",
+        "evidence_ref": "lead",
+        "specificity": 0.78
+      },
+      {
+        "text": "biome landmark",
+        "evidence_ref": "title",
+        "specificity": 0.68
       }
     ],
     "crossword_candidates": [
+      {
+        "text": "Located in The Unova Region'S Blueberry Academy",
+        "evidence_ref": "lead",
+        "mystery_score": 0.68,
+        "specificity_score": 0.82,
+        "style": "theme"
+      },
       {
         "text": "Paldea landmark",
         "evidence_ref": "lead",
         "mystery_score": 0.38,
         "specificity_score": 0.5,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Paldea biome",
+        "evidence_ref": "title",
+        "mystery_score": 0.64,
+        "specificity_score": 0.8,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Paldea biome",
+        "evidence_ref": "title",
+        "mystery_score": 0.52,
+        "specificity_score": 0.7,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Regional biome",
+        "evidence_ref": "title",
+        "mystery_score": 0.44,
+        "specificity_score": 0.62,
+        "style": "taxonomy"
+      },
+      {
+        "text": "Biome in Paldea",
+        "evidence_ref": "title",
+        "mystery_score": 0.42,
+        "specificity_score": 0.66,
         "style": "taxonomy"
       }
     ],
@@ -27,10 +72,11 @@
       "Pokemon location"
     ],
     "connections_descriptors": [
-      "Paldea landmarks"
+      "Paldea landmarks",
+      "Paldea biomes"
     ],
     "risk_flags": [],
     "confidence": 0.77
   },
-  "updatedAt": 1774257994
+  "updatedAt": 1774525987
 }

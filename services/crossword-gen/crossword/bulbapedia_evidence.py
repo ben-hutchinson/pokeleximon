@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+from itertools import product
 import re
 import time
 from html import unescape
@@ -71,6 +72,29 @@ def _slug_to_title_hyphen(slug: str) -> str:
     return "-".join(part.capitalize() for part in str(slug or "").replace("_", "-").split("-") if part)
 
 
+def _slug_title_variants(slug: str) -> list[str]:
+    parts = [part for part in str(slug or "").replace("_", "-").split("-") if part]
+    if not parts:
+        return []
+    if len(parts) == 1:
+        return [parts[0].capitalize()]
+
+    variants: list[str] = []
+    normalized_parts = [part.capitalize() for part in parts]
+    separator_sets = [(" ", "-")] * (len(normalized_parts) - 1)
+    if len(normalized_parts) > 5:
+        separator_combos = [tuple(" " for _ in separator_sets), tuple("-" for _ in separator_sets)]
+    else:
+        separator_combos = product(*separator_sets)
+
+    for separators in separator_combos:
+        text = normalized_parts[0]
+        for separator, part in zip(separators, normalized_parts[1:]):
+            text += separator + part
+        variants.append(text)
+    return variants
+
+
 def _generation_display_name(raw: str) -> str:
     slug = str(raw or "").strip().lower()
     if not slug.startswith("generation-"):
@@ -79,15 +103,125 @@ def _generation_display_name(raw: str) -> str:
     return f"Gen {suffix}"
 
 
+def _strip_parenthetical_suffix(value: str) -> str:
+    return re.sub(r"\s*\([^)]*\)\s*$", "", _clean_text(value)).strip()
+
+
+def _title_search_queries(answer_display: str, source_type: str, canonical_slug: str | None, direct_candidates: list[str]) -> list[str]:
+    queries: list[str] = []
+    source_label = {
+        "pokemon-species": "Pokemon",
+        "move": "move",
+        "ability": "Ability",
+        "item": "item",
+        "location": "location",
+        "location-area": "location",
+        "type": "type",
+    }.get(source_type, "")
+    for candidate in direct_candidates:
+        queries.append(candidate)
+        if source_label:
+            queries.append(f"{_strip_parenthetical_suffix(candidate)} {source_label}")
+
+    if canonical_slug:
+        slug_space = _slug_to_title_space(canonical_slug)
+        if slug_space:
+            queries.append(slug_space)
+            if source_label:
+                queries.append(f"{slug_space} {source_label}")
+
+    # Legends: Arceus capture-ball answers are stored with an "LA" prefix in the wordlist.
+    if source_type == "item":
+        tokens = _clean_text(answer_display).split()
+        if len(tokens) >= 2 and tokens[-1].lower() == "ball" and tokens[0].lower().startswith("la") and len(tokens[0]) > 2:
+            alias = " ".join([tokens[0][2:], *tokens[1:]])
+            queries.append(alias)
+            if source_label:
+                queries.append(f"{alias} {source_label}")
+
+    out: list[str] = []
+    seen: set[str] = set()
+    for query in queries:
+        cleaned = _clean_text(query)
+        lowered = cleaned.lower()
+        if cleaned and lowered not in seen:
+            seen.add(lowered)
+            out.append(cleaned)
+    return out
+
+
+def _accepted_search_keys(answer_display: str, canonical_slug: str | None, source_type: str) -> set[str]:
+    keys = {
+        _normalize_answer(answer_display),
+        _normalize_answer(_slug_to_title_space(canonical_slug or "")),
+        _normalize_answer(_slug_to_title_hyphen(canonical_slug or "")),
+    }
+    for value in _slug_title_variants(canonical_slug or ""):
+        keys.add(_normalize_answer(value))
+
+    if source_type == "item":
+        tokens = _clean_text(answer_display).split()
+        if len(tokens) >= 2 and tokens[-1].lower() == "ball" and tokens[0].lower().startswith("la") and len(tokens[0]) > 2:
+            keys.add(_normalize_answer(" ".join([tokens[0][2:], *tokens[1:]])))
+    return {key for key in keys if key}
+
+
+def _cached_requires_refetch(
+    payload: dict[str, Any],
+    *,
+    answer_display: str,
+    canonical_slug: str | None,
+    source_type: str,
+) -> bool:
+    if str(payload.get("status") or "") != "ok":
+        return False
+    cached_title_key = _normalize_answer(_strip_parenthetical_suffix(str(payload.get("pageTitle") or "")))
+    if cached_title_key and cached_title_key not in _accepted_search_keys(answer_display, canonical_slug, source_type):
+        return True
+    lead = str(payload.get("leadText") or "").lower()
+    if source_type in {"pokemon-species", "ability", "item"} and any(
+        marker in lead for marker in ("has several referrals", "redirects here", "if you were looking for")
+    ):
+        if "(" not in str(payload.get("pageTitle") or ""):
+            return True
+    return False
+
+
+def search_page_titles(query: str, timeout_seconds: float) -> list[str]:
+    payload = _get_json(
+        {
+            "action": "query",
+            "format": "json",
+            "list": "search",
+            "srsearch": query,
+            "srlimit": 5,
+        },
+        timeout_seconds=timeout_seconds,
+    )
+    if not isinstance(payload, dict):
+        return []
+    results = payload.get("query", {}).get("search")
+    if not isinstance(results, list):
+        return []
+    out: list[str] = []
+    seen: set[str] = set()
+    for row in results:
+        if not isinstance(row, dict):
+            continue
+        title = _clean_text(str(row.get("title") or ""))
+        lowered = title.lower()
+        if title and lowered not in seen:
+            seen.add(lowered)
+            out.append(title)
+    return out
+
+
 def title_candidates(answer_display: str, source_type: str, canonical_slug: str | None) -> list[str]:
     base_answer = " ".join(part.capitalize() for part in str(answer_display or "").split() if part)
     slug_space = _slug_to_title_space(canonical_slug or "")
     slug_hyphen = _slug_to_title_hyphen(canonical_slug or "")
-    candidates: list[str] = []
-    for item in (slug_hyphen, slug_space, base_answer):
-        if item:
-            candidates.append(item)
     base = slug_hyphen or slug_space or base_answer
+    candidates: list[str] = []
     if base:
         if source_type == "pokemon-species":
             candidates.extend([f"{base} (Pokemon)", f"{base} (Pokémon)", f"{base} (species)"])
@@ -101,6 +235,9 @@ def title_candidates(answer_display: str, source_type: str, canonical_slug: str 
             candidates.append(f"{base} (location)")
         elif source_type == "type":
             candidates.extend([f"{base} (type)", f"{base} type"])
+    for item in [*(_slug_title_variants(canonical_slug or "")), slug_hyphen, slug_space, base_answer]:
+        if item:
+            candidates.append(item)
     out: list[str] = []
     seen: set[str] = set()
     for item in candidates:
@@ -304,7 +441,12 @@ def fetch_bulbapedia_evidence(
     second_pass: bool = False,
 ) -> dict[str, Any]:
     cached = load_cached_evidence(cache_dir, answer_key, second_pass=second_pass)
-    if cached is not None:
+    if cached is not None and not _cached_requires_refetch(
+        cached,
+        answer_display=answer_display,
+        canonical_slug=canonical_slug,
+        source_type=source_type,
+    ):
         return cached
     if cache_only:
         return {
@@ -327,6 +469,21 @@ def fetch_bulbapedia_evidence(
             break
         if request_delay_seconds > 0:
             time.sleep(request_delay_seconds)
+
+    if not metadata or not title:
+        accepted_keys = _accepted_search_keys(answer_display, canonical_slug, source_type)
+        for query in _title_search_queries(answer_display, source_type, canonical_slug, candidates):
+            for matched_title in search_page_titles(query, timeout_seconds):
+                if _normalize_answer(_strip_parenthetical_suffix(matched_title)) not in accepted_keys:
+                    continue
+                metadata = resolve_page_metadata(matched_title, timeout_seconds)
+                if metadata:
+                    title = str(metadata.get("title") or matched_title)
+                    break
+                if request_delay_seconds > 0:
+                    time.sleep(request_delay_seconds)
+            if metadata and title:
+                break
 
     if not metadata or not title:
         payload = {

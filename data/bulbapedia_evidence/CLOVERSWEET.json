@@ -3,7 +3,7 @@
   "answerDisplay": "CLOVER SWEET",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Clover Sweet",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Clover_Sweet",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Causes Milcery to evolve into Alcremie with a Clover Sweet when the player does a spin while Milcery is holding it. This consumes the Clover Sweet."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods Sw Sh Battle Café Dropped by Gigantamax Factor Milcery ( Wild Area News January 30 - February 16, 2020) Sw Sh IA Cram-o-matic ( Fairy : 92-100 points) * Sw Sh CT Snowslide Slope Watt Trader (Highlight Item, 7,980 W ) S V ID Coastal Biome Item Printer Distribution [ edit | edit source ] Games Event Language/Region Distribution period Sw Sh Pokémon Center Alcremie Sweets Japan November 1, 2021 to October 31, 2022"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Clover Sweet",
     "Clover-Sweet (item)"
   ],
-  "updatedAt": 1773321764
+  "updatedAt": 1774524092
 }

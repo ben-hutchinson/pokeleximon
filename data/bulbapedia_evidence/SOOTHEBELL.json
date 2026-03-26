@@ -3,7 +3,7 @@
   "answerDisplay": "SOOTHE BELL",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Soothe Bell",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Soothe_Bell",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] When held by a Pokémon, increases to that Pokémon's friendship are increased by 50%. Generation III [ edit | edit source ] The Soothe Bell increases only the original friendship boost, not bonuses from the Luxury Ball and met location. Generation IV onward [ edit | edit source ] The Soothe Bell increases the friendship boost after applying bonuses from the Luxury Ball and met location."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods R S E Slateport City Pokémon Fan Club Colo Trade FR LG Pokémon Tower XD ONBS D P Pt Eterna Forest Pt , Pokémon Mansion HG SS National Park Olivine Gym (held by in-game trade Steelix ) B W B2 W2 Nimbasa City X Y Shalour City OR AS Slateport City Pokémon Fan Club S M US UM Route 3 Battle Royal Dome (48 BP ) Sw Sh Hammerlocke Sw Sh CT Old Cemetery BD SP Pokémon Mansion S V Mesagoza Delibird Presents ZA Reward for completing Side Mission 036: Some Friendly Competition Distribution [ edit | edit source ] Games Event Language/Region Distribution period S V Luxury Balls and Soothe Bell United Kingdom, Hong Kong, Taiwan November 18, 2022 to March 7, 2023 PokéDoko Eevee Evolution items All July 14 to September 30, 2024 As a held item [ edit | edit source ] Games Event Language/Region Distribution period R S Baby & Trade Week Azurill United States July 31 to August 6, 2004 D P Concert Chatot Japanese October 28 to December 10, 2006 D P Pt HG SS Kyoto Cross Media Experience 2009 Pikachu Japanese October 3 to 4, 2009 Times Square Shaymin Korean May 1 to 2, 2010 B W Pokémon Searcher BW Axew Japanese March 19 to April 3, 2011 W April 29 to May 8, 2011 B B W B2 W2 Pokémon Center Tohoku Victini Japanese November 25, 2012 to January 6, 2013"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Soothe Bell",
     "Soothe-Bell (item)"
   ],
-  "updatedAt": 1773327386
+  "updatedAt": 1774524722
 }

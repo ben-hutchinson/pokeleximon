@@ -3,7 +3,7 @@
   "answerDisplay": "DARK GEM",
   "sourceType": "item",
   "evidenceVersion": "bulbapedia-evidence-v3",
-  "passMode": "first_pass",
+  "passMode": "second_pass",
   "status": "ok",
   "pageTitle": "Dark Gem",
   "pageUrl": "https://bulbapedia.bulbagarden.net/wiki/Dark_Gem",
@@ -14,6 +14,10 @@
     {
       "title": "Effect",
       "text": "Effect [ edit | edit source ] Generation V [ edit | edit source ] When held by a Pokémon, it increases the power of the first Dark-type move used by 50%, and is consumed after use. Fling will fail if the user is holding a Dark Gem. Generation VI onward [ edit | edit source ] When held by a Pokémon, it increases the power of the first Dark-type move used by 30%, and is consumed after use."
+    },
+    {
+      "title": "Acquisition",
+      "text": "Acquisition [ edit | edit source ] Games Finite methods Repeatable methods B W Event Dust cloud B2 W2 Route 9 Dust cloud ( Chargestone Cave , Mistralton Cave , Clay Tunnel , Twist Mountain , Underground Ruins , Victory Road , Wellspring Cave , Seaside Cave , Giant Chasm ) DW * Icy Cave Distribution [ edit | edit source ] As a held item [ edit | edit source ] Games Event Language/Region Distribution period B W B2 W2 Se Jun's Liepard Korean August 31 to September 1, 2013"
     },
     {
       "title": "Description",
@@ -30,5 +34,5 @@
     "Dark Gem",
     "Dark-Gem (item)"
   ],
-  "updatedAt": 1773322021
+  "updatedAt": 1774524111
 }
